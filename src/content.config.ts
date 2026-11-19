@@ -21,7 +21,8 @@ const scriptOverrides = z
   .optional();
 
 const names = defineCollection({
-  loader: glob({ pattern: '*.json', base: './content/names' }),
+  // Key each entry by its file name (0208), not by its slug: two names may share a slug.
+  loader: glob({ pattern: '*.json', base: './content/names', generateId: ({ entry }) => entry.replace(/\.json$/, '') }),
   schema: z
     .object({
       number: z.number().int().min(1).max(1000),
