@@ -1,0 +1,44 @@
+{
+  "number": 918,
+  "verse": 170,
+  "slug": "chaitanyarghya-samaradhya",
+  "devanagari": "चैतन्यार्घ्यसमाराध्या",
+  "iastSplit": "Caitanyārghya-samārādhyā",
+  "archana": "ॐ चैतन्यार्घ्यसमाराध्यायै नमः",
+  "syllables": ["cai", "tan", "yār", "ghya", "sa", "mā", "rādh", "yā"],
+  "words": [
+    { "sa": "चैतन्य", "meaning": { "en": "consciousness", "hi": "चैतन्य, चेतना" } },
+    { "sa": "अर्घ्य", "meaning": { "en": "water offered in worship", "hi": "अर्घ्य, पूजा में अर्पित जल" } },
+    { "sa": "समाराध्य", "meaning": { "en": "to be fully worshipped", "hi": "भली-भाँति आराधनीय" } }
+  ],
+  "meaning": {
+    "en": "Worshipped with consciousness itself as the offering of water",
+    "hi": "जिनकी आराधना चैतन्य रूपी अर्घ्य से होती है"
+  },
+  "explanation": {
+    "en": "Arghya is the water offered to a deity in worship. Here the offering is caitanya, consciousness itself. She is fully worshipped when the worshipper offers not water but awareness.",
+    "hi": "अर्घ्य वह जल है जो पूजा में देवता को अर्पित किया जाता है। यहाँ अर्पण है चैतन्य, स्वयं चेतना। उनकी पूर्ण आराधना तब होती है जब उपासक जल नहीं, अपनी चेतना अर्पित करता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya grounds this in the highest kind of worship, called nirādhārā, ‘without support’, which is simply the contemplation of oneness with consciousness; the Bhāvanopaniṣad says, ‘knowledge is the arghya’. He quotes the Skanda Purāṇa: one should worship Maheśvarī, who is one’s own self, directly, through one’s own experience; that worship yields the goals of life. He also gives readings from mantra and from Kaula ritual, which are not set out here.",
+    "hi": "भास्करराय इसे सर्वोच्च पूजा पर आधारित करते हैं, जिसे निराधार पूजा कहते हैं, और जो केवल चेतना से अभेद की भावना है; भावनोपनिषद् कहता है, ‘ज्ञान ही अर्घ्य है’। वे स्कन्द पुराण का वचन देते हैं: अपनी आत्मा-स्वरूप महेश्वरी को अपने ही अनुभव से, साक्षात्, आदर सहित पूजना चाहिए; वही पूजा पुरुषार्थ देती है। वे मन्त्र और कौल पूजा-विधि से जुड़े अर्थ भी देते हैं, जो यहाँ नहीं दिए गए।"
+  },
+  "story": {
+    "en": "Bhāskararāya traces the word caitanya to the opening of the Śiva Sūtras, ‘consciousness is the Self’. This name and the next turn the outer acts of worship, the offering of water and of flowers, into inner ones.",
+    "hi": "भास्करराय ‘चैतन्य’ शब्द को शिवसूत्रों के आरम्भ से जोड़ते हैं: ‘चैतन्य ही आत्मा है’। यह नाम और अगला नाम पूजा के बाहरी कर्मों, जल और पुष्प के अर्पण, को भीतरी कर्म बना देते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "चैतन्यं चिद्रूपम् आत्मचैतन्यमात्मेति शिवसूत्रात् तदेवार्घ्यं पूजायोग्यं जलादि तेन सम्यगाराध्या ।",
+    "translation": {
+      "en": "Caitanya is consciousness, the Self, as the Śiva Sūtra says, ‘consciousness is the Self’. That itself is the arghya, the water and the rest fit for worship; with it she is fully worshipped.",
+      "hi": "चैतन्य अर्थात् चिद्रूप आत्मा, जैसा शिवसूत्र कहता है, ‘चैतन्य ही आत्मा है’। वही अर्घ्य है, पूजा के योग्य जल आदि; उससे वे भली-भाँति आराध्य हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 918 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya also reads arghya as a mantra ‘that names consciousness’, which he identifies with a mantra of Bhuvaneśvarī, and gives readings from Kaula ritual (the special arghya vessel and what fills it); these are mentioned only in general terms and no mantra is given, by design. The edition runs आत्म into the Śiva Sūtra (आत्मचैतन्यमात्मेति); it is quoted as printed and translated as आत्मा, चैतन्यमात्मेति. That चैतन्यमात्मा opens the Śiva Sūtras is added here." }
+}

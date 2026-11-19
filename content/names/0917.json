@@ -1,0 +1,43 @@
+{
+  "number": 917,
+  "verse": 169,
+  "slug": "dhira-samarchita",
+  "devanagari": "धीरसमर्चिता",
+  "iastSplit": "Dhīra-samarcitā",
+  "archana": "ॐ धीरसमर्चितायै नमः",
+  "syllables": ["dhī", "ra", "sa", "mar", "ci", "tā"],
+  "words": [
+    { "sa": "धीर", "meaning": { "en": "the wise, the steadfast", "hi": "धीर, ज्ञानी" } },
+    { "sa": "समर्चित", "meaning": { "en": "fully worshipped", "hi": "भली-भाँति पूजित" } }
+  ],
+  "meaning": {
+    "en": "Worshipped fully by the wise",
+    "hi": "जो धीर ज्ञानियों द्वारा भली-भाँति पूजित हैं"
+  },
+  "explanation": {
+    "en": "The dhīras, the wise and steadfast, worship her with their whole being; the prefix sam adds fullness to arcitā, ‘worshipped’. Bhāskararāya cites the Veda: the wise, the seers, raise him up.",
+    "hi": "धीर, अर्थात् ज्ञानी और स्थिर-चित्त लोग, उन्हें पूरे भाव से पूजते हैं; ‘सम्’ उपसर्ग ‘अर्चिता’ (पूजित) में पूर्णता जोड़ता है। भास्करराय वेद का वचन देते हैं: ‘धीर कवि उसे ऊपर उठाते हैं’।"
+  },
+  "inner": {
+    "en": "He illustrates the steadfastness of such a devotee with a verse: whether you cast me into the netherworld or set me over all the worlds, Mother, I will not let go of your two feet, I will never let go. He also hears dhī-rasa in the name: she is worshipped for the sake of the rasa called dhī, a bliss that is one with knowledge.",
+    "hi": "ऐसे उपासक का धैर्य वे एक श्लोक से दिखाते हैं: ‘माँ, चाहे मुझे पाताल में गिरा दो या सारे लोकों के साम्राज्य पर बिठा दो, मैं तुम्हारे चरण-युगल नहीं छोड़ूँगा, कभी नहीं छोड़ूँगा।’ वे इस नाम में ‘धी-रस’ भी सुनते हैं: वे उस रस के लिए पूजी जाती हैं जिसे ‘धी’ कहते हैं, ज्ञान से अभिन्न आनन्द।"
+  },
+  "story": {
+    "en": "Name 916 called her dhīrā, the wise one; here the same word names those who worship her. In the verse Bhāskararāya quotes, the wise devotee’s mark is not learning but a steadiness that neither loss nor gain can shake.",
+    "hi": "नाम 916 ने उन्हें धीरा कहा; यहाँ वही शब्द उनके उपासकों का नाम है। भास्करराय के उद्धृत श्लोक में धीर भक्त की पहचान विद्या नहीं, ऐसी स्थिरता है जिसे न हानि डिगा सके न लाभ।"
+  },
+  "commentary": {
+    "sanskrit": "धीरैः पण्डितैः समर्चिता । तं धीरासः कवय उन्नयन्तीति श्रुतेः ।",
+    "translation": {
+      "en": "Fully worshipped by the dhīras, the learned; for the śruti says, ‘the wise seers raise him up’.",
+      "hi": "धीरों, अर्थात् पण्डितों, द्वारा भली-भाँति पूजित; क्योंकि श्रुति कहती है, ‘धीर कवि उसे ऊपर उठाते हैं’।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 917 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya introduces the verse with कल्याणचरणैः, an honorific whose referent is not identified here. The last sentence of the story is a reflection." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 933,
+  "verse": 172,
+  "slug": "mangalakriti",
+  "devanagari": "मङ्गलाकृतिः",
+  "iastSplit": "Maṅgalākṛtiḥ",
+  "archana": "ॐ मङ्गलाकृत्यै नमः",
+  "syllables": ["maṅ", "ga", "lā", "kṛ", "tiḥ"],
+  "words": [
+    { "sa": "मङ्गल", "meaning": { "en": "auspicious", "hi": "मंगल, शुभ" } },
+    { "sa": "आकृति", "meaning": { "en": "form, shape", "hi": "आकृति, रूप" } }
+  ],
+  "meaning": {
+    "en": "She whose form is auspicious",
+    "hi": "जिनका स्वरूप मंगलमय है"
+  },
+  "explanation": {
+    "en": "Maṅgala is auspicious, all that brings good, and ākṛti is form, shape, appearance. Bhāskararāya glosses the name in a single phrase: she whose form is auspicious.",
+    "hi": "मंगल का अर्थ है शुभ, जो कुछ कल्याण लाए, और आकृति का अर्थ है रूप, आकार। भास्करराय इसका अर्थ एक ही वाक्यांश में देते हैं: जिनकी आकृति मंगलरूप है।"
+  },
+  "inner": {
+    "en": "He gives only the literal sense. The auspicious is not something she hands out from outside; it is the very shape she takes. Name 200 called her Sarva-maṅgalā, auspicious in every way; here the auspiciousness is her form itself.",
+    "hi": "वे केवल शब्दार्थ देते हैं। मंगल ऐसा कुछ नहीं जो वे बाहर से बाँटती हों; वह उनका अपना रूप ही है। नाम 200 ने उन्हें सर्वमंगला, सब प्रकार से मंगलमयी, कहा था; यहाँ मंगल उनकी आकृति ही है।"
+  },
+  "story": {
+    "en": "The verse moves from her mind and dignity to her union with Śiva, and ends with her form, which is auspiciousness itself.",
+    "hi": "यह श्लोक उनके मन और गरिमा से आरम्भ होकर शिव से उनके मिलन तक जाता है, और उनके रूप पर पूरा होता है, जो स्वयं मंगल है।"
+  },
+  "commentary": {
+    "sanskrit": "मङ्गलरूपा आकृतिर्यस्याः ।",
+    "translation": {
+      "en": "She whose ākṛti, form, is auspicious.",
+      "hi": "जिनकी आकृति मंगलरूप है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 933 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Archana corrected from the web list’s मङ्गलाकृत्ये to मङ्गलाकृत्यै: ākṛti is a feminine i-stem and the name, a bahuvrīhi, refers to the Goddess, so the dative is मङ्गलाकृत्यै (मङ्गलाकृतये is also grammatical). Bhāskararāya gives only the literal sense; the inner layer after its first sentence is a reflection." }
+}

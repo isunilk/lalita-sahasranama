@@ -1,0 +1,42 @@
+{
+  "number": 944,
+  "verse": 174,
+  "slug": "vajrini",
+  "devanagari": "वज्रिणी",
+  "iastSplit": "Vajriṇī",
+  "archana": "ॐ वज्रिण्यै नमः",
+  "syllables": ["vaj", "ri", "ṇī"],
+  "words": [
+    { "sa": "वज्रिणी", "meaning": { "en": "possessed of the vajra, thunderbolt or diamond (vajra + -iṇī, ‘having’)", "hi": "वज्र (अस्त्र या हीरे) से युक्त (वज्र + इणी)" } }
+  ],
+  "meaning": {
+    "en": "She who bears the thunderbolt",
+    "hi": "जो वज्र धारण करती हैं"
+  },
+  "explanation": {
+    "en": "Vajra means both the thunderbolt and the diamond. Bhāskararāya gives three plain senses: she is the wife of the Vajrin, Indra, in the form of Śacī; she bears the thunderbolt; or she is adorned with diamonds.",
+    "hi": "वज्र का अर्थ है वज्र नामक अस्त्र भी और हीरा भी। भास्करराय तीन सीधे अर्थ देते हैं: वे वज्री इन्द्र की पत्नी, शची रूप में हैं; वे वज्र धारण करती हैं; अथवा वे हीरों से अलंकृत हैं।"
+  },
+  "inner": {
+    "en": "His fourth reading rests on the Kaṭha Upaniṣad, where Brahman is called ‘a great fear, an upraised thunderbolt’. Since vajra there means Brahman, she is vajriṇī as the one who holds that power. In this reading the weapon in her hand and the Absolute behind the world are one.",
+    "hi": "उनका चौथा अर्थ कठोपनिषद् पर आधारित है, जहाँ ब्रह्म को ‘महद् भय, उठा हुआ वज्र’ कहा गया है। वहाँ वज्र का अर्थ ब्रह्म होने से, उस शक्ति को धारण करने के कारण वे वज्रिणी हैं। इस अर्थ में उनके हाथ का अस्त्र और जगत के पीछे का परम तत्त्व एक ही हैं।"
+  },
+  "story": {
+    "en": "Indra is called Vajrin, ‘wielder of the thunderbolt’, and his queen is Śacī, also called Indrāṇī. Reading the name as Śacī, Bhāskararāya makes the queen of the gods one of the Goddess’s own forms.",
+    "hi": "इन्द्र को वज्री, अर्थात् वज्र धारण करने वाला, कहा जाता है, और उनकी रानी शची हैं, जिन्हें इन्द्राणी भी कहते हैं। इस नाम को शची के रूप में पढ़कर भास्करराय देवराज की रानी को देवी का ही एक रूप बताते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "वज्रिण इन्द्रस्य स्त्री शचीरूपा वा । वज्रधारिणी वा । वज्राख्यरत्नैर्भूषिता वा ।",
+    "translation": {
+      "en": "The wife of the Vajrin, Indra, in the form of Śacī; or she who bears the thunderbolt; or she who is adorned with the gems called vajra, diamonds.",
+      "hi": "वज्री इन्द्र की पत्नी, शची रूप; अथवा वज्र धारण करने वाली; अथवा वज्र नामक रत्नों, अर्थात् हीरों, से भूषित।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 944 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya cites the phrase महद्भयं वज्रमुद्यतम् as śruti; its identification as the Kaṭha Upaniṣad is added here. The last sentence of the inner layer is a reflection." }
+}

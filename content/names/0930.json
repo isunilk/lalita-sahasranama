@@ -1,0 +1,42 @@
+{
+  "number": 930,
+  "verse": 172,
+  "slug": "manasvini",
+  "devanagari": "मनस्विनी",
+  "iastSplit": "Manasvinī",
+  "archana": "ॐ मनस्विन्यै नमः",
+  "syllables": ["ma", "nas", "vi", "nī"],
+  "words": [
+    { "sa": "मनस्विनी", "meaning": { "en": "possessed of a strong, free mind (manas + -vinī, ‘having’)", "hi": "दृढ़ और स्वतन्त्र मन वाली (मनस् + विनी)" } }
+  ],
+  "meaning": {
+    "en": "She whose mind is free, dependent on none",
+    "hi": "जिनका मन स्वतन्त्र है, किसी के अधीन नहीं"
+  },
+  "explanation": {
+    "en": "Manasvinī is one with a strong and lofty mind; in ordinary use the word describes a woman of spirit and resolve. Bhāskararāya explains: her mind stands on its own, its workings never dependent on another.",
+    "hi": "मनस्विनी का अर्थ है दृढ़ और उदात्त मन वाली; सामान्य प्रयोग में यह शब्द दृढ़ संकल्प वाली, स्वाभिमानी स्त्री के लिए आता है। भास्करराय बताते हैं: उनका मन स्वतन्त्र रूप से स्थित है, उसकी कोई भी वृत्ति किसी दूसरे के अधीन नहीं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only this sense, with the grammar of the suffix. Every other mind moves as its objects pull it; hers is moved by nothing outside, because nothing is outside her. That freedom is what the name praises.",
+    "hi": "भास्करराय केवल यही अर्थ देते हैं, साथ में प्रत्यय का व्याकरण। हर दूसरा मन अपने विषयों के खिंचाव से चलता है; उनका मन बाहर की किसी वस्तु से नहीं चलता, क्योंकि उनके बाहर कुछ भी नहीं। यही स्वतन्त्रता इस नाम की स्तुति है।"
+  },
+  "story": {
+    "en": "The suffix -vin, he notes, comes from Pāṇini’s rule asmāyāmedhāsrajo viniḥ, which gives it after words ending in -as, like manas, and after māyā, medhā and sraj. This name and the next both describe her inner bearing: a free mind, and a lofty dignity.",
+    "hi": "वे बताते हैं कि ‘विन्’ प्रत्यय पाणिनि के सूत्र ‘अस्मायामेधास्रजो विनिः’ से आता है, जो ‘मनस्’ जैसे अस्-अन्त शब्दों और माया, मेधा तथा स्रज् के बाद यह प्रत्यय देता है। यह नाम और अगला नाम दोनों उनकी आन्तरिक गरिमा का वर्णन करते हैं: स्वतन्त्र मन, और उच्च स्वाभिमान।"
+  },
+  "commentary": {
+    "sanskrit": "मनोऽस्याः स्वतन्त्रतया तिष्ठति न तु पराधीनवृत्तिकत्वेनेति मनस्विनी ।",
+    "translation": {
+      "en": "Her mind stands in its own freedom, not with workings that depend on another; hence she is Manasvinī.",
+      "hi": "उनका मन स्वतन्त्रता से स्थित है, पराधीन वृत्तियों के साथ नहीं; इसलिए वे मनस्विनी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 930 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense and the grammar; the second and third sentences of the inner layer are a reflection." }
+}

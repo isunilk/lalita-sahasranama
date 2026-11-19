@@ -1,0 +1,45 @@
+{
+  "number": 947,
+  "verse": 174,
+  "slug": "pancha-preta-manchadhishayini",
+  "devanagari": "पञ्चप्रेतमञ्चाधिशायिनी",
+  "iastSplit": "Pañca-preta-mañcādhiśāyinī",
+  "archana": "ॐ पञ्चप्रेतमञ्चाधिशायिन्यै नमः",
+  "syllables": ["pañ", "cap", "re", "ta", "mañ", "cā", "dhi", "śā", "yi", "nī"],
+  "words": [
+    { "sa": "पञ्च", "meaning": { "en": "five", "hi": "पाँच" } },
+    { "sa": "प्रेत", "meaning": { "en": "a lifeless body; here the five gods apart from Śakti", "hi": "प्रेत, निष्प्राण शरीर; यहाँ शक्ति से अलग पाँच देव" } },
+    { "sa": "मञ्च", "meaning": { "en": "couch, bedstead", "hi": "मञ्च, पलंग" } },
+    { "sa": "अधिशायिनी", "meaning": { "en": "she who lies upon", "hi": "ऊपर शयन करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who reclines on a couch formed of the five lifeless gods",
+    "hi": "जो पाँच प्रेतों से बने मञ्च पर शयन करती हैं"
+  },
+  "explanation": {
+    "en": "Mañca is a couch, and adhiśāyinī is she who lies upon it. The five pretas, lifeless forms, are Brahmā, Viṣṇu, Rudra, Īśvara and Sadāśiva: the first four are the legs of the couch, and Sadāśiva is its plank.",
+    "hi": "मञ्च का अर्थ है पलंग, और अधिशायिनी का अर्थ है उस पर शयन करने वाली। पाँच प्रेत, अर्थात् निष्प्राण रूप, हैं ब्रह्मा, विष्णु, रुद्र, ईश्वर और सदाशिव: पहले चार मञ्च के पाये हैं, और सदाशिव उसका फलक।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes the Bhairava Yāmala: on the great couch that is Śiva, with Maheśāna as its pillow, the four legs are servants and Sadāśiva is the mattress, and there lies Mahātripurasundarī. Under name 249 he explained why the five are called pretas: apart from Śakti they cannot act. The gods of creation, preservation and dissolution become the furniture of her rest.",
+    "hi": "भास्करराय भैरवयामल का वचन देते हैं: शिव-रूपी महामञ्च पर, जिसका तकिया महेशान है, चार पाये सेवक हैं और सदाशिव बिछौना है, वहाँ महात्रिपुरसुन्दरी शयन करती हैं। नाम 249 में उन्होंने बताया था कि ये पाँचों प्रेत क्यों कहलाते हैं: शक्ति से अलग होकर वे कुछ नहीं कर सकते। सृष्टि, पालन और संहार के देवता उनके विश्राम का आसन बन जाते हैं।"
+  },
+  "story": {
+    "en": "He also quotes the Ācārya, Śaṅkara, from the Saundaryalaharī: Brahmā, Hari, Rudra and Īśvara, her attendants, have become the couch, and Śiva, white and clear, has become its coverlet. The image first appeared at name 249, where she is seated on the seat of the five pretas; here she reclines on it.",
+    "hi": "वे आचार्य भगवत्पाद शंकर की सौन्दर्यलहरी भी उद्धृत करते हैं: ब्रह्मा, हरि, रुद्र और ईश्वर, उनके सेवक, मञ्च बन गए हैं, और स्वच्छ, उज्ज्वल शिव उसकी चादर बने हैं। यह चित्र पहले नाम 249 में आया था, जहाँ वे पाँच प्रेतों के आसन पर बैठी हैं; यहाँ वे उस पर शयन करती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "ब्रह्मादयश्चत्वारः प्रेताः पादाः । सदाशिवाख्यः प्रेतः फलकमेतादृशं मञ्चं पर्यङ्कमधिशेते ।",
+    "translation": {
+      "en": "Brahmā and the other three, four pretas, are the legs; the preta called Sadāśiva is the plank. On such a mañca, a couch, she lies.",
+      "hi": "ब्रह्मा आदि चार प्रेत पाये हैं; सदाशिव नामक प्रेत फलक है। ऐसे मञ्च, अर्थात् पलंग, पर वे शयन करती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 947 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya cites the Bhairava Yāmala and the Bahurūpāṣṭaka-prastāra for the verse in the inner layer, and attributes the second quotation to आचार्यभगवत्पादाः; naming it as the Saundaryalaharī (verse 92) is added here. The reason the five are called pretas is taken from his comment on name 249, as recorded in that file. The last sentence of the inner layer is a reflection." }
+}

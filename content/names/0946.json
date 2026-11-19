@@ -1,0 +1,44 @@
+{
+  "number": 946,
+  "verse": 174,
+  "slug": "pancha-yajna-priya",
+  "devanagari": "पञ्चयज्ञप्रिया",
+  "iastSplit": "Pañca-yajña-priyā",
+  "archana": "ॐ पञ्चयज्ञप्रियायै नमः",
+  "syllables": ["pañ", "ca", "yaj", "ñap", "ri", "yā"],
+  "words": [
+    { "sa": "पञ्च", "meaning": { "en": "five", "hi": "पाँच" } },
+    { "sa": "यज्ञ", "meaning": { "en": "sacrifice, worship", "hi": "यज्ञ" } },
+    { "sa": "प्रिय", "meaning": { "en": "dear", "hi": "प्रिय" } }
+  ],
+  "meaning": {
+    "en": "She who loves the five sacrifices",
+    "hi": "जिन्हें पाँच यज्ञ प्रिय हैं"
+  },
+  "explanation": {
+    "en": "Pañca-yajña means the five sacrifices. Bhāskararāya lists many sets of five: the five Vedic rites, from the fire-offering to the Soma sacrifice; the five great daily sacrifices of the householder, to the gods, the Veda, all beings, the ancestors and fellow humans; the fivefold worship of the Pāñcarātra; and several fivefold forms of Tantric worship. All of them, he says, are meant together.",
+    "hi": "पञ्चयज्ञ का अर्थ है पाँच यज्ञ। भास्करराय पाँच के कई समूह गिनाते हैं: श्रुति के पाँच यज्ञ, अग्निहोत्र से सोमयाग तक; गृहस्थ के पाँच महायज्ञ, देवयज्ञ, ब्रह्मयज्ञ, भूतयज्ञ, पितृयज्ञ और मनुष्ययज्ञ; पाञ्चरात्र की पाँच प्रकार की पूजा; और तन्त्रों में बताई गई पाँच-पाँच प्रकार की कई पूजाएँ। वे कहते हैं कि ये सब एक साथ अभिप्रेत हैं।"
+  },
+  "inner": {
+    "en": "One of his sets is the five fires of the Upaniṣads: the waters offered in the fire-sacrifice are offered again and again in five fires, the last of which are man and woman, until they take the form of a body. Every birth is thus itself a sacrifice. Another set, named in the Mantramahodadhi, is of forms of worship whose names point to special conditions: sickness, ritual impurity, lack of understanding, fear, and lack of materials.",
+    "hi": "उनका एक समूह उपनिषदों की पञ्चाग्नि-विद्या है: अग्निहोत्र में अर्पित जल पाँच अग्नियों में बार-बार अर्पित होता है, जिनमें अन्तिम पुरुष और स्त्री हैं, और अन्त में वही जल शरीर का रूप ले लेता है। इस प्रकार हर जन्म स्वयं एक यज्ञ है। एक और समूह, जो मन्त्रमहोदधि में बताया गया है, ऐसी पूजाओं का है जिनके नाम विशेष परिस्थितियों की ओर संकेत करते हैं: रोग, सूतक, अज्ञान, भय, और सामग्री का अभाव।"
+  },
+  "story": {
+    "en": "The name answers the one before: Bhāskararāya had just called those who neglect the five sacrifices vāmakas, worthy of blame, and here she is the one to whom those sacrifices are dear. Under name 912 he cited the Kālikā Purāṇa to the same effect: one who keeps the five sacrifices clears his debts to the sages, the gods and the ancestors.",
+    "hi": "यह नाम पिछले नाम का उत्तर है: भास्करराय ने अभी पाँच यज्ञों का त्याग करने वालों को निन्दनीय ‘वामक’ कहा था, और यहाँ वे स्वयं वह हैं जिन्हें ये यज्ञ प्रिय हैं। नाम 912 में उन्होंने इसी आशय से कालिका पुराण का वचन दिया था: जो पाँच यज्ञ करता है, वह ऋषियों, देवताओं और पितरों का ऋण चुकाता है।"
+  },
+  "commentary": {
+    "sanskrit": "स्मृतिषु प्रसिद्धा देवयज्ञ- ब्रह्मयज्ञ- भूतयज्ञ- पितृयज्ञ- मनुष्ययज्ञा वा ।",
+    "translation": {
+      "en": "Or the sacrifices well known in the smṛtis: to the gods, to the Veda, to all beings, to the ancestors and to fellow humans.",
+      "hi": "अथवा स्मृतियों में प्रसिद्ध देवयज्ञ, ब्रह्मयज्ञ, भूतयज्ञ, पितृयज्ञ और मनुष्ययज्ञ।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 946 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya lists many sets of five and takes them together; only some are named here. The five worships he gives from the Bṛhat-tantra-kaumudī and the Mantramahodadhi appear only as names (आतुरी, सौतकी, दौर्बोधी, त्रासी, साधनाभावनी); the conditions they refer to are inferred from the words. His list of the five fire-pits (सोमद्युपृथिवीपुरुषयोषित्) differs from the usual Upaniṣadic list and is not reproduced. The sentence on birth as sacrifice is a reflection. No practice is described, by design." }
+}

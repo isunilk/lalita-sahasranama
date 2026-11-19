@@ -1,0 +1,42 @@
+{
+  "number": 916,
+  "verse": 169,
+  "slug": "dhira",
+  "devanagari": "धीरा",
+  "iastSplit": "Dhīrā",
+  "archana": "ॐ धीरायै नमः",
+  "syllables": ["dhī", "rā"],
+  "words": [
+    { "sa": "धीर", "meaning": { "en": "wise; steadfast", "hi": "धीर: ज्ञानी; धैर्यवान" } }
+  ],
+  "meaning": {
+    "en": "The wise and steadfast one",
+    "hi": "जो ज्ञानी और धैर्यवती हैं"
+  },
+  "explanation": {
+    "en": "Dhīra means wise, learned, and also steady, firm, unshaken. She is both: the one who knows, and one whom nothing can shake.",
+    "hi": "धीर का अर्थ है ज्ञानी, विद्वान, और स्थिर, अडिग भी। वे दोनों हैं: सब कुछ जानने वाली भी, और ऐसी जिन्हें कुछ भी विचलित नहीं कर सकता।"
+  },
+  "inner": {
+    "en": "Bhāskararāya’s third reading divides the word as dhī-rā: she who gives dhī, understanding, and by this he means the understanding of non-duality. He supports it with a smṛti: only by the grace of the Lord does a person come to the longing for non-duality. The wisdom she has, she also gives.",
+    "hi": "भास्करराय की तीसरी व्याख्या इस शब्द को ‘धी-रा’ में बाँटती है: जो ‘धी’, अर्थात् बुद्धि, देती हैं; और यह बुद्धि है अद्वैत की समझ। इसके लिए वे स्मृति का वचन देते हैं: ईश्वर के अनुग्रह से ही मनुष्य में अद्वैत की वासना जागती है। जो ज्ञान उनमें है, वही वे देती भी हैं।"
+  },
+  "story": {
+    "en": "This name and the next form a pair: she is the wise one, and she is worshipped by the wise. In the Upaniṣads dhīra is the word for the sage; the Kaṭha speaks of the dhīra who turned his gaze within, seeking the deathless.",
+    "hi": "यह नाम और अगला नाम एक जोड़ी हैं: वे स्वयं धीरा हैं, और धीरों द्वारा पूजित भी। उपनिषदों में ‘धीर’ ज्ञानी के लिए आता है; कठोपनिषद् उस धीर की बात करता है जिसने अमृतत्व की इच्छा से अपनी दृष्टि भीतर मोड़ी।"
+  },
+  "commentary": {
+    "sanskrit": "धीरा पण्डिता । धैर्यवती वा । धियमद्वैतबुद्धिं राति ददातीति वा ।",
+    "translation": {
+      "en": "Dhīrā: learned. Or, possessed of steadfastness. Or, she who gives (rāti) dhī, the understanding of non-duality.",
+      "hi": "धीरा अर्थात् पण्डिता। अथवा धैर्यवती। अथवा जो ‘धी’, अर्थात् अद्वैत-बुद्धि, देती (राति) हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 916 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s further reading (धीप्रदा इरा दशमीतिथिर्यस्यां वा, with irā as the tenth lunar day) is not used. The Kaṭha Upaniṣad line in the story is added context, not cited by him here. The last sentence of the inner layer is a reflection." }
+}

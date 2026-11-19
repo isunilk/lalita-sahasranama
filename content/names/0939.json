@@ -1,0 +1,43 @@
+{
+  "number": 939,
+  "verse": 173,
+  "slug": "paramodara",
+  "devanagari": "परमोदारा",
+  "iastSplit": "Paramodārā",
+  "archana": "ॐ परमोदारायै नमः",
+  "syllables": ["pa", "ra", "mo", "dā", "rā"],
+  "words": [
+    { "sa": "परम", "meaning": { "en": "supreme", "hi": "परम, सर्वोच्च" } },
+    { "sa": "उदार", "meaning": { "en": "generous; great", "hi": "उदार, दानी; महान" } }
+  ],
+  "meaning": {
+    "en": "Supremely generous and great",
+    "hi": "जो परम उदार और महान हैं"
+  },
+  "explanation": {
+    "en": "Parama is supreme, and udāra means both generous and great; Bhāskararāya cites the Amarakośa for the two senses. She is supreme, and great beyond the limits of space and time, as the śruti says: all-pervading like space, and eternal.",
+    "hi": "परम का अर्थ है सर्वोच्च, और उदार का अर्थ है दानी भी और महान भी; भास्करराय इन दोनों अर्थों के लिए अमरकोश का प्रमाण देते हैं। वे सर्वोच्च हैं, और देश तथा काल की सीमाओं से परे महान, जैसा श्रुति कहती है: ‘आकाश की तरह सर्वव्यापी, और नित्य’।"
+  },
+  "inner": {
+    "en": "He also divides the word in other ways. Read as para-moda-ā-rā, she gives (rā) supreme joy (moda) in full measure. And by hearing a hidden a, he reads a-paramā, ‘those whom Ramā, Lakṣmī, has left’, that is, the poor: she is udārā, generous, to them, and gives them prosperity.",
+    "hi": "वे इस शब्द को और तरीकों से भी बाँटते हैं। ‘पर-मोद-आ-रा’ के रूप में: वे परम आनन्द (मोद) पूर्ण रूप से देती (रा) हैं। और एक छिपे हुए ‘अ’ को सुनकर वे ‘अ-परमा’ पढ़ते हैं, ‘जिनसे रमा, अर्थात् लक्ष्मी, चली गई है’, यानी दरिद्र: वे उनके प्रति उदार हैं और उन्हें ऐश्वर्य देती हैं।"
+  },
+  "story": {
+    "en": "This name and the next, Paramodārā and Parāmodā, sound almost alike, and Bhāskararāya draws several readings from each. Such plays of sound recur throughout the hymn.",
+    "hi": "यह नाम और अगला नाम, परमोदारा और परामोदा, लगभग एक जैसे सुनाई देते हैं, और भास्करराय दोनों से कई अर्थ निकालते हैं। ऐसी ध्वनि-क्रीड़ा इस स्तोत्र में बार-बार मिलती है।"
+  },
+  "commentary": {
+    "sanskrit": "परमा च सोदारा च महती च । देशतः कालतश्च महत्त्ववतीत्यर्थः ।",
+    "translation": {
+      "en": "She is supreme, and she is udārā, great: great, that is, in space and in time.",
+      "hi": "वे परमा हैं, और उदारा अर्थात् महती; अर्थात् देश और काल दोनों में महान।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 939 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. A further reading, in which paramoda is the ocean (of worldly existence) and ārā a weapon against it, is printed obscurely (…आयुधविशेषो नासिकेति वा) and is not used." }
+}

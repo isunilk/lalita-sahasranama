@@ -1,0 +1,42 @@
+{
+  "number": 937,
+  "verse": 173,
+  "slug": "viragini",
+  "devanagari": "विरागिणी",
+  "iastSplit": "Virāgiṇī",
+  "archana": "ॐ विरागिण्यै नमः",
+  "syllables": ["vi", "rā", "gi", "ṇī"],
+  "words": [
+    { "sa": "विरागिणी", "meaning": { "en": "possessed of virāga, dispassion (vi-rāga + -iṇī, ‘having’)", "hi": "वैराग्य से युक्त (विराग + इणी)" } }
+  ],
+  "meaning": {
+    "en": "She who is free of all attachment",
+    "hi": "जो पूर्ण वैराग्य से युक्त हैं"
+  },
+  "explanation": {
+    "en": "Virāga is dispassion, the absence of rāga, attachment. She has dispassion; nothing in the world binds her.",
+    "hi": "विराग का अर्थ है वैराग्य, राग अर्थात् आसक्ति का अभाव। उनमें वैराग्य है; संसार की कोई वस्तु उन्हें बाँध नहीं सकती।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the literal sense. Yet the hymn shows that her freedom is not coldness: in name 8 she holds rāga, desire, as a noose in her hand, and in name 157 she churns attachment out of her devotees. She can hold desire because desire does not hold her.",
+    "hi": "भास्करराय केवल शब्दार्थ देते हैं। पर स्तोत्र दिखाता है कि उनका वैराग्य उदासीनता नहीं: नाम 8 में वे राग को पाश के रूप में हाथ में धारण करती हैं, और नाम 157 में वे भक्तों के राग को मथकर निकाल देती हैं। वे राग को धारण कर सकती हैं, क्योंकि राग उन्हें धारण नहीं करता।"
+  },
+  "story": {
+    "en": "The line moves from her motherhood to her freedom: Mother and nurse of the world, wide-eyed in her care for it, and yet bound by none of it.",
+    "hi": "यह पंक्ति उनके मातृत्व से उनकी स्वतन्त्रता तक जाती है: जगत की माता और धात्री, उसकी देखभाल में विशाल नेत्रों वाली, फिर भी उसकी किसी वस्तु से बँधी नहीं।"
+  },
+  "commentary": {
+    "sanskrit": "विरागो वैराग्यमस्या अस्तीति विरागिणी ।",
+    "translation": {
+      "en": "Virāga, dispassion, is hers; hence she is Virāgiṇī.",
+      "hi": "विराग, अर्थात् वैराग्य, उनमें है; इसलिए वे विरागिणी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 937 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the inner layer after its first sentence, and the story, are a reflection." }
+}

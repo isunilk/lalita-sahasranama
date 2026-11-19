@@ -1,0 +1,43 @@
+{
+  "number": 945,
+  "verse": 174,
+  "slug": "vamakeshvari",
+  "devanagari": "वामकेश्वरी",
+  "iastSplit": "Vāmakeśvarī",
+  "archana": "ॐ वामकेश्वर्यै नमः",
+  "syllables": ["vā", "ma", "keś", "va", "rī"],
+  "words": [
+    { "sa": "वामक", "meaning": { "en": "the Vāmaka, that is, the Vāmakeśvara Tantra; for Bhāskararāya also followers of the left-hand way, or the progenitors who emit the world", "hi": "वामक, अर्थात् वामकेश्वर तन्त्र; भास्करराय के अनुसार वाममार्गी, या जगत रचने वाले प्रजापति भी" } },
+    { "sa": "ईश्वरी", "meaning": { "en": "sovereign lady", "hi": "ईश्वरी, स्वामिनी" } }
+  ],
+  "meaning": {
+    "en": "She who is the Vāmakeśvara Tantra and what it teaches",
+    "hi": "जो वामकेश्वर तन्त्र का स्वरूप और उसकी प्रतिपाद्या हैं"
+  },
+  "explanation": {
+    "en": "The Vāmakeśvara Tantra is one of the principal scriptures of Śrīvidyā. Bhāskararāya says she is that tantra itself, or the one whom that tantra, called the Vāmaka, teaches.",
+    "hi": "वामकेश्वर तन्त्र श्रीविद्या के प्रमुख शास्त्रों में से एक है। भास्करराय कहते हैं कि वे स्वयं वह तन्त्र हैं, अथवा वे हैं जिनका प्रतिपादन ‘वामक’ नामक वह तन्त्र करता है।"
+  },
+  "inner": {
+    "en": "He gives two more readings. In one, the vāmakas are those given to the left-hand way, named with a suffix of disparagement because they neglect the five sacrifices; in the other, they are those who emit (vam) the world, Dakṣa and the other progenitors. Of the vāmakas, in either sense, she is the Īśvarī, the sovereign.",
+    "hi": "वे दो और अर्थ देते हैं। एक में ‘वामक’ वे हैं जो वाम मार्ग में रत हैं, जिन्हें पाँच यज्ञों का त्याग करने के कारण निन्दा-सूचक प्रत्यय से ‘वामक’ कहा गया; दूसरे में वे हैं जो जगत को ‘वमन’ करते, अर्थात् रचते हैं, दक्ष आदि प्रजापति। दोनों अर्थों में वे वामकों की ईश्वरी हैं।"
+  },
+  "story": {
+    "en": "The next name, Pañca-yajña-priyā, follows directly: she who is sovereign even over those who neglect the five sacrifices is herself the one who loves them. Bhāskararāya himself wrote a commentary, the Setubandha, on the Vāmakeśvara Tantra.",
+    "hi": "अगला नाम, पञ्चयज्ञप्रिया, सीधे इसी से जुड़ता है: जो पाँच यज्ञों का त्याग करने वालों की भी ईश्वरी हैं, उन्हें स्वयं वे यज्ञ प्रिय हैं। भास्करराय ने स्वयं वामकेश्वर तन्त्र पर ‘सेतुबन्ध’ नाम की टीका लिखी है।"
+  },
+  "commentary": {
+    "sanskrit": "वामकेश्वरतन्त्ररूपा वामकस्य तन्त्रस्य प्रतिपाद्या वा ।",
+    "translation": {
+      "en": "She who is the Vāmakeśvara Tantra itself; or the one taught by that tantra, the Vāmaka.",
+      "hi": "वामकेश्वर तन्त्र-स्वरूपा; अथवा वामक तन्त्र की प्रतिपाद्या।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 945 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. That Bhāskararāya wrote the Setubandha on the Vāmakeśvara Tantra, and that it is a principal Śrīvidyā text, is added context, not stated in this comment. Whether तेषामीश्वरी covers both of his readings of वामक or only the second is not certain; the inner layer takes it to cover both. No practice is described, by design." }
+}

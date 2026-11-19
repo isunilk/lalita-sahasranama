@@ -1,0 +1,43 @@
+{
+  "number": 936,
+  "verse": 173,
+  "slug": "vishalakshi",
+  "devanagari": "विशालाक्षी",
+  "iastSplit": "Viśālākṣī",
+  "archana": "ॐ विशालाक्ष्यै नमः",
+  "syllables": ["vi", "śā", "lāk", "ṣī"],
+  "words": [
+    { "sa": "विशाल", "meaning": { "en": "wide, large", "hi": "विशाल, विस्तृत" } },
+    { "sa": "अक्षि", "meaning": { "en": "eye", "hi": "अक्षि, नेत्र" } }
+  ],
+  "meaning": {
+    "en": "She of the wide, large eyes",
+    "hi": "जिनके नेत्र विशाल हैं"
+  },
+  "explanation": {
+    "en": "Viśāla means wide, large, and akṣī is eye: her eyes are wide and beautiful. Bhāskararāya also identifies her with the Goddess Viśālākṣī of Vārāṇasī.",
+    "hi": "विशाल का अर्थ है बड़ा, विस्तृत, और अक्षी का अर्थ है नेत्र: उनके नेत्र विशाल और सुन्दर हैं। भास्करराय उन्हें वाराणसी की देवी विशालाक्षी भी बताते हैं।"
+  },
+  "inner": {
+    "en": "He gives a second reading from the tradition of pīṭha-nyāsa, in which the sacred seats of the Goddess are assigned to the limbs of the body. Viśālā is a name of Badarikāśrama, but since both lie in the Himālaya he takes it here for the Nepāla seat, which the Brahmāṇḍa Purāṇa and other texts assign to the eyes; so she is the one whose place of the eyes is the Viśālā seat.",
+    "hi": "वे पीठ-न्यास की परम्परा से एक दूसरा अर्थ देते हैं, जिसमें देवी के पवित्र पीठ शरीर के अंगों से जोड़े जाते हैं। ‘विशाला’ बदरिकाश्रम का नाम है, पर दोनों हिमालय में होने के कारण वे इसे यहाँ नेपाल पीठ मानते हैं, जिसे ब्रह्माण्ड पुराण आदि नेत्रों के स्थान पर रखते हैं; इसलिए वे वह हैं जिनका नेत्र-स्थान विशाला पीठ है।"
+  },
+  "story": {
+    "en": "Viśālākṣī is the Goddess of the sacred seat at Vārāṇasī, and Bhāskararāya grounds this in the Padma Purāṇa, which names her there. Like Kāmākṣī (62) of Kāñcī and the Mīnākṣī of Madurai recalled under name 915, the name joins her beauty to a holy place.",
+    "hi": "विशालाक्षी वाराणसी के पवित्र पीठ की देवी हैं, और भास्करराय इसका प्रमाण पद्म पुराण से देते हैं, जो उन्हें वहीं बताता है। काञ्ची की कामाक्षी (62) और नाम 915 में स्मरण की गई मदुरै की मीनाक्षी की तरह, यह नाम उनके सौन्दर्य को एक पवित्र स्थान से जोड़ता है।"
+  },
+  "commentary": {
+    "sanskrit": "विशाले विस्तीर्णे अक्षिणी यस्याः । सा वाराणसीपीठाभिमानिनी । वाराणस्यां विशालाक्षीति पाद्मात् ।",
+    "translation": {
+      "en": "She whose two eyes are viśāla, wide. She is the goddess presiding over the seat at Vārāṇasī, for the Padma Purāṇa says, ‘in Vārāṇasī, Viśālākṣī’.",
+      "hi": "जिनके दोनों नेत्र विशाल, विस्तृत, हैं। वे वाराणसी पीठ की अधिष्ठात्री देवी हैं, क्योंकि पद्म पुराण कहता है, ‘वाराणसी में विशालाक्षी’।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 936 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Pīṭha-nyāsa is mentioned only to explain the second reading; no practice is described." }
+}

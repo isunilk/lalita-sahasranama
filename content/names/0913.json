@@ -1,0 +1,44 @@
+{
+  "number": 913,
+  "verse": 169,
+  "slug": "sarvapad-vinivarini",
+  "devanagari": "सर्वापद्विनिवारिणी",
+  "iastSplit": "Sarvāpad-vinivāriṇī",
+  "archana": "ॐ सर्वापद्विनिवारिण्यै नमः",
+  "syllables": ["sar", "vā", "pad", "vi", "ni", "vā", "ri", "ṇī"],
+  "words": [
+    { "sa": "सर्व", "meaning": { "en": "all", "hi": "सब, समस्त" } },
+    { "sa": "आपद्", "meaning": { "en": "calamity, misfortune", "hi": "आपदा, विपत्ति" } },
+    { "sa": "विनिवारिणी", "meaning": { "en": "she who wards off completely", "hi": "पूर्णतः निवारण करने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who wards off every calamity",
+    "hi": "जो सब विपत्तियों का निवारण करती हैं"
+  },
+  "explanation": {
+    "en": "Āpad is calamity, misfortune, and she wards off every one of them. Bhāskararāya hears both prefixes in vinivāriṇī: vi, each one in particular, and ni, completely.",
+    "hi": "आपद् का अर्थ है विपत्ति, संकट, और वे हर विपत्ति को दूर करती हैं। भास्करराय ‘विनिवारिणी’ के दोनों उपसर्गों का अर्थ बताते हैं: ‘वि’ अर्थात् एक-एक को अलग से, और ‘नि’ अर्थात् पूरी तरह।"
+  },
+  "inner": {
+    "en": "He joins this name to the last. Those who know neither the path of the gods nor the path of the fathers, says the śruti, are born again as worms and insects; even their calamity she removes out of compassion, by means as easy as remembering her name. He quotes the Devī’s words in the Kūrma Purāṇa: even those who lack the virtues described, if they repeat her name, she frees before long from mountains of calamity with the lamp of knowledge.",
+    "hi": "वे इस नाम को पिछले नाम से जोड़ते हैं। श्रुति कहती है कि जो न देवयान को जानते हैं न पितृयाण को, वे कीट-पतंग बनकर जन्म लेते हैं; उनकी विपत्ति भी वे करुणा से, केवल नाम-स्मरण जैसे सरल साधन से, दूर कर देती हैं। वे कूर्म पुराण में देवी का वचन उद्धृत करते हैं: जो बताए गए गुणों से रहित होकर भी मेरा नाम जपते हैं, उनकी पर्वत जैसी विपत्तियों को भी मैं ज्ञान के दीपक से शीघ्र नष्ट कर देती हूँ।"
+  },
+  "story": {
+    "en": "Bhāskararāya also cites the Harivaṃśa and the Varāha Purāṇa, and closes with a verse of the learned: in calamity, what should one do? Remember the two feet of the Mother. And what does that remembrance do? It makes even Brahmā and the gods one’s servants.",
+    "hi": "भास्करराय हरिवंश और वराह पुराण के वचन भी देते हैं, और अन्त में विद्वानों का एक श्लोक: विपत्ति में क्या करना चाहिए? माँ के दोनों चरणों का स्मरण। और वह स्मरण क्या करता है? ब्रह्मा आदि देवताओं को भी सेवक बना देता है।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वा आपदो विशिष्य नितरां वारयति ।",
+    "translation": {
+      "en": "She wards off all calamities, each in particular (vi) and completely (ni).",
+      "hi": "वे सब विपत्तियों को, एक-एक को विशेष रूप से (वि) और पूर्ण रूप से (नि), दूर करती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 913 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The passage on those who know neither path (अथ य एतौ पन्थानौ न विदुः…) is cited by Bhāskararāya as śruti without naming the text. The closing verse is quoted by him as a saying of the learned (अभियुक्ता अप्याहुः)." }
+}

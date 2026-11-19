@@ -1,0 +1,43 @@
+{
+  "number": 935,
+  "verse": 173,
+  "slug": "jagad-dhatri",
+  "devanagari": "जगद्धात्री",
+  "iastSplit": "Jagad-dhātrī",
+  "archana": "ॐ जगद्धात्र्यै नमः",
+  "syllables": ["ja", "gad", "dhāt", "rī"],
+  "words": [
+    { "sa": "जगत्", "meaning": { "en": "world", "hi": "जगत, संसार" } },
+    { "sa": "धात्री", "meaning": { "en": "she who upholds; nurse, foster-mother", "hi": "धारण करने वाली; धाय, उपमाता" } }
+  ],
+  "meaning": {
+    "en": "She who upholds and nurtures the world",
+    "hi": "जो जगत को धारण करती और उसका पालन करती हैं"
+  },
+  "explanation": {
+    "en": "Dhātrī comes from the root dhā, to hold or support, and also means a nurse or foster-mother. She holds up the world in the form of the earth, and she nurtures it as a nurse cares for a child.",
+    "hi": "धात्री शब्द ‘धा’ धातु से बना है, जिसका अर्थ है धारण करना, और इसका अर्थ धाय या पालने वाली माँ भी है। वे पृथ्वी रूप से जगत को धारण करती हैं, और जैसे धाय बच्चे की देखभाल करती है, वैसे उसका पालन करती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes the Kāṇva recension of the Veda on the One who is the protector of beings and the dam that holds these worlds apart, so that they do not collapse into one another. He also cites the Devī Purāṇa: because she holds the worlds and gives them their livelihood, the wise call her Jagaddhātrī.",
+    "hi": "भास्करराय वेद की काण्व शाखा का वचन देते हैं: वह भूतों का पालक है, वह सेतु है जो इन लोकों को धारण करके अलग रखता है, ताकि वे एक-दूसरे में न मिल जाएँ। वे देवी पुराण का वचन भी देते हैं: क्योंकि वे लोकों को धारण करती हैं और उन्हें जीविका देती हैं, इसलिए ज्ञानी उन्हें जगद्धात्री कहते हैं।"
+  },
+  "story": {
+    "en": "Paired with Viśva-mātā before it, the name completes the picture of her motherhood: she gives birth to the world, then holds and feeds it. Bhāskararāya’s word for the nurse is upamātā, the second mother who brings up a child.",
+    "hi": "पिछले नाम विश्वमाता के साथ यह उनके मातृत्व का चित्र पूरा करता है: वे जगत को जन्म देती हैं, फिर उसे धारण करती और पोषती हैं। धाय के लिए भास्करराय का शब्द है ‘उपमाता’, वह दूसरी माँ जो बच्चे को पालती है।"
+  },
+  "commentary": {
+    "sanskrit": "जगद्धत्ते भूरूपेणेति जगद्धात्री । उपमाता वा पालकत्वात् ।",
+    "translation": {
+      "en": "She holds (dhatte) the world in the form of the earth, hence Jagaddhātrī. Or she is its foster-mother, because she protects it.",
+      "hi": "वे पृथ्वी रूप से जगत को धारण करती हैं, इसलिए जगद्धात्री हैं। अथवा पालन करने के कारण वे उसकी उपमाता, धाय, हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 935 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Kāṇva passage (एष भूतपाल एष सेतुर्विधरण एषां लोकानामसम्भेदाय) is cited by Bhāskararāya as काण्वश्रुति without naming the Upaniṣad or its subject; ‘the One’ is used for the subject." }
+}

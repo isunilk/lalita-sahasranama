@@ -1,0 +1,43 @@
+{
+  "number": 941,
+  "verse": 173,
+  "slug": "mano-mayi",
+  "devanagari": "मनोमयी",
+  "iastSplit": "Mano-mayī",
+  "archana": "ॐ मनोमय्यै नमः",
+  "syllables": ["ma", "no", "ma", "yī"],
+  "words": [
+    { "sa": "मनस्", "meaning": { "en": "mind", "hi": "मन" } },
+    { "sa": "मयी", "meaning": { "en": "made of, consisting of", "hi": "से बनी, मयी" } }
+  ],
+  "meaning": {
+    "en": "She who is of the nature of mind",
+    "hi": "जो मन-स्वरूपा हैं"
+  },
+  "explanation": {
+    "en": "Manomayī means made of mind. Bhāskararāya explains that she stands as the mind of the pure Brahman: as a mind is to a person, so she is to the Absolute.",
+    "hi": "मनोमयी का अर्थ है मन से बनी, मन-स्वरूपा। भास्करराय बताते हैं कि वे शुद्ध ब्रह्म के मन के स्थान पर हैं: जैसे व्यक्ति के लिए उसका मन, वैसे ही परब्रह्म के लिए वे।"
+  },
+  "inner": {
+    "en": "He quotes the Yoga Vāsiṣṭha: that Bhairava, the sky of consciousness, is called Śiva; know her as not other than him, his spanda-śakti, his power of vibration, made of mind. Or manomayī means ‘in whom mind is chief’, since, as the śruti says, it is to be seen by the mind alone, and the mind is the chief means of knowing her.",
+    "hi": "वे योगवासिष्ठ का वचन देते हैं: वह भैरव, चिदाकाश, शिव कहलाता है; उससे अभिन्न उसकी स्पन्द-शक्ति को जानो, जो मनोमयी है। अथवा मनोमयी का अर्थ है ‘जिसमें मन प्रधान है’, क्योंकि श्रुति कहती है कि उसे मन से ही देखा जाता है, और उन्हें जानने में मन ही मुख्य साधन है।"
+  },
+  "story": {
+    "en": "Bhāskararāya cites the Yoga Vāsiṣṭha by its longer name, the Mahā-Vāsiṣṭha-Rāmāyaṇa. In the verse he quotes, this ‘mind’ is spanda, the first stir of consciousness in Śiva, rather than the restless mind of everyday life.",
+    "hi": "भास्करराय योगवासिष्ठ को उसके लम्बे नाम, महावासिष्ठरामायण, से उद्धृत करते हैं। उनके उद्धृत श्लोक में यह ‘मन’ स्पन्द है, शिव में चेतना का पहला स्पन्दन, न कि दैनिक जीवन का चंचल मन।"
+  },
+  "commentary": {
+    "sanskrit": "शुद्धस्य ब्रह्मणो मनःस्थानीयत्वान्मनोमयी ।",
+    "translation": {
+      "en": "Because she stands in the place of mind to the pure Brahman, she is Manomayī.",
+      "hi": "शुद्ध ब्रह्म के मन के स्थान पर होने के कारण वे मनोमयी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 941 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The phrase मनसैवानुद्रष्टव्यः is cited by Bhāskararāya as śruti without naming the text. The closing contrast in the story is an interpretation of the verse he quotes." }
+}

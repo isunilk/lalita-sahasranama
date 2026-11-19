@@ -1,0 +1,43 @@
+{
+  "number": 942,
+  "verse": 174,
+  "slug": "vyoma-keshi",
+  "devanagari": "व्योमकेशी",
+  "iastSplit": "Vyoma-keśī",
+  "archana": "ॐ व्योमकेश्यै नमः",
+  "syllables": ["vyo", "ma", "ke", "śī"],
+  "words": [
+    { "sa": "व्योमन्", "meaning": { "en": "sky, space", "hi": "व्योम, आकाश" } },
+    { "sa": "केश", "meaning": { "en": "hair", "hi": "केश, बाल" } }
+  ],
+  "meaning": {
+    "en": "Whose hair is the sky",
+    "hi": "आकाश ही जिनके केश हैं"
+  },
+  "explanation": {
+    "en": "Vyoman is the sky, space, and keśa is hair. In her cosmic form, with the whole universe as her body, the sky itself is her hair. Bhāskararāya also reads the name as the consort of Vyomakeśa, ‘sky-haired’, a name of Śiva.",
+    "hi": "व्योम का अर्थ है आकाश, और केश का अर्थ है बाल। उनके विराट रूप में, जहाँ सारा ब्रह्माण्ड उनका शरीर है, आकाश ही उनके केश हैं। भास्करराय इसे व्योमकेश, अर्थात् आकाश-केश शिव, की पत्नी के रूप में भी पढ़ते हैं।"
+  },
+  "inner": {
+    "en": "He adds a reading from the word vyomaka, ‘a little sky’: the vast sky is small beside her, and she is its ruler, more pervasive still. Or she is the consort of the Lord whose form is space, and so is herself the directions.",
+    "hi": "वे ‘व्योमक’ शब्द से भी एक अर्थ देते हैं, अर्थात् ‘छोटा-सा आकाश’: विशाल आकाश भी उनके सामने छोटा है, वे उसकी ईश्वरी हैं, उससे भी अधिक व्यापक। अथवा वे आकाश-रूप ईश्वर की पत्नी हैं, और इसलिए स्वयं दिशाओं का रूप हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya calls this her virāṭ form, the universe seen as her body. Śiva too is called Vyomakeśa, and the name makes the pair alike: both have the sky for their hair.",
+    "hi": "भास्करराय इसे उनका विराट रूप कहते हैं, जिसमें सारा ब्रह्माण्ड उनके शरीर के रूप में देखा जाता है। शिव भी व्योमकेश कहलाते हैं, और यह नाम दोनों को एक-सा बना देता है: दोनों के केश आकाश हैं।"
+  },
+  "commentary": {
+    "sanskrit": "व्योमैव केशा यस्या विराड्रूपायाः । व्योमकेशस्य शिवस्य स्त्री वा ।",
+    "translation": {
+      "en": "She, in her cosmic form, whose hair is the sky itself; or the wife of Vyomakeśa, Śiva.",
+      "hi": "विराट रूप वाली वे, जिनके केश आकाश ही हैं; अथवा व्योमकेश शिव की पत्नी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 942 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude." }
+}

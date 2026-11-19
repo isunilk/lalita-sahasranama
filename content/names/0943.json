@@ -1,0 +1,43 @@
+{
+  "number": 943,
+  "verse": 174,
+  "slug": "vimana-stha",
+  "devanagari": "विमानस्था",
+  "iastSplit": "Vimāna-sthā",
+  "archana": "ॐ विमानस्थायै नमः",
+  "syllables": ["vi", "mā", "nas", "thā"],
+  "words": [
+    { "sa": "विमान", "meaning": { "en": "celestial chariot; for Bhāskararāya also the immeasurable, and the Veda", "hi": "विमान, आकाश-यान; भास्करराय के अनुसार अपरिमित, और वेद भी" } },
+    { "sa": "स्था", "meaning": { "en": "abiding", "hi": "स्थित" } }
+  ],
+  "meaning": {
+    "en": "She who abides in the celestial chariots",
+    "hi": "जो आकाशगामी विमानों में स्थित हैं"
+  },
+  "explanation": {
+    "en": "A vimāna is a chariot that travels through the sky. The gods dwell in such chariots, and Bhāskararāya explains that since she is one with the gods, she too abides in them. Or the vimāna is her own chariot, such as the Kiricakra and the others of her army.",
+    "hi": "विमान वह रथ है जो आकाश में चलता है। देवता ऐसे विमानों में रहते हैं, और भास्करराय बताते हैं कि देवताओं से अभिन्न होने के कारण देवी भी उनमें स्थित हैं। अथवा विमान उनका अपना रथ है, जैसे किरिचक्र और उनकी सेना के अन्य रथ।"
+  },
+  "inner": {
+    "en": "His other readings turn vimāna into ideas. As vi-gata-māna, ‘beyond all measure’, it means she rests in the immeasurable Brahman. As that which gives true knowledge, the Veda, it means she abides in the Veda as what it teaches. Or she abides in the fourteen recognised seats of knowledge and dharma, the Purāṇas, logic, Mīmāṃsā and the rest.",
+    "hi": "उनकी अन्य व्याख्याएँ ‘विमान’ को विचारों में बदल देती हैं। ‘वि-गत-मान’, अर्थात् सब माप से परे, के रूप में इसका अर्थ है कि वे अपरिच्छिन्न ब्रह्म में स्थित हैं। यथार्थ ज्ञान देने वाले, अर्थात् वेद, के रूप में इसका अर्थ है कि वे वेद में उसके प्रतिपाद्य के रूप में स्थित हैं। अथवा वे विद्या और धर्म के चौदह मान्य स्थानों में, पुराण, न्याय, मीमांसा आदि में, स्थित हैं।"
+  },
+  "story": {
+    "en": "In the Lalitopākhyāna the Goddess rides to war against Bhaṇḍāsura in the Cakrarāja chariot, with Mantriṇī in the Geyacakra and Daṇḍanāthā in the Kiricakra (names 68 to 70). Bhāskararāya’s mention of the Kiricakra points back to that battle.",
+    "hi": "ललितोपाख्यान में देवी भण्डासुर से युद्ध के लिए चक्रराज रथ पर चढ़ती हैं, मन्त्रिणी गेयचक्र पर और दण्डनाथा किरिचक्र पर (नाम 68 से 70)। भास्करराय का किरिचक्र का उल्लेख उसी युद्ध की ओर संकेत करता है।"
+  },
+  "commentary": {
+    "sanskrit": "विमानो व्योमयानं तत्रस्था देवास्तदभेदादम्बिकापि ।",
+    "translation": {
+      "en": "A vimāna is a sky-chariot; the gods dwell in them, and because she is one with them, so does the Mother.",
+      "hi": "विमान अर्थात् आकाश-यान; उनमें देवता रहते हैं, और उनसे अभेद के कारण अम्बिका भी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 943 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Several of Bhāskararāya’s readings are summarised; the reading of vimāna as special honour is omitted, and his citation of Jaimini’s sūtra on the authority of the fourteen seats of knowledge is not used." }
+}

@@ -1,0 +1,42 @@
+{
+  "number": 928,
+  "verse": 172,
+  "slug": "stutimati",
+  "devanagari": "स्तुतिमती",
+  "iastSplit": "Stutimatī",
+  "archana": "ॐ स्तुतिमत्यै नमः",
+  "syllables": ["stu", "ti", "ma", "tī"],
+  "words": [
+    { "sa": "स्तुतिमती", "meaning": { "en": "possessed of praise (stuti + -matī, ‘having’)", "hi": "स्तुति से युक्त (स्तुति + मती)" } }
+  ],
+  "meaning": {
+    "en": "She to whom all praise belongs",
+    "hi": "जो समस्त स्तुति की विषय हैं"
+  },
+  "explanation": {
+    "en": "Stuti is praise, and -matī means ‘having’. Bhāskararāya explains in what sense praise belongs to her: she is its object. All praise goes to her.",
+    "hi": "स्तुति का अर्थ है प्रशंसा, और ‘मती’ का अर्थ है ‘युक्त’। भास्करराय बताते हैं कि स्तुति किस अर्थ में उनकी है: वे उसकी विषय हैं। सारी स्तुति उन्हीं की ओर जाती है।"
+  },
+  "inner": {
+    "en": "His second reading divides the name into stuti, mati and ī: she by praising whom one gains mati, understanding, and ī, sovereignty. In his words, through praise of her, knowledge and lordship are both won. Praise offered to her returns to the one who offers it.",
+    "hi": "उनकी दूसरी व्याख्या इस नाम को स्तुति, मति और ‘ई’ में बाँटती है: वे जिनकी स्तुति से मति, अर्थात् ज्ञान, और ‘ई’, अर्थात् ऐश्वर्य, प्राप्त होते हैं। उनके शब्दों में, उनकी स्तुति से ज्ञान और ऐश्वर्य दोनों मिलते हैं। उन्हें अर्पित की गई स्तुति अर्पण करने वाले के पास ही लौट आती है।"
+  },
+  "story": {
+    "en": "With the names before and after, this forms a trio on praise: she loves hymns, she is the one praised, and the Vedas praise her greatness.",
+    "hi": "आगे-पीछे के नामों के साथ यह स्तुति पर तीन नामों का समूह बनाता है: उन्हें स्तोत्र प्रिय हैं, वे स्तुति की विषय हैं, और वेद उनकी महिमा की स्तुति करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "स्तुतिरस्यां कर्मतासम्बन्धेनास्तीति स्तुतिमती ।",
+    "translation": {
+      "en": "Praise is in her by the relation of being its object; hence she is Stutimatī, ‘possessed of praise’.",
+      "hi": "स्तुति उनमें विषय होने के सम्बन्ध से रहती है; इसलिए वे स्तुतिमती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 928 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The last sentence of the inner layer is a reflection." }
+}

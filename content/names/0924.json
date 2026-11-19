@@ -1,0 +1,45 @@
+{
+  "number": 924,
+  "verse": 171,
+  "slug": "dara-smera-mukhambuja",
+  "devanagari": "दरस्मेरमुखाम्बुजा",
+  "iastSplit": "Dara-smera-mukhāmbujā",
+  "archana": "ॐ दरस्मेरमुखाम्बुजायै नमः",
+  "syllables": ["da", "ras", "me", "ra", "mu", "khām", "bu", "jā"],
+  "words": [
+    { "sa": "दर", "meaning": { "en": "a little; also fear, and a conch", "hi": "थोड़ा; भय और शंख भी" } },
+    { "sa": "स्मेर", "meaning": { "en": "smiling", "hi": "मुस्कुराता हुआ" } },
+    { "sa": "मुख", "meaning": { "en": "face", "hi": "मुख" } },
+    { "sa": "अम्बुज", "meaning": { "en": "lotus, the water-born", "hi": "कमल" } }
+  ],
+  "meaning": {
+    "en": "Whose lotus face is softly smiling",
+    "hi": "जिनका मुख-कमल मन्द-मन्द मुस्कुराता है"
+  },
+  "explanation": {
+    "en": "Dara means a little, smera smiling, and mukhāmbuja the lotus of her face. Her face is a lotus, and on it there is always a gentle smile.",
+    "hi": "दर का अर्थ है थोड़ा, स्मेर का मुस्कुराता हुआ, और मुखाम्बुज का मुख रूपी कमल। उनका मुख कमल है, और उस पर सदा एक कोमल मुस्कान रहती है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya also takes dara as fear: her face smiles even in the hour of fear. At the dissolution that ends a world-age, he says, every other face grows pale with dread, but the Mother’s face is always smiling. Or dara is ādara, care: her face brightens with kindness when she attends to her devotees.",
+    "hi": "भास्करराय ‘दर’ का अर्थ भय भी लेते हैं: भय की घड़ी में भी उनका मुख मुस्कुराता रहता है। वे कहते हैं, कल्प के अन्त जैसे प्रलय-काल में दूसरों के मुख भय से फीके पड़ जाते हैं, पर माँ का मुख सदा मुस्कुराता ही रहता है। अथवा ‘दर’ आदर है: भक्तों का आदर करते समय उनका मुख प्रसन्नता से खिल उठता है।"
+  },
+  "story": {
+    "en": "Another reading takes dara as a conch: her neck, which bears the lotus of her face, shines like a conch, so that the name praises her conch-like throat. Her smile appeared before in name 28, where the flood of light from her gentle smile overwhelms the mind of Kāmeśvara.",
+    "hi": "एक और व्याख्या में ‘दर’ शंख है: मुख-कमल को धारण करने वाली उनकी ग्रीवा शंख जैसी शोभित है, अर्थात् वे कम्बुकण्ठी हैं। उनकी मुस्कान पहले नाम 28 में भी आई है, जहाँ उनकी मन्द मुस्कान की प्रभा की बाढ़ में कामेश्वर का मन डूब जाता है।"
+  },
+  "commentary": {
+    "sanskrit": "दरे भयकालेऽपि स्मेरमेव मुखाम्बुजं यस्या इति वा ।",
+    "translation": {
+      "en": "Or: dara is fear; she whose lotus face is smiling even in the time of fear.",
+      "hi": "अथवा ‘दर’ अर्थात् भय: भय के समय में भी जिनका मुख-कमल मुस्कुराता ही रहता है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 924 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude." }
+}

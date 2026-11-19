@@ -1,0 +1,43 @@
+{
+  "number": 934,
+  "verse": 173,
+  "slug": "vishva-mata",
+  "devanagari": "विश्वमाता",
+  "iastSplit": "Viśva-mātā",
+  "archana": "ॐ विश्वमात्रे नमः",
+  "syllables": ["viś", "va", "mā", "tā"],
+  "words": [
+    { "sa": "विश्व", "meaning": { "en": "the universe, all; also a name of Viṣṇu", "hi": "विश्व, सम्पूर्ण जगत; विष्णु का नाम भी" } },
+    { "sa": "माता", "meaning": { "en": "mother", "hi": "माता, माँ" } }
+  ],
+  "meaning": {
+    "en": "Mother of the universe",
+    "hi": "विश्व की माता"
+  },
+  "explanation": {
+    "en": "Viśva is the universe, all that is, and mātā is mother: she is the mother of everything that exists. Bhāskararāya adds that viśva is also a name of Viṣṇu, so she is Viṣṇu’s mother too.",
+    "hi": "विश्व का अर्थ है सम्पूर्ण जगत, जो कुछ भी है, और माता का अर्थ है माँ: वे हर अस्तित्व की माता हैं। भास्करराय जोड़ते हैं कि ‘विश्व’ विष्णु का भी नाम है, इसलिए वे विष्णु की भी माता हैं।"
+  },
+  "inner": {
+    "en": "For the second sense he cites the Vedic hymn that begins ‘Soma flows’ and calls Soma the begetter of Viṣṇu, and he applies it to her. She is the source even of the god who sustains the world. The hymn began with Śrī-mātā, the Mother; near its end it calls her Mother again, now of the whole universe.",
+    "hi": "दूसरे अर्थ के लिए वे उस वैदिक मन्त्र का प्रमाण देते हैं जो ‘सोमः पवते’ से आरम्भ होता है और सोम को विष्णु का जनक कहता है, और वे इसे देवी पर घटाते हैं। वे जगत का पालन करने वाले देव की भी जननी हैं। स्तोत्र ‘श्रीमाता’ से आरम्भ हुआ था; अन्त के निकट यह उन्हें फिर माता कहता है, अब सम्पूर्ण विश्व की।"
+  },
+  "story": {
+    "en": "This verse opens with two names of motherhood, Viśva-mātā and Jagad-dhātrī: the mother who gives birth, and the nurse who sustains.",
+    "hi": "यह श्लोक मातृत्व के दो नामों से आरम्भ होता है, विश्वमाता और जगद्धात्री: जन्म देने वाली माता, और पालन करने वाली धात्री।"
+  },
+  "commentary": {
+    "sanskrit": "विश्वस्य जगतो विष्णोर्वा माता ।",
+    "translation": {
+      "en": "Mother of the viśva, the world; or of Viṣṇu.",
+      "hi": "विश्व, अर्थात् जगत की, अथवा विष्णु की माता।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 934 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya cites the Vedic verse only by its opening (सोमः पवते) and the phrase जनितोत विष्णोः; how he applies Soma’s title to the Goddess is not spelled out, and the inner layer says only that he applies it. The last sentence of the inner layer is a reflection." }
+}

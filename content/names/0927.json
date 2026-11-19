@@ -1,0 +1,43 @@
+{
+  "number": 927,
+  "verse": 172,
+  "slug": "stotra-priya",
+  "devanagari": "स्तोत्रप्रिया",
+  "iastSplit": "Stotra-priyā",
+  "archana": "ॐ स्तोत्रप्रियायै नमः",
+  "syllables": ["stot", "rap", "ri", "yā"],
+  "words": [
+    { "sa": "स्तोत्र", "meaning": { "en": "hymn of praise", "hi": "स्तोत्र, स्तुति" } },
+    { "sa": "प्रिय", "meaning": { "en": "dear", "hi": "प्रिय" } }
+  ],
+  "meaning": {
+    "en": "She who loves hymns of praise",
+    "hi": "जिन्हें स्तोत्र प्रिय हैं"
+  },
+  "explanation": {
+    "en": "A stotra is a hymn that recounts the virtues of the one praised, and she delights in such hymns. Bhāskararāya includes both the hymns of everyday devotion and the stotras of the Vedic rite, performed with sung mantras.",
+    "hi": "स्तोत्र वह स्तुति है जो स्तुत्य के गुणों का वर्णन करती है, और उन्हें ऐसी स्तुतियाँ प्रिय हैं। भास्करराय इसमें लोक में गाए जाने वाले भक्ति-स्तोत्र और वैदिक यज्ञ के स्तोत्र, जो गाए गए मन्त्रों से सम्पन्न होते हैं, दोनों को लेते हैं।"
+  },
+  "inner": {
+    "en": "He quotes the six marks of a hymn: salutation, blessing, statement of doctrine, valour, glory and prayer. Then he gives six names from this very Sahasranāma, in the same order, one for each: Trijagad-vandyā (salutation), Svastimatī (blessing), Mithyā-jagad-adhiṣṭhānā (doctrine), the name in which she rains counter-weapons on Bhaṇḍāsura’s weapons (valour), Icchā-śakti-jñāna-śakti-kriyā-śakti-svarūpiṇī (glory) and Sāmrājya-dāyinī (prayer). The thousand names are themselves the hymn she loves.",
+    "hi": "वे स्तोत्र के छह लक्षण उद्धृत करते हैं: नमस्कार, आशीर्वाद, सिद्धान्त का कथन, पराक्रम, विभूति और प्रार्थना। फिर वे इसी सहस्रनाम से छह नाम देते हैं, उसी क्रम में, हर लक्षण के लिए एक: त्रिजगद्वन्द्या (नमस्कार), स्वस्तिमती (आशीर्वाद), मिथ्याजगदधिष्ठाना (सिद्धान्त), भण्डासुर के अस्त्रों पर प्रत्यस्त्र बरसाने वाला नाम (पराक्रम), इच्छाशक्तिज्ञानशक्तिक्रियाशक्तिस्वरूपिणी (विभूति), और साम्राज्यदायिनी (प्रार्थना)। ये सहस्र नाम स्वयं वह स्तोत्र हैं जो उन्हें प्रिय है।"
+  },
+  "story": {
+    "en": "Here begins a run of three names on praise: she loves hymns, all praise is directed to her, and the Vedas themselves sing her greatness. The Sahasranāma is itself such a stotra, composed, as its frame story tells, by the Vāgdevīs at her command.",
+    "hi": "यहाँ से स्तुति के तीन नाम आरम्भ होते हैं: उन्हें स्तोत्र प्रिय हैं, सारी स्तुति उन्हीं की ओर जाती है, और स्वयं वेद उनकी महिमा गाते हैं। सहस्रनाम स्वयं ऐसा ही स्तोत्र है, जिसकी रचना, कथा के अनुसार, देवी की आज्ञा से वाग्देवियों ने की।"
+  },
+  "commentary": {
+    "sanskrit": "नमस्कारस्तथाशीश्च सिद्धान्तोक्तिः पराक्रमः । विभूतिः प्रार्थना चेति षड्विधं स्तोत्रलक्षणम् ।।",
+    "translation": {
+      "en": "Salutation, blessing, the statement of doctrine, valour, glory and prayer: these are the six marks of a hymn of praise.",
+      "hi": "नमस्कार, आशीर्वाद, सिद्धान्त का कथन, पराक्रम, विभूति और प्रार्थना: ये स्तोत्र के छह लक्षण हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 927 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The commentary excerpt is a verse Bhāskararāya quotes as the saying of the learned (इत्यभियुक्तोक्तः), not his own words. He lists six names of the Sahasranāma after it (627, 448, 735, 79, 658, 692) without stating the correspondence; matching them one to one with the six marks follows their order. His reading of stotrī as ‘waters’ is not used." }
+}

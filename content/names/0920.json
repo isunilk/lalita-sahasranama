@@ -1,0 +1,43 @@
+{
+  "number": 920,
+  "verse": 170,
+  "slug": "sadodita",
+  "devanagari": "सदोदिता",
+  "iastSplit": "Sadoditā",
+  "archana": "ॐ सदोदितायै नमः",
+  "syllables": ["sa", "do", "di", "tā"],
+  "words": [
+    { "sa": "सदा", "meaning": { "en": "always", "hi": "सदा, नित्य" } },
+    { "sa": "उदित", "meaning": { "en": "risen", "hi": "उदित, उगा हुआ" } }
+  ],
+  "meaning": {
+    "en": "She who has always risen",
+    "hi": "जो सदा उदित हैं"
+  },
+  "explanation": {
+    "en": "Sadā is always, and uditā is risen, as the sun rises. She never sets, because she shines by her own light. Bhāskararāya also reads the name as sad-ā-uditā: she has risen fully among the good.",
+    "hi": "सदा का अर्थ है हमेशा, और उदिता का अर्थ है उदित, जैसे सूर्य उदित होता है। वे कभी अस्त नहीं होतीं, क्योंकि वे स्वयं-प्रकाश हैं। भास्करराय इसे ‘सत्-आ-उदिता’ भी पढ़ते हैं: वे सज्जनों में पूर्ण रूप से उदित हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives the reason in one word: she is svaprakāśa, self-luminous. What shines by its own light needs nothing to make it rise, and nothing can make it set. In his second reading she shines out most fully in good people.",
+    "hi": "भास्करराय इसका कारण एक शब्द में देते हैं: वे स्वप्रकाश हैं। जो अपने ही प्रकाश से चमकता है, उसे उदित होने के लिए किसी की आवश्यकता नहीं, और कोई उसे अस्त नहीं कर सकता। उनकी दूसरी व्याख्या में वे सज्जनों में सबसे पूर्ण रूप से प्रकट होती हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya says the next name, Sadātuṣṭā, has the same two meanings: always content, and content among the good. The two names stand side by side as a pair.",
+    "hi": "भास्करराय कहते हैं कि अगले नाम, सदातुष्टा, के भी यही दो अर्थ हैं: सदा सन्तुष्ट, और सज्जनों में सन्तुष्ट। ये दोनों नाम एक जोड़ी के रूप में साथ-साथ आते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "सदा नित्यं उदिता उदयवती स्वप्रकाशत्वात् ।",
+    "translation": {
+      "en": "Sadā, always; uditā, risen: she is ever risen, because she is self-luminous.",
+      "hi": "सदा अर्थात् नित्य; उदिता अर्थात् उदयवती; क्योंकि वे स्वप्रकाश हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 920 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The second sentence of the inner layer is a reflection on Bhāskararāya’s word स्वप्रकाशत्वात्." }
+}

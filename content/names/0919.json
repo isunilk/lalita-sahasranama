@@ -1,0 +1,44 @@
+{
+  "number": 919,
+  "verse": 170,
+  "slug": "chaitanya-kusuma-priya",
+  "devanagari": "चैतन्यकुसुमप्रिया",
+  "iastSplit": "Caitanya-kusuma-priyā",
+  "archana": "ॐ चैतन्यकुसुमप्रियायै नमः",
+  "syllables": ["cai", "tan", "ya", "ku", "su", "map", "ri", "yā"],
+  "words": [
+    { "sa": "चैतन्य", "meaning": { "en": "consciousness", "hi": "चैतन्य, चेतना" } },
+    { "sa": "कुसुम", "meaning": { "en": "flower", "hi": "कुसुम, पुष्प" } },
+    { "sa": "प्रिय", "meaning": { "en": "dear", "hi": "प्रिय" } }
+  ],
+  "meaning": {
+    "en": "She who loves the flower of consciousness",
+    "hi": "जिन्हें चैतन्य रूपी पुष्प प्रिय है"
+  },
+  "explanation": {
+    "en": "Kusuma is a flower, and the flower dear to her is caitanya, consciousness itself. Bhāskararāya explains why consciousness is called a flower: it brings forth the great fruit.",
+    "hi": "कुसुम का अर्थ है पुष्प, और उन्हें प्रिय पुष्प है चैतन्य, स्वयं चेतना। भास्करराय बताते हैं कि चेतना को पुष्प क्यों कहा गया: उसी से महान फल उत्पन्न होता है।"
+  },
+  "inner": {
+    "en": "He takes this flower to stand for the eight flowers named by the learned: non-violence, restraint of the senses, patience, compassion, knowledge, held the highest, austerity, truth, and bhāva, heartfelt devotion, the eighth. These are flowers no garden grows. Each is consciousness itself in bloom, offered from within.",
+    "hi": "वे इस पुष्प को विद्वानों द्वारा बताए गए आठ पुष्पों का प्रतीक मानते हैं: अहिंसा, इन्द्रिय-निग्रह, क्षमा, दया, ज्ञान, जो सबसे श्रेष्ठ माना गया है, तप, सत्य, और आठवाँ भाव, अर्थात् हृदय की भक्ति। ये ऐसे पुष्प हैं जो किसी उपवन में नहीं उगते। हर एक चेतना का ही खिला हुआ रूप है, जो भीतर से अर्पित होता है।"
+  },
+  "story": {
+    "en": "Bhāskararāya notes that poets often picture consciousness as a flower, and cites a line from the Saundaryalaharī that speaks, for the dull, of a stream of nectar flowing from the cluster of consciousness. The earlier flower-names, such as Kadamba-kusuma-priyā (323) and Cāmpeya-kusuma-priyā (435), speak of garden blossoms; this one names the inner flower.",
+    "hi": "भास्करराय बताते हैं कि कवि प्रायः चेतना को पुष्प के रूप में चित्रित करते हैं, और सौन्दर्यलहरी की एक पंक्ति देते हैं, जिसमें जड़ बुद्धि वालों के लिए ‘चैतन्य रूपी पुष्प-गुच्छ से बहते मकरन्द की धारा’ कहा गया है। पहले के पुष्प-नाम, जैसे कदम्बकुसुमप्रिया (323) और चाम्पेयकुसुमप्रिया (435), उपवन के फूलों की बात करते हैं; यह नाम भीतर के पुष्प का।"
+  },
+  "commentary": {
+    "sanskrit": "चैतन्यं चिदेव कुसुमं महाफलप्रसूतित्वात् ।",
+    "translation": {
+      "en": "Caitanya, consciousness itself, is the flower, because it gives birth to the great fruit.",
+      "hi": "चैतन्य, अर्थात् चित् ही, पुष्प है, क्योंकि उससे महान फल उत्पन्न होता है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 919 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya quotes the phrase जडानां चैतन्यस्तबकमकरन्दस्रुतिझरी without naming its source; its identification as the Saundaryalaharī is added here. He says the two readings of the previous name that begin with saṃvid (from Kaula ritual) apply here too; they are not described. The last two sentences of the inner layer are a reflection." }
+}

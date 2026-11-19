@@ -1,0 +1,42 @@
+{
+  "number": 931,
+  "verse": 172,
+  "slug": "manavati",
+  "devanagari": "मानवती",
+  "iastSplit": "Mānavatī",
+  "archana": "ॐ मानवत्यै नमः",
+  "syllables": ["mā", "na", "va", "tī"],
+  "words": [
+    { "sa": "मानवती", "meaning": { "en": "possessed of māna: dignity, honour, a lover’s pique, measure (māna + -vatī, ‘having’)", "hi": "मान से युक्त: गरिमा, आदर, प्रेम का मान, प्रमाण (मान + वती)" } }
+  ],
+  "meaning": {
+    "en": "She who is full of dignity and honour",
+    "hi": "जो मान और गरिमा से युक्त हैं"
+  },
+  "explanation": {
+    "en": "Māna has many senses, and Bhāskararāya lists them: loftiness of mind, honour shown to others, the loving pique by which a woman shows her beloved that he has wronged her, and measure, or valid knowledge. She possesses māna in every one of these senses.",
+    "hi": "मान के कई अर्थ हैं, और भास्करराय उन्हें गिनाते हैं: चित्त की उन्नति अर्थात् स्वाभिमान, दूसरों का आदर, वह प्रेमपूर्ण रूठना जिससे नायिका प्रियतम के अपराध को जताती है, और प्रमाण या यथार्थ ज्ञान। वे इन सभी अर्थों में मान से युक्त हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives these senses as a list and draws no hidden meaning from them. Read as pramāṇa, the name makes her the very measure of what is true; read as a lover’s pique, it shows her as the beloved of Kāmeśvara, whose displeasure too is a form of love.",
+    "hi": "भास्करराय ये अर्थ सूची के रूप में देते हैं और इनसे कोई गूढ़ अर्थ नहीं निकालते। प्रमाण के अर्थ में यह नाम उन्हें सत्य का मापदण्ड बनाता है; प्रेम के मान के अर्थ में यह उन्हें कामेश्वर की प्रिया दिखाता है, जिनका रूठना भी प्रेम का ही एक रूप है।"
+  },
+  "story": {
+    "en": "In Sanskrit love-poetry māna is the heroine’s pique when her lover has wronged her, a familiar theme. Here the word joins Manasvinī before it: a free mind, and the dignity that goes with it.",
+    "hi": "संस्कृत शृंगार-काव्य में ‘मान’ नायिका का वह रूठना है जब प्रियतम कोई अपराध करता है; यह एक परिचित विषय है। यहाँ यह शब्द पिछले नाम मनस्विनी से जुड़ता है: स्वतन्त्र मन, और उसके साथ की गरिमा।"
+  },
+  "commentary": {
+    "sanskrit": "मानश्चित्तसमुन्नतिरादरणं वा प्रियापराधसूचिका चेष्टा वा प्रमाणं वा प्रमितिर्वास्यामस्तीति मानवती ।",
+    "translation": {
+      "en": "Māna, loftiness of mind; or honouring; or the gesture that shows a beloved’s offence; or a means of knowledge; or knowledge itself: she in whom it exists is Mānavatī.",
+      "hi": "मान, अर्थात् चित्त की उन्नति; या आदर; या प्रियतम के अपराध को जताने वाली चेष्टा; या प्रमाण; या प्रमिति: यह जिनमें है, वे मानवती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 931 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives a list of senses only; the second sentence of the inner layer is a reflection." }
+}

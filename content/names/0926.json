@@ -1,0 +1,45 @@
+{
+  "number": 926,
+  "verse": 171,
+  "slug": "anarghya-kaivalya-pada-dayini",
+  "devanagari": "अनर्घ्यकैवल्यपददायिनी",
+  "iastSplit": "Anarghya-kaivalya-pada-dāyinī",
+  "archana": "ॐ अनर्घ्यकैवल्यपददायिन्यै नमः",
+  "syllables": ["a", "nar", "ghya", "kai", "val", "ya", "pa", "da", "dā", "yi", "nī"],
+  "words": [
+    { "sa": "अनर्घ्य", "meaning": { "en": "priceless, beyond measure", "hi": "अनमोल, अपरिमित" } },
+    { "sa": "कैवल्य", "meaning": { "en": "final liberation, ‘aloneness’", "hi": "कैवल्य, परम मुक्ति" } },
+    { "sa": "पद", "meaning": { "en": "state, abode", "hi": "पद, अवस्था" } },
+    { "sa": "दायिनी", "meaning": { "en": "she who gives", "hi": "देने वाली" } }
+  ],
+  "meaning": {
+    "en": "Giver of the priceless state of kaivalya, final liberation",
+    "hi": "जो अनमोल कैवल्य पद, अर्थात् परम मुक्ति, प्रदान करती हैं"
+  },
+  "explanation": {
+    "en": "Anarghya means priceless, beyond any value, and so beyond measure. Kaivalya is final liberation, and pada is that state itself. It is her nature to give it.",
+    "hi": "अनर्घ्य का अर्थ है अनमोल, जिसका कोई मूल्य न आँका जा सके, और इसलिए जो किसी माप में न आए। कैवल्य परम मुक्ति है, और पद वह अवस्था। उसे देना उनका स्वभाव है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya calls kaivalya the fifth liberation, as he did under name 625, where the other four kinds were named. Anarghya, priceless, also means aparicchinna, unlimited: what she gives cannot be weighed against anything, because nothing stands outside it. The gift is not a reward bought by effort; giving it is simply her nature.",
+    "hi": "भास्करराय कैवल्य को पाँचवीं मुक्ति कहते हैं, जैसा उन्होंने नाम 625 में कहा था, जहाँ अन्य चार प्रकार की मुक्तियाँ गिनाई गई थीं। अनर्घ्य, अनमोल, का अर्थ अपरिच्छिन्न, असीम, भी है: वे जो देती हैं उसकी तुलना किसी वस्तु से नहीं हो सकती, क्योंकि उसके बाहर कुछ भी नहीं। यह दान प्रयत्न से खरीदा गया पुरस्कार नहीं; इसे देना उनका सहज स्वभाव है।"
+  },
+  "story": {
+    "en": "The name closes the verse and nearly repeats name 625, Kaivalya-pada-dāyinī; the added word anarghya marks the difference. The Saubhāgya Bhāskara edition prints the name with phala, fruit, in place of pada, state, but Bhāskararāya’s own gloss explains the word pada.",
+    "hi": "यह नाम श्लोक को पूर्ण करता है और लगभग नाम 625, कैवल्यपददायिनी, को दोहराता है; जोड़ा गया शब्द ‘अनर्घ्य’ ही अन्तर बताता है। सौभाग्य भास्कर के संस्करण में ‘पद’ के स्थान पर ‘फल’ छपा है, पर भास्करराय की अपनी व्याख्या ‘पद’ शब्द का ही अर्थ बताती है।"
+  },
+  "commentary": {
+    "sanskrit": "अनर्घ्यममूल्यमपरिच्छिन्नं यत्कैवल्याख्यं पदं पञ्चममुक्तिरूपं तद्दातुं शीलमस्याः ।",
+    "translation": {
+      "en": "Anarghya: priceless, unlimited. The state called kaivalya, which is the fifth liberation: it is her nature to give it.",
+      "hi": "अनर्घ्य अर्थात् अमूल्य, अपरिच्छिन्न; कैवल्य नाम का जो पद है, पाँचवीं मुक्ति-रूप, उसे देना इनका स्वभाव है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 926 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Variant: the Saubhāgya Bhāskara edition’s verse reads कैवल्यफलदायिनी; the master text’s कैवल्यपददायिनी is followed, and Bhāskararāya’s own gloss (कैवल्याख्यं पदं) supports पद. He also notes a reading with a long vowel (अनर्घ्या…) and gives two further analyses for it; these are not used. The second half of the second sentence and the last sentence of the inner layer are a reflection." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 940,
+  "verse": 173,
+  "slug": "paramoda",
+  "devanagari": "परामोदा",
+  "iastSplit": "Parāmodā",
+  "archana": "ॐ परामोदायै नमः",
+  "syllables": ["pa", "rā", "mo", "dā"],
+  "words": [
+    { "sa": "पर", "meaning": { "en": "supreme", "hi": "पर, उत्कृष्ट" } },
+    { "sa": "आमोद", "meaning": { "en": "fragrance; joy", "hi": "आमोद, सुगन्ध; आनन्द" } }
+  ],
+  "meaning": {
+    "en": "Whose joy and fragrant fame are supreme",
+    "hi": "जिनका आनन्द और जिनकी कीर्ति-सुगन्ध परम है"
+  },
+  "explanation": {
+    "en": "Para is supreme, and āmoda means both fragrance and joy. Bhāskararāya takes the fragrance as her fame, which spreads everywhere as a scent does; or he reads ā-moda, joy that fills everything.",
+    "hi": "पर का अर्थ है परम, उत्कृष्ट, और आमोद का अर्थ है सुगन्ध भी और आनन्द भी। भास्करराय सुगन्ध को उनकी कीर्ति मानते हैं, जो सुगन्ध की तरह सब ओर फैलती है; अथवा वे ‘आ-मोद’ पढ़ते हैं, ऐसा आनन्द जो सब कुछ भर दे।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only these senses. Both point the same way: what is hers does not stay in one place but fills everything around, as a fragrance fills the air unseen.",
+    "hi": "भास्करराय केवल ये अर्थ देते हैं। दोनों एक ही ओर संकेत करते हैं: जो उनका है वह एक स्थान पर नहीं रुकता, बल्कि चारों ओर भर जाता है, जैसे सुगन्ध बिना दिखे हवा में भर जाती है।"
+  },
+  "story": {
+    "en": "In one reading of the name before, she gives supreme joy; here that joy is her own. The line closes with Manomayī, she who is of the nature of mind.",
+    "hi": "पिछले नाम की एक व्याख्या में वे परम आनन्द देने वाली थीं; यहाँ वह आनन्द उनका अपना है। यह पंक्ति मनोमयी, मन-स्वरूपा, पर पूरी होती है।"
+  },
+  "commentary": {
+    "sanskrit": "पर उत्कृष्ट आमोदः परिमलः कीर्तिरिति यावत् । आ समन्तान्मोदः सन्तोषो वा यस्याः ।",
+    "translation": {
+      "en": "Whose āmoda, fragrance, that is, fame, is para, supreme. Or whose moda, joy and contentment, is ā, all around.",
+      "hi": "जिनका आमोद, अर्थात् परिमल, यानी कीर्ति, पर अर्थात् उत्कृष्ट है। अथवा जिनका मोद, अर्थात् सन्तोष, आ अर्थात् सब ओर है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 940 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal senses; the second sentence of the inner layer is a reflection." }
+}

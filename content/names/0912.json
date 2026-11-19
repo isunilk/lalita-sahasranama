@@ -1,0 +1,45 @@
+{
+  "number": 912,
+  "verse": 169,
+  "slug": "savyapasavya-marga-stha",
+  "devanagari": "सव्यापसव्यमार्गस्था",
+  "iastSplit": "Savyāpasavya-mārga-sthā",
+  "archana": "ॐ सव्यापसव्यमार्गस्थायै नमः",
+  "syllables": ["sav", "yā", "pa", "sav", "ya", "mār", "gas", "thā"],
+  "words": [
+    { "sa": "सव्य", "meaning": { "en": "left; also right, as a lexicon allows", "hi": "बायाँ; कोश के अनुसार दायाँ भी" } },
+    { "sa": "अपसव्य", "meaning": { "en": "right; the reverse of savya", "hi": "दायाँ, सव्य का उलटा" } },
+    { "sa": "मार्ग", "meaning": { "en": "path, way", "hi": "मार्ग, पथ" } },
+    { "sa": "स्था", "meaning": { "en": "abiding, established in", "hi": "स्थित" } }
+  ],
+  "meaning": {
+    "en": "Abiding in the left, the right and the middle paths",
+    "hi": "जो बाएँ, दाएँ और मध्य, तीनों मार्गों में स्थित हैं"
+  },
+  "explanation": {
+    "en": "Savya and apasavya mean left and right, and mārga means path; she abides in these paths. Bhāskararāya reads the name as three words, left, right and path, and gives four different sets of such paths, all of which, he says, are meant together.",
+    "hi": "सव्य और अपसव्य का अर्थ है बायाँ और दायाँ, और मार्ग का अर्थ है पथ; वे इन पथों में स्थित हैं। भास्करराय इस नाम में तीन शब्द देखते हैं, बायाँ, दायाँ और मार्ग, और ऐसे मार्गों की चार अलग-अलग व्याख्याएँ देते हैं, जिन्हें वे सब एक साथ ग्रहण करने को कहते हैं।"
+  },
+  "inner": {
+    "en": "In one reading the paths are the devayāna, the bright path reached by those who renounce, and the pitṛyāṇa, the smoky path reached by those devoted to action; the third is the world of Viṣṇu, seat of the pole star Dhruva, on which the courses of the sun and planets depend. In another they are the left-hand and right-hand ways of worship: she is reached by both, and every goddess worshipped on either path is, in the highest view, one with Tripurasundarī. In a third they are the subtle channels iḍā and piṅgalā, with the suṣumnā as the middle path.",
+    "hi": "एक व्याख्या में ये मार्ग हैं देवयान, त्याग करने वालों को मिलने वाला प्रकाशमय मार्ग, और पितृयाण, कर्म में लगे लोगों को मिलने वाला धूममय मार्ग; तीसरा है विष्णु का लोक, ध्रुव का स्थान, जिस पर सूर्य और ग्रहों के मार्ग टिके हैं। दूसरी व्याख्या में ये उपासना के वाम और दक्षिण मार्ग हैं: वे दोनों से प्राप्य हैं, और किसी भी मार्ग से पूजी जाने वाली हर देवी परमार्थ दृष्टि से त्रिपुरसुन्दरी से अभिन्न है। तीसरी व्याख्या में ये इडा और पिङ्गला नाड़ियाँ हैं, और मध्य मार्ग सुषुम्ना है।"
+  },
+  "story": {
+    "en": "His first reading comes from astronomy: the Vāyu Purāṇa divides the sun’s course into northern, middle and southern paths, each of three lanes of three lunar mansions, and she presides over all three. The next name follows from this one: those who know neither path fall into hardship, and even their calamities she wards off.",
+    "hi": "उनकी पहली व्याख्या ज्योतिष से है: वायु पुराण सूर्य के पथ को उत्तर, मध्य और दक्षिण, तीन मार्गों में बाँटता है; हर मार्ग में तीन वीथियाँ हैं और हर वीथी में तीन नक्षत्र, और वे तीनों मार्गों की अधिष्ठात्री हैं। अगला नाम इसी से जुड़ता है: जो इन दोनों मार्गों को नहीं जानते वे विपत्ति में पड़ते हैं, और उनकी विपत्तियाँ भी वे दूर करती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "सव्यश्चापसव्यश्च मार्गश्च सव्यापसव्यमार्गास्तेषु स्थिताधिकृता ।",
+    "translation": {
+      "en": "Savya, apasavya and mārga, the left, the right and the path: in these she is sthā, established, that is, set in authority over them.",
+      "hi": "सव्य, अपसव्य और मार्ग, अर्थात् बायाँ, दायाँ और पथ: इनमें वे स्थित हैं, अर्थात् इनकी अधिकारिणी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 912 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives four explanations (the sun’s three courses from the Vāyu Purāṇa; the devayāna and pitṛyāṇa with Viṣṇu’s place, from the Viṣṇu Purāṇa; the left-hand and right-hand ways of worship, from the Kālikā Purāṇa; and iḍā, piṅgalā and suṣumnā, from a Śiva-sūtra usage) and says all four are meant together. They are summarised, not translated in full; the Kālikā Purāṇa passage is given only in outline. The nāḍī reading explains meaning only; no practice is described, by design." }
+}

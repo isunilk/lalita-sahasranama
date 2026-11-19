@@ -1,0 +1,44 @@
+{
+  "number": 922,
+  "verse": 170,
+  "slug": "tarunaditya-patala",
+  "devanagari": "तरुणादित्यपाटला",
+  "iastSplit": "Taruṇāditya-pāṭalā",
+  "archana": "ॐ तरुणादित्यपाटलायै नमः",
+  "syllables": ["ta", "ru", "ṇā", "dit", "ya", "pā", "ṭa", "lā"],
+  "words": [
+    { "sa": "तरुण", "meaning": { "en": "young; for Bhāskararāya, at the height of day", "hi": "तरुण, युवा; भास्करराय के अनुसार मध्याह्न का" } },
+    { "sa": "आदित्य", "meaning": { "en": "the sun", "hi": "आदित्य, सूर्य" } },
+    { "sa": "पाटल", "meaning": { "en": "rosy, pale red", "hi": "पाटल, गुलाबी" } }
+  ],
+  "meaning": {
+    "en": "Rosy-bright like the sun in its prime",
+    "hi": "जिनकी आभा तरुण सूर्य के समान गुलाबी है"
+  },
+  "explanation": {
+    "en": "Pāṭala is the colour of the trumpet-flower, a pale red, and Bhāskararāya glosses it as white mixed with red. Taruṇa usually means young, but he takes the taruṇa sun to be the sun at midday, in its full strength. Her body glows with that rosy-white light.",
+    "hi": "पाटल पाटल-पुष्प का रंग है, हल्का लाल, और भास्करराय इसका अर्थ बताते हैं श्वेत और रक्त का मेल। तरुण का सामान्य अर्थ है युवा, पर वे तरुण सूर्य को मध्याह्न का सूर्य मानते हैं, अपनी पूरी शक्ति में। उनका शरीर उसी गुलाबी-श्वेत प्रकाश से दमकता है।"
+  },
+  "inner": {
+    "en": "He answers an objection: elsewhere she is called fair, or dark. Her colour, he says, differs with her different forms and with the different meditations on her, and he quotes a verse that assigns colours to purposes: white for liberation, rosy for love, and, beyond them all, a form made of light. The Veda too gives one form many colours: like a saffron-dyed cloth, like pale wool, like the red indragopa insect.",
+    "hi": "वे एक आपत्ति का उत्तर देते हैं: अन्यत्र उन्हें गौरी, या श्यामा कहा गया है। वे कहते हैं कि उनका रंग उनके अलग-अलग रूपों और अलग-अलग ध्यानों के अनुसार बदलता है, और एक श्लोक देते हैं जो रंगों को प्रयोजनों से जोड़ता है: मोक्ष के लिए श्वेत, शृंगार के लिए गुलाबी, और सबसे परे, ज्योतिर्मय रूप। वेद भी एक ही रूप को अनेक रंगों में बताता है: केसरिया रंगे वस्त्र जैसा, हल्के ऊन जैसा, लाल इन्द्रगोप कीट जैसा।"
+  },
+  "story": {
+    "en": "Her colour is red from the start of the hymn: name 49 calls her Sarvāruṇā, rose-red all over, and the meditation verses recited before the names picture her body as red as vermilion.",
+    "hi": "स्तोत्र के आरम्भ से ही उनका रंग लाल है: नाम 49 उन्हें सर्वारुणा, सर्वथा अरुण, कहता है, और नामों से पहले पढ़े जाने वाले ध्यान-श्लोक उनके शरीर को सिन्दूर जैसा अरुण बताते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "तरुणो मध्याह्नकालिक आदित्यः सूर्यस्तद्वत्पाटला श्वेतरक्ता ।",
+    "translation": {
+      "en": "The taruṇa āditya is the sun at midday; pāṭalā like it: white mixed with red.",
+      "hi": "तरुण आदित्य अर्थात् मध्याह्न का सूर्य; उसके समान पाटला, अर्थात् श्वेत-रक्त।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 922 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Most translations render taruṇāditya as the young or rising sun; Bhāskararāya glosses it as the midday sun, and that is followed. The verse on colours for different purposes also gives colours for harmful rites; only those for liberation and love and the form of light are mentioned. The Veda passage he cites (तद्यथा महारजनं वासः…) is from the Bṛhadāraṇyaka Upaniṣad; he cites it only as śruti, and the identification is recorded here, not in the layers." }
+}

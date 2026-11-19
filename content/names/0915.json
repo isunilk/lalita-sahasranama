@@ -1,0 +1,43 @@
+{
+  "number": 915,
+  "verse": 169,
+  "slug": "svabhava-madhura",
+  "devanagari": "स्वभावमधुरा",
+  "iastSplit": "Svabhāva-madhurā",
+  "archana": "ॐ स्वभावमधुरायै नमः",
+  "syllables": ["sva", "bhā", "va", "ma", "dhu", "rā"],
+  "words": [
+    { "sa": "स्वभाव", "meaning": { "en": "one’s own nature", "hi": "स्वभाव, अपनी प्रकृति" } },
+    { "sa": "मधुर", "meaning": { "en": "sweet, lovely", "hi": "मधुर, मनोहर" } }
+  ],
+  "meaning": {
+    "en": "Sweet by her very nature",
+    "hi": "जो स्वभाव से ही मधुर हैं"
+  },
+  "explanation": {
+    "en": "Svabhāva is one’s own nature, and madhurā is sweet, lovely, longed for by all. Her sweetness is not put on or borrowed from anything; it is what she is.",
+    "hi": "स्वभाव का अर्थ है अपनी प्रकृति, और मधुरा का अर्थ है मीठी, मनोहर, सबके द्वारा चाही जाने वाली। उनकी मधुरता ओढ़ी हुई या किसी से उधार ली हुई नहीं; वह उनका स्वरूप ही है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says she is sweet without contact with any upādhi, any limiting adjunct. He also divides the word as su-abhāva, ‘beautiful absences’: she is sweet through the absence of passion, hatred, partiality and cruelty. And he reads it of her own devotees: she is sweet to them by dwelling among them, and in return for their devotion she gives madhu, the honey that is the good fruit.",
+    "hi": "भास्करराय कहते हैं कि वे किसी उपाधि के सम्पर्क के बिना ही मधुर हैं। वे इस शब्द को ‘सु-अभाव’, अर्थात् ‘शोभन अभाव’, के रूप में भी पढ़ते हैं: राग, द्वेष, पक्षपात और निर्दयता के अभाव से वे मधुर हैं। और वे इसे उनके अपने भक्तों से भी जोड़ते हैं: उनके बीच रहने से वे उन्हें मधुर लगती हैं, और उनकी भक्ति के बदले ‘मधु’, अर्थात् उत्तम फल, देती हैं।"
+  },
+  "story": {
+    "en": "One reading takes Madhurā as the city of Madurai: she whose own abode is Madhurā, the holy Hālāsya, where she dwells as Mīnākṣī. Bhāskararāya supports it from the Viśva lexicon, which gives madhurā as the name of a city.",
+    "hi": "एक व्याख्या में मधुरा नगरी, अर्थात् मदुरै, है: वे जिनका अपना निवास मधुरापुरी है, पवित्र हालास्य क्षेत्र, जहाँ वे मीनाक्षी रूप में विराजती हैं। इसके लिए भास्करराय विश्व कोश का प्रमाण देते हैं, जो ‘मधुरा’ को एक नगरी का नाम भी बताता है।"
+  },
+  "commentary": {
+    "sanskrit": "प्रभावादेवोपाधिसम्पर्कमन्तरेणैव मधुरा सर्वाभिलषणीया ।",
+    "translation": {
+      "en": "By her own power alone, without contact with any adjunct, she is sweet: longed for by all.",
+      "hi": "अपने प्रभाव से ही, किसी उपाधि के सम्पर्क के बिना, वे मधुर हैं: सबकी अभिलषणीय।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 915 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The gloss begins प्रभावादेव, ‘by her very power’; स्वभावादेव, ‘by her very nature’, may be intended, since it explains the name. It is quoted and translated as printed. The edition’s phrase on Madurai (मीनाक्षीनिवासशालिहालास्यक्षेत्र[रूपेति]निवासेति) is partly bracketed and garbled; only its sense is given. His further readings on avama and dhurā (the foremost knowers of the Self) are not used." }
+}

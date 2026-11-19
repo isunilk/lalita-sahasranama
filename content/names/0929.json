@@ -1,0 +1,44 @@
+{
+  "number": 929,
+  "verse": 172,
+  "slug": "shruti-samstuta-vaibhava",
+  "devanagari": "श्रुतिसंस्तुतवैभवा",
+  "iastSplit": "Śruti-saṃstuta-vaibhavā",
+  "archana": "ॐ श्रुतिसंस्तुतवैभवायै नमः",
+  "syllables": ["śru", "ti", "saṃs", "tu", "ta", "vai", "bha", "vā"],
+  "words": [
+    { "sa": "श्रुति", "meaning": { "en": "the Veda, ‘what is heard’", "hi": "श्रुति, वेद" } },
+    { "sa": "संस्तुत", "meaning": { "en": "fully praised; well known", "hi": "भली-भाँति स्तुत; सुपरिचित" } },
+    { "sa": "वैभव", "meaning": { "en": "greatness, all-pervading power", "hi": "वैभव, महिमा" } }
+  ],
+  "meaning": {
+    "en": "Whose greatness is praised by the Vedas",
+    "hi": "जिनके वैभव की स्तुति वेद करते हैं"
+  },
+  "explanation": {
+    "en": "Śruti is the Veda, saṃstuta is fully praised, and vaibhava is greatness, the power of pervading all. Bhāskararāya notes that saṃstava also means familiarity, so the name can also say that the Vedas know her greatness well.",
+    "hi": "श्रुति का अर्थ है वेद, संस्तुत का अर्थ है भली-भाँति स्तुत, और वैभव का अर्थ है महिमा, सर्वव्यापकता। भास्करराय बताते हैं कि ‘संस्तव’ का अर्थ परिचय भी है, इसलिए यह नाम यह भी कहता है कि वेद उनकी महिमा से भली-भाँति परिचित हैं।"
+  },
+  "inner": {
+    "en": "He also takes śruti as the number four, as works on metre do, and reads: she whose greatness is known as fourfold. That fourfold form is the four persons of the Bahvṛca Upaniṣad, the person of the body, of metre, of the Veda, and the great person; and the Kūrma Purāṇa names four śaktis of the Goddess, peace, knowledge, stability and withdrawal, for which the Lord is called fourfold.",
+    "hi": "वे ‘श्रुति’ को चार की संख्या का वाचक भी मानते हैं, जैसा छन्दःशास्त्र में होता है, और अर्थ करते हैं: जिनका वैभव चार प्रकार से जाना गया है। वह चतुर्विध रूप है बह्वृच उपनिषद् के चार पुरुष: शरीर-पुरुष, छन्दः-पुरुष, वेद-पुरुष और महापुरुष; और कूर्म पुराण देवी की चार शक्तियाँ बताता है, शान्ति, विद्या, प्रतिष्ठा और निवृत्ति, जिनके कारण परमेश्वर ‘चतुर्व्यूह’ कहलाते हैं।"
+  },
+  "story": {
+    "en": "This closes the three names on praise, moving from the hymns people sing to the Veda itself. Elsewhere the hymn says that the Vedas wear the dust of her lotus feet as vermilion in the parting of their hair (name 289).",
+    "hi": "यह स्तुति के तीन नामों को पूरा करता है, लोगों के गाए स्तोत्रों से स्वयं वेद तक जाकर। अन्यत्र स्तोत्र कहता है कि वेद उनके चरण-कमलों की धूल को अपनी माँग के सिन्दूर के रूप में धारण करते हैं (नाम 289)।"
+  },
+  "commentary": {
+    "sanskrit": "श्रुतिभिः सम्यक् स्तुतं परिचितं वा वैभवं विभुत्वं यस्याः ।",
+    "translation": {
+      "en": "Whose vaibhava, all-pervading greatness, is well praised, or well known, by the Vedas.",
+      "hi": "जिनका वैभव, अर्थात् विभुत्व, श्रुतियों द्वारा भली-भाँति स्तुत, अथवा परिचित है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 929 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya takes śruti as ‘four’ on the authority of the Chandaḥsudhākara (युगाब्धयोऽर्धाः श्रुतयश्चतस्रः); this is summarised as ‘works on metre’." }
+}

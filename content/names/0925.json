@@ -1,0 +1,43 @@
+{
+  "number": 925,
+  "verse": 171,
+  "slug": "kaulini-kevala",
+  "devanagari": "कौलिनीकेवला",
+  "iastSplit": "Kaulinī-kevalā",
+  "archana": "ॐ कौलिनीकेवलायै नमः",
+  "syllables": ["kau", "li", "nī", "ke", "va", "lā"],
+  "words": [
+    { "sa": "कौलिनी", "meaning": { "en": "she who belongs to Kaula, the way of the kula", "hi": "कौल मार्ग से युक्त, कौलिनी" } },
+    { "sa": "केवला", "meaning": { "en": "alone, pure, entire; possessed of kevala knowledge", "hi": "केवल, शुद्ध, सम्पूर्ण; केवल-ज्ञान से युक्त" } }
+  ],
+  "meaning": {
+    "en": "She who holds the Kaula way in its pure, unmixed form",
+    "hi": "जो शुद्ध, अमिश्रित कौल धर्म से युक्त हैं"
+  },
+  "explanation": {
+    "en": "Kaulinī is she who belongs to Kaula, the way of the kula, and kevalā means alone, pure, entire. Bhāskararāya first reads the two words side by side: she holds the Kaula way, and she has the knowledge called kevala. But he concludes that the true sense is a single one: she holds the Kaula way alone, in its pure form.",
+    "hi": "कौलिनी वे हैं जो कौल, अर्थात् कुल के मार्ग, से जुड़ी हैं, और केवला का अर्थ है अकेली, शुद्ध, सम्पूर्ण। भास्करराय पहले दोनों शब्दों को साथ-साथ पढ़ते हैं: वे कौल धर्म से युक्त हैं, और ‘केवल’ नामक ज्ञान से भी। पर अन्त में वे कहते हैं कि वास्तविक अर्थ एक ही है: वे शुद्ध, केवल कौल धर्म से युक्त हैं।"
+  },
+  "inner": {
+    "en": "Kevala, he notes, can name the knowledge of the Lord, and in the Śiva Sūtras kevalī is the one freed from pleasure and pain. He also gives two readings in which the Kaulinīs are her worshippers: she through whom they come to possess that pure knowledge, or she whom they know with certainty. Under name 94 Kaula was explained as the bond of Kula and Akula, Śakti and Śiva; this name adds that she holds it in its purity.",
+    "hi": "वे बताते हैं कि ‘केवल’ ईश्वर के ज्ञान का नाम हो सकता है, और शिवसूत्रों में ‘केवली’ वह है जो सुख-दुःख से मुक्त है। वे दो ऐसे अर्थ भी देते हैं जिनमें कौलिनियाँ उनकी उपासिकाएँ हैं: वे जिनके द्वारा कौलिनियाँ उस शुद्ध ज्ञान से युक्त होती हैं, या वे जिन्हें कौलिनियाँ निश्चित रूप से जानती हैं। नाम 94 में कौल को कुल और अकुल, शक्ति और शिव, का सम्बन्ध बताया गया था; यह नाम जोड़ता है कि वे उसे उसकी शुद्धता में धारण करती हैं।"
+  },
+  "story": {
+    "en": "Here Bhāskararāya gives the reasoning he promised under name 94. Read as four names, this half-verse would repeat Kaulinī (94), Kevalā (623) and Kaivalya-pada-dāyinī (625); the Chalākṣara Sūtra avoids this by dividing it differently, but he follows his own teacher in taking Kaulinī-kevalā as one name of six syllables. Two words can make one name, he argues, just as in Paraṃ-jyotiḥ.",
+    "hi": "यहाँ भास्करराय वह तर्क देते हैं जिसका वचन उन्होंने नाम 94 में दिया था। चार नामों के रूप में पढ़ने पर यह अर्धश्लोक कौलिनी (94), केवला (623) और कैवल्यपददायिनी (625) को दोहराता; छलाक्षर सूत्र इससे बचने के लिए इसे अलग ढंग से बाँटता है, पर वे अपने गुरु का अनुसरण करते हुए ‘कौलिनीकेवला’ को छह अक्षरों का एक नाम मानते हैं। वे तर्क देते हैं कि दो शब्द मिलकर एक नाम बन सकते हैं, जैसे ‘परंज्योतिः’ में।"
+  },
+  "commentary": {
+    "sanskrit": "वस्तुतः केवलकौलधर्मवतीत्येवार्थः ।",
+    "translation": {
+      "en": "In truth, the meaning is simply this: she who holds the Kaula dharma alone, pure and unmixed.",
+      "hi": "वस्तुतः इसका अर्थ यही है: जो केवल, शुद्ध कौल धर्म से युक्त हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 925 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s division agrees with the master text: कौलिनीकेवला (925) and अनर्घ्यकैवल्यपददायिनी (926). He reports that the Chalākṣara Sūtra instead counts कौलिनी as one name and the rest of the half-verse as another (and कौलिनीकुलयोगिनी as one); he follows his teacher (मूलकारैरस्मद्गुरुचरणैः), who reads two names here and two in कौलिनी कुलयोगिनी. His grammatical defence of the two-word name (against the rule that would put केवल first in a karmadhāraya, and against masculinising कौलिनी in a bahuvrīhi) is summarised only. No practice is described, by design." }
+}

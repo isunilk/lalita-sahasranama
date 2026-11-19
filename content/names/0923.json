@@ -1,0 +1,44 @@
+{
+  "number": 923,
+  "verse": 171,
+  "slug": "dakshinadakshinaradhya",
+  "devanagari": "दक्षिणादक्षिणाराध्या",
+  "iastSplit": "Dakṣiṇādakṣiṇārādhyā",
+  "archana": "ॐ दक्षिणादक्षिणाराध्यायै नमः",
+  "syllables": ["dak", "ṣi", "ṇā", "dak", "ṣi", "ṇā", "rādh", "yā"],
+  "words": [
+    { "sa": "दक्षिण", "meaning": { "en": "skilful, learned; of the right-hand way; also dakṣiṇā, the gift that completes a rite", "hi": "कुशल, विद्वान; दक्षिण मार्ग का; दक्षिणा भी" } },
+    { "sa": "अदक्षिण", "meaning": { "en": "unskilled, unlearned; of the left-hand way", "hi": "अकुशल, अविद्वान; वाम मार्ग का" } },
+    { "sa": "आराध्य", "meaning": { "en": "to be worshipped", "hi": "आराधनीय" } }
+  ],
+  "meaning": {
+    "en": "Worshipped alike by the wise and the simple",
+    "hi": "जिनकी आराधना ज्ञानी और साधारण, दोनों करते हैं"
+  },
+  "explanation": {
+    "en": "Dakṣiṇa means skilful, able, and also right-hand; adakṣiṇa is its opposite. Bhāskararāya gives several readings: the skilful worship her with dakṣiṇā, the gift that completes a rite; or the learned and the unlearned alike worship her; or followers of the right-hand and of the left-hand ways.",
+    "hi": "दक्षिण का अर्थ है कुशल, निपुण, और दाहिना भी; अदक्षिण इसका उलटा है। भास्करराय कई अर्थ देते हैं: कुशल जन दक्षिणा सहित, जो यज्ञ को पूर्ण करती है, उनकी आराधना करते हैं; अथवा विद्वान और अविद्वान दोनों; अथवा दक्षिण मार्ग और वाम मार्ग, दोनों के उपासक।"
+  },
+  "inner": {
+    "en": "His last reading draws on a śruti: by knowledge they climb to the place where desires have fallen away; the dakṣiṇas do not reach it, nor ascetics without knowledge. Here the dakṣiṇas are those who seek ritual action alone and the adakṣiṇas are the knowers of Brahman, and she is worshipped by both. He sets beside it the four kinds of virtuous people whom Kṛṣṇa, in the Gītā, names as his worshippers: the distressed, the seeker of knowledge, the seeker of wealth and the wise.",
+    "hi": "उनका अन्तिम अर्थ एक श्रुति पर आधारित है: विद्या से वे उस स्थान पर चढ़ते हैं जहाँ सब कामनाएँ छूट जाती हैं; वहाँ न ‘दक्षिण’ पहुँचते हैं, न अज्ञानी तपस्वी। यहाँ ‘दक्षिण’ वे हैं जो केवल कर्म को जानना चाहते हैं, और ‘अदक्षिण’ ब्रह्मज्ञानी; वे दोनों की आराध्या हैं। इसके साथ वे गीता के वे चार प्रकार के पुण्यात्मा रखते हैं, जिन्हें श्रीकृष्ण अपना भजने वाला बताते हैं: आर्त, जिज्ञासु, अर्थार्थी और ज्ञानी।"
+  },
+  "story": {
+    "en": "This name echoes name 912, where Bhāskararāya described the left-hand and right-hand ways of worship and said that she is reached by both. Whatever the worshipper’s gift or skill, there is no one for whom she is out of reach.",
+    "hi": "यह नाम 912 की प्रतिध्वनि है, जहाँ भास्करराय ने वाम और दक्षिण उपासना-मार्गों का वर्णन किया और कहा कि वे दोनों से प्राप्य हैं। उपासक की योग्यता या कुशलता जैसी भी हो, कोई ऐसा नहीं जिसकी पहुँच से वे बाहर हों।"
+  },
+  "commentary": {
+    "sanskrit": "दक्षिणया दक्षिणैः कुशलैराराध्या । दक्षिणैः पण्डितैरदक्षिणैर्मूर्खैश्चेति वा ।",
+    "translation": {
+      "en": "To be worshipped with dakṣiṇā by the dakṣiṇas, the skilful. Or: by the dakṣiṇas, the learned, and by the adakṣiṇas, the ignorant.",
+      "hi": "दक्षिण, अर्थात् कुशल, जनों द्वारा दक्षिणा सहित आराध्या। अथवा दक्षिणों, अर्थात् पण्डितों, और अदक्षिणों, अर्थात् मूर्खों, द्वारा।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 923 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition prints the name with an avagraha (दक्षिणाऽदक्षिणाराध्या), marking the negative a- of adakṣiṇa; the reading is the same. The first gloss divides the name as dakṣiṇā (instrumental) + dakṣiṇa + ārādhyā, the others as dakṣiṇa + adakṣiṇa + ārādhyā; the words list follows the second. The śruti he quotes (विद्यया तदारोहन्ति…) is not identified here. The last sentence of the story is a reflection." }
+}

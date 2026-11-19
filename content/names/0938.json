@@ -1,0 +1,42 @@
+{
+  "number": 938,
+  "verse": 173,
+  "slug": "pragalbha",
+  "devanagari": "प्रगल्भा",
+  "iastSplit": "Pragalbhā",
+  "archana": "ॐ प्रगल्भायै नमः",
+  "syllables": ["pra", "gal", "bhā"],
+  "words": [
+    { "sa": "प्रगल्भ", "meaning": { "en": "bold, confident, accomplished", "hi": "प्रगल्भ, प्रौढ़, निपुण" } }
+  ],
+  "meaning": {
+    "en": "Bold and masterful in all her works",
+    "hi": "जो अपने सभी कार्यों में प्रौढ़ और निपुण हैं"
+  },
+  "explanation": {
+    "en": "Pragalbha means bold, confident, accomplished. Bhāskararāya explains that she is pragalbhā because of her mastery in creation and her other cosmic acts.",
+    "hi": "प्रगल्भ का अर्थ है साहसी, आत्मविश्वासी, कुशल। भास्करराय बताते हैं कि सृष्टि आदि कार्यों में प्रौढ़ता के कारण वे प्रगल्भा हैं।"
+  },
+  "inner": {
+    "en": "He gives only this sense. Creation, preservation and dissolution are no strain for her; she performs them with the ease of a master.",
+    "hi": "वे केवल यही अर्थ देते हैं। सृष्टि, पालन और संहार उनके लिए कोई कठिन कार्य नहीं; वे इन्हें एक कुशल स्वामिनी की सहजता से करती हैं।"
+  },
+  "story": {
+    "en": "In ordinary Sanskrit pragalbhā can also describe a woman bold in speech and manner; here Bhāskararāya keeps to its sense of mastery. The line goes on to her generosity, her joy and her mind.",
+    "hi": "सामान्य संस्कृत में ‘प्रगल्भा’ वाणी और व्यवहार में निर्भीक स्त्री के लिए भी आता है; भास्करराय यहाँ इसका कुशलता वाला अर्थ लेते हैं। यह पंक्ति आगे उनकी उदारता, उनके आनन्द और उनके मन की बात करती है।"
+  },
+  "commentary": {
+    "sanskrit": "सृष्ट्यादिकर्मसु प्रौढत्वात्प्रगल्भा ।",
+    "translation": {
+      "en": "Pragalbhā, because of her mastery in creation and the other acts.",
+      "hi": "सृष्टि आदि कर्मों में प्रौढ़ता के कारण वे प्रगल्भा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 938 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the second sentence of the inner layer is a reflection." }
+}

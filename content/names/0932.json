@@ -1,0 +1,42 @@
+{
+  "number": 932,
+  "verse": 172,
+  "slug": "maheshi",
+  "devanagari": "महेशी",
+  "iastSplit": "Maheśī",
+  "archana": "ॐ महेश्यै नमः",
+  "syllables": ["ma", "he", "śī"],
+  "words": [
+    { "sa": "महेशी", "meaning": { "en": "wife of Maheśa, the Great Lord (mahā + īśa, with the feminine ending)", "hi": "महेश (महा + ईश) की पत्नी" } }
+  ],
+  "meaning": {
+    "en": "The consort of Maheśa, the Great Lord",
+    "hi": "महेश, अर्थात् शिव, की पत्नी"
+  },
+  "explanation": {
+    "en": "Maheśa, the Great Lord, is Śiva, and Maheśī is his wife. Bhāskararāya supports this with a verse from the Devī Purāṇa that gives three reasons for the name.",
+    "hi": "महेश, अर्थात् महान ईश्वर, शिव हैं, और महेशी उनकी पत्नी। भास्करराय इसके लिए देवी पुराण का एक श्लोक देते हैं, जो इस नाम के तीन कारण बताता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya adds no hidden meaning; he lets the verse speak. Its three reasons tie the name to Śiva three times over: she arose from him, the great honour her, and she is his bride. In origin, in honour and in union, the Goddess and the Lord are not apart.",
+    "hi": "भास्करराय कोई गूढ़ अर्थ नहीं जोड़ते; वे श्लोक को ही बोलने देते हैं। उसके तीनों कारण इस नाम को तीन बार शिव से जोड़ते हैं: वे उनसे प्रकट हुईं, महान जन उनका आदर करते हैं, और वे उनकी वधू हैं। उत्पत्ति, आदर और मिलन, तीनों में देवी और ईश्वर अलग नहीं।"
+  },
+  "story": {
+    "en": "The hymn has named her Śiva’s consort many times, as Śivā (52), Śiva-priyā (409) and Maheśvarī (750). This half-verse gathers her inner qualities, a free mind and dignity, then names her the Great Lord’s queen, whose very form is auspicious.",
+    "hi": "स्तोत्र ने उन्हें कई बार शिव की संगिनी कहा है: शिवा (52), शिवप्रिया (409) और महेश्वरी (750)। यह अर्धश्लोक उनके आन्तरिक गुणों, स्वतन्त्र मन और गरिमा, को समेटकर उन्हें महेश की रानी कहता है, जिनका रूप ही मंगलमय है।"
+  },
+  "commentary": {
+    "sanskrit": "महादेवात्समुत्पन्ना महद्भिर्यत आदृता । महेशस्य वधूर्यस्मान्महेशी तेन सा स्मृता ।।",
+    "translation": {
+      "en": "Because she arose from Mahādeva, because she is honoured by the great, and because she is the bride of Maheśa, she is known as Maheśī.",
+      "hi": "क्योंकि वे महादेव से उत्पन्न हुईं, क्योंकि महान जन उनका आदर करते हैं, और क्योंकि वे महेश की वधू हैं, इसलिए वे महेशी कहलाती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 932 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The commentary excerpt is a Devī Purāṇa verse quoted by Bhāskararāya; his own gloss is only महेशस्य स्त्री महेशी. The last sentence of the inner layer is a reflection." }
+}

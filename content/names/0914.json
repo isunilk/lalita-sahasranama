@@ -1,0 +1,43 @@
+{
+  "number": 914,
+  "verse": 169,
+  "slug": "svastha",
+  "devanagari": "स्वस्था",
+  "iastSplit": "Sva-sthā",
+  "archana": "ॐ स्वस्थायै नमः",
+  "syllables": ["svas", "thā"],
+  "words": [
+    { "sa": "स्व", "meaning": { "en": "self, one’s own", "hi": "स्व, अपना" } },
+    { "sa": "स्था", "meaning": { "en": "abiding", "hi": "स्थित" } }
+  ],
+  "meaning": {
+    "en": "She who abides in herself, untroubled",
+    "hi": "जो अपने आप में स्थित, सदा शान्त हैं"
+  },
+  "explanation": {
+    "en": "Svasthā is one who stands in herself. Because no sorrow ever stirs her, she is never restless; she is at ease, which is what the everyday word svastha, ‘healthy’, also means.",
+    "hi": "स्वस्था का अर्थ है जो अपने आप में स्थित हो। कोई दुःख उन्हें विचलित नहीं करता, इसलिए उनमें कोई चंचलता नहीं; वे सहज और शान्त हैं, जो ‘स्वस्थ’ शब्द का सामान्य अर्थ भी है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya cites the Chāndogya Upaniṣad: asked where the infinite is established, the teacher answers, ‘in its own greatness’. She rests on nothing outside herself. He adds two further readings: svar is heaven, and she abides there as its overseer; or her asthā, her not standing still, that is, her movement, is beautiful.",
+    "hi": "भास्करराय छान्दोग्य उपनिषद् का वचन देते हैं: पूछा गया कि वह अनन्त किसमें प्रतिष्ठित है, तो उत्तर मिला, ‘अपनी ही महिमा में’। वे अपने से बाहर किसी पर आश्रित नहीं। वे दो और अर्थ भी देते हैं: ‘स्वः’ स्वर्ग है, और वे वहाँ अधिष्ठात्री रूप से स्थित हैं; अथवा उनकी ‘अस्था’, अर्थात् स्थिर न रहना, यानी उनकी गति, शोभन है।"
+  },
+  "story": {
+    "en": "This half-verse turns from her powers to her nature: at ease in herself, sweet by nature, wise, and worshipped by the wise. In Sanskrit and Hindi svastha means ‘healthy’, and its literal sense, ‘standing in oneself’, is the one this name draws on.",
+    "hi": "यह अर्धश्लोक उनकी शक्तियों से हटकर उनके स्वभाव का वर्णन करता है: अपने में स्थित, स्वभाव से मधुर, धीर, और धीरों द्वारा पूजित। संस्कृत और हिन्दी में ‘स्वस्थ’ का अर्थ है निरोगी, और इसका मूल अर्थ, ‘अपने में स्थित’, ही इस नाम का आधार है।"
+  },
+  "commentary": {
+    "sanskrit": "दुःखकृतचाञ्चल्याभावात्स्वस्था स्वस्मिन्नेव स्थिता वा ।",
+    "translation": {
+      "en": "She is svasthā because she has none of the restlessness that sorrow causes; or, she abides in herself alone.",
+      "hi": "दुःख से उत्पन्न चंचलता के अभाव के कारण वे स्वस्था हैं; अथवा, वे अपने आप में ही स्थित हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 914 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya cites the Upaniṣad passage (स भगवः कस्मिन्प्रतिष्ठित इति स्वे महिम्नि) as śruti; its identification as the Chāndogya Upaniṣad is added here." }
+}

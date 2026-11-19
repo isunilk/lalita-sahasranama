@@ -1,0 +1,43 @@
+{
+  "number": 921,
+  "verse": 170,
+  "slug": "sada-tushta",
+  "devanagari": "सदातुष्टा",
+  "iastSplit": "Sadā-tuṣṭā",
+  "archana": "ॐ सदातुष्टायै नमः",
+  "syllables": ["sa", "dā", "tuṣ", "ṭā"],
+  "words": [
+    { "sa": "सदा", "meaning": { "en": "always", "hi": "सदा, नित्य" } },
+    { "sa": "तुष्ट", "meaning": { "en": "pleased, content", "hi": "सन्तुष्ट, प्रसन्न" } }
+  ],
+  "meaning": {
+    "en": "She who is ever content",
+    "hi": "जो सदा सन्तुष्ट रहती हैं"
+  },
+  "explanation": {
+    "en": "Sadā is always, and tuṣṭā is pleased, content. She lacks nothing, so nothing can leave her discontent. Bhāskararāya also reads it as sad-ā-tuṣṭā: she is wholly pleased with the good.",
+    "hi": "सदा का अर्थ है हमेशा, और तुष्टा का अर्थ है प्रसन्न, सन्तुष्ट। उन्हें किसी वस्तु की कमी नहीं, इसलिए कुछ भी उन्हें असन्तुष्ट नहीं कर सकता। भास्करराय इसे ‘सत्-आ-तुष्टा’ भी पढ़ते हैं: वे सज्जनों से पूर्ण रूप से प्रसन्न रहती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only these two senses, saying the name is read in the same way as the one before. The first describes her own fullness; the second, her ease with those who live rightly, a Mother readily pleased by the good.",
+    "hi": "भास्करराय केवल ये दो अर्थ देते हैं, और कहते हैं कि यह नाम पिछले नाम की तरह ही पढ़ा जाए। पहला अर्थ उनकी अपनी पूर्णता बताता है; दूसरा उन लोगों के प्रति उनकी प्रसन्नता, जो सही मार्ग पर चलते हैं: ऐसी माँ, जो सज्जनों से सहज ही प्रसन्न हो जाती हैं।"
+  },
+  "story": {
+    "en": "Sadoditā and Sadātuṣṭā are a pair built on the same word sadā. The Saubhāgya Bhāskara edition prints the verse with sadā tuṣṭā as two words, but Bhāskararāya’s own comment treats Sadātuṣṭā as a single name.",
+    "hi": "सदोदिता और सदातुष्टा ‘सदा’ शब्द पर बनी एक जोड़ी हैं। सौभाग्य भास्कर के संस्करण में श्लोक में ‘सदा तुष्टा’ अलग-अलग छपा है, पर भास्करराय की अपनी टीका ‘सदातुष्टा’ को एक ही नाम मानती है।"
+  },
+  "commentary": {
+    "sanskrit": "एवमेव सदातुष्टेत्यस्य द्वावर्थौ ।",
+    "translation": {
+      "en": "In just the same way, Sadātuṣṭā has two meanings.",
+      "hi": "इसी प्रकार सदातुष्टा के भी दो अर्थ हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 921 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives no separate gloss; the two senses are taken from his comment on name 920, which he says applies here too. The second sentence of the explanation and the closing phrase of the inner layer are a reflection. The edition’s verse prints सदा तुष्टा as two words; the master text’s सदातुष्टा is followed." }
+}
