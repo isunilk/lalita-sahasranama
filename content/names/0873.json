@@ -1,0 +1,44 @@
+{
+  "number": 873,
+  "verse": 163,
+  "slug": "trivarga-nilaya",
+  "devanagari": "त्रिवर्गनिलया",
+  "iastSplit": "Tri-varga-nilayā",
+  "archana": "ॐ त्रिवर्गनिलयायै नमः",
+  "syllables": ["tri", "var", "ga", "ni", "la", "yā"],
+  "words": [
+    { "sa": "त्रि", "meaning": { "en": "three", "hi": "तीन" } },
+    { "sa": "वर्ग", "meaning": { "en": "group, set", "hi": "वर्ग, समूह" } },
+    { "sa": "निलया", "meaning": { "en": "abode, dwelling place", "hi": "निवास, आश्रय-स्थान" } }
+  ],
+  "meaning": {
+    "en": "In whom dwell the three aims: dharma, artha and kāma",
+    "hi": "जिनमें धर्म, अर्थ और काम — तीनों पुरुषार्थ निवास करते हैं"
+  },
+  "explanation": {
+    "en": "Trivarga, ‘the group of three’, is the classical name for three of life’s aims: dharma (right living), artha (wealth and security) and kāma (the fulfilment of desire). Bhāskararāya takes it from the lexicon and says simply that their dwelling place is in her.",
+    "hi": "‘त्रिवर्ग’ अर्थात् ‘तीन का वर्ग’ — यह जीवन के तीन पुरुषार्थों का पारम्परिक नाम है: धर्म (सदाचार), अर्थ (धन और सुरक्षा) और काम (इच्छाओं की पूर्ति)। भास्करराय कोश से यही अर्थ लेते हैं और सीधे कहते हैं कि इन तीनों का निवास उन्हीं में है।"
+  },
+  "inner": {
+    "en": "He gives no hidden meaning here. In reflection, the three aims are not set against her worship but rest in her, so a life of duty, honest work and fulfilled desire can itself be lived within her. The fourth aim, liberation, lies beyond this group of three.",
+    "hi": "यहाँ वे कोई गूढ़ अर्थ नहीं देते। चिन्तन के रूप में: ये तीनों पुरुषार्थ उनकी उपासना के विरोधी नहीं, बल्कि उन्हीं में स्थित हैं; इसलिए धर्म, ईमानदार परिश्रम और इच्छाओं की पूर्ति वाला जीवन भी उन्हीं के भीतर जिया जा सकता है। चौथा पुरुषार्थ, मोक्ष, इस त्रिवर्ग से परे है।"
+  },
+  "story": {
+    "en": "Earlier the hymn calls her Trivargadātrī, the giver of the three aims (name 760); here she is named as their dwelling place. This is the second of the four ‘three’ names that open the verse.",
+    "hi": "पहले स्तोत्र उन्हें त्रिवर्गदात्री, तीनों पुरुषार्थों को देने वाली, कह चुका है (नाम 760); यहाँ उन्हें उनका निवास-स्थान कहा गया है। श्लोक का आरम्भ करने वाले ‘तीन’ के चार नामों में यह दूसरा है।"
+  },
+  "commentary": {
+    "sanskrit": "त्रिवर्गो धर्मकामार्थैरिति कोशः । तस्य निलयः स्थानं यस्याम् ।",
+    "translation": {
+      "en": "The lexicon says: trivarga is dharma, kāma and artha. Its nilaya, its dwelling place, is in her.",
+      "hi": "कोश कहता है: धर्म, काम और अर्थ — यह त्रिवर्ग है। उसका निलय, अर्थात् निवास-स्थान, उनमें है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 873 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the inner layer is a reflection." }
+}

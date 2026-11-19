@@ -1,0 +1,43 @@
+{
+  "number": 911,
+  "verse": 168,
+  "slug": "sadashiva-kutumbini",
+  "devanagari": "सदाशिवकुटुम्बिनी",
+  "iastSplit": "Sadāśiva-kuṭumbinī",
+  "archana": "ॐ सदाशिवकुटुम्बिन्यै नमः",
+  "syllables": ["sa", "dā", "śi", "va", "ku", "ṭum", "bi", "nī"],
+  "words": [
+    { "sa": "सदाशिव", "meaning": { "en": "Sadāśiva, the ever-auspicious Śiva", "hi": "सदाशिव" } },
+    { "sa": "कुटुम्बिनी", "meaning": { "en": "wife, mistress of the household", "hi": "गृहिणी, पत्नी" } }
+  ],
+  "meaning": {
+    "en": "The wife of Sadāśiva, mistress of his household",
+    "hi": "सदाशिव की गृहिणी, उनके कुटुम्ब की स्वामिनी"
+  },
+  "explanation": {
+    "en": "Kuṭumbinī is the woman of the house, the wife who keeps the household, and she is Sadāśiva’s wife. Bhāskararāya adds that this means she takes the forms of Śyāmalā, Śuddhavidyā, Aśvārūḍhā and the others.",
+    "hi": "‘कुटुम्बिनी’ घर की स्वामिनी, गृहस्थी सँभालने वाली पत्नी को कहते हैं, और वे सदाशिव की पत्नी हैं। भास्करराय जोड़ते हैं कि इसका तात्पर्य है — वे श्यामला, शुद्धविद्या, अश्वारूढा आदि रूप धारण करती हैं।"
+  },
+  "inner": {
+    "en": "He explains no further. The forms he names belong to her own circle: in the war against Bhaṇḍa, Śyāmalā is her minister and Aśvārūḍhā leads her cavalry (names 69 and 67). In reflection, the mistress of a household works through those who serve her, and these powers are her household.",
+    "hi": "वे इससे आगे कुछ नहीं समझाते। जिन रूपों का वे नाम लेते हैं, वे उनके ही परिवार की शक्तियाँ हैं: भण्ड के विरुद्ध युद्ध में श्यामला उनकी मन्त्रिणी हैं और अश्वारूढा उनकी अश्वसेना की अधिनायिका (नाम 69 और 67)। चिन्तन के रूप में: घर की स्वामिनी अपने सेवकों के द्वारा काम करती है, और ये शक्तियाँ ही उनका कुटुम्ब हैं।"
+  },
+  "story": {
+    "en": "Sadāśiva is one of the five pretas, the forms of Śiva on which she is seated (name 249); here he is named as her husband. Earlier she was also called Sadāśivā (name 272) and Sadāśivapativratā, the devoted wife of Sadāśiva (name 709).",
+    "hi": "सदाशिव उन पाँच प्रेतों में से एक हैं — शिव के वे रूप जिन पर वे विराजमान हैं (नाम 249); यहाँ उन्हें उनका पति कहा गया है। पहले वे सदाशिवा (नाम 272) और सदाशिवपतिव्रता, सदाशिव की पतिव्रता पत्नी (नाम 709), भी कही गई हैं।"
+  },
+  "commentary": {
+    "sanskrit": "सदाशिवस्य कुटुम्बिनी भार्या श्यामलाशुद्धविद्याश्वारूढादिरूपेत्यर्थः ।",
+    "translation": {
+      "en": "The kuṭumbinī, the wife, of Sadāśiva: that is, she in the forms of Śyāmalā, Śuddhavidyā, Aśvārūḍhā and the rest.",
+      "hi": "सदाशिव की कुटुम्बिनी, अर्थात् भार्या; तात्पर्य यह कि वे श्यामला, शुद्धविद्या, अश्वारूढा आदि रूपों वाली हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 911 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya does not explain the link between the name and the forms Śyāmalā, Śuddhavidyā and Aśvārūḍhā; the inner layer gives the roles of two of them from earlier names and a short reflection. Śuddhavidyā is left unexplained on the page." }
+}

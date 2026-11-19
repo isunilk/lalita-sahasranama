@@ -1,0 +1,43 @@
+{
+  "number": 885,
+  "verse": 165,
+  "slug": "dhanadhyaksha",
+  "devanagari": "धनाध्यक्षा",
+  "iastSplit": "Dhanādhyakṣā",
+  "archana": "ॐ धनाध्यक्षायै नमः",
+  "syllables": ["dha", "nādh", "yak", "ṣā"],
+  "words": [
+    { "sa": "धन", "meaning": { "en": "wealth", "hi": "धन" } },
+    { "sa": "अध्यक्षा", "meaning": { "en": "presiding mistress, overseer", "hi": "अधिष्ठात्री, स्वामिनी" } }
+  ],
+  "meaning": {
+    "en": "The presiding mistress of all wealth",
+    "hi": "समस्त धन की स्वामिनी"
+  },
+  "explanation": {
+    "en": "Adhyakṣa means overseer or lord, and dhanādhyakṣa, ‘lord of wealth’, is a title of Kubera, the treasurer of the gods. Bhāskararāya says the title is hers because worshipped and worshipper are not different, or because she is Kubera in form.",
+    "hi": "‘अध्यक्ष’ का अर्थ है अधिष्ठाता या स्वामी, और ‘धनाध्यक्ष’, अर्थात् धन के स्वामी, देवताओं के कोषाध्यक्ष कुबेर की उपाधि है। भास्करराय कहते हैं कि यह उपाधि उनकी है, क्योंकि उपास्य और उपासक में भेद नहीं, अथवा इसलिए कि वे कुबेर के रूप में ही हैं।"
+  },
+  "inner": {
+    "en": "Elsewhere in his commentary Bhāskararāya counts Kubera among the twelve great worshippers of the Devī. Since the worshipper is not other than the one he worships, Kubera’s lordship over wealth is in truth hers; he holds it from her.",
+    "hi": "अपनी व्याख्या में अन्यत्र भास्करराय कुबेर को देवी के बारह प्रमुख उपासकों में गिनते हैं। उपासक अपने उपास्य से भिन्न नहीं, इसलिए कुबेर का धन पर स्वामित्व वास्तव में उन्हीं का है; कुबेर उसे उन्हीं से पाकर धारण करते हैं।"
+  },
+  "story": {
+    "en": "Kubera, guardian of the northern quarter and keeper of the gods’ treasure, is called Dhanada and Dhanādhyakṣa in the Purāṇas. The name gives that title to the Devī herself.",
+    "hi": "उत्तर दिशा के रक्षक और देवताओं के कोष के स्वामी कुबेर को पुराणों में धनद और धनाध्यक्ष कहा जाता है। यह नाम वही उपाधि स्वयं देवी को देता है।"
+  },
+  "commentary": {
+    "sanskrit": "धनस्याध्यक्षा स्वामिनी । उपास्योपासकयोरभेदात् । कुबेररूपा वा ।",
+    "translation": {
+      "en": "The adhyakṣā, the mistress, of wealth: for the worshipped and the worshipper are not different. Or she is Kubera in form.",
+      "hi": "धन की अध्यक्षा, अर्थात् स्वामिनी — क्योंकि उपास्य और उपासक में अभेद है। अथवा वे कुबेर-रूपा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 885 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The twelve worshippers (मनुश्चन्द्रः कुबेरश्च लोपामुद्रा च मन्मथः…) are cited in his comments on earlier names; the last clause of the inner layer is a reflection." }
+}

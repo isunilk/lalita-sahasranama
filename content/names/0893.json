@@ -1,0 +1,43 @@
+{
+  "number": 893,
+  "verse": 166,
+  "slug": "vishnu-rupini",
+  "devanagari": "विष्णुरूपिणी",
+  "iastSplit": "Viṣṇu-rūpiṇī",
+  "archana": "ॐ विष्णुरूपिण्यै नमः",
+  "syllables": ["viṣ", "ṇu", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "विष्णु", "meaning": { "en": "Viṣṇu, the all-pervading preserver", "hi": "विष्णु" } },
+    { "sa": "रूपिणी", "meaning": { "en": "having the form of", "hi": "रूप वाली" } }
+  ],
+  "meaning": {
+    "en": "Whose own form is Viṣṇu",
+    "hi": "विष्णु ही जिनका रूप हैं"
+  },
+  "explanation": {
+    "en": "Viṣṇu himself is her form. Bhāskararāya proves it from this same Brahmāṇḍa Purāṇa: in the Lalitopākhyāna the Devī says, ‘My own male form is the one who enchants the gopīs’, that is, Kṛṣṇa.",
+    "hi": "विष्णु स्वयं उनका रूप हैं। भास्करराय इसे इसी ब्रह्माण्ड पुराण से सिद्ध करते हैं: ललितोपाख्यान में देवी कहती हैं, ‘गोपियों को मोहित करने वाला रूप मेरा ही पुरुष-रूप है’ — अर्थात् कृष्ण।"
+  },
+  "inner": {
+    "en": "In the same text Viṣṇu tells Vīrabhadra that the primal power of Maheśa takes four bodies: Bhavānī in enjoyment, Durgā in battle, Kālikā in wrath, and in male form, Viṣṇu himself. Bhāskararāya adds a string of Purāṇic witnesses; among them, Śiva in the Kūrma Purāṇa calls the Devī his supreme māyā and Nārāyaṇa the form of that māyā. Śiva, Viṣṇu and the Devī are not rivals here but one power seen in different forms.",
+    "hi": "उसी ग्रन्थ में विष्णु वीरभद्र से कहते हैं कि महेश की आद्या शक्ति चार रूप धारण करती है: भोग में भवानी, युद्ध में दुर्गा, कोप में कालिका, और पुरुष-रूप में स्वयं विष्णु। भास्करराय कई पौराणिक प्रमाण और जोड़ते हैं; उनमें कूर्म पुराण में शिव देवी को अपनी परमा माया कहते हैं और नारायण को उसी माया का रूप। यहाँ शिव, विष्णु और देवी प्रतिद्वन्द्वी नहीं, एक ही शक्ति के भिन्न रूप हैं।"
+  },
+  "story": {
+    "en": "In the Kūrma Purāṇa Himavat bows to her as the thousand-headed, thousand-armed ancient Person of infinite power who lies on the ocean: ‘your own form, O Lalitā, called Nārāyaṇa’. Earlier the hymn named her Govindarūpiṇī (name 267) and Nārāyaṇī (name 298).",
+    "hi": "कूर्म पुराण में हिमवान् उन्हें प्रणाम करते हैं — सहस्र सिरों और सहस्र भुजाओं वाले, अनन्त शक्ति वाले, समुद्र में शयन करने वाले पुराण पुरुष के रूप में: ‘हे ललिते, नारायण नाम का यह रूप तुम्हारा ही है।’ पहले स्तोत्र उन्हें गोविन्दरूपिणी (नाम 267) और नारायणी (नाम 298) कह चुका है।"
+  },
+  "commentary": {
+    "sanskrit": "विष्णुरेव रूपमस्याः । तदुक्तं ललितोपाख्याने ब्रह्माण्डपुराण एव- ममैव पौरुषं रूपं गोपिकाजनमोहनमिति देवीवचनात् ।",
+    "translation": {
+      "en": "Viṣṇu himself is her form. So it is said in the Lalitopākhyāna, in this very Brahmāṇḍa Purāṇa, in the Devī’s words: ‘My own male form is the one who enchants the gopīs.’",
+      "hi": "विष्णु ही इनका रूप हैं। जैसा इसी ब्रह्माण्ड पुराण के ललितोपाख्यान में देवी का वचन है: ‘गोपियों को मोहित करने वाला रूप मेरा ही पुरुष-रूप है।’"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 893 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya also cites the Sanatkumāra Saṃhitā, the Bṛhat Pārāśara Smṛti and the Padma, Āditya, Śiva and Vāmana Purāṇas here; they are summarised as ‘a string of Purāṇic witnesses’, not quoted." }
+}

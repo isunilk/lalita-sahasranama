@@ -1,0 +1,42 @@
+{
+  "number": 910,
+  "verse": 168,
+  "slug": "saumya",
+  "devanagari": "सौम्या",
+  "iastSplit": "Saumyā",
+  "archana": "ॐ सौम्यायै नमः",
+  "syllables": ["saum", "yā"],
+  "words": [
+    { "sa": "सौम्या", "meaning": { "en": "gentle, pleasing; moon-like; of Soma", "hi": "सौम्य, शान्त-मधुर; चन्द्रमा जैसी" } }
+  ],
+  "meaning": {
+    "en": "Gentle and gladdening, like the moon",
+    "hi": "चन्द्रमा की भाँति सौम्य और आह्लाद देने वाली"
+  },
+  "explanation": {
+    "en": "Saumya means gentle, calm and pleasing, the quality of Soma, the moon. Bhāskararāya comments on the form somyā and gives several senses: worthy of the soma sacrifice; gladdening like the moon; and having Soma, Śiva together with Umā, as part of herself. For the master text’s saumyā he notes only that the vṛddhi form carries the same meaning.",
+    "hi": "‘सौम्य’ का अर्थ है कोमल, शान्त और मनोहर — सोम, अर्थात् चन्द्रमा, का गुण। भास्करराय ‘सोम्या’ रूप पर व्याख्या करते हैं और कई अर्थ देते हैं: सोमयाग के योग्य; चन्द्रमा की भाँति आह्लाद देने वाली; और सोम — अर्थात् उमा सहित शिव — जिनका अंग है। मूल पाठ के ‘सौम्या’ के विषय में वे केवल इतना कहते हैं कि वृद्धि वाला यह रूप भी वही अर्थ देता है।"
+  },
+  "inner": {
+    "en": "Reading Soma as sa-umā, ‘with Umā’, makes the moon a name for Śiva joined with the Goddess. So her gentleness is not weakness but the cool, nourishing light of Śiva and Śakti together. He also lets soma mean camphor, white and cooling, which delights as the moon does.",
+    "hi": "सोम को ‘स-उमा’, अर्थात् ‘उमा सहित’, पढ़ने से चन्द्रमा शिव और देवी के संयुक्त रूप का नाम बन जाता है। अतः उनकी सौम्यता दुर्बलता नहीं, शिव-शक्ति के संयुक्त रूप का शीतल और पोषक प्रकाश है। वे ‘सोम’ का अर्थ कर्पूर भी देते हैं, जो चन्द्रमा की भाँति श्वेत और शीतल है और आनन्द देता है।"
+  },
+  "story": {
+    "en": "The name stands between two of the hymn’s gentlest pictures: the Sāma chant she loves (name 909) and her household with Sadāśiva (name 911).",
+    "hi": "यह नाम स्तोत्र के दो सबसे कोमल चित्रों के बीच है: वह सामगान जो उन्हें प्रिय है (नाम 909), और सदाशिव के साथ उनका गृहस्थ-जीवन (नाम 911)।"
+  },
+  "commentary": {
+    "sanskrit": "सौम्येत्यादिवृद्धिपाठे तु चातुर्वर्ण्यादित्वात्स्वार्थे ष्यञ् ।",
+    "translation": {
+      "en": "But in the reading saumyā, with vṛddhi in the first syllable, the suffix ṣyañ is added without changing the sense, as in cāturvarṇya.",
+      "hi": "किन्तु ‘सौम्या’ इस आदि-वृद्धि वाले पाठ में, चातुर्वर्ण्य आदि की भाँति, अर्थ बदले बिना (स्वार्थ में) ष्यञ् प्रत्यय होता है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 910 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Variant: Bhāskararāya’s comment takes सोम्या as the main reading and treats सौम्या as the vṛddhi reading, although the verse line in the edition prints सौम्या; the master text and nāmāvali have सौम्या, which the page follows. His derivations (Pāṇini’s सोममर्हति यः and मये च, and the शाखादि and चातुर्वर्ण्यादि groups) are summarised. The second sentence of the inner layer is a reflection." }
+}

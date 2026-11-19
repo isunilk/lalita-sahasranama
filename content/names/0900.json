@@ -1,0 +1,42 @@
+{
+  "number": 900,
+  "verse": 167,
+  "slug": "naishkarmya",
+  "devanagari": "नैष्कर्म्या",
+  "iastSplit": "Naiṣkarmyā",
+  "archana": "ॐ नैष्कर्म्यायै नमः",
+  "syllables": ["naiṣ", "kar", "myā"],
+  "words": [
+    { "sa": "नैष्कर्म्य", "meaning": { "en": "actionlessness: freedom from the bond of action", "hi": "नैष्कर्म्य, कर्म-बन्धन से मुक्ति" } }
+  ],
+  "meaning": {
+    "en": "Untouched by action and its fruits",
+    "hi": "जो कर्म और उसके फल से अछूती हैं"
+  },
+  "explanation": {
+    "en": "One from whom all action has fallen away is niṣkarman, and that state is naiṣkarmya. Bhāskararāya explains that she possesses that state: no residue of action clings to her. She acts through the whole universe, yet no deed binds her.",
+    "hi": "जिससे सभी कर्म छूट गए हों, वह ‘निष्कर्मा’ है, और उसकी अवस्था ‘नैष्कर्म्य’ है। भास्करराय समझाते हैं कि वे इस अवस्था से युक्त हैं: कर्म का कोई लेप उन पर नहीं लगता। वे पूरे विश्व में कर्म करती हैं, फिर भी कोई कर्म उन्हें बाँधता नहीं।"
+  },
+  "inner": {
+    "en": "He gathers three witnesses. The Gītā says such a one ‘is not stained by sin’; a text of śruti says ‘neither merit nor sin is mine’; and the Yoga Sūtra defines Īśvara as a special Self untouched by afflictions, actions, their ripening and their residues. She is that untouched Self.",
+    "hi": "वे तीन प्रमाण देते हैं। गीता कहती है कि ऐसा व्यक्ति ‘पाप से लिप्त नहीं होता’; श्रुति का वचन है ‘न पुण्य मेरा है, न पाप’; और योगसूत्र ईश्वर को ऐसा विशेष पुरुष बताता है जो क्लेश, कर्म, कर्मफल और संस्कारों से अछूता है। वे वही अछूता पुरुष हैं।"
+  },
+  "story": {
+    "en": "This is the nine hundredth name. Here Bhāskararāya closes the part of his commentary on the ninth hundred, which he calls the tenth kalā, Bodhinī, ‘the awakener’; the eleventh, Dhāriṇī, begins with the next name.",
+    "hi": "यह नौ सौवाँ नाम है। यहाँ भास्करराय अपनी व्याख्या का नौवें शतक वाला भाग पूरा करते हैं, जिसे वे दसवीं कला, बोधिनी (‘जगाने वाली’), कहते हैं; ग्यारहवीं कला, धारिणी, अगले नाम से आरम्भ होती है।"
+  },
+  "commentary": {
+    "sanskrit": "निर्गतानि कर्माणि यस्मात्स निष्कर्मा तस्य भावो नैष्कर्म्यं तद्वती नैष्कर्म्या ।",
+    "translation": {
+      "en": "He from whom actions have departed is niṣkarmā; his state is naiṣkarmya; she who possesses it is Naiṣkarmyā.",
+      "hi": "जिससे कर्म निकल गए हों, वह निष्कर्मा है; उसका भाव नैष्कर्म्य है; उससे युक्त वे नैष्कर्म्या हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 900 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya also explains the grammar (the possessive suffix अ by the अर्शआदि rule, or ष्यङ् in its own sense); not given on the page. He cites the three witnesses as smṛti, śruti and the Yoga Sūtra; they are Bhagavad Gītā 5.10, the Kaivalya Upaniṣad and Yoga Sūtra 1.24. In the edition the colophon of the tenth kalā falls after this name, splitting the verse line." }
+}

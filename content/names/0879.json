@@ -1,0 +1,43 @@
+{
+  "number": 879,
+  "verse": 163,
+  "slug": "sudha-sriti",
+  "devanagari": "सुधासृतिः",
+  "iastSplit": "Sudhā-sṛtiḥ",
+  "archana": "ॐ सुधासृत्यै नमः",
+  "syllables": ["su", "dhā", "sṛ", "tiḥ"],
+  "words": [
+    { "sa": "सुधा", "meaning": { "en": "nectar", "hi": "अमृत, सुधा" } },
+    { "sa": "सृति", "meaning": { "en": "flowing, a stream", "hi": "धारा, प्रवाह" } }
+  ],
+  "meaning": {
+    "en": "From whom nectar flows; the very stream of nectar",
+    "hi": "जिनसे अमृत बहता है; जो स्वयं अमृत की धारा हैं"
+  },
+  "explanation": {
+    "en": "Sudhā is nectar, and sṛti its flowing. She is the one through whom nectar streams, and she is that stream itself. Bhāskararāya also reads her as the rain of nectar from the moon that satisfies Agni, the Sun and the other gods.",
+    "hi": "‘सुधा’ है अमृत, और ‘सृति’ उसका बहना। वे वह हैं जिनके द्वारा अमृत बहता है, और वे स्वयं वह धारा भी हैं। भास्करराय उन्हें चन्द्रमण्डल से होने वाली वह अमृत-वर्षा भी मानते हैं जो अग्नि, सूर्य आदि देवताओं को तृप्त करती है।"
+  },
+  "inner": {
+    "en": "His first reading is yogic. Nectar rests in the moon at the centre of the thousand-petalled lotus at the crown, and she, as Kuṇḍalinī, makes it flow. That flow nourishes the circles of Ḍākinī and the other goddesses of the cakras, and he says this very act of nourishing is the Goddess.",
+    "hi": "उनका पहला अर्थ योगपरक है। सहस्रार कमल की कर्णिका में स्थित चन्द्रमा में अमृत है, और वे कुण्डलिनी के रूप में उसे प्रवाहित करती हैं। वह प्रवाह डाकिनी आदि चक्र-देवियों के मण्डलों को पुष्ट करता है, और वे कहते हैं कि पोषण की यह क्रिया ही भगवती हैं।"
+  },
+  "story": {
+    "en": "For the moon’s nectar he quotes the Vāyu Purāṇa: the gods drink its fifteen streams through the dark fortnight and grow strong. He also recalls a meditation in the Jñānārṇava Tantra on her as raining streams of nectar that take away poison. Name 106, Sudhāsārābhivarṣiṇī, speaks of the same shower of nectar.",
+    "hi": "चन्द्रमा के अमृत के लिए वे वायु पुराण का वचन देते हैं: देवता कृष्ण पक्ष में उसकी पन्द्रह धाराओं का पान करते हैं और पुष्ट होते हैं। वे ज्ञानार्णव तन्त्र के उस ध्यान का भी स्मरण करते हैं जिसमें देवी अमृत की धाराएँ बरसाती हुई और विष को हरती हुई बताई गई हैं। नाम 106, सुधासाराभिवर्षिणी, भी इसी अमृत-वर्षा की बात करता है।"
+  },
+  "commentary": {
+    "sanskrit": "सुधायाः सहस्रारकर्णिकाचन्द्रगतायाः स्रुतिः स्रवणं यया कुण्डलिन्या सा । सुधायाः स्रुतिरेव वा ।",
+    "translation": {
+      "en": "She is the Kuṇḍalinī through whom there is sruti, the flowing, of the nectar that rests in the moon at the pericarp of the thousand-petalled lotus; or she is that flow of nectar itself.",
+      "hi": "वे कुण्डलिनी, जिनके द्वारा सहस्रार की कर्णिका में स्थित चन्द्रमा के अमृत की स्रुति, अर्थात् स्रवण, होती है; अथवा वे स्वयं अमृत की धारा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 879 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Variant: Bhāskararāya’s text reads सुधास्रुतिः (from स्रु, to flow); the master text and nāmāvali have सुधासृतिः, and the page follows them. The archana keeps सुधासृत्यै (feminine i-stem; सुधासृतये would also be grammatical). The Kuṇḍalinī reading is given as meaning only. The Vāyu Purāṇa half-verse after the quoted lines is partly missing in the edition and is not used." }
+}

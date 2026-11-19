@@ -1,0 +1,42 @@
+{
+  "number": 892,
+  "verse": 166,
+  "slug": "vaishnavi",
+  "devanagari": "वैष्णवी",
+  "iastSplit": "Vaiṣṇavī",
+  "archana": "ॐ वैष्णव्यै नमः",
+  "syllables": ["vaiṣ", "ṇa", "vī"],
+  "words": [
+    { "sa": "वैष्णवी", "meaning": { "en": "belonging to Viṣṇu; the power of Viṣṇu", "hi": "विष्णु की शक्ति, विष्णु से सम्बन्धित" } }
+  ],
+  "meaning": {
+    "en": "The power of Viṣṇu; she who is Viṣṇu’s own",
+    "hi": "विष्णु की शक्ति; विष्णु की अपनी"
+  },
+  "explanation": {
+    "en": "Vaiṣṇavī means ‘of Viṣṇu’. Bhāskararāya quotes a verse of the Devī Purāṇa that gives four reasons for the name: she bears the conch, discus and mace; she is the mother of Viṣṇu; like him, she slays the enemies of the gods; and she is Viṣṇu’s own form.",
+    "hi": "‘वैष्णवी’ का अर्थ है ‘विष्णु की’। भास्करराय देवी पुराण का एक श्लोक उद्धृत करते हैं जो इस नाम के चार कारण देता है: वे शंख, चक्र और गदा धारण करती हैं; वे विष्णु की माता हैं; विष्णु की भाँति वे देवताओं के शत्रुओं का वध करती हैं; और वे विष्णु का ही रूप हैं।"
+  },
+  "inner": {
+    "en": "He takes care to show that the last reason does not merely repeat his first gloss, ‘she belongs to Viṣṇu’: to be Viṣṇu’s form means to be not different from him. So Vaiṣṇavī is not only Viṣṇu’s companion or the bearer of his weapons; she and Viṣṇu are one.",
+    "hi": "वे ध्यान से दिखाते हैं कि अन्तिम कारण उनकी पहली व्याख्या, ‘वे विष्णु की हैं’, का दोहराव मात्र नहीं: विष्णु का रूप होने का अर्थ है उनसे अभिन्न होना। अतः वैष्णवी केवल विष्णु की सहचरी या उनके आयुध धारण करने वाली नहीं; वे और विष्णु एक ही हैं।"
+  },
+  "story": {
+    "en": "This begins two names on Viṣṇu. The next name, Viṣṇurūpiṇī, takes up the last of the four reasons, and there Bhāskararāya gives his proofs from the Lalitopākhyāna and the Purāṇas.",
+    "hi": "यहाँ से विष्णु से जुड़े दो नाम आरम्भ होते हैं। अगला नाम, विष्णुरूपिणी, चार कारणों में से अन्तिम को लेता है, और वहाँ भास्करराय ललितोपाख्यान और पुराणों से प्रमाण देते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "विष्णोरियं वैष्णवी ।",
+    "translation": {
+      "en": "She belongs to Viṣṇu: so she is Vaiṣṇavī.",
+      "hi": "वे विष्णु की हैं, इसलिए वैष्णवी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 892 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s phrase is अत्र चतस्रो व्युत्पत्तयः सूचिताः (‘four derivations are suggested here’) for the Devī Purāṇa verse." }
+}

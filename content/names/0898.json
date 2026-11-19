@@ -1,0 +1,44 @@
+{
+  "number": 898,
+  "verse": 167,
+  "slug": "vira-goshthi-priya",
+  "devanagari": "वीरगोष्ठीप्रिया",
+  "iastSplit": "Vīra-goṣṭhī-priyā",
+  "archana": "ॐ वीरगोष्ठीप्रियायै नमः",
+  "syllables": ["vī", "ra", "goṣ", "ṭhīp", "ri", "yā"],
+  "words": [
+    { "sa": "वीर", "meaning": { "en": "hero, the valiant", "hi": "वीर" } },
+    { "sa": "गोष्ठी", "meaning": { "en": "assembly; conversation", "hi": "सभा, गोष्ठी, संलाप" } },
+    { "sa": "प्रिया", "meaning": { "en": "dear", "hi": "प्रिय" } }
+  ],
+  "meaning": {
+    "en": "Who loves the company and converse of heroes",
+    "hi": "जिन्हें वीरों की सभा और उनका संलाप प्रिय है"
+  },
+  "explanation": {
+    "en": "Goṣṭhī is a gathering, or the talk that goes on in it. The assembly of heroes, and their conversation, is dear to her. Bhāskararāya’s gloss says only this.",
+    "hi": "‘गोष्ठी’ का अर्थ है सभा, या उसमें होने वाला वार्तालाप। वीरों की सभा और उनका संलाप उन्हें प्रिय है। भास्करराय की व्याख्या इतना ही कहती है।"
+  },
+  "inner": {
+    "en": "He gives no hidden meaning here. In Tantric usage vīra also names the adept of heroic temperament, but he does not draw on that sense for this name. In reflection, the heroes she loves are those with the courage to turn inward and face what they find.",
+    "hi": "यहाँ वे कोई गूढ़ अर्थ नहीं देते। तान्त्रिक प्रयोग में ‘वीर’ वीर-भाव वाले साधक को भी कहते हैं, पर इस नाम के लिए वे उस अर्थ का सहारा नहीं लेते। चिन्तन के रूप में: जिन वीरों से वे प्रेम करती हैं, वे वे हैं जिनमें भीतर मुड़कर, जो मिले उसका सामना करने का साहस है।"
+  },
+  "story": {
+    "en": "In the Lalitopākhyāna she rides out at the head of her armies against Bhaṇḍāsura, and the hymn calls her Vīramātā, mother of heroes (name 836), and Vīrārādhyā, worshipped by heroes (name 777). The next name says she is a heroine herself.",
+    "hi": "ललितोपाख्यान में वे अपनी सेनाओं के आगे भण्डासुर के विरुद्ध युद्ध के लिए निकलती हैं, और स्तोत्र उन्हें वीरमाता, वीरों की माता (नाम 836), और वीराराध्या, वीरों द्वारा आराध्य (नाम 777), कहता है। अगला नाम कहता है कि वे स्वयं भी वीरा हैं।"
+  },
+  "commentary": {
+    "sanskrit": "वीराणां गोष्ठी सभा संल्लापो वा प्रिया यस्याः ।",
+    "translation": {
+      "en": "She to whom the goṣṭhī of heroes, their assembly or their converse, is dear.",
+      "hi": "जिन्हें वीरों की गोष्ठी — उनकी सभा या उनका संलाप — प्रिय है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 898 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The quote is exact as printed, with संल्लापो evidently for संलापो. Bhāskararāya gives only the literal sense; the Tantric sense of vīra is mentioned as context, and the last sentence of the inner layer is a reflection." }
+}

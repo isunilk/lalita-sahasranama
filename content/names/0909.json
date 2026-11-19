@@ -1,0 +1,44 @@
+{
+  "number": 909,
+  "verse": 168,
+  "slug": "sama-gana-priya",
+  "devanagari": "सामगानप्रिया",
+  "iastSplit": "Sāma-gāna-priyā",
+  "archana": "ॐ सामगानप्रियायै नमः",
+  "syllables": ["sā", "ma", "gā", "nap", "ri", "yā"],
+  "words": [
+    { "sa": "सामन्", "meaning": { "en": "the Sāman, the sung verses of the Sāmaveda", "hi": "साम, सामवेद के गेय मन्त्र" } },
+    { "sa": "गान", "meaning": { "en": "singing", "hi": "गान" } },
+    { "sa": "प्रिया", "meaning": { "en": "dear", "hi": "प्रिय" } }
+  ],
+  "meaning": {
+    "en": "Who loves the singing of the Sāmaveda",
+    "hi": "जिन्हें सामवेद का गान प्रिय है"
+  },
+  "explanation": {
+    "en": "The Sāman are the verses of the Veda set to melody and sung at the sacrifice, and their singing is dear to her. Bhāskararāya also connects the name with the sāmagas, the Chandoga singers of the Sāmaveda.",
+    "hi": "साम वेद के वे मन्त्र हैं जो स्वर में बाँधकर यज्ञ में गाए जाते हैं, और उनका गान उन्हें प्रिय है। भास्करराय इस नाम को सामगों, अर्थात् सामवेद गाने वाले छन्दोगों, से भी जोड़ते हैं।"
+  },
+  "inner": {
+    "en": "He gives no hidden meaning here. In reflection, the Sāman is the Veda become melody; it is fitting that she who is Nādarūpiṇī, whose form is subtle sound (name 901), loves the Veda as it is sung.",
+    "hi": "यहाँ वे कोई गूढ़ अर्थ नहीं देते। चिन्तन के रूप में: साम वेद का संगीत बना रूप है; यह उचित ही है कि जो नादरूपिणी हैं, सूक्ष्म ध्वनि जिनका रूप है (नाम 901), उन्हें गाया जाता वेद प्रिय हो।"
+  },
+  "story": {
+    "en": "The Sāmaveda is one of the three Vedas she embodies as Trayī (name 872). Its singers are known as Chandogas, and its Upaniṣad, the Chāndogya, is the source of the great saying in the previous name.",
+    "hi": "सामवेद उन तीन वेदों में से एक है जिनका स्वरूप वे त्रयी के रूप में हैं (नाम 872)। इसके गायक छन्दोग कहलाते हैं, और इसी का उपनिषद्, छान्दोग्य, पिछले नाम के महावाक्य का स्रोत है।"
+  },
+  "commentary": {
+    "sanskrit": "सामगानं प्रियं यस्याः ।",
+    "translation": {
+      "en": "She to whom the singing of the Sāman is dear.",
+      "hi": "जिन्हें सामगान प्रिय है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 909 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s second reading is printed सामगाश्छन्दोगाः । अनवत्प्राणवत्प्रियं यस्या इति वा, which seems corrupt (perhaps ‘dear to her as life-breath’); the page says only that he links the name to the Sāma singers. The inner layer is a reflection." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 905,
+  "verse": 167,
+  "slug": "baindavasana",
+  "devanagari": "बैन्दवासना",
+  "iastSplit": "Baindavāsanā",
+  "archana": "ॐ बैन्दवासनायै नमः",
+  "syllables": ["bain", "da", "vā", "sa", "nā"],
+  "words": [
+    { "sa": "बैन्दव", "meaning": { "en": "of the bindu; the place of the bindu", "hi": "बिन्दु से सम्बन्धित, बिन्दु-स्थान" } },
+    { "sa": "आसन", "meaning": { "en": "seat", "hi": "आसन" } }
+  ],
+  "meaning": {
+    "en": "Whose seat is the bindu, the point at the centre",
+    "hi": "बिन्दु ही जिनका आसन है"
+  },
+  "explanation": {
+    "en": "Baindava means ‘of the bindu’, the point. Bhāskararāya first takes it as the round place above the eyebrows, and that is her seat. Or her seat is the bindu cakra at the heart of the Śrīcakra, called Sarvānandamaya, ‘full of all bliss’.",
+    "hi": "‘बैन्दव’ का अर्थ है ‘बिन्दु से सम्बन्धित’। भास्करराय पहले इसे भौंहों के ऊपर का वृत्ताकार स्थान मानते हैं, और वही उनका आसन है। अथवा उनका आसन श्रीचक्र के केन्द्र का बिन्दु-चक्र है, जिसे सर्वानन्दमय, अर्थात् सम्पूर्ण आनन्द से भरा, कहा जाता है।"
+  },
+  "inner": {
+    "en": "For the first reading he cites the Svacchanda Tantra, which pictures, above the circle of Hākinī, the round bindu, a lotus and Śiva, with Manonmanī, who is beyond peace, seated at his left. In his last reading, taking the word another way, he says that as one moon is reflected in many waters, she, the single original, abides in the host of living beings; he cites the śruti, ‘it is seen as one and as many, like the moon in water’.",
+    "hi": "पहले अर्थ के लिए वे स्वच्छन्द तन्त्र का उल्लेख करते हैं, जो हाकिनी-मण्डल के ऊपर वृत्ताकार बिन्दु, एक कमल और शिव का वर्णन करता है, और उनके वाम भाग में विराजमान शान्त्यतीता मनोन्मनी का। अपने अन्तिम अर्थ में, शब्द को दूसरी तरह पढ़कर, वे कहते हैं कि जैसे एक ही चन्द्रमा अनेक जलों में प्रतिबिम्बित होता है, वैसे ही वे एकमात्र मूल-बिम्ब होकर जीवों के समूह में स्थित हैं; वे श्रुति देते हैं: ‘वह जल में चन्द्रमा की भाँति एक भी दिखता है और अनेक भी।’"
+  },
+  "story": {
+    "en": "Hākinī is the goddess of the cakra between the eyebrows (name 527), so the bindu lies just above it. The bindu of the Śrīcakra is also named in Bindumaṇḍalavāsinī, dweller in the circle of the bindu (name 380).",
+    "hi": "हाकिनी भ्रूमध्य के चक्र की देवी हैं (नाम 527), इसलिए बिन्दु उसके ठीक ऊपर है। श्रीचक्र के बिन्दु का उल्लेख बिन्दुमण्डलवासिनी, बिन्दु-मण्डल में निवास करने वाली (नाम 380), नाम में भी है।"
+  },
+  "commentary": {
+    "sanskrit": "बिन्दुसम्बन्धिचक्रं सर्वानन्दमयाख्यमेवासनं यस्या वा ।",
+    "translation": {
+      "en": "Or: she whose seat is the cakra of the bindu, called Sarvānandamaya.",
+      "hi": "अथवा, बिन्दु से सम्बन्धित सर्वानन्दमय नामक चक्र ही जिनका आसन है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 905 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Variant: Bhāskararāya’s text reads बैन्दवासनी; the master text and nāmāvali have बैन्दवासना, and his own gloss (तदासनं यस्याः) suits it. The first gloss is printed भ्रूवोरुपरिभागे, evidently for भ्रुवोरुपरिभागे; it is paraphrased. He also reads baindava as the group of bindus that stand for Brahmā, Hari and Hara in the Jñānārṇava; not given. The cakra readings are given as meaning only." }
+}

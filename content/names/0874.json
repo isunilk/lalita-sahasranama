@@ -1,0 +1,43 @@
+{
+  "number": 874,
+  "verse": 163,
+  "slug": "tristha",
+  "devanagari": "त्रिस्था",
+  "iastSplit": "Tri-sthā",
+  "archana": "ॐ त्रिस्थायै नमः",
+  "syllables": ["tris", "thā"],
+  "words": [
+    { "sa": "त्रि", "meaning": { "en": "three", "hi": "तीन" } },
+    { "sa": "स्था", "meaning": { "en": "abiding, standing", "hi": "स्थित रहने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who abides wholly in every triad: worlds, times, states",
+    "hi": "जो हर त्रय में — तीनों लोकों, कालों और अवस्थाओं में — पूर्ण रूप से स्थित हैं"
+  },
+  "explanation": {
+    "en": "Tristhā means ‘she who stands in the three’. Bhāskararāya gives several triads: the three times, past, present and future; the three letters a, u and m that make up Om; and the three worlds and every other group of three, in all of which she abides without division.",
+    "hi": "‘त्रिस्था’ का अर्थ है ‘तीन में स्थित’। भास्करराय कई त्रय गिनाते हैं: तीनों काल — भूत, वर्तमान और भविष्य; ओंकार के तीन अक्षर — अ, उ और म; तथा तीनों लोक और ऐसे सभी त्रय, जिनमें वे बिना किसी विभाजन के स्थित हैं।"
+  },
+  "inner": {
+    "en": "‘Without division’ is the key phrase: she is not split into three but is present whole in each. The verse he quotes includes the three states of waking, dream and sleep and the three measures of Om, so she is present in every state of the seeker as well as in every part of the world.",
+    "hi": "‘बिना विभाजन के’ — यही मुख्य बात है: वे तीन भागों में बँटी नहीं, प्रत्येक में पूर्ण रूप से उपस्थित हैं। उनके द्वारा उद्धृत श्लोक में जाग्रत, स्वप्न और सुषुप्ति — ये तीन अवस्थाएँ और ओंकार की तीन मात्राएँ भी गिनाई गई हैं; इस प्रकार वे जगत के हर अंश में ही नहीं, साधक की हर अवस्था में भी विद्यमान हैं।"
+  },
+  "story": {
+    "en": "He quotes a verse from the Mārkaṇḍeya Purāṇa that lists the triads of the world: three worlds, three gods, the three Vedas, three fires, three lights, three guṇas, three times, three states and the three measures of Om. It ends, ‘these are your form, O Tristhā, Devī Sarasvatī’.",
+    "hi": "वे मार्कण्डेय पुराण का एक श्लोक उद्धृत करते हैं जो संसार के त्रयों की सूची देता है: तीन लोक, तीन देव, तीन वेद, तीन अग्नियाँ, तीन ज्योतियाँ, तीन गुण, तीन काल, तीन अवस्थाएँ और ओंकार की तीन मात्राएँ। वह अन्त में कहता है, ‘हे त्रिस्थे, देवि सरस्वति, ये सब तुम्हारा ही रूप हैं।’"
+  },
+  "commentary": {
+    "sanskrit": "त्रिषु भूतादिकालेष्वकारोकारमकारेषु वा स्था स्थितिर्यस्याः । त्रिषु लोकादिष्वभेदेन तिष्ठतीति वा त्रिस्था ।",
+    "translation": {
+      "en": "She whose sthā, abiding, is in the three times, past and the rest, or in the letters a, u and m; or Tristhā, because she abides without division in the three worlds and the other triads.",
+      "hi": "जिनकी स्था, अर्थात् स्थिति, भूत आदि तीनों कालों में, अथवा अ, उ और म — इन तीन अक्षरों में है; अथवा जो तीनों लोकों और अन्य त्रयों में अभेद से स्थित हैं, वे त्रिस्था हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 874 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Mārkaṇḍeya Purāṇa verse is summarised, not given in full; ‘waking, dream and sleep’ is the usual sense of its word अवस्थाः." }
+}

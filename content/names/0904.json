@@ -1,0 +1,42 @@
+{
+  "number": 904,
+  "verse": 167,
+  "slug": "vidagdha",
+  "devanagari": "विदग्धा",
+  "iastSplit": "Vidagdhā",
+  "archana": "ॐ विदग्धायै नमः",
+  "syllables": ["vi", "dag", "dhā"],
+  "words": [
+    { "sa": "विदग्धा", "meaning": { "en": "clever, refined, accomplished", "hi": "चतुर, निपुण, सुसंस्कृत" } }
+  ],
+  "meaning": {
+    "en": "Clever, refined and accomplished",
+    "hi": "चतुर, सुसंस्कृत और निपुण"
+  },
+  "explanation": {
+    "en": "Vidagdhā describes someone cultivated and clever: quick of wit, skilled in speech and in the arts of life. Bhāskararāya’s gloss is a single word: she is by nature full of skill (cāturya).",
+    "hi": "‘विदग्धा’ उस व्यक्ति को कहते हैं जो सुसंस्कृत और चतुर हो: तीक्ष्ण बुद्धि वाला, वाणी और जीवन की कलाओं में निपुण। भास्करराय की व्याख्या एक ही शब्द की है: वे स्वभाव से चातुर्य से भरी हैं।"
+  },
+  "inner": {
+    "en": "He gives no hidden meaning here. In reflection, her skill is seen in the way she leads each seeker by the path that suits them, as a wise teacher would.",
+    "hi": "यहाँ वे कोई गूढ़ अर्थ नहीं देते। चिन्तन के रूप में: उनका चातुर्य इसमें दिखता है कि वे हर साधक को उसके अनुकूल मार्ग से ले चलती हैं, जैसे कोई ज्ञानी गुरु।"
+  },
+  "story": {
+    "en": "In classical Sanskrit literature the vidagdha is the cultivated connoisseur, at ease in poetry, music and conversation. The name follows Kalyā, skilled in the arts (name 903).",
+    "hi": "शास्त्रीय संस्कृत साहित्य में ‘विदग्ध’ वह सुसंस्कृत रसिक है जो काव्य, संगीत और वार्तालाप में सहज हो। यह नाम कल्या, कलाओं में निपुण (नाम 903), के बाद आता है।"
+  },
+  "commentary": {
+    "sanskrit": "विदग्धा चातुर्यशीला ।",
+    "translation": {
+      "en": "Vidagdhā: one whose nature is skill.",
+      "hi": "विदग्धा अर्थात् चातुर्य जिनका स्वभाव है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 904 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the inner layer is a reflection." }
+}

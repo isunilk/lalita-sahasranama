@@ -1,0 +1,42 @@
+{
+  "number": 903,
+  "verse": 167,
+  "slug": "kalya",
+  "devanagari": "कल्या",
+  "iastSplit": "Kalyā",
+  "archana": "ॐ कल्यायै नमः",
+  "syllables": ["kal", "yā"],
+  "words": [
+    { "sa": "कल्या", "meaning": { "en": "skilled in the arts; worthy to be known; dawn; auspicious", "hi": "कलाओं में निपुण; जानने योग्य; उषा; कल्याणमयी" } }
+  ],
+  "meaning": {
+    "en": "Skilled in every art; the auspicious dawn",
+    "hi": "सब कलाओं में निपुण; मंगलमयी उषा"
+  },
+  "explanation": {
+    "en": "Kalyā has several senses, and Bhāskararāya gives them in turn: she is skilled in the kalās, the arts; she is worthy to be known; and she has the form of dawn. He quotes the Viśva lexicon, which also gives kalyā as a word for the auspicious.",
+    "hi": "‘कल्या’ के कई अर्थ हैं, और भास्करराय उन्हें क्रम से देते हैं: वे कलाओं में निपुण हैं; वे जानने योग्य हैं; और वे उषःकाल का रूप हैं। वे विश्व कोश का वचन देते हैं, जिसमें ‘कल्या’ कल्याण का वाचक भी बताया गया है।"
+  },
+  "inner": {
+    "en": "He gives no hidden meaning. In reflection, the senses fit together: the lexicon also gives kalya for one who is healthy and skilful, and dawn is the hour when the day is fresh and everything is possible. She is wholeness, skill and new beginning.",
+    "hi": "वे कोई गूढ़ अर्थ नहीं देते। चिन्तन के रूप में: ये अर्थ परस्पर जुड़ते हैं — कोश ‘कल्य’ को नीरोग और दक्ष के अर्थ में भी देता है, और उषा वह समय है जब दिन नया होता है और सब कुछ सम्भव लगता है। वे पूर्णता, कुशलता और नया आरम्भ हैं।"
+  },
+  "story": {
+    "en": "The lexicon entry he quotes gives kalya in the sense of creation and of morning, and kalyā in the sense of the auspicious. Name 324 calls her by the related name Kalyāṇī, the auspicious one.",
+    "hi": "उनके द्वारा उद्धृत कोश का यह वचन ‘कल्य’ को सृष्टि और प्रभात के अर्थ में, और ‘कल्या’ को कल्याण के अर्थ में देता है। नाम 324 उन्हें इसी से जुड़े नाम कल्याणी, मंगलमयी, से पुकारता है।"
+  },
+  "commentary": {
+    "sanskrit": "कलासु साधुः कल्या । यद्वा कलयितुमर्हा कल्या उषःकालरूपा वा ।",
+    "translation": {
+      "en": "Kalyā: excellent in the kalās, the arts. Or Kalyā, worthy to be known; or she has the form of dawn.",
+      "hi": "कलाओं में साधु (निपुण) होने से कल्या। अथवा, जानने योग्य होने से कल्या; अथवा वे उषःकाल का रूप हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 903 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya also gives ‘of the form of kādambarī and the like’ (कादम्बर्यादिरूपा), from the lexicon’s sense of kalyā as a kind of wine; not given on the page. कलयितुमर्हा is rendered ‘worthy to be known’; ‘worthy to be contemplated’ is also possible. The inner layer is a reflection." }
+}

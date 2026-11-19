@@ -1,0 +1,44 @@
+{
+  "number": 875,
+  "verse": 163,
+  "slug": "tripura-malini",
+  "devanagari": "त्रिपुरमालिनी",
+  "iastSplit": "Tri-pura-mālinī",
+  "archana": "ॐ त्रिपुरमालिन्यै नमः",
+  "syllables": ["tri", "pu", "ra", "mā", "li", "nī"],
+  "words": [
+    { "sa": "त्रि", "meaning": { "en": "three", "hi": "तीन" } },
+    { "sa": "पुर", "meaning": { "en": "city, citadel", "hi": "पुर, नगर" } },
+    { "sa": "मालिनी", "meaning": { "en": "she who wears a garland", "hi": "माला धारण करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Goddess of the inner ring of ten triangles in the Śrīcakra",
+    "hi": "श्रीचक्र के भीतरी दशार चक्र की अधिष्ठात्री देवी"
+  },
+  "explanation": {
+    "en": "Bhāskararāya gives a single, exact sense: Tripuramālinī is the goddess who presides over the antardaśāra, the inner ring of ten triangles in the Śrīcakra, and the Devī herself is that goddess. Word by word, the name joins tripura, ‘the three cities’, with mālinī, ‘she who wears a garland’.",
+    "hi": "भास्करराय एक ही, सुनिश्चित अर्थ देते हैं: त्रिपुरमालिनी वह देवी हैं जो श्रीचक्र के अन्तर्दशार, अर्थात् दस त्रिकोणों के भीतरी घेरे, की अधिष्ठात्री हैं, और स्वयं देवी ही वह देवता हैं। शब्दशः यह नाम ‘त्रिपुर’ (तीन पुर) और ‘मालिनी’ (माला धारण करने वाली) को जोड़ता है।"
+  },
+  "inner": {
+    "en": "In Śrīvidyā the Śrīcakra is worshipped as nine enclosures, each with its own presiding goddess, and the names of those goddesses all carry the word Tripura. To name the Devī as Tripuramālinī is to say that the ruler of one enclosure is not a separate being but the Devī herself, present at that stage of the cakra.",
+    "hi": "श्रीविद्या में श्रीचक्र की उपासना नौ आवरणों के रूप में होती है; प्रत्येक आवरण की अपनी अधिष्ठात्री देवी है, और उन सबके नामों में ‘त्रिपुर’ शब्द आता है। देवी को त्रिपुरमालिनी कहने का अर्थ है कि किसी एक आवरण की स्वामिनी कोई अलग सत्ता नहीं, चक्र के उस स्तर पर स्वयं देवी ही विराजमान हैं।"
+  },
+  "story": {
+    "en": "This completes the four ‘three’ names that open the verse. Other names also carry the title Tripura, such as Tripurā (name 626), Tripureśī (name 787) and Tripurāmbikā (name 976).",
+    "hi": "इससे श्लोक का आरम्भ करने वाले ‘तीन’ के चारों नाम पूरे होते हैं। अन्य नामों में भी ‘त्रिपुर’ उपाधि आती है, जैसे त्रिपुरा (नाम 626), त्रिपुरेशी (नाम 787) और त्रिपुराम्बिका (नाम 976)।"
+  },
+  "commentary": {
+    "sanskrit": "अन्तर्दशारचक्राभिमानिनी देवता त्रिपुरमालिनी ।",
+    "translation": {
+      "en": "Tripuramālinī is the deity who presides over the inner ten-cornered cakra.",
+      "hi": "त्रिपुरमालिनी वह देवता हैं जो भीतरी दशार (दस कोणों वाले) चक्र की अधिष्ठात्री हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 875 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the identification with the deity of the inner ten triangles; the nine enclosures and the Tripura names of their goddesses are general Śrīvidyā tradition, not from this comment. The word-by-word parse tri-pura-mālinī is added for the reader." }
+}

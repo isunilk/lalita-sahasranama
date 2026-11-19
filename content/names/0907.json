@@ -1,0 +1,43 @@
+{
+  "number": 907,
+  "verse": 168,
+  "slug": "tattva-mayi",
+  "devanagari": "तत्त्वमयी",
+  "iastSplit": "Tattva-mayī",
+  "archana": "ॐ तत्त्वमय्यै नमः",
+  "syllables": ["tat", "tva", "ma", "yī"],
+  "words": [
+    { "sa": "तत्त्व", "meaning": { "en": "tattva, a principle of reality", "hi": "तत्त्व" } },
+    { "sa": "मयी", "meaning": { "en": "made of, abounding in", "hi": "से बनी, से परिपूर्ण" } }
+  ],
+  "meaning": {
+    "en": "Made of the tattvas; all the principles of reality are her",
+    "hi": "जो तत्त्वों से बनी हैं; सभी तत्त्व जिनका स्वरूप हैं"
+  },
+  "explanation": {
+    "en": "Tattvamayī means abounding in the tattvas, made of them: she is beyond them (name 906) and also their very substance. Bhāskararāya reads it as well through the threefold tattva of the Āgamas: the tattva of the self, of knowledge (vidyā) and of Śiva.",
+    "hi": "‘तत्त्वमयी’ का अर्थ है तत्त्वों से परिपूर्ण, उन्हीं से बनी: वे उनसे परे भी हैं (नाम 906) और उनका सार भी। भास्करराय इसे आगमों के त्रिविध तत्त्व के माध्यम से भी पढ़ते हैं: आत्मतत्त्व, विद्यातत्त्व और शिवतत्त्व।"
+  },
+  "inner": {
+    "en": "He calls this the secret of the three tattvas. Being, consciousness and bliss are unveiled in different measure: in the Śiva-tattva all three shine; in the vidyā-tattva being and consciousness shine and bliss is slightly veiled; in the ātma-tattva only being shows, and consciousness and bliss are covered. So the three names point to sat, cit and ānanda, and she, made of all three tattvas and their sum, is the whole.",
+    "hi": "वे इसे ‘तत्त्वत्रय का रहस्य’ कहते हैं। सत्, चित् और आनन्द अलग-अलग मात्रा में अनावृत रहते हैं: शिवतत्त्व में तीनों प्रकाशित हैं; विद्यातत्त्व में सत् और चित् प्रकट हैं और आनन्द पर हल्का आवरण है; आत्मतत्त्व में केवल सत् प्रकट है, चित् और आनन्द ढके हुए हैं। अतः तीनों नाम सत्, चित् और आनन्द के सूचक हैं, और वे — तीनों तत्त्वों से बनी और उनकी समष्टि — सम्पूर्ण हैं।"
+  },
+  "story": {
+    "en": "The elders’ verse he quotes counts four tattvas: the self-tattva reaches up to Māyā, the vidyā-tattva up to Sadāśiva, the Śiva-tattva is Śakti and Śiva, and the fourth is the sum of all. He also gives the thirty-six tattvas, from earth upward, as one of the six paths that make up the body of the Supreme.",
+    "hi": "उनके द्वारा उद्धृत वृद्धों का श्लोक चार तत्त्व गिनाता है: आत्मतत्त्व माया तक, विद्यातत्त्व सदाशिव तक, शिवतत्त्व अर्थात् शक्ति और शिव, और चौथा, तुरीय तत्त्व, इन सबकी समष्टि। वे पृथ्वी से आरम्भ होने वाले छत्तीस तत्त्वों को परमात्मा के शरीर के छह मार्गों (षडध्वा) में से एक भी बताते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "अथवा आत्मतत्त्वं विद्यातत्त्वं शिवतत्त्वं चेति त्रिविधतत्त्वमयी ।",
+    "translation": {
+      "en": "Or: she is made of the threefold tattva: the tattva of the self, the tattva of knowledge and the tattva of Śiva.",
+      "hi": "अथवा, आत्मतत्त्व, विद्यातत्त्व और शिवतत्त्व — इस त्रिविध तत्त्व से बनी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 907 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s first gloss is simply तत्त्वप्रचुरा, ‘abounding in tattvas’. The edition prints सन्दंशमात्रम्, read here as सदंशमात्रम् (‘only the portion of being’)." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 891,
+  "verse": 166,
+  "slug": "vidrumabha",
+  "devanagari": "विद्रुमाभा",
+  "iastSplit": "Vidrumābhā",
+  "archana": "ॐ विद्रुमाभायै नमः",
+  "syllables": ["vid", "ru", "mā", "bhā"],
+  "words": [
+    { "sa": "विद्रुम", "meaning": { "en": "coral", "hi": "मूँगा, प्रवाल" } },
+    { "sa": "आभा", "meaning": { "en": "lustre, radiance", "hi": "आभा, कान्ति" } }
+  ],
+  "meaning": {
+    "en": "Who glows red like coral",
+    "hi": "जो मूँगे के समान लाल आभा वाली हैं"
+  },
+  "explanation": {
+    "en": "Vidruma is coral. Like coral she is deep red, and red is her colour throughout the hymn. Bhāskararāya also splits the word another way: vit, knowledge, is a druma, a tree, and she is like that tree.",
+    "hi": "‘विद्रुम’ का अर्थ है मूँगा। मूँगे की भाँति उनकी आभा गहरी लाल है, और पूरे स्तोत्र में लाल ही उनका वर्ण है। भास्करराय इस शब्द को दूसरी तरह भी तोड़ते हैं: ‘वित्’ अर्थात् ज्ञान ही ‘द्रुम’ अर्थात् वृक्ष है, और वे उस वृक्ष के समान हैं।"
+  },
+  "inner": {
+    "en": "Knowledge is like a tree, he explains, because it spreads out branch after branch in unbroken succession: one insight opens into the next. So she is both the red glow of her meditation form and the ever-branching growth of understanding.",
+    "hi": "वे समझाते हैं कि ज्ञान वृक्ष के समान है, क्योंकि वह शाखा-दर-शाखा, अविच्छिन्न क्रम से फैलता है: एक बोध से अगला बोध खुलता है। इस प्रकार वे अपने ध्यान-रूप की लाल आभा भी हैं और समझ का निरन्तर फैलता वृक्ष भी।"
+  },
+  "story": {
+    "en": "Her red glow is a constant of her iconography: she is Sarvāruṇā, red in every part (name 49), and name 24 says her lips outshine fresh coral.",
+    "hi": "लाल आभा उनके स्वरूप-चित्रण का स्थायी लक्षण है: वे सर्वारुणा हैं, अंग-अंग में अरुण (नाम 49), और नाम 24 कहता है कि उनके होंठ नए मूँगे की शोभा को भी लज्जित करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "वित् ज्ञानमेव द्रुमः पुङ्खानुपुङ्खप्रसृतत्वसाम्यात्तेन तुल्येति वा ।",
+    "translation": {
+      "en": "Or: vit, knowledge, is itself a druma, a tree, because like a tree it spreads out in unbroken succession; she is like it.",
+      "hi": "अथवा, वित् अर्थात् ज्ञान ही द्रुम (वृक्ष) है, क्योंकि वह वृक्ष की भाँति क्रम-दर-क्रम फैलता है; वे उसके समान हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 891 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition prints the coral gloss as विद्रूमाः प्रवालास्तद्वदारक्ता…, evidently for विद्रुमाः; the quote is taken from the second reading, which has no misprint. ‘One insight opens into the next’ in the inner layer is a gloss on पुङ्खानुपुङ्ख." }
+}

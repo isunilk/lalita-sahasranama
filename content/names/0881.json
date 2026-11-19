@@ -1,0 +1,43 @@
+{
+  "number": 881,
+  "verse": 164,
+  "slug": "yajna-priya",
+  "devanagari": "यज्ञप्रिया",
+  "iastSplit": "Yajña-priyā",
+  "archana": "ॐ यज्ञप्रियायै नमः",
+  "syllables": ["yaj", "ñap", "ri", "yā"],
+  "words": [
+    { "sa": "यज्ञ", "meaning": { "en": "sacrifice, worship", "hi": "यज्ञ" } },
+    { "sa": "प्रिया", "meaning": { "en": "dear, fond of", "hi": "प्रिय, जिसे प्रिय हो" } }
+  ],
+  "meaning": {
+    "en": "To whom sacrifice is dear",
+    "hi": "जिन्हें यज्ञ प्रिय है"
+  },
+  "explanation": {
+    "en": "Yajña is the Vedic sacrifice, and in a wider sense any worship offered with devotion. Sacrifices are dear to her. Bhāskararāya adds a second reading from the Veda, which says ‘sacrifice is Viṣṇu’: so she is the one to whom Viṣṇu is dear.",
+    "hi": "‘यज्ञ’ वैदिक यज्ञ है, और व्यापक अर्थ में भक्ति से की गई कोई भी उपासना। उन्हें यज्ञ प्रिय हैं। भास्करराय वेद-वाक्य ‘यज्ञो वै विष्णुः’ (यज्ञ ही विष्णु है) के आधार पर दूसरा अर्थ भी देते हैं: उन्हें विष्णु प्रिय हैं।"
+  },
+  "inner": {
+    "en": "He gives no hidden meaning beyond these two readings. In reflection, a sacrifice is the offering of what is one’s own; what she loves in it is the offering, not the size of the gift.",
+    "hi": "इन दो अर्थों के अतिरिक्त वे कोई गूढ़ अर्थ नहीं देते। चिन्तन के रूप में: यज्ञ अपनी वस्तु का अर्पण है; उन्हें उसमें अर्पण का भाव प्रिय है, भेंट का आकार नहीं।"
+  },
+  "story": {
+    "en": "This half-line takes her through the whole sacrifice in three names: the rite she loves, the one who performs it (name 882), and the sacrificer himself (name 883). Earlier the hymn called her Yajñarūpā, whose form is the sacrifice (name 769).",
+    "hi": "यह अर्धपंक्ति तीन नामों में पूरे यज्ञ को उनसे जोड़ती है: वह यज्ञ जो उन्हें प्रिय है, उसे करने वाली (नाम 882), और स्वयं यजमान (नाम 883)। पहले स्तोत्र उन्हें यज्ञरूपा, यज्ञ ही जिनका रूप है, कह चुका है (नाम 769)।"
+  },
+  "commentary": {
+    "sanskrit": "यज्ञाः प्रिया यस्याः । यज्ञो वै विष्णुरिति श्रुतेस्तत्प्रियेति वा ।",
+    "translation": {
+      "en": "She to whom sacrifices are dear. Or, since the Veda says ‘sacrifice is Viṣṇu’, she to whom he is dear.",
+      "hi": "जिन्हें यज्ञ प्रिय हैं। अथवा, ‘यज्ञ ही विष्णु है’ इस श्रुति के अनुसार, जिन्हें वे (विष्णु) प्रिय हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 881 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the two literal readings; the inner layer is a reflection. तत्प्रिया could also be read ‘dear to him’." }
+}

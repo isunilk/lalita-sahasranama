@@ -1,0 +1,44 @@
+{
+  "number": 889,
+  "verse": 165,
+  "slug": "vishva-bhramana-karini",
+  "devanagari": "विश्वभ्रमणकारिणी",
+  "iastSplit": "Viśva-bhramaṇa-kāriṇī",
+  "archana": "ॐ विश्वभ्रमणकारिण्यै नमः",
+  "syllables": ["viś", "vabh", "ra", "ma", "ṇa", "kā", "ri", "ṇī"],
+  "words": [
+    { "sa": "विश्व", "meaning": { "en": "the universe, all the worlds", "hi": "विश्व, समस्त ब्रह्माण्ड" } },
+    { "sa": "भ्रमण", "meaning": { "en": "turning, revolving, wandering", "hi": "घूमना, भ्रमण" } },
+    { "sa": "कारिणी", "meaning": { "en": "she who causes", "hi": "कराने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who sets all the worlds turning through creation and dissolution",
+    "hi": "जो समस्त ब्रह्माण्डों को सृष्टि, स्थिति और लय के चक्र में घुमाती हैं"
+  },
+  "explanation": {
+    "en": "Bhramaṇa is turning or wandering. She makes all the universes go round, in the coming and going that is creation, preservation and dissolution. Bhāskararāya cites an Upaniṣad verse: some sages say it is nature, others, deluded, say it is time, but it is the glory of God by which this wheel of Brahman is turned.",
+    "hi": "‘भ्रमण’ का अर्थ है घूमना या चक्कर लगाना। वे सभी ब्रह्माण्डों को घुमाती हैं — सृष्टि, स्थिति और संहार रूपी आने-जाने के चक्र में। भास्करराय उपनिषद् का एक श्लोक उद्धृत करते हैं: कुछ ऋषि इसे स्वभाव कहते हैं, कुछ मोहवश काल कहते हैं, पर यह तो देव की महिमा है, जिससे यह ब्रह्मचक्र घुमाया जाता है।"
+  },
+  "inner": {
+    "en": "The ‘glory’ residing in God, he says, is his śakti, and it is she who turns the wheel. He adds the Gītā’s line on the Lord who makes all beings revolve by māyā, as if mounted on a machine. Seen this way, every turning of the world, and of each life within it, is her movement.",
+    "hi": "वे कहते हैं कि देव में स्थित ‘महिमा’ उसकी शक्ति ही है, और वही इस चक्र को घुमाती हैं। वे गीता की वह पंक्ति भी जोड़ते हैं जिसमें प्रभु सब प्राणियों को माया से, मानो यन्त्र पर चढ़ाकर, घुमाते हैं। इस दृष्टि से जगत का, और उसके भीतर हर जीवन का, हर घूमना उन्हीं की गति है।"
+  },
+  "story": {
+    "en": "Reading viśva as a name of Viṣṇu, he tells a story from the Kālikā Purāṇa. Viṣṇu, flying on Garuḍa over Kāmarūpa, passed the goddess Kāmākhyā of the Nīla hill without bowing; by her anger he fell into the ocean and wandered there, until Lakṣmī, told by Nārada, won Kāmākhyā’s grace by austerity and freed him, and Viṣṇu too worshipped her before he returned to Vaikuṇṭha.",
+    "hi": "‘विश्व’ को विष्णु का नाम मानकर वे कालिका पुराण की एक कथा सुनाते हैं। विष्णु गरुड़ पर आकाश-मार्ग से कामरूप के ऊपर से जाते हुए नीलाचल-वासिनी कामाख्या देवी को प्रणाम किए बिना निकल गए; उनके कोप से वे समुद्र में गिरकर वहीं भटकते रहे, जब तक लक्ष्मी ने नारद से यह वृत्तान्त सुनकर तप से कामाख्या को प्रसन्न नहीं किया और उन्हें मुक्त नहीं कराया; फिर विष्णु ने भी उनकी आराधना की और वैकुण्ठ में निवास किया।"
+  },
+  "commentary": {
+    "sanskrit": "विश्वेषां ब्रह्माण्डानां भ्रमणं सृष्टिस्थितिनाशरूपं यातायातं कारयति ।",
+    "translation": {
+      "en": "She causes the bhramaṇa of all the universes: their coming and going, in the form of creation, preservation and destruction.",
+      "hi": "वे सभी ब्रह्माण्डों का भ्रमण कराती हैं — सृष्टि, स्थिति और नाश रूपी उनका आना-जाना।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 889 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya cites स्वभावमेके कवयो वदन्ति… only as śruti and भ्रामयन्सर्वभूतानि… only as smṛti; they are identified here as the Śvetāśvatara Upaniṣad (6.1) and the Bhagavad Gītā (18.61). The last sentence of the inner layer is a reflection." }
+}

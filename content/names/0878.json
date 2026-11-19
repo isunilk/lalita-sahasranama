@@ -1,0 +1,44 @@
+{
+  "number": 878,
+  "verse": 163,
+  "slug": "svatmarama",
+  "devanagari": "स्वात्मारामा",
+  "iastSplit": "Svātmārāmā",
+  "archana": "ॐ स्वात्मारामायै नमः",
+  "syllables": ["svāt", "mā", "rā", "mā"],
+  "words": [
+    { "sa": "स्व", "meaning": { "en": "own", "hi": "अपना" } },
+    { "sa": "आत्मन्", "meaning": { "en": "self", "hi": "आत्मा, स्वयं" } },
+    { "sa": "आराम", "meaning": { "en": "delight, play; a pleasure-garden", "hi": "रमण, क्रीडा; उपवन" } }
+  ],
+  "meaning": {
+    "en": "Who delights and plays within her own self",
+    "hi": "जो अपनी ही आत्मा में रमण करती हैं"
+  },
+  "explanation": {
+    "en": "Ārāma means delight and play, and also a pleasure-garden. She needs nothing outside herself to delight in: her joy and her play are within her own self. Bhāskararāya adds that she divides herself in two and plays with herself.",
+    "hi": "‘आराम’ का अर्थ है आनन्द और क्रीडा, और उपवन भी। उन्हें आनन्द के लिए अपने से बाहर किसी वस्तु की आवश्यकता नहीं; उनका आनन्द और उनकी क्रीडा उनकी अपनी आत्मा में ही है। भास्करराय जोड़ते हैं कि वे स्वयं को दो भागों में बाँटकर अपने ही साथ क्रीडा करती हैं।"
+  },
+  "inner": {
+    "en": "For this he cites a passage recited in the Mādhyandina school, from the Bṛhadāraṇyaka Upaniṣad: the first being, alone, found no delight and wished for a second; it divided itself in two, and husband and wife came to be. He also reads her own self as her pleasure-garden, the wonderful world, since at creation and at dissolution she alone remains; or her play is in both, the world that is hers and Brahman.",
+    "hi": "इसके लिए वे माध्यन्दिन शाखा में पढ़े जाने वाले बृहदारण्यक उपनिषद् के एक वचन का उल्लेख करते हैं: आदि पुरुष अकेले में रमा नहीं, उसने दूसरे की इच्छा की, और स्वयं को दो भागों में बाँटा — उसी से पति और पत्नी हुए। वे यह अर्थ भी देते हैं कि उनकी अपनी आत्मा ही उनका उपवन है, यह अद्भुत जगत, क्योंकि सृष्टि और प्रलय के समय वे ही शेष रहती हैं; अथवा उनकी क्रीडा दोनों में है — अपने जगत में भी और ब्रह्म में भी।"
+  },
+  "story": {
+    "en": "The image of one self become two, husband and wife, recalls the hymn’s picture of her seated on Kāmeśvara’s lap (name 53). For the reading of the world as her garden he quotes the Vāyu Purāṇa: the one Lord becomes many by his power, and having become many, becomes one again.",
+    "hi": "एक ही आत्मा के पति-पत्नी रूप में दो होने का यह चित्र स्तोत्र के उस दृश्य की याद दिलाता है जिसमें वे कामेश्वर की गोद में विराजमान हैं (नाम 53)। जगत को उनका उपवन मानने वाले अर्थ के लिए वे वायु पुराण का वचन देते हैं: एक ही प्रभु अपनी शक्ति से अनेक बनता है, और अनेक होकर फिर एक हो जाता है।"
+  },
+  "commentary": {
+    "sanskrit": "स्वात्मन्येवारामः क्रीडनं यस्याः । स्वात्मानमेव द्वेधा विभज्यान्योन्यं क्रीडमानेति यावत् ।",
+    "translation": {
+      "en": "She whose ārāma, play, is in her own self alone; that is, dividing her own self in two, she plays, each half with the other.",
+      "hi": "जिनका आराम, अर्थात् क्रीडा, अपनी आत्मा में ही है; तात्पर्य यह कि वे अपनी ही आत्मा को दो भागों में बाँटकर परस्पर क्रीडा करती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 878 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya says only that the Mādhyandinas recite the passage (स वै न रेमे…); its identification as Bṛhadāraṇyaka Upaniṣad 1.4.3 is added. The link to name 53 in the story layer is a reflection." }
+}

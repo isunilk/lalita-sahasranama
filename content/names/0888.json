@@ -1,0 +1,43 @@
+{
+  "number": 888,
+  "verse": 165,
+  "slug": "vipra-rupa",
+  "devanagari": "विप्ररूपा",
+  "iastSplit": "Vipra-rūpā",
+  "archana": "ॐ विप्ररूपायै नमः",
+  "syllables": ["vip", "ra", "rū", "pā"],
+  "words": [
+    { "sa": "विप्र", "meaning": { "en": "a learned brāhmaṇa", "hi": "विप्र, वेदज्ञ ब्राह्मण" } },
+    { "sa": "रूपा", "meaning": { "en": "having the form of", "hi": "स्वरूपा" } }
+  ],
+  "meaning": {
+    "en": "Whose very form is the learned knower of the Veda",
+    "hi": "वेदज्ञ विप्र ही जिनका स्वरूप हैं"
+  },
+  "explanation": {
+    "en": "By the same saying, that the brāhmaṇa is the Lord’s own body, Bhāskararāya says such vipras are her own form. He quotes the Veda: all the deities there are dwell in the brāhmaṇa who knows the Veda.",
+    "hi": "उसी वचन के आधार पर — कि ब्राह्मण भगवान का ही शरीर है — भास्करराय कहते हैं कि ऐसे विप्र उनका अपना स्वरूप हैं। वे श्रुति का वचन देते हैं: जितने भी देवता हैं, वे सब वेदज्ञ ब्राह्मण में निवास करते हैं।"
+  },
+  "inner": {
+    "en": "His second reading turns the word into a verb: she rūpayati the vipras, restores them to their former fullness. He quotes the Āpastamba Smṛti: a vipra’s austerity grows when he is slighted and wanes when he is honoured, so that an honoured vipra sinks like a milked cow; but as the cow is replenished day by day by grass sweet as nectar, the twice-born is replenished by japa and homa. Through the repetition of her mantra, the learned are filled again.",
+    "hi": "उनका दूसरा अर्थ इस शब्द को क्रिया के रूप में लेता है: वे विप्रों को ‘रूपित’ करती हैं, अर्थात् उन्हें फिर से पहले जैसी पूर्णता देती हैं। वे आपस्तम्ब स्मृति का वचन देते हैं: अपमान से विप्र का तप बढ़ता है और सम्मान से घटता है, इसलिए पूजित विप्र दुही हुई गाय की भाँति क्षीण हो जाता है; पर जैसे गाय अमृत-सी घास से दिन-प्रतिदिन फिर पुष्ट हो जाती है, वैसे ही द्विज जप और होम से फिर पुष्ट होता है। उनके मन्त्र के जप से ही विद्वान फिर से परिपूर्ण होते हैं।"
+  },
+  "story": {
+    "en": "He also quotes the Parāśara Smṛti: brāhmaṇas are a moving tīrtha, a place of pilgrimage that walks, famed in the three worlds, by the water of whose words even the impure are made clean.",
+    "hi": "वे पराशर स्मृति का वचन भी देते हैं: ब्राह्मण चलता-फिरता तीर्थ हैं, तीनों लोकों में प्रसिद्ध, जिनकी वाणी रूपी जल से मलिन लोग भी शुद्ध हो जाते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "उक्तवचनादेव तादृशा विप्राः रूपं स्वरूपं यस्याः ।",
+    "translation": {
+      "en": "By that same saying, such vipras are her rūpa, her very form.",
+      "hi": "उसी उक्त वचन से, ऐसे विप्र जिनका रूप, अर्थात् स्वरूप, हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 888 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. In the second reading रूपा is taken from the causative verb रूपयति, ‘to give form, to restore’ (पूर्वरूपवतः करोत्याप्याययति)." }
+}

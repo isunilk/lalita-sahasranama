@@ -1,0 +1,43 @@
+{
+  "number": 897,
+  "verse": 166,
+  "slug": "kula-rupini",
+  "devanagari": "कुलरूपिणी",
+  "iastSplit": "Kula-rūpiṇī",
+  "archana": "ॐ कुलरूपिण्यै नमः",
+  "syllables": ["ku", "la", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "कुल", "meaning": { "en": "kula: the Kaula path; a family line; custom", "hi": "कुल: कौल मार्ग; वंश; आचार" } },
+    { "sa": "रूपिणी", "meaning": { "en": "having the form of", "hi": "रूप वाली" } }
+  ],
+  "meaning": {
+    "en": "Whose form is kula: the Kaula path, lineage and custom",
+    "hi": "कुल — कौल मार्ग, वंश और आचार — जिनका स्वरूप है"
+  },
+  "explanation": {
+    "en": "Kula is a word of many meanings. Bhāskararāya lists them: the Kaula path of worship, outer worship, a family line, and the customs of right conduct. She takes the form of each.",
+    "hi": "‘कुल’ अनेक अर्थों वाला शब्द है। भास्करराय उन्हें गिनाते हैं: कौल उपासना-मार्ग, बाह्य पूजा, वंश, और सदाचार की परम्परा। वे इन सबका रूप धारण करती हैं।"
+  },
+  "inner": {
+    "en": "He gives only this list and no hidden meaning. In reflection, the list joins a path of worship with the family one is born into and the customs one lives by; she is to be found in all of them.",
+    "hi": "वे केवल यह सूची देते हैं, कोई गूढ़ अर्थ नहीं। चिन्तन के रूप में: यह सूची उपासना-मार्ग को उस परिवार से, जिसमें मनुष्य जन्म लेता है, और उन आचारों से, जिनसे वह जीता है, जोड़ देती है; वे इन सबमें उपस्थित हैं।"
+  },
+  "story": {
+    "en": "Kula is a recurring word in the hymn: earlier she is Kulāṅganā, Kulāntaḥsthā, Kaulinī and Kulayoginī (names 92 to 95), and Kuleśvarī (name 439). This name closes the verse.",
+    "hi": "‘कुल’ स्तोत्र में बार-बार आने वाला शब्द है: पहले वे कुलाङ्गना, कुलान्तःस्था, कौलिनी और कुलयोगिनी (नाम 92 से 95) तथा कुलेश्वरी (नाम 439) कही गई हैं। यह नाम श्लोक को पूरा करता है।"
+  },
+  "commentary": {
+    "sanskrit": "कुलं कौलमार्गो बाह्यपूजा वंश आचारो वा तद्रूपिणी ।",
+    "translation": {
+      "en": "Kula is the Kaula path, or outer worship, or a family line, or custom: she has that form.",
+      "hi": "कुल अर्थात् कौल मार्ग, बाह्य पूजा, वंश अथवा आचार — वे उसी का रूप हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 897 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the list of meanings; the inner layer is a reflection." }
+}

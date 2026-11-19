@@ -1,0 +1,45 @@
+{
+  "number": 908,
+  "verse": 168,
+  "slug": "tat-tvam-artha-svarupini",
+  "devanagari": "तत्त्वमर्थस्वरूपिणी",
+  "iastSplit": "Tat-tvam-artha-svarūpiṇī",
+  "archana": "ॐ तत्त्वमर्थस्वरूपिण्यै नमः",
+  "syllables": ["tat", "tva", "mar", "thas", "va", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "तत्", "meaning": { "en": "‘That’: Brahman", "hi": "तत्, वह (ब्रह्म)" } },
+    { "sa": "त्वम्", "meaning": { "en": "‘you’: the individual self", "hi": "त्वम्, तुम (जीव)" } },
+    { "sa": "अर्थ", "meaning": { "en": "meaning", "hi": "अर्थ" } },
+    { "sa": "स्वरूपिणी", "meaning": { "en": "whose own form is", "hi": "जिनका स्वरूप है" } }
+  ],
+  "meaning": {
+    "en": "She is what ‘That’ and ‘you’ mean in tat tvam asi",
+    "hi": "महावाक्य ‘तत्त्वमसि’ के ‘तत्’ और ‘त्वम्’ का अर्थ जिनका स्वरूप है"
+  },
+  "explanation": {
+    "en": "Tat tvam asi, ‘you are That’, is the great saying (mahāvākya) of the Chāndogya Upaniṣad. Bhāskararāya says the meanings of its two words, tat (‘That’) and tvam (‘you’), are Śiva and the individual self, and both are her own form.",
+    "hi": "‘तत्त्वमसि’, अर्थात् ‘तुम वही हो’, छान्दोग्य उपनिषद् का महावाक्य है। भास्करराय कहते हैं कि इसके दो पदों, ‘तत्’ (वह) और ‘त्वम्’ (तुम), के अर्थ शिव और जीव हैं, और दोनों उनका अपना स्वरूप हैं।"
+  },
+  "inner": {
+    "en": "If both Śiva and the individual self are her form, then the saying’s ‘are’ is fulfilled in her: the two meanings meet in one being. She is the identity that the great saying teaches, the seeker and the sought as one.",
+    "hi": "यदि शिव और जीव दोनों उनके स्वरूप हैं, तो महावाक्य का ‘असि’ (हो) उन्हीं में पूर्ण होता है: दोनों अर्थ एक ही सत्ता में मिल जाते हैं। वे वही एकता हैं जिसे महावाक्य सिखाता है — खोजने वाला और खोजा जाने वाला, एक।"
+  },
+  "story": {
+    "en": "In the Chāndogya Upaniṣad the sage Uddālaka teaches his son Śvetaketu, again and again, ‘you are That’. The name places the Devī at the heart of that teaching.",
+    "hi": "छान्दोग्य उपनिषद् में ऋषि उद्दालक अपने पुत्र श्वेतकेतु को बार-बार यही उपदेश देते हैं: ‘तत्त्वमसि’ — तुम वही हो। यह नाम देवी को उसी उपदेश के केन्द्र में रखता है।"
+  },
+  "commentary": {
+    "sanskrit": "महावाक्यस्थयोस्तत्पदत्वंपदयोरर्थौ शिवजीवौ स्वरूपमस्याः ।",
+    "translation": {
+      "en": "The meanings of the words tat and tvam in the great saying, Śiva and the individual self, are her own form.",
+      "hi": "महावाक्य में स्थित ‘तत्’ और ‘त्वम्’ पदों के अर्थ — शिव और जीव — इनका स्वरूप हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 908 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya names only ‘the great saying’; its identification as tat tvam asi of the Chāndogya Upaniṣad is the usual one. The slug and split follow his reading tat + tvam (not tattva). The inner layer is a reflection on his gloss." }
+}

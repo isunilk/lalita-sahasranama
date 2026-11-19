@@ -1,0 +1,43 @@
+{
+  "number": 895,
+  "verse": 166,
+  "slug": "yoni-nilaya",
+  "devanagari": "योनिनिलया",
+  "iastSplit": "Yoni-nilayā",
+  "archana": "ॐ योनिनिलयायै नमः",
+  "syllables": ["yo", "ni", "ni", "la", "yā"],
+  "words": [
+    { "sa": "योनि", "meaning": { "en": "source; prakṛti; the triangle", "hi": "योनि, मूल कारण, त्रिकोण" } },
+    { "sa": "निलया", "meaning": { "en": "abode; she in whom all dissolves", "hi": "निवास; जिनमें सब लीन होता है" } }
+  ],
+  "meaning": {
+    "en": "The abode of the source of all things",
+    "hi": "समस्त सृष्टि के मूल कारण का निवास"
+  },
+  "explanation": {
+    "en": "Bhāskararāya gives several readings. Yoni may be prakṛti, the source of the world, and nilayā ‘she in whom the world dissolves’, so that she is both; or the causes of the world, Brahmā and the other gods, are wholly dissolved in her. Or yoni is the central triangle of the Śrīcakra, the abode of the Devī in the form of the bindu.",
+    "hi": "भास्करराय कई अर्थ देते हैं। ‘योनि’ का अर्थ प्रकृति, अर्थात् जगत का मूल कारण, हो सकता है, और ‘निलया’ का अर्थ ‘जिनमें जगत लीन होता है’ — इस प्रकार वे दोनों हैं; अथवा जगत के कारण, ब्रह्मा आदि देवता, उनमें पूर्ण रूप से लीन हो जाते हैं। अथवा ‘योनि’ श्रीचक्र का मध्य त्रिकोण है, जो बिन्दु-रूपा देवी का निवास है।"
+  },
+  "inner": {
+    "en": "For the last reading he quotes the Atharvaveda of the Śaunaka school: the city of the gods, with eight wheels and nine gates, unconquerable, and in it a golden sheath, heaven, wrapped in light; in that sheath is the adorable being whom the knowers of Brahman know. He reads the city as the Śrīcakra, its eight wheels as its eight rings, its nine gates as its nine triangles, the golden sheath as the central triangle, and the adorable being as the bindu, which the wise know as Brahman, one with the self.",
+    "hi": "अन्तिम अर्थ के लिए वे अथर्ववेद की शौनक शाखा का वचन देते हैं: देवताओं की वह नगरी, जिसमें आठ चक्र और नौ द्वार हैं, जो अयोध्या (अजेय) है, और उसमें एक स्वर्णिम कोश है — स्वर्ग, ज्योति से घिरा; उस कोश में वह पूज्य सत्ता है जिसे ब्रह्मवेत्ता जानते हैं। वे नगरी को श्रीचक्र मानते हैं, आठ चक्रों को उसके आठ घेरे, नौ द्वारों को उसके नौ त्रिकोण, स्वर्णिम कोश को मध्य त्रिकोण, और पूज्य सत्ता को बिन्दु, जिसे ज्ञानी आत्मा से अभिन्न ब्रह्म के रूप में जानते हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya plays on the Vedic word ayodhyā, ‘not to be conquered’. The earthly Ayodhyā, the Lord’s own city, is beyond the reach of mortals; this city, the Śrīcakra, is hard to reach even for the gods.",
+    "hi": "भास्करराय वैदिक शब्द ‘अयोध्या’ (जिसे जीता न जा सके) पर शब्द-क्रीडा करते हैं। पृथ्वी की अयोध्या, जो प्रभु का निवास है, मनुष्यों के लिए अजेय है; पर यह नगरी, श्रीचक्र, देवताओं के लिए भी दुर्लभ है।"
+  },
+  "commentary": {
+    "sanskrit": "योनिस्त्र्यस्रचक्रमेव निलयो यस्या बिन्दुरूपाया देव्या इति वा ।",
+    "translation": {
+      "en": "Or: the yoni, the triangle cakra itself, is the nilaya, the abode, of the Devī in the form of the bindu.",
+      "hi": "अथवा, योनि अर्थात् त्रिकोण चक्र ही बिन्दु-रूपा देवी का निलय (निवास) है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 895 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya also reads yoni as māyā, ‘that which delimits her’; that reading is not given on the page. In the Atharvaveda verse the edition prints त्र्यक्षरे where the Atharvaveda (10.2.32) has त्र्यरे; the page leaves that word out. The Śrīcakra reading is given as meaning only." }
+}

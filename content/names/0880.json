@@ -1,0 +1,46 @@
+{
+  "number": 880,
+  "verse": 164,
+  "slug": "samsara-panka-nirmagna-samuddharana-pandita",
+  "devanagari": "संसारपङ्कनिर्मग्नसमुद्धरणपण्डिता",
+  "iastSplit": "Saṃsāra-paṅka-nirmagna-samuddharaṇa-paṇḍitā",
+  "archana": "ॐ संसारपङ्कनिर्मग्नसमुद्धरणपण्डितायै नमः",
+  "syllables": ["saṃ", "sā", "ra", "paṅ", "ka", "nir", "mag", "na", "sa", "mud", "dha", "ra", "ṇa", "paṇ", "ḍi", "tā"],
+  "words": [
+    { "sa": "संसार", "meaning": { "en": "saṃsāra, the round of worldly existence", "hi": "संसार, जन्म-मृत्यु का चक्र" } },
+    { "sa": "पङ्क", "meaning": { "en": "mire, mud", "hi": "कीचड़, पंक" } },
+    { "sa": "निर्मग्न", "meaning": { "en": "sunk deep, wholly sunk", "hi": "पूरी तरह डूबे हुए" } },
+    { "sa": "समुद्धरण", "meaning": { "en": "lifting out completely", "hi": "पूरी तरह उबारना" } },
+    { "sa": "पण्डिता", "meaning": { "en": "skilled, expert", "hi": "कुशल, निपुण" } }
+  ],
+  "meaning": {
+    "en": "Skilled in lifting out those sunk deep in the mire of saṃsāra",
+    "hi": "संसार के कीचड़ में डूबे हुए जीवों को उबारने में निपुण"
+  },
+  "explanation": {
+    "en": "Saṃsāra, the round of birth and death, is pictured as a swamp into which people have sunk deep. She is paṇḍitā, an expert, at pulling them out. Bhāskararāya presses the prefixes: those sunk wholly (nir-), she lifts out fully and well (sam-).",
+    "hi": "जन्म-मृत्यु के चक्र, संसार, को एक दलदल के रूप में चित्रित किया गया है, जिसमें लोग गहरे धँस गए हैं। वे उन्हें बाहर निकालने में ‘पण्डिता’, अर्थात् निपुण, हैं। भास्करराय उपसर्गों पर बल देते हैं: जो पूरी तरह (निर्) डूबे हैं, उन्हें वे भली-भाँति और पूर्ण रूप से (सम्) उबारती हैं।"
+  },
+  "inner": {
+    "en": "Mud holds fast, and the more one struggles alone, the deeper one sinks. To show how little is asked of the one sinking, he quotes the Kūrma Purāṇa: those who, seeking refuge, remember Śarvāṇī even a little do not fall into the ocean of saṃsāra, hard to cross and without a farther shore.",
+    "hi": "कीचड़ जकड़ लेता है, और अकेले जितना छटपटाओ, उतना ही गहरे धँसते जाते हैं। डूबते हुए से कितना कम माँगा जाता है, यह दिखाने के लिए वे कूर्म पुराण का वचन देते हैं: जो शरण चाहते हुए शर्वाणी का थोड़ा-सा भी स्मरण करते हैं, वे दुस्तर और अपार संसार-सागर में नहीं गिरते।"
+  },
+  "story": {
+    "en": "This single name fills the whole first half of the verse, all sixteen syllables. Śarvāṇī, in the verse he quotes, is the Devī as the consort of Śarva, that is, Śiva.",
+    "hi": "यह एक ही नाम श्लोक की पूरी पहली अर्धपंक्ति — सोलह अक्षर — भर देता है। उनके द्वारा उद्धृत श्लोक में ‘शर्वाणी’ देवी का नाम है, शर्व अर्थात् शिव की शक्ति के रूप में।"
+  },
+  "commentary": {
+    "sanskrit": "संसारलक्षणे कर्दमे निःशेषेण मग्नानां जनानां सम्यगुद्धरणे पण्डिता कुशला ।",
+    "translation": {
+      "en": "Paṇḍitā, skilled, in lifting out well the people wholly sunk in the mire that is saṃsāra.",
+      "hi": "संसार रूपी कीचड़ में पूरी तरह डूबे हुए लोगों को भली-भाँति उबारने में पण्डिता, अर्थात् कुशल।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 880 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The first sentence of the inner layer is a reflection; the rest follows Bhāskararāya." }
+}

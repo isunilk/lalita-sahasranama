@@ -1,0 +1,43 @@
+{
+  "number": 906,
+  "verse": 168,
+  "slug": "tattvadhika",
+  "devanagari": "तत्त्वाधिका",
+  "iastSplit": "Tattvādhikā",
+  "archana": "ॐ तत्त्वाधिकायै नमः",
+  "syllables": ["tat", "tvā", "dhi", "kā"],
+  "words": [
+    { "sa": "तत्त्व", "meaning": { "en": "tattva, a principle of reality", "hi": "तत्त्व, सृष्टि का मूल तत्त्व" } },
+    { "sa": "अधिका", "meaning": { "en": "beyond, exceeding", "hi": "से बढ़कर, परे" } }
+  ],
+  "meaning": {
+    "en": "Beyond all the tattvas, the principles of reality",
+    "hi": "सब तत्त्वों से परे"
+  },
+  "explanation": {
+    "en": "Bhāskararāya says the tattvas are the realities that last until dissolution, thirty-six in number; a pot or a body is not a tattva. She exceeds them all, because she remains even when they perish.",
+    "hi": "भास्करराय बताते हैं कि तत्त्व वे सत्ताएँ हैं जो प्रलय तक टिकी रहती हैं, और उनकी संख्या छत्तीस है; घड़ा या शरीर तत्त्व नहीं है। वे इन सबसे बढ़कर हैं, क्योंकि इनके नष्ट होने पर भी वे बनी रहती हैं।"
+  },
+  "inner": {
+    "en": "He also reads tattva as the Śiva-tattva, so that this name and the next mean ‘beyond the Śiva-tattva’ and ‘made of consciousness’: the two kinds of samādhi, with and without distinct awareness, described in the Jñānārṇava. One shows itself in tears, laughter and trembling, the other in perfect stillness with unblinking eyes; he leaves the way to them to be learned from one’s own teacher.",
+    "hi": "वे ‘तत्त्व’ को शिवतत्त्व मानकर भी पढ़ते हैं, जिससे यह नाम और अगला नाम मिलकर ‘शिवतत्त्व से परे’ और ‘चिन्मयी’ का अर्थ देते हैं: ज्ञानार्णव में वर्णित दो प्रकार की समाधि — सम्प्रज्ञात और असम्प्रज्ञात। एक आँसू, हँसी और कम्पन में प्रकट होती है, दूसरी निमेषरहित नेत्रों वाली पूर्ण स्थिरता में; उन तक पहुँचने का मार्ग वे अपने गुरु से ही जानने योग्य बताते हैं।"
+  },
+  "story": {
+    "en": "Verse 168 opens with three names on tattva: she is beyond the principles (name 906), made of them (name 907), and the meaning of ‘That’ and ‘you’ in the great saying (name 908). Earlier she was Tattvāsanā, seated on the tattvas (name 424).",
+    "hi": "श्लोक 168 तत्त्व पर आधारित तीन नामों से आरम्भ होता है: वे तत्त्वों से परे हैं (नाम 906), तत्त्वमयी हैं (नाम 907), और महावाक्य के ‘तत्’ और ‘त्वम्’ का अर्थ हैं (नाम 908)। पहले वे तत्त्वासना, तत्त्वों पर आसीन (नाम 424), कही गई हैं।"
+  },
+  "commentary": {
+    "sanskrit": "तेभ्योऽधिका तन्नाशेऽप्यवस्थानात् ।",
+    "translation": {
+      "en": "She exceeds them, for she remains even when they perish.",
+      "hi": "वे उनसे बढ़कर हैं, क्योंकि उनके नाश में भी वे स्थित रहती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 906 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition’s Jñānārṇava lines read स्वयंप्रज्ञात for सम्प्रज्ञात; the page uses the usual term. The two samādhis are described as meaning only; Bhāskararāya himself leaves the method to the teacher (स्वनाथमुखादवगन्तव्यम्)." }
+}

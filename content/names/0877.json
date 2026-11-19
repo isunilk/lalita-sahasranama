@@ -1,0 +1,43 @@
+{
+  "number": 877,
+  "verse": 163,
+  "slug": "niralamba",
+  "devanagari": "निरालम्बा",
+  "iastSplit": "Nir-ālambā",
+  "archana": "ॐ निरालम्बायै नमः",
+  "syllables": ["ni", "rā", "lam", "bā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without", "hi": "रहित" } },
+    { "sa": "आलम्ब", "meaning": { "en": "support, prop", "hi": "आलम्बन, सहारा" } }
+  ],
+  "meaning": {
+    "en": "Who needs no support, being the support of all",
+    "hi": "जिन्हें किसी आधार की आवश्यकता नहीं, क्योंकि वे सबका आधार हैं"
+  },
+  "explanation": {
+    "en": "Ālamba is a prop or support. She has none, Bhāskararāya argues, because she is the support of everything, and the support of all cannot rest on yet another support. If it did, that support would need another, and so on without end.",
+    "hi": "‘आलम्ब’ का अर्थ है सहारा या आधार। भास्करराय तर्क देते हैं कि उनका कोई आधार नहीं, क्योंकि वे सबका आधार हैं, और जो सबका आधार है वह किसी दूसरे आधार पर नहीं टिक सकता। यदि टिके, तो उस आधार को भी किसी और की आवश्यकता होगी, और यह क्रम कभी समाप्त न होगा।"
+  },
+  "inner": {
+    "en": "Indian logic calls such an endless chain anavasthā, infinite regress, and counts it a fault that destroys the root of an argument. Bhāskararāya uses that very fault to prove the name: since a regress cannot stand, there must be a ground that rests on nothing, and that ground is she.",
+    "hi": "भारतीय तर्कशास्त्र ऐसी अन्तहीन शृंखला को ‘अनवस्था’ कहता है और उसे ऐसा दोष मानता है जो तर्क की जड़ ही काट देता है। भास्करराय इसी दोष से नाम को सिद्ध करते हैं: अनवस्था टिक नहीं सकती, इसलिए कोई ऐसा आधार होना ही चाहिए जो किसी पर न टिका हो — और वह आधार वे स्वयं हैं।"
+  },
+  "story": {
+    "en": "The hymn has already called her Nirādhārā, without a base (name 132), and Nirāśrayā, without a refuge (name 147). Here Bhāskararāya gives the same truth a reasoned proof.",
+    "hi": "स्तोत्र उन्हें पहले निराधारा (नाम 132) और निराश्रया (नाम 147) कह चुका है। यहाँ भास्करराय उसी सत्य को तर्क से सिद्ध करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वालम्बनस्यालम्बान्तरायोगान्निरालम्बा । तथात्वेऽनवस्थापत्तेः ।",
+    "translation": {
+      "en": "She is without support, because the support of all can have no further support; were it so, an endless regress would follow.",
+      "hi": "वे निरालम्बा हैं, क्योंकि जो सबका आलम्बन है उसका कोई दूसरा आलम्बन सम्भव नहीं; यदि ऐसा हो, तो अनवस्था दोष आ जाएगा।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 877 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The inner layer follows Bhāskararāya’s argument from anavasthā (सा च मूलक्षयकरीत्यस्या अनालम्बत्वमेव साधयति)." }
+}

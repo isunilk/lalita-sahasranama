@@ -1,0 +1,43 @@
+{
+  "number": 887,
+  "verse": 165,
+  "slug": "vipra-priya",
+  "devanagari": "विप्रप्रिया",
+  "iastSplit": "Vipra-priyā",
+  "archana": "ॐ विप्रप्रियायै नमः",
+  "syllables": ["vip", "rap", "ri", "yā"],
+  "words": [
+    { "sa": "विप्र", "meaning": { "en": "a learned brāhmaṇa, versed in the Veda", "hi": "विप्र, वेदज्ञ ब्राह्मण" } },
+    { "sa": "प्रिया", "meaning": { "en": "dear", "hi": "प्रिय" } }
+  ],
+  "meaning": {
+    "en": "To whom the learned knowers of the Veda are dear",
+    "hi": "जिन्हें वेदज्ञ विप्र प्रिय हैं"
+  },
+  "explanation": {
+    "en": "Vipras, Bhāskararāya says, are brāhmaṇas who possess the learning of the Vedas and the śāstras, and they are dear to her. The stress falls on learning: as the verse he quotes puts it, one becomes a vipra by vidyā, knowledge.",
+    "hi": "भास्करराय कहते हैं कि विप्र वे ब्राह्मण हैं जो वेदों और शास्त्रों की विद्या से युक्त हैं, और वे उन्हें प्रिय हैं। बल विद्या पर है: जैसा उनका उद्धृत श्लोक कहता है, विद्या से ही कोई विप्र बनता है।"
+  },
+  "inner": {
+    "en": "His argument runs from the lesser to the greater. The Lord says that a brāhmaṇa, learned or unlearned, is ‘my own body’; if even the unlearned are held so close, those who have joined learning to their calling are dear to her all the more. He gives no further hidden meaning.",
+    "hi": "उनका तर्क छोटे से बड़े की ओर चलता है। भगवान कहते हैं कि ब्राह्मण, विद्वान हो या अविद्वान, ‘मेरा ही शरीर’ है; जब अविद्वान को भी इतना निकट माना गया, तो जिन्होंने अपने धर्म के साथ विद्या भी जोड़ी है, वे उन्हें और भी अधिक प्रिय हैं। वे इससे आगे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "The verse he quotes from the Brahmavaivarta Purāṇa ranks the titles: one is known as a brāhmaṇa by birth, called twice-born through the sacraments, becomes a vipra through learning, and is called a śrotriya through all three. The next name goes further: the vipras are her very form.",
+    "hi": "उनके द्वारा उद्धृत ब्रह्मवैवर्त पुराण का श्लोक उपाधियों का क्रम बताता है: जन्म से ब्राह्मण जाना जाता है, संस्कारों से द्विज कहलाता है, विद्या से विप्रत्व पाता है, और तीनों से श्रोत्रिय कहलाता है। अगला नाम इससे आगे जाता है: विप्र उनका स्वरूप ही हैं।"
+  },
+  "commentary": {
+    "sanskrit": "ते प्रिया अभीष्टा यस्याः । अविद्यो वा सविद्यो वा ब्राह्मणो मामकी तनुरिति भगवद्वचनेन विप्रेषु कैमुतिकन्यायेन प्रीतिसिद्धेः ।",
+    "translation": {
+      "en": "She to whom they are dear and beloved. For by the Lord’s saying, ‘a brāhmaṇa, learned or unlearned, is my own body’, her love for the vipras, the learned, follows all the more.",
+      "hi": "जिन्हें वे प्रिय और अभीष्ट हैं; क्योंकि ‘ब्राह्मण विद्वान हो या अविद्वान, मेरा ही शरीर है’ — इस भगवद्-वचन से विप्रों के प्रति उनका प्रेम कैमुतिक न्याय से (‘फिर कहना ही क्या’ की रीति से) सिद्ध होता है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 887 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya cites ‘अविद्यो वा सविद्यो वा ब्राह्मणो मामकी तनुः’ only as the Lord’s word, without naming a work. The opening definition in the edition reads ब्राह्मणः विप्राः, evidently for ब्राह्मणा विप्राः; it is paraphrased, not quoted." }
+}

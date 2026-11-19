@@ -1,0 +1,42 @@
+{
+  "number": 872,
+  "verse": 163,
+  "slug": "trayi",
+  "devanagari": "त्रयी",
+  "iastSplit": "Trayī",
+  "archana": "ॐ त्रय्यै नमः",
+  "syllables": ["tra", "yī"],
+  "words": [
+    { "sa": "त्रयी", "meaning": { "en": "the triad; the three Vedas", "hi": "त्रयी, तीनों वेद" } }
+  ],
+  "meaning": {
+    "en": "The three Vedas: Ṛg, Yajus and Sāman",
+    "hi": "ऋक्, यजुः और साम — तीनों वेदों का स्वरूप"
+  },
+  "explanation": {
+    "en": "Trayī, ‘the triad’, is the old name for the three Vedas: Ṛg, Yajus and Sāman. Bhāskararāya takes it from the lexicon in that sense: she is the three Vedas in form. In the Kūrma Purāṇa, which he quotes, the Devī tells Himavat that the Veda is her own ancient command and power, which goes forth at the dawn of creation as Ṛk, Yajus and Sāman.",
+    "hi": "‘त्रयी’ अर्थात् ‘तीन का समूह’ — यह तीनों वेदों, ऋक्, यजुः और साम, का प्राचीन नाम है। भास्करराय कोश के आधार पर यही अर्थ लेते हैं: वे तीनों वेदों का स्वरूप हैं। उनके द्वारा उद्धृत कूर्म पुराण में देवी हिमवान् से कहती हैं कि वेद उनकी ही सनातन आज्ञा और परा शक्ति है, जो सृष्टि के आरम्भ में ऋक्, यजुः और साम के रूप में प्रवृत्त होती है।"
+  },
+  "inner": {
+    "en": "The Devī Purāṇa, which he also quotes, says she is called Trayī because she abides in the Vedas with their limbs and accomplishes ends both seen and unseen. He adds a Tantric reading from the Nityā Tantra, which derives the seed-syllable of speech (vāgbhava) from the opening letters of the three Vedas; so she is also that seed of speech, in which the three Vedas are gathered.",
+    "hi": "वे देवी पुराण का वचन भी देते हैं: अंगों सहित वेदों में वे ऋक्, यजुः और साम के भाग से स्थित हैं और दृष्ट तथा अदृष्ट दोनों फलों को सिद्ध करती हैं, इसलिए लोक में ‘त्रयी’ कहलाती हैं। वे नित्या तन्त्र से एक तान्त्रिक अर्थ भी जोड़ते हैं: वह तन्त्र तीनों वेदों के आदि अक्षरों से वाणी के बीज (वाग्भव) की उत्पत्ति बताता है; अतः वे वाणी का वह बीज भी हैं, जिसमें तीनों वेद समाए हुए हैं।"
+  },
+  "story": {
+    "en": "This line opens with four names built on ‘three’: Trayī, Trivarganilayā, Tristhā and Tripuramālinī. Bhāskararāya also quotes the Padma Purāṇa, which addresses her as ānvīkṣikī, trayī and daṇḍanīti: the classical sciences of reasoning, of the Veda and of government.",
+    "hi": "यह पंक्ति ‘तीन’ पर आधारित चार नामों से आरम्भ होती है: त्रयी, त्रिवर्गनिलया, त्रिस्था और त्रिपुरमालिनी। भास्करराय पद्म पुराण का वचन भी देते हैं, जो उन्हें आन्वीक्षिकी, त्रयी और दण्डनीति कहकर पुकारता है — अर्थात् तर्कविद्या, वेदविद्या और राजनीति की पारम्परिक विद्याएँ।"
+  },
+  "commentary": {
+    "sanskrit": "स्त्रियामृक्सामयजुषी इति वेदास्त्रयस्त्रयीति कोशाद्वेदत्रयरूपा ।",
+    "translation": {
+      "en": "Following the lexicon, which says that the three Vedas, Ṛk, Sāman and Yajus, are called trayī in the feminine, she is the form of the three Vedas.",
+      "hi": "कोश कहता है कि ऋक्, साम और यजुः — ये तीन वेद स्त्रीलिंग में ‘त्रयी’ कहलाते हैं; इसी के अनुसार वे तीनों वेदों का स्वरूप हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 872 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Nityā Tantra passage derives the vāgbhava seed-syllable from the opening letters of the Vedas through guṇa and vṛddhi sandhi; the page names the seed only and gives no syllable or practice." }
+}

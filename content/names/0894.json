@@ -1,0 +1,43 @@
+{
+  "number": 894,
+  "verse": 166,
+  "slug": "ayoni",
+  "devanagari": "अयोनिः",
+  "iastSplit": "Ayoniḥ",
+  "archana": "ॐ अयोनये नमः",
+  "syllables": ["a", "yo", "niḥ"],
+  "words": [
+    { "sa": "अ", "meaning": { "en": "not, without", "hi": "नहीं, रहित" } },
+    { "sa": "योनि", "meaning": { "en": "source, cause; place; womb", "hi": "कारण, उद्गम; स्थान" } }
+  ],
+  "meaning": {
+    "en": "Who has no source; herself uncaused",
+    "hi": "जिनका कोई कारण नहीं; जो स्वयं किसी से उत्पन्न नहीं"
+  },
+  "explanation": {
+    "en": "Yoni means source or cause, and she has none: nothing brought her into being. Bhāskararāya gives two more readings: yoni can mean a place, so she has no place and is unbounded; or, taking a as a name of Viṣṇu, she is the yoni, the mother, of Viṣṇu.",
+    "hi": "‘योनि’ का अर्थ है कारण या उद्गम, और उनका कोई कारण नहीं: उन्हें किसी ने उत्पन्न नहीं किया। भास्करराय दो और अर्थ देते हैं: ‘योनि’ का अर्थ स्थान भी है, अतः उनका कोई सीमित स्थान नहीं, वे अपरिच्छिन्न हैं; अथवा ‘अ’ को विष्णु का नाम मानें, तो वे विष्णु की योनि, अर्थात् जननी, हैं।"
+  },
+  "inner": {
+    "en": "For yoni as ‘place’ he cites a Vedic verse addressed to Indra: ‘a seat (yoni) has been made for you to sit on’. To have no place is to be limited by none. The reading ‘mother of Viṣṇu’ links back to the names just before, where she is Vaiṣṇavī and Viṣṇurūpiṇī.",
+    "hi": "‘योनि’ के स्थान-अर्थ के लिए वे इन्द्र को सम्बोधित एक वैदिक मन्त्र देते हैं: ‘तुम्हारे बैठने के लिए एक आसन (योनि) बनाया गया है।’ जिसका कोई स्थान नहीं, उसे कोई सीमा बाँध नहीं सकती। ‘विष्णु की जननी’ वाला अर्थ इससे पहले के नामों, वैष्णवी और विष्णुरूपिणी, से जुड़ता है।"
+  },
+  "story": {
+    "en": "The verse sets side by side two names that seem to contradict each other: Ayoni, without a source, and Yoninilayā, the abode of the source (name 895). She has no origin, and yet every origin rests in her.",
+    "hi": "श्लोक दो ऐसे नाम पास-पास रखता है जो परस्पर विरोधी लगते हैं: अयोनि, जिनका कोई उद्गम नहीं, और योनिनिलया, उद्गम का निवास (नाम 895)। उनका कोई मूल नहीं, फिर भी हर मूल उन्हीं में स्थित है।"
+  },
+  "commentary": {
+    "sanskrit": "न विद्यते योनिः कारणं यस्याः साऽयोनिः ।",
+    "translation": {
+      "en": "She for whom there is no yoni, no cause, is Ayoni.",
+      "hi": "जिनकी कोई योनि, अर्थात् कारण, नहीं है, वे अयोनि हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 894 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The archana keeps अयोनये (feminine i-stem; अयोन्यै would also be grammatical). The Vedic verse is योनिष्ट इन्द्र निषदे अकारि (Ṛgveda 1.104.1), which Bhāskararāya cites only as śruti." }
+}

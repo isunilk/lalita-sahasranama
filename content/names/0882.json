@@ -1,0 +1,43 @@
+{
+  "number": 882,
+  "verse": 164,
+  "slug": "yajna-kartri",
+  "devanagari": "यज्ञकर्त्री",
+  "iastSplit": "Yajña-kartrī",
+  "archana": "ॐ यज्ञकर्त्र्यै नमः",
+  "syllables": ["yaj", "ña", "kar", "trī"],
+  "words": [
+    { "sa": "यज्ञ", "meaning": { "en": "sacrifice", "hi": "यज्ञ" } },
+    { "sa": "कर्त्री", "meaning": { "en": "she who performs, the doer", "hi": "करने वाली, कर्त्री" } }
+  ],
+  "meaning": {
+    "en": "She who performs the sacrifice",
+    "hi": "यज्ञ करने वाली"
+  },
+  "explanation": {
+    "en": "She is the one who carries out the sacrifice. Bhāskararāya explains through the Purāṇas: the doer of the sacrifice is Paramaśiva in his form as the consecrated sacrificer, and his wife is Dīkṣā, ‘consecration’, mother of a son called Santāna. The Devī is that partner in the rite.",
+    "hi": "वे यज्ञ को सम्पन्न करने वाली हैं। भास्करराय पुराणों के आधार पर समझाते हैं: यज्ञ के कर्ता परमशिव हैं, दीक्षित यजमान के रूप में, और उनकी पत्नी हैं दीक्षा, जिनके पुत्र का नाम सन्तान है। देवी ही यज्ञ में उनकी वह सहधर्मिणी हैं।"
+  },
+  "inner": {
+    "en": "In the Liṅga Purāṇa, which he quotes, this sacrificer form of Śiva is called Ugra by the wise and Īśāna by others. Beyond the Purāṇic family he gives no hidden meaning. In reflection, Dīkṣā, consecration, is the power that makes a rite possible, and her son’s name, Santāna, ‘continuity’, is what the rite carries forward.",
+    "hi": "उनके द्वारा उद्धृत लिंग पुराण में शिव के इस यजमान-रूप को विद्वान ‘उग्र’ और कुछ अन्य ‘ईशान’ कहते हैं। इस पौराणिक परिवार के अतिरिक्त वे कोई गूढ़ अर्थ नहीं देते। चिन्तन के रूप में: दीक्षा वह शक्ति है जो किसी अनुष्ठान को सम्भव बनाती है, और उसके पुत्र का नाम ‘सन्तान’, अर्थात् निरन्तरता, वही है जिसे अनुष्ठान आगे बढ़ाता है।"
+  },
+  "story": {
+    "en": "He quotes the Vāyu Purāṇa as well, which agrees on the family of this form: Ugra the sacrificer, with the consecrated brāhmaṇas, Dīkṣā his wife and Santāna his son. The next name takes up the sacrificer form directly.",
+    "hi": "वे वायु पुराण का वचन भी देते हैं, जो इस मूर्ति के परिवार पर सहमत है: दीक्षित ब्राह्मणों के साथ उग्र यजमान, उनकी पत्नी दीक्षा और पुत्र सन्तान। अगला नाम सीधे इसी यजमान-रूप को लेता है।"
+  },
+  "commentary": {
+    "sanskrit": "यज्ञस्य कर्ता यजमानात्मको दीक्षितमूर्तिः परमशिवस्तस्य पत्नी दीक्षाख्या सन्तानस्य माता",
+    "translation": {
+      "en": "The doer of the sacrifice is Paramaśiva, whose form is the consecrated sacrificer; his wife, named Dīkṣā, is the mother of Santāna.",
+      "hi": "यज्ञ के कर्ता यजमान-स्वरूप, दीक्षित मूर्ति वाले परमशिव हैं; उनकी पत्नी दीक्षा नाम वाली हैं, जो सन्तान की माता हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 882 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya does not say in so many words that the Devī is Dīkṣā; the explanation draws this from his gloss, which names the wife of the sacrificer form for this feminine name. The Vāyu Purāṇa verse calls Ugra the seventh body, while the comment on the next name calls the sacrificer the last of the eight; the page gives no number. The last sentence of the inner layer is a reflection." }
+}

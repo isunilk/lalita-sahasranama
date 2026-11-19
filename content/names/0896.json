@@ -1,0 +1,43 @@
+{
+  "number": 896,
+  "verse": 166,
+  "slug": "kuta-stha",
+  "devanagari": "कूटस्था",
+  "iastSplit": "Kūṭa-sthā",
+  "archana": "ॐ कूटस्थायै नमः",
+  "syllables": ["kū", "ṭas", "thā"],
+  "words": [
+    { "sa": "कूट", "meaning": { "en": "anvil; summit; illusion; a mass; a section of a mantra", "hi": "निहाई; शिखर; माया; समूह; मन्त्र का खण्ड" } },
+    { "sa": "स्था", "meaning": { "en": "standing, abiding", "hi": "स्थित" } }
+  ],
+  "meaning": {
+    "en": "Who stands unchanging, like the smith’s anvil",
+    "hi": "जो लोहार की निहाई की भाँति निर्विकार स्थित हैं"
+  },
+  "explanation": {
+    "en": "Kūṭa has many meanings, and Bhāskararāya uses most of them. Kūṭa is the iron block fixed in the ground on which smiths strike, itself unchanged by every blow: she is changeless like it. Kūṭa is also a mountain peak, and she stands as still; it is ignorance, which she governs, and the multitude of worlds, which rest in her.",
+    "hi": "‘कूट’ के अनेक अर्थ हैं, और भास्करराय उनमें से अधिकांश का प्रयोग करते हैं। कूट लोहे का वह खण्ड है जो भूमि में गड़ा रहता है और जिस पर लोहार हथौड़े मारते हैं, पर वह स्वयं नहीं बदलता: वे उसी की भाँति निर्विकार हैं। कूट पर्वत का शिखर भी है, और वे उसी की तरह अचल हैं; यह अज्ञान भी है, जिसकी वे अधिष्ठात्री हैं, और लोकों का समूह भी, जो उनमें स्थित है।"
+  },
+  "inner": {
+    "en": "Kūṭa as ignorance is what ‘deceives’ the self, veiling its bliss and dropping it into saṃsāra; she stands over it as its ruler, untouched, as the Gītā’s phrase ‘kūṭastha, unmoving, constant’ describes. He also names as her dwelling the three kūṭas, the three sections of her mantra that names 85 to 87 describe, and a triangle within the Śrīcakra that he calls its city gate.",
+    "hi": "अज्ञान के रूप में कूट वह है जो आत्मा को ‘छलता’ है, उसके आनन्द को ढककर उसे संसार में गिरा देता है; वे उसकी अधिष्ठात्री होकर उससे अछूती स्थित हैं, जैसा गीता का पद ‘कूटस्थमचलं ध्रुवम्’ बताता है। वे उनके मन्त्र के तीन कूटों, अर्थात् तीन खण्डों, को भी उनका निवास बताते हैं, जिनका वर्णन नाम 85 से 87 में है, और श्रीचक्र के भीतर के एक त्रिकोण को भी, जिसे वे उस नगर का द्वार कहते हैं।"
+  },
+  "story": {
+    "en": "He quotes the Viśva lexicon, which lists the meanings of kūṭa: a device, a falsehood, a heap, the motionless, an iron hammer, illusion, a mountain peak, the trifling, part of a plough, deceit, and a city gate. Name 588 calls her Trikūṭā, she of the three kūṭas.",
+    "hi": "वे विश्व कोश का वचन देते हैं, जो ‘कूट’ के अर्थ गिनाता है: यन्त्र, असत्य, राशि, अचल, लोहे का मुद्गर, माया, पर्वत-शिखर, तुच्छ, हल का एक भाग, दम्भ और नगर-द्वार। नाम 588 उन्हें त्रिकूटा, तीन कूटों वाली, कहता है।"
+  },
+  "commentary": {
+    "sanskrit": "अयस्कारैः प्रहाराधिकरणत्वेन भूमौ निखातो लोहविशेषः कूटस्तद्वन्निर्विकारा वा ।",
+    "translation": {
+      "en": "Or: kūṭa is the block of iron that smiths fix in the ground as the place where they strike; like it, she is changeless.",
+      "hi": "अथवा, कूट लोहे का वह विशेष खण्ड है जिसे लोहार चोट करने के आधार के रूप में भूमि में गाड़ देते हैं; उसी की भाँति वे निर्विकार हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 896 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The three kūṭas are named as meaning only, with no mantra. The edition has a stray ‘२९०)’ before the Viśva verse and a gap at its end; the lexicon list is paraphrased. ‘Anvil’ renders his लोहविशेषः … भूमौ निखातः (an iron block sunk in the ground)." }
+}

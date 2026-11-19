@@ -1,0 +1,43 @@
+{
+  "number": 890,
+  "verse": 166,
+  "slug": "vishva-grasa",
+  "devanagari": "विश्वग्रासा",
+  "iastSplit": "Viśva-grāsā",
+  "archana": "ॐ विश्वग्रासायै नमः",
+  "syllables": ["viś", "vag", "rā", "sā"],
+  "words": [
+    { "sa": "विश्व", "meaning": { "en": "the universe, all that moves and does not move", "hi": "विश्व, चराचर जगत" } },
+    { "sa": "ग्रास", "meaning": { "en": "devouring; a mouthful", "hi": "ग्रास, निगलना" } }
+  ],
+  "meaning": {
+    "en": "Who swallows the whole universe at dissolution",
+    "hi": "जो प्रलय में समस्त विश्व को ग्रस लेती हैं"
+  },
+  "explanation": {
+    "en": "She devours the universe, all that moves and all that does not. Bhāskararāya explains it plainly: she is the destroyer of all things, moving and unmoving. The world she sets turning (name 889) she also takes back.",
+    "hi": "वे विश्व को, सब चर और अचर को, ग्रस लेती हैं। भास्करराय सीधे समझाते हैं: वे चर-अचर सबका संहार करने वाली हैं। जिस जगत को वे घुमाती हैं (नाम 889), उसी को वे वापस भी ले लेती हैं।"
+  },
+  "inner": {
+    "en": "He quotes the Kaṭha Upaniṣad: for whom the priestly and the warrior orders are both rice, and death is the sauce poured on it, who truly knows where that one is? If death itself is only the sauce, the meal is all that moves and does not move; so the Brahma Sūtra concludes that the eater is the Supreme, because the moving and the unmoving are taken as food.",
+    "hi": "वे कठ उपनिषद् का वचन देते हैं: जिसके लिए ब्राह्मण और क्षत्रिय दोनों भात हैं, और मृत्यु उस पर डाला जाने वाला व्यंजन — वह कहाँ है, यह कौन ठीक-ठीक जानता है? जब मृत्यु स्वयं केवल व्यंजन है, तो भोजन समस्त चराचर जगत है; इसीलिए ब्रह्मसूत्र निष्कर्ष देता है कि भक्षक परमात्मा ही है, क्योंकि चर और अचर दोनों उसके भोजन के रूप में ग्रहण किए गए हैं।"
+  },
+  "story": {
+    "en": "The hymn has already called her Mahāgrāsā, the great devourer (name 752). Here what she devours is named: the whole universe.",
+    "hi": "स्तोत्र उन्हें पहले महाग्रासा, महान ग्रास करने वाली, कह चुका है (नाम 752)। यहाँ उस ग्रास का नाम भी दिया गया है: सम्पूर्ण विश्व।"
+  },
+  "commentary": {
+    "sanskrit": "विश्वं चराचरं ग्रसतीति विश्वग्रासा । चराचरसंहर्त्रीत्यर्थः ।",
+    "translation": {
+      "en": "She swallows the viśva, all that moves and does not move: so she is Viśvagrāsā. The meaning is, she is the destroyer of the moving and the unmoving.",
+      "hi": "वे विश्व को, अर्थात् चराचर को, ग्रस लेती हैं, इसलिए विश्वग्रासा हैं। अर्थ यह कि वे चर-अचर का संहार करने वाली हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 890 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The verse is Kaṭha Upaniṣad 1.2.25 and the sūtra is Brahma Sūtra 1.2.9 (अत्ता चराचरग्रहणात्); Bhāskararāya cites them as ‘in the Kāṭhaka’ and ‘the Brahma Sūtra’." }
+}

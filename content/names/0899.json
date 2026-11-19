@@ -1,0 +1,42 @@
+{
+  "number": 899,
+  "verse": 167,
+  "slug": "vira",
+  "devanagari": "वीरा",
+  "iastSplit": "Vīrā",
+  "archana": "ॐ वीरायै नमः",
+  "syllables": ["vī", "rā"],
+  "words": [
+    { "sa": "वीरा", "meaning": { "en": "heroine, the valiant; also a woman with husband and sons", "hi": "वीरा, पराक्रमी; पति-पुत्रों वाली स्त्री" } }
+  ],
+  "meaning": {
+    "en": "The valiant heroine",
+    "hi": "पराक्रमी वीरांगना"
+  },
+  "explanation": {
+    "en": "She is herself a heroine, Bhāskararāya says, because she has valour (vīrya). He also notes the lexicon Nāmamālā, where vīrā means a woman who has a husband and sons.",
+    "hi": "भास्करराय कहते हैं कि वे स्वयं भी वीरा हैं, क्योंकि उनमें वीर्य, अर्थात् पराक्रम, है। वे ‘नाममाला’ कोश का अर्थ भी बताते हैं, जिसमें ‘वीरा’ उस स्त्री को कहते हैं जिसके पति और पुत्र हों।"
+  },
+  "inner": {
+    "en": "He gives no hidden meaning. In reflection, both senses fit her: she is the warrior who defeats Bhaṇḍa, and she is the wife of Kāmeśvara and the mother of Kumāra and Gaṇeśa (name 442).",
+    "hi": "वे कोई गूढ़ अर्थ नहीं देते। चिन्तन के रूप में: दोनों अर्थ उन पर घटते हैं — वे भण्ड को पराजित करने वाली योद्धा हैं, और कामेश्वर की पत्नी तथा कुमार और गणेश की माता भी (नाम 442)।"
+  },
+  "story": {
+    "en": "With name 898 this forms a pair: heroes are dear to her, and she is a heroine herself. Earlier the hymn praised her as Mahāvīryā, of great valour (name 221).",
+    "hi": "नाम 898 के साथ यह एक युगल बनाता है: वीर उन्हें प्रिय हैं, और वे स्वयं भी वीरा हैं। पहले स्तोत्र उनकी स्तुति महावीर्या, महान पराक्रम वाली (नाम 221), कहकर कर चुका है।"
+  },
+  "commentary": {
+    "sanskrit": "स्वयमपि वीर्यवत्त्वाद्वीरा । पतिपुत्रवती वीरेति तु नाममालायाम् ।",
+    "translation": {
+      "en": "She too is Vīrā, because she herself has valour. In the Nāmamālā, though, vīrā means a woman who has a husband and sons.",
+      "hi": "वीर्य से युक्त होने के कारण वे स्वयं भी वीरा हैं। किन्तु नाममाला में ‘वीरा’ पति और पुत्रों वाली स्त्री को कहा गया है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 899 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the two literal senses; the inner layer is a reflection." }
+}

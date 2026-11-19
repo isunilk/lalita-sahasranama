@@ -1,0 +1,43 @@
+{
+  "number": 901,
+  "verse": 167,
+  "slug": "nada-rupini",
+  "devanagari": "नादरूपिणी",
+  "iastSplit": "Nāda-rūpiṇī",
+  "archana": "ॐ नादरूपिण्यै नमः",
+  "syllables": ["nā", "da", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "नाद", "meaning": { "en": "nāda, subtle inner sound", "hi": "नाद, सूक्ष्म ध्वनि" } },
+    { "sa": "रूपिणी", "meaning": { "en": "having the form of", "hi": "रूप वाली" } }
+  ],
+  "meaning": {
+    "en": "Whose form is nāda, the subtle resonance at the crown of Om",
+    "hi": "नाद, अर्थात् ओंकार के शीर्ष पर स्थित सूक्ष्म ध्वनि, जिनका रूप है"
+  },
+  "explanation": {
+    "en": "Nāda is the subtle resonance that rests at the head of the praṇava, Om, beyond its letters. She has that form. Bhāskararāya also reads the name as ‘she whose form is within nāda’.",
+    "hi": "नाद वह सूक्ष्म गूँज है जो प्रणव, ओंकार, के शीर्ष पर उसके अक्षरों से परे स्थित है। वे उसी का रूप हैं। भास्करराय एक और अर्थ देते हैं: ‘जिनका रूप नाद में स्थित है’।"
+  },
+  "inner": {
+    "en": "He quotes a verse from earlier teachers: ‘O Queen, your form, whose mark is bliss, has become nāda in the place called anāhata, the heart; it is known by the mind turned inward, and the blessed proclaim it with tears and with the hair of their bodies standing on end.’ He also cites the Svacchanda Tantra, which places nāda above the phase called rodhinī and the supreme Śivā on its lap, rising upward.",
+    "hi": "वे पूर्वाचार्यों का एक श्लोक देते हैं: ‘हे ईश्वरी, आनन्द जिसका लक्षण है, ऐसा तुम्हारा रूप अनाहत नामक स्थान (हृदय) में नाद के रूप में परिणत होता है; अन्तर्मुख मन उसे पहचानता है, और धन्य जन आँसुओं और रोमांच से उसका बखान करते हैं।’ वे स्वच्छन्द तन्त्र का भी उल्लेख करते हैं, जो नाद को रोधिनी नामक अवस्था के ऊपर रखता है और ऊर्ध्वगामिनी परमा शिवा को उसकी गोद में।"
+  },
+  "story": {
+    "en": "This name opens the eleventh part of Bhāskararāya’s commentary, the kalā he calls Dhāriṇī, which covers the tenth hundred. It echoes Nādarūpā (name 299), where he sets out the subtle phases of sound among which nāda has its place.",
+    "hi": "यह नाम भास्करराय की व्याख्या का ग्यारहवाँ भाग आरम्भ करता है — वह कला जिसे वे धारिणी कहते हैं और जो दसवें शतक को समेटती है। यह नादरूपा (नाम 299) की प्रतिध्वनि है, जहाँ वे ध्वनि की वे सूक्ष्म अवस्थाएँ बताते हैं जिनमें नाद का स्थान है।"
+  },
+  "commentary": {
+    "sanskrit": "नादः प्रणवशिरस्थितस्तद्रूपा ।",
+    "translation": {
+      "en": "Nāda rests at the head of the praṇava; she has its form.",
+      "hi": "नाद प्रणव के शीर्ष पर स्थित है; वे उसी का रूप हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 901 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The verse आनन्दलक्षणमनाहतनाम्नि देशे… is cited by Bhāskararāya from ‘the learned’ (अभियुक्तैः) without naming a work; it is translated, not attributed. ‘The heart’ for anāhata is added. In the edition the colophon after name 900 splits the verse line, so नादरूपिणी stands at the head of the eleventh kalā." }
+}

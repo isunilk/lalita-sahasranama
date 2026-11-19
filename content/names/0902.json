@@ -1,0 +1,43 @@
+{
+  "number": 902,
+  "verse": 167,
+  "slug": "vijnana-kalana",
+  "devanagari": "विज्ञानकलना",
+  "iastSplit": "Vijñāna-kalanā",
+  "archana": "ॐ विज्ञानकलनायै नमः",
+  "syllables": ["vij", "ñā", "na", "ka", "la", "nā"],
+  "words": [
+    { "sa": "विज्ञान", "meaning": { "en": "realised knowledge; the direct experience of Brahman", "hi": "विज्ञान, ब्रह्म का साक्षात् अनुभव" } },
+    { "sa": "कलना", "meaning": { "en": "grasping, realising", "hi": "ग्रहण, अनुभूति" } }
+  ],
+  "meaning": {
+    "en": "The direct realisation of Brahman, which is knowing one’s own self",
+    "hi": "ब्रह्म का साक्षात् अनुभव, जो अपनी ही आत्मा का अनुभव है"
+  },
+  "explanation": {
+    "en": "Vijñāna here is the direct realisation of Brahman, and kalanā is its grasping. Bhāskararāya says that to grasp Brahman directly is to realise one’s own self, and she is that realisation.",
+    "hi": "यहाँ ‘विज्ञान’ ब्रह्म का साक्षात्कार है, और ‘कलना’ उसका ग्रहण। भास्करराय कहते हैं कि ब्रह्म का साक्षात् ग्रहण ही अपनी आत्मा का साक्षात्कार है, और वे वही साक्षात्कार हैं।"
+  },
+  "inner": {
+    "en": "Knowledge of Brahman and knowledge of the self are not two events but one. He also gives the Kūrma Purāṇa’s sense of vijñāna: the true holding of the fourteen branches of learning. So she is both the inner realisation and the full possession of sacred learning.",
+    "hi": "ब्रह्म का ज्ञान और आत्मा का ज्ञान दो घटनाएँ नहीं, एक ही हैं। वे कूर्म पुराण का अर्थ भी देते हैं: चौदह विद्याओं को यथार्थ रूप से धारण करना ही विज्ञान है। इस प्रकार वे भीतरी साक्षात्कार भी हैं और पवित्र विद्या का पूर्ण अधिकार भी।"
+  },
+  "story": {
+    "en": "This half-line gathers four names of knowledge and refinement: realisation (name 902), skill in the arts (name 903), cultivated wit (name 904), and her seat in the bindu (name 905).",
+    "hi": "यह अर्धपंक्ति ज्ञान और परिष्कार से जुड़े चार नाम एकत्र करती है: साक्षात्कार (नाम 902), कलाओं में निपुणता (नाम 903), सुसंस्कृत चातुर्य (नाम 904), और बिन्दु में उनका आसन (नाम 905)।"
+  },
+  "commentary": {
+    "sanskrit": "विज्ञानस्य ब्रह्मसाक्षात्कारस्य कलना स्वात्मसाक्षात्कारः",
+    "translation": {
+      "en": "The kalanā of vijñāna, of the direct realisation of Brahman, is the direct realisation of one’s own self.",
+      "hi": "विज्ञान, अर्थात् ब्रह्म-साक्षात्कार, की कलना अपनी आत्मा का साक्षात्कार है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 902 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya quotes the Kūrma line on the fourteen vidyās without listing them; the usual count is the four Vedas, six Vedāṅgas, Purāṇa, Nyāya, Mīmāṃsā and Dharmaśāstra. The first sentence of the inner layer restates his gloss." }
+}

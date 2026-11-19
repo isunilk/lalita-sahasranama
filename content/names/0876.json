@@ -1,0 +1,43 @@
+{
+  "number": 876,
+  "verse": 163,
+  "slug": "niramaya",
+  "devanagari": "निरामया",
+  "iastSplit": "Nir-āmayā",
+  "archana": "ॐ निरामयायै नमः",
+  "syllables": ["ni", "rā", "ma", "yā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free from", "hi": "रहित" } },
+    { "sa": "आमय", "meaning": { "en": "illness, disease", "hi": "रोग" } }
+  ],
+  "meaning": {
+    "en": "Free from all illness, and the one who removes it",
+    "hi": "सब रोगों से रहित, और रोगों को दूर करने वाली"
+  },
+  "explanation": {
+    "en": "Āmaya means illness, and the name says she is without it. Bhāskararāya’s gloss puts it actively: she is the one through whom illnesses have gone away.",
+    "hi": "‘आमय’ का अर्थ है रोग, और नाम कहता है कि वे रोग से रहित हैं। भास्करराय इसे सक्रिय अर्थ में लेते हैं: वे वह हैं जिनके द्वारा रोग दूर चले गए हैं।"
+  },
+  "inner": {
+    "en": "He gives no further meaning. In reflection, the deepest illness in the tradition’s language is saṃsāra itself, the round of birth and death, and the next line of the hymn speaks of her lifting people out of it. Elsewhere she is called Sarvavyādhipraśamanī, the one who calms every disease (name 551).",
+    "hi": "वे इससे आगे कोई अर्थ नहीं देते। चिन्तन के रूप में: परम्परा की भाषा में सबसे गहरा रोग स्वयं संसार, अर्थात् जन्म-मृत्यु का चक्र, है, और स्तोत्र की अगली पंक्ति उन्हें उसी से उबारने वाली कहती है। अन्यत्र उन्हें सर्वव्याधिप्रशमनी, सब रोगों को शान्त करने वाली, कहा गया है (नाम 551)।"
+  },
+  "story": {
+    "en": "The four names of this half-line describe her own nature: free from illness, without support, delighting in herself, and the flow of nectar. In the long run of ‘nir’ names that begins at name 132, the hymn describes her in the same way, by what she is free of.",
+    "hi": "इस अर्धपंक्ति के चार नाम उनके अपने स्वरूप का वर्णन करते हैं: रोग-रहित, आश्रय-रहित, अपने में ही रमने वाली, और अमृत की धारा। नाम 132 से आरम्भ होने वाली ‘निर्’ नामों की लम्बी शृंखला में भी स्तोत्र उनका वर्णन इसी प्रकार करता है — वे किन बातों से मुक्त हैं, यह बताकर।"
+  },
+  "commentary": {
+    "sanskrit": "निर्गता आमया रोगा यया ।",
+    "translation": {
+      "en": "She through whom the āmayas, the illnesses, have gone away.",
+      "hi": "जिनके द्वारा आमय, अर्थात् रोग, दूर चले गए हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 876 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the inner layer is a reflection." }
+}

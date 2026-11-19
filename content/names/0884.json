@@ -1,0 +1,43 @@
+{
+  "number": 884,
+  "verse": 165,
+  "slug": "dharmadhara",
+  "devanagari": "धर्माधारा",
+  "iastSplit": "Dharmādhārā",
+  "archana": "ॐ धर्माधारायै नमः",
+  "syllables": ["dhar", "mā", "dhā", "rā"],
+  "words": [
+    { "sa": "धर्म", "meaning": { "en": "dharma: right conduct, sacred order", "hi": "धर्म" } },
+    { "sa": "आधारा", "meaning": { "en": "support, foundation", "hi": "आधार" } }
+  ],
+  "meaning": {
+    "en": "The foundation of dharma, and its unbroken stream",
+    "hi": "धर्म का आधार, और उसकी अविरल धारा"
+  },
+  "explanation": {
+    "en": "Bhāskararāya first defines dharma broadly: the practices handed down by the cultured in each region that do not contradict the Veda. Read as dharma-ā-dhārā, she is their unbroken stream (dhārā) flowing everywhere (ā). Read as dharma-ādhārā, dharma is her support, or rather she is the one who makes dharma the support of all.",
+    "hi": "भास्करराय पहले धर्म की व्यापक परिभाषा देते हैं: हर प्रदेश में शिष्ट जनों की परम्परा से चली आई वे क्रियाएँ जो वेद के विरुद्ध न हों। ‘धर्म-आ-धारा’ के रूप में पढ़ें तो वे सब प्रदेशों में (आ) उन क्रियाओं का अविरल प्रवाह (धारा) हैं। ‘धर्म-आधारा’ के रूप में पढ़ें तो धर्म उनका आधार है, अथवा वे ही धर्म को सबका आधार बनाती हैं।"
+  },
+  "inner": {
+    "en": "For the first sense he quotes the Saṃvarta Smṛti: whatever custom has come down in a land by succession, not opposed to scripture, is called dharma. For the second he cites the Veda’s ‘in dharma all is established’. So dharma holds the world, and she is what gives dharma that power.",
+    "hi": "पहले अर्थ के लिए वे संवर्त स्मृति का वचन देते हैं: जिस देश में जो आचार परम्परा-क्रम से आया हो और शास्त्रों के विरुद्ध न हो, वही धर्म कहलाता है। दूसरे अर्थ के लिए वे श्रुति का वाक्य ‘धर्मे सर्वं प्रतिष्ठितम्’ (धर्म में सब प्रतिष्ठित है) देते हैं। अतः धर्म जगत को धारण करता है, और धर्म को यह सामर्थ्य उन्हीं से मिलता है।"
+  },
+  "story": {
+    "en": "This half-line follows the order of life’s aims: dharma first (name 884), then wealth (names 885 and 886). Bhāskararāya also notes that ‘dharma is her support’ is said only figuratively, meaning that she abides in dharma.",
+    "hi": "यह अर्धपंक्ति पुरुषार्थों का क्रम अपनाती है: पहले धर्म (नाम 884), फिर धन (नाम 885 और 886)। भास्करराय यह भी बताते हैं कि ‘धर्म उनका आधार है’ यह लाक्षणिक कथन है, जिसका अर्थ है कि वे धर्म में स्थित रहती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "धर्म आधारो यया वा । धर्मस्य सर्वाधारत्वं यत्कृतमिति यावत् ।",
+    "translation": {
+      "en": "Or: she by whom dharma is the support; that is, she who makes dharma the support of all.",
+      "hi": "अथवा, जिनके द्वारा धर्म आधार है; तात्पर्य यह कि धर्म का सबका आधार होना जिनका किया हुआ है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 884 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition prints संअवर्तस्मृतिः, evidently for संवर्तस्मृतिः; it is not quoted. The ‘order of aims’ remark in the story layer is an observation on the verse." }
+}
