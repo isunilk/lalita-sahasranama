@@ -42,8 +42,18 @@
     "te": "లలితోపాఖ్యానంలో భండాసురుడు దేవతలను ఓడిస్తాడు. వారు మహాయజ్ఞం చేసి, చివరకు తమ శరీరాలనే అగ్నిలో అర్పించడానికి సిద్ధపడతారు. ఆ అగ్ని నుండే అమ్మవారు లలితగా ఆవిర్భవిస్తుంది — తేజస్సుతో, యుద్ధానికి సిద్ధంగా.",
     "ta": "லலிதோபாக்யானத்தில் பண்டாசுரன் தேவர்களை வென்றுவிடுகிறான். அவர்கள் ஒரு மகாயாகம் செய்து, இறுதியில் தங்கள் உடல்களையே அக்னியில் அர்ப்பணிக்கத் துணிகின்றனர். அந்த அக்னியிலிருந்தே அம்பிகை லலிதையாகத் தோன்றுகிறாள் — ஒளி வீசியபடி, போருக்குத் தயாராக."
   },
-  "commentary": null,
-  "sources": [],
+  "commentary": {
+    "sanskrit": "चित्केवलं ब्रह्म तदेवाग्निकुण्डं अविद्यालक्षणतमोविरोधित्वात् ।",
+    "translation": {
+      "en": "Cit is Brahman alone, and that itself is the fire-altar, because it is the enemy of the darkness that is ignorance.",
+      "hi": "चित् केवल ब्रह्म है; वही अग्निकुण्ड है, क्योंकि वह अविद्या रूपी अन्धकार का विरोधी है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 4 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
   "audio": { "chant": null, "slow": null },
-  "review": { "status": "draft", "notes": "Drafted with AI help. Check every layer against Bhāskararāya’s Saubhāgya Bhāskara and a printed edition before marking it reviewed." }
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya takes cit, Brahman alone, as the fire-altar because it destroys the darkness of ignorance, and cites the Gītā’s ‘the fire of knowledge burns all karma to ashes’. His first reading of sambhūtā is ‘abiding there fully, as one with it’ rather than ‘born’, since she is eternal; his second follows the Purāṇic account of her arising, which the page uses. The story follows the Brahmāṇḍa Purāṇa passage he quotes (the gods about to offer their own bodies, the mass of light, the Devī radiant as the rising sun). The inner layer’s offering of the ego into the fire is a reflection on his image, not his words. English, Hindi, Telugu and Tamil text unchanged." }
 }

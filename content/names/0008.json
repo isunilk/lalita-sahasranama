@@ -5,12 +5,12 @@
   "devanagari": "रागस्वरूपपाशाढ्या",
   "iastSplit": "Rāga-svarūpa-pāśāḍhyā",
   "archana": "ॐ रागस्वरूपपाशाढ्यायै नमः",
-  "syllables": ["rā", "ga", "sva", "rū", "pa", "pā", "śā", "ḍhyā"],
+  "syllables": ["rā", "gas", "va", "rū", "pa", "pā", "śāḍh", "yā"],
   "words": [
-    { "sa": "राग", "meaning": { "en": "desire, attachment" } },
-    { "sa": "स्वरूप", "meaning": { "en": "the very form of" } },
-    { "sa": "पाश", "meaning": { "en": "noose" } },
-    { "sa": "आढ्या", "meaning": { "en": "holding, rich in" } }
+    { "sa": "राग", "meaning": { "en": "desire, attachment", "hi": "राग, आसक्ति" } },
+    { "sa": "स्वरूप", "meaning": { "en": "the very form of", "hi": "स्वरूप" } },
+    { "sa": "पाश", "meaning": { "en": "noose", "hi": "पाश, फंदा" } },
+    { "sa": "आढ्या", "meaning": { "en": "holding, rich in", "hi": "सम्पन्न, धारण करने वाली" } }
   ],
   "meaning": {
     "en": "Holding the noose that is desire itself",
@@ -19,16 +19,29 @@
     "ta": "ஆசை வடிவான பாசத்தை ஏந்தியவள்"
   },
   "explanation": {
-    "en": "In one hand she holds a pāśa, a noose. The name says what the noose is made of: rāga, desire and attachment, the force that binds."
+    "en": "In her lower left hand she holds a pāśa, a noose. The name says what the noose is: rāga, attachment, which Bhāskararāya calls a particular movement of the mind, or desire itself. The rope is its outward form; rāga is its inner form.",
+    "hi": "उनके बाएँ निचले हाथ में पाश है। नाम बताता है कि वह पाश क्या है: राग, अर्थात् आसक्ति, जिसे भास्करराय चित्त की एक विशेष वृत्ति, अथवा स्वयं इच्छा, कहते हैं। रस्सी उसका बाहरी रूप है; राग उसका भीतरी रूप।"
   },
   "inner": {
-    "en": "The noose is attachment, the rope that binds every being to the world. In her hand the same rope becomes the bond of love that draws the devotee to her."
+    "en": "Bhāskararāya quotes Tantras that say the same: in the Pūrva-catuḥśatī and the Tantrarāja the noose and goad are attachment and aversion, the two pulls that bind every mind; in the Uttara-catuḥśatī the noose is her power of will, icchā-śakti. In her hand the force that binds belongs to the Mother. In reflection, the cord that binds us to the world becomes the bond of love that draws the devotee to her.",
+    "hi": "भास्करराय ऐसे तन्त्र उद्धृत करते हैं जो यही कहते हैं: पूर्वचतुःशती और तन्त्रराज में पाश और अंकुश राग और द्वेष हैं, वे दो खिंचाव जो हर मन को बाँधते हैं; उत्तरचतुःशती में पाश उनकी इच्छाशक्ति है। उनके हाथ में बाँधने वाली यह शक्ति माँ की अपनी है। चिन्तन के रूप में: जो डोर हमें संसार से बाँधती है, वही प्रेम का बन्धन बनकर भक्त को उनकी ओर खींचती है।"
   },
   "story": {
-    "en": "Names 8 to 11 describe her four emblems: noose, goad, sugarcane bow and flower-arrows. This is the form in which she is worshipped in Śrīvidyā."
+    "en": "Names 8 to 11 describe her four emblems: noose, goad, sugarcane bow and flower-arrows. Bhāskararāya also reads these names as holding the seed-syllables of the weapons, and says their division is to be learned from the teacher; they are not given here.",
+    "hi": "नाम 8 से 11 उनके चार आयुधों का वर्णन करते हैं: पाश, अंकुश, ईख का धनुष और पुष्प-बाण। भास्करराय इन नामों में आयुधों के बीजाक्षर भी पढ़ते हैं, और कहते हैं कि उनका विभाग गुरु के मुख से जानना चाहिए; वे यहाँ नहीं दिए गए।"
   },
-  "commentary": null,
-  "sources": [],
+  "commentary": {
+    "sanskrit": "रागोऽनुरक्तिश्चित्तवृत्तिविशेषः । इच्छैव वा । राग एव स्वं वासनामयं रूपं यस्य स्थूलस्य पाशस्य तेनाढ्या वामाधःकरेत्युक्ता ।",
+    "translation": {
+      "en": "Rāga is attachment, a particular movement of the mind, or desire itself. Rāga is the very form, made of vāsanā, of the gross noose; she is rich with that noose, held in her lower left hand.",
+      "hi": "राग अर्थात् अनुरक्ति, चित्त की एक विशेष वृत्ति; अथवा स्वयं इच्छा। जिस स्थूल पाश का अपना वासनामय रूप राग ही है, उससे वे सम्पन्न हैं; वह उनके बाएँ निचले हाथ में है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 8 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
   "audio": { "chant": null, "slow": null },
-  "review": { "status": "draft", "notes": "Drafted with AI help. Check every layer against Bhāskararāya’s Saubhāgya Bhāskara and a printed edition before marking it reviewed." }
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya glosses rāga as anurakti, a movement of the mind, or as icchā, desire, and places the noose in the lower left hand; he quotes the Pūrva-catuḥśatī, the Tantrarāja and the Uttara-catuḥśatī. He also reads names 8–11 as encoding the seed-syllables of the four weapons and says their division is to be learned from the guru; deliberately not set out. The last sentence of the inner layer is a reflection. Syllables brought into line with the project convention (gas-va, śāḍh-yā)." }
 }

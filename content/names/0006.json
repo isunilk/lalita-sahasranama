@@ -7,10 +7,10 @@
   "archana": "ॐ उद्यद्भानुसहस्राभायै नमः",
   "syllables": ["ud", "yad", "bhā", "nu", "sa", "has", "rā", "bhā"],
   "words": [
-    { "sa": "उद्यत्", "meaning": { "en": "rising" } },
-    { "sa": "भानु", "meaning": { "en": "sun" } },
-    { "sa": "सहस्र", "meaning": { "en": "a thousand" } },
-    { "sa": "आभा", "meaning": { "en": "radiance" } }
+    { "sa": "उद्यत्", "meaning": { "en": "rising", "hi": "उदित होता हुआ" } },
+    { "sa": "भानु", "meaning": { "en": "sun; also a ray of light", "hi": "सूर्य; किरण भी" } },
+    { "sa": "सहस्र", "meaning": { "en": "a thousand; countless", "hi": "हज़ार; अनगिनत" } },
+    { "sa": "आभा", "meaning": { "en": "radiance", "hi": "आभा, कान्ति" } }
   ],
   "meaning": {
     "en": "Radiant as a thousand rising suns",
@@ -19,16 +19,29 @@
     "ta": "உதிக்கும் ஆயிரம் சூரியர்களின் ஒளி கொண்டவள்"
   },
   "explanation": {
-    "en": "Her first appearance is described as light: the radiance of a thousand suns rising together. The rising sun is red-gold, the colour in which she is always visualised."
+    "en": "Her first appearance is described as light. Bhāskararāya reads the name two ways: radiant as the rising sun, the orb of a thousand rays, or as a thousand, that is countless, rising suns. Either way, ‘rising’ points to colour, for the rising sun is red: the sense, he says, is that she is deep red.",
+    "hi": "उनके प्रथम दर्शन का वर्णन प्रकाश के रूप में है। भास्करराय इस नाम को दो प्रकार से पढ़ते हैं: सहस्र किरणों वाले उगते सूर्य जैसी आभा वाली, अथवा सहस्र, अर्थात् अनगिनत, उगते सूर्यों जैसी। दोनों में ‘उगता हुआ’ शब्द रंग की ओर संकेत करता है, क्योंकि उगता सूर्य लाल होता है; वे कहते हैं कि फलित अर्थ है: वे अत्यन्त लोहित, गहरी लाल हैं।"
   },
   "inner": {
-    "en": "The light described is dawn, not noon: warm, red and rising. It is the moment knowledge dawns in the heart and the darkness of ignorance gives way all at once, as night does before a thousand suns."
+    "en": "Name 4 showed her as cit, consciousness, which is prakāśa, light; Bhāskararāya says this name shows her vimarśa, the power by which that light knows itself, and its colour is red. He quotes the Svatantra Tantra: the deity is one’s own Self, Lalitā whose body is the universe; her redness is vimarśa, and contemplating this is worship. In reflection, the red of dawn is the colour of awareness turning to know itself.",
+    "hi": "नाम 4 ने उन्हें चित् अर्थात् चेतना के रूप में दिखाया, जो प्रकाश है; भास्करराय कहते हैं कि यह नाम उनका विमर्श रूप बताता है, वह शक्ति जिससे वह प्रकाश स्वयं को जानता है, और उसका रंग लाल है। वे स्वतन्त्र तन्त्र उद्धृत करते हैं: अपनी आत्मा ही देवता है, विश्व जिनका शरीर है वे ललिता; उनकी लालिमा विमर्श है, और इसी की भावना उपासना है। चिन्तन के रूप में: उषा की लालिमा उस चेतना का रंग है जो स्वयं को जानने की ओर मुड़ती है।"
   },
   "story": {
-    "en": "Names 6 to 12 describe her form at the moment she rises from the sacrificial fire."
+    "en": "In the Brahmāṇḍa Purāṇa passage Bhāskararāya quotes under name 4, the gods see a mass of light like ten million suns yet cool as ten million moons; from its midst rises a wheel beyond compare, and within it the Great Goddess, radiant as the rising sun. Names 6 to 12 describe that first sight of her.",
+    "hi": "नाम 4 पर भास्करराय द्वारा उद्धृत ब्रह्माण्ड पुराण के प्रसंग में देवता करोड़ों सूर्यों जैसा, फिर भी करोड़ों चन्द्रमाओं जैसा शीतल, तेज का पुंज देखते हैं; उसके मध्य से एक अनुपम चक्र उठता है, और उसके भीतर उगते सूर्य जैसी प्रभा वाली महादेवी। नाम 6 से 12 उनके इसी प्रथम दर्शन का वर्णन करते हैं।"
   },
-  "commentary": null,
-  "sources": [],
+  "commentary": {
+    "sanskrit": "उद्यतां भानूनां रक्तसूर्याणां यत्सहस्रमानन्त्यं तेन तुल्येति वा । अतिलोहितेति फलितोऽर्थः ।",
+    "translation": {
+      "en": "Or: equal to the thousand, that is the countless host, of rising suns, red suns. The meaning that results is: deep red.",
+      "hi": "अथवा उगते हुए सूर्यों, अर्थात् लाल सूर्यों, का जो सहस्र अर्थात् अनन्त समूह है, उसके समान। फलित अर्थ है: अत्यन्त लोहित।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 6 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
   "audio": { "chant": null, "slow": null },
-  "review": { "status": "draft", "notes": "Drafted with AI help. Check every layer against Bhāskararāya’s Saubhāgya Bhāskara and a printed edition before marking it reviewed." }
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives two readings: bhānu-sahasra as the sun, ‘whose rays (bhānu) are a thousand’, or a thousand, that is countless, rising suns; the one-line meaning follows the second. His point is that ‘rising’ implies red. The inner layer follows his introduction to this verse (prakāśa, then vimarśa) and his quotation of the Svatantra Tantra; its last sentence is a reflection. The story paraphrases the Brahmāṇḍa Purāṇa verses he quotes under name 4." }
 }

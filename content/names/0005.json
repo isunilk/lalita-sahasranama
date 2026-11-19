@@ -7,9 +7,9 @@
   "archana": "ॐ देवकार्यसमुद्यतायै नमः",
   "syllables": ["de", "va", "kār", "ya", "sa", "mud", "ya", "tā"],
   "words": [
-    { "sa": "देव", "meaning": { "en": "the gods" } },
-    { "sa": "कार्य", "meaning": { "en": "task, purpose" } },
-    { "sa": "समुद्यता", "meaning": { "en": "fully ready, intent upon" } }
+    { "sa": "देव", "meaning": { "en": "the gods", "hi": "देवता" } },
+    { "sa": "कार्य", "meaning": { "en": "task, purpose", "hi": "कार्य, प्रयोजन" } },
+    { "sa": "समुद्यता", "meaning": { "en": "fully ready, risen up for", "hi": "उद्यत, तत्पर" } }
   ],
   "meaning": {
     "en": "Ever ready to fulfil the purpose of the gods",
@@ -24,16 +24,29 @@
     "or": "ଦେବତାଙ୍କ କାର୍ଯ୍ୟ ସାଧନରେ ତତ୍ପର"
   },
   "explanation": {
-    "en": "She arose for a purpose: the work of the gods, who had prayed for help against the demon Bhaṇḍāsura. Samudyatā means fully ready, so she appears already set on the task."
+    "en": "She arose for a purpose: the work of the gods, who had prayed for help against the demon Bhaṇḍāsura. Bhāskararāya names that work as the slaying of Bhaṇḍāsura, Mahiṣāsura and other demons, and glosses udyatā as ‘manifested’: she appeared already set on the task.",
+    "hi": "वे एक प्रयोजन से प्रकट हुईं: देवताओं का कार्य, जिन्होंने भण्डासुर के विरुद्ध सहायता की प्रार्थना की थी। भास्करराय उस कार्य को भण्डासुर, महिषासुर आदि असुरों का वध बताते हैं, और ‘उद्यता’ का अर्थ ‘आविर्भूता’ अर्थात् प्रकट हुई करते हैं: वे प्रकट होते ही उस कार्य के लिए तत्पर थीं।"
   },
   "inner": {
-    "en": "The gods are also our own luminous faculties, and their task is freedom from Bhaṇḍāsura, the demon born from the ashes of Kāma: desire burnt but not destroyed. She rises, eager and ready, to free the seeker from that ego."
+    "en": "Name 4 spoke of her arising, yet she is eternal and cannot be born. Bhāskararāya says this name answers that doubt, and quotes the Mārkaṇḍeya Purāṇa: when she manifests to accomplish the purpose of the gods, the world says she is born, though she is eternal. In reflection, her coming is not a beginning but an answer to those who call on her.",
+    "hi": "नाम 4 उनके प्रकट होने की बात करता है, पर वे नित्य हैं; उनका जन्म सम्भव नहीं। भास्करराय कहते हैं कि यह नाम इसी शंका का समाधान है, और मार्कण्डेय पुराण उद्धृत करते हैं: जब वे देवताओं के कार्य की सिद्धि के लिए प्रकट होती हैं, तब नित्य होते हुए भी लोक में उन्हें ‘उत्पन्न’ कहा जाता है। चिन्तन के रूप में: उनका आना कोई आरम्भ नहीं, बल्कि उन्हें पुकारने वालों की पुकार का उत्तर है।"
   },
   "story": {
-    "en": "Bhaṇḍāsura was formed from the ashes of Kāma, the god of desire, after Śiva burnt him with his third eye. Grown mighty, he drove the gods from heaven, and this name says the Devī rose ready to end that tyranny."
+    "en": "In the Lalitopākhyāna, Bhaṇḍāsura was formed from the ashes of Kāma, the god of desire, after Śiva burnt him with his third eye, and he grew mighty enough to oppress the gods. Bhāskararāya also quotes the Kūrma Purāṇa, where the Devī tells Himavat that, entreated by the gods, she condemned her father Dakṣa for reviling Śiva and was born of Menā to establish dharma, taking Himavat as her father.",
+    "hi": "ललितोपाख्यान में, शिव द्वारा तीसरे नेत्र से कामदेव को भस्म किए जाने के बाद उसी भस्म से भण्डासुर बना, और वह इतना बलवान हो गया कि देवताओं को सताने लगा। भास्करराय कूर्म पुराण का वह प्रसंग भी उद्धृत करते हैं जिसमें देवी हिमवान से कहती हैं कि देवताओं की प्रार्थना पर, शिव की निन्दा करने वाले अपने पिता दक्ष का तिरस्कार करके, वे धर्म की स्थापना के लिए मेना की देह से उत्पन्न हुईं और हिमवान को ही पिता के रूप में अपनाया।"
   },
-  "commentary": null,
-  "sources": [],
+  "commentary": {
+    "sanskrit": "देवानां कार्याणि भण्डासुरमहिषासुरवधादीनि तदर्थमुद्यता आविर्भूता ।",
+    "translation": {
+      "en": "The works of the gods are the slaying of Bhaṇḍāsura, Mahiṣāsura and the rest; for their sake she was udyatā, that is, she manifested.",
+      "hi": "देवताओं के कार्य हैं भण्डासुर, महिषासुर आदि का वध; उन्हीं के लिए वे उद्यत हुईं, अर्थात् प्रकट हुईं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 5 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
   "audio": { "chant": null, "slow": null },
-  "review": { "status": "draft", "notes": "Drafted with AI help. Check every layer against Bhāskararāya’s Saubhāgya Bhāskara and a printed edition before marking it reviewed." }
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya glosses udyatā as āvirbhūtā, ‘manifested’; the one-line meaning (in every language) stresses readiness instead, which fits the word but is not exactly his gloss. He reads this name as answering the doubt how the eternal can be born, quoting the Mārkaṇḍeya Purāṇa (the verse is in its Devī Māhātmya portion) and the Kūrma Purāṇa. The account of Bhaṇḍāsura’s origin from Kāma’s ashes is general Lalitopākhyāna context, not from his comment here. The last sentence of the inner layer is a reflection." }
 }

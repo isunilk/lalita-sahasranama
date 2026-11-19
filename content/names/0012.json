@@ -5,15 +5,15 @@
   "devanagari": "निजारुणप्रभापूरमज्जद्ब्रह्माण्डमण्डला",
   "iastSplit": "Nijāruṇa-prabhā-pūra-majjad-brahmāṇḍa-maṇḍalā",
   "archana": "ॐ निजारुणप्रभापूरमज्जद्ब्रह्माण्डमण्डलायै नमः",
-  "syllables": ["ni", "jā", "ru", "ṇa", "pra", "bhā", "pū", "ra", "maj", "jad", "brah", "māṇ", "ḍa", "maṇ", "ḍa", "lā"],
+  "syllables": ["ni", "jā", "ru", "ṇap", "ra", "bhā", "pū", "ra", "maj", "jad", "brah", "māṇ", "ḍa", "maṇ", "ḍa", "lā"],
   "words": [
-    { "sa": "निज", "meaning": { "en": "her own" } },
-    { "sa": "अरुण", "meaning": { "en": "rosy-red" } },
-    { "sa": "प्रभा", "meaning": { "en": "radiance" } },
-    { "sa": "पूर", "meaning": { "en": "flood" } },
-    { "sa": "मज्जत्", "meaning": { "en": "immersed" } },
-    { "sa": "ब्रह्माण्ड", "meaning": { "en": "the universe" } },
-    { "sa": "मण्डला", "meaning": { "en": "whole sphere" } }
+    { "sa": "निज", "meaning": { "en": "her own", "hi": "अपनी, निज" } },
+    { "sa": "अरुण", "meaning": { "en": "rosy-red", "hi": "अरुण, लाल" } },
+    { "sa": "प्रभा", "meaning": { "en": "radiance", "hi": "प्रभा, कान्ति" } },
+    { "sa": "पूर", "meaning": { "en": "flood", "hi": "प्रवाह, बाढ़" } },
+    { "sa": "मज्जत्", "meaning": { "en": "immersed, sinking", "hi": "डूबता हुआ, निमग्न" } },
+    { "sa": "ब्रह्माण्ड", "meaning": { "en": "the universe", "hi": "ब्रह्माण्ड" } },
+    { "sa": "मण्डला", "meaning": { "en": "sphere, orb", "hi": "मण्डल" } }
   ],
   "meaning": {
     "en": "Who bathes the universe in her own rosy-red radiance",
@@ -22,16 +22,29 @@
     "ta": "தன் செந்நிற ஒளிவெள்ளத்தில் அண்டம் முழுவதையும் மூழ்கச் செய்பவள்"
   },
   "explanation": {
-    "en": "Her own rosy-red light pours out like a flood until the whole universe is immersed in it. This completes the first picture of her form, which began with a thousand rising suns."
+    "en": "Her own rosy-red light pours out like a flood, and the spheres of the universes are immersed in it. Bhāskararāya speaks of them in the plural: every brahmāṇḍa, every world-system, sinks into that stream. This completes the first picture of her form, which began with a thousand rising suns.",
+    "hi": "उनकी अपनी अरुण आभा बाढ़ की तरह उमड़ती है, और ब्रह्माण्डों के मण्डल उसमें डूब जाते हैं। भास्करराय बहुवचन में कहते हैं: हर ब्रह्माण्ड, हर लोक-मण्डल उस प्रवाह में निमग्न है। सहस्र उगते सूर्यों से आरम्भ हुआ उनके रूप का पहला चित्र यहाँ पूरा होता है।"
   },
   "inner": {
-    "en": "Red, the colour of dawn and of love, is her own light, and it floods the whole universe. To see this is to see the world itself as her form, with nothing standing outside her."
+    "en": "Bhāskararāya adds that the worlds sunk in that flood shine as one with it, not apart from it. To see this is to see the world itself as her form, with nothing standing outside her. In reflection, the red that floods everything is the red of name 6, which the Tantra quoted there calls her vimarśa.",
+    "hi": "भास्करराय कहते हैं कि उस प्रवाह में डूबे लोक उससे अभिन्न होकर प्रकाशित होते हैं, उससे अलग नहीं। यह देखना संसार को ही उनका रूप देखना है, जिसमें कुछ भी उनसे बाहर नहीं। चिन्तन के रूप में: सब कुछ रंग देने वाली यह लालिमा नाम 6 की ही लालिमा है, जिसे वहाँ उद्धृत तन्त्र उनका विमर्श कहता है।"
   },
   "story": {
-    "en": "Names 6 to 12 describe her form at the moment she rises from the sacrificial fire."
+    "en": "Names 6 to 12 describe her form as she rose from the sacrificial fire. Bhāskararāya says she has here the very form prescribed for meditation at dawn in certain nyāsa rites, such as the Saubhāgya nyāsa. With the next verse the hymn begins to describe her from head to foot.",
+    "hi": "नाम 6 से 12 यज्ञ-अग्नि से प्रकट होते समय के उनके रूप का वर्णन करते हैं। भास्करराय कहते हैं कि यहाँ उनका वही रूप है जिसका ध्यान प्रातःकाल सौभाग्य आदि विशेष न्यासों में विहित है। अगले श्लोक से स्तोत्र सिर से चरणों तक उनका वर्णन आरम्भ करता है।"
   },
-  "commentary": null,
-  "sources": [],
+  "commentary": {
+    "sanskrit": "निजःस्वकीयो योऽरुणप्रभाया रक्तिमकान्तेः पूरः प्रवाहस्तस्मिन्मज्जन्ति तदभेदेन भासमानानि ब्रह्माण्डानां मण्डलानि यस्याः सा ।",
+    "translation": {
+      "en": "Nija means her own. She is the one in the pūra, the flood, of whose own aruṇa-prabhā, her red lustre, the spheres of the universes sink and shine as one with it.",
+      "hi": "‘निज’ अर्थात् अपना। जिनकी अपनी अरुण प्रभा, अर्थात् लालिमा भरी कान्ति, के पूर अर्थात् प्रवाह में ब्रह्माण्डों के मण्डल डूबे हुए हैं और उससे अभिन्न होकर प्रकाशित होते हैं, वे देवी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 12 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
   "audio": { "chant": null, "slow": null },
-  "review": { "status": "draft", "notes": "Drafted with AI help. Check every layer against Bhāskararāya’s Saubhāgya Bhāskara and a printed edition before marking it reviewed." }
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition prints the verse with a space (मज्जद् ब्रह्माण्डमण्डला); the master text joins it. Bhāskararāya reads brahmāṇḍa-maṇḍala in the plural (the spheres of the universes) and says they shine as not different from her light; he links the form to the dawn meditation in nyāsas such as Saubhāgya, which the page mentions without detail. The last sentence of the inner layer is a reflection. Syllables brought into line with the project convention (ṇap-ra)." }
 }

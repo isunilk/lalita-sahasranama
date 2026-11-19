@@ -5,11 +5,11 @@
   "devanagari": "पञ्चतन्मात्रसायका",
   "iastSplit": "Pañca-tanmātra-sāyakā",
   "archana": "ॐ पञ्चतन्मात्रसायकायै नमः",
-  "syllables": ["pañ", "ca", "tan", "mā", "tra", "sā", "ya", "kā"],
+  "syllables": ["pañ", "ca", "tan", "māt", "ra", "sā", "ya", "kā"],
   "words": [
-    { "sa": "पञ्च", "meaning": { "en": "five" } },
-    { "sa": "तन्मात्र", "meaning": { "en": "subtle elements" } },
-    { "sa": "सायक", "meaning": { "en": "arrows" } }
+    { "sa": "पञ्च", "meaning": { "en": "five", "hi": "पाँच" } },
+    { "sa": "तन्मात्र", "meaning": { "en": "subtle elements", "hi": "तन्मात्रा, सूक्ष्म तत्त्व" } },
+    { "sa": "सायक", "meaning": { "en": "arrows", "hi": "बाण" } }
   ],
   "meaning": {
     "en": "Whose five arrows are the subtle elements",
@@ -18,16 +18,29 @@
     "ta": "ஐந்து தன்மாத்திரைகளை அம்புகளாகக் கொண்டவள்"
   },
   "explanation": {
-    "en": "Her fourth emblem is five arrows: the five tanmātras, the subtle essences of sound, touch, form, taste and smell. Tradition pictures them as five flowers."
+    "en": "In her upper right hand she holds five arrows: the five tanmātras, the subtle essences of sound, touch, form, taste and smell. Bhāskararāya calls them the objects of the senses and the very form of the five elements, which arise from them.",
+    "hi": "उनके दाएँ ऊपरी हाथ में पाँच बाण हैं: पाँच तन्मात्राएँ, अर्थात् शब्द, स्पर्श, रूप, रस और गन्ध के सूक्ष्म सार। भास्करराय इन्हें इन्द्रियों के विषय और पंचमहाभूतों का मूल रूप कहते हैं, क्योंकि भूत इन्हीं से उत्पन्न होते हैं।"
   },
   "inner": {
-    "en": "Sound, touch, form, taste and smell are the subtle roots of all experience. Every experience that reaches us is her arrow; received as her gift, sensing itself becomes worship."
+    "en": "Bhāskararāya quotes the Kādimata: the arrows are threefold. In gross form they are five flowers, in subtle form they are mantras, and in supreme form they are vāsanā, inner disposition. In reflection, every experience that reaches us is one of her arrows; received as her gift, sensing itself becomes worship.",
+    "hi": "भास्करराय कादिमत उद्धृत करते हैं: बाण तीन प्रकार के हैं। स्थूल रूप में वे पाँच पुष्प हैं, सूक्ष्म रूप में मन्त्र, और पर रूप में वासना। चिन्तन के रूप में: हम तक पहुँचने वाला हर अनुभव उनका ही बाण है; उसे उनका प्रसाद मानकर ग्रहण करें, तो अनुभव करना ही उपासना बन जाता है।"
   },
   "story": {
-    "en": "Kāma, the god of desire, fights with a sugarcane bow and five flower-arrows. The Devī holds the same weapons: the power of desire, now in the hands of the Mother."
+    "en": "Kāma, the god of desire, fights with a sugarcane bow and five flower-arrows, and the Devī holds the same weapons. Bhāskararāya gives the arrows’ names from several texts; in the Kālikā Purāṇa they are Harṣaṇa, Rocana, Mohana, Śoṣaṇa and Māraṇa, arrows that bewilder even sages.",
+    "hi": "कामदेव ईख के धनुष और पाँच पुष्प-बाणों से युद्ध करते हैं, और देवी वही आयुध धारण करती हैं। भास्करराय अलग-अलग ग्रन्थों से बाणों के नाम देते हैं; कालिका पुराण में वे हर्षण, रोचन, मोहन, शोषण और मारण हैं, ऐसे बाण जो मुनियों को भी मोहित कर देते हैं।"
   },
-  "commentary": null,
-  "sources": [],
+  "commentary": {
+    "sanskrit": "एतानि तन्मात्राण्येव सायकाः बाणा यस्या दक्षोर्ध्वकरे सा तथोक्ता ।",
+    "translation": {
+      "en": "She in whose upper right hand these very tanmātras are the sāyakas, the arrows.",
+      "hi": "जिनके दाएँ ऊपरी हाथ में ये तन्मात्राएँ ही सायक अर्थात् बाण हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 11 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
   "audio": { "chant": null, "slow": null },
-  "review": { "status": "draft", "notes": "Drafted with AI help. Check every layer against Bhāskararāya’s Saubhāgya Bhāskara and a printed edition before marking it reviewed." }
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya glosses the tanmātras as sound and the rest, the objects of sense and the subtle form of the elements, and quotes the Mahāsvacchanda-saṅgraha, the Vāmakeśvara Tantra and the Kādimata. The Kādimata lines naming the five flowers are corrupt in this edition (कमलं तकैरवं रक्तं कह्लारेन्दीवरे … जेष शनै), so the page does not name the flowers. Besides the Kālikā Purāṇa names he gives two other lists, from the Jñānārṇava and the Tantrarāja. The last sentence of the inner layer is a reflection. Syllables brought into line with the project convention (māt-ra)." }
 }

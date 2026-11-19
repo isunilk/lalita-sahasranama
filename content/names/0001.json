@@ -40,8 +40,18 @@
     "te": "సహస్రనామమే ఒక కథలో భాగం. బ్రహ్మాండ పురాణంలో హయగ్రీవుడు దీన్ని అగస్త్య మహర్షికి ఉపదేశిస్తాడు; అమ్మవారి ఆజ్ఞతో ఎనిమిది మంది వాగ్దేవతలు దీన్ని రచించారని చెబుతాడు. వ్యాఖ్యాతలు మొదటి మూడు నామాలను ఆమె మూడు కృత్యాలుగా చదువుతారు: తల్లిగా సృష్టి, మహారాణిగా స్థితి, సింహాసనేశ్వరిగా లయం.",
     "ta": "ஸஹஸ்ரநாமமே ஒரு கதையின் பகுதி. பிரம்மாண்ட புராணத்தில் ஹயக்ரீவர் இதை அகஸ்திய முனிவருக்கு உபதேசிக்கிறார்; அம்பிகையின் ஆணைப்படி எட்டு வாக்தேவிகள் இதை இயற்றினர் என்றும் கூறுகிறார். உரையாசிரியர்கள் முதல் மூன்று நாமங்களையும் அவளின் மூன்று தொழில்களாகப் படிக்கின்றனர்: தாயாகப் படைத்தல், மகாராணியாகக் காத்தல், சிம்மாசனேஸ்வரியாக அழித்தல்."
   },
-  "commentary": null,
-  "sources": [],
+  "commentary": {
+    "sanskrit": "श्रियो लक्ष्म्या माता श्रीरिति गिरुपलक्षणं तद्वाचकमेव वा ।",
+    "translation": {
+      "en": "The mother of Śrī, that is, of Lakṣmī. The word śrī also stands for Gīr, Sarasvatī, or itself denotes her.",
+      "hi": "श्री अर्थात् लक्ष्मी की माता। यहाँ ‘श्री’ शब्द वाणी अर्थात् सरस्वती का भी उपलक्षण है, अथवा सीधे उन्हीं का वाचक है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 1 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
   "audio": { "chant": null, "slow": null },
-  "review": { "status": "draft", "notes": "Drafted with AI help. Check every layer against Bhāskararāya’s Saubhāgya Bhāskara and a printed edition before marking it reviewed." }
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s first gloss is ‘mother of Śrī (Lakṣmī)’, with śrī also standing for Gīr (Sarasvatī); he adds that she is therefore not Rudrāṇī, who is of their rank, but the one who brings forth all three, the queen of Paraśiva. He gives further readings (she who measures Śrī, that is, limitless liberation; she who makes the Vedas known to Brahmā) and says that in two of them the name is masculine, while the archana श्रीमात्रे stays the same. The inner layer’s ‘mother of Brahmā, Viṣṇu and Rudra’ is general tradition, not his gloss on this name, and its last sentence is a reflection; it was left as written because the Telugu and Tamil follow it. The story’s reading of names 1–3 as creation, sustenance and dissolution is his. He also gives a mantroddhāra reading, not set out here. English, Hindi, Telugu and Tamil text unchanged." }
 }

@@ -5,11 +5,11 @@
   "devanagari": "श्रीमत्सिंहासनेश्वरी",
   "iastSplit": "Śrīmat-siṃhāsaneśvarī",
   "archana": "ॐ श्रीमत्सिंहासनेश्वर्यै नमः",
-  "syllables": ["śrī", "mat", "siṃ", "hā", "sa", "ne", "śva", "rī"],
+  "syllables": ["śrī", "mat", "siṃ", "hā", "sa", "neś", "va", "rī"],
   "words": [
-    { "sa": "श्रीमत्", "meaning": { "en": "glorious" } },
-    { "sa": "सिंहासन", "meaning": { "en": "lion-throne" } },
-    { "sa": "ईश्वरी", "meaning": { "en": "sovereign queen" } }
+    { "sa": "श्रीमत्", "meaning": { "en": "glorious, rich in splendour", "hi": "श्रीसम्पन्न, ऐश्वर्यशाली" } },
+    { "sa": "सिंहासन", "meaning": { "en": "lion-throne, royal seat", "hi": "सिंहासन, राजा का आसन" } },
+    { "sa": "ईश्वरी", "meaning": { "en": "sovereign queen, ruler", "hi": "ईश्वरी, स्वामिनी" } }
   ],
   "meaning": {
     "en": "Queen seated on the glorious lion-throne",
@@ -24,16 +24,29 @@
     "or": "ଦିବ୍ୟ ସିଂହାସନରେ ବିରାଜମାନ ଈଶ୍ୱରୀ"
   },
   "explanation": {
-    "en": "She is the sovereign of the glorious lion-throne. A lion-throne is the seat of supreme royal power; to call her its sovereign is to say that no power stands above hers."
+    "en": "Siṃhāsana, the lion-throne, is the seat a king occupies; Bhāskararāya explains it as the lion, that is the best, among seats. This throne is śrīmat, rich with the glory of empire over the whole universe, and she is its īśvarī, the one who rules it. No power stands above hers.",
+    "hi": "सिंहासन वह आसन है जिस पर राजा विराजता है; भास्करराय इसे आसनों में ‘सिंह’ अर्थात् सबसे श्रेष्ठ आसन बताते हैं। यह सिंहासन श्रीमत् है, अर्थात् सम्पूर्ण प्रपञ्च के साम्राज्य के ऐश्वर्य से सम्पन्न, और वे उसकी ईश्वरी हैं, उस पर शासन करने वाली। उनकी शक्ति से ऊपर कोई शक्ति नहीं।"
   },
   "inner": {
-    "en": "The lion is an emblem of power that devours, so commentators read this name as her power of dissolution. Inwardly, what she dissolves is the false sense of a separate self."
+    "en": "Bhāskararāya also reads the name through its roots. Grammarians derive siṃha, lion, from the root hiṃs, to strike, with its sounds transposed, and āsana here comes from the root as, to cast away; siṃhāsana then means casting away by destruction, that is, dissolution, and she is the īśvarī, the one able to bring it about. In reflection, what she dissolves within is the false sense of a separate self.",
+    "hi": "भास्करराय धातुओं के आधार पर भी इस नाम को पढ़ते हैं। वैयाकरण ‘सिंह’ शब्द को वर्णों के उलट-फेर से ‘हिंस्’ (हिंसा करना) धातु से निकालते हैं, और ‘आसन’ यहाँ ‘अस्’ (फेंकना) धातु से बनता है; तब सिंहासन का अर्थ हुआ हिंसा द्वारा दूर फेंकना, अर्थात् संहार, और वे उसकी ईश्वरी हैं, उसे करने में समर्थ। चिन्तन के रूप में: भीतर वे जिसका संहार करती हैं, वह है अलग ‘मैं’ होने का मिथ्या भाव।"
   },
   "story": {
-    "en": "Commentators read the first three names together as her three cosmic acts: as Mother she creates, as Empress she sustains, and as Queen of the lion-throne she dissolves. This third name is the power that dissolves."
+    "en": "He also takes siṃhāsana as a seat that is itself a lion, since the Devī rides one, and quotes the Devī Purāṇa: as a maiden she mounted a lion and slew Mahiṣa, and so she is called Mahiṣaghnī and Siṃhāsaneśvarī. With this name the three acts are complete: as Mother she creates, as Empress she sustains, as Queen of the lion-throne she dissolves. He further links the name with the five thrones of the Jñānārṇava Tantra, groups of mantras that are learned from a teacher and are not given here.",
+    "hi": "वे सिंहासन को ऐसा आसन भी मानते हैं जो स्वयं सिंह है, क्योंकि देवी सिंह पर आरूढ़ होती हैं, और देवी पुराण उद्धृत करते हैं: कन्या रूप में सिंह पर चढ़कर उन्होंने महिष का वध किया, इसलिए वे महिषघ्नी और सिंहासनेश्वरी कहलाती हैं। इस नाम के साथ तीनों कार्य पूरे होते हैं: माता के रूप में वे सृष्टि करती हैं, महारानी के रूप में पालन, और सिंहासनेश्वरी के रूप में संहार। वे इस नाम को ज्ञानार्णव तन्त्र के पाँच सिंहासनों से भी जोड़ते हैं, जो मन्त्रों के समूह हैं; वे गुरु से सीखे जाते हैं और यहाँ नहीं दिए गए।"
   },
-  "commentary": null,
-  "sources": [],
+  "commentary": {
+    "sanskrit": "श्रीमत्प्रपञ्चसाम्राज्यलक्ष्मीवच्च तत्सिंहासनं च तस्येश्वरी ईशित्री ।",
+    "translation": {
+      "en": "It is śrīmat, rich with the royal fortune of empire over the universe, and it is the lion-throne; she is its īśvarī, the one who rules it.",
+      "hi": "वह श्रीमत् है, अर्थात् सम्पूर्ण प्रपञ्च के साम्राज्य की लक्ष्मी से सम्पन्न, और वही सिंहासन है; वे उसकी ईश्वरी, अर्थात् उस पर शासन करने वाली हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 3 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
   "audio": { "chant": null, "slow": null },
-  "review": { "status": "draft", "notes": "Drafted with AI help. Check every layer against Bhāskararāya’s Saubhāgya Bhāskara and a printed edition before marking it reviewed." }
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives three readings: the best of seats, rich with the fortune of empire over the universe; a seat that is a lion (Devī Purāṇa, chapter on the meanings of names, the slaying of Mahiṣa); and, deriving siṃha from hiṃs by transposition and āsana from as ‘to cast’, dissolution, supported by the śruti ‘into which they pass and enter’. He also links the name to the five siṃhāsanas of the Jñānārṇava (eight Bhairavī mantras), deliberately not set out. The last sentence of the inner layer is a reflection. Syllables brought into line with the project convention (neś-va)." }
 }

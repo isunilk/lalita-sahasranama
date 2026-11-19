@@ -7,9 +7,9 @@
   "archana": "ॐ श्रीमहाराज्ञ्यै नमः",
   "syllables": ["śrī", "ma", "hā", "rāj", "ñī"],
   "words": [
-    { "sa": "श्री", "meaning": { "en": "sacred, glorious" } },
-    { "sa": "महा", "meaning": { "en": "great" } },
-    { "sa": "राज्ञी", "meaning": { "en": "queen, empress" } }
+    { "sa": "श्री", "meaning": { "en": "glorious, endowed with Śrī", "hi": "श्रीयुक्त, मंगलमय" } },
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "राज्ञी", "meaning": { "en": "queen, empress", "hi": "रानी, साम्राज्ञी" } }
   ],
   "meaning": {
     "en": "The great Empress of the universe",
@@ -24,16 +24,29 @@
     "or": "ସମଗ୍ର ବ୍ରହ୍ମାଣ୍ଡର ମହାରାଣୀ"
   },
   "explanation": {
-    "en": "Mahārājñī means a great queen, an empress. Having called her Mother, the hymn now calls her Ruler: she cares for the universe as a mother and governs it as an empress."
+    "en": "Mahārājñī means a great queen, an empress. Having called her Mother, the hymn now calls her Ruler: she who gives birth to the world also governs and protects it. Bhāskararāya explains the form: rājñī is the feminine of rājan, king, joined with mahat, great; made from mahārāja it would have been mahārājī.",
+    "hi": "महाराज्ञी का अर्थ है महान रानी, साम्राज्ञी। उन्हें माता कहने के बाद स्तोत्र अब उन्हें शासिका कहता है: जो संसार को जन्म देती हैं, वही उसका शासन और पालन भी करती हैं। भास्करराय शब्द का रूप भी समझाते हैं: ‘राजन्’ अर्थात् राजा का स्त्रीलिंग ‘राज्ञी’ है, जो ‘महत्’ से जुड़कर ‘महाराज्ञी’ बनता है; ‘महाराज’ से बनता तो रूप ‘महाराजी’ होता।"
   },
   "inner": {
-    "en": "As Empress she holds the whole cosmic order together. Read inwardly, she is the one awareness that rules every faculty in us; senses, mind and breath all work under her command."
+    "en": "Bhāskararāya gives the meaning plainly: she is charged with protecting the whole manifest world, for protection is part of what kingship means. He supports it with the Upaniṣadic phrase ‘that by which all born things live’. In reflection, the same holds within: every power that keeps us alive works under her care.",
+    "hi": "भास्करराय अर्थ सीधे शब्दों में देते हैं: वे सम्पूर्ण प्रपञ्च के पालन की अधिकारिणी हैं, क्योंकि राजत्व के अर्थ में ही पालन सम्मिलित है। इसके समर्थन में वे उपनिषद् का वचन उद्धृत करते हैं: ‘जिससे उत्पन्न प्राणी जीवित रहते हैं’। चिन्तन के रूप में: भीतर भी यही बात है; हमें जीवित रखने वाली हर शक्ति उन्हीं के संरक्षण में काम करती है।"
   },
   "story": {
-    "en": "Commentators read the first three names together as her three cosmic acts: as Mother she creates, as Empress she sustains, and as Queen of the lion-throne she dissolves. This second name is the power that sustains."
+    "en": "Bhāskararāya says that with names 1 to 3 the hymn defines Brahman as the maker of creation, sustenance and dissolution, and for each name he cites one phrase of the same sentence of the Taittirīya Upaniṣad: that from which beings are born, by which they live, into which they pass and enter. This second name is the power that sustains. He also reads it as pointing to syllables hidden in the Śrīvidyā mantra, a reading that belongs to the teacher and is not given here.",
+    "hi": "भास्करराय कहते हैं कि नाम 1 से 3 के द्वारा स्तोत्र ब्रह्म को सृष्टि, स्थिति और लय के कर्ता के रूप में बताता है, और हर नाम के लिए वे तैत्तिरीय उपनिषद् के एक ही वाक्य का एक अंश उद्धृत करते हैं: जिससे प्राणी उत्पन्न होते हैं, जिससे वे जीते हैं, और जिसमें वे जाकर लीन हो जाते हैं। यह दूसरा नाम पालन करने वाली शक्ति है। वे इस नाम में श्रीविद्या मन्त्र के गूढ़ अक्षरों का संकेत भी पढ़ते हैं; वह अर्थ गुरु-परम्परा का विषय है और यहाँ नहीं दिया गया।"
   },
-  "commentary": null,
-  "sources": [],
+  "commentary": {
+    "sanskrit": "सकलप्रपञ्चजातपालनेऽधिकृतेत्यर्थः । राजशब्दशक्यतावच्छेदकनृपत्वकोटौ पालनस्य निविष्टत्वात् ।",
+    "translation": {
+      "en": "The meaning is: she who is charged with protecting all that exists in the manifest world. For protection is contained in kingship, which is what the word rājan denotes.",
+      "hi": "अर्थ यह है कि वे सम्पूर्ण प्रपञ्च में उत्पन्न हर वस्तु के पालन की अधिकारिणी हैं; क्योंकि ‘राजन्’ शब्द जिस राजत्व को बताता है, उसमें पालन सम्मिलित है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 2 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
   "audio": { "chant": null, "slow": null },
-  "review": { "status": "draft", "notes": "Drafted with AI help. Check every layer against Bhāskararāya’s Saubhāgya Bhāskara and a printed edition before marking it reviewed." }
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya analyses the form as rājan + ṅīp = rājñī, then compounded with mahat, and reads śrī as ‘endowed with Śrī’ (श्रीयुक्ता महाराज्ञी, with the middle word dropped); he rejects derivation from mahārāja, which would give mahārājī. The identification of the three phrases he cites under names 1–3 as one sentence of the Taittirīya Upaniṣad (3.1) is mine; he cites them only as śruti. He also gives a mantroddhāra reading (hidden syllables of Śrīvidyā and the Māyā-rājñī mantra), deliberately not set out. The last sentence of the inner layer is a reflection." }
 }

@@ -7,10 +7,10 @@
   "archana": "ॐ मनोरूपेक्षुकोदण्डायै नमः",
   "syllables": ["ma", "no", "rū", "pek", "ṣu", "ko", "daṇ", "ḍā"],
   "words": [
-    { "sa": "मनस्", "meaning": { "en": "mind" } },
-    { "sa": "रूप", "meaning": { "en": "form" } },
-    { "sa": "इक्षु", "meaning": { "en": "sugarcane" } },
-    { "sa": "कोदण्ड", "meaning": { "en": "bow" } }
+    { "sa": "मनस्", "meaning": { "en": "mind", "hi": "मन" } },
+    { "sa": "रूप", "meaning": { "en": "form", "hi": "रूप" } },
+    { "sa": "इक्षु", "meaning": { "en": "sugarcane", "hi": "ईख, गन्ना" } },
+    { "sa": "कोदण्ड", "meaning": { "en": "bow", "hi": "धनुष" } }
   ],
   "meaning": {
     "en": "Whose sugarcane bow is the mind",
@@ -19,16 +19,29 @@
     "ta": "மனமாகிய கரும்பு வில்லை ஏந்தியவள்"
   },
   "explanation": {
-    "en": "Her third emblem is a bow made of sugarcane. The name says this bow is the mind (manas)."
+    "en": "In her upper left hand she holds a bow made of sugarcane. The name says this bow is the mind (manas), which Bhāskararāya describes as an activity made of saṅkalpa and vikalpa, resolving and doubting.",
+    "hi": "उनके बाएँ ऊपरी हाथ में ईख से बना धनुष है। नाम बताता है कि यह धनुष मन है, जिसे भास्करराय संकल्प-विकल्पात्मक क्रिया, अर्थात् निश्चय और संशय करती रहने वाली क्रिया, कहते हैं।"
   },
   "inner": {
-    "en": "The mind is made of sugarcane because it always seeks sweetness. From this bow the senses fly toward their objects; in her hands that longing for sweetness is drawn toward the Divine."
+    "en": "He quotes the Vāmakeśvara Tantra: sound, touch and the rest are her arrows, and the mind became her bow. The mind is the bow, and the arrows it sends are sound, touch, form, taste and smell, the whole of what we experience. In reflection, the bow is sugarcane because the mind always seeks sweetness; in her hands that longing is drawn toward the Divine.",
+    "hi": "वे वामकेश्वर तन्त्र उद्धृत करते हैं: शब्द, स्पर्श आदि उनके बाण हैं, और मन उनका धनुष बना। मन धनुष है, और उससे छूटने वाले बाण हैं शब्द, स्पर्श, रूप, रस और गन्ध, अर्थात् हमारा सारा अनुभव। चिन्तन के रूप में: धनुष ईख का है क्योंकि मन सदा मिठास खोजता है; उनके हाथों में वही चाह परमात्मा की ओर मुड़ जाती है।"
   },
   "story": {
-    "en": "Kāma, the god of desire, fights with a sugarcane bow and five flower-arrows. The Devī holds the same weapons: the power of desire, now in the hands of the Mother."
+    "en": "Kāma, the god of desire, fights with a sugarcane bow and five flower-arrows, and the Devī holds the same weapons: the power of desire, now in the hands of the Mother. Bhāskararāya specifies the bow as made of puṇḍra, a particular kind of sugarcane, and the Uttara-catuḥśatī he quotes calls bow and arrows her power of action.",
+    "hi": "कामदेव ईख के धनुष और पाँच पुष्प-बाणों से युद्ध करते हैं, और देवी वही आयुध धारण करती हैं: कामना की शक्ति, अब माँ के हाथों में। भास्करराय बताते हैं कि यह धनुष पुण्ड्र जाति के गन्ने का है, और उनके द्वारा उद्धृत उत्तरचतुःशती धनुष-बाण को उनकी क्रियाशक्ति कहती है।"
   },
-  "commentary": null,
-  "sources": [],
+  "commentary": {
+    "sanskrit": "संकल्पविकल्पात्मकक्रियारूपं मन एव रूपं यस्य तादृशमिक्षुरूपं पुण्ड्रेक्षुमयं कोदण्डं धनुर्यस्या वामोर्ध्वकरे सा तथोक्ता ।",
+    "translation": {
+      "en": "She in whose upper left hand is a kodaṇḍa, a bow, of sugarcane, made of puṇḍra cane, whose very form is the mind, the activity of resolving and doubting.",
+      "hi": "जिनके बाएँ ऊपरी हाथ में ईख का, पुण्ड्र जाति के गन्ने से बना, कोदण्ड अर्थात् धनुष है, जिसका रूप स्वयं मन है; और मन संकल्प-विकल्पात्मक क्रिया है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 10 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
   "audio": { "chant": null, "slow": null },
-  "review": { "status": "draft", "notes": "Drafted with AI help. Check every layer against Bhāskararāya’s Saubhāgya Bhāskara and a printed edition before marking it reviewed." }
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya describes the mind as kriyā of the nature of saṅkalpa and vikalpa and the bow as made of puṇḍra sugarcane, held in the upper left hand; he quotes the Vāmakeśvara Tantra. The sugarcane-and-sweetness image in the inner layer is a reflection, not his. The Kāma parallel in the story is general iconography." }
 }

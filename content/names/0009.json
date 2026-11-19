@@ -7,10 +7,10 @@
   "archana": "ॐ क्रोधाकाराङ्कुशोज्ज्वलायै नमः",
   "syllables": ["kro", "dhā", "kā", "rāṅ", "ku", "śoj", "jva", "lā"],
   "words": [
-    { "sa": "क्रोध", "meaning": { "en": "anger" } },
-    { "sa": "आकार", "meaning": { "en": "form, shape" } },
-    { "sa": "अङ्कुश", "meaning": { "en": "goad" } },
-    { "sa": "उज्ज्वला", "meaning": { "en": "shining" } }
+    { "sa": "क्रोध", "meaning": { "en": "anger", "hi": "क्रोध" } },
+    { "sa": "आकार", "meaning": { "en": "form, shape; Bhāskararāya also reads it as knowledge of an object", "hi": "आकार, रूप; भास्करराय इसे विषय का ज्ञान भी मानते हैं" } },
+    { "sa": "अङ्कुश", "meaning": { "en": "goad", "hi": "अंकुश" } },
+    { "sa": "उज्ज्वला", "meaning": { "en": "shining", "hi": "उज्ज्वल, दीप्तिमती" } }
   ],
   "meaning": {
     "en": "Shining with the goad that is anger itself",
@@ -19,16 +19,29 @@
     "ta": "கோப வடிவான அங்குசத்தால் ஒளிர்பவள்"
   },
   "explanation": {
-    "en": "In another hand she holds an aṅkuśa, the goad used to guide an elephant, and it shines. The name says this goad is krodha, anger."
+    "en": "In her lower right hand she holds an aṅkuśa, the goad used to guide an elephant, and it shines. The name says this goad is krodha, anger, which Bhāskararāya explains as dveṣa, aversion, a movement of the mind.",
+    "hi": "उनके दाएँ निचले हाथ में अंकुश है, वही अंकुश जिससे हाथी को चलाया जाता है, और वह दमक रहा है। नाम बताता है कि यह अंकुश क्रोध है, जिसे भास्करराय द्वेष नाम की चित्त-वृत्ति बताते हैं।"
   },
   "inner": {
-    "en": "The goad is anger, the force that drives and restrains. Held by her, anger becomes discipline turned against our own faults, steering the mind back to the path."
+    "en": "Bhāskararāya reads ākāra here not simply as ‘form’ but as knowledge that has an object, as in the thought ‘this is a pot’. The goad is then both aversion and knowledge: two of the Tantras he quotes call it aversion, and the Uttara-catuḥśatī calls it knowledge. He rejects the view that krodha itself means knowledge, since the śruti says plainly that anger is the goad. In reflection, in her hand the force that pushes things away becomes the discernment that steers the mind.",
+    "hi": "भास्करराय यहाँ ‘आकार’ को केवल ‘रूप’ नहीं, बल्कि विषय सहित ज्ञान के अर्थ में लेते हैं, जैसे ‘यह घड़ा है’ वाला ज्ञान। तब अंकुश द्वेष और ज्ञान, दोनों है: उनके उद्धृत दो तन्त्र उसे द्वेष कहते हैं, और उत्तरचतुःशती उसे ज्ञान। ‘क्रोध’ शब्द का ही अर्थ ज्ञान है, इस मत को वे अस्वीकार करते हैं, क्योंकि श्रुति स्पष्ट कहती है कि क्रोध ही अंकुश है। चिन्तन के रूप में: उनके हाथ में वह शक्ति जो वस्तुओं को दूर धकेलती है, विवेक बनकर मन को सही मार्ग पर चलाती है।"
   },
   "story": {
-    "en": "Names 8 to 11 describe her four emblems: noose, goad, sugarcane bow and flower-arrows. This is the form in which she is worshipped in Śrīvidyā."
+    "en": "Names 8 to 11 describe her four emblems: noose, goad, sugarcane bow and flower-arrows. In the Uttara-catuḥśatī, which Bhāskararāya quotes, the noose is her power of will, the goad is knowledge, and the bow and arrows are her power of action.",
+    "hi": "नाम 8 से 11 उनके चार आयुधों का वर्णन करते हैं: पाश, अंकुश, ईख का धनुष और पुष्प-बाण। भास्करराय द्वारा उद्धृत उत्तरचतुःशती में पाश उनकी इच्छाशक्ति है, अंकुश ज्ञान है, और धनुष-बाण उनकी क्रियाशक्ति।"
   },
-  "commentary": null,
-  "sources": [],
+  "commentary": {
+    "sanskrit": "तस्मात् द्वेषज्ञानोभयात्मकेनाङ्कुशेनोज्ज्वला शोभमानदक्षाधःकरा ।",
+    "translation": {
+      "en": "Therefore: shining with the goad whose nature is both aversion and knowledge, her lower right hand resplendent with it.",
+      "hi": "अतः: द्वेष और ज्ञान, दोनों से बने अंकुश से उज्ज्वल; उनका दाहिना निचला हाथ उससे शोभित है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 9 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
   "audio": { "chant": null, "slow": null },
-  "review": { "status": "draft", "notes": "Drafted with AI help. Check every layer against Bhāskararāya’s Saubhāgya Bhāskara and a printed edition before marking it reviewed." }
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya derives ākāra (with the affix ac) as ‘knowledge with an object’ and makes the goad both aversion and knowledge; he rejects a view that krodha itself means knowledge, citing a śruti ‘krodho ’ṅkuśaḥ’ whose source he does not name. The word meaning for आकार now gives his reading beside the plain one. The last sentence of the inner layer is a reflection." }
 }
