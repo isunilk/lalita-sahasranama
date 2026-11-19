@@ -1,0 +1,13 @@
+---
+import NameView from '../../views/NameView.astro';
+import { loadSite } from '../../lib/data.js';
+import { nameSlug } from '../../lib/site.mjs';
+
+export async function getStaticPaths() {
+  const site = await loadSite();
+  return site.names.map((n) => ({ params: { slug: nameSlug(n) }, props: { name: n } }));
+}
+
+const { name } = Astro.props;
+---
+<NameView lang="en" name={name} />

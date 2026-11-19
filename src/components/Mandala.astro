@@ -1,0 +1,24 @@
+---
+// Lotus mandala inspired by the Śrī Chakra: outer gates, two lotus rings, triangle and bindu.
+const outer = [11.25, 33.75, 56.25, 78.75, 101.25, 123.75, 146.25, 168.75, 191.25, 213.75, 236.25, 258.75, 281.25, 303.75, 326.25, 348.75];
+const inner = [0, 45, 90, 135, 180, 225, 270, 315];
+---
+<svg viewBox="0 0 400 400" aria-hidden="true">
+  <g fill="none" stroke="#E9BE5C" stroke-width="1.4">
+    <path d="M30 30H170V12H230V30H370V170H388V230H370V370H230V388H170V370H30V230H12V170H30Z" />
+    <path d="M38 38H178V20H222V38H362V178H380V222H362V362H222V380H178V362H38V222H20V178H38Z" opacity="0.7" />
+    <path d="M46 46H186V28H214V46H354V186H372V214H354V354H214V372H186V354H46V214H28V186H46Z" opacity="0.45" />
+    <circle cx="200" cy="200" r="152" />
+    <circle cx="200" cy="200" r="146" opacity="0.55" />
+    <circle cx="200" cy="200" r="106" />
+    <circle cx="200" cy="200" r="70" />
+  </g>
+  <g fill="#E9BE5C" fill-opacity="0.12" stroke="#E9BE5C" stroke-width="1.4" stroke-linejoin="round">
+    {outer.map((a) => <path d="M179.3 96Q177 72 200 62Q223 72 220.7 96Z" transform={`rotate(${a} 200 200)`} />)}
+  </g>
+  <g fill="#E9BE5C" fill-opacity="0.2" stroke="#E9BE5C" stroke-width="1.4" stroke-linejoin="round">
+    {inner.map((a) => <path d="M173.2 135.3Q169 110 200 96Q231 110 226.8 135.3Z" transform={`rotate(${a} 200 200)`} />)}
+  </g>
+  <path d="M162 178H238L200 244Z" fill="none" stroke="#E9BE5C" stroke-width="1.8" stroke-linejoin="round" />
+  <circle cx="200" cy="200" r="5" fill="#E9BE5C" />
+</svg>

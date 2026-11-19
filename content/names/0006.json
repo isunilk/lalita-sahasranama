@@ -1,0 +1,34 @@
+{
+  "number": 6,
+  "verse": 2,
+  "slug": "udyad-bhanu-sahasrabha",
+  "devanagari": "उद्यद्भानुसहस्राभा",
+  "iastSplit": "Udyad-bhānu-sahasrābhā",
+  "archana": "ॐ उद्यद्भानुसहस्राभायै नमः",
+  "syllables": ["ud", "yad", "bhā", "nu", "sa", "has", "rā", "bhā"],
+  "words": [
+    { "sa": "उद्यत्", "meaning": { "en": "rising" } },
+    { "sa": "भानु", "meaning": { "en": "sun" } },
+    { "sa": "सहस्र", "meaning": { "en": "a thousand" } },
+    { "sa": "आभा", "meaning": { "en": "radiance" } }
+  ],
+  "meaning": {
+    "en": "Radiant as a thousand rising suns",
+    "hi": "हज़ार उगते सूर्यों के समान तेजस्विनी",
+    "te": "ఉదయించే వేయి సూర్యుల కాంతి గల తల్లి",
+    "ta": "உதிக்கும் ஆயிரம் சூரியர்களின் ஒளி கொண்டவள்"
+  },
+  "explanation": {
+    "en": "Her first appearance is described as light: the radiance of a thousand suns rising together. The rising sun is red-gold, the colour in which she is always visualised."
+  },
+  "inner": {
+    "en": "The light described is dawn, not noon: warm, red and rising. It is the moment knowledge dawns in the heart and the darkness of ignorance gives way all at once, as night does before a thousand suns."
+  },
+  "story": {
+    "en": "Names 6 to 12 describe her form at the moment she rises from the sacrificial fire."
+  },
+  "commentary": null,
+  "sources": [],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted with AI help. Check every layer against Bhāskararāya’s Saubhāgya Bhāskara and a printed edition before marking it reviewed." }
+}

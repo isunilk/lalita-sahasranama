@@ -1,0 +1,39 @@
+{
+  "number": 2,
+  "verse": 1,
+  "slug": "sri-maharajni",
+  "devanagari": "श्रीमहाराज्ञी",
+  "iastSplit": "Śrī-mahā-rājñī",
+  "archana": "ॐ श्रीमहाराज्ञ्यै नमः",
+  "syllables": ["śrī", "ma", "hā", "rāj", "ñī"],
+  "words": [
+    { "sa": "श्री", "meaning": { "en": "sacred, glorious" } },
+    { "sa": "महा", "meaning": { "en": "great" } },
+    { "sa": "राज्ञी", "meaning": { "en": "queen, empress" } }
+  ],
+  "meaning": {
+    "en": "The great Empress of the universe",
+    "hi": "समस्त ब्रह्माण्ड की महारानी",
+    "mr": "संपूर्ण ब्रह्मांडाची महाराणी",
+    "te": "సమస్త బ్రహ్మాండానికి మహారాణి",
+    "ta": "அகிலத்தின் மகாராணி",
+    "kn": "ಸಮಸ್ತ ಬ್ರಹ್ಮಾಂಡದ ಮಹಾರಾಣಿ",
+    "ml": "പ്രപഞ്ചത്തിന്റെ മഹാറാണി",
+    "bn": "সমগ্র ব্রহ্মাণ্ডের মহারানী",
+    "gu": "સમગ્ર બ્રહ્માંડની મહારાણી",
+    "or": "ସମଗ୍ର ବ୍ରହ୍ମାଣ୍ଡର ମହାରାଣୀ"
+  },
+  "explanation": {
+    "en": "Mahārājñī means a great queen, an empress. Having called her Mother, the hymn now calls her Ruler: she cares for the universe as a mother and governs it as an empress."
+  },
+  "inner": {
+    "en": "As Empress she holds the whole cosmic order together. Read inwardly, she is the one awareness that rules every faculty in us; senses, mind and breath all work under her command."
+  },
+  "story": {
+    "en": "Commentators read the first three names together as her three cosmic acts: as Mother she creates, as Empress she sustains, and as Queen of the lion-throne she dissolves. This second name is the power that sustains."
+  },
+  "commentary": null,
+  "sources": [],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted with AI help. Check every layer against Bhāskararāya’s Saubhāgya Bhāskara and a printed edition before marking it reviewed." }
+}

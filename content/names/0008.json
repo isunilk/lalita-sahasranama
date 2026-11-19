@@ -1,0 +1,34 @@
+{
+  "number": 8,
+  "verse": 2,
+  "slug": "raga-svarupa-pashadhya",
+  "devanagari": "रागस्वरूपपाशाढ्या",
+  "iastSplit": "Rāga-svarūpa-pāśāḍhyā",
+  "archana": "ॐ रागस्वरूपपाशाढ्यायै नमः",
+  "syllables": ["rā", "ga", "sva", "rū", "pa", "pā", "śā", "ḍhyā"],
+  "words": [
+    { "sa": "राग", "meaning": { "en": "desire, attachment" } },
+    { "sa": "स्वरूप", "meaning": { "en": "the very form of" } },
+    { "sa": "पाश", "meaning": { "en": "noose" } },
+    { "sa": "आढ्या", "meaning": { "en": "holding, rich in" } }
+  ],
+  "meaning": {
+    "en": "Holding the noose that is desire itself",
+    "hi": "राग रूपी पाश धारण करने वाली",
+    "te": "రాగమనే పాశాన్ని ధరించిన తల్లి",
+    "ta": "ஆசை வடிவான பாசத்தை ஏந்தியவள்"
+  },
+  "explanation": {
+    "en": "In one hand she holds a pāśa, a noose. The name says what the noose is made of: rāga, desire and attachment, the force that binds."
+  },
+  "inner": {
+    "en": "The noose is attachment, the rope that binds every being to the world. In her hand the same rope becomes the bond of love that draws the devotee to her."
+  },
+  "story": {
+    "en": "Names 8 to 11 describe her four emblems: noose, goad, sugarcane bow and flower-arrows. This is the form in which she is worshipped in Śrīvidyā."
+  },
+  "commentary": null,
+  "sources": [],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted with AI help. Check every layer against Bhāskararāya’s Saubhāgya Bhāskara and a printed edition before marking it reviewed." }
+}

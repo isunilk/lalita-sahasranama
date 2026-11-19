@@ -1,0 +1,19 @@
+---
+import { t } from '../i18n/ui.mjs';
+import { SITE, homeUrl, namesUrl } from '../lib/site.mjs';
+
+const { lang } = Astro.props;
+const home = homeUrl(lang);
+---
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <p class="footer-blessing" lang="sa-Deva">॥ श्री मात्रे नमः ॥</p>
+    <nav class="footer-nav" aria-label="Footer">
+      <a href={namesUrl(lang)}>{t(lang, 'nav_names')}</a>
+      <a href={`${home}#listen`}>{t(lang, 'nav_listen')}</a>
+      <a href={`${home}#read-in`}>{t(lang, 'footer_languages')}</a>
+      <a href={`${home}#about`}>{t(lang, 'nav_about')}</a>
+    </nav>
+    <p class="footer-domain">{SITE.domain}</p>
+  </div>
+</footer>

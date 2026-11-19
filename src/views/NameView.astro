@@ -1,0 +1,229 @@
+---
+// One page per name: meaning, word by word, explanation, inner meaning, story and commentary, audio.
+import Base from '../layouts/Base.astro';
+import Mandala from '../components/Mandala.astro';
+import LangChips from '../components/LangChips.astro';
+import TempleBorder from '../components/TempleBorder.astro';
+import PlayButton from '../components/PlayButton.astro';
+import Icon from '../components/Icon.astro';
+import { loadSite } from '../lib/data.js';
+import { t } from '../i18n/ui.mjs';
+import { SITE, SCRIPT_TAG, getLang, homeUrl, nameUrl } from '../lib/site.mjs';
+import { scr, txt, heads, perLang, HEADS, displayScript, chipModel, nameAlternates, bestNameUrl, bestVerseUrl, nameSizeClass, LABELS } from '../lib/pagedata.js';
+
+const { lang, name: n } = Astro.props;
+const sc = getLang(lang).script;
+const isEn = lang === 'en';
+const disp = displayScript(lang);
+const site = await loadSite();
+const idx = site.names.findIndex((x) => x.number === n.number);
+const prev = site.names[idx - 1] || null;
+const next = site.names[idx + 1] || null;
+const verse = site.verses.find((v) => v.number === n.verse) || null;
+
+const pick = (m) => (m && m[lang] ? { t: m[lang], l: lang } : { t: m.en, l: 'en' });
+const meaning = pick(n.meaning);
+const explanation = pick(n.explanation);
+const inner = pick(n.inner);
+const story = pick(n.story);
+const compoundFor = (script) => n.w.map((w) => w.s[script]).join(' + ') + ' = ' + n.s[script];
+
+const strings = {
+  name: scr(n.s),
+  archana: scr(n.a, { enIast: true }),
+  archana2: scr(n.a, { enIast: true }),
+  meaning: txt(n.meaning),
+  explanation: txt(n.explanation),
+  inner: txt(n.inner),
+  story: txt(n.story),
+  'h.pada': heads(HEADS.pada),
+  'h.bhava': heads(HEADS.bhava),
+  'h.rahasya': heads(HEADS.rahasya),
+  'h.katha': heads(HEADS.katha),
+  'h.shravana': heads(HEADS.shravana),
+  compound: perLang((l) => {
+    const s = l.code === 'en' ? 'iast' : l.script;
+    return [compoundFor(s), SCRIPT_TAG[s], 0];
+  }),
+};
+n.w.forEach((w, i) => {
+  strings[`w${i}.sa`] = scr(w.s);
+  strings[`w${i}.m`] = txt(w.meaning);
+});
+if (verse) for (const x of verse.names) strings[`vn${x.number}`] = scr(x.s);
+if (n.commentary) strings['commentary'] = txt(n.commentary.translation);
+
+const alternates = nameAlternates(n);
+const { chips, inPage } = chipModel(lang, alternates);
+const pageData = { lang, labels: LABELS, inPage, strings };
+const [fbBefore, fbAfter] = t(lang, 'fallback_note').split('{lang}');
+const path = nameUrl(n, lang);
+const title = t(lang, 'meta_name_title', { ascii: n.asciiName, iast: n.s.iast, n: n.number, dev: n.devanagari });
+const description = t(lang, 'meta_name_desc', { iast: n.s.iast, meaning: meaning.t, n: n.number, dev: n.devanagari });
+const verseHref = verse ? bestVerseUrl(verse, lang) : homeUrl(lang);
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: t(lang, 'home'), item: new URL(homeUrl(lang), SITE.origin).href },
+    { '@type': 'ListItem', position: 2, name: t(lang, 'verse_n', { n: n.verse }), item: new URL(verseHref, SITE.origin).href },
+    { '@type': 'ListItem', position: 3, name: `${t(lang, 'name_n', { n: n.number })} · ${n.s.iast}`, item: new URL(path, SITE.origin).href },
+  ],
+};
+const headTag = SCRIPT_TAG[disp];
+const archanaShown = isEn ? n.a.iast : n.a[sc];
+const archanaTag = isEn ? 'sa-Latn' : SCRIPT_TAG[sc];
+---
+<Base lang={lang} title={title} description={description} path={path} alternates={alternates} pageData={pageData} jsonLd={jsonLd}>
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <ol>
+      <li><a href={homeUrl(lang)}>{t(lang, 'home')}</a></li>
+      <li aria-hidden="true">›</li>
+      <li><a href={verseHref}>{t(lang, 'verse_n', { n: n.verse })}</a></li>
+      <li aria-hidden="true">›</li>
+      <li aria-current="page">{t(lang, 'name_n', { n: n.number })} · {n.s.iast}</li>
+    </ol>
+  </nav>
+
+  <section class="hero on-accent" aria-labelledby="name-title">
+    <div class="container hero-inner">
+      <div class="hero-text">
+        <p class="eyebrow">{t(lang, 'name_of', { n: n.number })} · {t(lang, 'verse_of', { n: n.verse })}</p>
+        <h1 id="name-title" class={`hero-name ${nameSizeClass(n.s[sc])}`} lang={SCRIPT_TAG[sc]} data-t="name">{n.s[sc]}</h1>
+        <p class="hero-iast" lang="sa-Latn">{n.iastSplit}</p>
+        <p class="hero-meaning" lang={meaning.l} data-t="meaning">{meaning.t}</p>
+        <p class="hero-meaning-en" lang="en" data-en-line="meaning" hidden={isEn || meaning.l === 'en'}>{n.meaning.en}</p>
+        <div class="hero-actions">
+          <PlayButton variant="gold" tts={n.devanagari} src={n.audio.chant} playText={t(lang, 'listen_name')} pauseText={t(lang, 'pause')} />
+          <p class="hero-archana" lang={archanaTag} data-t="archana">{archanaShown}</p>
+        </div>
+      </div>
+      <div class="hero-art small"><Mandala /></div>
+    </div>
+    <LangChips lang={lang} chips={chips} />
+    <TempleBorder id="tb-name" />
+  </section>
+
+  <div class="name-main">
+    <div class="reading">
+      {n.review.status === 'draft' && <p class="notice">{t(lang, 'draft_note')}</p>}
+      <p class="notice" data-fallback-note hidden>{fbBefore}<span data-fallback-lang></span>{fbAfter}</p>
+
+      <nav class="toc" aria-label={t(lang, 'on_this_page')}>
+        <span class="toc-label">{t(lang, 'on_this_page')}</span>
+        <a href="#padartha">{t(lang, 'sec_words')}</a>
+        <a href="#bhavartha">{t(lang, 'sec_explanation')}</a>
+        <a href="#rahasya">{t(lang, 'sec_inner')}</a>
+        <a href="#katha">{t(lang, 'sec_story_short')}</a>
+        <a href="#shravana">{t(lang, 'sec_listen_short')}</a>
+      </nav>
+
+      <section id="padartha" class="layer" aria-labelledby="h-padartha">
+        <div class="layer-head">
+          <h2 id="h-padartha" lang={headTag} data-t="h.pada">{HEADS.pada[disp]}</h2>
+          <span class="layer-label">{t(lang, 'sec_words')}</span>
+        </div>
+        <ol class="pada card">
+          {n.w.map((w, i) => {
+            const m = pick(w.meaning);
+            return (
+              <li>
+                <span class="pada-sa" lang={SCRIPT_TAG[sc]} data-t={`w${i}.sa`}>{w.s[sc]}</span>
+                <span class="pada-iast" lang="sa-Latn">{w.s.iast}</span>
+                <span class="pada-meaning" lang={m.l} data-t={`w${i}.m`}>{m.t}</span>
+              </li>
+            );
+          })}
+        </ol>
+        <p class="compound" lang={headTag} data-t="compound">{compoundFor(disp)}</p>
+      </section>
+
+      <section id="bhavartha" class="layer" aria-labelledby="h-bhavartha">
+        <div class="layer-head">
+          <h2 id="h-bhavartha" lang={headTag} data-t="h.bhava">{HEADS.bhava[disp]}</h2>
+          <span class="layer-label">{t(lang, 'sec_explanation')}</span>
+        </div>
+        <p class="prose" lang={explanation.l} data-t="explanation">{explanation.t}</p>
+      </section>
+
+      <section id="rahasya" class="layer rahasya" aria-labelledby="h-rahasya">
+        <div class="layer-head">
+          <Icon name="lotus" size={28} />
+          <h2 id="h-rahasya" lang={headTag} data-t="h.rahasya">{HEADS.rahasya[disp]}</h2>
+          <span class="layer-label">{t(lang, 'sec_inner')}</span>
+        </div>
+        <p class="prose" lang={inner.l} data-t="inner">{inner.t}</p>
+      </section>
+
+      <section id="katha" class="layer" aria-labelledby="h-katha">
+        <div class="layer-head">
+          <h2 id="h-katha" lang={headTag} data-t="h.katha">{HEADS.katha[disp]}</h2>
+          <span class="layer-label">{t(lang, 'sec_story')}</span>
+        </div>
+        <p class="prose" lang={story.l} data-t="story">{story.t}</p>
+        {n.commentary && (
+          <figure class="card commentary">
+            <blockquote lang="sa-Deva">{n.commentary.sanskrit}</blockquote>
+            <p lang={pick(n.commentary.translation).l} data-t="commentary">{pick(n.commentary.translation).t}</p>
+            <figcaption>{t(lang, 'commentary')}: {n.commentary.source}</figcaption>
+          </figure>
+        )}
+        {n.sources.length > 0 && (
+          <div class="sources">
+            {t(lang, 'sources')}:
+            <ul>{n.sources.map((s) => <li>{s}</li>)}</ul>
+          </div>
+        )}
+      </section>
+
+      <section id="shravana" class="layer" aria-labelledby="h-shravana">
+        <div class="layer-head">
+          <h2 id="h-shravana" lang={headTag} data-t="h.shravana">{HEADS.shravana[disp]}</h2>
+          <span class="layer-label">{t(lang, 'sec_listen')}</span>
+        </div>
+        <div class="audio-row">
+          <PlayButton variant="pill" tts={n.devanagari} src={n.audio.slow} rate={0.45} playText={t(lang, 'pronounce_slowly')} pauseText={t(lang, 'pause')} />
+          <PlayButton variant="pill" tts={n.devanagari} src={n.audio.chant} rate={0.8} playText={t(lang, 'chant')} pauseText={t(lang, 'pause')} />
+          <PlayButton variant="pill" tts={n.archana} rate={0.8} playText={t(lang, 'archana_form')} pauseText={t(lang, 'pause')} />
+        </div>
+        {n.syllables.length > 0 && (
+          <div class="syllables">
+            <span class="syllables-label">{t(lang, 'syllables')}</span>
+            {n.syllables.map((s) => <span class="syllable" lang="sa-Latn">{s}</span>)}
+          </div>
+        )}
+        <p class="archana-hint">
+          {t(lang, 'archana_hint_before')} <span lang={archanaTag} data-t="archana2">{archanaShown}</span> {t(lang, 'archana_hint_after')}
+        </p>
+        <p class="audio-status" data-audio-status data-no-voice={t(lang, 'no_voice')} aria-live="polite">{n.audio.chant ? '' : t(lang, 'audio_note')}</p>
+      </section>
+
+      {verse && (
+        <section aria-labelledby="h-verse-names" style="padding-top: 40px">
+          <h2 id="h-verse-names" class="section-title">{t(lang, 'names_in_verse', { n: verse.number })}</h2>
+          <div class="verse-names">
+            {verse.names.map((x) => (
+              <a class="vn" href={bestNameUrl(x, lang)} aria-current={x.number === n.number ? 'page' : undefined}>
+                <span class="vn-num">{x.number}</span>
+                <span class="vn-name" lang={SCRIPT_TAG[sc]} data-t={`vn${x.number}`}>{x.s[sc]}</span>
+              </a>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <div class="prevnext">
+        {prev ? (
+          <a class="pn" href={bestNameUrl(prev, lang)}><small>{t(lang, 'prev_name')}</small><span>{prev.number} · {prev.s.iast}</span></a>
+        ) : (
+          <span class="pn is-disabled"><small>{t(lang, 'prev_name')}</small><span>{t(lang, 'first_name')}</span></span>
+        )}
+        {next ? (
+          <a class="pn pn--next" href={bestNameUrl(next, lang)}><small>{t(lang, 'next_name')}</small><span>{next.number} · {next.s.iast}</span></a>
+        ) : (
+          <span class="pn pn--next is-disabled"><small>{t(lang, 'next_name')}</small><span>{t(lang, 'last_name')}</span></span>
+        )}
+      </div>
+    </div>
+  </div>
+</Base>

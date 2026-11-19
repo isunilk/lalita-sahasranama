@@ -1,0 +1,23 @@
+---
+// Plays the recorded file in `src` when there is one; otherwise reads `tts` (Devanagari)
+// with the device's Hindi voice. Behaviour lives in src/scripts/site.js.
+import Icon from './Icon.astro';
+
+const { tts, src = null, rate = 0.8, variant = 'round', label = undefined, playText = '', pauseText = '' } = Astro.props;
+const iconSize = variant === 'round' ? 16 : 15;
+---
+<button
+  type="button"
+  class={`play play--${variant}`}
+  data-play
+  data-tts={tts}
+  data-src={src || undefined}
+  data-rate={rate}
+  data-label-play={playText || undefined}
+  data-label-pause={pauseText || undefined}
+  aria-pressed="false"
+  aria-label={label}
+>
+  <span class="play-icon"><Icon name="play" size={iconSize} /><Icon name="pause" size={iconSize} /></span>
+  {playText && <span data-label>{playText}</span>}
+</button>

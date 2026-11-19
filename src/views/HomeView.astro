@@ -1,0 +1,123 @@
+---
+import Base from '../layouts/Base.astro';
+import Mandala from '../components/Mandala.astro';
+import LangChips from '../components/LangChips.astro';
+import TempleBorder from '../components/TempleBorder.astro';
+import PlayButton from '../components/PlayButton.astro';
+import VerseCard from '../components/VerseCard.astro';
+import Icon from '../components/Icon.astro';
+import { loadSite } from '../lib/data.js';
+import { t } from '../i18n/ui.mjs';
+import { LANGS, SITE, SCRIPT_TAG, getLang, homeUrl, verseUrl } from '../lib/site.mjs';
+import { scr, txt, verseStrings, chipModel, homeAlternates, bestNameUrl, bestVerseUrl, nameSizeClass, LABELS } from '../lib/pagedata.js';
+
+const { lang } = Astro.props;
+const sc = getLang(lang).script;
+const isEn = lang === 'en';
+const site = await loadSite();
+
+// "Today's name" changes with the date of the build; schedule a daily rebuild to keep it fresh.
+const now = new Date();
+const dayOfYear = Math.floor((Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate()) - Date.UTC(now.getUTCFullYear(), 0, 1)) / 86400000);
+const today = site.names[dayOfYear % site.names.length];
+const verse = site.verses[0] || null;
+const nextVerse = site.verses[1] || null;
+const meaning = today.meaning[lang] || today.meaning.en;
+
+const strings = {
+  'hero.name': scr(today.s),
+  'hero.meaning': txt(today.meaning),
+  'hero.archana': scr(today.a, { enIast: true }),
+  ...(verse ? verseStrings(verse) : {}),
+};
+const alternates = homeAlternates();
+const { chips, inPage } = chipModel(lang, alternates);
+const pageData = { lang, labels: LABELS, inPage, strings };
+---
+<Base lang={lang} title={t(lang, 'meta_home_title')} description={t(lang, 'meta_home_desc')} path={homeUrl(lang)} alternates={alternates} pageData={pageData}>
+  <section class="hero on-accent" aria-labelledby="hero-name">
+    <div class="container hero-inner">
+      <div class="hero-text">
+        <p class="eyebrow">{t(lang, 'todays_name')} · {t(lang, 'name_of', { n: today.number })}</p>
+        <h1 id="hero-name" class={`hero-name ${nameSizeClass(today.s[sc])}`} lang={SCRIPT_TAG[sc]} data-t="hero.name">{today.s[sc]}</h1>
+        <p class="hero-iast" lang="sa-Latn">{today.iastSplit}</p>
+        <p class="hero-meaning" lang={today.meaning[lang] ? lang : 'en'} data-t="hero.meaning">{meaning}</p>
+        <p class="hero-meaning-en" lang="en" data-en-line="hero.meaning" hidden={isEn || !today.meaning[lang]}>{today.meaning.en}</p>
+        <a class="hero-link" href={bestNameUrl(today, lang)}>{t(lang, 'read_full')}<Icon name="chevron-right" size={18} /></a>
+        <div class="hero-actions">
+          <PlayButton variant="gold" tts={today.archana} src={today.audio.chant} playText={t(lang, 'listen_name')} pauseText={t(lang, 'pause')} />
+          <p class="hero-archana" lang={isEn ? 'sa-Latn' : SCRIPT_TAG[sc]} data-t="hero.archana">{isEn ? today.a.iast : today.a[sc]}</p>
+        </div>
+      </div>
+      <div class="hero-art"><Mandala /></div>
+    </div>
+    <LangChips lang={lang} chips={chips} />
+    <TempleBorder id="tb-home" />
+  </section>
+
+  {verse && (
+    <section id="names" class="section section-pad" aria-labelledby="verses-title">
+      <div class="container">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">{t(lang, 'stotram_eyebrow')}</p>
+            <h2 id="verses-title" class="h2">{t(lang, 'verses_title')}</h2>
+            <p class="lead">{t(lang, 'verses_intro')}</p>
+          </div>
+          <div class="pager">
+            <span class="round-btn is-disabled" aria-hidden="true"><Icon name="chevron-left" /></span>
+            <span class="pager-label">{t(lang, 'verse_of', { n: verse.number })}</span>
+            {nextVerse && (
+              <a class="round-btn" href={bestVerseUrl(nextVerse, lang)} aria-label={t(lang, 'next_verse')}><Icon name="chevron-right" /></a>
+            )}
+          </div>
+        </div>
+        <VerseCard lang={lang} verse={verse} nextVerse={nextVerse} />
+      </div>
+    </section>
+  )}
+
+  <section id="listen" class="section section--sand section-pad" aria-labelledby="listen-title">
+    <div class="container">
+      <p class="eyebrow">{t(lang, 'listen_eyebrow')}</p>
+      <h2 id="listen-title" class="h2">{t(lang, 'chant_title')}</h2>
+      <p class="lead">{t(lang, 'chant_intro')}</p>
+      <div class="cards">
+        <article class="card feature">
+          <span class="feature-icon"><Icon name="diya" size={28} /></span>
+          <h3>{t(lang, 'card_parayana_title')}</h3>
+          <p>{t(lang, 'card_parayana_text')}</p>
+          <a class="btn btn-accent" href={verseUrl(1, lang)}>{t(lang, 'cta_parayana')}</a>
+        </article>
+        <article class="card feature">
+          <span class="feature-icon"><Icon name="lotus" size={28} /></span>
+          <h3>{t(lang, 'card_archana_title')}</h3>
+          <p>{t(lang, 'card_archana_text')}</p>
+          <a class="btn btn-outline-accent" href={`${bestNameUrl(site.names[0], lang)}#shravana`}>{t(lang, 'card_archana_cta')}</a>
+        </article>
+        <article class="card feature">
+          <span class="feature-icon"><Icon name="speaker" size={28} /></span>
+          <h3>{t(lang, 'card_learn_title')}</h3>
+          <p>{t(lang, 'card_learn_text')}</p>
+          <a class="btn btn-outline-accent" href={`${bestNameUrl(site.names[0], lang)}#shravana`}>{t(lang, 'card_learn_cta')}</a>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section id="about" class="section section-pad" aria-labelledby="about-title">
+    <div class="container about">
+      <div class="about-text">
+        <p class="eyebrow">{t(lang, 'about_eyebrow')}</p>
+        <h2 id="about-title" class="h2">{t(lang, 'about_title')}</h2>
+        <p>{t(lang, 'about_p1')}</p>
+        <p>{t(lang, 'about_p2')}</p>
+      </div>
+      <dl class="facts">
+        <div><dt>{t(lang, 'fact_names')}</dt><dd>{SITE.totalNames}</dd></div>
+        <div><dt>{t(lang, 'fact_verses')}</dt><dd>{SITE.totalVerses}</dd></div>
+        <div><dt>{t(lang, 'fact_languages')}</dt><dd>{LANGS.length}</dd></div>
+      </dl>
+    </div>
+  </section>
+</Base>

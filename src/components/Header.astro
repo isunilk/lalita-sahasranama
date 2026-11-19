@@ -1,0 +1,39 @@
+---
+import Icon from './Icon.astro';
+import { t } from '../i18n/ui.mjs';
+import { getLang, homeUrl, namesUrl, verseUrl } from '../lib/site.mjs';
+
+const { lang, hasLanguageButtons = true } = Astro.props;
+const L = getLang(lang);
+const home = homeUrl(lang);
+---
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href={home}>
+      <svg viewBox="0 0 40 40" width="44" height="44" aria-hidden="true">
+        <circle cx="20" cy="20" r="19.5" fill="#7A1712" />
+        <path d="M20 8.5c3.2 4 3.2 9.5 0 13.5c-3.2-4-3.2-9.5 0-13.5z" fill="none" stroke="#E9BE5C" stroke-width="1.4" />
+        <path d="M20 22.5c-2.2-4-6-6.2-10.5-6.2c0 5 4.4 8.2 10.5 8.2s10.5-3.2 10.5-8.2c-4.5 0-8.3 2.2-10.5 6.2z" fill="none" stroke="#E9BE5C" stroke-width="1.4" />
+        <path d="M12 29h16" stroke="#E9BE5C" stroke-width="1.4" stroke-linecap="round" />
+      </svg>
+      <span class="brand-text">
+        <span class="brand-name">Lalitā Sahasranāma</span>
+        <span class="brand-sub" lang="sa-Deva">श्री ललिता सहस्रनाम</span>
+      </span>
+    </a>
+    <nav class="main-nav" aria-label="Main">
+      <a href={namesUrl(lang)}>{t(lang, 'nav_names')}</a>
+      <a href={verseUrl(1, lang)}>{t(lang, 'nav_stotram')}</a>
+      <a href={`${home}#listen`}>{t(lang, 'nav_listen')}</a>
+      <a href={`${home}#about`}>{t(lang, 'nav_about')}</a>
+    </nav>
+    <div class="header-actions">
+      <a class="btn btn-outline" href={hasLanguageButtons ? '#read-in' : home}>
+        <Icon name="globe" size={18} />
+        <span class="sr-only">{t(lang, 'change_language')}:</span>
+        <span data-current-lang-label lang={lang}>{L.label}</span>
+      </a>
+      <a class="btn btn-accent" href={verseUrl(1, lang)}>{t(lang, 'cta_parayana')}</a>
+    </div>
+  </div>
+</header>

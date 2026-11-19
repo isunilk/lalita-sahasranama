@@ -1,0 +1,12 @@
+---
+// Home page for every non-English language that has its own pages (/hi/, later /te/ …).
+import HomeView from '../../views/HomeView.astro';
+import { OTHER_PAGE_LANGS } from '../../lib/site.mjs';
+
+export function getStaticPaths() {
+  return OTHER_PAGE_LANGS.map((l) => ({ params: { lang: l.code } }));
+}
+
+const { lang } = Astro.params;
+---
+<HomeView lang={lang} />

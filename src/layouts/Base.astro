@@ -1,0 +1,53 @@
+---
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE } from '../lib/site.mjs';
+import { t } from '../i18n/ui.mjs';
+
+const { lang = 'en', title, description, path, alternates = [], jsonLd = null, pageData = null, hasLanguageButtons = true } = Astro.props;
+const abs = (p) => new URL(p, SITE.origin).href;
+const canonical = abs(path);
+const xDefault = alternates.find((a) => a.lang === 'en') || alternates[0];
+const ogLocale = { en: 'en_IN', hi: 'hi_IN' }[lang] || 'en_IN';
+const safeJson = (v) => JSON.stringify(v).replace(/</g, '\\u003c');
+const fonts =
+  'https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Tiro+Devanagari+Sanskrit:ital@0;1&family=Tiro+Telugu&family=Tiro+Tamil&family=Tiro+Kannada&family=Tiro+Bangla&family=Noto+Serif+Malayalam:wght@400;500&family=Noto+Serif+Gujarati:wght@400;500&family=Noto+Serif+Oriya:wght@400;500&display=swap';
+---
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    {alternates.map((a) => <link rel="alternate" hreflang={a.lang} href={abs(a.href)} />)}
+    {xDefault && <link rel="alternate" hreflang="x-default" href={abs(xDefault.href)} />}
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={SITE.name} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:locale" content={ogLocale} />
+    <meta name="theme-color" content="#7A1712" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="sitemap" href="/sitemap.xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href={fonts} />
+    {jsonLd && <script type="application/ld+json" set:html={safeJson(jsonLd)} />}
+  </head>
+  <body>
+    <a class="skip-link" href="#main">{t(lang, 'skip')}</a>
+    <Header lang={lang} hasLanguageButtons={hasLanguageButtons} />
+    <main id="main">
+      <slot />
+    </main>
+    <Footer lang={lang} />
+    {pageData && <script type="application/json" id="page-data" set:html={safeJson(pageData)} />}
+    <script>
+      import '../scripts/site.js';
+    </script>
+  </body>
+</html>

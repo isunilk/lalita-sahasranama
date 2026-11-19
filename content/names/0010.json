@@ -1,0 +1,34 @@
+{
+  "number": 10,
+  "verse": 3,
+  "slug": "manorupekshu-kodanda",
+  "devanagari": "मनोरूपेक्षुकोदण्डा",
+  "iastSplit": "Mano-rūpekṣu-kodaṇḍā",
+  "archana": "ॐ मनोरूपेक्षुकोदण्डायै नमः",
+  "syllables": ["ma", "no", "rū", "pek", "ṣu", "ko", "daṇ", "ḍā"],
+  "words": [
+    { "sa": "मनस्", "meaning": { "en": "mind" } },
+    { "sa": "रूप", "meaning": { "en": "form" } },
+    { "sa": "इक्षु", "meaning": { "en": "sugarcane" } },
+    { "sa": "कोदण्ड", "meaning": { "en": "bow" } }
+  ],
+  "meaning": {
+    "en": "Whose sugarcane bow is the mind",
+    "hi": "मन रूपी गन्ने का धनुष धारण करने वाली",
+    "te": "మనస్సనే చెరకు విల్లును ధరించిన తల్లి",
+    "ta": "மனமாகிய கரும்பு வில்லை ஏந்தியவள்"
+  },
+  "explanation": {
+    "en": "Her third emblem is a bow made of sugarcane. The name says this bow is the mind (manas)."
+  },
+  "inner": {
+    "en": "The mind is made of sugarcane because it always seeks sweetness. From this bow the senses fly toward their objects; in her hands that longing for sweetness is drawn toward the Divine."
+  },
+  "story": {
+    "en": "Kāma, the god of desire, fights with a sugarcane bow and five flower-arrows. The Devī holds the same weapons: the power of desire, now in the hands of the Mother."
+  },
+  "commentary": null,
+  "sources": [],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted with AI help. Check every layer against Bhāskararāya’s Saubhāgya Bhāskara and a printed edition before marking it reviewed." }
+}

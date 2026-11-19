@@ -1,0 +1,33 @@
+{
+  "number": 11,
+  "verse": 3,
+  "slug": "pancha-tanmatra-sayaka",
+  "devanagari": "पञ्चतन्मात्रसायका",
+  "iastSplit": "Pañca-tanmātra-sāyakā",
+  "archana": "ॐ पञ्चतन्मात्रसायकायै नमः",
+  "syllables": ["pañ", "ca", "tan", "mā", "tra", "sā", "ya", "kā"],
+  "words": [
+    { "sa": "पञ्च", "meaning": { "en": "five" } },
+    { "sa": "तन्मात्र", "meaning": { "en": "subtle elements" } },
+    { "sa": "सायक", "meaning": { "en": "arrows" } }
+  ],
+  "meaning": {
+    "en": "Whose five arrows are the subtle elements",
+    "hi": "पंच तन्मात्राओं को बाण रूप में धारण करने वाली",
+    "te": "పంచ తన్మాత్రలనే బాణాలుగా కలిగిన తల్లి",
+    "ta": "ஐந்து தன்மாத்திரைகளை அம்புகளாகக் கொண்டவள்"
+  },
+  "explanation": {
+    "en": "Her fourth emblem is five arrows: the five tanmātras, the subtle essences of sound, touch, form, taste and smell. Tradition pictures them as five flowers."
+  },
+  "inner": {
+    "en": "Sound, touch, form, taste and smell are the subtle roots of all experience. Every experience that reaches us is her arrow; received as her gift, sensing itself becomes worship."
+  },
+  "story": {
+    "en": "Kāma, the god of desire, fights with a sugarcane bow and five flower-arrows. The Devī holds the same weapons: the power of desire, now in the hands of the Mother."
+  },
+  "commentary": null,
+  "sources": [],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted with AI help. Check every layer against Bhāskararāya’s Saubhāgya Bhāskara and a printed edition before marking it reviewed." }
+}

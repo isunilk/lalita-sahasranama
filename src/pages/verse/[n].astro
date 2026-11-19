@@ -1,0 +1,12 @@
+---
+import VerseView from '../../views/VerseView.astro';
+import { loadSite } from '../../lib/data.js';
+
+export async function getStaticPaths() {
+  const site = await loadSite();
+  return site.verses.map((v) => ({ params: { n: String(v.number) }, props: { verse: v } }));
+}
+
+const { verse } = Astro.props;
+---
+<VerseView lang="en" verse={verse} />

@@ -1,0 +1,63 @@
+---
+// One verse: the shloka, a play button for the whole verse, and each name with its meaning.
+import Icon from './Icon.astro';
+import PlayButton from './PlayButton.astro';
+import { t } from '../i18n/ui.mjs';
+import { getLang, SCRIPT_TAG } from '../lib/site.mjs';
+import { verseLines, bestNameUrl, bestVerseUrl } from '../lib/pagedata.js';
+
+const { lang, verse, nextVerse = null } = Astro.props;
+const sc = getLang(lang).script;
+const tag = SCRIPT_TAG[sc];
+const lines = verseLines(verse, sc);
+const first = verse.names[0].number;
+const last = verse.names[verse.names.length - 1].number;
+---
+<article class="card verse-card" aria-label={t(lang, 'verse_n', { n: verse.number })}>
+  <div class="verse-top">
+    <div class="divider" aria-hidden="true"><span></span><Icon name="lotus" size={22} /><span></span></div>
+    <p class="verse-text" lang={tag}>
+      {lines.map((line, i) => (
+        <>
+          {i > 0 && <br />}
+          <span data-t={`verse${verse.number}.l${i}`} lang={tag}>{line}</span>
+        </>
+      ))}
+    </p>
+    <PlayButton
+      variant="pill"
+      tts={verse.names.map((n) => n.devanagari).join(' ')}
+      rate={0.75}
+      playText={t(lang, 'listen_verse', { n: verse.number })}
+      pauseText={t(lang, 'pause')}
+    />
+  </div>
+  <ol class="name-list">
+    {verse.names.map((n) => (
+      <li class="name-row">
+        <span class="medallion">{n.number}</span>
+        <div class="name-row-body">
+          <div class="name-row-name">
+            <p class="name-row-sa">
+              <a href={bestNameUrl(n, lang)} lang={tag} data-t={`n${n.number}.name`}>{n.s[sc]}</a>
+            </p>
+            <p class="name-row-iast" lang="sa-Latn">{n.s.iast}</p>
+          </div>
+          <div class="name-row-meaning-wrap">
+            <p class="name-row-meaning" lang={n.meaning[lang] ? lang : 'en'} data-t={`n${n.number}.meaning`}>{n.meaning[lang] || n.meaning.en}</p>
+            <a class="name-row-more" href={bestNameUrl(n, lang)}>{t(lang, 'full_meaning')}<Icon name="chevron-right" size={16} /></a>
+          </div>
+        </div>
+        <PlayButton variant="round" tts={n.devanagari} src={n.audio.chant} label={t(lang, 'play_label', { name: n.s.iast })} />
+      </li>
+    ))}
+  </ol>
+  <div class="verse-foot">
+    <p>{t(lang, 'names_range', { a: first, b: last })}</p>
+    {nextVerse ? (
+      <a class="text-link" href={bestVerseUrl(nextVerse, lang)}>{t(lang, 'continue_verse', { n: nextVerse.number })}<Icon name="chevron-right" size={18} /></a>
+    ) : (
+      <p>{t(lang, 'all_verses_soon')}</p>
+    )}
+  </div>
+</article>

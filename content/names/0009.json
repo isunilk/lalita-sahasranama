@@ -1,0 +1,34 @@
+{
+  "number": 9,
+  "verse": 2,
+  "slug": "krodhakarankushojjvala",
+  "devanagari": "क्रोधाकाराङ्कुशोज्ज्वला",
+  "iastSplit": "Krodhākārāṅkuśojjvalā",
+  "archana": "ॐ क्रोधाकाराङ्कुशोज्ज्वलायै नमः",
+  "syllables": ["kro", "dhā", "kā", "rāṅ", "ku", "śoj", "jva", "lā"],
+  "words": [
+    { "sa": "क्रोध", "meaning": { "en": "anger" } },
+    { "sa": "आकार", "meaning": { "en": "form, shape" } },
+    { "sa": "अङ्कुश", "meaning": { "en": "goad" } },
+    { "sa": "उज्ज्वला", "meaning": { "en": "shining" } }
+  ],
+  "meaning": {
+    "en": "Shining with the goad that is anger itself",
+    "hi": "क्रोध रूपी अंकुश से देदीप्यमान",
+    "te": "క్రోధమనే అంకుశంతో ప్రకాశించే తల్లి",
+    "ta": "கோப வடிவான அங்குசத்தால் ஒளிர்பவள்"
+  },
+  "explanation": {
+    "en": "In another hand she holds an aṅkuśa, the goad used to guide an elephant, and it shines. The name says this goad is krodha, anger."
+  },
+  "inner": {
+    "en": "The goad is anger, the force that drives and restrains. Held by her, anger becomes discipline turned against our own faults, steering the mind back to the path."
+  },
+  "story": {
+    "en": "Names 8 to 11 describe her four emblems: noose, goad, sugarcane bow and flower-arrows. This is the form in which she is worshipped in Śrīvidyā."
+  },
+  "commentary": null,
+  "sources": [],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted with AI help. Check every layer against Bhāskararāya’s Saubhāgya Bhāskara and a printed edition before marking it reviewed." }
+}

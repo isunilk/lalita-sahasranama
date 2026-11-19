@@ -1,0 +1,37 @@
+{
+  "number": 12,
+  "verse": 3,
+  "slug": "nijaruna-prabhapura-majjad-brahmanda-mandala",
+  "devanagari": "निजारुणप्रभापूरमज्जद्ब्रह्माण्डमण्डला",
+  "iastSplit": "Nijāruṇa-prabhā-pūra-majjad-brahmāṇḍa-maṇḍalā",
+  "archana": "ॐ निजारुणप्रभापूरमज्जद्ब्रह्माण्डमण्डलायै नमः",
+  "syllables": ["ni", "jā", "ru", "ṇa", "pra", "bhā", "pū", "ra", "maj", "jad", "brah", "māṇ", "ḍa", "maṇ", "ḍa", "lā"],
+  "words": [
+    { "sa": "निज", "meaning": { "en": "her own" } },
+    { "sa": "अरुण", "meaning": { "en": "rosy-red" } },
+    { "sa": "प्रभा", "meaning": { "en": "radiance" } },
+    { "sa": "पूर", "meaning": { "en": "flood" } },
+    { "sa": "मज्जत्", "meaning": { "en": "immersed" } },
+    { "sa": "ब्रह्माण्ड", "meaning": { "en": "the universe" } },
+    { "sa": "मण्डला", "meaning": { "en": "whole sphere" } }
+  ],
+  "meaning": {
+    "en": "Who bathes the universe in her own rosy-red radiance",
+    "hi": "अपनी अरुण आभा में सम्पूर्ण ब्रह्माण्ड को डुबो देने वाली",
+    "te": "తన అరుణ కాంతి ప్రవాహంలో బ్రహ్మాండాన్ని ముంచెత్తే తల్లి",
+    "ta": "தன் செந்நிற ஒளிவெள்ளத்தில் அண்டம் முழுவதையும் மூழ்கச் செய்பவள்"
+  },
+  "explanation": {
+    "en": "Her own rosy-red light pours out like a flood until the whole universe is immersed in it. This completes the first picture of her form, which began with a thousand rising suns."
+  },
+  "inner": {
+    "en": "Red, the colour of dawn and of love, is her own light, and it floods the whole universe. To see this is to see the world itself as her form, with nothing standing outside her."
+  },
+  "story": {
+    "en": "Names 6 to 12 describe her form at the moment she rises from the sacrificial fire."
+  },
+  "commentary": null,
+  "sources": [],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted with AI help. Check every layer against Bhāskararāya’s Saubhāgya Bhāskara and a printed edition before marking it reviewed." }
+}

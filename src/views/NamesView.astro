@@ -1,0 +1,59 @@
+---
+// Index of every name, grouped by verse, with a search box.
+import Base from '../layouts/Base.astro';
+import LangChips from '../components/LangChips.astro';
+import Icon from '../components/Icon.astro';
+import { loadSite } from '../lib/data.js';
+import { t } from '../i18n/ui.mjs';
+import { SITE, SCRIPT_TAG, getLang, namesUrl } from '../lib/site.mjs';
+import { chipModel, namesAlternates, bestNameUrl, searchText } from '../lib/pagedata.js';
+
+const { lang } = Astro.props;
+const sc = getLang(lang).script;
+const site = await loadSite();
+const groups = [];
+for (const n of site.names) {
+  let g = groups.find((x) => x.verse === n.verse);
+  if (!g) groups.push((g = { verse: n.verse, names: [] }));
+  g.names.push(n);
+}
+const alternates = namesAlternates();
+const { chips } = chipModel(lang, alternates, { onlyPageLangs: true });
+---
+<Base lang={lang} title={t(lang, 'meta_names_title')} description={t(lang, 'meta_names_desc')} path={namesUrl(lang)} alternates={alternates}>
+  <section class="section">
+    <div class="container index-head">
+      <h1>{t(lang, 'all_names_title')}</h1>
+      <p>{t(lang, 'all_names_intro')}</p>
+      {site.names.length < SITE.totalNames && <p>{t(lang, 'progress', { n: site.names.length })}</p>}
+      <LangChips lang={lang} chips={chips} variant="light" label={t(lang, 'read_page_in')} />
+      <label class="search">
+        <Icon name="search" />
+        <span class="sr-only">{t(lang, 'search_label')}</span>
+        <input type="search" data-filter placeholder={t(lang, 'search_placeholder')} autocomplete="off" />
+      </label>
+    </div>
+    <div class="container index-list">
+      {groups.map((g) => (
+        <section class="index-verse card" data-group aria-labelledby={`iv-${g.verse}`}>
+          <h2 id={`iv-${g.verse}`}>{t(lang, 'verse_n', { n: g.verse })}</h2>
+          <ol>
+            {g.names.map((n) => (
+              <li class="name-row" data-search={searchText(n)}>
+                <span class="medallion">{n.number}</span>
+                <a class="name-row-body" href={bestNameUrl(n, lang)}>
+                  <span class="name-row-name">
+                    <span class="name-row-sa" lang={SCRIPT_TAG[sc]} style="display: block">{n.s[sc]}</span>
+                    <span class="name-row-iast" lang="sa-Latn" style="display: block">{n.s.iast}</span>
+                  </span>
+                  <span class="name-row-meaning name-row-meaning-wrap" lang={n.meaning[lang] ? lang : 'en'}>{n.meaning[lang] || n.meaning.en}</span>
+                </a>
+              </li>
+            ))}
+          </ol>
+        </section>
+      ))}
+      <p class="lead" data-empty hidden>{t(lang, 'no_results')}</p>
+    </div>
+  </section>
+</Base>

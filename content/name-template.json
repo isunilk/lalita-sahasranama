@@ -1,0 +1,20 @@
+{
+  "number": 0,
+  "verse": 0,
+  "slug": "common-ascii-spelling",
+  "devanagari": "नाम",
+  "iastSplit": "Nā-ma",
+  "archana": "ॐ नाम्न्यै नमः",
+  "syllables": ["nā", "ma"],
+  "words": [
+    { "sa": "शब्द", "meaning": { "en": "what this word means", "hi": "इस शब्द का अर्थ" } }
+  ],
+  "meaning": { "en": "One line: what the name means", "hi": "एक पंक्ति में अर्थ" },
+  "explanation": { "en": "Bhāvārtha: two to four plain sentences on what the name says.", "hi": "भावार्थ" },
+  "inner": { "en": "Rahasyārtha: the inner or esoteric reading, two to five sentences.", "hi": "गूढ़ अर्थ" },
+  "story": { "en": "Kathā: the story or context behind the name, and how commentators read it.", "hi": "कथा" },
+  "commentary": null,
+  "sources": [],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "What you used to write this, and anything a reviewer should check." }
+}

@@ -1,0 +1,39 @@
+{
+  "number": 3,
+  "verse": 1,
+  "slug": "srimat-simhasaneshwari",
+  "devanagari": "श्रीमत्सिंहासनेश्वरी",
+  "iastSplit": "Śrīmat-siṃhāsaneśvarī",
+  "archana": "ॐ श्रीमत्सिंहासनेश्वर्यै नमः",
+  "syllables": ["śrī", "mat", "siṃ", "hā", "sa", "ne", "śva", "rī"],
+  "words": [
+    { "sa": "श्रीमत्", "meaning": { "en": "glorious" } },
+    { "sa": "सिंहासन", "meaning": { "en": "lion-throne" } },
+    { "sa": "ईश्वरी", "meaning": { "en": "sovereign queen" } }
+  ],
+  "meaning": {
+    "en": "Queen seated on the glorious lion-throne",
+    "hi": "दिव्य सिंहासन पर विराजमान ईश्वरी",
+    "mr": "दिव्य सिंहासनावर विराजमान ईश्वरी",
+    "te": "దివ్య సింహాసనంపై కొలువైన ఈశ్వరి",
+    "ta": "சிம்மாசனத்தில் வீற்றிருக்கும் ஈஸ்வரி",
+    "kn": "ದಿವ್ಯ ಸಿಂಹಾಸನದಲ್ಲಿ ವಿರಾಜಿಸುವ ಈಶ್ವರಿ",
+    "ml": "ദിവ്യ സിംഹാസനത്തിൽ വിരാജിക്കുന്ന ഈശ്വരി",
+    "bn": "দিব্য সিংহাসনে অধিষ্ঠিতা ঈশ্বরী",
+    "gu": "દિવ્ય સિંહાસન પર બિરાજમાન ઈશ્વરી",
+    "or": "ଦିବ୍ୟ ସିଂହାସନରେ ବିରାଜମାନ ଈଶ୍ୱରୀ"
+  },
+  "explanation": {
+    "en": "She is the sovereign of the glorious lion-throne. A lion-throne is the seat of supreme royal power; to call her its sovereign is to say that no power stands above hers."
+  },
+  "inner": {
+    "en": "The lion is an emblem of power that devours, so commentators read this name as her power of dissolution. Inwardly, what she dissolves is the false sense of a separate self."
+  },
+  "story": {
+    "en": "Commentators read the first three names together as her three cosmic acts: as Mother she creates, as Empress she sustains, and as Queen of the lion-throne she dissolves. This third name is the power that dissolves."
+  },
+  "commentary": null,
+  "sources": [],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted with AI help. Check every layer against Bhāskararāya’s Saubhāgya Bhāskara and a printed edition before marking it reviewed." }
+}

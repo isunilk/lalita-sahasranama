@@ -1,0 +1,13 @@
+---
+import Base from '../layouts/Base.astro';
+import { t } from '../i18n/ui.mjs';
+---
+<Base lang="en" title={`${t('en', 'not_found_title')} | Lalitā Sahasranāma`} description={t('en', 'not_found_text')} path="/404/" hasLanguageButtons={false}>
+  <section class="section section-pad">
+    <div class="reading">
+      <h1 class="h2">{t('en', 'not_found_title')}</h1>
+      <p class="lead">{t('en', 'not_found_text')}</p>
+      <p><a class="btn btn-accent" href="/">{t('en', 'home')}</a></p>
+    </div>
+  </section>
+</Base>

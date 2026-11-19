@@ -1,0 +1,39 @@
+{
+  "number": 5,
+  "verse": 1,
+  "slug": "devakarya-samudyata",
+  "devanagari": "देवकार्यसमुद्यता",
+  "iastSplit": "Deva-kārya-samudyatā",
+  "archana": "ॐ देवकार्यसमुद्यतायै नमः",
+  "syllables": ["de", "va", "kār", "ya", "sa", "mud", "ya", "tā"],
+  "words": [
+    { "sa": "देव", "meaning": { "en": "the gods" } },
+    { "sa": "कार्य", "meaning": { "en": "task, purpose" } },
+    { "sa": "समुद्यता", "meaning": { "en": "fully ready, intent upon" } }
+  ],
+  "meaning": {
+    "en": "Ever ready to fulfil the purpose of the gods",
+    "hi": "देवताओं के कार्य को सिद्ध करने के लिए तत्पर",
+    "mr": "देवांचे कार्य सिद्ध करण्यास तत्पर",
+    "te": "దేవతల కార్యం నెరవేర్చడానికి సిద్ధమైన తల్లి",
+    "ta": "தேவர்களின் காரியத்தை நிறைவேற்ற முனைந்தவள்",
+    "kn": "ದೇವತೆಗಳ ಕಾರ್ಯವನ್ನು ನೆರವೇರಿಸಲು ಸಿದ್ಧಳಾದವಳು",
+    "ml": "ദേവകാര്യം നിറവേറ്റാൻ സന്നദ്ധയായവൾ",
+    "bn": "দেবতাদের কার্যসাধনে তৎপর",
+    "gu": "દેવોનું કાર્ય સિદ્ધ કરવા તત્પર",
+    "or": "ଦେବତାଙ୍କ କାର୍ଯ୍ୟ ସାଧନରେ ତତ୍ପର"
+  },
+  "explanation": {
+    "en": "She arose for a purpose: the work of the gods, who had prayed for help against the demon Bhaṇḍāsura. Samudyatā means fully ready, so she appears already set on the task."
+  },
+  "inner": {
+    "en": "The gods are also our own luminous faculties, and their task is freedom from Bhaṇḍāsura, the demon born from the ashes of Kāma: desire burnt but not destroyed. She rises, eager and ready, to free the seeker from that ego."
+  },
+  "story": {
+    "en": "Bhaṇḍāsura was formed from the ashes of Kāma, the god of desire, after Śiva burnt him with his third eye. Grown mighty, he drove the gods from heaven, and this name says the Devī rose ready to end that tyranny."
+  },
+  "commentary": null,
+  "sources": [],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted with AI help. Check every layer against Bhāskararāya’s Saubhāgya Bhāskara and a printed edition before marking it reviewed." }
+}

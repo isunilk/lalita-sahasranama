@@ -1,0 +1,74 @@
+---
+import Base from '../layouts/Base.astro';
+import LangChips from '../components/LangChips.astro';
+import TempleBorder from '../components/TempleBorder.astro';
+import VerseCard from '../components/VerseCard.astro';
+import Icon from '../components/Icon.astro';
+import { loadSite } from '../lib/data.js';
+import { t } from '../i18n/ui.mjs';
+import { SITE, homeUrl, verseUrl } from '../lib/site.mjs';
+import { verseStrings, chipModel, verseAlternates, bestVerseUrl, LABELS } from '../lib/pagedata.js';
+
+const { lang, verse } = Astro.props;
+const site = await loadSite();
+const i = site.verses.findIndex((v) => v.number === verse.number);
+const prev = site.verses[i - 1] || null;
+const next = site.verses[i + 1] || null;
+const alternates = verseAlternates(verse);
+const { chips, inPage } = chipModel(lang, alternates);
+const pageData = { lang, labels: LABELS, inPage, strings: verseStrings(verse) };
+const namesText = verse.names.map((n) => (lang === 'en' ? n.s.iast : n.devanagari)).join(', ');
+const path = verseUrl(verse.number, lang);
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: t(lang, 'home'), item: new URL(homeUrl(lang), SITE.origin).href },
+    { '@type': 'ListItem', position: 2, name: t(lang, 'verse_n', { n: verse.number }), item: new URL(path, SITE.origin).href },
+  ],
+};
+---
+<Base
+  lang={lang}
+  title={t(lang, 'meta_verse_title', { n: verse.number })}
+  description={t(lang, 'meta_verse_desc', { n: verse.number, names: namesText })}
+  path={path}
+  alternates={alternates}
+  pageData={pageData}
+  jsonLd={jsonLd}
+>
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <ol>
+      <li><a href={homeUrl(lang)}>{t(lang, 'home')}</a></li>
+      <li aria-hidden="true">›</li>
+      <li aria-current="page">{t(lang, 'verse_n', { n: verse.number })}</li>
+    </ol>
+  </nav>
+  <section class="hero hero--compact on-accent" aria-labelledby="verse-title">
+    <div class="container hero-inner">
+      <div class="hero-text">
+        <p class="eyebrow">{t(lang, 'stotram_eyebrow')}</p>
+        <h1 id="verse-title" class="hero-title">{t(lang, 'verse_of', { n: verse.number })}</h1>
+      </div>
+    </div>
+    <LangChips lang={lang} chips={chips} />
+    <TempleBorder id="tb-verse" />
+  </section>
+  <section class="section section-pad">
+    <div class="container">
+      <VerseCard lang={lang} verse={verse} nextVerse={next} />
+      <div class="prevnext">
+        {prev ? (
+          <a class="pn" href={bestVerseUrl(prev, lang)}><small>{t(lang, 'prev_verse')}</small><span>{t(lang, 'verse_n', { n: prev.number })}</span></a>
+        ) : (
+          <span class="pn is-disabled"><small>{t(lang, 'prev_verse')}</small><span>—</span></span>
+        )}
+        {next ? (
+          <a class="pn pn--next" href={bestVerseUrl(next, lang)}><small>{t(lang, 'next_verse')}</small><span>{t(lang, 'verse_n', { n: next.number })}</span></a>
+        ) : (
+          <span class="pn pn--next is-disabled"><small>{t(lang, 'next_verse')}</small><span>{t(lang, 'all_verses_soon')}</span></span>
+        )}
+      </div>
+    </div>
+  </section>
+</Base>

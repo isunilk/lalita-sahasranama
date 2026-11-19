@@ -1,0 +1,14 @@
+---
+// Small inline icons. Decorative: screen readers skip them.
+const { name, size = 20 } = Astro.props;
+const stroke = { fill: 'none', stroke: 'currentColor', 'stroke-width': 1.6, 'stroke-linecap': 'round', 'stroke-linejoin': 'round' };
+---
+{name === 'play' && <svg class="i-play" viewBox="0 0 24 24" width={size} height={size} aria-hidden="true"><path d="M8 5.5v13l10.5-6.5z" fill="currentColor" /></svg>}
+{name === 'pause' && <svg class="i-pause" viewBox="0 0 24 24" width={size} height={size} aria-hidden="true"><rect x="6.5" y="5" width="4" height="14" rx="1" fill="currentColor" /><rect x="13.5" y="5" width="4" height="14" rx="1" fill="currentColor" /></svg>}
+{name === 'globe' && <svg viewBox="0 0 24 24" width={size} height={size} aria-hidden="true" {...stroke}><circle cx="12" cy="12" r="9" /><path d="M3 12h18M12 3c2.5 2.7 3.8 5.7 3.8 9s-1.3 6.3-3.8 9M12 3c-2.5 2.7-3.8 5.7-3.8 9s1.3 6.3 3.8 9" /></svg>}
+{name === 'chevron-right' && <svg viewBox="0 0 24 24" width={size} height={size} aria-hidden="true" {...stroke}><path d="M9.5 6l6 6-6 6" /></svg>}
+{name === 'chevron-left' && <svg viewBox="0 0 24 24" width={size} height={size} aria-hidden="true" {...stroke}><path d="M14.5 6l-6 6 6 6" /></svg>}
+{name === 'lotus' && <svg viewBox="0 0 24 24" width={size} height={size} aria-hidden="true" {...stroke}><path d="M12 5c2.2 2.6 2.2 7.4 0 10c-2.2-2.6-2.2-7.4 0-10z" /><path d="M12 15c-1.6-3-4.6-5-8-5c0 4.4 3.6 7 8 7s8-2.6 8-7c-3.4 0-6.4 2-8 5z" /><path d="M8 20h8" /></svg>}
+{name === 'diya' && <svg viewBox="0 0 24 24" width={size} height={size} aria-hidden="true" {...stroke}><path d="M12 3.5c1.8 2.4 2.2 4.4 0 6.5c-2.2-2.1-1.8-4.1 0-6.5z" /><path d="M3.5 13.5h17c-.8 3.6-4.2 6-8.5 6s-7.7-2.4-8.5-6z" /></svg>}
+{name === 'speaker' && <svg viewBox="0 0 24 24" width={size} height={size} aria-hidden="true" {...stroke}><path d="M4 9.5v5h3.5l4.5 4v-13l-4.5 4z" /><path d="M15.5 9a4 4 0 0 1 0 6M18.5 6.5a7.5 7.5 0 0 1 0 11" /></svg>}
+{name === 'search' && <svg viewBox="0 0 24 24" width={size} height={size} aria-hidden="true" {...stroke}><circle cx="11" cy="11" r="7" /><path d="M20 20l-4-4" /></svg>}

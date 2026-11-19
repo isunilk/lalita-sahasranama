@@ -1,0 +1,17 @@
+---
+// A name gets a page in a language only when all of its layers are written in that language.
+import NameView from '../../../views/NameView.astro';
+import { loadSite } from '../../../lib/data.js';
+import { OTHER_PAGE_LANGS, nameSlug, hasFullContent } from '../../../lib/site.mjs';
+
+export async function getStaticPaths() {
+  const site = await loadSite();
+  return OTHER_PAGE_LANGS.flatMap((l) =>
+    site.names.filter((n) => hasFullContent(n, l.code)).map((n) => ({ params: { lang: l.code, slug: nameSlug(n) }, props: { name: n } }))
+  );
+}
+
+const { lang } = Astro.params;
+const { name } = Astro.props;
+---
+<NameView lang={lang} name={name} />

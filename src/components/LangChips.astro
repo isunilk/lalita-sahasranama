@@ -1,0 +1,18 @@
+---
+// Language buttons. Links go to other language versions of this page; buttons switch text in place.
+import { t } from '../i18n/ui.mjs';
+
+const { lang, chips, variant = 'dark', label = undefined } = Astro.props;
+---
+<div id="read-in" class={`readin readin--${variant}`}>
+  <div class={variant === 'dark' ? 'container readin-inner' : 'readin-inner'}>
+    <span class="readin-label">{label || t(lang, 'read_in')}</span>
+    {chips.map((c) =>
+      c.href ? (
+        <a class="chip" href={c.href} hreflang={c.code} lang={c.code} data-lang-link={c.code}>{c.label}</a>
+      ) : (
+        <button type="button" class="chip" lang={c.code} data-set-lang={c.code} aria-pressed={c.current ? 'true' : 'false'}>{c.label}</button>
+      )
+    )}
+  </div>
+</div>

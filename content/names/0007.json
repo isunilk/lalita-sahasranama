@@ -1,0 +1,33 @@
+{
+  "number": 7,
+  "verse": 2,
+  "slug": "chaturbahu-samanvita",
+  "devanagari": "चतुर्बाहुसमन्विता",
+  "iastSplit": "Catur-bāhu-samanvitā",
+  "archana": "ॐ चतुर्बाहुसमन्वितायै नमः",
+  "syllables": ["ca", "tur", "bā", "hu", "sa", "man", "vi", "tā"],
+  "words": [
+    { "sa": "चतुर्", "meaning": { "en": "four" } },
+    { "sa": "बाहु", "meaning": { "en": "arms" } },
+    { "sa": "समन्विता", "meaning": { "en": "endowed with" } }
+  ],
+  "meaning": {
+    "en": "She who has four arms",
+    "hi": "चार भुजाओं वाली",
+    "te": "నాలుగు భుజాలు గల తల్లి",
+    "ta": "நான்கு கரங்களை உடையவள்"
+  },
+  "explanation": {
+    "en": "She appears with four arms. The next four names describe what each hand holds."
+  },
+  "inner": {
+    "en": "Her four hands hold desire, anger, the mind and the senses. Every force that moves us is held in her hands, and so every one of them can be turned toward her."
+  },
+  "story": {
+    "en": "Names 8 to 11 describe her four emblems: noose, goad, sugarcane bow and flower-arrows. This is the form in which she is worshipped in Śrīvidyā."
+  },
+  "commentary": null,
+  "sources": [],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted with AI help. Check every layer against Bhāskararāya’s Saubhāgya Bhāskara and a printed edition before marking it reviewed." }
+}

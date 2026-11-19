@@ -1,0 +1,11 @@
+---
+import NamesView from '../../views/NamesView.astro';
+import { OTHER_PAGE_LANGS } from '../../lib/site.mjs';
+
+export function getStaticPaths() {
+  return OTHER_PAGE_LANGS.map((l) => ({ params: { lang: l.code } }));
+}
+
+const { lang } = Astro.params;
+---
+<NamesView lang={lang} />

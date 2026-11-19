@@ -1,0 +1,17 @@
+---
+// A verse gets a page in a language once every name in it has its one-line meaning there.
+import VerseView from '../../../views/VerseView.astro';
+import { loadSite } from '../../../lib/data.js';
+import { OTHER_PAGE_LANGS, verseHasLanguage } from '../../../lib/site.mjs';
+
+export async function getStaticPaths() {
+  const site = await loadSite();
+  return OTHER_PAGE_LANGS.flatMap((l) =>
+    site.verses.filter((v) => verseHasLanguage(v.names, l.code)).map((v) => ({ params: { lang: l.code, n: String(v.number) }, props: { verse: v } }))
+  );
+}
+
+const { lang } = Astro.params;
+const { verse } = Astro.props;
+---
+<VerseView lang={lang} verse={verse} />
