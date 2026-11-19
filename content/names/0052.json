@@ -1,0 +1,42 @@
+{
+  "number": 52,
+  "verse": 21,
+  "slug": "shiva",
+  "devanagari": "शिवा",
+  "iastSplit": "Śivā",
+  "archana": "ॐ शिवायै नमः",
+  "syllables": ["śi", "vā"],
+  "words": [
+    { "sa": "शिवा", "meaning": { "en": "Śivā: the auspicious one, the consort of Śiva", "hi": "शिवा: मंगलमयी, शिव की शक्ति" } }
+  ],
+  "meaning": {
+    "en": "The auspicious one, one with Śiva",
+    "hi": "मंगलमयी, शिव से अभिन्न"
+  },
+  "explanation": {
+    "en": "Śivā is the feminine of Śiva and means “the auspicious one”. Bhāskararāya gathers many senses: she is the will of Śiva, she is not different from Śiva, she makes all things auspicious, and she grants śiva, liberation.",
+    "hi": "‘शिवा’ शिव का स्त्रीलिंग रूप है, जिसका अर्थ है मंगलमयी। भास्करराय इसके अनेक अर्थ एकत्र करते हैं: वे शिव की इच्छा हैं, शिव से अभिन्न हैं, सबका मंगल करती हैं, और शिव अर्थात् मोक्ष प्रदान करती हैं।"
+  },
+  "inner": {
+    "en": "Deriving Śiva from a root meaning “to desire”, Bhāskararāya calls her the will (icchā) of Paramaśiva, and says this power of will is what upholds Śiva. He quotes the Liṅga Purāṇa: “As Śiva is, so is the Devī; as the Devī is, so is Śiva”, and so, seeing them as one, people call Umā Śivā. An Āgama verse he cites says she is as natural to Śiva as heat to fire and moonlight to the moon.",
+    "hi": "‘शिव’ शब्द को ‘इच्छा करना’ अर्थ वाली धातु से निकालकर भास्करराय उन्हें परमशिव की इच्छा कहते हैं, और बताते हैं कि यही इच्छा-शक्ति शिव का आधार है। वे लिङ्ग पुराण का वचन देते हैं: ‘जैसे शिव हैं वैसी देवी, जैसी देवी वैसे शिव’; इसीलिए अभेद-बुद्धि से उमा को शिवा कहा जाता है। एक आगम-श्लोक, जिसे वे उद्धृत करते हैं, कहता है कि जैसे अग्नि में उष्णता और चन्द्रमा में चाँदनी सहज है, वैसे ही शिवा शिव में सहज हैं।"
+  },
+  "story": {
+    "en": "Śivā is one of the oldest names of the Goddess as Śiva’s consort. Bhāskararāya’s text divides this line differently, as Śiva-kāmeśvarāṅkasthā, Śivā, Svādhīnavallabhā; the chanted text used here has the same words as Śivā, Kāmeśvarāṅkasthā, Śiva-svādhīnavallabhā. With these names the hymn turns from her form to where she abides.",
+    "hi": "‘शिवा’ शिव की शक्ति के रूप में देवी के सबसे प्राचीन नामों में से है। भास्करराय के पाठ में यह पंक्ति अलग ढंग से विभक्त है: ‘शिवकामेश्वराङ्कस्था, शिवा, स्वाधीनवल्लभा’; यहाँ प्रयुक्त पाठ में वही शब्द ‘शिवा, कामेश्वराङ्कस्था, शिवस्वाधीनवल्लभा’ के रूप में हैं। इन नामों के साथ स्तोत्र उनके रूप से उनके निवास की ओर मुड़ता है।"
+  },
+  "commentary": {
+    "sanskrit": "परशिवेच्छारूपेत्यर्थः । इच्छारूपायाः शक्तेः शिवाधारकत्वादिति भावः । शिवाभेदाद्वा शिवा ।",
+    "translation": {
+      "en": "The meaning is: she is of the nature of Paramaśiva’s will; the idea is that the power which is will upholds Śiva. Or she is Śivā because she is not different from Śiva.",
+      "hi": "अर्थ यह है कि वे परमशिव की इच्छा-स्वरूपा हैं; भाव यह कि इच्छा-रूपा शक्ति ही शिव का आधार है। अथवा शिव से अभिन्न होने के कारण वे शिवा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 52 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Variant: Bhāskararāya divides verse 21b as शिवकामेश्वराङ्कस्था (52), शिवा (53), स्वाधीनवल्लभा (54); the master text used here reads शिवा (52), कामेश्वराङ्कस्था (53), शिवस्वाधीनवल्लभा (54). The readings and the commentary excerpt in this file come from his comment on शिवा, which is his 53rd name; the source line uses this site’s numbering." }
+}

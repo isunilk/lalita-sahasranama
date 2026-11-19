@@ -1,0 +1,44 @@
+{
+  "number": 48,
+  "verse": 20,
+  "slug": "maha-lavanya-shevadhi",
+  "devanagari": "महालावण्यशेवधिः",
+  "iastSplit": "Mahā-lāvaṇya-śevadhiḥ",
+  "archana": "ॐ महालावण्यशेवधये नमः",
+  "syllables": ["ma", "hā", "lā", "vaṇ", "ya", "śe", "va", "dhiḥ"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "लावण्य", "meaning": { "en": "loveliness, beauty", "hi": "लावण्य, सौन्दर्य" } },
+    { "sa": "शेवधि", "meaning": { "en": "treasure, treasure-house", "hi": "निधि, खजाना" } }
+  ],
+  "meaning": {
+    "en": "The treasure-house of supreme loveliness",
+    "hi": "महान लावण्य की निधि"
+  },
+  "explanation": {
+    "en": "All the beauty described so far is gathered into one phrase: she is the treasury of great loveliness. Śevadhi is an old word for a treasure or store of wealth.",
+    "hi": "अब तक वर्णित सारा सौन्दर्य एक वाक्य में समेट दिया गया है: वे महान लावण्य का भण्डार हैं। ‘शेवधि’ खजाने या निधि के लिए एक प्राचीन शब्द है।"
+  },
+  "inner": {
+    "en": "Every limb described from name 13 onward is a jewel from this treasury. Bhāskararāya glosses lāvaṇya as surpassing beauty. A treasure is not used up by what is taken from it, and the hymn has drawn only a little of hers.",
+    "hi": "नाम 13 से वर्णित हर अंग इसी भण्डार का एक रत्न है। भास्करराय ‘लावण्य’ का अर्थ अतिशय सौन्दर्य बताते हैं। खजाना उससे निकाली गई वस्तुओं से खाली नहीं होता, और स्तोत्र ने अभी उनके सौन्दर्य का थोड़ा-सा ही अंश लिया है।"
+  },
+  "story": {
+    "en": "Bhāskararāya points out that śevadhi is masculine, and by Pāṇini’s rule a tatpuruṣa compound takes the gender of its last member, so the whole name is masculine. The archana is therefore śevadhaye namaḥ, and he rejects the form śevadhyai.",
+    "hi": "भास्करराय बताते हैं कि ‘शेवधि’ पुल्लिंग है, और पाणिनि के सूत्र ‘परवल्लिङ्गं द्वन्द्वतत्पुरुषयोः’ के अनुसार तत्पुरुष समास अपने अन्तिम पद का लिंग लेता है, इसलिए पूरा नाम पुल्लिंग है। अतः अर्चना में ‘शेवधये नमः’ ही कहा जाता है; ‘शेवध्यै’ रूप को वे अस्वीकार करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "महतो लावण्यस्यातिशयितसौन्दर्यस्य शेवधिर्निधिः ।",
+    "translation": {
+      "en": "The śevadhi, the treasure, of great lāvaṇya, of surpassing beauty.",
+      "hi": "महान लावण्य, अर्थात् अतिशय सौन्दर्य, की शेवधि अर्थात् निधि।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 48 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The archana शेवधये is confirmed by Bhāskararāya, who rejects the feminine form; the edition prints the rejected form as शेवध्ये, evidently for शेवध्यै." }
+}

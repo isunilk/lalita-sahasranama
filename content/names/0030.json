@@ -1,0 +1,47 @@
+{
+  "number": 30,
+  "verse": 12,
+  "slug": "kamesha-baddha-mangalya-sutra-shobhita-kandhara",
+  "devanagari": "कामेशबद्धमाङ्गल्यसूत्रशोभितकन्धरा",
+  "iastSplit": "Kāmeśa-baddha-māṅgalya-sūtra-śobhita-kandharā",
+  "archana": "ॐ कामेशबद्धमाङ्गल्यसूत्रशोभितकन्धरायै नमः",
+  "syllables": ["kā", "me", "śa", "bad", "dha", "māṅ", "gal", "ya", "sūt", "ra", "śo", "bhi", "ta", "kan", "dha", "rā"],
+  "words": [
+    { "sa": "कामेश", "meaning": { "en": "Kāmeśa, Kāmeśvara", "hi": "कामेश, कामेश्वर" } },
+    { "sa": "बद्ध", "meaning": { "en": "tied", "hi": "बाँधा हुआ" } },
+    { "sa": "माङ्गल्य", "meaning": { "en": "auspicious", "hi": "मंगल" } },
+    { "sa": "सूत्र", "meaning": { "en": "thread", "hi": "सूत्र, धागा" } },
+    { "sa": "शोभित", "meaning": { "en": "adorned", "hi": "सुशोभित" } },
+    { "sa": "कन्धरा", "meaning": { "en": "neck", "hi": "ग्रीवा, गर्दन" } }
+  ],
+  "meaning": {
+    "en": "Whose neck is adorned with the marriage thread tied by Kāmeśvara",
+    "hi": "जिनकी ग्रीवा कामेश्वर द्वारा बाँधे गए मंगलसूत्र से सुशोभित है"
+  },
+  "explanation": {
+    "en": "Around her neck is the māṅgalya-sūtra, the sacred thread of marriage, tied by Kāmeśvara himself. It shows her as the bride of the Lord.",
+    "hi": "उनके गले में मंगलसूत्र है, विवाह का पवित्र सूत्र, जिसे स्वयं कामेश्वर ने बाँधा है। यह उन्हें परमेश्वर की वधू के रूप में दिखाता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya identifies Kāmeśa here as Paramaśiva and calls the thread the ornament of her saubhāgya, her blessed married state. He adds that it became the cause of Kāma’s return to life. The union of Śiva and Śakti is the ground of creation; even desire, once burnt away, is restored through it.",
+    "hi": "भास्करराय यहाँ कामेश को परमशिव बताते हैं, और इस सूत्र को उनके सौभाग्य का आभूषण कहते हैं। वे जोड़ते हैं कि यही काम के पुनर्जीवन का कारण बना। शिव और शक्ति का मिलन सृष्टि का आधार है; भस्म हुआ काम भी उसी से फिर जीवित होता है।"
+  },
+  "story": {
+    "en": "In the Lalitopākhyāna, the Devī who rose from the fire is wedded to Kāmeśvara. Name 84 tells how she became the life-giving herb for Kāma, who had been burnt by the fire of Śiva’s eye; Bhāskararāya links that revival to this marriage thread.",
+    "hi": "ललितोपाख्यान में अग्निकुण्ड से प्रकट हुई देवी का विवाह कामेश्वर से होता है। नाम 84 बताता है कि वे शिव के नेत्र की अग्नि से भस्म हुए कामदेव के लिए संजीवनी औषधि बनीं; भास्करराय उस पुनर्जीवन को इसी मंगलसूत्र से जोड़ते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "कामेशेन परमशिवेन बद्धं यन्माङ्गल्यसूत्रं कामोज्जीवनहेतुभूतं सौभाग्याभरणं तेन शोभिता कन्धरा शिरोधिर्यस्याः ।",
+    "translation": {
+      "en": "She whose neck is adorned by the auspicious thread tied by Kāmeśa, Paramaśiva: the ornament of her married fortune, which became the cause of Kāma’s return to life.",
+      "hi": "जिनकी ग्रीवा कामेश अर्थात् परमशिव द्वारा बाँधे गए उस मंगलसूत्र से सुशोभित है, जो उनके सौभाग्य का आभूषण है और काम के पुनर्जीवन का कारण बना।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 30 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The story says only that the Lalitopākhyāna tells of her marriage to Kāmeśvara; check the episode before adding detail. The link to name 84 follows Bhāskararāya’s phrase कामोज्जीवनहेतुभूतम्." }
+}

@@ -1,0 +1,47 @@
+{
+  "number": 41,
+  "verse": 18,
+  "slug": "indragopa-parikshipta-smara-tunabha-janghika",
+  "devanagari": "इन्द्रगोपपरिक्षिप्तस्मरतूणाभजङ्घिका",
+  "iastSplit": "Indragopa-parikṣipta-smara-tūṇābha-jaṅghikā",
+  "archana": "ॐ इन्द्रगोपपरिक्षिप्तस्मरतूणाभजङ्घिकायै नमः",
+  "syllables": ["in", "dra", "go", "pa", "pa", "rik", "ṣip", "tas", "ma", "ra", "tū", "ṇā", "bha", "jaṅ", "ghi", "kā"],
+  "words": [
+    { "sa": "इन्द्रगोप", "meaning": { "en": "indragopa, a bright red insect of the rainy season", "hi": "इन्द्रगोप, वर्षा ऋतु का लाल कीट (बीरबहूटी)" } },
+    { "sa": "परिक्षिप्त", "meaning": { "en": "studded all round", "hi": "चारों ओर से जड़ा हुआ" } },
+    { "sa": "स्मर", "meaning": { "en": "Kāma, the god of love", "hi": "कामदेव" } },
+    { "sa": "तूण", "meaning": { "en": "quiver", "hi": "तरकश" } },
+    { "sa": "आभ", "meaning": { "en": "resembling", "hi": "समान" } },
+    { "sa": "जङ्घिका", "meaning": { "en": "shank, lower leg", "hi": "पिंडली" } }
+  ],
+  "meaning": {
+    "en": "Whose shanks are like Kāma’s quivers studded with red indragopa insects",
+    "hi": "जिनकी पिंडलियाँ बीरबहूटियों से जड़े कामदेव के तरकश जैसी हैं"
+  },
+  "explanation": {
+    "en": "Her lower legs are compared to the quivers of Kāma, the god of love, studded all over with indragopas, the small velvety red insects that appear in the rains. The image suggests their graceful shape and their red glow.",
+    "hi": "उनकी पिंडलियों की तुलना कामदेव के तरकशों से की गई है, जिन पर चारों ओर इन्द्रगोप जड़े हैं, अर्थात् वर्षा ऋतु में दिखने वाले छोटे, मखमली लाल कीट (बीरबहूटी)। यह चित्र उनके सुडौल आकार और लाल आभा का संकेत देता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya notes the subtlety of the comparison: such quivers do not exist, so the likeness holds only if one imagines them. Even the best comparison, the hymn implies, is an act of imagination reaching toward her. Kāma’s quiver fits here, since the flower-arrows of name 11 are hers.",
+    "hi": "भास्करराय इस उपमा की सूक्ष्मता बताते हैं: ऐसे तरकश वास्तव में होते नहीं, इसलिए यह समानता तभी बनती है जब उनकी कल्पना की जाए। स्तोत्र मानो कहता है कि उत्तम से उत्तम उपमा भी उन तक पहुँचने का कल्पना-प्रयास ही है। कामदेव का तरकश यहाँ उचित है, क्योंकि नाम 11 के पुष्प-बाण उन्हीं के हैं।"
+  },
+  "story": {
+    "en": "Names 41 to 43 form one verse on her lower legs, ankles and feet. Bhāskararāya describes the indragopa as a deep-red creature of the rainy season.",
+    "hi": "नाम 41 से 43 मिलकर उनकी पिंडलियों, टखनों और पैरों पर एक श्लोक बनाते हैं। भास्करराय इन्द्रगोप को वर्षा ऋतु का गहरे लाल रंग का कीट बताते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "यदि तैः खचितौ स्यातां तदोपमा सम्भाव्येतेत्युपमायामभूतत्वांशध्वनिः ।",
+    "translation": {
+      "en": "If the quivers were studded with them, then the comparison might be conceivable: this suggests that the object of comparison is something that does not exist.",
+      "hi": "यदि तरकश उनसे जड़े होते, तो उपमा सम्भव होती: इससे ध्वनित होता है कि उपमान कोई अविद्यमान वस्तु है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 41 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s heading reads इन्दगोप (a misprint); his gloss has इन्द्रगोप. Check the Hindi बीरबहूटी for indragopa." }
+}

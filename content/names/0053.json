@@ -1,0 +1,44 @@
+{
+  "number": 53,
+  "verse": 21,
+  "slug": "kameshvaranka-stha",
+  "devanagari": "कामेश्वराङ्कस्था",
+  "iastSplit": "Kāmeśvarāṅka-sthā",
+  "archana": "ॐ कामेश्वराङ्कस्थायै नमः",
+  "syllables": ["kā", "meś", "va", "rāṅ", "kas", "thā"],
+  "words": [
+    { "sa": "कामेश्वर", "meaning": { "en": "Kāmeśvara, Śiva as the Lord of desire", "hi": "कामेश्वर, कामनाओं के स्वामी शिव" } },
+    { "sa": "अङ्क", "meaning": { "en": "lap", "hi": "गोद" } },
+    { "sa": "स्था", "meaning": { "en": "seated, abiding", "hi": "स्थित, विराजमान" } }
+  ],
+  "meaning": {
+    "en": "Seated on the lap of Kāmeśvara",
+    "hi": "कामेश्वर की गोद में विराजमान"
+  },
+  "explanation": {
+    "en": "She sits on the lap of Kāmeśvara, her consort. Bhāskararāya specifies his left lap, and says this seat is named first among her abodes because it is the foremost.",
+    "hi": "वे अपने स्वामी कामेश्वर की गोद में विराजती हैं। भास्करराय स्पष्ट करते हैं कि यह उनकी बायीं गोद है, और कहते हैं कि उनके निवास-स्थानों में इसे सबसे पहले इसलिए कहा गया कि यही प्रमुख है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya explains Kāma here not as the god of love but as the Lord himself. Kāma is “the lovely one”, or one who takes any form at will, or consciousness itself, since scripture lists kāma among the names of prajñāna, which he identifies with Śiva; or it is the Lord who desired to create the world. Śakti seated on Śiva’s lap is the image of their inseparable union.",
+    "hi": "भास्करराय यहाँ ‘काम’ को कामदेव नहीं, स्वयं परमेश्वर मानते हैं। ‘काम’ अर्थात् जो कमनीय है, या जो इच्छानुसार कोई भी रूप धारण करे, या स्वयं चेतना, क्योंकि श्रुति ‘काम’ को प्रज्ञान के नामों में गिनती है, और वे प्रज्ञान को शिव बताते हैं; अथवा जगत् की सृष्टि की इच्छा करने वाले ईश्वर। शिव की गोद में विराजमान शक्ति उनके अविभाज्य मिलन का चित्र है।"
+  },
+  "story": {
+    "en": "In Bhāskararāya’s reading this name is Śiva-kāmeśvarāṅkasthā, and he explains that the three words Śiva, Kāma and Īśvara together rule out both Rudra of the guṇas and Madana, the god of love. After this seat the next verse names her other abodes: the central peak of Meru, her city, and the house of the wish-granting gem.",
+    "hi": "भास्करराय के पाठ में यह नाम ‘शिवकामेश्वराङ्कस्था’ है, और वे समझाते हैं कि शिव, काम और ईश्वर, ये तीनों शब्द मिलकर गुणों वाले रुद्र और मदन (कामदेव), दोनों को अलग कर देते हैं। इस आसन के बाद अगला श्लोक उनके अन्य निवास बताता है: मेरु का मध्य शिखर, उनका नगर, और चिन्तामणि-गृह।"
+  },
+  "commentary": {
+    "sanskrit": "तस्याङ्के वामोत्सङ्गे तिष्ठति निषण्णा ।",
+    "translation": {
+      "en": "She abides, seated, on his lap (aṅka), that is, his left lap.",
+      "hi": "वे उनकी गोद में, अर्थात् बायीं गोद में, बैठी हुई विराजती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 53 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Variant as noted under name 52: Bhāskararāya’s 52nd name is शिवकामेश्वराङ्कस्था. His explanation of kāma (and of the three words Śiva, Kāma, Īśvara) is adapted here, and the commentary excerpt comes from that comment." }
+}

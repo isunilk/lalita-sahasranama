@@ -1,0 +1,43 @@
+{
+  "number": 42,
+  "verse": 18,
+  "slug": "gudha-gulpha",
+  "devanagari": "गूढगुल्फा",
+  "iastSplit": "Gūḍha-gulphā",
+  "archana": "ॐ गूढगुल्फायै नमः",
+  "syllables": ["gū", "ḍha", "gul", "phā"],
+  "words": [
+    { "sa": "गूढ", "meaning": { "en": "hidden", "hi": "छिपा हुआ" } },
+    { "sa": "गुल्फ", "meaning": { "en": "ankle", "hi": "टखना" } }
+  ],
+  "meaning": {
+    "en": "Whose ankles are hidden, smoothly rounded",
+    "hi": "जिनके टखने छिपे हुए, सुडौल हैं"
+  },
+  "explanation": {
+    "en": "Her ankles do not jut out; they are hidden in the smooth, rounded flesh of her feet. Bhāskararāya glosses “hidden” as “well-fleshed”.",
+    "hi": "उनके टखने उभरे हुए नहीं हैं; वे पैरों के चिकने, भरे हुए मांस में छिपे हैं। भास्करराय ‘गूढ’ का अर्थ ‘मांसल’ बताते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya keeps to the plain sense. After the long compound names, this short one slows the description as it nears her feet, the place where every devotee finally bows.",
+    "hi": "भास्करराय यहाँ सीधा अर्थ ही देते हैं। लम्बे समास वाले नामों के बाद यह छोटा-सा नाम वर्णन की गति धीमी कर देता है, जैसे-जैसे वह उनके चरणों के निकट पहुँचता है, जहाँ हर भक्त अन्ततः शीश झुकाता है।"
+  },
+  "story": {
+    "en": "Names 41 to 43 form one verse on her lower legs, ankles and feet. Bhāskararāya places the word pārṣṇi, “heel”, beside gulpha in his gloss.",
+    "hi": "नाम 41 से 43 मिलकर उनकी पिंडलियों, टखनों और पैरों पर एक श्लोक बनाते हैं। भास्करराय अपनी व्याख्या में ‘गुल्फ’ के साथ ‘पार्ष्णि’ (एड़ी) शब्द भी रखते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "गूढौ मांसलौ गुल्फौ पार्ष्णी यस्याः ।",
+    "translation": {
+      "en": "She whose ankles, by the heels, are gūḍha, hidden, that is, well-fleshed.",
+      "hi": "जिनके गुल्फ, अर्थात् एड़ियों के पास के टखने, गूढ अर्थात् मांसल हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 42 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Archana corrected from the web list’s गूढगूल्फायै to गूढगुल्फायै, matching the verse (गुल्फ, short u). Bhāskararāya’s gloss गुल्फौ पार्ष्णी is translated loosely (ankles by the heels); check." }
+}

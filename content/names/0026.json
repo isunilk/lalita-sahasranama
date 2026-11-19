@@ -1,0 +1,46 @@
+{
+  "number": 26,
+  "verse": 10,
+  "slug": "karpura-vitikamoda-samakarshad-digantara",
+  "devanagari": "कर्पूरवीटिकामोदसमाकर्षद्दिगन्तरा",
+  "iastSplit": "Karpūra-vīṭikāmoda-samākarṣad-digantarā",
+  "archana": "ॐ कर्पूरवीटिकामोदसमाकर्षद्दिगन्तरायै नमः",
+  "syllables": ["kar", "pū", "ra", "vī", "ṭi", "kā", "mo", "da", "sa", "mā", "kar", "ṣad", "di", "gan", "ta", "rā"],
+  "words": [
+    { "sa": "कर्पूर", "meaning": { "en": "camphor", "hi": "कपूर" } },
+    { "sa": "वीटिका", "meaning": { "en": "betel roll (tāmbūla)", "hi": "पान का बीड़ा (ताम्बूल)" } },
+    { "sa": "आमोद", "meaning": { "en": "fragrance", "hi": "सुगन्ध" } },
+    { "sa": "समाकर्षत्", "meaning": { "en": "drawing in, attracting", "hi": "आकर्षित करता हुआ" } },
+    { "sa": "दिगन्तर", "meaning": { "en": "the far reaches of the directions", "hi": "दिशाओं का विस्तार" } }
+  ],
+  "meaning": {
+    "en": "The fragrance of whose camphor-betel draws in the farthest directions",
+    "hi": "जिनके कर्पूरयुक्त पान की सुगन्ध दिशाओं के छोर तक खींचती है"
+  },
+  "explanation": {
+    "en": "She chews tāmbūla, a betel roll prepared with camphor and other fragrant things, and its fragrance reaches to the ends of the directions. Bhāskararāya lists ingredients such as cardamom, clove, camphor, musk, saffron, nutmeg, areca nut, lime and catechu.",
+    "hi": "वे कर्पूर तथा अन्य सुगन्धित द्रव्यों से बना ताम्बूल (पान का बीड़ा) ग्रहण करती हैं, और उसकी सुगन्ध दिशाओं के छोर तक फैल जाती है। भास्करराय उसकी सामग्री गिनाते हैं: इलायची, लौंग, कपूर, कस्तूरी, केसर, जायफल, सुपारी, चूना, कत्था आदि।"
+  },
+  "inner": {
+    "en": "Bhāskararāya reads digantarā playfully: the deities of the ten directions are her garment, surrounding her unseen. They long for a morsel of betel from her lotus mouth, and, not receiving it, all rush at once, each wanting to be first, to catch the first breath of its fragrance. Even the guardians of space wait upon the smallest grace that comes from her.",
+    "hi": "भास्करराय ‘दिगन्तरा’ का एक रसपूर्ण अर्थ देते हैं: दसों दिशाओं के देवता उनका वस्त्र हैं, जो अदृश्य रूप से उन्हें घेरे रहते हैं। वे उनके मुख-कमल से गिरे पान के एक कौर की आशा करते हैं, और वह न मिलने पर उसकी पहली सुगन्ध को पकड़ने के लिए एक साथ, एक-दूसरे से पहले, दौड़ पड़ते हैं। दिशाओं के रक्षक भी उनकी छोटी-सी कृपा की प्रतीक्षा करते हैं।"
+  },
+  "story": {
+    "en": "Tāmbūla is part of the honour shown to a guest, and in worship it is offered to the Devī. Bhāskararāya’s own text reads samākarṣi-digantarā, “whose fragrance makes the quarters fragrant”, with the same sense.",
+    "hi": "ताम्बूल अतिथि-सत्कार का अंग है, और पूजा में भी देवी को ताम्बूल अर्पित किया जाता है। भास्करराय के अपने पाठ में ‘समाकर्षिदिगन्तरा’ है, अर्थात् जिनकी सुगन्ध से दिशाएँ सुवासित हो जाती हैं; भाव वही है।"
+  },
+  "commentary": {
+    "sanskrit": "ताभिर्देवताभिरम्बामुखकमलविगलत्ताम्बूलकवलनापेक्षिणीभिरपि तदलाभात्प्रथमनिःसृतपरिमल एवाहंपूर्विकया यौगपद्येन समाकृष्य सर्वाभिर्गृह्यते ।",
+    "translation": {
+      "en": "Those deities long for a morsel of the betel falling from the Mother’s lotus mouth; not obtaining it, they all, each pressing to be first, draw in together and seize the fragrance that first comes forth.",
+      "hi": "वे देवता माँ के मुख-कमल से गिरने वाले पान के कौर की अपेक्षा रखते हैं; वह न मिलने पर सब के सब, ‘पहले मैं’ के भाव से, एक साथ पहली निकली सुगन्ध को ही खींचकर ग्रहण कर लेते हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 26 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The verse reads समाकर्षद्दिगन्तरा; Bhāskararāya reads समाकर्षिदिगन्तरा. The ingredient list in the explanation is a partial paraphrase of the verse he quotes." }
+}

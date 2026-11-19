@@ -1,0 +1,43 @@
+{
+  "number": 50,
+  "verse": 21,
+  "slug": "anavadyangi",
+  "devanagari": "अनवद्याङ्गी",
+  "iastSplit": "Anavadyāṅgī",
+  "archana": "ॐ अनवद्याङ्ग्यै नमः",
+  "syllables": ["a", "na", "vad", "yāṅ", "gī"],
+  "words": [
+    { "sa": "अनवद्य", "meaning": { "en": "faultless, beyond reproach", "hi": "अनिन्द्य, निर्दोष" } },
+    { "sa": "अङ्ग", "meaning": { "en": "limb, body", "hi": "अंग" } }
+  ],
+  "meaning": {
+    "en": "Whose every limb is flawless",
+    "hi": "जिनका प्रत्येक अंग निर्दोष है"
+  },
+  "explanation": {
+    "en": "Avadya means “blameworthy”, and anavadya “beyond reproach”. Every limb of hers is flawless and bears every auspicious mark.",
+    "hi": "‘अवद्य’ का अर्थ है निन्दनीय, और ‘अनवद्य’ का अर्थ है निन्दा से परे। उनका हर अंग निर्दोष है और सभी शुभ लक्षणों से युक्त है।"
+  },
+  "inner": {
+    "en": "After the long description, the hymn adds that no fault can be found anywhere in her. Bhāskararāya glosses the name simply: her limbs bear excellent marks. What is flawless needs nothing added; the devotee comes to her not to improve on her but to be made whole.",
+    "hi": "लम्बे वर्णन के बाद स्तोत्र जोड़ता है कि उनमें कहीं कोई दोष नहीं मिल सकता। भास्करराय इसका सीधा अर्थ देते हैं: उनके अंग उत्तम लक्षणों वाले हैं। जो निर्दोष है उसमें कुछ जोड़ना नहीं होता; भक्त उन्हें सँवारने नहीं, स्वयं पूर्ण होने उनके पास जाता है।"
+  },
+  "story": {
+    "en": "Names 49 to 51 form the first line of verse 21, a summary of her form: red in everything, flawless in every limb, adorned with every ornament. In the chanted verse sarvāruṇā and anavadyāṅgī run together, and the sign ऽ marks where the two names meet.",
+    "hi": "नाम 49 से 51 श्लोक 21 की पहली पंक्ति बनाते हैं, जो उनके रूप का सार है: सर्वथा अरुण, हर अंग से निर्दोष, हर आभूषण से विभूषित। पाठ में ‘सर्वारुणा’ और ‘अनवद्याङ्गी’ मिलकर बोले जाते हैं, और ‘ऽ’ चिह्न दोनों नामों का जोड़ दिखाता है।"
+  },
+  "commentary": {
+    "sanskrit": "अवद्यानि निन्द्यानि न भवन्तीत्यनवद्यानि सुलक्षणान्यङ्गानि अवयवा यस्याः ।",
+    "translation": {
+      "en": "Avadya means blameworthy; limbs that are not so are anavadya, well-marked: she whose aṅgas, her limbs, are such.",
+      "hi": "‘अवद्य’ अर्थात् निन्दनीय; जो ऐसे न हों वे अनवद्य, अर्थात् सुलक्षण, अंग जिनके अवयव हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 50 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. In the verse the name follows सर्वारुणा with an avagraha (सर्वारुणाऽनवद्याङ्गी); the name is अनवद्याङ्गी." }
+}

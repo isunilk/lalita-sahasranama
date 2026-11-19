@@ -1,0 +1,47 @@
+{
+  "number": 16,
+  "verse": 5,
+  "slug": "mukha-chandra-kalankabha-mriganabhi-visheshaka",
+  "devanagari": "मुखचन्द्रकलङ्काभमृगनाभिविशेषका",
+  "iastSplit": "Mukha-candra-kalaṅkābha-mṛganābhi-viśeṣakā",
+  "archana": "ॐ मुखचन्द्रकलङ्काभमृगनाभिविशेषकायै नमः",
+  "syllables": ["mu", "kha", "can", "dra", "ka", "laṅ", "kā", "bha", "mṛ", "ga", "nā", "bhi", "vi", "śe", "ṣa", "kā"],
+  "words": [
+    { "sa": "मुख", "meaning": { "en": "face", "hi": "मुख" } },
+    { "sa": "चन्द्र", "meaning": { "en": "moon", "hi": "चन्द्रमा" } },
+    { "sa": "कलङ्क", "meaning": { "en": "the dark mark on the moon", "hi": "चन्द्रमा का कलंक" } },
+    { "sa": "आभ", "meaning": { "en": "resembling", "hi": "समान" } },
+    { "sa": "मृगनाभि", "meaning": { "en": "musk (literally, deer’s navel)", "hi": "कस्तूरी (शाब्दिक अर्थ: मृग की नाभि)" } },
+    { "sa": "विशेषक", "meaning": { "en": "forehead mark, tilaka", "hi": "तिलक" } }
+  ],
+  "meaning": {
+    "en": "Whose musk tilaka is like the dark spot on her moon-like face",
+    "hi": "जिनका कस्तूरी-तिलक मुखचन्द्र के कलंक-सा शोभता है"
+  },
+  "explanation": {
+    "en": "Her face is the moon, and the musk mark on her forehead is like the dark spot on that moon. Bhāskararāya calls this a rūpaka, a metaphor: the face is called the moon outright, and the tilaka is compared to its mark.",
+    "hi": "उनका मुख चन्द्रमा है, और ललाट पर लगा कस्तूरी का तिलक उस चन्द्रमा के कलंक के समान है। भास्करराय इसे रूपक कहते हैं: मुख को सीधे चन्द्रमा कहा गया है, और तिलक की तुलना उसके कलंक से की गई है।"
+  },
+  "inner": {
+    "en": "On the moon the dark mark is a flaw; on her face the same dark shape becomes an ornament. Bhāskararāya reads the name as poetry and gives no hidden meaning. A devotee may read in it that what is a blemish elsewhere becomes beauty in her presence.",
+    "hi": "चन्द्रमा पर कलंक दोष है; उनके मुख पर वही श्याम आकृति आभूषण बन जाती है। भास्करराय इसे काव्य के रूप में ही पढ़ते हैं और कोई गूढ़ अर्थ नहीं बताते। भक्त इसमें यह भाव पढ़ सकता है कि जो अन्यत्र दोष है, वह उनके सान्निध्य में शोभा बन जाता है।"
+  },
+  "story": {
+    "en": "Names 15 and 16 form one verse on her forehead: its half-moon shape, and the dark musk tilaka upon it. Musk (kastūrī) was the most precious material for a forehead mark.",
+    "hi": "नाम 15 और 16 मिलकर उनके ललाट पर एक श्लोक बनाते हैं: उसका अर्धचन्द्र-सा आकार, और उस पर कस्तूरी का श्याम तिलक। ललाट के तिलक के लिए कस्तूरी सबसे बहुमूल्य द्रव्य मानी जाती थी।"
+  },
+  "commentary": {
+    "sanskrit": "मुखमेव चन्द्र इति रूपकं तत्कलङ्कत्वेन तुल्यो मृगनाभेः कस्तूर्या विशेषकः तिलको यस्यास्तथोक्ता ।",
+    "translation": {
+      "en": "“The face itself is the moon” is a metaphor. She whose viśeṣaka, the tilaka, of mṛganābhi, musk, is like that moon’s dark mark.",
+      "hi": "‘मुख ही चन्द्रमा है’, यह रूपक है। जिनका मृगनाभि अर्थात् कस्तूरी का विशेषक (तिलक) उस चन्द्रमा के कलंक के समान है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 16 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Inner layer is a devotional reflection; Bhāskararāya gives only the figure of speech. The remark on musk in the story is general context, not from the commentary." }
+}

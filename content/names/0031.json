@@ -1,0 +1,40 @@
+{
+  "number": 31,
+  "verse": 13,
+  "slug": "kanakangada-keyura-kamaniya-bhujanvita",
+  "devanagari": "कनकाङ्गदकेयूरकमनीयभुजान्विता",
+  "iastSplit": "Kanakāṅgada-keyūra-kamanīya-bhujānvitā",
+  "archana": "ॐ कनकाङ्गदकेयूरकमनीयभुजान्वितायै नमः",
+  "syllables": ["ka", "na", "kāṅ", "ga", "da", "ke", "yū", "ra", "ka", "ma", "nī", "ya", "bhu", "jān", "vi", "tā"],
+  "words": [
+    { "sa": "कनक", "meaning": { "en": "gold", "hi": "सोना" } },
+    { "sa": "अङ्गद", "meaning": { "en": "armlet", "hi": "अंगद, बाजूबन्द" } },
+    { "sa": "केयूर", "meaning": { "en": "upper-arm bracelet", "hi": "केयूर, भुजबन्ध" } },
+    { "sa": "कमनीय", "meaning": { "en": "lovely", "hi": "सुन्दर, मनोहर" } },
+    { "sa": "भुज", "meaning": { "en": "arm", "hi": "भुजा" } },
+    { "sa": "अन्विता", "meaning": { "en": "endowed with", "hi": "युक्त" } }
+  ],
+  "meaning": {
+    "en": "Whose lovely arms are adorned with golden armlets and bracelets",
+    "hi": "स्वर्ण के अंगद और केयूर से सजी मनोहर भुजाओं वाली"
+  },
+  "explanation": {
+    "en": "Her four arms are lovely, adorned with golden aṅgadas and keyūras, ornaments worn on the upper arm. Bhāskararāya allows two readings: the two words may name two ornaments of different shape, or kanakāṅgada may describe keyūras whose whole body is gold.",
+    "hi": "उनकी चारों भुजाएँ मनोहर हैं, जो सोने के अंगद और केयूर से सजी हैं, जो भुजा के ऊपरी भाग के आभूषण हैं। भास्करराय दो अर्थ मानते हैं: ये दोनों शब्द अलग-अलग आकार के दो आभूषण हो सकते हैं, या ‘कनकाङ्गद’ का अर्थ है ऐसे केयूर जिनका सारा शरीर सोने का है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya’s notes here are about words, not hidden meanings. These are the four arms of name 7, which hold the noose, goad, sugarcane bow and flower-arrows of names 8 to 11; here the hymn turns from what they hold to their beauty. Power and loveliness belong to the same arms.",
+    "hi": "यहाँ भास्करराय की टिप्पणियाँ शब्दों पर हैं, गूढ़ अर्थ पर नहीं। ये वही चार भुजाएँ हैं जिनका उल्लेख नाम 7 में हुआ, और जो नाम 8 से 11 में पाश, अंकुश, इक्षु-धनुष और पुष्प-बाण धारण करती हैं; यहाँ स्तोत्र उनके आयुधों से हटकर उनकी सुन्दरता पर आता है। शक्ति और सौन्दर्य एक ही भुजाओं में हैं।"
+  },
+  "story": {
+    "en": "Names 31 and 32 form one verse on her arms and neck. For the two-ornament reading, Bhāskararāya cites lines from the Brahmottara Khaṇḍa and elsewhere that name aṅgada and keyūra side by side.",
+    "hi": "नाम 31 और 32 मिलकर उनकी भुजाओं और गले पर एक श्लोक बनाते हैं। दो आभूषणों वाले अर्थ के समर्थन में भास्करराय ब्रह्मोत्तर खण्ड आदि की वे पंक्तियाँ देते हैं जिनमें अंगद और केयूर साथ-साथ आते हैं।"
+  },
+  "commentary": null,
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The inner layer is a reflection linking names 7 to 11; Bhāskararāya’s comments here are lexical. No commentary excerpt was chosen, as the relevant sentence in the edition has the misprint केयुर." }
+}

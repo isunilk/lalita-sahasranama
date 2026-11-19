@@ -1,0 +1,48 @@
+{
+  "number": 46,
+  "verse": 20,
+  "slug": "shinjana-mani-manjira-mandita-shri-padambuja",
+  "devanagari": "शिञ्जानमणिमञ्जीरमण्डितश्रीपदाम्बुजा",
+  "iastSplit": "Śiñjāna-maṇi-mañjīra-maṇḍita-śrī-padāmbujā",
+  "archana": "ॐ शिञ्जानमणिमञ्जीरमण्डितश्रीपदाम्बुजायै नमः",
+  "syllables": ["śiñ", "jā", "na", "ma", "ṇi", "mañ", "jī", "ra", "maṇ", "ḍi", "taś", "rī", "pa", "dām", "bu", "jā"],
+  "words": [
+    { "sa": "शिञ्जान", "meaning": { "en": "tinkling", "hi": "झनकता हुआ" } },
+    { "sa": "मणि", "meaning": { "en": "gem", "hi": "मणि" } },
+    { "sa": "मञ्जीर", "meaning": { "en": "anklet", "hi": "नूपुर, पायल" } },
+    { "sa": "मण्डित", "meaning": { "en": "adorned", "hi": "सुशोभित" } },
+    { "sa": "श्री", "meaning": { "en": "beauty, auspiciousness", "hi": "शोभा, श्री" } },
+    { "sa": "पद", "meaning": { "en": "foot", "hi": "चरण" } },
+    { "sa": "अम्बुज", "meaning": { "en": "lotus (literally, water-born)", "hi": "कमल" } }
+  ],
+  "meaning": {
+    "en": "Whose lovely lotus feet are adorned with anklets of tinkling gems",
+    "hi": "जिनके श्रीयुक्त चरण-कमल झनकते मणिमय नूपुरों से सुशोभित हैं"
+  },
+  "explanation": {
+    "en": "Her lotus feet wear anklets set with gems that chime as she moves. Bhāskararāya explains the compound as feet whose śrī, their beauty, is adorned by these anklets, or simply as feet that are adorned and full of beauty.",
+    "hi": "उनके चरण-कमलों में मणियों से जड़े नूपुर हैं, जो चलने पर झनकते हैं। भास्करराय इस समास को दो प्रकार से समझाते हैं: ऐसे चरण जिनकी श्री (शोभा) इन नूपुरों से सजी है, या केवल ऐसे चरण जो सुशोभित और श्रीयुक्त हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya’s further notes here are on grammar. The sound of the anklets completes the music of her form, begun with the bells of her girdle in name 38. Śrī, placed before her feet, marks them as the seat of all auspiciousness, where devotees lay down their heads.",
+    "hi": "यहाँ भास्करराय की आगे की टिप्पणियाँ व्याकरण पर हैं। नूपुरों की ध्वनि उनके रूप के उस संगीत को पूरा करती है जो नाम 38 की करधनी के घुँघरुओं से आरम्भ हुआ था। चरणों से पहले आया ‘श्री’ शब्द उन्हें समस्त मंगल का स्थान बताता है, जहाँ भक्त अपना शीश रखते हैं।"
+  },
+  "story": {
+    "en": "Names 46 to 48 form one verse: her feet, her gait, and her beauty as a whole. Bhāskararāya’s text spells the first word siñjāna.",
+    "hi": "नाम 46 से 48 मिलकर एक श्लोक बनाते हैं: उनके चरण, उनकी चाल और उनका समग्र सौन्दर्य। भास्करराय के पाठ में पहला शब्द ‘सिञ्जान’ लिखा है।"
+  },
+  "commentary": {
+    "sanskrit": "सिञ्जानाः भूषणजन्यशब्दविशेषं कुर्वाणा मणयो ययोस्ताभ्यां मञ्जीराभ्यां पादकटकाभ्यां मण्डिता श्रीर्ययोस्तादृशे पदाम्बुजे यस्याः",
+    "translation": {
+      "en": "She whose lotus feet have a beauty (śrī) adorned by two mañjīras, foot-rings whose gems are siñjāna, making the particular sound that ornaments make.",
+      "hi": "जिनके चरण-कमलों की श्री उन दो मञ्जीरों, अर्थात् पायलों, से सुशोभित है, जिनकी मणियाँ आभूषणों से उत्पन्न होने वाली विशेष झंकार करती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 46 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The verse reads शिञ्जान; Bhāskararāya reads सिञ्जान. His other notes here are grammatical (no kap suffix; an alternative three-word bahuvrīhi)." }
+}

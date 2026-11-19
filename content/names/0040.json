@@ -1,0 +1,47 @@
+{
+  "number": 40,
+  "verse": 17,
+  "slug": "manikya-makutakara-janu-dvaya-virajita",
+  "devanagari": "माणिक्यमकुटाकारजानुद्वयविराजिता",
+  "iastSplit": "Māṇikya-makuṭākāra-jānu-dvaya-virājitā",
+  "archana": "ॐ माणिक्यमकुटाकारजानुद्वयविराजितायै नमः",
+  "syllables": ["mā", "ṇik", "ya", "ma", "ku", "ṭā", "kā", "ra", "jā", "nud", "va", "ya", "vi", "rā", "ji", "tā"],
+  "words": [
+    { "sa": "माणिक्य", "meaning": { "en": "ruby", "hi": "माणिक्य" } },
+    { "sa": "मकुट", "meaning": { "en": "crown, rounded cap", "hi": "मुकुट" } },
+    { "sa": "आकार", "meaning": { "en": "shape", "hi": "आकार" } },
+    { "sa": "जानु", "meaning": { "en": "knee", "hi": "घुटना" } },
+    { "sa": "द्वय", "meaning": { "en": "pair", "hi": "युगल" } },
+    { "sa": "विराजिता", "meaning": { "en": "shining, graced", "hi": "सुशोभित" } }
+  ],
+  "meaning": {
+    "en": "Graced by knees shaped like crowns carved from ruby",
+    "hi": "माणिक्य के मुकुट जैसे आकार वाले घुटनों से सुशोभित"
+  },
+  "explanation": {
+    "en": "Her two knees are rounded and glowing, shaped like crowns made of ruby. Bhāskararāya describes the crown meant here as a rounded cap carved from a single, unbroken ruby.",
+    "hi": "उनके दोनों घुटने गोल और दीप्त हैं, माणिक्य के मुकुट जैसे आकार के। भास्करराय बताते हैं कि यहाँ अभिप्रेत मुकुट एक ही अखण्ड माणिक्य से बनी गोल टोपी जैसा है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya keeps to the plain sense. The ruby crown that adorned her head in name 14 now gives its shape to her knees; from head to foot, the same red and precious light runs through her form.",
+    "hi": "भास्करराय यहाँ सीधा अर्थ ही देते हैं। जो माणिक्य-मुकुट नाम 14 में उनके सिर की शोभा था, वही यहाँ उनके घुटनों को आकार देता है; सिर से पाँव तक वही लाल, बहुमूल्य प्रकाश उनके रूप में व्याप्त है।"
+  },
+  "story": {
+    "en": "With name 39 this completes the verse on her thighs and knees. Bhāskararāya’s text reads mukuṭa; makuṭa, used here, is another form of the same word.",
+    "hi": "नाम 39 के साथ यह जंघाओं और घुटनों का श्लोक पूरा करता है। भास्करराय के पाठ में ‘मुकुट’ है; यहाँ प्रयुक्त ‘मकुट’ उसी शब्द का दूसरा रूप है।"
+  },
+  "commentary": {
+    "sanskrit": "टोपिकानामकं न्युब्जं शिरःप्रावरणं यत्तस्येवाकारो ययोस्तयोर्जानुनोरूरुपर्वणोर्द्वयेन विराजिता ।",
+    "translation": {
+      "en": "[The ruby crown is] a dome-shaped head-covering called ṭopikā. She shines with a pair of knees, the joints of the thighs, whose shape is like it.",
+      "hi": "[माणिक्य-मुकुट] ‘टोपिका’ नाम का गोल शिरस्त्राण है। उसी के आकार वाले दो घुटनों, अर्थात् जंघा के जोड़ों, से वे सुशोभित हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 40 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The verse reads मकुट; Bhāskararāya reads मुकुट (the same word). The commentary excerpt starts mid-sentence to avoid the edition’s misprint मुकुटंं just before it." }
+}

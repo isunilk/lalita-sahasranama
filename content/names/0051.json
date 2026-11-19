@@ -1,0 +1,44 @@
+{
+  "number": 51,
+  "verse": 21,
+  "slug": "sarvabharana-bhushita",
+  "devanagari": "सर्वाभरणभूषिता",
+  "iastSplit": "Sarvābharaṇa-bhūṣitā",
+  "archana": "ॐ सर्वाभरणभूषितायै नमः",
+  "syllables": ["sar", "vā", "bha", "ra", "ṇa", "bhū", "ṣi", "tā"],
+  "words": [
+    { "sa": "सर्व", "meaning": { "en": "all", "hi": "सर्व, सभी" } },
+    { "sa": "आभरण", "meaning": { "en": "ornament", "hi": "आभूषण" } },
+    { "sa": "भूषिता", "meaning": { "en": "adorned", "hi": "विभूषित" } }
+  ],
+  "meaning": {
+    "en": "Adorned with every kind of ornament",
+    "hi": "सभी आभूषणों से विभूषित"
+  },
+  "explanation": {
+    "en": "She wears every ornament there is. Bhāskararāya counts them from the crest-jewel on her head down to the rings on her toes, and refers to the forty ornaments listed in the Kālikā Purāṇa and to others named in the Kalpasūtra.",
+    "hi": "वे सभी आभूषण धारण करती हैं। भास्करराय उन्हें सिर के चूड़ामणि से लेकर पैरों की अँगुलियों के छल्लों तक गिनते हैं, और कालिका पुराण में बताए चालीस आभूषणों तथा कल्पसूत्र में बताए अन्य आभूषणों का उल्लेख करते हैं।"
+  },
+  "inner": {
+    "en": "With this name the description of her gross (sthūla) form is complete, from crest-jewel to toe-ring. Bhāskararāya says the hymn now turns to the places where she abides. Having seen her form, the devotee is led into her presence.",
+    "hi": "इस नाम के साथ उनके स्थूल रूप का वर्णन, चूड़ामणि से लेकर पैरों के छल्लों तक, पूर्ण होता है। भास्करराय कहते हैं कि अब स्तोत्र उन स्थानों की ओर मुड़ता है जहाँ वे निवास करती हैं। उनका रूप देखने के बाद भक्त को उनके सान्निध्य में ले जाया जाता है।"
+  },
+  "story": {
+    "en": "The head-to-foot description that began at name 13 ends here. Ornaments have marked each stage of it: crown, ear-rings, nose jewel, necklaces, armlets, girdle and anklets.",
+    "hi": "नाम 13 से आरम्भ हुआ सिर से चरणों तक का वर्णन यहाँ पूर्ण होता है। उसके हर पड़ाव पर आभूषण आए हैं: मुकुट, कुण्डल, नासाभूषण, हार, बाजूबन्द, करधनी और नूपुर।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वैश्चूडामणिप्रभृतिपादाङ्गुलीयकान्तैः कालिकापुराणोक्तैश्चत्वारिंशता कल्पसूत्रोक्तैरन्यैरपि वाभरणैर्भूषिता ।",
+    "translation": {
+      "en": "Adorned with all ornaments, from the crest-jewel to the toe-rings: the forty named in the Kālikā Purāṇa, or the others named in the Kalpasūtra.",
+      "hi": "चूड़ामणि से लेकर पैरों की अँगूठियों तक के सभी आभूषणों से विभूषित: कालिका पुराण में कहे गए चालीस से, या कल्पसूत्र में कहे गए अन्य आभूषणों से।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 51 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s कल्पसूत्र is presumably the Paraśurāma Kalpasūtra; it is not identified further here." }
+}

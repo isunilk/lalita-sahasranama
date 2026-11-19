@@ -1,0 +1,47 @@
+{
+  "number": 37,
+  "verse": 16,
+  "slug": "arunaruna-kausumbha-vastra-bhasvat-kati-tati",
+  "devanagari": "अरुणारुणकौसुम्भवस्त्रभास्वत्कटीतटी",
+  "iastSplit": "Aruṇāruṇa-kausumbha-vastra-bhāsvat-kaṭī-taṭī",
+  "archana": "ॐ अरुणारुणकौसुम्भवस्त्रभास्वत्कटीतट्यै नमः",
+  "syllables": ["a", "ru", "ṇā", "ru", "ṇa", "kau", "sum", "bha", "vas", "tra", "bhās", "vat", "ka", "ṭī", "ta", "ṭī"],
+  "words": [
+    { "sa": "अरुणारुण", "meaning": { "en": "deepest red", "hi": "गहरा लाल" } },
+    { "sa": "कौसुम्भ", "meaning": { "en": "dyed with safflower", "hi": "कुसुम्भ से रँगा" } },
+    { "sa": "वस्त्र", "meaning": { "en": "garment", "hi": "वस्त्र" } },
+    { "sa": "भास्वत्", "meaning": { "en": "shining", "hi": "दमकता हुआ" } },
+    { "sa": "कटी", "meaning": { "en": "hips", "hi": "कटि" } },
+    { "sa": "तटी", "meaning": { "en": "slope, region", "hi": "तट, प्रदेश" } }
+  ],
+  "meaning": {
+    "en": "Whose hips shine in a deep red garment dyed with safflower",
+    "hi": "जिनका कटि-प्रदेश कुसुम्भ से रँगे गहरे लाल वस्त्र से दमकता है"
+  },
+  "explanation": {
+    "en": "Around her hips she wears a garment of the deepest red, dyed with kusumbha, safflower. Bhāskararāya explains that the doubled word aruṇāruṇa means “intensely red”, or else “red as Aruṇa”, the charioteer of the rising sun.",
+    "hi": "वे अपने कटि-प्रदेश पर कुसुम्भ से रँगा अत्यन्त लाल वस्त्र धारण करती हैं। भास्करराय बताते हैं कि दोहराया गया शब्द ‘अरुणारुण’ अत्यधिक लालिमा बताता है, या इसका अर्थ है ‘अरुण के समान लाल’, अरुण अर्थात् उदित सूर्य का सारथी।"
+  },
+  "inner": {
+    "en": "Red runs through her whole description, from the rosy flood of name 12 to name 49, which calls her red in everything. Bhāskararāya keeps to the plain sense here. Her colour is the colour of dawn and of love, and her garment wraps her in it.",
+    "hi": "लाल रंग उनके पूरे वर्णन में है: नाम 12 की अरुण प्रभा की बाढ़ से लेकर नाम 49 तक, जो उन्हें सर्वथा अरुण कहता है। भास्करराय यहाँ सीधा अर्थ ही देते हैं। उनका रंग उषा और प्रेम का रंग है, और उनका वस्त्र उन्हें उसी में लपेटे है।"
+  },
+  "story": {
+    "en": "Names 37 and 38 form one verse on her hips: the red garment and the jewelled girdle over it. Safflower was long the chief source of red dye for cloth in India.",
+    "hi": "नाम 37 और 38 मिलकर उनके कटि-प्रदेश पर एक श्लोक बनाते हैं: लाल वस्त्र और उसके ऊपर रत्नजटित मेखला। भारत में कपड़े को लाल रँगने के लिए कुसुम्भ बहुत समय तक प्रमुख साधन रहा।"
+  },
+  "commentary": {
+    "sanskrit": "कुसुम्भेन रक्तं कौसुम्भं च यद्वस्त्रं तेन भास्वती भासुरा कट्यास्तटी यस्याः ।",
+    "translation": {
+      "en": "She whose hip-slope (kaṭī-taṭī) shines, glows, with a garment that is kausumbha, dyed with safflower.",
+      "hi": "जिनका कटि-तट कौसुम्भ अर्थात् कुसुम्भ से रँगे वस्त्र से भास्वत्, दमकता हुआ है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 37 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The remark on safflower dye in the story is general context, not from the commentary." }
+}

@@ -1,0 +1,46 @@
+{
+  "number": 27,
+  "verse": 11,
+  "slug": "nija-sallapa-madhurya-vinirbhartsita-kachchhapi",
+  "devanagari": "निजसल्लापमाधुर्यविनिर्भर्त्सितकच्छपी",
+  "iastSplit": "Nija-sallāpa-mādhurya-vinirbhartsita-kacchapī",
+  "archana": "ॐ निजसल्लापमाधुर्यविनिर्भर्त्सितकच्छप्यै नमः",
+  "syllables": ["ni", "ja", "sal", "lā", "pa", "mā", "dhur", "ya", "vi", "nir", "bhar", "tsi", "ta", "kac", "cha", "pī"],
+  "words": [
+    { "sa": "निज", "meaning": { "en": "her own", "hi": "अपना" } },
+    { "sa": "सल्लाप", "meaning": { "en": "speech, conversation", "hi": "वार्तालाप, वाणी" } },
+    { "sa": "माधुर्य", "meaning": { "en": "sweetness", "hi": "मधुरता" } },
+    { "sa": "विनिर्भर्त्सित", "meaning": { "en": "utterly put to shame", "hi": "पूरी तरह लज्जित किया हुआ" } },
+    { "sa": "कच्छपी", "meaning": { "en": "kacchapī, the vīṇā of Sarasvatī", "hi": "कच्छपी, सरस्वती की वीणा" } }
+  ],
+  "meaning": {
+    "en": "The sweetness of whose speech puts Sarasvatī’s vīṇā to shame",
+    "hi": "जिनकी वाणी की मधुरता सरस्वती की वीणा को भी लजा देती है"
+  },
+  "explanation": {
+    "en": "Kacchapī is the name of Sarasvatī’s vīṇā. The sweetness of the Devī’s own speech so far surpasses it that the instrument is put to shame.",
+    "hi": "कच्छपी सरस्वती की वीणा का नाम है। देवी की अपनी वाणी की मधुरता उससे इतनी बढ़कर है कि वह वीणा लज्जित हो जाती है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya explains the comparison. A vīṇā sounds only notes, and we enjoy it for its sweetness alone; Sarasvatī’s kacchapī, being hers, even lets faint syllables be heard, like a parrot’s speech. The Devī’s words are clearer still and sweeter, and their subject, he says, is Brahman.",
+    "hi": "भास्करराय इस तुलना को समझाते हैं। वीणा केवल स्वर निकालती है, और हम उसे केवल मधुरता के लिए पसन्द करते हैं; सरस्वती की होने से कच्छपी में तोते की बोली की तरह कुछ-कुछ अक्षर भी सुनाई देते हैं। देवी के वचन उससे भी स्पष्ट और मधुर हैं, और वे कहते हैं कि उनका विषय ब्रह्म है।"
+  },
+  "story": {
+    "en": "Bhāskararāya quotes a lexicon that names the vīṇās of the celestial musicians: Viśvāvasu’s is Bṛhatī, Tumburu’s Kalāvatī, Nārada’s Mahatī and Sarasvatī’s Kacchapī. He also quotes the Saundaryalaharī: Sarasvatī is singing Śiva’s deeds before the Devī, and when the Devī begins to say “well done”, she quietly slips her vīṇā back into its cover.",
+    "hi": "भास्करराय एक कोश उद्धृत करते हैं जिसमें दिव्य गायकों की वीणाओं के नाम हैं: विश्वावसु की बृहती, तुम्बुरु की कलावती, नारद की महती और सरस्वती की कच्छपी। वे सौन्दर्यलहरी का भी उल्लेख करते हैं: सरस्वती देवी के सामने शिव की लीलाएँ गा रही हैं, और देवी जैसे ही ‘साधु’ कहना आरम्भ करती हैं, सरस्वती चुपचाप अपनी वीणा को खोल में रख देती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "निजस्य स्वीयस्य स्वतःशोभनस्य ब्रह्मविषयकस्य वालापस्य वर्णात्मकशब्दस्य माधुर्येण मञ्जुलतया विशिष्य निःशेषेण भर्त्सिता तिरस्कृता कच्छपी वीणा यया सा ।",
+    "translation": {
+      "en": "She by whom the kacchapī vīṇā is especially and completely put to shame, through the sweetness, the charm, of her own speech: lovely by nature, concerned with Brahman, made of articulate sound.",
+      "hi": "जिनकी अपनी, स्वभाव से सुन्दर, ब्रह्म-विषयक, अक्षरों वाली वाणी की मधुरता और मंजुलता से कच्छपी वीणा विशेष रूप से और पूरी तरह तिरस्कृत हो गई है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 27 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The verse reads सल्लाप; Bhāskararāya reads संलाप (the same word). The commentary quote keeps the edition’s वालापस्य, possibly a misprint for संलापस्य. The Saundaryalaharī verse is summarised without a verse number." }
+}

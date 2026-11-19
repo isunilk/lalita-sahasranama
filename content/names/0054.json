@@ -1,0 +1,44 @@
+{
+  "number": 54,
+  "verse": 21,
+  "slug": "shiva-svadhina-vallabha",
+  "devanagari": "शिवस्वाधीनवल्लभा",
+  "iastSplit": "Śiva-svādhīna-vallabhā",
+  "archana": "ॐ शिवस्वाधीनवल्लभायै नमः",
+  "syllables": ["śi", "vas", "vā", "dhī", "na", "val", "la", "bhā"],
+  "words": [
+    { "sa": "शिव", "meaning": { "en": "Śiva", "hi": "शिव" } },
+    { "sa": "स्वाधीन", "meaning": { "en": "dependent on her own self", "hi": "स्वाधीन, अपने अधीन" } },
+    { "sa": "वल्लभ", "meaning": { "en": "beloved, husband", "hi": "प्रियतम, पति" } }
+  ],
+  "meaning": {
+    "en": "Whose beloved, Śiva, depends on her alone",
+    "hi": "जिनके प्रियतम शिव उन्हीं के अधीन हैं"
+  },
+  "explanation": {
+    "en": "Her beloved husband, Śiva, is svādhīna: devoted to her and dependent on her. Śakti here is not subordinate to Śiva; rather, Śiva rests on Śakti.",
+    "hi": "उनके प्रिय पति शिव ‘स्वाधीन’ हैं, अर्थात् उन्हीं के प्रति समर्पित और उन्हीं पर आश्रित। यहाँ शक्ति शिव के अधीन नहीं, बल्कि शिव शक्ति पर आश्रित हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says that though she is a power of Śiva, such as his will, she is not secondary to him: Śiva gains his very being through Śakti, so here the possessor depends on what he possesses. He quotes the words of Śrī Ācārya Bhagavatpāda (Śaṅkara) that open the Saundaryalaharī: only when joined with Śakti is Śiva able to create; otherwise the god cannot even stir.",
+    "hi": "भास्करराय कहते हैं कि वे शिव की इच्छा जैसी शक्ति होकर भी उनसे गौण नहीं हैं: शिव अपना अस्तित्व ही शक्ति से पाते हैं, इसलिए यहाँ धर्मी ही धर्म के अधीन है। वे श्री आचार्य भगवत्पाद (शंकर) के वे वचन उद्धृत करते हैं जिनसे सौन्दर्यलहरी आरम्भ होती है: शक्ति से युक्त होकर ही शिव सृष्टि करने में समर्थ होते हैं; अन्यथा वे हिल भी नहीं सकते।"
+  },
+  "story": {
+    "en": "Bhāskararāya also reads the name as “she who has made her beloved her own”, and recalls a story from the seventh book of the Devī Bhāgavata. The Aśvins made Sukanyā’s husband, the sage Cyavana, look exactly like themselves; unable to tell him apart, she prayed to the Devī, who placed in her heart the knowledge by which she kept her husband. He adds Śacī’s recovery of Indra, told in the sixth book.",
+    "hi": "भास्करराय इसका एक अर्थ ‘जिन्होंने प्रियतम को अपने अधीन किया’ भी करते हैं, और देवी भागवत के सातवें स्कन्ध की कथा याद दिलाते हैं। अश्विनीकुमारों ने सुकन्या के पति, महर्षि च्यवन, को अपने ही समान रूप दे दिया; उन्हें पहचान न पाने पर सुकन्या ने देवी से प्रार्थना की, और देवी ने उनके हृदय में वह ज्ञान दिया जिससे उनका पति उन्हीं का रहा। वे छठे स्कन्ध में वर्णित शची द्वारा इन्द्र को फिर पाने की कथा का भी उल्लेख करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "स्वस्यात्मनोऽधीन आयत्तो वल्लभो भर्ता कामेश्वरो यस्याः । शिवस्य शक्त्यधीनात्मलाभकत्वाद्धर्म्येव धर्माधीन इत्यर्थः ।",
+    "translation": {
+      "en": "She whose beloved, her husband Kāmeśvara, depends on her own self. Since Śiva gains his very being through Śakti, the meaning is that the bearer of the attribute depends on the attribute.",
+      "hi": "जिनके वल्लभ, अर्थात् पति कामेश्वर, उनके अपने अधीन, आश्रित हैं। शिव अपना अस्तित्व शक्ति के अधीन पाते हैं, इसलिए अर्थ यह है कि धर्मी ही धर्म के अधीन है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 54 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Variant: Bhāskararāya reads स्वाधीनवल्लभा (without शिव), with शिवा as a separate name before it (see name 52). Sukanyā’s husband is named Cyavana from the Purāṇic story; the commentary does not name him." }
+}

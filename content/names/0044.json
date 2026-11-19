@@ -1,0 +1,48 @@
+{
+  "number": 44,
+  "verse": 19,
+  "slug": "nakha-didhiti-sanchhanna-namaj-jana-tamo-guna",
+  "devanagari": "नखदीधितिसञ्छन्ननमज्जनतमोगुणा",
+  "iastSplit": "Nakha-dīdhiti-sañchanna-namaj-jana-tamo-guṇā",
+  "archana": "ॐ नखदीधितिसञ्छन्ननमज्जनतमोगुणायै नमः",
+  "syllables": ["na", "kha", "dī", "dhi", "ti", "sañ", "chan", "na", "na", "maj", "ja", "na", "ta", "mo", "gu", "ṇā"],
+  "words": [
+    { "sa": "नख", "meaning": { "en": "nail, toenail", "hi": "नख" } },
+    { "sa": "दीधिति", "meaning": { "en": "ray of light", "hi": "किरण" } },
+    { "sa": "सञ्छन्न", "meaning": { "en": "covered, dispelled", "hi": "ढका हुआ, मिटाया हुआ" } },
+    { "sa": "नमत्", "meaning": { "en": "bowing", "hi": "नमन करता हुआ" } },
+    { "sa": "जन", "meaning": { "en": "people", "hi": "जन" } },
+    { "sa": "तमस्", "meaning": { "en": "tamas, darkness, ignorance", "hi": "तमस्, अन्धकार, अज्ञान" } },
+    { "sa": "गुण", "meaning": { "en": "quality", "hi": "गुण" } }
+  ],
+  "meaning": {
+    "en": "The rays of whose toenails dispel the darkness of those who bow",
+    "hi": "जिनके नखों की किरणें नमन करने वालों का तमोगुण मिटा देती हैं"
+  },
+  "explanation": {
+    "en": "Her toenails shine like small moons. When people bow at her feet, the rays from those nails cover over and remove their tamas, the quality of darkness and inertia. Bhāskararāya says the sense is that meditation on her feet destroys ignorance.",
+    "hi": "उनके पैरों के नख छोटे-छोटे चन्द्रमाओं की तरह चमकते हैं। जब लोग उनके चरणों में झुकते हैं, तो उन नखों की किरणें उनके तमोगुण, अर्थात् अन्धकार और जड़ता, को ढककर मिटा देती हैं। भास्करराय कहते हैं कि भाव यह है: उनके चरणों के ध्यान से अज्ञान नष्ट होता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya adds a poet’s fancy. So many crown-jewels of the bowing gods are reflected in her nails that the nails’ own rays cannot shine out plainly; so the rays enter the hearts of those who bow and destroy the darkness there. Those who bow include Brahmā, Viṣṇu and the other gods: even their ignorance is removed at her feet.",
+    "hi": "भास्करराय एक कवि-कल्पना जोड़ते हैं। झुकते हुए देवताओं के मुकुटों की इतनी मणियाँ उनके नखों में प्रतिबिम्बित होती हैं कि नखों की अपनी किरणें बाहर स्पष्ट नहीं चमक पातीं; इसलिए वे किरणें झुकने वालों के हृदय में प्रवेश करके वहाँ का अन्धकार नष्ट करती हैं। झुकने वालों में ब्रह्मा, विष्णु और अन्य देवता भी हैं: उनका अज्ञान भी उनके चरणों में दूर होता है।"
+  },
+  "story": {
+    "en": "Bhāskararāya tells a story from the Matsya and Padma Purāṇas. Reading the marks of the young Pārvatī, Nārada said that her feet would be “unfaithful”, keeping company with their own reflection, and Himavān grieved, taking this for a bad sign. Nārada then explained: the many-coloured light of the crown-jewels of gods and demons bowing to her would be reflected in her clear nails, and would enter their hearts and destroy their tamas.",
+    "hi": "भास्करराय मत्स्य पुराण और पद्म पुराण से एक कथा देते हैं। बालिका पार्वती के लक्षण देखकर नारद ने कहा कि उसके चरण ‘व्यभिचारी’ होंगे, अपनी ही छाया के साथ रहेंगे; इसे अशुभ लक्षण समझकर हिमवान दुखी हुए। तब नारद ने समझाया: उसे प्रणाम करते देवताओं और असुरों के मुकुट-मणियों की रंग-बिरंगी कान्ति उसके निर्मल नखों में प्रतिबिम्बित होगी, और उनके हृदय में प्रवेश करके उनका तमोगुण नष्ट करेगी।"
+  },
+  "commentary": {
+    "sanskrit": "नखानां पादनखचन्द्राणां दीधितिभिः किरणैः सम्यक् छन्नो लोपितो नमतां ब्रह्मविष्ण्वादिजनानां तमोगुणोऽज्ञानं यस्याः । पादध्यानेनाज्ञाननाश इति भावः ।",
+    "translation": {
+      "en": "She by the rays of whose nails, the moons of her toenails, the tamoguṇa, the ignorance, of those who bow, Brahmā, Viṣṇu and others, is wholly covered, that is, removed. The sense: meditation on her feet destroys ignorance.",
+      "hi": "जिनके नखों, अर्थात् पैरों के नख रूपी चन्द्रमाओं, की किरणों से नमन करने वाले ब्रह्मा, विष्णु आदि का तमोगुण, अर्थात् अज्ञान, पूरी तरह ढक दिया गया, मिटा दिया गया। भाव यह है कि चरणों के ध्यान से अज्ञान का नाश होता है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 44 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The story summarises the Matsya/Padma Purāṇa passage Bhāskararāya quotes (Nārada and Himavān); check the rendering of चरणैर्व्यभिचारिभिः and स्वच्छाया." }
+}

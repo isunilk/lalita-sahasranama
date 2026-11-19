@@ -1,0 +1,48 @@
+{
+  "number": 28,
+  "verse": 11,
+  "slug": "manda-smita-prabha-pura-majjat-kamesha-manasa",
+  "devanagari": "मन्दस्मितप्रभापूरमज्जत्कामेशमानसा",
+  "iastSplit": "Manda-smita-prabhā-pūra-majjat-kāmeśa-mānasā",
+  "archana": "ॐ मन्दस्मितप्रभापूरमज्जत्कामेशमानसायै नमः",
+  "syllables": ["man", "das", "mi", "tap", "ra", "bhā", "pū", "ra", "maj", "jat", "kā", "me", "śa", "mā", "na", "sā"],
+  "words": [
+    { "sa": "मन्द", "meaning": { "en": "gentle, soft", "hi": "मन्द, हल्की" } },
+    { "sa": "स्मित", "meaning": { "en": "smile", "hi": "मुस्कान" } },
+    { "sa": "प्रभा", "meaning": { "en": "radiance", "hi": "प्रभा, आभा" } },
+    { "sa": "पूर", "meaning": { "en": "flood", "hi": "बाढ़, प्रवाह" } },
+    { "sa": "मज्जत्", "meaning": { "en": "sinking, being immersed", "hi": "डूबता हुआ" } },
+    { "sa": "कामेश", "meaning": { "en": "Kāmeśa, Kāmeśvara", "hi": "कामेश, कामेश्वर" } },
+    { "sa": "मानस", "meaning": { "en": "mind", "hi": "मन" } }
+  ],
+  "meaning": {
+    "en": "In the radiance of whose gentle smile Kāmeśvara’s mind is immersed",
+    "hi": "जिनकी मन्द मुस्कान की प्रभा में कामेश्वर का मन डूबता रहता है"
+  },
+  "explanation": {
+    "en": "Her gentle smile sends out a flood of radiance, and the mind of Kāmeśvara, her consort, sinks into it. The Lord himself is captivated by her smile.",
+    "hi": "उनकी मन्द मुस्कान से प्रभा की बाढ़ उमड़ती है, और उनके पति कामेश्वर का मन उसमें डूब जाता है। स्वयं परमेश्वर उनकी मुस्कान पर मुग्ध हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya points to the tense: majjat, “sinking”, not magna, “sunk”. A mind sunk in one place could not move on to her other beauties; this one keeps trying to move on, yet has no wish to leave. Citing the Kāmakalāvilāsa, he takes Kāma as the bindu, whose nature is the pure “I”; the Lord who is that “I” is held in her smile.",
+    "hi": "भास्करराय काल की ओर ध्यान दिलाते हैं: ‘मज्जत्’ अर्थात् डूबता हुआ, ‘मग्न’ अर्थात् डूब चुका नहीं। एक ही स्थान पर डूब चुका मन उनके अन्य अंगों की शोभा तक नहीं जा पाता; यह मन आगे बढ़ना चाहता है, फिर भी वहाँ से निकलना नहीं चाहता। कामकलाविलास का प्रमाण देकर वे ‘काम’ को बिन्दु मानते हैं, जिसका स्वरूप शुद्ध ‘अहम्’ है; वही ‘अहम्’ रूप परमेश्वर उनकी मुस्कान में बँधे हैं।"
+  },
+  "story": {
+    "en": "Names 27 and 28 form one verse on her speech and her smile. Bhāskararāya adds that some philosophers (the Mīmāṃsakas) hold the mind to be all-pervading; if even such a mind sinks, the flood of her smile must be boundless.",
+    "hi": "नाम 27 और 28 मिलकर उनकी वाणी और मुस्कान पर एक श्लोक बनाते हैं। भास्करराय जोड़ते हैं कि मीमांसक मन को सर्वव्यापी मानते हैं; ऐसा मन भी डूब जाए, तो उनकी मुस्कान की प्रभा असीम ही होगी।"
+  },
+  "commentary": {
+    "sanskrit": "मज्जतीति मज्जत् । न तु मग्नम् । एकत्र मग्नस्यावयवान्तरसञ्चारविलोपापत्तेः ।",
+    "translation": {
+      "en": "Majjat means “is sinking”, not magna, “has sunk”; for a mind sunk in one place would lose the power to move on to her other limbs.",
+      "hi": "मज्जत् अर्थात् ‘डूब रहा है’, ‘मग्न’ अर्थात् ‘डूब चुका’ नहीं; क्योंकि एक जगह डूब चुके मन का दूसरे अंगों तक जाना रुक जाता।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 28 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Inner reading follows Bhāskararāya (majjat rather than magna; Kāma as the bindu, citing the Kāmakalāvilāsa)." }
+}

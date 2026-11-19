@@ -1,0 +1,43 @@
+{
+  "number": 49,
+  "verse": 21,
+  "slug": "sarvaruna",
+  "devanagari": "सर्वारुणा",
+  "iastSplit": "Sarvāruṇā",
+  "archana": "ॐ सर्वारुणायै नमः",
+  "syllables": ["sar", "vā", "ru", "ṇā"],
+  "words": [
+    { "sa": "सर्व", "meaning": { "en": "all, wholly", "hi": "सर्व, सम्पूर्ण" } },
+    { "sa": "अरुणा", "meaning": { "en": "red, rosy", "hi": "अरुण, लाल" } }
+  ],
+  "meaning": {
+    "en": "Wholly red, rosy in every part",
+    "hi": "जो सर्वथा अरुण हैं"
+  },
+  "explanation": {
+    "en": "Everything about her is red: her garments, her ornaments, her flowers and the glow of her body. Bhāskararāya lists these as what is meant by “all”.",
+    "hi": "उनका सब कुछ लाल है: उनके वस्त्र, आभूषण, फूल और उनके शरीर की कान्ति। भास्करराय बताते हैं कि ‘सर्व’ से यही सब अभिप्रेत है।"
+  },
+  "inner": {
+    "en": "Red is the colour of her whole description, from the thousand rising suns of name 6 to the safflower garment of name 37, and here it is stated outright. It is the colour of dawn and of love, the warmth with which she meets her devotees. Bhāskararāya gives the plain sense; seeing her as entirely red belongs to her traditional image.",
+    "hi": "लाल रंग उनके पूरे वर्णन का रंग है, नाम 6 के सहस्र उदित सूर्यों से लेकर नाम 37 के कुसुम्भी वस्त्र तक, और यहाँ यह स्पष्ट कह दिया गया है। यह उषा और प्रेम का रंग है, वह ऊष्मा जिससे वे अपने भक्तों से मिलती हैं। भास्करराय सीधा अर्थ देते हैं; उन्हें सर्वथा अरुण रूप में देखना उनके पारम्परिक स्वरूप का अंग है।"
+  },
+  "story": {
+    "en": "The dhyāna verse recited before the names pictures her the same way: her body red as sindūra, a red lotus in her hand, her red feet resting on a jewelled pot. Names 49 to 51 sum up her form before the hymn turns to where she dwells.",
+    "hi": "सहस्रनाम से पहले पढ़ा जाने वाला ध्यान-श्लोक उन्हें इसी रूप में देखता है: सिन्दूर-सा लाल शरीर, हाथ में लाल कमल, और रत्न-कलश पर टिके लाल चरण। नाम 49 से 51 उनके रूप का सार कहते हैं, जिसके बाद स्तोत्र उनके निवास-स्थानों की ओर मुड़ता है।"
+  },
+  "commentary": {
+    "sanskrit": "वासनाभरणकुसुमकान्त्यादिकं सर्वमेवारुणं यस्याः ।",
+    "translation": {
+      "en": "She whose everything, garments, ornaments, flowers, lustre and the rest, is red.",
+      "hi": "जिनका सब कुछ, वस्त्र, आभूषण, पुष्प, कान्ति आदि, अरुण है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 49 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s वासनाभरण… is read as वासन (garments) + आभरण; check. The story draws on the dhyāna verse in the stotra (सिन्दूरारुणविग्रहाम्, रक्तोत्पलम्, रत्नघटस्थरक्तचरणाम्)." }
+}

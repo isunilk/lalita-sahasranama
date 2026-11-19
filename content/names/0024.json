@@ -1,0 +1,47 @@
+{
+  "number": 24,
+  "verse": 9,
+  "slug": "nava-vidruma-bimba-shri-nyakkari-radanachchhada",
+  "devanagari": "नवविद्रुमबिम्बश्रीन्यक्कारिरदनच्छदा",
+  "iastSplit": "Nava-vidruma-bimba-śrī-nyakkāri-radanacchadā",
+  "archana": "ॐ नवविद्रुमबिम्बश्रीन्यक्कारिरदनच्छदायै नमः",
+  "syllables": ["na", "va", "vid", "ru", "ma", "bim", "baś", "rīn", "yak", "kā", "ri", "ra", "da", "nac", "cha", "dā"],
+  "words": [
+    { "sa": "नव", "meaning": { "en": "fresh", "hi": "नवीन" } },
+    { "sa": "विद्रुम", "meaning": { "en": "coral", "hi": "मूँगा, प्रवाल" } },
+    { "sa": "बिम्ब", "meaning": { "en": "bimba, a glossy red fruit", "hi": "बिम्बफल (कुँदरू)" } },
+    { "sa": "श्री", "meaning": { "en": "beauty, splendour", "hi": "शोभा" } },
+    { "sa": "न्यक्कारिन्", "meaning": { "en": "that puts down, surpasses", "hi": "नीचा दिखाने वाला" } },
+    { "sa": "रदनच्छद", "meaning": { "en": "lip (literally, covering of the teeth)", "hi": "अधर, होंठ" } }
+  ],
+  "meaning": {
+    "en": "Whose lips outshine the fresh beauty of coral and bimba fruit",
+    "hi": "जिनके अधर मूँगे और बिम्बफल की नवीन शोभा को लजाते हैं"
+  },
+  "explanation": {
+    "en": "Red lips are traditionally compared to coral and to the bimba, a glossy red fruit. Hers surpass the fresh beauty of both. Bhāskararāya says they set even ripe coral and bimba beneath them.",
+    "hi": "लाल होंठों की तुलना परम्परा से मूँगे और बिम्बफल से की जाती है। उनके अधर इन दोनों की नवीन शोभा से भी बढ़कर हैं। भास्करराय कहते हैं कि वे पके प्रवाल और बिम्बफल को भी नीचा दिखाते हैं।"
+  },
+  "inner": {
+    "en": "From these lips comes her speech, and the next name turns to the vidyā, the sacred knowledge, that issues from her mouth. Bhāskararāya prepares for it here: śuddhavidyā, “pure knowledge”, is the awareness in which “this” and “I” are not different, and texts such as the Dattātreya Saṃhitā explain Śrīvidyā in that sense. So the beauty of her lips leads straight to the teaching they utter.",
+    "hi": "इन्हीं अधरों से उनकी वाणी निकलती है, और अगला नाम उनके मुख से प्रकट होने वाली विद्या की ओर मुड़ता है। भास्करराय यहीं उसकी भूमिका बाँधते हैं: शुद्धविद्या वह बुद्धि है जिसमें ‘यह’ और ‘मैं’ का भेद नहीं रहता, और दत्तात्रेय-संहिता आदि ग्रन्थ श्रीविद्या की व्याख्या इसी अभेद के अर्थ में करते हैं। इस प्रकार अधरों की शोभा सीधे उस उपदेश तक ले जाती है जो उनसे प्रकट होता है।"
+  },
+  "story": {
+    "en": "With name 23 this completes the verse on her cheeks and lips. Bhāskararāya reads nava, “fresh”, as describing the beauty (śrī) of the coral and bimba.",
+    "hi": "नाम 23 के साथ यह कपोलों और अधरों का श्लोक पूरा करता है। भास्करराय ‘नव’ को मूँगे और बिम्ब की शोभा (श्री) का विशेषण मानते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "नवां नूतनां विद्रुमबिम्बयोः पक्वप्रवालतुण्डीफलयोः श्रियं कान्तिं न्यक्कुरुतोऽधः कुरुतस्ततोऽप्याधिक्येनौन्नत्यात् तादृशौ रदनच्छदावौष्ठौ यस्याः ।",
+    "translation": {
+      "en": "She whose lips (radanacchada) put down, set beneath them, the fresh beauty of vidruma and bimba, ripe coral and the tuṇḍī fruit, rising above even them.",
+      "hi": "जिनके अधर मूँगे और बिम्ब (पके प्रवाल और तुण्डी फल) की नवीन कान्ति को नीचा दिखाते हैं, क्योंकि वे उनसे भी बढ़कर हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 24 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya construes nava with śrī. His note on śuddhavidyā at the end of this name prepares name 25 and is used in the inner layer." }
+}

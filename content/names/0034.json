@@ -1,0 +1,48 @@
+{
+  "number": 34,
+  "verse": 14,
+  "slug": "nabhyalavala-romali-lata-phala-kucha-dvayi",
+  "devanagari": "नाभ्यालवालरोमालिलताफलकुचद्वयी",
+  "iastSplit": "Nābhyālavāla-romāli-latā-phala-kuca-dvayī",
+  "archana": "ॐ नाभ्यालवालरोमालिलताफलकुचद्वय्यै नमः",
+  "syllables": ["nābh", "yā", "la", "vā", "la", "ro", "mā", "li", "la", "tā", "pha", "la", "ku", "cad", "va", "yī"],
+  "words": [
+    { "sa": "नाभि", "meaning": { "en": "navel", "hi": "नाभि" } },
+    { "sa": "आलवाल", "meaning": { "en": "basin of water round the root of a plant", "hi": "थाला, आलवाल" } },
+    { "sa": "रोमालि", "meaning": { "en": "fine line of hair", "hi": "रोमावली" } },
+    { "sa": "लता", "meaning": { "en": "creeper", "hi": "लता, बेल" } },
+    { "sa": "फल", "meaning": { "en": "fruit", "hi": "फल" } },
+    { "sa": "कुच", "meaning": { "en": "breast", "hi": "कुच, स्तन" } },
+    { "sa": "द्वयी", "meaning": { "en": "pair", "hi": "युगल" } }
+  ],
+  "meaning": {
+    "en": "Whose breasts are fruits of the hair-line creeper rising from her navel",
+    "hi": "जिनके स्तन नाभि रूपी थाले से उठी रोमावली-लता के फल हैं"
+  },
+  "explanation": {
+    "en": "The poet builds a garden picture. Her navel is the basin of water at a plant’s root, the fine line of hair rising from it is the creeper, and her two breasts are its fruits.",
+    "hi": "कवि एक उपवन का चित्र रचता है। उनकी नाभि पौधे की जड़ के पास का पानी भरा थाला है, उससे ऊपर उठती सूक्ष्म रोमावली लता है, और उनके दोनों स्तन उस लता के फल हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya reads it as poetry and names the figures: a chained metaphor joined with poetic fancy and hyperbole. He gives no hidden meaning. The image is of life growing and ripening from one centre, the navel, the body’s first bond with its mother.",
+    "hi": "भास्करराय इसे काव्य के रूप में पढ़ते हैं और अलंकारों के नाम बताते हैं: परम्परित रूपक, उत्प्रेक्षा और अतिशयोक्ति का संकर। वे कोई गूढ़ अर्थ नहीं देते। यह चित्र एक ही केन्द्र, नाभि, से जीवन के उगने और पकने का है; नाभि ही शरीर का माँ से पहला बन्धन है।"
+  },
+  "story": {
+    "en": "With name 33 this completes the verse on her breasts. The romāvalī, the faint line of hair above the navel, is a classical mark of beauty in Sanskrit poetry, and the next name uses it again.",
+    "hi": "नाम 33 के साथ यह वक्ष का श्लोक पूरा करता है। नाभि से ऊपर जाती सूक्ष्म रोमावली संस्कृत काव्य में सौन्दर्य का पारम्परिक चिह्न है, और अगला नाम भी इसी का प्रयोग करता है।"
+  },
+  "commentary": {
+    "sanskrit": "नाभिरेवालवालो लतावापश्वभ्रो यस्या रोमाल्यभिन्नलतायास्तस्याः फलभूता कुचद्वयी यस्याः सेति",
+    "translation": {
+      "en": "Her navel itself is the ālavāla, the hollow in which a creeper is planted; of that creeper, which is one with the line of hair, the pair of breasts is the fruit.",
+      "hi": "उनकी नाभि ही आलवाल है, अर्थात् वह गड्ढा जिसमें लता बोई जाती है; रोमावली से अभिन्न उस लता के फल उनके दोनों स्तन हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 34 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya names the figures of speech only; the closing sentence of the inner layer is a reflection." }
+}

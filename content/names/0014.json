@@ -1,0 +1,47 @@
+{
+  "number": 14,
+  "verse": 4,
+  "slug": "kuruvinda-mani-shreni-kanat-kotira-mandita",
+  "devanagari": "कुरुविन्दमणिश्रेणीकनत्कोटीरमण्डिता",
+  "iastSplit": "Kuruvinda-maṇi-śreṇī-kanat-koṭīra-maṇḍitā",
+  "archana": "ॐ कुरुविन्दमणिश्रेणीकनत्कोटीरमण्डितायै नमः",
+  "syllables": ["ku", "ru", "vin", "da", "ma", "ṇiś", "re", "ṇī", "ka", "nat", "ko", "ṭī", "ra", "maṇ", "ḍi", "tā"],
+  "words": [
+    { "sa": "कुरुविन्द", "meaning": { "en": "kuruvinda, a fine kind of ruby", "hi": "कुरुविन्द, उत्तम कोटि का माणिक" } },
+    { "sa": "मणि", "meaning": { "en": "gem", "hi": "मणि, रत्न" } },
+    { "sa": "श्रेणी", "meaning": { "en": "row", "hi": "पंक्ति" } },
+    { "sa": "कनत्", "meaning": { "en": "glittering", "hi": "जगमगाता हुआ" } },
+    { "sa": "कोटीर", "meaning": { "en": "crown", "hi": "मुकुट" } },
+    { "sa": "मण्डिता", "meaning": { "en": "adorned", "hi": "सुशोभित" } }
+  ],
+  "meaning": {
+    "en": "Adorned with a crown glittering with rows of kuruvinda rubies",
+    "hi": "कुरुविन्द माणिकों की पंक्तियों से जगमगाते मुकुट से सुशोभित"
+  },
+  "explanation": {
+    "en": "After her hair comes her crown. It is set with rows of kuruvinda gems, which Bhāskararāya identifies as deep-red padmarāga rubies. The crown glitters with their light.",
+    "hi": "केशों के बाद उनके मुकुट का वर्णन है। उसमें कुरुविन्द मणियों की पंक्तियाँ जड़ी हैं, जिन्हें भास्करराय गहरे लाल पद्मराग माणिक बताते हैं। उनकी आभा से मुकुट जगमगाता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes the Garuḍa Purāṇa’s chapter on gems, which says that kuruvinda rubies bring love, auspiciousness and devotion, and give increase even when only remembered. So, he says, the name suggests that those who meditate on the Devī wearing such a crown grow in devotion. Even the jewels of her form serve the one who contemplates them.",
+    "hi": "भास्करराय गरुड़ पुराण के रत्न-अध्याय से उद्धरण देते हैं कि कुरुविन्द माणिक अनुराग, मंगल और भक्ति देते हैं, और स्मरण मात्र से वृद्धि करते हैं। इसलिए, वे कहते हैं, यह नाम संकेत करता है कि ऐसे मुकुट वाली देवी का ध्यान करने वालों की भक्ति बढ़ती है। उनके रूप के आभूषण भी ध्यान करने वाले के कल्याण के लिए हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya rejects the view of “someone” who reads kuruvinda and maṇi as two separate things, saying it comes from not knowing where these gems are born. Following the Garuḍa Purāṇa, he explains that padmarāga rubies form inside kinds of stone such as kuruvinda, and that the name means those born of kuruvinda.",
+    "hi": "भास्करराय उस मत को अस्वीकार करते हैं जो कुरुविन्द और मणि को दो अलग वस्तुएँ मानता है; वे कहते हैं कि यह इन रत्नों की उत्पत्ति न जानने से होता है। गरुड़ पुराण के अनुसार वे समझाते हैं कि पद्मराग मणियाँ कुरुविन्द जैसे पत्थरों के भीतर बनती हैं, और यहाँ कुरुविन्द से उत्पन्न माणिक ही अभिप्रेत हैं।"
+  },
+  "commentary": {
+    "sanskrit": "ईदृशविशेषणविशिष्टां देवीं ध्यायतां भक्त्याद्यभिवृद्धिर्भवतीति ध्वनिः ।",
+    "translation": {
+      "en": "The suggestion is that devotion and the like increase for those who meditate on the Devī so described.",
+      "hi": "ध्वनि यह है कि इन विशेषणों वाली देवी का ध्यान करने वालों में भक्ति आदि की वृद्धि होती है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 14 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Inner and story layers summarise the Garuḍa Purāṇa verses Bhāskararāya quotes; they are paraphrased, not quoted." }
+}

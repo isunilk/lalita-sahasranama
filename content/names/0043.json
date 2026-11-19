@@ -1,0 +1,46 @@
+{
+  "number": 43,
+  "verse": 18,
+  "slug": "kurma-prishtha-jayishnu-prapadanvita",
+  "devanagari": "कूर्मपृष्ठजयिष्णुप्रपदान्विता",
+  "iastSplit": "Kūrma-pṛṣṭha-jayiṣṇu-prapadānvitā",
+  "archana": "ॐ कूर्मपृष्ठजयिष्णुप्रपदान्वितायै नमः",
+  "syllables": ["kūr", "ma", "pṛṣ", "ṭha", "ja", "yiṣ", "ṇup", "ra", "pa", "dān", "vi", "tā"],
+  "words": [
+    { "sa": "कूर्म", "meaning": { "en": "tortoise", "hi": "कछुआ" } },
+    { "sa": "पृष्ठ", "meaning": { "en": "back", "hi": "पीठ" } },
+    { "sa": "जयिष्णु", "meaning": { "en": "surpassing, victorious", "hi": "जीतने वाला" } },
+    { "sa": "प्रपद", "meaning": { "en": "front of the foot, instep", "hi": "पंजे का ऊपरी भाग" } },
+    { "sa": "अन्विता", "meaning": { "en": "endowed with", "hi": "युक्त" } }
+  ],
+  "meaning": {
+    "en": "Whose insteps surpass the curved back of a tortoise",
+    "hi": "जिनके पंजों का ऊपरी भाग कछुए की पीठ से भी सुन्दर है"
+  },
+  "explanation": {
+    "en": "The upper part of her feet is smoothly arched, more beautifully than the curved shell of a tortoise. The tortoise’s back is a traditional image for a well-shaped instep.",
+    "hi": "उनके पंजों का ऊपरी भाग कछुए की गोल पीठ से भी अधिक सुन्दर ढंग से उभरा हुआ है। कछुए की पीठ सुडौल पंजे की पारम्परिक उपमा है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya’s note here is on grammar: jayiṣṇu, “conquering”, is formed with the suffix iṣṇu, like viṣṇu and bhrājiṣṇu, which is why it is jayiṣṇu and not jiṣṇu. Even a single syllable of the hymn receives his care. The description has now reached her feet, the devotee’s refuge.",
+    "hi": "यहाँ भास्करराय की टिप्पणी व्याकरण पर है: ‘जयिष्णु’ (जीतने वाला) इष्णु प्रत्यय से बना है, जैसे ‘विष्णु’ और ‘भ्राजिष्णु’, इसीलिए यह ‘जिष्णु’ नहीं, ‘जयिष्णु’ है। स्तोत्र का एक-एक अक्षर उनकी सावधानी पाता है। वर्णन अब उनके चरणों तक पहुँच गया है, जो भक्त का आश्रय हैं।"
+  },
+  "story": {
+    "en": "With names 41 and 42 this completes the verse on her lower legs and feet. The next verse turns to the light of her toenails and the beauty of her feet.",
+    "hi": "नाम 41 और 42 के साथ यह पिंडलियों और पैरों का श्लोक पूरा करता है। अगला श्लोक उनके पैरों के नखों की ज्योति और चरणों की शोभा पर है।"
+  },
+  "commentary": {
+    "sanskrit": "कूर्मयोः पृष्ठे जयत इति जयिष्णुनी ये प्रपदे पादाग्रे ताभ्यामन्विता ।",
+    "translation": {
+      "en": "Endowed with insteps (prapada), the fore-parts of the feet, which are jayiṣṇu, conquering the backs of tortoises.",
+      "hi": "उन प्रपदों, अर्थात् पैरों के अग्रभाग, से युक्त जो कछुओं की पीठ को जीतते हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 43 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The inner layer reports Bhāskararāya’s grammatical note on jayiṣṇu; the rest is a reflection." }
+}

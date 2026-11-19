@@ -1,0 +1,47 @@
+{
+  "number": 22,
+  "verse": 8,
+  "slug": "tatanka-yugali-bhuta-tapanodupa-mandala",
+  "devanagari": "ताटङ्कयुगलीभूततपनोडुपमण्डला",
+  "iastSplit": "Tāṭaṅka-yugalī-bhūta-tapanoḍupa-maṇḍalā",
+  "archana": "ॐ ताटङ्कयुगलीभूततपनोडुपमण्डलायै नमः",
+  "syllables": ["tā", "ṭaṅ", "ka", "yu", "ga", "lī", "bhū", "ta", "ta", "pa", "no", "ḍu", "pa", "maṇ", "ḍa", "lā"],
+  "words": [
+    { "sa": "ताटङ्क", "meaning": { "en": "large round ear-ring", "hi": "ताटंक, कर्णकुण्डल" } },
+    { "sa": "युगली", "meaning": { "en": "a pair", "hi": "जोड़ी" } },
+    { "sa": "भूत", "meaning": { "en": "become", "hi": "बने हुए" } },
+    { "sa": "तपन", "meaning": { "en": "the sun", "hi": "सूर्य" } },
+    { "sa": "उडुप", "meaning": { "en": "the moon", "hi": "चन्द्रमा" } },
+    { "sa": "मण्डल", "meaning": { "en": "disc", "hi": "मण्डल, बिम्ब" } }
+  ],
+  "meaning": {
+    "en": "For whom the discs of sun and moon have become two ear-rings",
+    "hi": "जिनके कुण्डलों की जोड़ी सूर्य और चन्द्र-मण्डल बन गए हैं"
+  },
+  "explanation": {
+    "en": "Her ear-rings are not ordinary gold. The discs of the sun and the moon themselves have become her pair of tāṭaṅkas. Bhāskararāya points to the grammatical form: what was not a pair of ear-rings has become one.",
+    "hi": "उनके कुण्डल साधारण सोने के नहीं हैं। स्वयं सूर्य और चन्द्रमा के मण्डल उनके ताटंकों की जोड़ी बन गए हैं। भास्करराय व्याकरण की ओर ध्यान दिलाते हैं: जो पहले कुण्डल नहीं थे, वे कुण्डल बन गए।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes a verse that calls the sun and moon the Devī’s breasts, her eyes and her pair of ear-rings. The two great lights that measure day and night are only her ornaments. She is not placed within the cosmos; the cosmos is arrayed upon her.",
+    "hi": "भास्करराय एक श्लोक उद्धृत करते हैं जो सूर्य और चन्द्रमा को देवी के स्तन, उनके नेत्र और उनके कुण्डलों की जोड़ी कहता है। दिन और रात को मापने वाली दोनों महान ज्योतियाँ उनके आभूषण मात्र हैं। वे ब्रह्माण्ड के भीतर नहीं हैं; ब्रह्माण्ड ही उन पर सजा है।"
+  },
+  "story": {
+    "en": "With name 21 this completes the verse on her ears: flowers from her own kadamba forest above, and the sun and moon below.",
+    "hi": "नाम 21 के साथ यह कानों का श्लोक पूरा करता है: ऊपर उनके अपने कदम्ब-वन के फूल, और नीचे सूर्य और चन्द्रमा।"
+  },
+  "commentary": {
+    "sanskrit": "सूर्यचन्द्रौ स्तनौ देव्यास्तावेव नयने स्मृतौ । उभौ ताटङ्कयुगलमित्येषा वैदिकीश्रुतिः ।।",
+    "translation": {
+      "en": "The sun and moon are the Devī’s breasts; they too are known as her eyes; the two are her pair of ear-rings: so says the Vedic tradition.",
+      "hi": "सूर्य और चन्द्रमा देवी के स्तन हैं; वही उनके नेत्र भी कहे गए हैं; दोनों ही उनके कुण्डलों की जोड़ी हैं: ऐसा वैदिक श्रुति कहती है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 22 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The split yugalī-bhūta follows Bhāskararāya’s note on the cvi formation (अभूततद्भावे च्विः). The commentary excerpt is the verse he quotes (तदुक्तम्), not his own words; he does not name its source." }
+}

@@ -1,0 +1,47 @@
+{
+  "number": 23,
+  "verse": 9,
+  "slug": "padmaraga-shiladarsha-paribhavi-kapola-bhu",
+  "devanagari": "पद्मरागशिलादर्शपरिभाविकपोलभूः",
+  "iastSplit": "Padmarāga-śilādarśa-paribhāvi-kapola-bhūḥ",
+  "archana": "ॐ पद्मरागशिलादर्शपरिभाविकपोलभुवे नमः",
+  "syllables": ["pad", "ma", "rā", "ga", "śi", "lā", "dar", "śa", "pa", "ri", "bhā", "vi", "ka", "po", "la", "bhūḥ"],
+  "words": [
+    { "sa": "पद्मराग", "meaning": { "en": "ruby", "hi": "पद्मराग, माणिक" } },
+    { "sa": "शिला", "meaning": { "en": "slab of stone", "hi": "शिला" } },
+    { "sa": "आदर्श", "meaning": { "en": "mirror", "hi": "दर्पण" } },
+    { "sa": "परिभाविन्", "meaning": { "en": "surpassing, putting to shame", "hi": "मात देने वाला" } },
+    { "sa": "कपोल", "meaning": { "en": "cheek", "hi": "कपोल, गाल" } },
+    { "sa": "भू", "meaning": { "en": "expanse, surface", "hi": "भूमि, प्रदेश" } }
+  ],
+  "meaning": {
+    "en": "Whose cheeks outshine a mirror made of ruby",
+    "hi": "जिनके कपोल माणिक के दर्पण को भी मात देते हैं"
+  },
+  "explanation": {
+    "en": "A polished slab of ruby is so clear that it reflects like a mirror. Her cheeks surpass even that mirror, in clarity and in their soft red glow.",
+    "hi": "माणिक की चिकनी शिला इतनी निर्मल होती है कि दर्पण की तरह प्रतिबिम्ब दिखाती है। उनके कपोल निर्मलता और कोमल लाल आभा में उस दर्पण से भी बढ़कर हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives the reason: her cheeks hold the reflection of Kāmeśvara even better than the ruby holds an image. Śiva is always reflected in Śakti, and whoever looks at her sees him too.",
+    "hi": "भास्करराय कारण बताते हैं: उनके कपोल कामेश्वर का प्रतिबिम्ब माणिक से भी अधिक स्पष्टता से धारण करते हैं। शिव सदा शक्ति में प्रतिबिम्बित रहते हैं, और जो उन्हें देखता है वह शिव को भी देखता है।"
+  },
+  "story": {
+    "en": "Names 23 and 24 form one verse on her cheeks and lips. Ruby, coral and the red bimba fruit give this part of the description its colour.",
+    "hi": "नाम 23 और 24 मिलकर उनके कपोलों और अधरों पर एक श्लोक बनाते हैं। माणिक, मूँगा और लाल बिम्बफल इस वर्णन को उसका रंग देते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "ततोप्यतिशयेन कामेश्वरप्रतिबिम्बग्राहित्वाच्छोणत्वाच्च । ईदृशी कपोलभूर्गण्डभित्तिर्यस्याः ।",
+    "translation": {
+      "en": "[Her cheek surpasses that mirror] all the more, because it holds the reflection of Kāmeśvara and because it is red. She whose kapola-bhū, the broad surface of the cheek, is such.",
+      "hi": "[उनका कपोल उस दर्पण को] और भी अधिक मात देता है, क्योंकि वह कामेश्वर का प्रतिबिम्ब धारण करता है और लाल है। जिनकी कपोल-भूमि, अर्थात् गालों का विस्तार, ऐसा है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 23 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Archana kept as in the web list (कपोलभुवे); भू is feminine, and कपोलभुवै is also grammatically possible. Check which form the tradition uses." }
+}

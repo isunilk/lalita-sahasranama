@@ -1,0 +1,44 @@
+{
+  "number": 47,
+  "verse": 20,
+  "slug": "marali-manda-gamana",
+  "devanagari": "मरालीमन्दगमना",
+  "iastSplit": "Marālī-manda-gamanā",
+  "archana": "ॐ मरालीमन्दगमनायै नमः",
+  "syllables": ["ma", "rā", "lī", "man", "da", "ga", "ma", "nā"],
+  "words": [
+    { "sa": "मराली", "meaning": { "en": "female swan", "hi": "हंसिनी" } },
+    { "sa": "मन्द", "meaning": { "en": "slow, gentle", "hi": "मन्द, धीमी" } },
+    { "sa": "गमन", "meaning": { "en": "gait", "hi": "चाल" } }
+  ],
+  "meaning": {
+    "en": "Whose gait is slow and graceful like a female swan’s",
+    "hi": "जिनकी चाल हंसिनी की भाँति मन्द और मनोहर है"
+  },
+  "explanation": {
+    "en": "She walks slowly and gracefully, like a swan. Bhāskararāya notes that the swan moves gently by nature, the female even more so, which is why the female swan is named.",
+    "hi": "वे हंस की भाँति धीरे और मनोहर ढंग से चलती हैं। भास्करराय बताते हैं कि हंस स्वभाव से ही मन्द गति वाला है, और हंसिनी तो और भी अधिक; इसीलिए यहाँ हंसिनी का नाम लिया गया है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya keeps to the plain sense. Her unhurried gait belongs to one who has nothing to gain and nowhere she must reach, for everything is already hers. In Indian tradition the swan is also an emblem of discernment.",
+    "hi": "भास्करराय यहाँ सीधा अर्थ ही देते हैं। उनकी निश्चिन्त, धीमी चाल उसकी है जिसे कुछ पाना नहीं, कहीं पहुँचना नहीं, क्योंकि सब कुछ पहले से उन्हीं का है। भारतीय परम्परा में हंस विवेक का भी प्रतीक है।"
+  },
+  "story": {
+    "en": "A swan-like gait is a classic image of grace in Sanskrit poetry. With this name the description moves from her limbs to her movement.",
+    "hi": "हंस जैसी चाल संस्कृत काव्य में लालित्य की पारम्परिक उपमा है। इस नाम के साथ वर्णन उनके अंगों से उनकी गति की ओर बढ़ता है।"
+  },
+  "commentary": {
+    "sanskrit": "मरालो हंसः स्वभावादेव मन्दगतिः । तत्रापि स्त्रीजातीया विशेषत इति मराल्येवोपात्ता ।",
+    "translation": {
+      "en": "The marāla, the swan, is slow-moving by its very nature, and the female especially so; that is why the female swan (marālī) is chosen.",
+      "hi": "मराल अर्थात् हंस स्वभाव से ही मन्द गति वाला है, और उसमें भी मादा विशेष रूप से; इसीलिए ‘मराली’ (हंसिनी) को ही लिया गया है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 47 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The sentence on the swan as an emblem of discernment is general tradition, not from the commentary." }
+}

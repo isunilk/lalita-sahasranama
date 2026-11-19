@@ -1,0 +1,47 @@
+{
+  "number": 33,
+  "verse": 14,
+  "slug": "kameshvara-prema-ratna-mani-pratipana-stani",
+  "devanagari": "कामेश्वरप्रेमरत्नमणिप्रतिपणस्तनी",
+  "iastSplit": "Kāmeśvara-prema-ratna-maṇi-pratipaṇa-stanī",
+  "archana": "ॐ कामेश्वरप्रेमरत्नमणिप्रतिपणस्तन्यै नमः",
+  "syllables": ["kā", "meś", "va", "rap", "re", "ma", "rat", "na", "ma", "ṇip", "ra", "ti", "pa", "ṇas", "ta", "nī"],
+  "words": [
+    { "sa": "कामेश्वर", "meaning": { "en": "Kāmeśvara", "hi": "कामेश्वर" } },
+    { "sa": "प्रेमन्", "meaning": { "en": "love", "hi": "प्रेम" } },
+    { "sa": "रत्न", "meaning": { "en": "jewel", "hi": "रत्न" } },
+    { "sa": "मणि", "meaning": { "en": "gem", "hi": "मणि" } },
+    { "sa": "प्रतिपण", "meaning": { "en": "price given in exchange", "hi": "बदले में दिया गया मूल्य" } },
+    { "sa": "स्तन", "meaning": { "en": "breast", "hi": "स्तन" } }
+  ],
+  "meaning": {
+    "en": "Whose breasts are the price paid for the jewel of Kāmeśvara’s love",
+    "hi": "जिनके स्तन कामेश्वर के प्रेम-रत्न का मूल्य हैं"
+  },
+  "explanation": {
+    "en": "Kāmeśvara’s love is pictured as the finest of jewels, and her breasts as the price given in exchange for it. It is the image of a perfect exchange between the divine couple.",
+    "hi": "कामेश्वर के प्रेम को सर्वश्रेष्ठ रत्न के रूप में चित्रित किया गया है, और उनके स्तनों को उसके बदले में दिया गया मूल्य। यह दिव्य दम्पती के बीच एक पूर्ण आदान-प्रदान का चित्र है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya calls this the figure of exchange (vinimaya). She gave two jewels for one, a double price, and since each has given up all claim to what was given, the love can never revert. The name speaks of the complete and unbreakable belonging of Śiva and Śakti to each other, and of her perfect faithfulness.",
+    "hi": "भास्करराय इसे विनिमय अलंकार कहते हैं। उन्होंने एक रत्न के बदले दो रत्न दिए, दोगुना मूल्य, और क्रय-विक्रय से दोनों ने दी हुई वस्तु पर से अपना अधिकार छोड़ दिया, इसलिए वह प्रेम कभी लौट नहीं सकता। यह नाम शिव और शक्ति के एक-दूसरे के प्रति सम्पूर्ण, अटूट समर्पण और देवी के परम पातिव्रत्य को बताता है।"
+  },
+  "story": {
+    "en": "Names 33 and 34 form one verse on her breasts. In the verse Bhāskararāya quotes under name 22, the sun and moon are called the Devī’s breasts, so the imagery moves between the tender and the cosmic.",
+    "hi": "नाम 33 और 34 मिलकर उनके वक्ष पर एक श्लोक बनाते हैं। नाम 22 के अन्तर्गत भास्करराय जो श्लोक उद्धृत करते हैं, उसमें सूर्य और चन्द्रमा को देवी के स्तन कहा गया है; इस प्रकार यह कल्पना कोमल और ब्रह्माण्डीय, दोनों के बीच चलती है।"
+  },
+  "commentary": {
+    "sanskrit": "स्तनरत्ने विक्रीय प्रेमरत्नं क्रीतवतीति भावः ।",
+    "translation": {
+      "en": "The sense is: having sold the two jewels of her breasts, she bought the jewel of love.",
+      "hi": "भाव यह है कि अपने स्तन रूपी दो रत्न बेचकर उन्होंने प्रेम रूपी रत्न खरीद लिया।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 33 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Inner reading follows Bhāskararāya (vinimaya alaṅkāra; pātivratya). Check the rendering of परस्परस्वतापायेन (“each has given up all claim”)." }
+}

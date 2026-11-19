@@ -1,0 +1,46 @@
+{
+  "number": 29,
+  "verse": 12,
+  "slug": "anakalita-sadrishya-chubuka-shri-virajita",
+  "devanagari": "अनाकलितसादृश्यचुबुकश्रीविराजिता",
+  "iastSplit": "Anākalita-sādṛśya-cubuka-śrī-virājitā",
+  "archana": "ॐ अनाकलितसादृश्यचुबुकश्रीविराजितायै नमः",
+  "syllables": ["a", "nā", "ka", "li", "ta", "sā", "dṛś", "ya", "cu", "bu", "kaś", "rī", "vi", "rā", "ji", "tā"],
+  "words": [
+    { "sa": "अनाकलित", "meaning": { "en": "not grasped, never found", "hi": "जो पाया न जा सका" } },
+    { "sa": "सादृश्य", "meaning": { "en": "likeness, comparison", "hi": "समानता, उपमा" } },
+    { "sa": "चुबुक", "meaning": { "en": "chin", "hi": "ठोड़ी" } },
+    { "sa": "श्री", "meaning": { "en": "beauty", "hi": "शोभा" } },
+    { "sa": "विराजिता", "meaning": { "en": "shining, graced", "hi": "सुशोभित" } }
+  ],
+  "meaning": {
+    "en": "Graced by the beauty of a chin beyond all comparison",
+    "hi": "अतुलनीय ठोड़ी की शोभा से सुशोभित"
+  },
+  "explanation": {
+    "en": "Poets compare each part of her to something lovely, but for her chin no fitting comparison has ever been found. Its beauty stands alone.",
+    "hi": "कवि उनके हर अंग की तुलना किसी सुन्दर वस्तु से करते हैं, पर उनकी ठोड़ी के लिए कोई उपयुक्त उपमा आज तक नहीं मिली। उसकी शोभा अद्वितीय है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says that from the goddesses of speech themselves down to the poets of today, everyone who set out to describe her chin failed to find a true likeness. At most, he says, one might roughly call it the handle of the mirror that is her face. The name is a reminder that her beauty finally exceeds every image the hymn uses.",
+    "hi": "भास्करराय कहते हैं कि स्वयं वाग्देवियों से लेकर आज तक के कवियों तक, जिसने भी उनकी ठोड़ी का वर्णन करना चाहा, उसे सच्ची उपमा नहीं मिली। अधिक से अधिक, वे कहते हैं, उसे मुख रूपी दर्पण की मूठ कहा जा सकता है। यह नाम याद दिलाता है कि उनका सौन्दर्य अन्ततः स्तोत्र की हर उपमा से परे है।"
+  },
+  "story": {
+    "en": "The Sahasranāma itself was composed by the Vāgdevīs, the goddesses of speech, which gives Bhāskararāya’s remark its point: even its own authors found no comparison. His text reads cibuka, another spelling of the word for chin.",
+    "hi": "स्वयं सहस्रनाम की रचना वाग्देवियों ने की थी, इसलिए भास्करराय की बात का अर्थ और गहरा है: इसके रचयिताओं को भी कोई उपमा नहीं मिली। उनके पाठ में ‘चिबुक’ है, जो ठोड़ी के लिए इसी शब्द का दूसरा रूप है।"
+  },
+  "commentary": {
+    "sanskrit": "वाग्देवतामारभ्याद्य यावद्वर्णयितुं प्रवृत्तेः कविभिरनाकलितं आसमन्तादभिव्याप्य न कल्पितं सम्यक् न लब्धं सरसोपमानस्यालाभात् ।",
+    "translation": {
+      "en": "Not grasped: not conceived in its full extent, not truly found, by the poets who have set out to describe it, from the goddesses of speech down to today, because no apt comparison can be had.",
+      "hi": "अनाकलित अर्थात् वाग्देवियों से लेकर आज तक वर्णन करने में प्रवृत्त कवियों द्वारा पूरी तरह न कल्पित, ठीक से न पाया गया, क्योंकि कोई रसपूर्ण उपमा मिलती ही नहीं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 29 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The verse reads चुबुक; Bhāskararāya reads चिबुक (variant spellings of one word)." }
+}

@@ -1,0 +1,48 @@
+{
+  "number": 39,
+  "verse": 17,
+  "slug": "kamesha-jnata-saubhagya-mardavoru-dvayanvita",
+  "devanagari": "कामेशज्ञातसौभाग्यमार्दवोरुद्वयान्विता",
+  "iastSplit": "Kāmeśa-jñāta-saubhāgya-mārdavoru-dvayānvitā",
+  "archana": "ॐ कामेशज्ञातसौभाग्यमार्दवोरुद्वयान्वितायै नमः",
+  "syllables": ["kā", "me", "śaj", "ñā", "ta", "sau", "bhāg", "ya", "mār", "da", "vo", "rud", "va", "yān", "vi", "tā"],
+  "words": [
+    { "sa": "कामेश", "meaning": { "en": "Kāmeśa, Kāmeśvara", "hi": "कामेश, कामेश्वर" } },
+    { "sa": "ज्ञात", "meaning": { "en": "known", "hi": "ज्ञात, जाना हुआ" } },
+    { "sa": "सौभाग्य", "meaning": { "en": "beauty, charm", "hi": "सौन्दर्य, लावण्य" } },
+    { "sa": "मार्दव", "meaning": { "en": "softness", "hi": "कोमलता" } },
+    { "sa": "ऊरु", "meaning": { "en": "thigh", "hi": "जंघा, ऊरु" } },
+    { "sa": "द्वय", "meaning": { "en": "pair", "hi": "युगल" } },
+    { "sa": "अन्विता", "meaning": { "en": "endowed with", "hi": "युक्त" } }
+  ],
+  "meaning": {
+    "en": "Whose thighs’ beauty and softness are known to Kāmeśvara alone",
+    "hi": "जिनकी जंघाओं की शोभा और कोमलता केवल कामेश्वर जानते हैं"
+  },
+  "explanation": {
+    "en": "The beauty and softness of her thighs are known to Kāmeśvara alone; Bhāskararāya says he is their only witness. The hymn does not describe them further, and leaves them to the one who alone may know them.",
+    "hi": "उनकी जंघाओं की शोभा और कोमलता केवल कामेश्वर जानते हैं; भास्करराय कहते हैं कि वे ही इसके एकमात्र साक्षी हैं। स्तोत्र इनका आगे वर्णन नहीं करता, और इन्हें उन्हीं पर छोड़ देता है जो अकेले इन्हें जान सकते हैं।"
+  },
+  "inner": {
+    "en": "Here the hymn chooses reverent silence. Some things about the Devī belong only to her union with Śiva, and the devotee honours them by not prying. Bhāskararāya’s gloss, “with him as the sole witness”, keeps that intimacy intact.",
+    "hi": "यहाँ स्तोत्र श्रद्धापूर्ण मौन चुनता है। देवी के विषय में कुछ बातें केवल शिव के साथ उनके मिलन की हैं, और भक्त उनमें झाँकने का प्रयास न करके ही उनका आदर करता है। भास्करराय की व्याख्या, ‘वे ही एकमात्र साक्षी हैं’, उस अन्तरंगता को अक्षुण्ण रखती है।"
+  },
+  "story": {
+    "en": "Names 39 and 40 form one verse on her thighs and knees. Bhāskararāya’s text heads the name kāmeśa-jñāna, but his own gloss, “known to Kāmeśa”, follows the reading jñāta used here.",
+    "hi": "नाम 39 और 40 मिलकर उनकी जंघाओं और घुटनों पर एक श्लोक बनाते हैं। भास्करराय के पाठ में शीर्षक ‘कामेशज्ञान’ है, पर उनकी अपनी व्याख्या, ‘कामेश द्वारा ज्ञात’, यहाँ प्रयुक्त पाठ ‘ज्ञात’ के अनुसार है।"
+  },
+  "commentary": {
+    "sanskrit": "कामेशेनैव ज्ञाते तदेकसाक्षिके सौभाग्यमार्दवे लावण्यकोमलत्वे ययोस्तयोरूर्वोद्वयेनान्विता ।",
+    "translation": {
+      "en": "Endowed with a pair of thighs whose saubhāgya and mārdava, loveliness and tenderness, are known to Kāmeśa alone, he being their only witness.",
+      "hi": "ऐसी दो जंघाओं से युक्त जिनका सौभाग्य और मार्दव, अर्थात् लावण्य और कोमलता, केवल कामेश को ज्ञात है; वे ही उसके एकमात्र साक्षी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 39 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s heading reads कामेशज्ञान, but his gloss (कामेशेनैव ज्ञाते) supports ज्ञात, the reading of the verse." }
+}

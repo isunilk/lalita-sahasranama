@@ -1,0 +1,47 @@
+{
+  "number": 32,
+  "verse": 13,
+  "slug": "ratna-graiveya-chintaka-lola-muktaphalanvita",
+  "devanagari": "रत्नग्रैवेयचिन्ताकलोलमुक्ताफलान्विता",
+  "iastSplit": "Ratna-graiveya-cintāka-lola-muktāphalānvitā",
+  "archana": "ॐ रत्नग्रैवेयचिन्ताकलोलमुक्ताफलान्वितायै नमः",
+  "syllables": ["rat", "nag", "rai", "ve", "ya", "cin", "tā", "ka", "lo", "la", "muk", "tā", "pha", "lān", "vi", "tā"],
+  "words": [
+    { "sa": "रत्न", "meaning": { "en": "gem", "hi": "रत्न" } },
+    { "sa": "ग्रैवेय", "meaning": { "en": "necklace, neck ornament", "hi": "ग्रैवेय, कण्ठहार" } },
+    { "sa": "चिन्ताक", "meaning": { "en": "cintāka, a jewelled neck ornament", "hi": "चिन्ताक, गले का एक आभूषण" } },
+    { "sa": "लोल", "meaning": { "en": "swaying", "hi": "हिलता हुआ" } },
+    { "sa": "मुक्ताफल", "meaning": { "en": "pearl", "hi": "मोती" } },
+    { "sa": "अन्विता", "meaning": { "en": "adorned with", "hi": "युक्त" } }
+  ],
+  "meaning": {
+    "en": "Adorned with a jewelled necklace, a cintāka and swaying pearls",
+    "hi": "रत्नजटित कण्ठहार, चिन्ताक और झूलते मोतियों से सुशोभित"
+  },
+  "explanation": {
+    "en": "Around her neck she wears a necklace set with gems, a golden ornament called the cintāka, and strings of pearls that sway as she moves. Bhāskararāya notes that the cintāka was well known in the Āndhra country, and also allows the whole to be one ornament: a jewelled cintāka with rows of pearls hanging below it.",
+    "hi": "उनके गले में रत्नजटित हार, ‘चिन्ताक’ नामक सोने का आभूषण, और चलने पर झूलती मोतियों की लड़ियाँ हैं। भास्करराय बताते हैं कि चिन्ताक आन्ध्र देश में प्रसिद्ध था, और इसे एक ही आभूषण भी मानते हैं: रत्नमय चिन्ताक, जिसके नीचे मोतियों की पंक्तियाँ लटकती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya also reads the name as a play on words about three kinds of seekers. Graiveya-cintākas are those whose meditation (cintā) stays at the neck, on the surface, and does not settle in the heart: the middling seekers. The lola, restless and craving, are the lowest, and the muktas, the free, are the highest. She is ready to give all three the jewel-like fruits fitting for them, small or great.",
+    "hi": "भास्करराय इस नाम में श्लेष से तीन प्रकार के साधकों का अर्थ भी पढ़ते हैं। ‘ग्रैवेयचिन्ताक’ वे हैं जिनका ध्यान (चिन्ता) गले तक, ऊपर-ऊपर ही रहता है और हृदय में नहीं टिकता: ये मध्यम साधक हैं। ‘लोल’ अर्थात् चंचल और तृष्णा से भरे साधक अधम हैं, और ‘मुक्त’ उत्तम हैं। वे तीनों को उनके योग्य रत्न-जैसे फल, छोटे या बड़े, देने को तत्पर रहती हैं।"
+  },
+  "story": {
+    "en": "With name 31 this completes the verse on her arms and neck. Some took cintāka to mean a forehead ornament; Bhāskararāya doubts this, since he finds no lexicon that says so.",
+    "hi": "नाम 31 के साथ यह भुजाओं और गले का श्लोक पूरा करता है। कुछ लोग चिन्ताक को ललाट का आभूषण मानते थे; भास्करराय इस मत को संदिग्ध मानते हैं, क्योंकि किसी कोश में ऐसा नहीं लिखा।"
+  },
+  "commentary": {
+    "sanskrit": "ग्रीवायामेव चिन्ता ध्यानं येषां ते ग्रैवेयचिन्ताकाः । उपर्युपर्यापातत एव ध्यानं ये कुर्वन्ति न पुनर्दहरान्तर्देवानां द्रढयितुं क्षमास्ते मध्यमाधिकारिण इत्यर्थः ।",
+    "translation": {
+      "en": "Graiveya-cintākas are those whose contemplation (cintā) is at the neck alone: those who meditate only on the surface and cannot make the deity firm within the inner space (dahara) of the heart. They are the middling seekers.",
+      "hi": "‘ग्रैवेयचिन्ताक’ वे हैं जिनका ध्यान गले तक ही है: जो ऊपर-ऊपर से ही ध्यान करते हैं और हृदय-आकाश (दहर) में देवता को दृढ़ नहीं कर पाते। ये मध्यम अधिकारी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 32 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Inner reading is Bhāskararāya’s śleṣa on three kinds of aspirants. The commentary quote keeps the edition’s दहरान्तर्देवानां." }
+}

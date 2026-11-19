@@ -1,0 +1,46 @@
+{
+  "number": 21,
+  "verse": 8,
+  "slug": "kadamba-manjari-klupta-karnapura-manohara",
+  "devanagari": "कदम्बमञ्जरीक्लुप्तकर्णपूरमनोहरा",
+  "iastSplit": "Kadamba-mañjarī-klupta-karṇapūra-manoharā",
+  "archana": "ॐ कदम्बमञ्जरीक्लुप्तकर्णपूरमनोहरायै नमः",
+  "syllables": ["ka", "dam", "ba", "mañ", "ja", "rīk", "lup", "ta", "kar", "ṇa", "pū", "ra", "ma", "no", "ha", "rā"],
+  "words": [
+    { "sa": "कदम्ब", "meaning": { "en": "the kadamba tree and its blossom", "hi": "कदम्ब" } },
+    { "sa": "मञ्जरी", "meaning": { "en": "cluster of blossoms", "hi": "मंजरी, पुष्पगुच्छ" } },
+    { "sa": "क्लुप्त", "meaning": { "en": "fashioned, made", "hi": "रचित, बना हुआ" } },
+    { "sa": "कर्णपूर", "meaning": { "en": "ear ornament", "hi": "कर्णफूल, कान का आभूषण" } },
+    { "sa": "मनोहरा", "meaning": { "en": "captivating", "hi": "मनोहर" } }
+  ],
+  "meaning": {
+    "en": "Captivating with ear ornaments made of kadamba blossoms",
+    "hi": "कदम्ब की मंजरियों से बने कर्णफूलों से मनोहर"
+  },
+  "explanation": {
+    "en": "Above her ears she wears ornaments fashioned from clusters of kadamba flowers. Bhāskararāya describes the karṇapūra as a crest-like ornament set on the upper part of the ear.",
+    "hi": "वे कानों पर कदम्ब-पुष्पों की मंजरियों से बने आभूषण धारण करती हैं। भास्करराय कर्णपूर को कान के ऊपरी भाग पर सजाया जाने वाला शेखर-जैसा आभूषण बताते हैं।"
+  },
+  "inner": {
+    "en": "The kadamba is her own tree: name 60 calls her Kadambavanavāsinī, she who dwells in the kadamba forest. So even her ear ornaments come from her own abode. Bhāskararāya keeps to the plain sense here.",
+    "hi": "कदम्ब उनका अपना वृक्ष है: नाम 60 उन्हें ‘कदम्बवनवासिनी’, कदम्ब-वन में निवास करने वाली, कहता है। इस प्रकार उनके कर्णफूल भी उनके अपने धाम से आते हैं। भास्करराय यहाँ सीधा अर्थ ही देते हैं।"
+  },
+  "story": {
+    "en": "Names 21 and 22 form one verse on her ears. Bhāskararāya’s text reads karṇāpūra, with a long ā; the meaning is the same.",
+    "hi": "नाम 21 और 22 मिलकर उनके कानों पर एक श्लोक बनाते हैं। भास्करराय के पाठ में ‘कर्णापूर’ है; अर्थ वही है।"
+  },
+  "commentary": {
+    "sanskrit": "कदम्बमञ्जर्या नीपवल्लर्या कॢप्तः कल्पितः कर्णपूरः कर्णोपरिभागे अवस्थाप्यमानः शेखरस्तेन मनोहरा रमणीया ।",
+    "translation": {
+      "en": "Captivating, lovely, with a karṇapūra fashioned from a kadamba spray, the nīpa blossom: a crest-ornament placed on the upper part of the ear.",
+      "hi": "कदम्ब की मंजरी (नीप-वल्लरी) से रचा कर्णपूर, जो कान के ऊपरी भाग पर रखा जाने वाला शेखर है, उससे वे मनोहर और रमणीय हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 21 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The verse reads कर्णपूर and क्लुप्त; Bhāskararāya’s text reads कर्णापूर and कॢप्त (variants, same sense). The commentary quote keeps his spelling." }
+}

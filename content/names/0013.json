@@ -1,0 +1,47 @@
+{
+  "number": 13,
+  "verse": 4,
+  "slug": "champakashoka-punnaga-saugandhika-lasat-kacha",
+  "devanagari": "चम्पकाशोकपुन्नागसौगन्धिकलसत्कचा",
+  "iastSplit": "Campakāśoka-punnāga-saugandhika-lasat-kacā",
+  "archana": "ॐ चम्पकाशोकपुन्नागसौगन्धिकलसत्कचायै नमः",
+  "syllables": ["cam", "pa", "kā", "śo", "ka", "pun", "nā", "ga", "sau", "gan", "dhi", "ka", "la", "sat", "ka", "cā"],
+  "words": [
+    { "sa": "चम्पक", "meaning": { "en": "campaka flower, golden and fragrant", "hi": "चम्पा का पुष्प" } },
+    { "sa": "अशोक", "meaning": { "en": "aśoka flower", "hi": "अशोक का पुष्प" } },
+    { "sa": "पुन्नाग", "meaning": { "en": "punnāga flower", "hi": "पुन्नाग का पुष्प" } },
+    { "sa": "सौगन्धिक", "meaning": { "en": "saugandhika, the fragrant white water-lily (kahlāra)", "hi": "सौगन्धिक, सुगन्धित श्वेत कुमुद (कह्लार)" } },
+    { "sa": "लसत्", "meaning": { "en": "shining, gleaming", "hi": "शोभायमान" } },
+    { "sa": "कच", "meaning": { "en": "hair, tresses", "hi": "केश" } }
+  ],
+  "meaning": {
+    "en": "Whose tresses shine with campaka, aśoka, punnāga and saugandhika flowers",
+    "hi": "जिनके केश चम्पा, अशोक, पुन्नाग और सौगन्धिक पुष्पों से शोभित हैं"
+  },
+  "explanation": {
+    "en": "Here the hymn begins to describe her form, starting from the head. Her hair is adorned with four kinds of fragrant flowers: campaka, aśoka, punnāga and saugandhika, the fragrant water-lily. As Bhāskararāya notes, the tree names here stand for their flowers.",
+    "hi": "यहाँ से स्तोत्र देवी के रूप का वर्णन सिर से आरम्भ करता है। उनके केश चार प्रकार के सुगन्धित पुष्पों से सजे हैं: चम्पा, अशोक, पुन्नाग और सौगन्धिक (कह्लार)। भास्करराय बताते हैं कि यहाँ वृक्षों के नाम उनके पुष्पों के लिए आए हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya offers a second reading: the word lasat can carry a causative sense, so her hair does not borrow fragrance from the flowers but gives its own fragrance to them. He quotes a verse that asks the bee, who knows the scent of every flower, what the fragrance of the Devī’s hair can be compared to. Whatever is lovely in the world takes its loveliness from her, not the other way round.",
+    "hi": "भास्करराय एक दूसरा अर्थ भी देते हैं: ‘लसत्’ शब्द में प्रेरणार्थक भाव लिया जा सकता है, अर्थात् उनके केश फूलों से सुगन्ध नहीं लेते, बल्कि फूलों को अपनी सुगन्ध देते हैं। वे एक श्लोक उद्धृत करते हैं जिसमें हर फूल की गन्ध जानने वाले भ्रमर से पूछा गया है कि देवी के केशों की गन्ध की उपमा किससे दी जाए। संसार में जो कुछ सुन्दर है, वह अपनी सुन्दरता उन्हीं से पाता है, वे उससे नहीं।"
+  },
+  "story": {
+    "en": "Names 13 to 51 describe, from head to foot, the gross (sthūla) form that rose from the fire-altar. Bhāskararāya says the description starts at the head because, as her form rose from the fire, the head appeared first, and because her face is one with the first section of the Pañcadaśī mantra, as name 85 will say.",
+    "hi": "नाम 13 से 51 तक अग्निकुण्ड से प्रकट हुए उनके स्थूल रूप का सिर से चरणों तक वर्णन है। भास्करराय कहते हैं कि वर्णन सिर से इसलिए आरम्भ होता है कि अग्नि से प्रकट होते समय सबसे पहले सिर ही प्रकट हुआ, और इसलिए भी कि उनका मुख पञ्चदशी मन्त्र के प्रथम खण्ड से अभिन्न है, जैसा नाम 85 बताएगा।"
+  },
+  "commentary": {
+    "sanskrit": "लसच्छब्दोऽन्तर्भावितण्यर्थो वा । तेन पुष्पेषु स्वीयपरिमलापादकाः कचा इति फलति ।",
+    "translation": {
+      "en": "Or the word lasat carries a causative sense within it. Then the meaning is: hair that imparts its own fragrance to the flowers.",
+      "hi": "अथवा ‘लसत्’ शब्द में प्रेरणार्थक (णिच्) का अर्थ निहित है। तब अर्थ यह निकलता है: ऐसे केश जो फूलों में अपनी सुगन्ध भरते हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 13 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Inner reading follows Bhāskararāya’s second gloss on lasat (causative sense). The Hindi for punnāga is left as पुन्नाग; check whether a common Hindi plant name should be added." }
+}

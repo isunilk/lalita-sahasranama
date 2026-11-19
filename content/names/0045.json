@@ -1,0 +1,47 @@
+{
+  "number": 45,
+  "verse": 19,
+  "slug": "pada-dvaya-prabha-jala-parakrita-saroruha",
+  "devanagari": "पदद्वयप्रभाजालपराकृतसरोरुहा",
+  "iastSplit": "Pada-dvaya-prabhā-jāla-parākṛta-saroruhā",
+  "archana": "ॐ पदद्वयप्रभाजालपराकृतसरोरुहायै नमः",
+  "syllables": ["pa", "dad", "va", "yap", "ra", "bhā", "jā", "la", "pa", "rā", "kṛ", "ta", "sa", "ro", "ru", "hā"],
+  "words": [
+    { "sa": "पद", "meaning": { "en": "foot", "hi": "चरण" } },
+    { "sa": "द्वय", "meaning": { "en": "pair", "hi": "युगल" } },
+    { "sa": "प्रभा", "meaning": { "en": "radiance", "hi": "प्रभा" } },
+    { "sa": "जाल", "meaning": { "en": "mass, net", "hi": "समूह, जाल" } },
+    { "sa": "पराकृत", "meaning": { "en": "defeated, set aside", "hi": "पराजित, तिरस्कृत" } },
+    { "sa": "सरोरुह", "meaning": { "en": "lotus (literally, lake-born)", "hi": "कमल (सरोवर में उगने वाला)" } }
+  ],
+  "meaning": {
+    "en": "The radiance of whose two feet puts lotuses to shame",
+    "hi": "जिनके दोनों चरणों की प्रभा कमलों को भी पराजित कर देती है"
+  },
+  "explanation": {
+    "en": "Feet are traditionally compared to lotuses, but hers surpass them. Bhāskararāya takes “radiance” broadly, as the whole wealth of their shapeliness and other fine qualities, before which lotuses are set aside.",
+    "hi": "चरणों की तुलना परम्परा से कमलों से की जाती है, पर उनके चरण कमलों से बढ़कर हैं। भास्करराय ‘प्रभा’ को व्यापक अर्थ में लेते हैं: सुडौलता आदि गुणों का समूह, जिसके आगे कमल फीके पड़ जाते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya keeps to the plain sense here. The lotus, the usual image for holy feet, is itself left behind: her feet are not like anything else; everything else is measured against them. The devotee’s journey through her form comes to rest here, at the feet that are the refuge.",
+    "hi": "भास्करराय यहाँ सीधा अर्थ ही देते हैं। पवित्र चरणों की सामान्य उपमा कमल भी यहाँ पीछे छूट जाता है: उनके चरण किसी के समान नहीं; बाकी सब उन्हीं से मापा जाता है। उनके रूप में भक्त की यात्रा यहीं, आश्रय देने वाले चरणों पर, विश्राम पाती है।"
+  },
+  "story": {
+    "en": "Names 44 and 45 form one verse on her feet: first their light, then their beauty. Lotus feet (padāmbuja) return in the very next name.",
+    "hi": "नाम 44 और 45 मिलकर उनके चरणों पर एक श्लोक बनाते हैं: पहले उनकी ज्योति, फिर उनकी शोभा। चरण-कमल (पदाम्बुज) अगले ही नाम में फिर आते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "पदद्वयस्य चरणयुगलस्य प्रभाजालेन सौष्ठवादिगुणसमूहेन पराकृते निरस्ते सरोरुहे कमले यस्याः सा ।",
+    "translation": {
+      "en": "She by the mass of radiance of whose two feet, that is, by the whole array of their qualities such as shapeliness, lotuses are defeated and set aside.",
+      "hi": "जिनके दोनों चरणों के प्रभा-जाल, अर्थात् सुडौलता आदि गुणों के समूह, से कमल पराजित और तिरस्कृत हो गए हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 45 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The inner layer is a reflection; Bhāskararāya gives the literal sense." }
+}

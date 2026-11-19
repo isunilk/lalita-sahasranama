@@ -1,0 +1,48 @@
+{
+  "number": 18,
+  "verse": 6,
+  "slug": "vaktra-lakshmi-parivaha-chalan-minabha-lochana",
+  "devanagari": "वक्त्रलक्ष्मीपरीवाहचलन्मीनाभलोचना",
+  "iastSplit": "Vaktra-lakṣmī-parīvāha-calan-mīnābha-locanā",
+  "archana": "ॐ वक्त्रलक्ष्मीपरीवाहचलन्मीनाभलोचनायै नमः",
+  "syllables": ["vak", "tra", "lak", "ṣmī", "pa", "rī", "vā", "ha", "ca", "lan", "mī", "nā", "bha", "lo", "ca", "nā"],
+  "words": [
+    { "sa": "वक्त्र", "meaning": { "en": "face", "hi": "मुख" } },
+    { "sa": "लक्ष्मी", "meaning": { "en": "beauty, splendour", "hi": "शोभा, कान्ति" } },
+    { "sa": "परीवाह", "meaning": { "en": "overflowing stream", "hi": "उमड़ता प्रवाह" } },
+    { "sa": "चलत्", "meaning": { "en": "moving, darting", "hi": "चंचल" } },
+    { "sa": "मीन", "meaning": { "en": "fish", "hi": "मछली" } },
+    { "sa": "आभ", "meaning": { "en": "resembling", "hi": "समान" } },
+    { "sa": "लोचन", "meaning": { "en": "eye", "hi": "नेत्र" } }
+  ],
+  "meaning": {
+    "en": "Whose eyes dart like fish in the stream of her face’s beauty",
+    "hi": "जिनके नेत्र मुख-कान्ति के प्रवाह में चंचल मछलियों जैसे हैं"
+  },
+  "explanation": {
+    "en": "The beauty of her face is like a flowing stream, and her eyes move in it like two darting fish. The fish shape is the traditional image for long, lovely eyes.",
+    "hi": "उनके मुख की कान्ति बहती धारा के समान है, और उसमें उनके नेत्र दो चंचल मछलियों की तरह तैरते हैं। मछली का आकार लम्बे, सुन्दर नेत्रों की पारम्परिक उपमा है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya adds a tender reading. It was held that fish raise their young simply by looking at them, without suckling them. So the Devī nourishes her devotees by her glance alone.",
+    "hi": "भास्करराय एक कोमल अर्थ जोड़ते हैं। ऐसी मान्यता थी कि मछली अपने बच्चों को दूध पिलाकर नहीं, केवल देखकर पालती है। उसी प्रकार देवी केवल अपनी कृपा-दृष्टि से अपने भक्तों का पोषण करती हैं।"
+  },
+  "story": {
+    "en": "Names 17 and 18 form one verse on her brows and eyes. The image of the fish-eyed goddess is old and much loved; the Devī of Madurai is worshipped as Mīnākṣī, “the fish-eyed one”.",
+    "hi": "नाम 17 और 18 मिलकर उनकी भौंहों और नेत्रों पर एक श्लोक बनाते हैं। मीन-नेत्रों वाली देवी की छवि बहुत प्राचीन और प्रिय है; मदुरै में देवी ‘मीनाक्षी’ अर्थात् मछली जैसे नेत्रों वाली के रूप में पूजी जाती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "मीनानां वीक्षणमात्रे शिशुनामभिवृद्धिः न तु स्तन्यदानादिनेति प्रसिद्धे । तेन कटाक्षमात्रेण भक्तपोषकेत्यर्थः ।",
+    "translation": {
+      "en": "It is well known that young fish grow merely by being looked at, not by being suckled. So the meaning is: she nourishes her devotees by her glance alone.",
+      "hi": "यह प्रसिद्ध है कि मछलियों के बच्चे केवल देखे जाने से बढ़ते हैं, स्तनपान आदि से नहीं। अतः अर्थ यह है कि वे केवल कटाक्ष से भक्तों का पोषण करती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 18 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Inner reading is Bhāskararāya’s. The Mīnākṣī remark in the story is general context, not from the commentary. The commentary quote keeps the edition’s spelling शिशुनाम." }
+}

@@ -1,0 +1,48 @@
+{
+  "number": 19,
+  "verse": 7,
+  "slug": "nava-champaka-pushpabha-nasa-danda-virajita",
+  "devanagari": "नवचम्पकपुष्पाभनासादण्डविराजिता",
+  "iastSplit": "Nava-campaka-puṣpābha-nāsā-daṇḍa-virājitā",
+  "archana": "ॐ नवचम्पकपुष्पाभनासादण्डविराजितायै नमः",
+  "syllables": ["na", "va", "cam", "pa", "ka", "puṣ", "pā", "bha", "nā", "sā", "daṇ", "ḍa", "vi", "rā", "ji", "tā"],
+  "words": [
+    { "sa": "नव", "meaning": { "en": "fresh, newly opened", "hi": "नवीन, ताज़ा" } },
+    { "sa": "चम्पक", "meaning": { "en": "campaka", "hi": "चम्पा" } },
+    { "sa": "पुष्प", "meaning": { "en": "flower", "hi": "पुष्प" } },
+    { "sa": "आभ", "meaning": { "en": "resembling", "hi": "समान" } },
+    { "sa": "नासा", "meaning": { "en": "nose", "hi": "नासिका" } },
+    { "sa": "दण्ड", "meaning": { "en": "stem, straight ridge", "hi": "दण्ड, सीधा भाग" } },
+    { "sa": "विराजिता", "meaning": { "en": "shining, graced", "hi": "सुशोभित" } }
+  ],
+  "meaning": {
+    "en": "Graced by a nose like a freshly opened campaka flower",
+    "hi": "नवीन खिले चम्पा-पुष्प जैसी नासिका से सुशोभित"
+  },
+  "explanation": {
+    "en": "Her nose, straight and delicate, is compared to a fresh campaka flower. Bhāskararāya specifies that this is not a closed bud but a flower just beginning to open.",
+    "hi": "उनकी सीधी, कोमल नासिका की तुलना ताज़े चम्पा-पुष्प से की गई है। भास्करराय स्पष्ट करते हैं कि यह बन्द कली नहीं, अभी-अभी खिलना आरम्भ हुआ पुष्प है।"
+  },
+  "inner": {
+    "en": "The campaka returns here, the flower that adorned her hair in name 13, now as the image of her nose. Bhāskararāya keeps to the plain sense. The care of the description, down to how far the flower has opened, shows the loving attention the hymn asks of one who meditates on her form.",
+    "hi": "यहाँ फिर वही चम्पा आता है जो नाम 13 में उनके केशों में सजा था, अब उनकी नासिका की उपमा बनकर। भास्करराय यहाँ सीधा अर्थ ही देते हैं। फूल कितना खिला है, इतनी बारीकी तक का वर्णन उस प्रेमपूर्ण एकाग्रता को दिखाता है जो स्तोत्र उनके रूप का ध्यान करने वाले से चाहता है।"
+  },
+  "story": {
+    "en": "Names 19 and 20 form one verse on her nose and its jewel. Bhāskararāya calls the half-opened campaka flower gandhaphalī.",
+    "hi": "नाम 19 और 20 मिलकर उनकी नासिका और उसके आभूषण पर एक श्लोक बनाते हैं। भास्करराय अधखिले चम्पा-पुष्प को ‘गन्धफली’ कहते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "नवं नूतनं चम्पकस्य पुष्पं न तु केवलकलिका । ईषद्विकसिता गन्धफलीति यावत् ।",
+    "translation": {
+      "en": "Nava: a fresh campaka flower, not merely a bud; slightly opened, that is, a gandhaphalī.",
+      "hi": "नव अर्थात् चम्पा का ताज़ा पुष्प, केवल कली नहीं; थोड़ा-सा खिला हुआ, अर्थात् गन्धफली।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 19 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Inner layer is a devotional reflection; Bhāskararāya gives the literal sense (a half-opened flower, gandhaphalī)." }
+}

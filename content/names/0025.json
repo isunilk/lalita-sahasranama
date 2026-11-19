@@ -1,0 +1,49 @@
+{
+  "number": 25,
+  "verse": 10,
+  "slug": "shuddha-vidyankurakara-dvija-pankti-dvayojjvala",
+  "devanagari": "शुद्धविद्याङ्कुराकारद्विजपङ्क्तिद्वयोज्ज्वला",
+  "iastSplit": "Śuddha-vidyāṅkurākāra-dvija-paṅkti-dvayojjvalā",
+  "archana": "ॐ शुद्धविद्याङ्कुराकारद्विजपङ्क्तिद्वयोज्ज्वलायै नमः",
+  "syllables": ["śud", "dha", "vid", "yāṅ", "ku", "rā", "kā", "rad", "vi", "ja", "paṅ", "ktid", "va", "yoj", "jva", "lā"],
+  "words": [
+    { "sa": "शुद्ध", "meaning": { "en": "pure", "hi": "शुद्ध" } },
+    { "sa": "विद्या", "meaning": { "en": "sacred knowledge; here the Śrīvidyā", "hi": "विद्या; यहाँ श्रीविद्या" } },
+    { "sa": "अङ्कुर", "meaning": { "en": "sprout", "hi": "अंकुर" } },
+    { "sa": "आकार", "meaning": { "en": "form", "hi": "आकार" } },
+    { "sa": "द्विज", "meaning": { "en": "tooth (literally, twice-born)", "hi": "दाँत (शाब्दिक अर्थ: द्विज, दो बार जन्मा)" } },
+    { "sa": "पङ्क्ति", "meaning": { "en": "row", "hi": "पंक्ति" } },
+    { "sa": "द्वय", "meaning": { "en": "pair", "hi": "दो, युगल" } },
+    { "sa": "उज्ज्वला", "meaning": { "en": "shining", "hi": "उज्ज्वल, दीप्तिमान" } }
+  ],
+  "meaning": {
+    "en": "Shining with two rows of teeth like sprouts of pure knowledge",
+    "hi": "शुद्धविद्या के अंकुरों जैसी दो दन्त-पंक्तियों से उज्ज्वल"
+  },
+  "explanation": {
+    "en": "Her two rows of teeth shine like sprouts of śuddhavidyā, pure knowledge. Dvija, “twice-born”, is a word for teeth, since they grow twice. Bhāskararāya takes the pure knowledge here as the Ṣoḍaśī vidyā, the sacred knowledge that clears away the stain of ignorance.",
+    "hi": "उनकी दोनों दन्त-पंक्तियाँ शुद्धविद्या के अंकुरों की तरह चमकती हैं। ‘द्विज’ अर्थात् दो बार जन्मने वाला, दाँतों का नाम है, क्योंकि वे दो बार निकलते हैं। भास्करराय यहाँ शुद्धविद्या को षोडशी विद्या मानते हैं, वह पवित्र ज्ञान जो अविद्या के मल को दूर करता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya explains why teeth and sprouts belong together. The vidyā comes forth from the Mother through the four levels of speech, parā, paśyantī, madhyamā and vaikharī, like a seed that swells, splits, shows two folded leaves and then opens them; the last stage, the spoken word, is the sprout. Each of the sixteen syllables has two such leaves, which makes thirty-two, the number of the teeth. So her teeth are the sprouts of that vidyā in visible form.",
+    "hi": "भास्करराय बताते हैं कि दाँत और अंकुर का सम्बन्ध क्या है। विद्या माँ से वाणी के चार स्तरों, परा, पश्यन्ती, मध्यमा और वैखरी, से होकर प्रकट होती है, जैसे बीज पहले फूलता है, फिर फटता है, फिर दो बन्द पत्ते दिखाता है और अन्त में उन्हें खोल देता है; यही अन्तिम अवस्था, बोली जाने वाली वाणी, अंकुर है। सोलह अक्षरों में से प्रत्येक के दो पत्ते होने से बत्तीस होते हैं, जो दाँतों की संख्या है। इस प्रकार उनके दाँत उसी विद्या के साकार अंकुर हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya adds two more readings. Taking dvija as “brāhmaṇa”, the learned who carry the Veda are her teeth, since knowledge came from her mouth and rests in them. Taking it as the “second birth” of initiation, the rows are the thirty-two dīkṣās known in the Tantras, and she is reached by those whose minds have been prepared through the initiations of the tradition.",
+    "hi": "भास्करराय दो और अर्थ देते हैं। ‘द्विज’ को ब्राह्मण मानें, तो वेद-विद्या को धारण करने वाले ज्ञानी उनके दाँत हैं, क्योंकि विद्या उनके मुख से निकली और उन्हीं में स्थित है। ‘द्विज’ को दीक्षा रूपी दूसरा जन्म मानें, तो ये पंक्तियाँ तन्त्रों में प्रसिद्ध बत्तीस दीक्षाएँ हैं, और वे उन्हें प्राप्त होती हैं जिनका अन्तःकरण परम्परा से आई दीक्षाओं द्वारा तैयार हुआ है।"
+  },
+  "commentary": {
+    "sanskrit": "षोडशाक्षराङ्कुराणां प्रत्यङ्कुरं दलद्वयाद् द्वात्रिंशद्दन्तसंख्यासम्पत्तिरपि । अतस्तान्यङ्कुराण्येव मूर्तिमन्ति दन्तरूपाणीति तात्पर्यम् ।",
+    "translation": {
+      "en": "With two leaves to each sprout of the sixteen syllables, the number of the teeth, thirty-two, is also reached. So the point is: those very sprouts, given form, are her teeth.",
+      "hi": "सोलह अक्षरों के अंकुरों में से प्रत्येक के दो पत्ते होने से दाँतों की संख्या बत्तीस भी पूरी होती है। अतः तात्पर्य यह है कि वही अंकुर साकार होकर उनके दाँत हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 25 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Meaning only, as AGENTS.md asks: the Ṣoḍaśī vidyā is named, with its syllable count, but no mantra text is given. Bhāskararāya gives three readings (sprouts of speech; brāhmaṇas; thirty-two dīkṣās); the third is summarised briefly in the story. Check the wording of both." }
+}

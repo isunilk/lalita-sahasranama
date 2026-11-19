@@ -1,0 +1,47 @@
+{
+  "number": 35,
+  "verse": 15,
+  "slug": "lakshya-roma-latadharata-samunneya-madhyama",
+  "devanagari": "लक्ष्यरोमलताधारतासमुन्नेयमध्यमा",
+  "iastSplit": "Lakṣya-roma-latādhāratā-samunneya-madhyamā",
+  "archana": "ॐ लक्ष्यरोमलताधारतासमुन्नेयमध्यमायै नमः",
+  "syllables": ["lak", "ṣya", "ro", "ma", "la", "tā", "dhā", "ra", "tā", "sa", "mun", "ne", "ya", "madh", "ya", "mā"],
+  "words": [
+    { "sa": "लक्ष्य", "meaning": { "en": "visible, to be noticed", "hi": "दिखाई देने योग्य" } },
+    { "sa": "रोमन्", "meaning": { "en": "fine hair", "hi": "रोम" } },
+    { "sa": "लता", "meaning": { "en": "creeper", "hi": "लता" } },
+    { "sa": "आधारता", "meaning": { "en": "being the support", "hi": "आधार होना" } },
+    { "sa": "समुन्नेय", "meaning": { "en": "to be inferred", "hi": "अनुमान से जानने योग्य" } },
+    { "sa": "मध्यम", "meaning": { "en": "waist", "hi": "कटि, कमर" } }
+  ],
+  "meaning": {
+    "en": "Whose waist is known only by inference, as the hair-line’s support",
+    "hi": "जिनकी कमर रोमलता के आधार रूप में अनुमान से जानी जाती है"
+  },
+  "explanation": {
+    "en": "Her waist is so slender that it can hardly be seen. One knows it is there only by inference: the line of hair is visible, and it must rest on something, so the waist must be there.",
+    "hi": "उनकी कमर इतनी पतली है कि दिखाई ही नहीं देती। उसका होना केवल अनुमान से जाना जाता है: रोमावली दिखती है, और उसे किसी आधार पर टिकना चाहिए, इसलिए कमर अवश्य है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya sets the name out as a formal inference in Nyāya logic, with the visible line of hair as the sign (liṅga) and the waist as what is inferred. The poet’s compliment becomes a small lesson: what is too subtle to be seen can still be known with certainty through its signs.",
+    "hi": "भास्करराय इस नाम को न्याय-शास्त्र के अनुमान के रूप में प्रस्तुत करते हैं: दिखाई देने वाली रोमलता लिंग (चिह्न) है, और कमर अनुमेय है। कवि की प्रशंसा एक छोटा-सा पाठ बन जाती है: जो देखने में अति सूक्ष्म है, वह भी अपने चिह्नों से निश्चित रूप से जाना जा सकता है।"
+  },
+  "story": {
+    "en": "Bhāskararāya also defends the metre of this line, where a word runs across the expected pause (yati), citing older authorities on prosody and his own work on metre, the Chandobhāskara. Names 35 and 36 form one verse on her waist.",
+    "hi": "भास्करराय इस पंक्ति के छन्द का भी समर्थन करते हैं, जिसमें एक शब्द अपेक्षित यति (विराम) के आर-पार चला जाता है; इसके लिए वे प्राचीन छन्दःशास्त्रियों और छन्द पर अपने ग्रन्थ ‘छन्दोभास्कर’ का प्रमाण देते हैं। नाम 35 और 36 मिलकर उनकी कटि पर एक श्लोक बनाते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "आधारतासम्बन्धेन रोमलतैव लिङ्गमिति यावत् । तया सम्यगुन्नेयं प्रमानुमितिविषयो मध्यमं वलग्नं यस्याः ।",
+    "translation": {
+      "en": "That is, the creeper of hair itself is the sign (liṅga), through its relation of resting on a support. By it her madhyama, the waist, is rightly to be inferred, the object of a valid inference.",
+      "hi": "अर्थात् आधार-सम्बन्ध से रोमलता ही लिंग (चिह्न) है। उसके द्वारा जिनका मध्यम, अर्थात् कटि, भली-भाँति अनुमेय है, यथार्थ अनुमान का विषय है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 35 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The inner layer summarises Bhāskararāya’s Nyāya reading; its last sentence is a reflection. The story mentions his defence of the yati and his Chandobhāskara." }
+}

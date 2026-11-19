@@ -1,0 +1,47 @@
+{
+  "number": 38,
+  "verse": 16,
+  "slug": "ratna-kinkinika-ramya-rashana-dama-bhushita",
+  "devanagari": "रत्नकिङ्किणिकारम्यरशनादामभूषिता",
+  "iastSplit": "Ratna-kiṅkiṇikā-ramya-raśanā-dāma-bhūṣitā",
+  "archana": "ॐ रत्नकिङ्किणिकारम्यरशनादामभूषितायै नमः",
+  "syllables": ["rat", "na", "kiṅ", "ki", "ṇi", "kā", "ram", "ya", "ra", "śa", "nā", "dā", "ma", "bhū", "ṣi", "tā"],
+  "words": [
+    { "sa": "रत्न", "meaning": { "en": "gem", "hi": "रत्न" } },
+    { "sa": "किङ्किणिका", "meaning": { "en": "small bell", "hi": "घुँघरू, छोटी घण्टी" } },
+    { "sa": "रम्य", "meaning": { "en": "charming", "hi": "रमणीय" } },
+    { "sa": "रशना", "meaning": { "en": "girdle", "hi": "करधनी, मेखला" } },
+    { "sa": "दामन्", "meaning": { "en": "string, band", "hi": "डोर, लड़ी" } },
+    { "sa": "भूषिता", "meaning": { "en": "adorned", "hi": "विभूषित" } }
+  ],
+  "meaning": {
+    "en": "Adorned with a girdle made charming by little jewelled bells",
+    "hi": "रत्नजटित घुँघरुओं से रमणीय करधनी से विभूषित"
+  },
+  "explanation": {
+    "en": "Over her garment she wears a girdle (raśanā) hung with little bells made of gems. Bhāskararāya describes it as a golden waist-chain, the string and the girdle being one ornament.",
+    "hi": "वस्त्र के ऊपर वे रशना (करधनी) धारण करती हैं, जिसमें रत्नों के छोटे-छोटे घुँघरू लगे हैं। भास्करराय इसे सोने की मेखला बताते हैं, जिसमें डोर और करधनी एक ही आभूषण हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya keeps to the plain sense. The soft chime of the bells as she moves makes her form something heard as well as seen. The hymn returns to that sound at her feet, with the tinkling anklets of name 46.",
+    "hi": "भास्करराय यहाँ सीधा अर्थ ही देते हैं। चलते समय घुँघरुओं की मधुर झंकार उनके रूप को केवल देखने का नहीं, सुनने का भी विषय बना देती है। स्तोत्र यही ध्वनि उनके चरणों में, नाम 46 के झनकते नूपुरों में, फिर लाता है।"
+  },
+  "story": {
+    "en": "With name 37 this completes the verse on her hips. A girdle hung with small bells is a familiar ornament in descriptions of goddesses in Sanskrit poetry.",
+    "hi": "नाम 37 के साथ यह कटि-प्रदेश का श्लोक पूरा करता है। घुँघरुओं वाली करधनी संस्कृत काव्य में देवियों के वर्णन का परिचित आभूषण है।"
+  },
+  "commentary": {
+    "sanskrit": "रत्नमयीभिः किङ्किणिकाभिः क्षुद्रघण्टिकाभी रम्येण रशनाभिन्नेन दाम्ना सौवर्णमेखलासूत्रेण भूषिता ।",
+    "translation": {
+      "en": "Adorned with a string (dāma), not different from the girdle, a golden waist-chain, made charming by kiṅkiṇikās, little bells made of gems.",
+      "hi": "रत्नमय किंकिणिकाओं, अर्थात् छोटी घण्टियों, से रमणीय, करधनी से अभिन्न दाम, अर्थात् सोने की मेखला-डोर, से विभूषित।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 38 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The inner layer is a reflection; Bhāskararāya gives the literal sense." }
+}

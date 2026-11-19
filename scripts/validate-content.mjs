@@ -94,7 +94,10 @@ for (const n of names) {
   else if (v !== n.verse) errors.push(`${String(n.number).padStart(4, '0')}.json: verse is ${n.verse} but verses.json puts it in verse ${v}`);
 }
 const missingInVerses = [...verseOfName.keys()].filter((k) => !seenNumbers.has(k));
-if (missingInVerses.length) warnings.push(`verses.json lists names without content files yet: ${missingInVerses.join(', ')}`);
+if (missingInVerses.length) {
+  const sample = missingInVerses.slice(0, 8).join(', ');
+  warnings.push(`${missingInVerses.length} names in verses.json have no content file yet (${sample}${missingInVerses.length > 8 ? ', …' : ''})`);
+}
 
 // Report
 const pad = (s, n) => String(s).padEnd(n);

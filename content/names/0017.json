@@ -1,0 +1,47 @@
+{
+  "number": 17,
+  "verse": 6,
+  "slug": "vadana-smara-mangalya-griha-torana-chillika",
+  "devanagari": "वदनस्मरमाङ्गल्यगृहतोरणचिल्लिका",
+  "iastSplit": "Vadana-smara-māṅgalya-gṛha-toraṇa-cillikā",
+  "archana": "ॐ वदनस्मरमाङ्गल्यगृहतोरणचिल्लिकायै नमः",
+  "syllables": ["va", "da", "nas", "ma", "ra", "māṅ", "gal", "ya", "gṛ", "ha", "to", "ra", "ṇa", "cil", "li", "kā"],
+  "words": [
+    { "sa": "वदन", "meaning": { "en": "face", "hi": "मुख" } },
+    { "sa": "स्मर", "meaning": { "en": "Smara, Kāma, the god of love", "hi": "स्मर, कामदेव" } },
+    { "sa": "माङ्गल्य", "meaning": { "en": "auspicious", "hi": "मंगलमय" } },
+    { "sa": "गृह", "meaning": { "en": "house", "hi": "गृह, भवन" } },
+    { "sa": "तोरण", "meaning": { "en": "arched gateway", "hi": "तोरण, सजा हुआ द्वार" } },
+    { "sa": "चिल्लिका", "meaning": { "en": "eyebrows", "hi": "भौंहें" } }
+  ],
+  "meaning": {
+    "en": "Whose eyebrows are the gateway to her face, Kāma’s auspicious house",
+    "hi": "जिनकी भौंहें मुख रूपी कामदेव के मंगल-भवन का तोरण हैं"
+  },
+  "explanation": {
+    "en": "Her face is pictured as the auspicious house of Kāma, the god of love, and her curved eyebrows are the arched toraṇa over its entrance. A toraṇa is hung over a doorway on festive and auspicious occasions.",
+    "hi": "उनके मुख को कामदेव का मंगल-भवन कहा गया है, और उनकी वक्र भौंहें उसके द्वार पर बना तोरण हैं। उत्सव और शुभ अवसरों पर घर के द्वार पर तोरण सजाया जाता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya calls this a chained metaphor (paramparita-rūpaka): once the face is a house, the brows must be its gateway. He reads it as poetry and gives no hidden meaning. The image says that love has its auspicious home in her face, and that the way in lies beneath those brows, through her glance.",
+    "hi": "भास्करराय इसे परम्परित रूपक कहते हैं: जब मुख भवन है, तो भौंहें उसका द्वार होंगी ही। वे इसे काव्य के रूप में पढ़ते हैं और कोई गूढ़ अर्थ नहीं बताते। यह चित्र कहता है कि प्रेम का मंगलमय घर उनका मुख है, और उसमें प्रवेश का मार्ग उन भौंहों के नीचे, उनकी दृष्टि से होकर है।"
+  },
+  "story": {
+    "en": "For cillikā meaning “eyebrow”, Bhāskararāya cites the lexicon Nāmakalpadruma and the Lalitāstavaratna, which uses the related word cillī. Smara is a name of Kāma, and Bhāskararāya glosses it as Kāmarāja.",
+    "hi": "‘चिल्लिका’ का अर्थ भौंह है; इसके प्रमाण में भास्करराय नामकल्पद्रुम कोश और ललितास्तवरत्न का उल्लेख करते हैं, जिसमें इसी से जुड़ा शब्द ‘चिल्ली’ आया है। स्मर कामदेव का नाम है, और भास्करराय इसका अर्थ कामराज बताते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "वदनमेव स्मरस्य कामराजस्य माङ्गल्यगृहं तस्य तोरणो बहिर्द्वारमेव, चिल्लिका भ्रूलता यस्याः ।",
+    "translation": {
+      "en": "Her face itself is the auspicious house of Smara, Kāmarāja; its toraṇa, the outer gateway, is her cillikā, the creeper-like line of her brows.",
+      "hi": "उनका मुख ही स्मर अर्थात् कामराज का मंगल-गृह है; उसका तोरण, अर्थात् बाहरी द्वार, उनकी चिल्लिका, लता-सी भौंहें, हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 17 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya glosses smara as kāmarāja; the inner layer beyond his figure of speech is a devotional reflection." }
+}

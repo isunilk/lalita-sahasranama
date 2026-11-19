@@ -1,0 +1,47 @@
+{
+  "number": 20,
+  "verse": 7,
+  "slug": "tara-kanti-tiraskari-nasabharana-bhasura",
+  "devanagari": "ताराकान्तितिरस्कारिनासाभरणभासुरा",
+  "iastSplit": "Tārā-kānti-tiraskāri-nāsābharaṇa-bhāsurā",
+  "archana": "ॐ ताराकान्तितिरस्कारिनासाभरणभासुरायै नमः",
+  "syllables": ["tā", "rā", "kān", "ti", "ti", "ras", "kā", "ri", "nā", "sā", "bha", "ra", "ṇa", "bhā", "su", "rā"],
+  "words": [
+    { "sa": "तारा", "meaning": { "en": "star", "hi": "तारा" } },
+    { "sa": "कान्ति", "meaning": { "en": "lustre", "hi": "कान्ति, चमक" } },
+    { "sa": "तिरस्कारिन्", "meaning": { "en": "outshining, putting to shame", "hi": "तिरस्कार करने वाला, मात देने वाला" } },
+    { "sa": "नासा", "meaning": { "en": "nose", "hi": "नासिका" } },
+    { "sa": "आभरण", "meaning": { "en": "ornament", "hi": "आभूषण" } },
+    { "sa": "भासुरा", "meaning": { "en": "radiant", "hi": "दीप्तिमान" } }
+  ],
+  "meaning": {
+    "en": "Radiant with a nose ornament that outshines the lustre of the stars",
+    "hi": "तारों की कान्ति को मात देने वाले नासाभूषण से दीप्तिमान"
+  },
+  "explanation": {
+    "en": "She wears a nose ornament whose sparkle puts the stars to shame. Bhāskararāya describes it as made of rubies, pearls and other gems.",
+    "hi": "वे ऐसा नासाभूषण धारण करती हैं जिसकी चमक के आगे तारे फीके पड़ जाते हैं। भास्करराय बताते हैं कि वह माणिक, मोती आदि रत्नों से बना है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya also allows tārā to mean two particular star-goddesses, whom he names Maṅgalā and Śuklā; the jewel outshines them both. He gives no further hidden sense. The hymn sets even the lights of the night sky below a single ornament of hers; how much greater, then, is her own radiance.",
+    "hi": "भास्करराय ‘तारा’ का एक और अर्थ भी देते हैं: दो विशेष तारा-देवियाँ, जिन्हें वे मङ्गला और शुक्ला कहते हैं; यह आभूषण दोनों को मात देता है। इसके आगे वे कोई गूढ़ अर्थ नहीं देते। स्तोत्र रात्रि-आकाश की ज्योतियों को भी उनके एक आभूषण से नीचे रखता है; फिर उनकी अपनी दीप्ति का तो कहना ही क्या।"
+  },
+  "story": {
+    "en": "With name 19 this completes the verse on her nose. Ornament by ornament, the hymn moves down her face toward her ears, cheeks and lips.",
+    "hi": "नाम 19 के साथ यह नासिका का श्लोक पूरा करता है। एक-एक आभूषण का वर्णन करते हुए स्तोत्र उनके मुख पर नीचे की ओर, कानों, कपोलों और अधरों की ओर बढ़ता है।"
+  },
+  "commentary": {
+    "sanskrit": "तादृशेन नासाभरणेन माणिक्यमौक्तिकादिभ्यां घटितेन भासुरा शोभमाना ।",
+    "translation": {
+      "en": "Radiant, shining, with such a nose ornament, made of rubies, pearls and the like.",
+      "hi": "ऐसे नासाभूषण से भासुर अर्थात् शोभायमान, जो माणिक, मोती आदि से बना है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 20 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s alternative gloss reads मङ्गलाख्या शुक्लाख्या च तारकादेवीविशेषो वा. शुक्ला may be a misprint for शुक्रा (Venus), which with Maṅgala (Mars) would match the ruby and pearl; the text’s wording is kept. Check against a printed edition." }
+}

@@ -1,0 +1,49 @@
+{
+  "number": 36,
+  "verse": 15,
+  "slug": "stana-bhara-dalan-madhya-patta-bandha-vali-traya",
+  "devanagari": "स्तनभारदलन्मध्यपट्टबन्धवलित्रया",
+  "iastSplit": "Stana-bhāra-dalan-madhya-paṭṭa-bandha-vali-trayā",
+  "archana": "ॐ स्तनभारदलन्मध्यपट्टबन्धवलित्रयायै नमः",
+  "syllables": ["sta", "na", "bhā", "ra", "da", "lan", "madh", "ya", "paṭ", "ṭa", "ban", "dha", "va", "lit", "ra", "yā"],
+  "words": [
+    { "sa": "स्तन", "meaning": { "en": "breast", "hi": "स्तन" } },
+    { "sa": "भार", "meaning": { "en": "weight", "hi": "भार" } },
+    { "sa": "दलत्", "meaning": { "en": "breaking, giving way", "hi": "टूटता हुआ" } },
+    { "sa": "मध्य", "meaning": { "en": "waist", "hi": "कटि" } },
+    { "sa": "पट्ट", "meaning": { "en": "band, plate", "hi": "पट्टी" } },
+    { "sa": "बन्ध", "meaning": { "en": "binding", "hi": "बन्धन" } },
+    { "sa": "वलि", "meaning": { "en": "fold of skin", "hi": "वलि, त्वचा की सिलवट" } },
+    { "sa": "त्रय", "meaning": { "en": "three", "hi": "तीन" } }
+  ],
+  "meaning": {
+    "en": "Whose three folds brace a waist bending under her breasts’ weight",
+    "hi": "जिनकी तीन वलियाँ स्तनभार से झुकती कमर को थामने वाले पट्टबन्ध-सी हैं"
+  },
+  "explanation": {
+    "en": "Her waist is so slender that it seems about to give way under the weight of her breasts. The three graceful folds across it look like bands put there to hold it together.",
+    "hi": "उनकी कमर इतनी पतली है कि मानो स्तनों के भार से टूटने ही वाली हो। उस पर पड़ी तीन सुन्दर वलियाँ ऐसी लगती हैं मानो उसे थामे रखने के लिए बाँधी गई पट्टियाँ हों।"
+  },
+  "inner": {
+    "en": "Bhāskararāya pictures the bands as golden plates and names the figures, poetic fancy and hyperbole; he offers no hidden meaning. Three folds at the waist (trivalī) are a classical mark of beauty. The hymn lingers over every detail because each one is a place for the mind to rest on her.",
+    "hi": "भास्करराय इन पट्टियों को सोने की पट्टिकाएँ बताते हैं और अलंकारों के नाम देते हैं: उत्प्रेक्षा और अतिशयोक्ति; वे कोई गूढ़ अर्थ नहीं देते। कमर पर तीन वलियाँ (त्रिवली) शास्त्रीय काव्य में सौन्दर्य का चिह्न हैं। स्तोत्र हर बारीकी पर रुकता है, क्योंकि हर अंग ध्यान में मन के टिकने का स्थान है।"
+  },
+  "story": {
+    "en": "With name 35 this completes the verse on her waist. From here the description moves down to her hips, and the garment and girdle she wears there (names 37 and 38).",
+    "hi": "नाम 35 के साथ यह कटि का श्लोक पूरा करता है। यहाँ से वर्णन नीचे उनके कटि-प्रदेश, और वहाँ धारण किए वस्त्र और मेखला (नाम 37 और 38) की ओर बढ़ता है।"
+  },
+  "commentary": {
+    "sanskrit": "स्तनयोर्भारेण गौरवेण दलत इव मध्यस्य दार्ढ्यार्थं कृतः पट्टबन्धः कनकपट्टिकाभिर्बन्ध एव वलित्रयं यस्याः",
+    "translation": {
+      "en": "She whose three folds are themselves a binding of golden plates, made to strengthen her waist, which seems to be breaking under the weight of her breasts.",
+      "hi": "जिनकी तीन वलियाँ ही सोने की पट्टिकाओं का वह बन्धन हैं जो स्तनों के भार से मानो टूटती कमर को दृढ़ करने के लिए बाँधा गया है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 36 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The web list and the verse text write पट्ट with a zero-width joiner between ट् and ट; it is dropped here in devanagari and archana (same letters, plain पट्ट). The inner layer beyond Bhāskararāya’s figures is a reflection." }
+}
