@@ -1,0 +1,45 @@
+{
+  "number": 55,
+  "verse": 22,
+  "slug": "sumeru-madhya-shringa-stha",
+  "devanagari": "सुमेरुमध्यशृङ्गस्था",
+  "iastSplit": "Sumeru-madhya-śṛṅga-sthā",
+  "archana": "ॐ सुमेरुमध्यशृङ्गस्थायै नमः",
+  "syllables": ["su", "me", "ru", "madh", "ya", "śṛṅ", "gas", "thā"],
+  "words": [
+    { "sa": "सुमेरु", "meaning": { "en": "Sumeru, Mount Meru, the golden mountain at the centre of the world", "hi": "सुमेरु, जगत् के केन्द्र में स्थित स्वर्ण-पर्वत मेरु" } },
+    { "sa": "मध्य", "meaning": { "en": "middle, central", "hi": "मध्य, बीच का" } },
+    { "sa": "शृङ्ग", "meaning": { "en": "peak", "hi": "शिखर, चोटी" } },
+    { "sa": "स्था", "meaning": { "en": "abiding, standing", "hi": "स्थित, विराजमान" } }
+  ],
+  "meaning": {
+    "en": "Abiding on the central peak of Mount Meru",
+    "hi": "सुमेरु पर्वत के मध्य शिखर पर विराजमान"
+  },
+  "explanation": {
+    "en": "Having named her seat on Kāmeśvara’s lap, the hymn now names her abodes, beginning with the highest. She dwells on the middle peak of Sumeru, the golden mountain at the centre of the world. Bhāskararāya also allows the reading “on the beautiful (su) central peak of Meru”.",
+    "hi": "कामेश्वर की गोद रूपी आसन बताने के बाद स्तोत्र अब उनके निवास-स्थान गिनाता है, सबसे ऊँचे से आरम्भ करके। वे सुमेरु के मध्य शिखर पर रहती हैं; सुमेरु जगत् के केन्द्र में स्थित स्वर्ण-पर्वत है। भास्करराय ‘सुन्दर (सु) मेरु के मध्य शिखर पर’ यह अर्थ भी स्वीकार करते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes Durvāsas’s Lalitāstavaratna: Meru has three peaks set like the Śiva triangle, bearing the worlds of Brahmā, Viṣṇu and Śiva, and in their midst a fourth peak, four hundred yojanas high, where she dwells. He gives no further hidden meaning here. The picture places her above and between the three powers of creation, preservation and dissolution, as their source.",
+    "hi": "भास्करराय दुर्वासा मुनि के ‘ललितास्तवरत्न’ का प्रमाण देते हैं: मेरु के तीन शिखर शिव-त्रिकोण की भाँति स्थित हैं, जो ब्रह्मा, विष्णु और शिव के लोकों के आधार हैं, और उनके बीच चार सौ योजन ऊँचा चौथा शिखर है, जहाँ देवी का वास है। यहाँ वे कोई और गूढ़ अर्थ नहीं देते। यह चित्र देवी को सृष्टि, पालन और संहार की तीनों शक्तियों के ऊपर और उनके बीच, उनके मूल के रूप में दिखाता है।"
+  },
+  "story": {
+    "en": "In the Purāṇic picture of the world, Meru is its axis, ringed by continents and oceans. With this name begins a run of names (55–61) on where she dwells: the peak of Meru, her city, the house of wish-granting gems, the couch of the five Brahmas, the lotus forest, the kadamba grove and the ocean of nectar.",
+    "hi": "पुराणों के विश्व-चित्र में मेरु जगत् की धुरी है, जिसके चारों ओर द्वीप और समुद्र फैले हैं। इस नाम से उनके निवास-स्थानों के नामों की एक शृंखला (55–61) आरम्भ होती है: मेरु का शिखर, उनका नगर, चिन्तामणि-गृह, पञ्चब्रह्मों का आसन, महापद्मवन, कदम्बवन और सुधासागर।"
+  },
+  "commentary": {
+    "sanskrit": "सुमेरोर्हेमाद्रेर्मध्यशृङ्गे तिष्ठतीति तत्स्था । शोभने मेरुमध्यशृङ्गेति वा ।",
+    "translation": {
+      "en": "She abides on the middle peak of Sumeru, the golden mountain. Or: on the beautiful (su) central peak of Meru.",
+      "hi": "वे सुमेरु, अर्थात् स्वर्ण-पर्वत, के मध्य शिखर पर स्थित हैं। अथवा: शोभन (सुन्दर) मेरु के मध्य शिखर पर।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 55 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The three peaks and the central fourth peak come from the Lalitāstavaratna verses Bhāskararāya quotes; he gives no esoteric reading, and the last sentence of the inner layer is a reflection." }
+}

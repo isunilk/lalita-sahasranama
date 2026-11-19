@@ -1,0 +1,44 @@
+{
+  "number": 60,
+  "verse": 23,
+  "slug": "kadamba-vana-vasini",
+  "devanagari": "कदम्बवनवासिनी",
+  "iastSplit": "Kadamba-vana-vāsinī",
+  "archana": "ॐ कदम्बवनवासिन्यै नमः",
+  "syllables": ["ka", "dam", "ba", "va", "na", "vā", "si", "nī"],
+  "words": [
+    { "sa": "कदम्ब", "meaning": { "en": "the kadamba tree (also called nīpa)", "hi": "कदम्ब वृक्ष (जिसे नीप भी कहते हैं)" } },
+    { "sa": "वन", "meaning": { "en": "forest, grove", "hi": "वन, उपवन" } },
+    { "sa": "वासिनी", "meaning": { "en": "dwelling", "hi": "निवास करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Dwelling in the kadamba forest",
+    "hi": "कदम्ब-वन में निवास करने वाली"
+  },
+  "explanation": {
+    "en": "She lives in a grove of kadamba trees, which Bhāskararāya glosses as nīpa. Around the cintāmaṇi house is a jewelled pavilion, and around that the kadamba grove, as he shows from the Bhairava Yāmala.",
+    "hi": "वे कदम्ब के वन में रहती हैं; भास्करराय कदम्ब का पर्याय ‘नीप’ देते हैं। भैरवयामल के आधार पर वे बताते हैं कि चिन्तामणि-गृह के चारों ओर मणिमण्डप है और उसके चारों ओर कदम्बवन।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the literal sense here. The Bhairava Yāmala verse he quotes names this grove together with the place of the bindu and the ocean of nectar, so the landscape of Śrīpura and the Śrīcakra are spoken of in the same breath. One passes through this fragrant grove to reach the jewelled pavilion and her palace.",
+    "hi": "यहाँ भास्करराय केवल शब्दार्थ देते हैं। वे भैरवयामल का जो श्लोक उद्धृत करते हैं, वह इस वन को बिन्दु-स्थान और सुधासिन्धु के साथ गिनाता है, जिससे श्रीपुर का परिदृश्य और श्रीचक्र एक ही साथ कहे जाते हैं। मणिमण्डप और उनके भवन तक पहुँचने के लिए इसी सुगन्धित वन से होकर जाना होता है।"
+  },
+  "story": {
+    "en": "Bhāskararāya adds from the Purāṇa that the ground between the gold and silver walls is seven yojanas wide, and that kadamba trees two yojanas tall grow there. The kadamba is her tree: a cluster of its blossoms already adorned her ear in name 21.",
+    "hi": "भास्करराय पुराण से जोड़ते हैं कि स्वर्ण और रजत प्राकारों के बीच की भूमि सात योजन चौड़ी है, और वहाँ दो योजन ऊँचे कदम्ब वृक्ष हैं। कदम्ब देवी का प्रिय वृक्ष है: नाम 21 में उसकी मञ्जरी उनके कान का आभूषण बनी थी।"
+  },
+  "commentary": {
+    "sanskrit": "कदम्बानां नीपानां वने वसतीति तथा । चिन्तामणिगृहं परितो मणिमण्टपं तत्परितः कदम्बवनम् ।",
+    "translation": {
+      "en": "She dwells in the forest of kadambas, that is, of nīpa trees. Around the cintāmaṇi house is the jewelled pavilion, and around that the kadamba forest.",
+      "hi": "वे कदम्बों, अर्थात् नीप वृक्षों, के वन में रहती हैं। चिन्तामणि-गृह के चारों ओर मणिमण्डप है, और उसके चारों ओर कदम्बवन।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 60 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the observation on the Bhairava Yāmala verse and the last sentence of the inner layer are reflections. The edition spells the pavilion मणिमण्टप." }
+}

@@ -1,0 +1,48 @@
+{
+  "number": 84,
+  "verse": 34,
+  "slug": "hara-netragni-sandagdha-kama-sanjivanaushadhi",
+  "devanagari": "हरनेत्राग्निसन्दग्धकामसञ्जीवनौषधिः",
+  "iastSplit": "Hara-netrāgni-sandagdha-kāma-sañjīvanauṣadhiḥ",
+  "archana": "ॐ हरनेत्राग्निसन्दग्धकामसञ्जीवनौषध्यै नमः",
+  "syllables": ["ha", "ra", "net", "rāg", "ni", "san", "dag", "dha", "kā", "ma", "sañ", "jī", "va", "nau", "ṣa", "dhiḥ"],
+  "words": [
+    { "sa": "हर", "meaning": { "en": "Hara, Śiva", "hi": "हर, शिव" } },
+    { "sa": "नेत्र", "meaning": { "en": "eye", "hi": "नेत्र" } },
+    { "sa": "अग्नि", "meaning": { "en": "fire", "hi": "अग्नि" } },
+    { "sa": "सन्दग्ध", "meaning": { "en": "burnt up completely", "hi": "पूर्णतः भस्म" } },
+    { "sa": "काम", "meaning": { "en": "Kāma, the god of love", "hi": "कामदेव" } },
+    { "sa": "सञ्जीवन", "meaning": { "en": "restoring to life", "hi": "पुनः जीवित करने वाला" } },
+    { "sa": "ओषधि", "meaning": { "en": "healing herb", "hi": "ओषधि, जीवनदायी जड़ी" } }
+  ],
+  "meaning": {
+    "en": "The herb that revived Kāma, burnt by the fire of Hara’s eye",
+    "hi": "हर-नेत्र की अग्नि से भस्म कामदेव को जिलाने वाली ओषधि"
+  },
+  "explanation": {
+    "en": "Kāma, the god of love, was burned to ashes by the fire of Śiva’s third eye, and she is the herb of life that revived him. Bhāskararāya gives two reasons: she drew even the utterly dispassionate Kāmeśvara toward herself, and the Brahmāṇḍa Purāṇa tells that after Bhaṇḍa’s death, at the prayer of Brahmā and the gods, Lalitāmbā brought Manmatha back to life.",
+    "hi": "कामदेव शिव के तृतीय नेत्र की अग्नि से भस्म हो गए थे, और वे वह जीवनदायी ओषधि हैं जिसने उन्हें फिर से जीवित किया। भास्करराय दो कारण बताते हैं: उन्होंने परम विरक्त कामेश्वर को भी अपनी ओर उन्मुख कर लिया, और ब्रह्माण्ड पुराण कहता है कि भण्ड-वध के बाद ब्रह्मा आदि देवताओं की प्रार्थना पर ललिताम्बा ने मन्मथ को पुनर्जीवित किया।"
+  },
+  "inner": {
+    "en": "In the inner reading, hara is the robbing of one’s true nature, and the all-pervading fire of the “leader” (netā) of those robbers is root ignorance. Kāma burned by it is the Self, Kāmeśvara by nature, fallen into the state of a limited being; she is the herb that restores it to its own nature, for through her worship, which is knowledge, ignorance ends and liberation is regained. As Kāma lived first with a body and afterwards without one, so the Self, always Brahman, seems embodied through ignorance and, when that ends, is one with Brahman, bodiless.",
+    "hi": "गूढ़ अर्थ में ‘हर’ अपने स्वरूप का हरण है, और उन हरण करने वालों के ‘नेता’ की सर्वत्र व्याप्त अग्नि मूल अज्ञान है। उससे जला हुआ ‘काम’ वह आत्मा है जो स्वभाव से कामेश्वर है पर जीव-भाव में आ गई है; देवी वह ओषधि हैं जो उसे अपने स्वरूप में लौटा देती हैं, क्योंकि उनकी विद्या-रूपी उपासना से अविद्या मिटती है और स्वरूप की प्राप्ति रूपी मोक्ष होता है। जैसे कामदेव पहले शरीर सहित जीते थे और बाद में अशरीर होकर, वैसे ही आत्मा, जो सदा ब्रह्म ही है, अविद्या से शरीरधारी-सी लगती है, और अविद्या मिटने पर अशरीर होकर ब्रह्म से एक हो जाती है।"
+  },
+  "story": {
+    "en": "The name closes the circle of the war story. Bhaṇḍa was born from the ashes of Kāma (name 65), and it is after Bhaṇḍa’s death that Kāma is restored. Bhāskararāya also recalls the saying that a child scolded by its father is comforted by its mother: what Śiva’s anger burned, the Mother’s grace brings back to life.",
+    "hi": "यह नाम युद्ध की कथा का चक्र पूरा करता है। भण्ड का जन्म कामदेव की भस्म से हुआ था (नाम 65), और भण्ड की मृत्यु के बाद ही कामदेव फिर जीवित होते हैं। भास्करराय यह लोकोक्ति भी याद करते हैं कि पिता से डाँटे गए बालक को माँ ही सान्त्वना देती है: शिव के क्रोध ने जिसे जलाया, माँ की कृपा उसे फिर जीवन देती है।"
+  },
+  "commentary": {
+    "sanskrit": "हरस्य तृतीयनेत्रस्थेन अग्निना सम्यक् दग्धस्य भस्मीकृतस्य कामस्य मन्मथस्य सञ्जीवनौषधिः जीवातुः ।",
+    "translation": {
+      "en": "She is the sañjīvana-oṣadhi, the reviving herb, the elixir of life, for Kāma, that is Manmatha, who was fully burnt, reduced to ashes, by the fire in Hara’s third eye.",
+      "hi": "हर के तृतीय नेत्र में स्थित अग्नि से भली-भाँति दग्ध, अर्थात् भस्म किए गए, काम अर्थात् मन्मथ के लिए वे सञ्जीवनी ओषधि, अर्थात् जीवनदायिनी, हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 84 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The last member is given as ओषधि (herb), as Bhāskararāya glosses it; it could also be read औषधि, and the sandhi form सञ्जीवनौषधिः is the same. In the inner reading he divides netrāgni as netā (leader) + ā (all around) + agni. He also discusses at length why the Devī can be called Śiva’s guru; not summarised here." }
+}

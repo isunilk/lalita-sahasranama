@@ -1,0 +1,47 @@
+{
+  "number": 75,
+  "verse": 29,
+  "slug": "mantrinyamba-virachita-vishanga-vadha-toshita",
+  "devanagari": "मन्त्रिण्यम्बाविरचितविषङ्गवधतोषिता",
+  "iastSplit": "Mantriṇyambā-viracita-viṣaṅga-vadha-toṣitā",
+  "archana": "ॐ मन्त्रिण्यम्बाविरचितविषङ्गवधतोषितायै नमः",
+  "syllables": ["man", "triṇ", "yam", "bā", "vi", "ra", "ci", "ta", "vi", "ṣaṅ", "ga", "va", "dha", "to", "ṣi", "tā"],
+  "words": [
+    { "sa": "मन्त्रिणी", "meaning": { "en": "Mantriṇī, the Devī’s minister", "hi": "मन्त्रिणी, देवी की मन्त्री" } },
+    { "sa": "अम्बा", "meaning": { "en": "mother", "hi": "अम्बा, माता" } },
+    { "sa": "विरचित", "meaning": { "en": "accomplished", "hi": "सम्पन्न किया गया" } },
+    { "sa": "विषङ्ग", "meaning": { "en": "Viṣaṅga, a brother of Bhaṇḍa", "hi": "विषङ्ग, भण्ड का भाई" } },
+    { "sa": "वध", "meaning": { "en": "slaying", "hi": "वध" } },
+    { "sa": "तोषिता", "meaning": { "en": "pleased", "hi": "सन्तुष्ट, प्रसन्न" } }
+  ],
+  "meaning": {
+    "en": "Pleased by Mother Mantriṇī’s slaying of Viṣaṅga",
+    "hi": "मन्त्रिणी अम्बा द्वारा किए विषङ्ग-वध से सन्तुष्ट"
+  },
+  "explanation": {
+    "en": "Mantriṇī, Mother Śyāmalā, the Devī’s minister, slew the demon Viṣaṅga, and the Devī was pleased. Viṣaṅga and Viśukra were Bhaṇḍa’s brothers.",
+    "hi": "देवी की मन्त्रिणी, श्यामला अम्बा, ने असुर विषङ्ग का वध किया, और देवी सन्तुष्ट हुईं। विषङ्ग और विशुक्र भण्डासुर के भाई थे।"
+  },
+  "inner": {
+    "en": "In the inner reading, which Bhāskararāya gives under name 76, Viṣaṅga is vi-ruddha saṅga, a wrong attachment: the craving for sense-objects, or “that which goes toward poison”. It is the counsellor, Mantriṇī, who destroys it; wise discernment cuts through craving.",
+    "hi": "गूढ़ अर्थ में, जिसे भास्करराय नाम 76 पर देते हैं, विषङ्ग ‘विरुद्ध सङ्ग’ है, अर्थात् विषयों की लालसा; अथवा ‘जो विष की ओर जाए’, विषमय। इसका नाश मन्त्रिणी करती हैं; विवेक की सलाह ही लालसा को काटती है।"
+  },
+  "story": {
+    "en": "Bhāskararāya quotes the Brahmāṇḍa Purāṇa: Bhaṇḍa, crest-jewel of all demons, created two brothers from his own body. From his right shoulder came Viśukra, able to protect the demon hosts and wise in counsel like Śukra, and from his left shoulder Viṣaṅga.",
+    "hi": "भास्करराय ब्रह्माण्ड पुराण से बताते हैं: सब दैत्यों के शिरोमणि भण्डासुर ने अपने शरीर से दो भाइयों की सृष्टि की। दाहिने कन्धे से विशुक्र उत्पन्न हुआ, जो दैत्य-वर्ग की रक्षा में समर्थ और शुक्राचार्य के समान विचारवान था, और बाएँ कन्धे से विषङ्ग।"
+  },
+  "commentary": {
+    "sanskrit": "मन्त्रिण्यम्बया श्यामलाम्बया विरचितेन विषङ्गाख्यस्य दैत्यस्य वधेन तोषिता । विषङ्गविशुक्रौ भण्डासुरभ्रातरौ ।",
+    "translation": {
+      "en": "Pleased by the slaying of the demon named Viṣaṅga, accomplished by Mother Mantriṇī, that is, Mother Śyāmalā. Viṣaṅga and Viśukra are Bhaṇḍāsura’s brothers.",
+      "hi": "मन्त्रिणी अम्बा, अर्थात् श्यामला अम्बा, द्वारा किए गए विषङ्ग नामक दैत्य के वध से सन्तुष्ट। विषङ्ग और विशुक्र भण्डासुर के भाई हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 75 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The two readings of Viṣaṅga are Bhāskararāya’s (from his comment on name 76); the last clause of the inner layer is a reflection." }
+}

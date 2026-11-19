@@ -1,0 +1,44 @@
+{
+  "number": 91,
+  "verse": 36,
+  "slug": "kula-sanketa-palini",
+  "devanagari": "कुलसङ्केतपालिनी",
+  "iastSplit": "Kula-saṅketa-pālinī",
+  "archana": "ॐ कुलसङ्केतपालिन्यै नमः",
+  "syllables": ["ku", "la", "saṅ", "ke", "ta", "pā", "li", "nī"],
+  "words": [
+    { "sa": "कुल", "meaning": { "en": "kula: the scripture and the conduct of the tradition", "hi": "कुल: परम्परा का शास्त्र और आचार" } },
+    { "sa": "सङ्केत", "meaning": { "en": "secret convention, hidden meaning", "hi": "संकेत, गूढ़ रहस्य" } },
+    { "sa": "पालिनी", "meaning": { "en": "guardian, protectress", "hi": "रक्षा करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Guardian of the secret codes of kula",
+    "hi": "कुल के संकेतों की रक्षा करने वाली"
+  },
+  "explanation": {
+    "en": "Bhāskararāya explains kula here as the scripture that teaches the worshipper, the worshipped and all that belongs to worship, since all of it is one consciousness, and also as conduct (ācāra). Saṅketa means their secret conventions and hidden meanings, and she is their guardian.",
+    "hi": "भास्करराय यहाँ ‘कुल’ का अर्थ वह शास्त्र बताते हैं जो उपास्य, उपासक और उपासना से जुड़ी हर वस्तु का प्रतिपादन करता है, क्योंकि ये सब एक ही चेतना हैं; और आचार को भी ‘कुल’ कहते हैं। ‘संकेत’ उनके गूढ़ नियम और रहस्य हैं, और देवी उनकी रक्षिका हैं।"
+  },
+  "inner": {
+    "en": "She guards these secrets in two ways: she does not reveal them to those unprepared, and she reveals them within the line of tradition, so that its thread runs on unbroken. Bhāskararāya cites an Āgama that names three kinds of saṅketa of the goddess Tripurā: of the cakra, of the mantra and of worship. This is why such teachings pass from teacher to student.",
+    "hi": "वे इन रहस्यों की रक्षा दो प्रकार से करती हैं: अनधिकारियों पर उन्हें प्रकट नहीं करतीं, और परम्परा के भीतर उन्हें प्रकट करके उसका सूत्र अखण्ड चलाती रहती हैं। भास्करराय एक आगम-वचन उद्धृत करते हैं, जो त्रिपुरा देवी के तीन प्रकार के संकेत बताता है: चक्र-संकेत, मन्त्र-संकेत और पूजा-संकेत। इसीलिए ऐसी शिक्षाएँ गुरु से शिष्य तक पहुँचती हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya gathers evidence for both senses of kula: the Kalpasūtra’s instruction to guard the kula books, an Āgama saying that all schools of thought enter into kula, and a verse of the Bhaviṣyottara Purāṇa: “it is not lineage that is called kula; conduct is called kula”.",
+    "hi": "भास्करराय ‘कुल’ के दोनों अर्थों के प्रमाण देते हैं: कल्पसूत्र का निर्देश कि कुल-ग्रन्थों की रक्षा करनी चाहिए, आगम का वचन कि सभी दर्शन कुल में ही प्रवेश करते हैं, और भविष्योत्तर पुराण का वचन: ‘वंश को कुल नहीं कहते, आचार ही कुल कहलाता है’।"
+  },
+  "commentary": {
+    "sanskrit": "तयोः सङ्केतान् तत्रत्यरहस्यानि पालयति पशुषु न प्रकाशयति साम्प्रदायिकपरम्परायै प्रकाश्य तन्तुं प्रवर्तयति चेति तथा",
+    "translation": {
+      "en": "She guards the saṅketas of both, the secrets contained in them: she does not disclose them to the uninitiated (paśus), and, disclosing them to the traditional succession, she keeps the thread going.",
+      "hi": "वे दोनों के संकेतों, अर्थात् उनमें निहित रहस्यों, की रक्षा करती हैं: पशुओं (अदीक्षितों) पर उन्हें प्रकट नहीं करतीं, और सम्प्रदाय की परम्परा के लिए उन्हें प्रकट करके उसका तन्तु (सूत्र) आगे बढ़ाती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 91 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. ‘Both’ in the quoted sentence refers to kula as scripture and kula as conduct. Bhāskararāya also quotes a verse of the Cintāmaṇistava on saṅketa; not used. The last sentence of the inner layer is a reflection." }
+}

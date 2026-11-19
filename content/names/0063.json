@@ -1,0 +1,43 @@
+{
+  "number": 63,
+  "verse": 23,
+  "slug": "kama-dayini",
+  "devanagari": "कामदायिनी",
+  "iastSplit": "Kāma-dāyinī",
+  "archana": "ॐ कामदायिन्यै नमः",
+  "syllables": ["kā", "ma", "dā", "yi", "nī"],
+  "words": [
+    { "sa": "काम", "meaning": { "en": "desire, wish; also Kāmeśvara", "hi": "कामना, मनोरथ; कामेश्वर भी" } },
+    { "sa": "दायिनी", "meaning": { "en": "giver", "hi": "देने वाली" } }
+  ],
+  "meaning": {
+    "en": "Giver of all that is desired",
+    "hi": "मनोकामनाएँ पूर्ण करने वाली"
+  },
+  "explanation": {
+    "en": "She grants kāma, the wishes of her devotees. Bhāskararāya also reads it as: she gives Kāmeśvara himself to her devotees, that is, she grants them oneness with Śiva.",
+    "hi": "वे भक्तों को काम, अर्थात् उनकी मनोकामनाएँ, प्रदान करती हैं। भास्करराय इसका यह अर्थ भी करते हैं कि वे भक्तों को स्वयं कामेश्वर दे देती हैं, अर्थात् शिव से अभेद का दान करती हैं।"
+  },
+  "inner": {
+    "en": "He offers two more readings through word-play. Kāmada can be Śiva, “he who cuts down (dyati) Kāma”, and through him she is ayinī, endowed with auspicious fortune. Or dāya is an inheritance handed down a family line: her nature, one with Kāmeśvara, is hers from the beginning, not acquired. The highest gift she gives is not a thing but the Lord himself.",
+    "hi": "शब्द-विग्रह से वे दो और अर्थ देते हैं। ‘कामद’ शिव हैं, जो काम (मन्मथ) का खण्डन करते हैं (‘द्यति’); उनके कारण वे ‘अयिनी’, अर्थात् शुभ भाग्य से युक्त, हैं। अथवा ‘दाय’ का अर्थ है पैतृक परम्परा से प्राप्त सम्पत्ति: कामेश्वर से अभिन्न उनका स्वभाव अनादि और स्वयंसिद्ध है, कहीं से अर्जित नहीं। उनका सर्वोच्च दान कोई वस्तु नहीं, स्वयं परमेश्वर हैं।"
+  },
+  "story": {
+    "en": "The name pairs with the one before: Kāmākṣī sees every desire, and Kāmadāyinī fulfils it. The Brahmāṇḍa Purāṇa verse quoted under name 62, in which Brahmā names her after she fulfils everyone’s wishes, explains both.",
+    "hi": "यह नाम पिछले नाम से जुड़ा है: कामाक्षी हर कामना को देखती हैं, और कामदायिनी उसे पूरा करती हैं। नाम 62 में उद्धृत ब्रह्माण्ड पुराण का श्लोक, जिसमें सबकी कामनाएँ पूरी करने पर ब्रह्मा उन्हें नाम देते हैं, दोनों नामों को स्पष्ट करता है।"
+  },
+  "commentary": {
+    "sanskrit": "कामान्मनोरथान् ददातीति कामदायिनी । कामेश्वरमेव वा भक्तेभ्यो वितरति शिवाभेददानाभिप्रायेण वा कामदायिनी ।",
+    "translation": {
+      "en": "She gives kāmas, the heart’s wishes: hence Kāmadāyinī. Or she bestows Kāmeśvara himself on her devotees, meaning that she grants oneness with Śiva: hence Kāmadāyinī.",
+      "hi": "वे काम, अर्थात् मनोरथ, देती हैं, इसलिए कामदायिनी हैं। अथवा वे भक्तों को स्वयं कामेश्वर प्रदान करती हैं, अर्थात् शिव से अभेद का दान करती हैं, इसलिए कामदायिनी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 63 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The readings in the inner layer are Bhāskararāya’s (कामद + अयिनी, citing Amara for अय; and दाय as inheritance); the last sentence is a reflection." }
+}

@@ -1,0 +1,46 @@
+{
+  "number": 66,
+  "verse": 25,
+  "slug": "sampatkari-samarudha-sindhura-vraja-sevita",
+  "devanagari": "सम्पत्करीसमारूढसिन्धुरव्रजसेविता",
+  "iastSplit": "Sampatkarī-samārūḍha-sindhura-vraja-sevitā",
+  "archana": "ॐ सम्पत्करीसमारूढसिन्धुरव्रजसेवितायै नमः",
+  "syllables": ["sam", "pat", "ka", "rī", "sa", "mā", "rū", "ḍha", "sin", "dhu", "rav", "ra", "ja", "se", "vi", "tā"],
+  "words": [
+    { "sa": "सम्पत्करी", "meaning": { "en": "Sampatkarī, the goddess who commands the elephants", "hi": "सम्पत्करी, गज-सेना की अधिष्ठात्री देवी" } },
+    { "sa": "समारूढ", "meaning": { "en": "mounted, ridden and controlled", "hi": "आरूढ़, सवारी करके वश में किया हुआ" } },
+    { "sa": "सिन्धुर", "meaning": { "en": "elephant", "hi": "हाथी, गज" } },
+    { "sa": "व्रज", "meaning": { "en": "herd, troop", "hi": "झुण्ड, समूह" } },
+    { "sa": "सेविता", "meaning": { "en": "served, attended", "hi": "सेवित" } }
+  ],
+  "meaning": {
+    "en": "Attended by herds of elephants ridden and led by Sampatkarī",
+    "hi": "सम्पत्करी द्वारा वश में किए गज-समूहों से सेवित"
+  },
+  "explanation": {
+    "en": "She is attended by a vast troop of war elephants under the goddess Sampatkarī. Bhāskararāya says Sampatkarī commands the elephants of Tripurasundarī, and that they are mounted and controlled by the methods taught in the science of elephants.",
+    "hi": "उनकी सेवा में युद्ध-हाथियों का विशाल समूह है, जिन पर देवी सम्पत्करी का अधिकार है। भास्करराय बताते हैं कि सम्पत्करी त्रिपुरसुन्दरी की गज-सेना की अधिष्ठात्री हैं, और ये हाथी गज-शास्त्र में बताए उपायों से आरूढ़ और नियन्त्रित किए गए हैं।"
+  },
+  "inner": {
+    "en": "In the inner reading, Sampatkarī is the state of mind rich in happiness, and the elephants that “mount” it are the objects of the senses, sound and the rest, which become its content; he cites the Kādimata, which names the sense-objects as elephants. Such a mind does not run after objects; they come to serve it. He adds a verse of the Pratyabhijñā: awareness of knower and known is common to all embodied beings, but the yogī’s distinction is attentiveness to their relation.",
+    "hi": "गूढ़ अर्थ में सम्पत्करी सुख-सम्पदा से भरी चित्तवृत्ति है, और उस पर ‘आरूढ़’ हाथी शब्द आदि इन्द्रिय-विषय हैं, जो उसके विषय बनते हैं; वे कादिमत का प्रमाण देते हैं, जो इन्द्रियों के विषयों को गज कहता है। ऐसा मन विषयों के पीछे नहीं भागता; विषय स्वयं उसकी सेवा में आते हैं। वे प्रत्यभिज्ञा का एक श्लोक भी जोड़ते हैं: ग्राह्य और ग्राहक का ज्ञान तो सब देहधारियों में समान है, पर योगियों की विशेषता है उनके सम्बन्ध के प्रति सावधानता।"
+  },
+  "story": {
+    "en": "In the Lalitopākhyāna, Sampatkarī springs from the goad of Lalitā. She mounts the elephant Raṇakolāhala, and crores of the finest elephants follow her. Bhāskararāya adds that she is also the deity of a vidyā described in the Svatantra Tantra.",
+    "hi": "ललितोपाख्यान में सम्पत्करी ललिता परमेश्वरी के अङ्कुश-अस्त्र से प्रकट होती हैं। वे ‘रणकोलाहल’ नामक गजराज पर आरूढ़ होती हैं, और करोड़ों श्रेष्ठ हाथी उनके पीछे चलते हैं। भास्करराय बताते हैं कि स्वतन्त्र तन्त्र में वर्णित एक विद्या की देवता भी वही हैं।"
+  },
+  "commentary": {
+    "sanskrit": "अथवा सुखसम्पन्मयी चित्तवृत्तिः सम्पत्करीत्युच्यते तस्यां समारूढैर्विषयीभूतैः सिन्धुरव्रजैः शब्दादिविषयसमूहैः सेविता ।",
+    "translation": {
+      "en": "Or: the state of mind full of the wealth of happiness is called Sampatkarī; she is served by the herds of elephants mounted on it, which have become its objects: the hosts of sense-objects, sound and the rest.",
+      "hi": "अथवा सुख-सम्पदा से भरी चित्तवृत्ति ‘सम्पत्करी’ कहलाती है; उस पर आरूढ़, उसके विषय बने गज-समूहों, अर्थात् शब्द आदि विषयों के समूहों, से वे सेवित हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 66 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s text prints सम्पत्करी समारूढसिन्धुरव्रजसेविता with a space but explains one name. The Kādimata line he cites is a worship instruction; only its identification of sense-objects with elephants is used. The sentence ‘Such a mind does not run after objects…’ is a reflection." }
+}

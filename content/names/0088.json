@@ -1,0 +1,44 @@
+{
+  "number": 88,
+  "verse": 36,
+  "slug": "mula-mantratmika",
+  "devanagari": "मूलमन्त्रात्मिका",
+  "iastSplit": "Mūla-mantrātmikā",
+  "archana": "ॐ मूलमन्त्रात्मिकायै नमः",
+  "syllables": ["mū", "la", "man", "trāt", "mi", "kā"],
+  "words": [
+    { "sa": "मूल", "meaning": { "en": "root", "hi": "मूल" } },
+    { "sa": "मन्त्र", "meaning": { "en": "mantra", "hi": "मन्त्र" } },
+    { "sa": "आत्मिका", "meaning": { "en": "whose self or nature is", "hi": "जिसका स्वरूप है, स्वरूपा" } }
+  ],
+  "meaning": {
+    "en": "Whose very self is the root mantra",
+    "hi": "मूलमन्त्र ही जिनका स्वरूप है"
+  },
+  "explanation": {
+    "en": "The root mantra is the Pañcadaśī, called mūla, “root”, because it is the root cause of all four aims of life. Bhāskararāya explains mantra as that which protects (trāyate) when it is reflected upon (manana). The Devī is that mantra in her very self.",
+    "hi": "मूलमन्त्र पञ्चदशी है; धर्म, अर्थ, काम और मोक्ष, जीवन के इन चारों पुरुषार्थों का मूल कारण होने से इसे ‘मूल’ कहते हैं। भास्करराय ‘मन्त्र’ का अर्थ बताते हैं: जो मनन करने पर त्राण (रक्षा) करे। देवी अपने स्वरूप में वही मन्त्र हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes a verse that explains the word more deeply: it is called mantra because its nature is contemplation of the full “I”, flashing forth through reflection, and because it protects by ending the round of birth and death. The mantra is not a formula about her but her own being in sound.",
+    "hi": "भास्करराय एक श्लोक उद्धृत करते हैं जो इस शब्द को और गहराई से समझाता है: वह ‘मन्त्र’ इसलिए है कि उसका स्वरूप पूर्ण अहंता का अनुसन्धान है, जो मनन के धर्म से स्फुरित होता है, और इसलिए कि वह संसार का क्षय करके त्राण करता है। मन्त्र उनके विषय में कहा गया कोई सूत्र नहीं, ध्वनि में उनका अपना ही अस्तित्व है।"
+  },
+  "story": {
+    "en": "Names 85 to 87 placed the three sections of the mantra on her body; this name and the next speak of the mantra as a whole. Bhāskararāya adds that in truth the word mūla in both names points to the kāmakalā letter, a subtler form (see name 89).",
+    "hi": "नाम 85 से 87 ने मन्त्र के तीन कूटों को उनके शरीर पर स्थापित किया; यह और अगला नाम सम्पूर्ण मन्त्र की बात करते हैं। भास्करराय जोड़ते हैं कि वास्तव में इन दोनों नामों का ‘मूल’ शब्द कामकला अक्षर की ओर संकेत करता है, जो सूक्ष्मतर रूप है (नाम 89 देखें)।"
+  },
+  "commentary": {
+    "sanskrit": "चतुर्विधपुरुषार्थमूलकारणत्वान्मूलं पञ्चदशाक्षरी सैव मननात्त्रायत इति मन्त्रः । आत्मा स्वरूपं यस्याः ।",
+    "translation": {
+      "en": "Being the root cause of the four aims of life, the fifteen-syllabled mantra is the mūla, the root; it is a mantra because it protects (trāyate) through reflection (manana). She whose ātmā, very nature, it is.",
+      "hi": "चारों पुरुषार्थों का मूल कारण होने से पञ्चदशाक्षरी ‘मूल’ है; वही मनन से त्राण करने के कारण ‘मन्त्र’ है। वह जिनका आत्मा, अर्थात् स्वरूप, है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 88 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Pañcadaśī name: meaning only; no syllables or bījas are given. The verse explaining ‘mantra’ is unattributed in the commentary; the last sentence of the inner layer is a reflection." }
+}

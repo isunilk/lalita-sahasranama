@@ -1,0 +1,44 @@
+{
+  "number": 56,
+  "verse": 22,
+  "slug": "shriman-nagara-nayika",
+  "devanagari": "श्रीमन्नगरनायिका",
+  "iastSplit": "Śrīman-nagara-nāyikā",
+  "archana": "ॐ श्रीमन्नगरनायिकायै नमः",
+  "syllables": ["śrī", "man", "na", "ga", "ra", "nā", "yi", "kā"],
+  "words": [
+    { "sa": "श्रीमत्", "meaning": { "en": "glorious, rich in splendour and good fortune", "hi": "श्रीसम्पन्न, शोभा और ऐश्वर्य से युक्त" } },
+    { "sa": "नगर", "meaning": { "en": "city", "hi": "नगर, पुरी" } },
+    { "sa": "नायिका", "meaning": { "en": "ruler, sovereign lady", "hi": "स्वामिनी, अधीश्वरी" } }
+  ],
+  "meaning": {
+    "en": "Sovereign of the glorious city",
+    "hi": "श्रीसम्पन्न नगर (श्रीपुर) की अधीश्वरी"
+  },
+  "explanation": {
+    "en": "She is the ruler of the glorious city, Śrīnagara or Śrīpura. Bhāskararāya notes that “the city”, said without qualification, means the city of the Vidyā, the Goddess of Śrīvidyā; śrīmat means rich in splendour and good fortune.",
+    "hi": "वे श्रीसम्पन्न नगर, अर्थात् श्रीनगर या श्रीपुर, की स्वामिनी हैं। भास्करराय बताते हैं कि बिना किसी विशेषण के केवल ‘नगर’ कहने से विद्या का, अर्थात् श्रीविद्या की देवी का, नगर ही समझा जाता है; ‘श्रीमत्’ का अर्थ है शोभा और ऐश्वर्य से युक्त।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says the word may also mean the Śrīcakra. He cites the lexicon Viśva, which counts nagara among the words for cakra, and Vedic phrases such as “the city of the gods, Ayodhyā” and “a city enclosed by nectar”, where the city is the cakra. To rule the city is then to preside over the Śrīcakra, at whose centre she is worshipped.",
+    "hi": "भास्करराय कहते हैं कि इस शब्द का अर्थ श्रीचक्र भी हो सकता है। वे ‘विश्व’ कोश का प्रमाण देते हैं, जो ‘नगर’ को चक्र के पर्यायों में गिनता है, और ‘देवताओं की पुरी अयोध्या’ तथा ‘अमृत से घिरी पुरी’ जैसे श्रुति-वाक्यों का, जहाँ पुरी का अर्थ चक्र है। तब नगर की स्वामिनी होने का अर्थ है श्रीचक्र की अधिष्ठात्री होना, जिसके केन्द्र में उनकी पूजा होती है।"
+  },
+  "story": {
+    "en": "Bhāskararāya describes two such cities. One stands on the central peak of Meru, four hundred yojanas around, built by the architect of the gods and enclosed by twenty-five walls; the other, as the Rudrayāmala tells, lies beyond all the universes, on the Isle of Gems in the middle of the ocean of nectar.",
+    "hi": "भास्करराय ऐसे दो नगरों का वर्णन करते हैं। एक मेरु के मध्य शिखर पर है, चार सौ योजन के घेरे वाला, देवशिल्पी द्वारा रचा गया और पच्चीस प्राकारों से घिरा; दूसरा, जैसा रुद्रयामल बताता है, समस्त ब्रह्माण्डों से परे, सुधासागर के मध्य रत्नद्वीप पर स्थित है।"
+  },
+  "commentary": {
+    "sanskrit": "श्रीमल्लक्ष्मीवद्यन्नगरं निरुपपदमेव नगरपदं विद्यानगरवाचकं तस्य नायिका अधिपतिः ।",
+    "translation": {
+      "en": "The city that is śrīmat, endowed with Lakṣmī, with splendour; the word “city” used without qualification denotes the city of the Vidyā. She is its nāyikā, its ruler.",
+      "hi": "जो नगर श्रीमत् है, अर्थात् लक्ष्मी (शोभा) से युक्त; बिना विशेषण के प्रयुक्त ‘नगर’ शब्द विद्या के नगर का वाचक है। वे उसकी नायिका, अर्थात् अधिपति, हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 56 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya also mentions the Vidyāratna Bhāṣya’s report of a third city in the milk ocean with twenty-four walls, which he leaves for inquiry, and a Gauḍapāda sūtra on Śrīpura as the cakra; neither is used here. The Vedic phrases are given as he cites them, without further reference." }
+}

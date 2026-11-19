@@ -1,0 +1,45 @@
+{
+  "number": 57,
+  "verse": 22,
+  "slug": "chintamani-grihanta-stha",
+  "devanagari": "चिन्तामणिगृहान्तःस्था",
+  "iastSplit": "Cintāmaṇi-gṛhāntaḥ-sthā",
+  "archana": "ॐ चिन्तामणिगृहान्तःस्थायै नमः",
+  "syllables": ["cin", "tā", "ma", "ṇi", "gṛ", "hān", "taḥ", "sthā"],
+  "words": [
+    { "sa": "चिन्तामणि", "meaning": { "en": "the wish-granting gem, which gives whatever is thought of", "hi": "चिन्तामणि, मन में सोची हर वस्तु देने वाला रत्न" } },
+    { "sa": "गृह", "meaning": { "en": "house, palace", "hi": "गृह, भवन" } },
+    { "sa": "अन्तः", "meaning": { "en": "within", "hi": "भीतर" } },
+    { "sa": "स्था", "meaning": { "en": "abiding", "hi": "स्थित, निवास करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Dwelling within the house of wish-granting gems",
+    "hi": "चिन्तामणि-गृह के भीतर निवास करने वाली"
+  },
+  "explanation": {
+    "en": "Within her city stands a palace built of cintāmaṇi, the gem that grants whatever one thinks of, and she dwells inside it. Bhāskararāya quotes the Lalitāstavaratna, which praises this house, served by all the gods and fashioned from clusters of cintāmaṇi gems, and prays that it may drive away the devotee’s cares (cintā).",
+    "hi": "उनके नगर के भीतर चिन्तामणि से बना एक भवन है, वह रत्न जो मन में सोची हर वस्तु दे देता है, और वे उसी के भीतर निवास करती हैं। भास्करराय ‘ललितास्तवरत्न’ का श्लोक उद्धृत करते हैं, जो सब देवताओं द्वारा सेवित, चिन्तामणियों के समूह से रचे इस भवन की स्तुति करता है और प्रार्थना करता है कि यह भवन भक्त की चिन्ता दूर करे।"
+  },
+  "inner": {
+    "en": "Bhāskararāya cites the commentary on the Gauḍapāda Sūtras: this house is where all the mantras that grant what is thought of are fashioned, and that is why it is called the house of cintāmaṇi. On this reading the wish-granting gems are the mantras themselves, and she dwells where they arise.",
+    "hi": "भास्करराय गौडपाद-सूत्रों के भाष्य का मत बताते हैं: यही वह स्थान है जहाँ मनचाहा फल देने वाले सब मन्त्र रचे जाते हैं, और इसीलिए इसे चिन्तामणि-गृह कहते हैं। इस अर्थ में चिन्तामणि स्वयं मन्त्र हैं, और देवी वहाँ रहती हैं जहाँ से वे प्रकट होते हैं।"
+  },
+  "story": {
+    "en": "In the traditional picture of Śrīpura, the cintāmaṇi house is the innermost palace, at the heart of the many walls and groves. Bhāskararāya adds that the house on Meru is smaller in measure. The next name tells what is within it: her seat.",
+    "hi": "श्रीपुर के पारम्परिक वर्णन में चिन्तामणि-गृह सबसे भीतरी भवन है, अनेक प्राकारों और उपवनों के केन्द्र में। भास्करराय जोड़ते हैं कि मेरु पर स्थित भवन परिमाण में छोटा है। अगला नाम बताता है कि इसके भीतर क्या है: उनका आसन।"
+  },
+  "commentary": {
+    "sanskrit": "गौडपादीयसूत्रभाष्ये तु सर्वेषां चिन्तितार्थप्रदमन्त्राणां निर्माणस्थानं तदेवेति तस्य चिन्तामणिगृहत्वमित्युक्त्वा तन्निर्माणप्रकारो विस्तरेण वर्णितः ।",
+    "translation": {
+      "en": "In the commentary on the Gauḍapāda Sūtras, however, it is said that this very place is where all the mantras that grant what is thought of are fashioned, and so it is the house of cintāmaṇi; the manner of that fashioning is then described at length.",
+      "hi": "गौडपाद-सूत्रों के भाष्य में तो यह कहा गया है कि चिन्तित फल देने वाले सभी मन्त्रों का निर्माण-स्थान यही है, इसलिए यह चिन्तामणि-गृह है; फिर उस निर्माण का प्रकार विस्तार से बताया गया है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 57 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Variant: Bhāskararāya’s text reads चिन्तामणिगृहान्तस्था (without visarga); the master text and archana keep अन्तःस्था. Syllables give taḥ, sthā rather than closing the syllable with s after the visarga; check against the agreed convention. The ‘innermost palace’ in the story follows his description under names 60 and 61." }
+}

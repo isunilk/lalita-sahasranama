@@ -1,0 +1,48 @@
+{
+  "number": 79,
+  "verse": 31,
+  "slug": "bhandasurendra-nirmukta-shastra-pratyastra-varshini",
+  "devanagari": "भण्डासुरेन्द्रनिर्मुक्तशस्त्रप्रत्यस्त्रवर्षिणी",
+  "iastSplit": "Bhaṇḍāsurendra-nirmukta-śastra-pratyastra-varṣiṇī",
+  "archana": "ॐ भण्डासुरेन्द्रनिर्मुक्तशस्त्रप्रत्यस्त्रवर्षिण्यै नमः",
+  "syllables": ["bhaṇ", "ḍā", "su", "ren", "dra", "nir", "muk", "ta", "śas", "trap", "rat", "yas", "tra", "var", "ṣi", "ṇī"],
+  "words": [
+    { "sa": "भण्ड", "meaning": { "en": "Bhaṇḍa", "hi": "भण्ड" } },
+    { "sa": "असुर", "meaning": { "en": "demon", "hi": "असुर" } },
+    { "sa": "इन्द्र", "meaning": { "en": "lord, king", "hi": "स्वामी, राजा" } },
+    { "sa": "निर्मुक्त", "meaning": { "en": "released, hurled", "hi": "छोड़े गए" } },
+    { "sa": "शस्त्र", "meaning": { "en": "weapon", "hi": "शस्त्र" } },
+    { "sa": "प्रत्यस्त्र", "meaning": { "en": "counter-missile", "hi": "प्रत्यस्त्र, काट करने वाला अस्त्र" } },
+    { "sa": "वर्षिणी", "meaning": { "en": "raining down", "hi": "बरसाने वाली" } }
+  ],
+  "meaning": {
+    "en": "Raining counter-missiles on the weapons hurled by Bhaṇḍa, lord of demons",
+    "hi": "असुरराज भण्ड के छोड़े शस्त्रों पर प्रत्यस्त्रों की वर्षा करने वाली"
+  },
+  "explanation": {
+    "en": "Now the Devī herself faces Bhaṇḍa, king of the demons. For every weapon he looses she rains down a counter-weapon. Bhāskararāya notes the difference given in the Dhanurveda: a śastra is held in the hand as one strikes, an astra is released.",
+    "hi": "अब स्वयं देवी असुरराज भण्ड का सामना करती हैं। वह जो भी अस्त्र छोड़ता है, उसकी काट में वे प्रत्यस्त्रों की वर्षा करती हैं। भास्करराय धनुर्वेद से शस्त्र और अस्त्र का भेद बताते हैं: शस्त्र हाथ में पकड़कर प्रहार किया जाता है, अस्त्र छोड़ा जाता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says these two names (78 and 79) can also be read spiritually. As lord of the great gaṇas, the Self destroys the obstacles and missiles, which are movements of mind born of ignorance, of not knowing the Self as the Self. The counter-missiles are streams of unbroken awareness of the supreme “I”.",
+    "hi": "भास्करराय कहते हैं कि इन दोनों नामों (78 और 79) का अध्यात्म-परक अर्थ भी किया जा सकता है। महागणों के स्वामी के रूप में आत्मा उन विघ्नों और अस्त्रों का नाश करती है जो अविद्या से उपजी वृत्तियाँ हैं, अर्थात् आत्मा को आत्मा न जानने से उत्पन्न। प्रत्यस्त्र परा अहंता के अखण्ड अनुसन्धान की धाराएँ हैं।"
+  },
+  "story": {
+    "en": "In the Lalitopākhyāna the last battle is fought between Bhaṇḍa and the Devī herself, and the next names follow it to the end: the ten forms of Viṣṇu from her fingernails (80), the Mahāpāśupata missile (81), and the Kāmeśvara missile that ends Bhaṇḍa (82).",
+    "hi": "ललितोपाख्यान में अन्तिम युद्ध भण्ड और स्वयं देवी के बीच होता है, और आगे के नाम उसे अन्त तक ले जाते हैं: उनके नखों से विष्णु के दस रूप (80), महापाशुपत अस्त्र (81), और भण्ड का अन्त करने वाला कामेश्वर अस्त्र (82)।"
+  },
+  "commentary": {
+    "sanskrit": "भण्डेनासुरेन्द्रेण दैत्यराजेन निर्मुक्तानां शस्त्राणामस्त्राणां प्रतिकूलान्यस्त्राणि वर्षतीति तथा ।",
+    "translation": {
+      "en": "She rains down counter-missiles against the weapons and missiles discharged by Bhaṇḍa, the lord of the asuras, the king of the demons.",
+      "hi": "असुरों के इन्द्र, अर्थात् दैत्यराज, भण्ड द्वारा छोड़े गए शस्त्रों और अस्त्रों के प्रतिकूल अस्त्रों की वे वर्षा करती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 79 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya takes शस्त्र in the name to cover both śastras and astras (शस्त्राणामस्त्राणां). ‘Last battle’ in the story rests on the Purāṇa verse he quotes under name 82 (Bhaṇḍa left alone, all his kin slain)." }
+}

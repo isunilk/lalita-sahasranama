@@ -1,0 +1,47 @@
+{
+  "number": 76,
+  "verse": 30,
+  "slug": "vishukra-prana-harana-varahi-virya-nandita",
+  "devanagari": "विशुक्रप्राणहरणवाराहीवीर्यनन्दिता",
+  "iastSplit": "Viśukra-prāṇa-haraṇa-vārāhī-vīrya-nanditā",
+  "archana": "ॐ विशुक्रप्राणहरणवाराहीवीर्यनन्दितायै नमः",
+  "syllables": ["vi", "śuk", "rap", "rā", "ṇa", "ha", "ra", "ṇa", "vā", "rā", "hī", "vīr", "ya", "nan", "di", "tā"],
+  "words": [
+    { "sa": "विशुक्र", "meaning": { "en": "Viśukra, a brother of Bhaṇḍa", "hi": "विशुक्र, भण्ड का भाई" } },
+    { "sa": "प्राण", "meaning": { "en": "life-breath, life", "hi": "प्राण" } },
+    { "sa": "हरण", "meaning": { "en": "taking away; one who takes", "hi": "हरण, हरने वाली" } },
+    { "sa": "वाराही", "meaning": { "en": "Vārāhī, the boar-faced goddess", "hi": "वाराही, वराहमुखी देवी" } },
+    { "sa": "वीर्य", "meaning": { "en": "heroism, valour", "hi": "वीरता, शौर्य" } },
+    { "sa": "नन्दिता", "meaning": { "en": "gladdened", "hi": "आनन्दित" } }
+  ],
+  "meaning": {
+    "en": "Gladdened by the valour of Vārāhī, who took Viśukra’s life",
+    "hi": "विशुक्र के प्राण हरने वाली वाराही के पराक्रम से आनन्दित"
+  },
+  "explanation": {
+    "en": "Vārāhī, also called Daṇḍinī, took the life of Viśukra, Bhaṇḍa’s other brother, and the Devī rejoiced in her heroism. Bhāskararāya quotes the Tripurāsiddhānta on her name: she is called Vārāhī through the grace of Vārāhānandanātha, and because of her boar face.",
+    "hi": "वाराही, जिन्हें दण्डिनी भी कहते हैं, ने भण्ड के दूसरे भाई विशुक्र के प्राण हर लिए, और देवी उनकी वीरता से आनन्दित हुईं। भास्करराय त्रिपुरासिद्धान्त से उनके नाम की व्याख्या उद्धृत करते हैं: वाराहानन्दनाथ की प्रसन्नता से, और वराह-मुख होने के कारण, वे वाराही कहलाती हैं।"
+  },
+  "inner": {
+    "en": "Here Bhāskararāya gives the inner sense of names 74 to 76. Bhaṇḍa’s sons are the impurities beginning with āṇava, Viṣaṅga is craving for objects, and Viśukra is the state of the limited self, “whose light (śukra) is thwarted”; Bālā, Mantriṇī and Vārāhī are inner movements of awareness, and when they destroy these, the deity who is one’s own Self is pleased. He cites the Śakti Sūtra “gaining strength, one makes the universe one’s own”, and the Śiva Sūtra: for one whose awareness rests in that state, as craving wanes, the limited self wanes too.",
+    "hi": "यहाँ भास्करराय नाम 74 से 76 का गूढ़ अर्थ देते हैं। भण्ड के पुत्र आणव आदि मल हैं, विषङ्ग विषयों की लालसा है, और विशुक्र सीमित जीव-भाव है, ‘जिसका तेज (शुक्र) विरुद्ध हो गया है’; बाला, मन्त्रिणी और वाराही चेतना की आन्तरिक वृत्तियाँ हैं, और जब वे इनका नाश करती हैं तो अपनी आत्मा-रूपी देवता प्रसन्न होती हैं। वे शक्तिसूत्र उद्धृत करते हैं, ‘बल-लाभ होने पर साधक विश्व को आत्मसात् कर लेता है’, और शिवसूत्र भी: उस अवस्था में आरूढ़ चेतना वाले की लालसा क्षीण होने से जीव-भाव भी क्षीण हो जाता है।"
+  },
+  "story": {
+    "en": "With this, both of Bhaṇḍa’s brothers have fallen, Viṣaṅga to Mantriṇī and Viśukra to Vārāhī, as his sons fell to Bālā. Viśukra is also the demon who cast the obstacle-yantra into the Devī’s army, which names 77 and 78 tell of.",
+    "hi": "इसके साथ भण्ड के दोनों भाई मारे जाते हैं, विषङ्ग मन्त्रिणी के हाथों और विशुक्र वाराही के हाथों, जैसे उसके पुत्र बाला के हाथों। विशुक्र वही दैत्य है जिसने देवी की सेना में विघ्न-यन्त्र फेंका था, जिसकी कथा नाम 77 और 78 कहते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "विशुक्राख्यस्य दैत्यस्य प्राणान् हरतीति हरणं तादृशेन वाराहीनामिकाया दण्डिनीदेव्या वीर्येण शौर्येण नन्दिता ।",
+    "translation": {
+      "en": "Gladdened by the vīrya, the heroism, of the goddess Daṇḍinī, named Vārāhī, who was the haraṇa, the taker, of the life-breaths of the demon called Viśukra.",
+      "hi": "विशुक्र नामक दैत्य के प्राणों का हरण करने वाली, वाराही नाम की दण्डिनी देवी के वीर्य, अर्थात् शौर्य, से नन्दित।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 76 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Vārāhānandanātha is named as in the Tripurāsiddhānta verse Bhāskararāya quotes, without further identification. His second etymology of Viśukra (one who greatly takes on grief, śuc) is not used. The Śakti Sūtra is Pratyabhijñāhṛdaya ‘balalābhe viśvam ātmasāt karoti’." }
+}

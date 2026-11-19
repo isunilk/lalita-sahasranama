@@ -1,0 +1,45 @@
+{
+  "number": 58,
+  "verse": 22,
+  "slug": "pancha-brahmasana-sthita",
+  "devanagari": "पञ्चब्रह्मासनस्थिता",
+  "iastSplit": "Pañca-brahmāsana-sthitā",
+  "archana": "ॐ पञ्चब्रह्मासनस्थितायै नमः",
+  "syllables": ["pañ", "cab", "rah", "mā", "sa", "nas", "thi", "tā"],
+  "words": [
+    { "sa": "पञ्च", "meaning": { "en": "five", "hi": "पाँच" } },
+    { "sa": "ब्रह्मन्", "meaning": { "en": "Brahman; here the five deities called the Brahmas", "hi": "ब्रह्म; यहाँ ‘पञ्चब्रह्म’ कहलाने वाले पाँच देव" } },
+    { "sa": "आसन", "meaning": { "en": "seat", "hi": "आसन" } },
+    { "sa": "स्थिता", "meaning": { "en": "seated", "hi": "स्थित, विराजमान" } }
+  ],
+  "meaning": {
+    "en": "Seated on the throne formed by the five Brahmas",
+    "hi": "पञ्चब्रह्मों से बने आसन पर विराजमान"
+  },
+  "explanation": {
+    "en": "Inside the cintāmaṇi house she sits on a seat made of the five Brahmas. Bhāskararāya explains it as a couch: Brahmā, Viṣṇu, Rudra and Īśvara are its four legs, and Sadāśiva is the cushion on which she sits.",
+    "hi": "चिन्तामणि-गृह के भीतर वे पाँच ब्रह्मों से बने आसन पर विराजती हैं। भास्करराय इसे एक मञ्च (पलंग) बताते हैं: ब्रह्मा, विष्णु, रुद्र और ईश्वर इसके चार पाये हैं, और सदाशिव वह आस्तरण है जिस पर वे बैठती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya adds from the Purāṇa that Brahmā and the others stand as pillars at the four corners, eyes closed and motionless, and that, though male in form, they have attained the state of Śakti by meditating on her. The great gods are not her rivals but her support. Names 264 to 274 later link these five with the five cosmic acts of creation, preservation, dissolution, concealment and grace, so the seat shows all those acts resting on her.",
+    "hi": "भास्करराय पुराण के आधार पर जोड़ते हैं कि ब्रह्मा आदि चारों कोनों में स्तम्भ के रूप में खड़े हैं, नेत्र मूँदे और निश्चल; पुरुष-रूप होते हुए भी श्रीदेवी के ध्यान से वे शक्ति-भाव को प्राप्त हो गए हैं। बड़े-बड़े देव उनके प्रतिद्वन्द्वी नहीं, उनके आधार हैं। आगे नाम 264 से 274 इन पाँचों को सृष्टि, पालन, संहार, तिरोधान और अनुग्रह, इन पाँच कृत्यों से जोड़ते हैं; इस प्रकार यह आसन दिखाता है कि ये सभी कृत्य उन्हीं पर टिके हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya quotes the Bahurūpāṣṭaka and Bhairava Yāmala Tantras: in the temple of cintāmaṇi, on the great couch whose very being is Śiva, sits Mahātripurasundarī. The seat returns in names 249 and 250, Pañcapretāsanāsīnā and Pañcabrahmasvarūpiṇī.",
+    "hi": "भास्करराय बहुरूपाष्टक तन्त्र और भैरवयामल तन्त्र का वचन उद्धृत करते हैं: चिन्तामणिमय मन्दिर में, शिव-स्वरूप महामञ्च पर, महात्रिपुरसुन्दरी विराजती हैं। यह आसन फिर नाम 249 और 250, पञ्चप्रेतासनासीना और पञ्चब्रह्मस्वरूपिणी, में आता है।"
+  },
+  "commentary": {
+    "sanskrit": "पञ्चभिर्ब्रह्माभिर्निर्मितमासनं मञ्चकरूपं तत्र स्थिता ।",
+    "translation": {
+      "en": "Seated on the seat fashioned by the five Brahmas, which has the form of a couch.",
+      "hi": "पाँच ब्रह्मों से निर्मित, मञ्च (पलंग) के रूप वाले आसन पर स्थित।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 58 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The commentary excerpt is quoted as printed: ब्रह्माभिः, evidently for ब्रह्मभिः. In the Tantra verse he quotes, Sadāśiva is the कशिपु (rendered ‘cushion’) and the four भृतकाः are glossed as Druhiṇa, Hari, Rudra and Īśvara. The link to the five acts comes from names 264–274, not from his comment here; the sentence on the gods as her support is a reflection." }
+}

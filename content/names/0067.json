@@ -1,0 +1,46 @@
+{
+  "number": 67,
+  "verse": 25,
+  "slug": "ashvarudhadhishthitashva-koti-kotibhir-avrita",
+  "devanagari": "अश्वारूढाधिष्ठिताश्वकोटिकोटिभिरावृता",
+  "iastSplit": "Aśvārūḍhādhiṣṭhitāśva-koṭi-koṭibhir-āvṛtā",
+  "archana": "ॐ अश्वारूढाधिष्ठिताश्वकोटिकोटिभिरावृतायै नमः",
+  "syllables": ["aś", "vā", "rū", "ḍhā", "dhiṣ", "ṭhi", "tāś", "va", "ko", "ṭi", "ko", "ṭi", "bhi", "rā", "vṛ", "tā"],
+  "words": [
+    { "sa": "अश्वारूढा", "meaning": { "en": "Aśvārūḍhā, “she who rides the horse”, the goddess who commands the cavalry", "hi": "अश्वारूढा, ‘अश्व पर आरूढ़’, अश्व-सेना की अधिष्ठात्री देवी" } },
+    { "sa": "अधिष्ठित", "meaning": { "en": "governed, brought under control", "hi": "अधिष्ठित, वश में किया हुआ" } },
+    { "sa": "अश्व", "meaning": { "en": "horse", "hi": "घोड़ा, अश्व" } },
+    { "sa": "कोटि", "meaning": { "en": "crore, ten million; doubled, “crores of crores”", "hi": "करोड़; दोहराने पर ‘करोड़ों-करोड़’" } },
+    { "sa": "आवृता", "meaning": { "en": "surrounded", "hi": "घिरी हुई" } }
+  ],
+  "meaning": {
+    "en": "Surrounded by crores upon crores of horses commanded by Aśvārūḍhā",
+    "hi": "अश्वारूढा द्वारा अधिष्ठित करोड़ों-करोड़ घोड़ों से घिरी हुई"
+  },
+  "explanation": {
+    "en": "Besides the elephants, a cavalry surrounds her: horses in crores upon crores, governed by the goddess Aśvārūḍhā, “she who rides the horse”. Bhāskararāya quotes the Tripurāsiddhānta: she is called Aśvārūḍhā because she sits firm on horses.",
+    "hi": "हाथियों के साथ-साथ अश्व-सेना भी उन्हें घेरे है: करोड़ों-करोड़ घोड़े, जिन पर ‘अश्व पर आरूढ़’ देवी अश्वारूढा का अधिकार है। भास्करराय त्रिपुरासिद्धान्त का वचन उद्धृत करते हैं: घोड़ों पर स्थिर रहने के कारण वे अश्वारूढा कहलाती हैं।"
+  },
+  "inner": {
+    "en": "In the inner reading the horses are the senses; Bhāskararāya cites the Kādimata, which calls the senses horses. The rider is the mind, which goes out only through the senses: one mind governs countless senses and enjoys what each brings. A yogī steady in the inner effort of name 65, he says, comes by mere will to feel every body as his own, and he cites the Śiva Sūtras: “wonder is the stage of yoga”, “the power of will is Umā, the maiden”, “the visible is the body”.",
+    "hi": "गूढ़ अर्थ में घोड़े इन्द्रियाँ हैं; भास्करराय कादिमत का प्रमाण देते हैं, जो इन्द्रियों को अश्व-रूप कहता है। सवार मन है, जो इन्द्रियों के द्वार से ही बाहर जाता है: एक ही मन असंख्य इन्द्रियों को चलाता है और प्रत्येक से मिलने वाले सुख का अनुभव करता है। वे कहते हैं कि नाम 65 में कहे आन्तरिक उद्यम में स्थिर योगी केवल इच्छा से सभी शरीरों को अपना अनुभव करने लगता है, और शिवसूत्र उद्धृत करते हैं: ‘विस्मय योग की भूमिकाएँ हैं’, ‘इच्छाशक्ति ही उमा कुमारी है’, ‘दृश्य ही शरीर है’।"
+  },
+  "story": {
+    "en": "In the Lalitopākhyāna, Aśvārūḍhā springs from Lalitā’s noose, as Sampatkarī did from her goad. Swift in valour, she rides out in front on the horse Aparājita, “the unconquered”, and many horses swift as the wind follow her.",
+    "hi": "ललितोपाख्यान में अश्वारूढा ललिता के पाश से प्रकट होती हैं, जैसे सम्पत्करी उनके अङ्कुश से। तीव्र पराक्रम वाली वे ‘अपराजित’ नामक घोड़े पर सवार होकर आगे-आगे चलती हैं, और वायु के समान वेग वाले अनेक घोड़े उनके पीछे चलते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "तयाधिष्ठितानां स्वायत्तीकृतानां अश्वानां कोटिगुणितकोटिभिर्जलधिसंख्याभिर्बह्वीभिरावृता ।",
+    "translation": {
+      "en": "Surrounded by horses adhiṣṭhita by her, brought under her control: by crores multiplied by crores, the number called jaladhi, that is, by very many.",
+      "hi": "उनके (अश्वारूढा के) द्वारा अधिष्ठित, अर्थात् वश में किए गए, घोड़ों की करोड़-गुणित-करोड़ संख्या से, जिसे ‘जलधि’ कहते हैं, अर्थात् अत्यन्त अधिक घोड़ों से घिरी हुई।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 67 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The name ends in two words joined by sandhi (कोटिकोटिभिः आवृता), kept as one as in the verse; the slug and IAST split show the join. Bhāskararāya mentions the number of syllables of Aśvārūḍhā’s mantra; it is not given here. He also reads the plural as many minds governing endless senses at once; not used." }
+}

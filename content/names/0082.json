@@ -1,0 +1,47 @@
+{
+  "number": 82,
+  "verse": 33,
+  "slug": "kameshvarastra-nirdagdha-sa-bhandasura-shunyaka",
+  "devanagari": "कामेश्वरास्त्रनिर्दग्धसभण्डासुरशून्यका",
+  "iastSplit": "Kāmeśvarāstra-nirdagdha-sa-bhaṇḍāsura-śūnyakā",
+  "archana": "ॐ कामेश्वरास्त्रनिर्दग्धसभण्डासुरशून्यकायै नमः",
+  "syllables": ["kā", "meś", "va", "rās", "tra", "nir", "dag", "dha", "sa", "bhaṇ", "ḍā", "su", "ra", "śūn", "ya", "kā"],
+  "words": [
+    { "sa": "कामेश्वर", "meaning": { "en": "Kāmeśvara, Śiva, her consort", "hi": "कामेश्वर, उनके स्वामी शिव" } },
+    { "sa": "अस्त्र", "meaning": { "en": "missile", "hi": "अस्त्र" } },
+    { "sa": "निर्दग्ध", "meaning": { "en": "burnt up", "hi": "भस्म किया गया" } },
+    { "sa": "स", "meaning": { "en": "together with", "hi": "सहित" } },
+    { "sa": "भण्डासुर", "meaning": { "en": "Bhaṇḍāsura", "hi": "भण्डासुर" } },
+    { "sa": "शून्यक", "meaning": { "en": "Śūnyaka, Bhaṇḍa’s city (“the empty”)", "hi": "शून्यक, भण्ड का नगर (‘सूना’)" } }
+  ],
+  "meaning": {
+    "en": "Who burned Śūnyaka, with Bhaṇḍāsura, by the Kāmeśvara missile",
+    "hi": "जिन्होंने कामेश्वर-अस्त्र से भण्डासुर सहित शून्यक नगर को भस्म किया"
+  },
+  "explanation": {
+    "en": "With the Kāmeśvara missile, mightier even than the Mahāpāśupata, she burned Bhaṇḍāsura together with Śūnyaka, his city. Bhāskararāya quotes the Brahmāṇḍa Purāṇa: the city named Śūnyaka, “the empty”, became empty in truth.",
+    "hi": "महापाशुपत से भी अधिक शक्तिशाली कामेश्वर-अस्त्र से उन्होंने भण्डासुर को उसके नगर शून्यक सहित भस्म कर दिया। भास्करराय ब्रह्माण्ड पुराण उद्धृत करते हैं: ‘शून्यक’ नाम का वह नगर सचमुच शून्य हो गया।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says the names so far have shown one who, while still embodied, is united with the Lord and equal to Śiva; now the hymn tells how self-knowledge destroys, together with the subtle body, the lingering appearance of duality, which remains through past karma like the shape of a burnt cloth. The Kāmeśvara missile is the fire of consciousness, for the Self is what all desire: “all is dear for the sake of the Self”, says the Upaniṣad. Bhaṇḍa is the limited self that makes duality appear, and Śūnyaka is that faint appearance, or the void that the Śūnyavāda holds to be final; when both are burned away, consciousness alone remains.",
+    "hi": "भास्करराय कहते हैं कि अब तक के नामों ने उस साधक की स्थिति बताई जो देह में रहते हुए ही परमेश्वर से सायुज्य पाकर शिव-तुल्य हो गया है; अब स्तोत्र बताता है कि आत्मज्ञान किस प्रकार प्रारब्धवश बचे, जले हुए वस्त्र के आकार जैसे, द्वैत के आभास को लिङ्ग-शरीर सहित नष्ट कर देता है। कामेश्वर-अस्त्र चेतना की अग्नि है, क्योंकि आत्मा ही वह है जिसकी सब कामना करते हैं; उपनिषद् कहता है: ‘आत्मा के लिए ही सब प्रिय होता है’। भण्ड द्वैत का आभास कराने वाला जीव-भाव है, और शून्यक वही क्षीण आभास है, अथवा शून्यवादियों का माना हुआ शून्य; दोनों के जल जाने पर केवल चेतना शेष रहती है।"
+  },
+  "story": {
+    "en": "Bhāskararāya quotes the Brahmāṇḍa Purāṇa. When all his kin had been slain and Bhaṇḍa stood alone, blazing with rage, Mother Lalitā ended his life with the great Kāmeśvara missile, bright as a thousand suns. Its flames burned his city Śūnyaka with its women, children, herds and wealth, until only the bare ground remained.",
+    "hi": "भास्करराय ब्रह्माण्ड पुराण उद्धृत करते हैं। जब उसके सारे बन्धु मारे जा चुके थे और भण्ड अकेला क्रोध से जल रहा था, तब माता ललिता परमेश्वरी ने सहस्र सूर्यों के समान तेजस्वी महाकामेश्वर-अस्त्र से उसके प्राण हर लिए। उस अस्त्र की ज्वालाओं ने उसके नगर शून्यक को स्त्रियों, बालकों, गोशालाओं और धन-धान्य सहित जला डाला, और केवल खाली भूमि शेष रह गई।"
+  },
+  "commentary": {
+    "sanskrit": "कामेश्वरस्य यदस्त्रं तन्महापाशुपतादस्त्रादप्यधिकम् । तस्याग्निना निर्दग्धं भण्डासुरेण सहितं शून्यकाख्यं तदीयनगरं यया सा ।",
+    "translation": {
+      "en": "The missile of Kāmeśvara is greater even than the Mahāpāśupata missile. She by whom, with its fire, his city called Śūnyaka was burned together with Bhaṇḍāsura.",
+      "hi": "कामेश्वर का जो अस्त्र है, वह महापाशुपत अस्त्र से भी बढ़कर है। उसकी अग्नि से जिन्होंने भण्डासुर सहित उसके शून्यक नामक नगर को भस्म किया।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 82 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Archana corrected: the web list has सभाण्डासुर; the verse and Bhāskararāya read सभण्डासुर (Bhaṇḍa). He derives śūnyaka with the suffix kan (yāvādi gaṇa). The Upaniṣad quoted is the Bṛhadāraṇyaka (he cites it only as śruti)." }
+}

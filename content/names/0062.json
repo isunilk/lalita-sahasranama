@@ -1,0 +1,43 @@
+{
+  "number": 62,
+  "verse": 23,
+  "slug": "kamakshi",
+  "devanagari": "कामाक्षी",
+  "iastSplit": "Kāmākṣī",
+  "archana": "ॐ कामाक्ष्यै नमः",
+  "syllables": ["kā", "māk", "ṣī"],
+  "words": [
+    { "sa": "काम", "meaning": { "en": "lovely, desirable; also Kāmeśvara", "hi": "कमनीय, मनोहर; कामेश्वर भी" } },
+    { "sa": "अक्षि", "meaning": { "en": "eye", "hi": "नेत्र, आँख" } }
+  ],
+  "meaning": {
+    "en": "She of lovely eyes",
+    "hi": "कमनीय नेत्रों वाली"
+  },
+  "explanation": {
+    "en": "Kāmākṣī means “she whose eyes are kāma”, lovely and desirable. Bhāskararāya also reads it as “she whose eye is Kāmeśvara”, since he is ever the object of her gaze. It is the special name of the Goddess who presides over the sacred seat of Kāñcī.",
+    "hi": "कामाक्षी का अर्थ है ‘जिनके नेत्र काम, अर्थात् कमनीय और मनोहर, हैं’। भास्करराय इसका अर्थ ‘जिनका नेत्र स्वयं कामेश्वर हैं’ भी करते हैं, क्योंकि वे सदा उनकी दृष्टि के विषय हैं। यह काञ्ची-पीठ की अधिष्ठात्री देवी का विशेष नाम है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya’s two readings meet in one idea: her eyes are full of love, and what they rest on is the Lord. He adds no further hidden meaning here. Her look is itself the grace that fulfils desire, which is why the next name follows: Kāmadāyinī.",
+    "hi": "भास्करराय के दोनों अर्थ एक ही भाव में मिलते हैं: उनके नेत्र प्रेम से भरे हैं, और जिस पर वे टिकते हैं वह स्वयं परमेश्वर है। वे यहाँ कोई और गूढ़ अर्थ नहीं देते। उनकी दृष्टि ही वह कृपा है जो कामनाएँ पूरी करती है, और इसीलिए अगला नाम है कामदायिनी।"
+  },
+  "story": {
+    "en": "Bhāskararāya quotes the Brahmāṇḍa Purāṇa: all-knowing, she fulfilled the desires of each as their witness, and seeing this, Brahmā, grandsire of the worlds, gave her the names Kāmākṣī and Kāmeśvarī. At Kāñcīpuram she is worshipped as Kāmākṣī to this day.",
+    "hi": "भास्करराय ब्रह्माण्ड पुराण का प्रमाण देते हैं: सर्वज्ञ देवी ने साक्षी-भाव से सबकी अलग-अलग कामनाएँ पूरी कीं; यह देखकर लोकपितामह ब्रह्मा ने उन्हें ‘कामाक्षी’ और ‘कामेश्वरी’ नाम दिए। काञ्चीपुरम में आज भी वे कामाक्षी के रूप में पूजी जाती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "कामे कमनीये अक्षिणी यस्याः । समासान्तष्टच् । कामेश्वर एव नेत्रं यस्या इति वा ।",
+    "translation": {
+      "en": "She whose two eyes are kāma, lovely; the compound takes the closing suffix ṭac. Or: she whose eye is Kāmeśvara himself.",
+      "hi": "जिनके दोनों नेत्र काम, अर्थात् कमनीय, हैं; समास के अन्त में ‘टच्’ प्रत्यय लगा है। अथवा: जिनका नेत्र स्वयं कामेश्वर हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 62 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The inner layer is a reflection joining Bhāskararāya’s two readings; he gives no separate esoteric meaning. The closing remark on Kāñcīpuram worship is general knowledge, not from the commentary." }
+}

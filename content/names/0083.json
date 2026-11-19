@@ -1,0 +1,48 @@
+{
+  "number": 83,
+  "verse": 33,
+  "slug": "brahmopendra-mahendradi-deva-samstuta-vaibhava",
+  "devanagari": "ब्रह्मोपेन्द्रमहेन्द्रादिदेवसंस्तुतवैभवा",
+  "iastSplit": "Brahmopendra-mahendrādi-deva-saṃstuta-vaibhavā",
+  "archana": "ॐ ब्रह्मोपेन्द्रमहेन्द्रादिदेवसंस्तुतवैभवायै नमः",
+  "syllables": ["brah", "mo", "pen", "dra", "ma", "hen", "drā", "di", "de", "va", "saṃ", "stu", "ta", "vai", "bha", "vā"],
+  "words": [
+    { "sa": "ब्रह्मन्", "meaning": { "en": "Brahmā, the creator", "hi": "ब्रह्मा, सृष्टिकर्ता" } },
+    { "sa": "उपेन्द्र", "meaning": { "en": "Upendra, Viṣṇu", "hi": "उपेन्द्र, विष्णु" } },
+    { "sa": "महेन्द्र", "meaning": { "en": "Mahendra, Indra", "hi": "महेन्द्र, इन्द्र" } },
+    { "sa": "आदि", "meaning": { "en": "and the rest", "hi": "आदि" } },
+    { "sa": "देव", "meaning": { "en": "gods", "hi": "देवता" } },
+    { "sa": "संस्तुत", "meaning": { "en": "well praised; well known", "hi": "भली-भाँति स्तुत; भली-भाँति परिचित" } },
+    { "sa": "वैभव", "meaning": { "en": "might, glory", "hi": "वैभव, पराक्रम" } }
+  ],
+  "meaning": {
+    "en": "Whose might is praised by Brahmā, Viṣṇu, Indra and the gods",
+    "hi": "ब्रह्मा, विष्णु, इन्द्र आदि देवता जिनके वैभव की स्तुति करते हैं"
+  },
+  "explanation": {
+    "en": "When Bhaṇḍa had been destroyed, the gods led by Brahmā, Upendra (Viṣṇu) and Mahendra (Indra) came and praised her might. Bhāskararāya glosses vaibhava here as her prowess.",
+    "hi": "भण्ड के संहार के बाद ब्रह्मा, उपेन्द्र (विष्णु) और महेन्द्र (इन्द्र) आदि देवता आए और उनके वैभव की स्तुति की। भास्करराय यहाँ ‘वैभव’ का अर्थ पराक्रम बताते हैं।"
+  },
+  "inner": {
+    "en": "In the inner reading, saṃstuta means “well known”: her glory is the all-pervading, unlimited being of Brahman, the Self of all, now recognised as the deity who is one’s own Self. After the battle within, what is praised is no longer a victory but the Self, known at last as boundless.",
+    "hi": "गूढ़ अर्थ में ‘संस्तुत’ का अर्थ है ‘भली-भाँति परिचित’: उनका वैभव ब्रह्म की व्यापकता, अपरिच्छिन्नता और सर्वात्मता है, जो अब अपनी ही आत्मा-रूपी देवता के रूप में पहचानी गई है। भीतर के युद्ध के बाद जिसकी स्तुति होती है, वह कोई विजय नहीं, बल्कि वह आत्मा है जो अन्ततः असीम जानी गई है।"
+  },
+  "story": {
+    "en": "Bhāskararāya points out how the account is framed: the Devī was praised by the gods oppressed by Bhaṇḍa (name 64), did the gods’ work up to Bhaṇḍa’s death, and at its end was praised again by the gods, now content. He quotes the Brahmāṇḍa Purāṇa: at that time all the gods, delighted by Bhaṇḍa’s destruction, came to serve her, with Brahmā and Viṣṇu at their head.",
+    "hi": "भास्करराय इस वृत्तान्त की रचना पर ध्यान दिलाते हैं: भण्ड से पीड़ित देवताओं ने देवी की स्तुति की (नाम 64), देवी ने भण्ड-वध तक देवताओं का कार्य पूरा किया, और अन्त में सन्तुष्ट देवताओं ने फिर उनकी स्तुति की। वे ब्रह्माण्ड पुराण उद्धृत करते हैं: उस समय भण्ड के संहार से प्रसन्न सभी देवता, ब्रह्मा और विष्णु को आगे करके, उनकी सेवा के लिए आए।"
+  },
+  "commentary": {
+    "sanskrit": "ब्रह्मविष्णुशक्राद्यैर्देवैः सम्यक् स्तुतं वैभवं पराक्रमो यस्याः ।",
+    "translation": {
+      "en": "She whose vaibhava, prowess, was well praised by the gods, Brahmā, Viṣṇu, Śakra (Indra) and the rest.",
+      "hi": "ब्रह्मा, विष्णु, शक्र (इन्द्र) आदि देवताओं ने जिनके वैभव, अर्थात् पराक्रम, की भली-भाँति स्तुति की।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 83 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The second sentence of the inner layer is a reflection; the first follows Bhāskararāya’s brief alternative reading (संस्तुतं परिचितम्)." }
+}

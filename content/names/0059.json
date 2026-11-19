@@ -1,0 +1,45 @@
+{
+  "number": 59,
+  "verse": 23,
+  "slug": "maha-padmatavi-samstha",
+  "devanagari": "महापद्माटवीसंस्था",
+  "iastSplit": "Mahā-padmāṭavī-saṃsthā",
+  "archana": "ॐ महापद्माटवीसंस्थायै नमः",
+  "syllables": ["ma", "hā", "pad", "mā", "ṭa", "vī", "saṃ", "sthā"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान, विशाल" } },
+    { "sa": "पद्म", "meaning": { "en": "lotus", "hi": "कमल" } },
+    { "sa": "अटवी", "meaning": { "en": "forest", "hi": "वन" } },
+    { "sa": "संस्था", "meaning": { "en": "abiding fully, dwelling", "hi": "भली-भाँति स्थित, निवास करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Dwelling in the forest of great lotuses",
+    "hi": "महापद्मों के वन में निवास करने वाली"
+  },
+  "explanation": {
+    "en": "She abides in a forest where great lotuses grow. Bhāskararāya quotes two descriptions of it: the Rudrayāmala speaks of a great lotus forest three lakh yojanas long, and the Lalitāstavaratna of a lotus forest between the jewelled palace and its wall, with stalks a yojana high, honey ever flowing and bees swarming.",
+    "hi": "वे उस वन में निवास करती हैं जहाँ महापद्म खिलते हैं। भास्करराय इस वन के दो वर्णन उद्धृत करते हैं: रुद्रयामल तीन लाख योजन लम्बे महापद्मवन की बात करता है, और ‘ललितास्तवरत्न’ मणि-भवन और उसके प्राकार के बीच स्थित ऐसे पद्मवन की, जिसके डण्ठल एक योजन ऊँचे हैं, जिससे निरन्तर मकरन्द बहता है और भौंरों के झुण्ड उमड़ते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says the thousand-petalled lotus in the brahmarandhra, at the crown of the head, is also called the lotus forest, and cites the Svacchanda Tantra, which describes the thousand-petalled lotus above, facing downward, and calls it the great lotus forest. Since the cosmos and the body share one form, the forest where she dwells in Śrīpura is also found within, at the highest centre of awareness.",
+    "hi": "भास्करराय कहते हैं कि ब्रह्मरन्ध्र में, अर्थात् सिर के शिखर पर, स्थित सहस्रदल कमल को भी पद्माटवी कहा जाता है, और स्वच्छन्द तन्त्र का प्रमाण देते हैं, जो ऊपर स्थित अधोमुख सहस्रार कमल का वर्णन करके उसे ‘महापद्मवन’ कहता है। ब्रह्माण्ड और पिण्डाण्ड (शरीर) एकरूप हैं, इसलिए श्रीपुर का यह वन भीतर भी है, चेतना के सर्वोच्च केन्द्र में।"
+  },
+  "story": {
+    "en": "These names trace the setting of Śrīpura as the tradition describes it: a city of many walls, with groves and gardens between them, and at its heart the palace of cintāmaṇi. The lotus forest and the kadamba grove of the next name are part of this setting.",
+    "hi": "ये नाम श्रीपुर के उस परिवेश का चित्र बनाते हैं जिसका परम्परा वर्णन करती है: अनेक प्राकारों वाला नगर, उनके बीच उपवन और वाटिकाएँ, और केन्द्र में चिन्तामणि का भवन। यह पद्मवन और अगले नाम का कदम्बवन इसी परिवेश के अंग हैं।"
+  },
+  "commentary": {
+    "sanskrit": "ब्रह्मरन्ध्रस्थितसहस्रदलपद्ममपि पद्माटवीत्युच्यते ।",
+    "translation": {
+      "en": "The thousand-petalled lotus situated in the brahmarandhra is also called the lotus forest.",
+      "hi": "ब्रह्मरन्ध्र में स्थित सहस्रदल कमल को भी पद्माटवी कहा जाता है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 59 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya also refers to the Aruṇopaniṣad commentary for the correspondence of cosmos and body; not used here. The details of the Lalitāstavaratna verses are summarised, not translated in full." }
+}

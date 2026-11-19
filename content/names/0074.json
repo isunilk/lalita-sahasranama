@@ -1,0 +1,48 @@
+{
+  "number": 74,
+  "verse": 29,
+  "slug": "bhanda-putra-vadhodyukta-bala-vikrama-nandita",
+  "devanagari": "भण्डपुत्रवधोद्युक्तबालाविक्रमनन्दिता",
+  "iastSplit": "Bhaṇḍa-putra-vadhodyukta-bālā-vikrama-nanditā",
+  "archana": "ॐ भण्डपुत्रवधोद्युक्तबालाविक्रमनन्दितायै नमः",
+  "syllables": ["bhaṇ", "ḍa", "put", "ra", "va", "dhod", "yuk", "ta", "bā", "lā", "vik", "ra", "ma", "nan", "di", "tā"],
+  "words": [
+    { "sa": "भण्ड", "meaning": { "en": "Bhaṇḍa, the demon king", "hi": "भण्ड, असुरराज" } },
+    { "sa": "पुत्र", "meaning": { "en": "son", "hi": "पुत्र" } },
+    { "sa": "वध", "meaning": { "en": "slaying", "hi": "वध" } },
+    { "sa": "उद्युक्त", "meaning": { "en": "intent on", "hi": "उद्यत, तत्पर" } },
+    { "sa": "बाला", "meaning": { "en": "Bālā, the Devī’s young daughter", "hi": "बाला, देवी की बालिका पुत्री" } },
+    { "sa": "विक्रम", "meaning": { "en": "valour", "hi": "पराक्रम" } },
+    { "sa": "नन्दिता", "meaning": { "en": "gladdened", "hi": "आनन्दित" } }
+  ],
+  "meaning": {
+    "en": "Gladdened by the valour of Bālā, intent on slaying Bhaṇḍa’s sons",
+    "hi": "भण्ड-पुत्रों के वध में तत्पर बाला के पराक्रम से आनन्दित"
+  },
+  "explanation": {
+    "en": "Bālā is the Devī’s own daughter, a girl of nine. She went out against the thirty sons of Bhaṇḍa, from Caturbāhu to Upamāya, and slew them, and her mother rejoiced in her valour.",
+    "hi": "बाला देवी की अपनी पुत्री हैं, नौ वर्ष की बालिका। वे चतुर्बाहु से उपमाय तक भण्ड के तीसों पुत्रों के विरुद्ध गईं और उनका वध किया, और माँ उनके पराक्रम से आनन्दित हुईं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives the inner reading of names 74 to 76 together (see name 76): Bhaṇḍa’s sons are the impurities (malas) that bind the self, beginning with āṇava, the sense of being small, and Bālā, Mantriṇī and Vārāhī are inner movements of awareness that destroy them. That the slayer here is a child is fitting: the first awakening is young, but it is the Devī’s own.",
+    "hi": "भास्करराय नाम 74 से 76 का गूढ़ अर्थ एक साथ देते हैं (नाम 76 देखें): भण्ड के पुत्र आत्मा को बाँधने वाले मल हैं, जिनमें पहला आणव मल है, अर्थात् स्वयं को अणु, छोटा, मानना; और बाला, मन्त्रिणी और वाराही चेतना की वे आन्तरिक वृत्तियाँ हैं जो उनका नाश करती हैं। यहाँ संहार करने वाली एक बालिका है, यह उचित ही है: पहली जागृति कोमल होती है, पर वह देवी की अपनी ही है।"
+  },
+  "story": {
+    "en": "Bhāskararāya quotes the Brahmāṇḍa Purāṇa: when the Śaktis told her of her daughter’s feats of arms, the Devī Lalitāmbikā was filled with joy. In Śrīvidyā, Bālā, the Goddess as a young girl, is also worshipped in her own right.",
+    "hi": "भास्करराय ब्रह्माण्ड पुराण का श्लोक उद्धृत करते हैं: शक्तियों से अपनी पुत्री के भुज-पराक्रम का वृत्तान्त सुनकर देवी ललिताम्बिका अत्यन्त प्रसन्न हुईं। श्रीविद्या में बालिका-रूपा बाला की उपासना स्वतन्त्र रूप से भी होती है।"
+  },
+  "commentary": {
+    "sanskrit": "भण्डासुरस्य पुत्राणां चतुर्बाह्वाद्युपमायान्तानां त्रिंशत्संख्याकानां वधे उद्युक्ताया बालाख्यदेव्या नववर्षाया स्वपुत्र्या विक्रमेण नन्दिता हृष्टा ।",
+    "translation": {
+      "en": "Gladdened, delighted, by the valour of the goddess called Bālā, her own nine-year-old daughter, intent on slaying the sons of Bhaṇḍāsura, thirty in number, from Caturbāhu to Upamāya.",
+      "hi": "भण्डासुर के चतुर्बाहु से उपमाय तक तीस पुत्रों के वध के लिए उद्यत, अपनी नौ वर्ष की पुत्री बाला देवी के पराक्रम से नन्दित, अर्थात् हर्षित।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 74 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The note that Bālā is worshipped in her own right is general Śrīvidyā tradition, not from Bhāskararāya’s comment; the gloss of āṇava as ‘the sense of being small’ and the last sentence of the inner layer are added explanations." }
+}

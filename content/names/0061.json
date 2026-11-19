@@ -1,0 +1,45 @@
+{
+  "number": 61,
+  "verse": 23,
+  "slug": "sudha-sagara-madhya-stha",
+  "devanagari": "सुधासागरमध्यस्था",
+  "iastSplit": "Sudhā-sāgara-madhya-sthā",
+  "archana": "ॐ सुधासागरमध्यस्थायै नमः",
+  "syllables": ["su", "dhā", "sā", "ga", "ra", "madh", "yas", "thā"],
+  "words": [
+    { "sa": "सुधा", "meaning": { "en": "nectar, amṛta", "hi": "सुधा, अमृत" } },
+    { "sa": "सागर", "meaning": { "en": "ocean", "hi": "सागर, समुद्र" } },
+    { "sa": "मध्य", "meaning": { "en": "middle", "hi": "मध्य, बीच" } },
+    { "sa": "स्था", "meaning": { "en": "abiding", "hi": "स्थित" } }
+  ],
+  "meaning": {
+    "en": "Abiding in the midst of the ocean of nectar",
+    "hi": "सुधासागर के मध्य में स्थित"
+  },
+  "explanation": {
+    "en": "She dwells in the middle of the ocean of nectar. This is the ocean that surrounds the Isle of Gems on which her city stands; the Veda too speaks of “a city enclosed by nectar”.",
+    "hi": "वे अमृत के सागर के मध्य में रहती हैं। यह वही सागर है जो उस रत्नद्वीप को घेरे है जिस पर उनका नगर बसा है; श्रुति भी ‘अमृत से घिरी पुरी’ की बात करती है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya counts several oceans of nectar and says all are meant. One is above the worlds, the one the Veda names. In the body there is another, in the moon at the centre of the thousand-petalled lotus, the place of the bindu. And in Aparājitā, the city reached by those who worship Brahman with attributes, are two nectar lakes like oceans, Ara and Ṇya, which Śaṅkara discusses in his commentary on the Brahma Sūtras; she abides in the midst of them all.",
+    "hi": "भास्करराय अमृत के कई सागर गिनाते हैं और कहते हैं कि यहाँ सभी अभिप्रेत हैं। एक लोकों के ऊपर है, जिसकी चर्चा श्रुति करती है। शरीर में दूसरा है, सहस्रार कमल की कर्णिका में स्थित चन्द्रमा के भीतर, बिन्दु-स्थान पर। और सगुण ब्रह्म की उपासना से प्राप्त होने वाली अपराजिता नामक पुरी में ‘अर’ और ‘ण्य’ नाम के दो सागर-समान अमृत-सरोवर हैं, जिनकी चर्चा शङ्कराचार्य ब्रह्मसूत्र-भाष्य में करते हैं; वे इन सबके मध्य में स्थित हैं।"
+  },
+  "story": {
+    "en": "In the traditional picture, the ocean of nectar lies outermost: in it is the Isle of Gems, on the isle the city Śrīpura, and at the heart of the city her palace. With names 59 to 61 the hymn has described her surroundings from the lotus forest out to the encircling ocean.",
+    "hi": "पारम्परिक वर्णन में सुधासागर सबसे बाहर है: उसमें रत्नद्वीप है, द्वीप पर श्रीपुर नगर, और नगर के केन्द्र में उनका भवन। नाम 59 से 61 तक स्तोत्र पद्मवन से लेकर चारों ओर फैले सागर तक उनके परिवेश का वर्णन करता है।"
+  },
+  "commentary": {
+    "sanskrit": "अविशेषात्सर्वेऽपीह गृह्यन्ते । तेषां मध्ये तिष्ठतीति तथा ।",
+    "translation": {
+      "en": "Since no distinction is made, all of them are taken here; she abides in their midst.",
+      "hi": "कोई भेद न किए जाने के कारण यहाँ सभी (अमृत-सागर) ग्रहण किए जाते हैं; वे उनके मध्य में स्थित हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 61 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya names the Śārīraka Bhāṣya and the sūtra अनावृत्तिः शब्दात् for the lakes Ara and Ṇya; ‘Śaṅkara’ is added here as the author of that commentary. His opening phrase सुधासागरः पीयूषवर्णः may be corrupt and is not quoted." }
+}

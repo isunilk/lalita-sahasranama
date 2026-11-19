@@ -1,0 +1,48 @@
+{
+  "number": 81,
+  "verse": 32,
+  "slug": "maha-pashupatastragni-nirdagdhasura-sainika",
+  "devanagari": "महापाशुपतास्त्राग्निनिर्दग्धासुरसैनिका",
+  "iastSplit": "Mahā-pāśupatāstrāgni-nirdagdhāsura-sainikā",
+  "archana": "ॐ महापाशुपतास्त्राग्निनिर्दग्धासुरसैनिकायै नमः",
+  "syllables": ["ma", "hā", "pā", "śu", "pa", "tās", "trāg", "ni", "nir", "dag", "dhā", "su", "ra", "sai", "ni", "kā"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "पाशुपत", "meaning": { "en": "belonging to Paśupati, Śiva", "hi": "पशुपति शिव का" } },
+    { "sa": "अस्त्र", "meaning": { "en": "missile", "hi": "अस्त्र" } },
+    { "sa": "अग्नि", "meaning": { "en": "fire", "hi": "अग्नि" } },
+    { "sa": "निर्दग्ध", "meaning": { "en": "burnt up", "hi": "पूर्णतः जलाए गए, भस्म" } },
+    { "sa": "असुर", "meaning": { "en": "demon; here Bhaṇḍa", "hi": "असुर; यहाँ भण्ड" } },
+    { "sa": "सैनिक", "meaning": { "en": "soldier", "hi": "सैनिक" } }
+  ],
+  "meaning": {
+    "en": "Who burned the demon’s soldiers in the fire of the Mahāpāśupata missile",
+    "hi": "महापाशुपत अस्त्र की अग्नि से असुर-सैनिकों को भस्म करने वाली"
+  },
+  "explanation": {
+    "en": "With the fire of the Mahāpāśupata missile she burned up Bhaṇḍa’s soldiers. Bhāskararāya explains that this great missile is distinct from the ordinary Pāśupata: the Pāśupata belongs to Īśvara, the Mahāpāśupata to Sadāśiva.",
+    "hi": "महापाशुपत अस्त्र की अग्नि से उन्होंने भण्ड के सैनिकों को भस्म कर दिया। भास्करराय बताते हैं कि यह महान अस्त्र सामान्य पाशुपत से भिन्न है: पाशुपत के देवता ईश्वर हैं, और महापाशुपत के सदाशिव।"
+  },
+  "inner": {
+    "en": "In the inner reading, the fires of this missile are the ever-higher movements of non-dual awareness that arise as practice deepens, and the demon’s soldiers are the movements of mind born of ignorance. What burns them is not force from outside but a seeing that grows ever clearer.",
+    "hi": "गूढ़ अर्थ में इस अस्त्र की अग्नियाँ वे उत्तरोत्तर श्रेष्ठ अद्वैत-वृत्तियाँ हैं जो अभ्यास के बढ़ने के साथ उत्पन्न होती हैं, और असुर के सैनिक अविद्या से उपजी वृत्तियाँ हैं। उन्हें जलाने वाली कोई बाहरी शक्ति नहीं, बल्कि निरन्तर स्पष्ट होती दृष्टि है।"
+  },
+  "story": {
+    "en": "Bhāskararāya explains the word from the Liṅga Purāṇa: all beings from Rudra down to the piśācas are paśus, bound creatures, and because he is their lord, Bhava is called Paśupati; his weapon is the Pāśupata. He adds that the Kāmeśvara missile of the next name is greater still.",
+    "hi": "भास्करराय लिङ्ग पुराण से शब्द का अर्थ बताते हैं: रुद्र से लेकर पिशाच तक सभी प्राणी पशु, अर्थात् बँधे हुए जीव, हैं, और उनके पति होने से भव ‘पशुपति’ कहलाते हैं; उनका अस्त्र पाशुपत है। वे जोड़ते हैं कि अगले नाम का कामेश्वर अस्त्र इससे भी बढ़कर है।"
+  },
+  "commentary": {
+    "sanskrit": "महच्च तत्पाशुपतं च महापाशुपतं सदाशिवास्त्रं तस्याग्निना निर्दग्धा असुरस्य भण्डस्य सैनिका यया सा ।",
+    "translation": {
+      "en": "Great, and Pāśupata: the Mahāpāśupata, the missile of Sadāśiva. She by whom, with its fire, the soldiers of the asura Bhaṇḍa were burnt up.",
+      "hi": "जो महान है और पाशुपत है, वह महापाशुपत, अर्थात् सदाशिव का अस्त्र; उसकी अग्नि से जिन्होंने असुर भण्ड के सैनिकों को भस्म किया।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 81 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya distinguishes the Mahāpāśupata from the Pāśupata astra-mantra and gives its syllable count; the mantra is not given here. He also notes the grammar of pāśupata (no ṇya suffix, as with aśvapati); not used. The last sentence of the inner layer is a reflection." }
+}

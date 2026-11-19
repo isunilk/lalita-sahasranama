@@ -1,0 +1,46 @@
+{
+  "number": 73,
+  "verse": 28,
+  "slug": "nitya-parakramatopa-nirikshana-samutsuka",
+  "devanagari": "नित्यापराक्रमाटोपनिरीक्षणसमुत्सुका",
+  "iastSplit": "Nityā-parākramāṭopa-nirīkṣaṇa-samutsukā",
+  "archana": "ॐ नित्यापराक्रमाटोपनिरीक्षणसमुत्सुकायै नमः",
+  "syllables": ["nit", "yā", "pa", "rāk", "ra", "mā", "ṭo", "pa", "ni", "rīk", "ṣa", "ṇa", "sa", "mut", "su", "kā"],
+  "words": [
+    { "sa": "नित्या", "meaning": { "en": "the Nityās, the fifteen goddesses of the lunar days", "hi": "नित्या देवियाँ, पन्द्रह तिथियों की देवियाँ" } },
+    { "sa": "पराक्रम", "meaning": { "en": "valour, prowess", "hi": "पराक्रम" } },
+    { "sa": "आटोप", "meaning": { "en": "vigour, swelling display", "hi": "वेग, विस्तार" } },
+    { "sa": "निरीक्षण", "meaning": { "en": "watching", "hi": "निरीक्षण, देखना" } },
+    { "sa": "समुत्सुका", "meaning": { "en": "eager", "hi": "अत्यन्त उत्सुक" } }
+  ],
+  "meaning": {
+    "en": "Eager to watch the valiant onset of the Nityā goddesses",
+    "hi": "नित्या देवियों के पराक्रम का वेग देखने को उत्सुक"
+  },
+  "explanation": {
+    "en": "The Nityās are the fifteen goddesses of the lunar days, from Kāmeśvarī to Citrā. When they went into battle, the Devī watched the sweep of their valour with eager delight.",
+    "hi": "नित्या देवियाँ कामेश्वरी से चित्रा तक पन्द्रह तिथियों की अधिष्ठात्री देवियाँ हैं। जब वे युद्ध में उतरीं, तो देवी उनके पराक्रम का वेग बड़ी उत्सुकता और आनन्द से देखती रहीं।"
+  },
+  "inner": {
+    "en": "In the inner reading, the Nityās are the beginningless powers of one’s own Self, and her eagerness at their prowess grows moment by moment. Once born, the spark of knowledge keeps growing, kindling zeal as the mind turns within. Bhāskararāya quotes the Yoga Vāsiṣṭha: every other skill of a creature fades without practice, but this one, the skill of knowledge, once born within, keeps growing.",
+    "hi": "गूढ़ अर्थ में नित्याएँ अपनी आत्मा की अनादि-सिद्ध शक्तियाँ हैं, और उनके पराक्रम पर देवी की उत्सुकता क्षण-क्षण बढ़ती जाती है। ज्ञान की कला एक बार जाग जाए, तो अन्तर्मुखता में उत्साह जगाती हुई बढ़ती ही रहती है। भास्करराय योगवासिष्ठ का श्लोक उद्धृत करते हैं: प्राणी की अन्य सब कलाएँ अभ्यास के बिना नष्ट हो जाती हैं, पर यह ज्ञान-कला भीतर एक बार उत्पन्न होकर बढ़ती ही जाती है।"
+  },
+  "story": {
+    "en": "Bhāskararāya sums up the episode: the Nityās’ prowess spread through the battle until they had slain fifteen of Bhaṇḍa’s commanders, from Damanaka to Candragupta. Jvālāmālinī, who raised the wall of fire in name 71, is one of them, the goddess of the fourteenth day.",
+    "hi": "भास्करराय इस प्रसंग का सार देते हैं: नित्याओं का पराक्रम युद्ध में फैलता गया, यहाँ तक कि उन्होंने दमनक से चन्द्रगुप्त तक भण्ड के पन्द्रह सेनापतियों को मार गिराया। नाम 71 में अग्नि-प्राकार रचने वाली ज्वालामालिनी इन्हीं में से एक हैं, चतुर्दशी तिथि की देवी।"
+  },
+  "commentary": {
+    "sanskrit": "कामेश्वर्यादिचित्रान्ताः पञ्चदशतिथिनित्याख्या देवताः ।",
+    "translation": {
+      "en": "The goddesses called the fifteen Tithi-Nityās, from Kāmeśvarī to Citrā.",
+      "hi": "कामेश्वरी से लेकर चित्रा तक, ‘तिथिनित्या’ कहलाने वाली पन्द्रह देवियाँ।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 73 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. In the inner sense Bhāskararāya reads nirīkṣaṇa as including kṣaṇe (‘moment by moment’); followed loosely here. He notes that the Nityās’ mantras are given in the Jñānārṇava and Tantrarāja; not reproduced." }
+}

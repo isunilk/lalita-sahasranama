@@ -1,0 +1,48 @@
+{
+  "number": 86,
+  "verse": 35,
+  "slug": "kanthadha-kati-paryanta-madhya-kuta-svarupini",
+  "devanagari": "कण्ठाधःकटिपर्यन्तमध्यकूटस्वरूपिणी",
+  "iastSplit": "Kaṇṭhādhaḥ-kaṭi-paryanta-madhya-kūṭa-svarūpiṇī",
+  "archana": "ॐ कण्ठाधःकटिपर्यन्तमध्यकूटस्वरूपिण्यै नमः",
+  "syllables": ["kaṇ", "ṭhā", "dhaḥ", "ka", "ṭi", "par", "yan", "ta", "madh", "ya", "kū", "ṭas", "va", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "कण्ठ", "meaning": { "en": "throat, neck", "hi": "कण्ठ, गला" } },
+    { "sa": "अधः", "meaning": { "en": "below", "hi": "नीचे" } },
+    { "sa": "कटि", "meaning": { "en": "waist", "hi": "कटि, कमर" } },
+    { "sa": "पर्यन्त", "meaning": { "en": "as far as", "hi": "तक" } },
+    { "sa": "मध्य", "meaning": { "en": "middle", "hi": "मध्य" } },
+    { "sa": "कूट", "meaning": { "en": "section of the mantra", "hi": "कूट, मन्त्र का खण्ड" } },
+    { "sa": "स्वरूपिणी", "meaning": { "en": "having the form of", "hi": "स्वरूप वाली" } }
+  ],
+  "meaning": {
+    "en": "Whose body from neck to waist is the middle kūṭa",
+    "hi": "कण्ठ के नीचे से कमर तक जिनका शरीर मध्यकूट-स्वरूप है"
+  },
+  "explanation": {
+    "en": "Her body from below the neck down to the waist is the form of the middle kūṭa of the Pañcadaśī. Bhāskararāya names it Kāmarāja, the section of six syllables that stands in the middle of the mantra.",
+    "hi": "कण्ठ के नीचे से कमर तक उनका शरीर पञ्चदशी के मध्य कूट का स्वरूप है। भास्करराय इसे ‘कामराज’ कूट कहते हैं, जो मन्त्र के मध्य में स्थित छह अक्षरों का समूह है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives the reason for the name under the next name, quoting a verse: the middle section is Kāmarāja because Kāma dwells in her heart, and the heart lies in this middle region. Beyond this he adds only a point of grammar. The point of these names is that the mantra and her form are not two.",
+    "hi": "भास्करराय अगले नाम पर एक श्लोक उद्धृत करके इसका कारण बताते हैं: मध्य कूट ‘कामराज’ इसलिए है कि काम उनके हृदय में बसता है, और हृदय इसी मध्य भाग में है। इसके अतिरिक्त वे केवल व्याकरण की एक बात जोड़ते हैं। इन नामों का आशय यह है कि मन्त्र और उनका रूप दो नहीं हैं।"
+  },
+  "story": {
+    "en": "This is the second of the three names that place the Pañcadaśī on her body: the face (85), the body from neck to waist (86), and the body below the waist (87). Bhāskararāya says the subtle form is here described as one with the visible form.",
+    "hi": "यह उन तीन नामों में दूसरा है जो पञ्चदशी को उनके शरीर पर स्थापित करते हैं: मुख (85), कण्ठ से कमर तक का शरीर (86), और कमर से नीचे का शरीर (87)। भास्करराय कहते हैं कि यहाँ सूक्ष्म रूप का वर्णन स्थूल रूप से अभिन्न रूप में किया गया है।"
+  },
+  "commentary": {
+    "sanskrit": "कण्ठस्याधः कटिपर्यन्तो यस्य स मध्यभागः स एव मध्यस्थकामराजाख्यस्य षडक्षरसमूहस्य स्वं निजं रूपमस्याः ।",
+    "translation": {
+      "en": "Her middle part, which extends from below the throat as far as the waist: that itself is her very own form of the group of six syllables called Kāmarāja, which stands in the middle.",
+      "hi": "कण्ठ के नीचे से कमर तक जो मध्य भाग है, वही मध्य में स्थित ‘कामराज’ नामक छह अक्षरों के समूह का उनका अपना, निज रूप है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 86 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Pañcadaśī name: meaning only; no syllables or bījas are given. Bhāskararāya’s grammatical note is that the possessive suffix is added even after a karmadhāraya. The last sentence of the inner layer summarises his statement that the subtle form is one with the gross form. Syllables give dhaḥ, ka after the visarga; check against the agreed convention." }
+}

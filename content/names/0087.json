@@ -1,0 +1,49 @@
+{
+  "number": 87,
+  "verse": 35,
+  "slug": "shakti-kutaikatapanna-katyadhobhaga-dharini",
+  "devanagari": "शक्तिकूटैकतापन्नकट्यधोभागधारिणी",
+  "iastSplit": "Śakti-kūṭaikatāpanna-kaṭyadhobhāga-dhāriṇī",
+  "archana": "ॐ शक्तिकूटैकतापन्नकट्यधोभागधारिण्यै नमः",
+  "syllables": ["śak", "ti", "kū", "ṭai", "ka", "tā", "pan", "na", "kaṭ", "ya", "dho", "bhā", "ga", "dhā", "ri", "ṇī"],
+  "words": [
+    { "sa": "शक्ति", "meaning": { "en": "Śakti, power; here the third section of the mantra", "hi": "शक्ति; यहाँ मन्त्र का तीसरा कूट" } },
+    { "sa": "कूट", "meaning": { "en": "section of the mantra", "hi": "कूट, मन्त्र का खण्ड" } },
+    { "sa": "एकता", "meaning": { "en": "oneness", "hi": "एकता, अभेद" } },
+    { "sa": "आपन्न", "meaning": { "en": "having attained, become", "hi": "प्राप्त" } },
+    { "sa": "कटि", "meaning": { "en": "waist", "hi": "कटि, कमर" } },
+    { "sa": "अधः", "meaning": { "en": "below", "hi": "नीचे" } },
+    { "sa": "भाग", "meaning": { "en": "part", "hi": "भाग" } },
+    { "sa": "धारिणी", "meaning": { "en": "bearing", "hi": "धारण करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Whose body below the waist is one with the Śakti-kūṭa",
+    "hi": "जिनका कटि से नीचे का भाग शक्ति-कूट से एक है"
+  },
+  "explanation": {
+    "en": "The part of her body below the waist has become one with the third section of the Pañcadaśī, the Śakti-kūṭa. Bhāskararāya says it is a group of four syllables, called Śakti because it holds the power of creation.",
+    "hi": "उनके शरीर का कटि से नीचे का भाग पञ्चदशी के तीसरे खण्ड, शक्ति-कूट, से एक हो गया है। भास्करराय बताते हैं कि यह चार अक्षरों का समूह है, और सृष्टि की शक्ति से युक्त होने के कारण ‘शक्ति’ कहलाता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes a verse that explains both of the later sections: the middle one is Kāmarāja because Kāma dwells in her heart, and the last is Śakti because it creates. The lower body is the seat of generation, and so the creative section of the mantra is placed there. With the three sections in place, her whole form is the mantra.",
+    "hi": "भास्करराय एक श्लोक उद्धृत करते हैं जो बाद के दोनों कूटों को समझाता है: मध्य कूट ‘कामराज’ है क्योंकि काम उनके हृदय में बसता है, और अन्तिम कूट ‘शक्ति’ है क्योंकि वह सृष्टि करने वाला है। शरीर का निचला भाग सृजन का स्थान है, इसलिए मन्त्र का सृजनकारी खण्ड वहीं रखा गया है। तीनों कूटों के इस प्रकार स्थापित होने पर उनका सम्पूर्ण रूप ही मन्त्र है।"
+  },
+  "story": {
+    "en": "With this name the mapping is complete: the three sections of the fifteen-syllabled mantra are her face, her body from neck to waist, and her body below the waist. The next two names speak of the mantra as a whole.",
+    "hi": "इस नाम के साथ यह स्थापना पूरी होती है: पन्द्रह अक्षरों वाले मन्त्र के तीन कूट उनका मुख, कण्ठ से कमर तक का शरीर, और कमर से नीचे का शरीर हैं। अगले दो नाम सम्पूर्ण मन्त्र की बात करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "सर्जनशक्तिमत्त्वाच्छक्तिनामकेन कूटेन चतुरक्षरसमूहेनैकतामभेदमापन्नकटेरधोभागं धारयतीति तथा ।",
+    "translation": {
+      "en": "She bears the part below the waist, which has attained ekatā, oneness, non-difference, with the kūṭa named Śakti because it has the power of creation, the group of four syllables.",
+      "hi": "सृष्टि-शक्ति से युक्त होने के कारण ‘शक्ति’ नाम वाले कूट, अर्थात् चार अक्षरों के समूह, से एकता, अर्थात् अभेद, को प्राप्त कटि के निचले भाग को वे धारण करती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 87 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Pañcadaśī name: meaning only; no syllables or bījas are given. The sentence on the lower body as the seat of generation is a reflection. The verse Bhāskararāya quotes (कामस्ते हृदि वसतीति कामराजं…) is unattributed in the commentary." }
+}

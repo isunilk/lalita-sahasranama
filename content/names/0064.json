@@ -1,0 +1,48 @@
+{
+  "number": 64,
+  "verse": 24,
+  "slug": "devarshi-gana-sanghata-stuyamanatma-vaibhava",
+  "devanagari": "देवर्षिगणसङ्घातस्तूयमानात्मवैभवा",
+  "iastSplit": "Devarṣi-gaṇa-saṅghāta-stūyamānātma-vaibhavā",
+  "archana": "ॐ देवर्षिगणसङ्घातस्तूयमानात्मवैभवायै नमः",
+  "syllables": ["de", "var", "ṣi", "ga", "ṇa", "saṅ", "ghā", "tas", "tū", "ya", "mā", "nāt", "ma", "vai", "bha", "vā"],
+  "words": [
+    { "sa": "देव", "meaning": { "en": "gods", "hi": "देवता" } },
+    { "sa": "ऋषि", "meaning": { "en": "sages", "hi": "ऋषि" } },
+    { "sa": "गण", "meaning": { "en": "hosts, the groups of deities", "hi": "गण, देवताओं के समूह" } },
+    { "sa": "सङ्घात", "meaning": { "en": "multitude, great assembly", "hi": "समूह, विशाल समुदाय" } },
+    { "sa": "स्तूयमान", "meaning": { "en": "being praised", "hi": "जिसकी स्तुति की जा रही है" } },
+    { "sa": "आत्मन्", "meaning": { "en": "self, very nature", "hi": "आत्मा, स्वरूप" } },
+    { "sa": "वैभव", "meaning": { "en": "glory, might", "hi": "वैभव, महिमा" } }
+  ],
+  "meaning": {
+    "en": "Whose glory is praised by hosts of gods and sages",
+    "hi": "देवताओं और ऋषियों के समूह जिनकी महिमा का स्तवन करते हैं"
+  },
+  "explanation": {
+    "en": "Gods, sages and the hosts of heaven gather in great numbers to praise her glory. Bhāskararāya lists them: gods such as Brahmā, sages such as Vasiṣṭha, divine sages such as Nārada, and the gaṇas, groups of deities such as the Ādityas, Vasus and Rudras.",
+    "hi": "देवता, ऋषि और देव-गण बड़ी संख्या में एकत्र होकर उनकी महिमा का गान करते हैं। भास्करराय इन्हें गिनाते हैं: ब्रह्मा आदि देवता, वसिष्ठ आदि ऋषि, नारद आदि देवर्षि, और आदित्य, वसु, रुद्र आदि गण-देवता।"
+  },
+  "inner": {
+    "en": "In his inner reading Bhāskararāya hears the Śaiva teaching that consciousness, present in all, known to all and loved by all, is the Self, as the first of the Śiva Sūtras says: “consciousness is the Self”. “Praised” then means “known”, and her glory is the all-pervading might, surrounded by endless powers, of the deity who is one’s own Self. He cites the Tantrarāja: “one’s own Self is said to be the deity, Lalitā, whose body is the universe”.",
+    "hi": "अपने गूढ़ अर्थ में भास्करराय यहाँ शैव शास्त्रों की यह शिक्षा देखते हैं कि जो चेतना सबमें व्याप्त है, सबको परिचित है और सबके प्रेम का आधार है, वही आत्मा है, जैसा शिवसूत्रों का पहला सूत्र कहता है: ‘चैतन्यमात्मा’। तब ‘स्तूयमान’ का अर्थ है ‘जाना जाता हुआ’, और उनका वैभव उस देवता की अनन्त शक्तियों से घिरी व्यापकता है जो अपनी ही आत्मा है। वे तन्त्रराज का वचन उद्धृत करते हैं: ‘अपनी आत्मा ही देवता कही गई है, विश्व-विग्रहा ललिता’।"
+  },
+  "story": {
+    "en": "Bhāskararāya says that from here the hymn, while telling plainly of the deeds of her gross form, begins to describe her secret supreme form in veiled words, and he reads names 64 to 84 both ways. He also links this name to the Lalitopākhyāna: oppressed by Bhaṇḍāsura, the gods praised her and sought her protection, and Nārada told her that Bhaṇḍa troubled the three worlds and only she could conquer him.",
+    "hi": "भास्करराय कहते हैं कि यहाँ से स्तोत्र उनके स्थूल रूप के कार्यों को स्पष्ट कहते हुए ही, गूढ़ शब्दों में उनके रहस्यमय परम रूप का वर्णन आरम्भ करता है; नाम 64 से 84 तक वे दोनों अर्थ देते हैं। वे इस नाम को ललितोपाख्यान से भी जोड़ते हैं: भण्डासुर से पीड़ित देवताओं ने उनकी स्तुति करके शरण माँगी, और नारद ने उनसे कहा कि भण्डासुर तीनों लोकों को सता रहा है और केवल वही उसे जीत सकती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "देवगण ऋषिगणश्च यस्तयोः संघातेन महासमुदायेन स्तूयमान आत्मा स्वरूपं यस्य तादृशं वैभवं यस्याः",
+    "translation": {
+      "en": "She whose glory is such that its ātmā, its very nature, is praised by the saṅghāta, the great assembly, of the host of gods and the host of sages.",
+      "hi": "देव-गण और ऋषि-गण के संघात, अर्थात् विशाल समुदाय, द्वारा जिसके आत्मा, अर्थात् स्वरूप, की स्तुति की जाती है, ऐसा वैभव जिनका है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 64 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s text spells संघात with anusvāra; the verse has सङ्घात (same word). He gives further readings not used here: saṅghāta as a hell from which the praise delivers, and sam-ghāta as the slaying of Bhaṇḍa, for which she is praised. He quotes ‘caitanyam ātmā’ through the Agni Purāṇa, which calls it the first sūtra." }
+}

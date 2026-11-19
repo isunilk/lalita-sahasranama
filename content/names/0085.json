@@ -1,0 +1,48 @@
+{
+  "number": 85,
+  "verse": 34,
+  "slug": "shrimad-vagbhava-kutaika-svarupa-mukha-pankaja",
+  "devanagari": "श्रीमद्वाग्भवकूटैकस्वरूपमुखपङ्कजा",
+  "iastSplit": "Śrīmad-vāgbhava-kūṭaika-svarūpa-mukha-paṅkajā",
+  "archana": "ॐ श्रीमद्वाग्भवकूटैकस्वरूपमुखपङ्कजायै नमः",
+  "syllables": ["śrī", "mad", "vāg", "bha", "va", "kū", "ṭai", "kas", "va", "rū", "pa", "mu", "kha", "paṅ", "ka", "jā"],
+  "words": [
+    { "sa": "श्रीमत्", "meaning": { "en": "glorious", "hi": "श्रीमान्, महिमामय" } },
+    { "sa": "वाग्भव", "meaning": { "en": "Vāgbhava, “source of speech”, the first section of the Pañcadaśī", "hi": "वाग्भव, ‘वाणी का उद्गम’, पञ्चदशी का पहला कूट" } },
+    { "sa": "कूट", "meaning": { "en": "section, a group of syllables of the mantra", "hi": "कूट, मन्त्र के अक्षरों का समूह" } },
+    { "sa": "एक", "meaning": { "en": "one, very, alone", "hi": "एक, एकमात्र" } },
+    { "sa": "स्वरूप", "meaning": { "en": "own form, very form", "hi": "स्वरूप, अपना रूप" } },
+    { "sa": "मुख", "meaning": { "en": "face", "hi": "मुख" } },
+    { "sa": "पङ्कज", "meaning": { "en": "lotus", "hi": "कमल" } }
+  ],
+  "meaning": {
+    "en": "Whose lotus face is the very form of the glorious Vāgbhava-kūṭa",
+    "hi": "जिनका मुखकमल श्रीमान् वाग्भव-कूट का ही स्वरूप है"
+  },
+  "explanation": {
+    "en": "With this name the hymn turns from her deeds to her subtle form, the Pañcadaśī, the fifteen-syllabled mantra of Śrīvidyā, which is arranged in three kūṭas or sections. The first is called Vāgbhava, “that from which speech arises”, and her lotus face is its very form.",
+    "hi": "इस नाम से स्तोत्र उनके कार्यों से हटकर उनके सूक्ष्म रूप की ओर मुड़ता है: पञ्चदशी, श्रीविद्या का पन्द्रह अक्षरों वाला मन्त्र, जो तीन कूटों (खण्डों) में बँटा है। पहला कूट ‘वाग्भव’ कहलाता है, अर्थात् ‘जिससे वाणी उत्पन्न होती है’, और उनका मुखकमल उसी का स्वरूप है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says her subtle form is threefold, subtle, subtler and subtlest: the Pañcadaśī mantra, the kāmakalā letter and Kuṇḍalinī; the first is described in these three names, 85 to 87. The face suits the first section, and he quotes a verse that gives the reason: the face is where speech is born. Śrīmat, “glorious”, he explains as its greatness in bestowing knowledge and the like.",
+    "hi": "भास्करराय कहते हैं कि उनका सूक्ष्म रूप तीन प्रकार का है, सूक्ष्म, सूक्ष्मतर और सूक्ष्मतम: पञ्चदशी मन्त्र, कामकला अक्षर, और कुण्डलिनी; इनमें पहले का वर्णन इन तीन नामों, 85 से 87, में है। प्रथम कूट के लिए मुख उपयुक्त है, और वे एक श्लोक उद्धृत करते हैं जो इसका कारण बताता है: मुख ही वाणी का जन्म-स्थान है। ‘श्रीमत्’ का अर्थ वे ज्ञान-प्रदान आदि की महिमा बताते हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya explains the order of the hymn here. The supreme form of the Devī, which would properly be described after the subtle form, was told first, in names 64 to 84, in veiled words woven into the story of Bhaṇḍa’s slaying; now the subtle form is described as one with her visible form. The hymn names the sections of the mantra but does not spell out their syllables, which are traditionally received from a teacher.",
+    "hi": "भास्करराय यहाँ स्तोत्र के क्रम को समझाते हैं। देवी का परम रूप, जिसका वर्णन सूक्ष्म रूप के बाद होना चाहिए था, नाम 64 से 84 में पहले ही कह दिया गया, गूढ़ शब्दों में भण्डासुर-वध की कथा के साथ गूँथकर; अब सूक्ष्म रूप का वर्णन उनके स्थूल रूप से अभिन्न रूप में होता है। स्तोत्र मन्त्र के कूटों के नाम तो लेता है, पर उनके अक्षर नहीं बताता; वे परम्परा से गुरु से ही प्राप्त किए जाते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "श्रीमज्ज्ञानप्रदायकत्वादिमाहात्म्यशीलं वाग्भवत्यस्मादिति व्युत्पत्त्या वाग्भवनामकं कूटं पञ्चाक्षराणां समुदाय एवैकं मुख्यं स्वं निजं रूपं यस्य तादृशं मुखपङ्कजं यस्याः ।",
+    "translation": {
+      "en": "She whose lotus face has as its one, chief, very own form the kūṭa named Vāgbhava, by the derivation “speech arises from it”, a group of five syllables, glorious (śrīmat) in its greatness of bestowing knowledge and the like.",
+      "hi": "ज्ञान-प्रदान आदि की महिमा से युक्त, ‘इससे वाणी उत्पन्न होती है’ इस व्युत्पत्ति से वाग्भव नाम वाला कूट, अर्थात् पाँच अक्षरों का समूह, ही जिनके मुखकमल का एकमात्र, मुख्य, अपना रूप है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 85 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Pañcadaśī name: meaning only. The sections are named and Bhāskararāya’s syllable count (five) is given as he states it; no syllables or bījas are given. The verse he quotes on the face is unattributed in the commentary and is only paraphrased here." }
+}

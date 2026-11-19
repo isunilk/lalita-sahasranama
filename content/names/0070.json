@@ -1,0 +1,47 @@
+{
+  "number": 70,
+  "verse": 27,
+  "slug": "kiri-chakra-ratharudha-dandanatha-puraskrita",
+  "devanagari": "किरिचक्ररथारूढदण्डनाथापुरस्कृता",
+  "iastSplit": "Kiri-cakra-rathārūḍha-daṇḍanāthā-puraskṛtā",
+  "archana": "ॐ किरिचक्ररथारूढदण्डनाथापुरस्कृतायै नमः",
+  "syllables": ["ki", "ri", "cak", "ra", "ra", "thā", "rū", "ḍha", "daṇ", "ḍa", "nā", "thā", "pu", "ras", "kṛ", "tā"],
+  "words": [
+    { "sa": "किरि", "meaning": { "en": "boar", "hi": "वराह, शूकर" } },
+    { "sa": "चक्र", "meaning": { "en": "wheel", "hi": "चक्र, पहिया" } },
+    { "sa": "रथ", "meaning": { "en": "chariot", "hi": "रथ" } },
+    { "sa": "आरूढ", "meaning": { "en": "mounted", "hi": "आरूढ़, सवार" } },
+    { "sa": "दण्डनाथा", "meaning": { "en": "Daṇḍanāthā, “mistress of the staff”, the goddess Vārāhī", "hi": "दण्डनाथा, ‘दण्ड की स्वामिनी’, वाराही देवी" } },
+    { "sa": "पुरस्कृता", "meaning": { "en": "attended, honoured", "hi": "सेवित, सम्मानित" } }
+  ],
+  "meaning": {
+    "en": "Attended by Daṇḍanāthā, who rides the Kiricakra chariot",
+    "hi": "किरिचक्र रथ पर आरूढ़ दण्डनाथा द्वारा सेवित"
+  },
+  "explanation": {
+    "en": "Kiri means boar. Daṇḍanāthā, the boar-faced goddess Vārāhī, rides the Kiricakra, a chariot whose wheels are shaped like boars or drawn by them, and attends the Devī. Bhāskararāya quotes the Tripurāsiddhānta: she is called Daṇḍanāthā because she always holds the staff (daṇḍa).",
+    "hi": "‘किरि’ का अर्थ है वराह। वराहमुखी देवी वाराही, जिन्हें दण्डनाथा कहते हैं, किरिचक्र रथ पर आरूढ़ होकर देवी की सेवा करती हैं; इस रथ के चक्र वराह के आकार के हैं, या इसे वराह खींचते हैं। भास्करराय त्रिपुरासिद्धान्त का वचन उद्धृत करते हैं: सदा दण्ड धारण करने के कारण वे दण्डनाथा कहलाती हैं।"
+  },
+  "inner": {
+    "en": "In the inner reading, kiri means rays, that is, creations, and by implication preservation and dissolution too; their whole circle is the chariot. Daṇḍanātha is then Yama, lord of death, and the name says that even as she rides amid creation and dissolution, Yama honours her and does not rule her. So too the yogī caught up in these changes is not subject to death’s torments, because his awareness never lapses; he cites the Śiva Sūtra: “even as they go on, there is no falling away, because one remains the knower”.",
+    "hi": "गूढ़ अर्थ में ‘किरि’ का अर्थ है किरणें, अर्थात् सृष्टियाँ, और इनसे स्थिति और लय भी सूचित होते हैं; इन सबका चक्र, अर्थात् समूह, ही रथ है। तब दण्डनाथ यम हैं, और यह नाम कहता है कि सृष्टि और लय के बीच चलते हुए भी यम उनका सम्मान करते हैं, उन्हें अपने अधीन नहीं करते। इसी प्रकार इन परिवर्तनों में पड़ा योगी भी यम-यातना का विषय नहीं होता, क्योंकि उसका अनुसन्धान कभी लुप्त नहीं होता; वे शिवसूत्र उद्धृत करते हैं: ‘उनके चलते रहने पर भी च्युति नहीं होती, क्योंकि वह ज्ञाता-भाव में स्थित रहता है’।"
+  },
+  "story": {
+    "en": "Daṇḍanāthā, also called Daṇḍinī and Vārāhī, is the Devī’s general, and with Mantriṇī one of her two chief attendants; their three chariots go into battle together. In name 76 she slays Bhaṇḍa’s brother Viśukra.",
+    "hi": "दण्डनाथा, जिन्हें दण्डिनी और वाराही भी कहते हैं, देवी की सेनापति हैं, और मन्त्रिणी के साथ उनकी दो प्रमुख सहचरियों में से एक; तीनों रथ एक साथ युद्ध में जाते हैं। नाम 76 में वे भण्ड के भाई विशुक्र का वध करती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "किरिर्वराहः ऽकोलः पोत्री किरिः किटिरिऽत्यमरात् । तदाकृतीनि तदाकृष्टानि वा चक्राणि यस्य तं रथमारूढया दण्डनाथया वाराह्याख्यया देव्या पुरस्कृता सेविता ।",
+    "translation": {
+      "en": "Kiri is a boar, according to the Amarakośa: “kola, potrī, kiri, kiṭi”. Puraskṛtā, served, by Daṇḍanāthā, the goddess called Vārāhī, mounted on the chariot whose wheels have that shape or are drawn by them.",
+      "hi": "अमरकोश के अनुसार ‘किरि’ का अर्थ वराह है: ‘कोलः पोत्री किरिः किटिः’। जिस रथ के चक्र वराह के आकार के हैं या जिसे वराह खींचते हैं, उस पर आरूढ़ वाराही नाम की देवी दण्डनाथा द्वारा पुरस्कृत, अर्थात् सेवित।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 70 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition marks the Amarakośa quotation with ऽ…ऽ; the excerpt keeps it as printed. Bhāskararāya’s न समयातनाविषयः is read as ‘not subject to the torments of Yama’; the printed form may be corrupt. ‘General’ for Daṇḍanāthā follows the usual account of the Lalitopākhyāna; his comment here does not say it." }
+}

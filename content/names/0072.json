@@ -1,0 +1,48 @@
+{
+  "number": 72,
+  "verse": 28,
+  "slug": "bhanda-sainya-vadhodyukta-shakti-vikrama-harshita",
+  "devanagari": "भण्डसैन्यवधोद्युक्तशक्तिविक्रमहर्षिता",
+  "iastSplit": "Bhaṇḍa-sainya-vadhodyukta-śakti-vikrama-harṣitā",
+  "archana": "ॐ भण्डसैन्यवधोद्युक्तशक्तिविक्रमहर्षितायै नमः",
+  "syllables": ["bhaṇ", "ḍa", "sain", "ya", "va", "dhod", "yuk", "ta", "śak", "ti", "vik", "ra", "ma", "har", "ṣi", "tā"],
+  "words": [
+    { "sa": "भण्ड", "meaning": { "en": "Bhaṇḍa, the demon king", "hi": "भण्ड, असुरराज" } },
+    { "sa": "सैन्य", "meaning": { "en": "army", "hi": "सेना" } },
+    { "sa": "वध", "meaning": { "en": "destruction, slaying", "hi": "वध, संहार" } },
+    { "sa": "उद्युक्त", "meaning": { "en": "intent on, ready for", "hi": "उद्यत, तत्पर" } },
+    { "sa": "शक्ति", "meaning": { "en": "the Śaktis, her goddesses", "hi": "शक्तियाँ, देवियाँ" } },
+    { "sa": "विक्रम", "meaning": { "en": "valour; a mighty stride", "hi": "पराक्रम; विशेष डग" } },
+    { "sa": "हर्षिता", "meaning": { "en": "delighted", "hi": "हर्षित, प्रसन्न" } }
+  ],
+  "meaning": {
+    "en": "Delighted by the valour of the Śaktis intent on destroying Bhaṇḍa’s army",
+    "hi": "भण्ड की सेना के संहार में तत्पर शक्तियों के पराक्रम से हर्षित"
+  },
+  "explanation": {
+    "en": "Śaktis such as Nakulī set out to destroy Bhaṇḍa’s fourfold army of chariots, elephants, horses and foot-soldiers, and the Devī rejoices in their valour. From here the hymn tells the war in stages, and several of them end with her delight.",
+    "hi": "नकुली आदि शक्तियाँ भण्ड की चतुरंगिणी सेना, अर्थात् रथ, हाथी, घोड़े और पैदल सैनिकों, के संहार को निकलती हैं, और देवी उनके पराक्रम से प्रसन्न होती हैं। यहाँ से स्तोत्र युद्ध को चरणों में कहता है, और कई चरणों का अन्त देवी के हर्ष से होता है।"
+  },
+  "inner": {
+    "en": "In the inner reading, Bhaṇḍa is the state of the limited self, and his army is the movements of mind that keep duality alive. The Śaktis are movements of non-dual awareness, and their vikrama, their mighty stride, delights her because the veil over her own bliss falls away. Bhāskararāya cites the Śakti Sūtras: not knowing one’s own fivefold act, one is bewildered by one’s own powers, and that is saṃsāra; knowing it, the mind turns within, rises to the state of the knower, and becomes pure consciousness.",
+    "hi": "गूढ़ अर्थ में भण्ड सीमित जीव-भाव है, और उसकी सेना मन की वे वृत्तियाँ हैं जो द्वैत को जीवित रखती हैं। शक्तियाँ अद्वैत-वृत्तियाँ हैं, और उनका ‘विक्रम’, अर्थात् विशेष डग, देवी को इसलिए हर्षित करता है कि उनके अपने आनन्द पर पड़ा आवरण हट जाता है। भास्करराय शक्तिसूत्रों का प्रमाण देते हैं: अपने ही पञ्चकृत्य को न जानने पर जीव अपनी ही शक्तियों से मोहित रहता है, यही संसार है; उसे जान लेने पर चित्त अन्तर्मुख होकर चेतन-पद पर आरूढ़ होता है और चिति बन जाता है।"
+  },
+  "story": {
+    "en": "In the Lalitopākhyāna the war is fought in stages, and the next names follow them: the Nityās (73), Bālā (74), Mantriṇī (75), Vārāhī (76), Mahāgaṇeśa (77–78), and finally the Devī herself (79–82).",
+    "hi": "ललितोपाख्यान में युद्ध चरणों में होता है, और आगे के नाम उन्हीं का अनुसरण करते हैं: नित्या देवियाँ (73), बाला (74), मन्त्रिणी (75), वाराही (76), महागणेश (77–78), और अन्त में स्वयं देवी (79–82)।"
+  },
+  "commentary": {
+    "sanskrit": "भण्डासुरस्य सैन्यस्य चतुरङ्गबलस्य वधे उद्युक्तानां संयतानां शक्तीनां नकुल्यादीनां विक्रमेण पराक्रमेण हर्षिता ।",
+    "translation": {
+      "en": "Delighted by the vikrama, the prowess, of the Śaktis such as Nakulī, who stood ready and disciplined for the destruction of the army, the fourfold host, of Bhaṇḍāsura.",
+      "hi": "भण्डासुर की सेना, अर्थात् चतुरंगिणी सेना, के वध के लिए उद्यत और संयत नकुली आदि शक्तियों के विक्रम, अर्थात् पराक्रम, से हर्षित।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 72 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s तदनुगुणाद्वैतविषयिण्यो is read as तदनुगुणा द्वैतविषयिण्यः (modes of mind directed to duality), since the Śaktis that oppose them are called advaita-vṛttis; check this division. The ‘Śakti Sūtras’ he cites are the sūtras of the Pratyabhijñāhṛdaya (12 and 13); he also names the four powers Khecarī, Gocarī, Dikcarī and Bhūcarī, not used here." }
+}

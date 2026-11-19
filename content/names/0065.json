@@ -1,0 +1,48 @@
+{
+  "number": 65,
+  "verse": 24,
+  "slug": "bhandasura-vadhodyukta-shakti-sena-samanvita",
+  "devanagari": "भण्डासुरवधोद्युक्तशक्तिसेनासमन्विता",
+  "iastSplit": "Bhaṇḍāsura-vadhodyukta-śakti-senā-samanvitā",
+  "archana": "ॐ भण्डासुरवधोद्युक्तशक्तिसेनासमन्वितायै नमः",
+  "syllables": ["bhaṇ", "ḍā", "su", "ra", "va", "dhod", "yuk", "ta", "śak", "ti", "se", "nā", "sa", "man", "vi", "tā"],
+  "words": [
+    { "sa": "भण्ड", "meaning": { "en": "Bhaṇḍa, the demon king", "hi": "भण्ड, असुरराज" } },
+    { "sa": "असुर", "meaning": { "en": "demon", "hi": "असुर, दैत्य" } },
+    { "sa": "वध", "meaning": { "en": "slaying", "hi": "वध, संहार" } },
+    { "sa": "उद्युक्त", "meaning": { "en": "ready, intent on", "hi": "उद्यत, तत्पर" } },
+    { "sa": "शक्ति", "meaning": { "en": "the Śaktis, her goddesses", "hi": "शक्तियाँ, देवियाँ" } },
+    { "sa": "सेना", "meaning": { "en": "army", "hi": "सेना" } },
+    { "sa": "समन्विता", "meaning": { "en": "accompanied by, joined with", "hi": "युक्त, साथ लिए हुए" } }
+  ],
+  "meaning": {
+    "en": "Accompanied by an army of Śaktis bent on slaying Bhaṇḍāsura",
+    "hi": "भण्डासुर के वध को उद्यत शक्तियों की सेना से युक्त"
+  },
+  "explanation": {
+    "en": "She goes to war surrounded by her army of Śaktis, goddesses intent on slaying the demon Bhaṇḍa. Bhāskararāya adds that she is joined with them in perfect battle order, or else one with them: a Gauḍapāda sūtra says that to slay Bhaṇḍāsura the One became many.",
+    "hi": "वे शक्तियों की अपनी सेना के साथ युद्ध को निकलती हैं; ये देवियाँ भण्डासुर के वध के लिए तत्पर हैं। भास्करराय जोड़ते हैं कि वे उनके साथ उचित व्यूह-रचना में हैं, अथवा उनसे अभिन्न हैं: गौडपाद का एक सूत्र कहता है कि भण्डासुर के वध के लिए एक ही देवी अनेक हो गईं।"
+  },
+  "inner": {
+    "en": "In his inner reading, Bhaṇḍa means “shameless”: the embodied one who has fallen into the state of a limited jīva, and the asura that takes its life is bondage, which the Śiva Sūtras call “knowledge is bondage”. The army of Śaktis is the host of powers of the inner effort (udyama) that destroys it, and he cites the sūtra “the upsurge is Bhairava”. As the powers of manhood, hidden in a child, come forth in youth, he says, so the many powers latent in the jīva, hidden by ignorance, all come forth when that effort arises.",
+    "hi": "गूढ़ अर्थ में ‘भण्ड’ का अर्थ है निर्लज्ज: वह देहधारी जो सीमित जीव-भाव में आ गया है; और उसके प्राण हरने वाला ‘असुर’ बन्धन है, जिसे शिवसूत्र ‘ज्ञानं बन्धः’ कहते हैं। शक्तियों की सेना उस आन्तरिक उद्यम की शक्तियों का समूह है जो इस बन्धन का नाश करता है; वे सूत्र उद्धृत करते हैं: ‘उद्यमो भैरवः’, अर्थात् यह उन्मेष ही भैरव है। वे कहते हैं, जैसे बालक में छिपा पौरुष यौवन में प्रकट होता है, वैसे ही जीव में विद्यमान पर अज्ञान से ढकी अनेक शक्तियाँ उद्यम होने पर सब खिल उठती हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya tells Bhaṇḍa’s origin from the Brahmāṇḍa Purāṇa. When Śiva had burned Kāma to ashes, the gaṇa Citrakarmā shaped a figure from the ash; seeing what had happened, Brahmā exclaimed “bhaṇḍ, bhaṇḍ”, and so he was called Bhaṇḍa. Born from the fire of Rudra’s anger, he was fierce by nature and became a demon.",
+    "hi": "भास्करराय ब्रह्माण्ड पुराण से भण्ड की उत्पत्ति बताते हैं। शिव ने जब काम को भस्म कर दिया, तब गणेश्वर चित्रकर्मा ने उस भस्म से एक पुरुष की आकृति बनाई; जो हुआ उसे देखकर ब्रह्मा ने कहा ‘भण्ड, भण्ड’, और इसी से वह भण्ड कहलाया। रुद्र के क्रोधानल से जन्म लेने के कारण वह उग्र स्वभाव का दानव बना।"
+  },
+  "commentary": {
+    "sanskrit": "तस्य दैत्यस्य वधे हनने उद्युक्तानां शक्तीनां स्त्रीदेवतानां सेनाभिः सैन्ये सम्यक् व्यूहनिर्माणेनान्विता युक्ता ।",
+    "translation": {
+      "en": "Accompanied by the armies of the Śaktis, the goddesses ready for the vadha, the slaying, of that demon: joined with them in the host, its battle array well formed.",
+      "hi": "उस दैत्य के वध, अर्थात् संहार, के लिए उद्यत शक्तियों, अर्थात् देवियों, की सेनाओं से युक्त; सेना में भली-भाँति व्यूह-रचना करके उनसे संयुक्त।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 65 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s text prints the half-verse with a space (भण्डासुरवधोद्युक्त शक्तिसेनासमन्विता) but explains one name. ‘Powers of manhood’ renders his पुंस्त्वशक्ति. His reading of asura as ‘that which takes (rāti) the life-breaths (asūn)’ is condensed in the inner layer; check the wording." }
+}

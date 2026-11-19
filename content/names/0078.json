@@ -1,0 +1,47 @@
+{
+  "number": 78,
+  "verse": 31,
+  "slug": "maha-ganesha-nirbhinna-vighna-yantra-praharshita",
+  "devanagari": "महागणेशनिर्भिन्नविघ्नयन्त्रप्रहर्षिता",
+  "iastSplit": "Mahā-gaṇeśa-nirbhinna-vighna-yantra-praharṣitā",
+  "archana": "ॐ महागणेशनिर्भिन्नविघ्नयन्त्रप्रहर्षितायै नमः",
+  "syllables": ["ma", "hā", "ga", "ṇe", "śa", "nir", "bhin", "na", "vigh", "na", "yan", "trap", "ra", "har", "ṣi", "tā"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "गणेश", "meaning": { "en": "Gaṇeśa, Lord of the gaṇas", "hi": "गणेश, गणों के स्वामी" } },
+    { "sa": "निर्भिन्न", "meaning": { "en": "shattered completely", "hi": "पूरी तरह तोड़ा गया" } },
+    { "sa": "विघ्न", "meaning": { "en": "obstacle", "hi": "विघ्न, बाधा" } },
+    { "sa": "यन्त्र", "meaning": { "en": "yantra, a device or diagram of power", "hi": "यन्त्र" } },
+    { "sa": "प्रहर्षिता", "meaning": { "en": "overjoyed", "hi": "अत्यन्त हर्षित" } }
+  ],
+  "meaning": {
+    "en": "Overjoyed when Mahāgaṇeśa shattered the obstacle-yantras",
+    "hi": "महागणेश द्वारा विघ्न-यन्त्रों के तोड़े जाने से अत्यन्त हर्षित"
+  },
+  "explanation": {
+    "en": "Mahāgaṇeśa, born of her glance in the previous name, smashed the yantras of obstruction that bound her army, and the Devī was filled with joy. Bhāskararāya glosses the yantras as restraints made of massed hindrances.",
+    "hi": "पिछले नाम में उनकी दृष्टि से प्रकट हुए महागणेश ने उनकी सेना को बाँधने वाले विघ्न-यन्त्रों को चूर-चूर कर दिया, और देवी अत्यन्त हर्षित हुईं। भास्करराय इन यन्त्रों का अर्थ बताते हैं: बाधाओं के समूह से जकड़ने वाले बन्धन।"
+  },
+  "inner": {
+    "en": "In his comment on the previous name Bhāskararāya maps these two names onto the Śakti Sūtras. The unfolding of the centre (madhya-vikāsa), from which the bliss of consciousness is gained, is meant by Mahāgaṇeśa; the means to that unfolding, such as the dissolving of thought-constructs, is meant by the look at Kāmeśvara’s face; and the Devī’s great joy is the attainment of that bliss.",
+    "hi": "पिछले नाम की व्याख्या में भास्करराय इन दोनों नामों को शक्तिसूत्रों से जोड़ते हैं। ‘मध्य-विकास’, अर्थात् केन्द्र का खिलना, जिससे चिदानन्द की प्राप्ति होती है, यहाँ महागणेश शब्द से अभिप्रेत है; उस विकास का उपाय, जैसे विकल्पों का क्षय, कामेश्वर के मुख की ओर देखने से कहा गया है; और देवी का अत्यन्त हर्ष उसी चिदानन्द की प्राप्ति है।"
+  },
+  "story": {
+    "en": "Bhāskararāya recounts the episode from the Lalitopākhyāna. Viśukra drew a yantra named Jayavighna, “obstacle to victory”, on a slab of stone a gavyūti long, with eight tridents in the eight directions, enclosed by eight deities such as Alasa, “Sloth”, and cast it into the Devī’s army; Mahāgaṇapati ground it to powder. Gaṇeśa is the remover of obstacles, and here he is himself the Devī’s creation, born of her glance.",
+    "hi": "भास्करराय ललितोपाख्यान का प्रसंग बताते हैं। विशुक्र ने एक गव्यूति लम्बी शिला-पट्टिका पर ‘जयविघ्न’ नाम का यन्त्र खींचा, जिसकी आठों दिशाओं में आठ त्रिशूल थे और उन्हें ‘अलस’ (आलस्य) आदि आठ देवता घेरे थे, और उसे देवी की सेना में फेंक दिया; महागणपति ने उसे चूर्ण कर दिया। गणेश विघ्नों के हर्ता हैं, और यहाँ वे स्वयं देवी की दृष्टि से उत्पन्न हैं।"
+  },
+  "commentary": {
+    "sanskrit": "महागणेशेन निःशेषेण भिन्नैर्नाशितैर्विघ्नयन्त्रैः प्रत्यूहसमूहयन्त्रणैः प्रकर्षेण हर्षिता ।",
+    "translation": {
+      "en": "Greatly delighted by the vighna-yantras, the restraints of massed hindrances, being completely shattered, that is, destroyed, by Mahāgaṇeśa.",
+      "hi": "महागणेश द्वारा विघ्न-यन्त्रों, अर्थात् बाधाओं के समूह के बन्धनों, के पूर्णतः तोड़े, अर्थात् नष्ट किए, जाने से प्रकर्ष रूप से हर्षित।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 78 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The inner layer comes from Bhāskararāya’s comment on name 77, where he cites the Pratyabhijñāhṛdaya sūtra ‘madhyavikāsāc cidānandalābhaḥ’ and the one after it; it is placed here because it concerns this name. The closing sentence of the story is a reflection." }
+}

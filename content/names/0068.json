@@ -1,0 +1,48 @@
+{
+  "number": 68,
+  "verse": 26,
+  "slug": "chakra-raja-ratharudha-sarvayudha-parishkrita",
+  "devanagari": "चक्रराजरथारूढसर्वायुधपरिष्कृता",
+  "iastSplit": "Cakra-rāja-rathārūḍha-sarvāyudha-pariṣkṛtā",
+  "archana": "ॐ चक्रराजरथारूढसर्वायुधपरिष्कृतायै नमः",
+  "syllables": ["cak", "ra", "rā", "ja", "ra", "thā", "rū", "ḍha", "sar", "vā", "yu", "dha", "pa", "riṣ", "kṛ", "tā"],
+  "words": [
+    { "sa": "चक्र", "meaning": { "en": "wheel; also cakra, sacred diagram", "hi": "पहिया; चक्र, पवित्र यन्त्र" } },
+    { "sa": "राज", "meaning": { "en": "king", "hi": "राजा, श्रेष्ठ" } },
+    { "sa": "रथ", "meaning": { "en": "chariot", "hi": "रथ" } },
+    { "sa": "आरूढ", "meaning": { "en": "mounted, placed upon", "hi": "आरूढ़, रखा हुआ" } },
+    { "sa": "सर्व", "meaning": { "en": "all", "hi": "सभी" } },
+    { "sa": "आयुध", "meaning": { "en": "weapon", "hi": "आयुध, अस्त्र-शस्त्र" } },
+    { "sa": "परिष्कृता", "meaning": { "en": "adorned, equipped", "hi": "सुसज्जित, अलंकृत" } }
+  ],
+  "meaning": {
+    "en": "Adorned with all the weapons borne on the Cakrarāja chariot",
+    "hi": "चक्रराज रथ पर रखे सभी आयुधों से सुसज्जित"
+  },
+  "explanation": {
+    "en": "Her war chariot is called Cakrarāja, “king of cakras”. Bhāskararāya explains that all her weapons are stored in it, close beside her, and at the time of battle they are her adornment.",
+    "hi": "उनके युद्ध-रथ का नाम चक्रराज है, अर्थात् ‘चक्रों का राजा’। भास्करराय बताते हैं कि उनके सभी आयुध उस रथ में, उनके निकट, भरकर रखे हैं, और युद्ध के समय यही उनका अलंकार हैं।"
+  },
+  "inner": {
+    "en": "In the inner reading, Cakrarāja is the Śrīcakra itself, and the “weapons” on it are all the means to knowledge of the Self: the Śaiva paths called āṇava, śākta and śāmbhava, and the methods of yoga, none of them separate from the Śrīcakra. Or the chariot is the attainment called mastery of the wheel of powers (cakreśatva), and the one weapon that holds all others is knowledge, pure knowledge (śuddhavidyā), in which, as the Gītā says, all action culminates. He cites the Śiva Sūtra: “from the rise of pure knowledge comes mastery of the wheel”.",
+    "hi": "गूढ़ अर्थ में चक्रराज स्वयं श्रीचक्र है, और उस पर रखे ‘आयुध’ आत्मज्ञान के सभी साधन हैं: शैव शास्त्रों के आणव, शाक्त और शाम्भव उपाय तथा योग-शास्त्र की विधियाँ, जिनमें से कोई भी श्रीचक्र से भिन्न नहीं। अथवा रथ ‘चक्रेशत्व’ नामक सिद्धि है, और वह आयुध जिसमें सारे साधन समा जाते हैं, ज्ञान अर्थात् शुद्धविद्या है; गीता भी कहती है कि सारा कर्म ज्ञान में ही पूर्ण होता है। वे शिवसूत्र उद्धृत करते हैं: ‘शुद्धविद्या के उदय से चक्रेशत्व की सिद्धि होती है’।"
+  },
+  "story": {
+    "en": "Bhāskararāya quotes the Lalitopākhyāna on the three chariots of the Devī’s army. The Cakrarāja has nine tiers, is ten yojanas high and four wide, and flies the banner of bliss; Mantriṇī’s Geyacakra has seven tiers and Daṇḍanāthā’s Kiricakra five. Wherever the Cakrarāja went the other two went with it, “like the three worlds set in motion”.",
+    "hi": "भास्करराय ललितोपाख्यान से देवी की सेना के तीन रथों का वर्णन उद्धृत करते हैं। चक्रराज नौ पर्वों (तलों) वाला, दस योजन ऊँचा और चार योजन चौड़ा है, और उस पर आनन्द-ध्वज फहराता है; मन्त्रिणी का गेयचक्र सात पर्वों का है और दण्डनाथा का किरिचक्र पाँच का। जहाँ चक्रराज जाता, वहाँ बाकी दोनों भी साथ जाते, ‘मानो तीनों लोक चल पड़े हों’।"
+  },
+  "commentary": {
+    "sanskrit": "यद्वा चक्रराजं श्रीचक्रमेव रथस्तमारूढानि यानि सर्वायुधानि सर्वाण्यात्मज्ञानसाधनानि तैरित्यादि ।",
+    "translation": {
+      "en": "Or: the Cakrarāja is the Śrīcakra itself; that is the chariot, and all the weapons mounted on it are all the means to knowledge of the Self; adorned with them, and so on.",
+      "hi": "अथवा चक्रराज स्वयं श्रीचक्र ही है, वही रथ है; उस पर आरूढ़ जो सभी आयुध हैं, वे आत्मज्ञान के सभी साधन हैं; उनसे सुसज्जित, इत्यादि।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 68 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The plain sense follows Bhāskararāya’s gloss that the weapons are stored in the chariot beside her; in that sentence the edition’s रथामारूढैः looks like a misprint for रथमारूढैः, so it is not quoted. He also cites a yoga sūtra on the nose-tip; not used." }
+}

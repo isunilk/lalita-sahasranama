@@ -1,0 +1,48 @@
+{
+  "number": 80,
+  "verse": 32,
+  "slug": "karanguli-nakhotpanna-narayana-dashakriti",
+  "devanagari": "कराङ्गुलिनखोत्पन्ननारायणदशाकृतिः",
+  "iastSplit": "Karāṅguli-nakhotpanna-nārāyaṇa-daśākṛtiḥ",
+  "archana": "ॐ कराङ्गुलिनखोत्पन्ननारायणदशाकृत्यै नमः",
+  "syllables": ["ka", "rāṅ", "gu", "li", "na", "khot", "pan", "na", "nā", "rā", "ya", "ṇa", "da", "śā", "kṛ", "tiḥ"],
+  "words": [
+    { "sa": "कर", "meaning": { "en": "hand", "hi": "हाथ" } },
+    { "sa": "अङ्गुलि", "meaning": { "en": "finger", "hi": "अँगुली" } },
+    { "sa": "नख", "meaning": { "en": "nail", "hi": "नख, नाखून" } },
+    { "sa": "उत्पन्न", "meaning": { "en": "born, arisen", "hi": "उत्पन्न" } },
+    { "sa": "नारायण", "meaning": { "en": "Nārāyaṇa, Viṣṇu", "hi": "नारायण, विष्णु" } },
+    { "sa": "दशन्", "meaning": { "en": "ten", "hi": "दस" } },
+    { "sa": "आकृति", "meaning": { "en": "form", "hi": "आकृति, रूप" } }
+  ],
+  "meaning": {
+    "en": "From whose fingernails arose the ten forms of Nārāyaṇa",
+    "hi": "जिनकी अँगुलियों के नखों से नारायण के दस रूप प्रकट हुए"
+  },
+  "explanation": {
+    "en": "From the nails of her ten fingers arose the ten forms of Nārāyaṇa, the ten avatāras of Viṣṇu beginning with Matsya, the Fish. Viṣṇu’s own avatāras thus appear here as her creation.",
+    "hi": "उनकी दसों अँगुलियों के नखों से नारायण के दस रूप, अर्थात् मत्स्य आदि विष्णु के दस अवतार, प्रकट हुए। इस प्रकार विष्णु के अपने अवतार यहाँ उनकी सृष्टि के रूप में आते हैं।"
+  },
+  "inner": {
+    "en": "In the inner reading, the ten are the five states of the individual, beginning with waking, and the five acts of the Lord, beginning with creation: Nārāyaṇa stands for both the individual and the Lord, daśā means state, and kṛti means act. That they arise from a mere fingernail, Bhāskararāya says, shows that they come forth without effort.",
+    "hi": "गूढ़ अर्थ में ये दस हैं: जीव की जाग्रत् आदि पाँच अवस्थाएँ और ईश्वर के सृष्टि आदि पाँच कृत्य; ‘नारायण’ शब्द जीव और ईश्वर दोनों का सूचक है, ‘दशा’ का अर्थ अवस्था है, और ‘कृति’ का अर्थ कृत्य। भास्करराय कहते हैं कि इनका केवल नख से उत्पन्न होना यह दिखाता है कि ये बिना किसी प्रयास के प्रकट होते हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya tells the episode. Bhaṇḍa loosed the Sarvāsura missile, which brought forth all the demons, Somaka, Rāvaṇa, Bali, Hiraṇyākṣa and others, and they joined the battle. Then from her nails, from the right thumb to the left little finger, the Devī brought forth Matsya, Kūrma, Varāha, Narasiṃha, Vāmana, Paraśurāma, Rāma, Balarāma, Kṛṣṇa and Kalki, who slew them and then bowed to Lalitāmbā and stood before her with joined palms.",
+    "hi": "भास्करराय प्रसंग बताते हैं। भण्डासुर ने ‘सर्वासुरास्त्र’ छोड़ा, जिससे सोमक, रावण, बलि, हिरण्याक्ष आदि सब दैत्य उत्पन्न होकर युद्ध करने लगे। तब देवी ने दाहिने हाथ के अँगूठे से लेकर बाएँ हाथ की कनिष्ठिका तक, क्रम से अपने नखों से मत्स्य, कूर्म, वराह, नरसिंह, वामन, परशुराम, राम, बलराम, कृष्ण और कल्कि को प्रकट किया, जिन्होंने उन दैत्यों का संहार किया और फिर ललिताम्बा को प्रणाम करके हाथ जोड़े खड़े रहे।"
+  },
+  "commentary": {
+    "sanskrit": "कराङ्गुल्यो दक्षवामकरद्वयस्याङ्गुल्यो दश तासां नखसन्धिषूत्पन्ना नारायणस्य दशाकृतयो मत्स्यादिदशावतारा यस्याः सा ।",
+    "translation": {
+      "en": "Karāṅgulayaḥ are the ten fingers of her two hands, right and left: she from whose nail-joints arose the ten forms of Nārāyaṇa, the ten avatāras beginning with Matsya.",
+      "hi": "करांगुलियाँ, अर्थात् दाएँ-बाएँ दोनों हाथों की दस अँगुलियाँ; जिनके नखों के सन्धि-स्थानों से नारायण की दस आकृतियाँ, अर्थात् मत्स्य आदि दस अवतार, उत्पन्न हुए।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 80 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Archana कृत्यै kept from the web list: the compound is a feminine bahuvrīhi in -ākṛti, so कृतये would also be grammatical. In the inner reading Bhāskararāya divides daśā-kṛti (states and acts) instead of daśa-ākṛti. Bhārgava, Dāśarathi and Haladhara in his list are given as Paraśurāma, Rāma and Balarāma." }
+}

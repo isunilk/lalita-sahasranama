@@ -1,0 +1,45 @@
+{
+  "number": 89,
+  "verse": 36,
+  "slug": "mula-kuta-traya-kalebara",
+  "devanagari": "मूलकूटत्रयकलेबरा",
+  "iastSplit": "Mūla-kūṭa-traya-kalebarā",
+  "archana": "ॐ मूलकूटत्रयकलेबरायै नमः",
+  "syllables": ["mū", "la", "kū", "ṭat", "ra", "ya", "ka", "le", "ba", "rā"],
+  "words": [
+    { "sa": "मूल", "meaning": { "en": "the root mantra", "hi": "मूलमन्त्र" } },
+    { "sa": "कूट", "meaning": { "en": "section of the mantra", "hi": "कूट, मन्त्र का खण्ड" } },
+    { "sa": "त्रय", "meaning": { "en": "triad, the three", "hi": "त्रय, तीनों" } },
+    { "sa": "कलेबर", "meaning": { "en": "body", "hi": "कलेबर, शरीर" } }
+  ],
+  "meaning": {
+    "en": "Whose body is the three sections of the root mantra",
+    "hi": "मूलमन्त्र के तीनों कूट जिनका शरीर हैं"
+  },
+  "explanation": {
+    "en": "The three kūṭas of the root mantra, as names 85 to 87 described them, make up her body. Bhāskararāya reads kalebara both ways: the three sections are her gross body, or her subtle body.",
+    "hi": "नाम 85 से 87 में बताए गए मूलमन्त्र के तीनों कूट उनका शरीर हैं। भास्करराय ‘कलेबर’ को दोनों प्रकार से पढ़ते हैं: तीनों कूट उनका स्थूल शरीर हैं, अथवा सूक्ष्म शरीर।"
+  },
+  "inner": {
+    "en": "In truth, Bhāskararāya says, mūla in these two names means the kāmakalā letter, a subtler form, and its three parts are known only from the mouth of a teacher. From those three, in order, unfold the three sections of the mantra and the limbs of her visible form, the face and the rest. The subtle and the gross are one form, seen at different depths.",
+    "hi": "भास्करराय कहते हैं कि वास्तव में इन दोनों नामों में ‘मूल’ का अर्थ कामकला अक्षर है, जो सूक्ष्मतर रूप है, और उसके तीन अवयव केवल गुरु-मुख से जाने जाते हैं। उन्हीं तीनों से क्रमशः मन्त्र के तीन कूट और उनके स्थूल रूप के मुख आदि अंग विकसित होते हैं। सूक्ष्म और स्थूल एक ही रूप हैं, जो अलग-अलग गहराई पर देखे जाते हैं।"
+  },
+  "story": {
+    "en": "With this name the account of her subtle form as mantra closes. Bhāskararāya then announces the next theme: having described her form in the cosmos, the hymn now turns to her form within the body, called Kuṇḍalinī.",
+    "hi": "इस नाम के साथ मन्त्र-रूप सूक्ष्म शरीर का वर्णन पूरा होता है। भास्करराय फिर अगले विषय की घोषणा करते हैं: ब्रह्माण्ड में उनके रूप का वर्णन करके स्तोत्र अब पिण्डाण्ड (शरीर) में स्थित उनके रूप की ओर मुड़ता है, जिसे कुण्डलिनी कहते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "मूलस्य कूटत्रयमेवोक्तरीत्या कलेवरं स्थूलरूपं यस्याः, कूटत्रयमेव कलेवरं सूक्ष्मरूपं यस्या इति वा ।",
+    "translation": {
+      "en": "She whose kalevara, gross body, is the triad of kūṭas of the root mantra in the way described; or, whose subtle body is that same triad of kūṭas.",
+      "hi": "बताई गई रीति से मूलमन्त्र के तीनों कूट ही जिनका कलेवर, अर्थात् स्थूल शरीर, हैं; अथवा तीनों कूट ही जिनका सूक्ष्म शरीर हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 89 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Pañcadaśī name: meaning only. Variant spelling: Bhāskararāya’s text reads कलेवरा; the master text and archana have कलेबरा (the same word). He describes the shape of the three parts of the kāmakalā, which he says are learned from a teacher; that description is not reproduced. His following sentence on samaṣṭi and vyaṣṭi (citing a Nātha teaching) is obscure and not used. The last sentence of the inner layer is a reflection." }
+}

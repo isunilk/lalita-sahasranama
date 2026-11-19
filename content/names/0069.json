@@ -1,0 +1,47 @@
+{
+  "number": 69,
+  "verse": 26,
+  "slug": "geya-chakra-ratharudha-mantrini-parisevita",
+  "devanagari": "गेयचक्ररथारूढमन्त्रिणीपरिसेविता",
+  "iastSplit": "Geya-cakra-rathārūḍha-mantriṇī-parisevitā",
+  "archana": "ॐ गेयचक्ररथारूढमन्त्रिणीपरिसेवितायै नमः",
+  "syllables": ["ge", "ya", "cak", "ra", "ra", "thā", "rū", "ḍha", "man", "tri", "ṇī", "pa", "ri", "se", "vi", "tā"],
+  "words": [
+    { "sa": "गेय", "meaning": { "en": "to be sung; celebrated", "hi": "गाने योग्य; प्रसिद्ध" } },
+    { "sa": "चक्र", "meaning": { "en": "wheel", "hi": "चक्र, पहिया" } },
+    { "sa": "रथ", "meaning": { "en": "chariot", "hi": "रथ" } },
+    { "sa": "आरूढ", "meaning": { "en": "mounted", "hi": "आरूढ़, सवार" } },
+    { "sa": "मन्त्रिणी", "meaning": { "en": "Mantriṇī, the Devī’s minister, the goddess Śyāmalā", "hi": "मन्त्रिणी, देवी की मन्त्री, श्यामला देवी" } },
+    { "sa": "परिसेविता", "meaning": { "en": "served on every side", "hi": "चारों ओर से सेवित" } }
+  ],
+  "meaning": {
+    "en": "Attended by Mantriṇī, who rides the Geyacakra chariot",
+    "hi": "गेयचक्र रथ पर आरूढ़ मन्त्रिणी द्वारा सेवित"
+  },
+  "explanation": {
+    "en": "Mantriṇī, the Devī’s minister, also called Śyāmalā, rides the chariot named Geyacakra and serves her on every side. In the passage Bhāskararāya quotes, the chariot is also called Gīticakra, “the wheel of song”.",
+    "hi": "देवी की मन्त्रिणी, जिन्हें श्यामला भी कहते हैं, गेयचक्र नामक रथ पर आरूढ़ होकर चारों ओर से उनकी सेवा करती हैं। भास्करराय जो प्रसंग उद्धृत करते हैं, उसमें इस रथ को ‘गीतिचक्र’, अर्थात् गीत का चक्र, भी कहा गया है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya offers two further readings. The chariot with the celebrated wheel is the orb of the sun, and the mantriṇīs mounted there are the yoginīs who worship the Vidyā. Or the “mounting” is contemplation of one’s oneness with Tripurasundarī, and mantriṇī is the experience of the power of mantra that it brings; he cites the Śiva Sūtra “by contemplation of the great lake comes the experience of the power of mantra”, where the great lake is the supreme Śakti and the power of mantra is awareness of the full “I”.",
+    "hi": "भास्करराय दो और अर्थ देते हैं। जिस रथ का चक्र प्रसिद्ध है, वह सूर्यमण्डल है, और उस पर आरूढ़ ‘मन्त्रिणियाँ’ विद्या की उपासना करने वाली योगिनियाँ हैं। अथवा ‘आरूढ़’ होना त्रिपुरसुन्दरी के साथ अपने अभेद का अनुसन्धान है, और ‘मन्त्रिणी’ उससे होने वाला मन्त्र-वीर्य का अनुभव है; वे शिवसूत्र उद्धृत करते हैं: ‘महाह्रद के अनुसन्धान से मन्त्रवीर्य का अनुभव होता है’, जहाँ महाह्रद परा शक्ति है और मन्त्रवीर्य पूर्ण अहंता का विमर्श।"
+  },
+  "story": {
+    "en": "Mantriṇī is the Devī’s counsellor in the war against Bhaṇḍa, and she later slays Bhaṇḍa’s brother Viṣaṅga (name 75). Her Geyacakra goes wherever the Cakrarāja goes, and Daṇḍanāthā’s Kiricakra goes with it.",
+    "hi": "भण्डासुर के विरुद्ध युद्ध में मन्त्रिणी देवी की सलाहकार हैं, और आगे चलकर वे भण्ड के भाई विषङ्ग का वध करती हैं (नाम 75)। जहाँ चक्रराज जाता है, वहाँ उनका गेयचक्र भी जाता है, और उसके साथ दण्डनाथा का किरिचक्र।"
+  },
+  "commentary": {
+    "sanskrit": "गेयचक्राख्यं रथमारूढया मन्त्रिण्या श्यामलादेव्या परितः सेविता ।",
+    "translation": {
+      "en": "Served on every side by Mantriṇī, the goddess Śyāmalā, mounted on the chariot called Geyacakra.",
+      "hi": "गेयचक्र नामक रथ पर आरूढ़ मन्त्रिणी, अर्थात् श्यामला देवी, द्वारा चारों ओर से सेवित।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 69 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya refers to a joining of mantra-power in the Tantrarāja that is learned only from a teacher; it is not described here. The edition’s text around ‘तेन यो मन्त्रिणीः’ seems disturbed; the reading of mantriṇī as the experience of mantra-power follows the sentence after it." }
+}

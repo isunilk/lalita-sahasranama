@@ -1,0 +1,45 @@
+{
+  "number": 90,
+  "verse": 36,
+  "slug": "kulamritaika-rasika",
+  "devanagari": "कुलामृतैकरसिका",
+  "iastSplit": "Kulāmṛtaika-rasikā",
+  "archana": "ॐ कुलामृतैकरसिकायै नमः",
+  "syllables": ["ku", "lā", "mṛ", "tai", "ka", "ra", "si", "kā"],
+  "words": [
+    { "sa": "कुल", "meaning": { "en": "kula: the triad of knower, known and knowing; also the root centre, and the body", "hi": "कुल: ज्ञाता, ज्ञेय और ज्ञान की त्रिपुटी; मूलाधार चक्र और शरीर भी" } },
+    { "sa": "अमृत", "meaning": { "en": "nectar", "hi": "अमृत" } },
+    { "sa": "एक", "meaning": { "en": "alone, above all", "hi": "एकमात्र, मुख्य रूप से" } },
+    { "sa": "रसिका", "meaning": { "en": "one who delights in tasting", "hi": "रस लेने वाली, आस्वाद में रत" } }
+  ],
+  "meaning": {
+    "en": "Who delights above all in the nectar of kula",
+    "hi": "कुल के अमृत का ही विशेष आस्वाद करने वाली"
+  },
+  "explanation": {
+    "en": "She delights above all in kulāmṛta, the nectar of kula. Bhāskararāya explains kula as a group of things of one kind, above all the triad of knower, known and knowing, which together make up every act of knowledge, as in “I know the pot”.",
+    "hi": "वे मुख्य रूप से ‘कुलामृत’, अर्थात् कुल के अमृत, का रस लेती हैं। भास्करराय बताते हैं कि ‘कुल’ एक जाति की वस्तुओं का समूह है, और विशेष रूप से ज्ञाता, ज्ञेय और ज्ञान की त्रिपुटी, जो मिलकर हर ज्ञान बनाती है, जैसे ‘मैं घड़े को जानता हूँ’।"
+  },
+  "inner": {
+    "en": "With this name the Kuṇḍalinī names begin, and Bhāskararāya gives their sense. Ku is the earth element, and kula is where it dissolves, the root centre (ādhāra cakra), and by extension the path of the suṣumnā; kulāmṛta is then the nectar that flows from the thousand-petalled lotus, or, since the body too is called kula, the nectar belonging to the body. She is the one who savours it.",
+    "hi": "इस नाम से कुण्डलिनी-सम्बन्धी नाम आरम्भ होते हैं, और भास्करराय इनका अर्थ देते हैं। ‘कु’ पृथ्वी तत्त्व है, और ‘कुल’ वह स्थान है जहाँ वह लीन होता है, अर्थात् आधार (मूलाधार) चक्र, और उससे जुड़ा होने के कारण सुषुम्णा-मार्ग भी; तब कुलामृत वह अमृत है जो सहस्रार से झरता है, अथवा, शरीर को भी ‘कुल’ कहते हैं इसलिए, शरीर से सम्बद्ध अमृत। वे उसी का आस्वाद करने वाली हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya introduces these names with a brief picture from the tradition: Kuṇḍalinī lies asleep in the root centre, coiled three and a half times; when awakened, she pierces the six cakras and the knots on the way, reaches the thousand-petalled lotus, and makes nectar flow from the moon at its centre. The names here describe that picture; the practice itself is traditionally learned from a teacher.",
+    "hi": "भास्करराय इन नामों की भूमिका में परम्परा का एक संक्षिप्त चित्र देते हैं: कुण्डलिनी मूलाधार चक्र में साढ़े तीन कुण्डल मारकर सोई रहती है; जागने पर वह छह चक्रों और मार्ग की ग्रन्थियों को भेदती हुई सहस्रार तक पहुँचती है, और उसकी कर्णिका में स्थित चन्द्रमण्डल से अमृत बहाती है। ये नाम उसी चित्र का वर्णन करते हैं; इसकी साधना परम्परा से गुरु से ही सीखी जाती है।"
+  },
+  "commentary": {
+    "sanskrit": "कुः पृथ्वीतत्त्वं लीयते यत्र तत्कुलमाधारचक्रं तत्सम्बन्धाल्लक्षणया सुषुम्णामार्गोऽपि । अतः सहस्रारात्स्रवदमृतं कुलामृतम् ।",
+    "translation": {
+      "en": "Where ku, the earth element, dissolves, that is kula, the ādhāra cakra, and by association, figuratively, the path of the suṣumnā too. Hence the nectar flowing from the sahasrāra is kulāmṛta.",
+      "hi": "‘कु’ अर्थात् पृथ्वी तत्त्व जहाँ लीन होता है, वह ‘कुल’ है, अर्थात् आधार चक्र; और उससे सम्बन्ध के कारण लक्षणा से सुषुम्णा-मार्ग भी। अतः सहस्रार से झरने वाला अमृत ‘कुलामृत’ है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 90 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Kuṇḍalinī name: meaning only, no practice instructions. Bhāskararāya also mentions the thirty-two lotuses of the Svacchandasaṅgraha (the lowest called akula), a Kālī Tantra usage pointing to a further esoteric sense, and that even non-yogīs can follow the process by contemplation; none of these is used." }
+}
