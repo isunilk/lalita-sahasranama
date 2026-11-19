@@ -1,0 +1,45 @@
+{
+  "number": 230,
+  "verse": 56,
+  "slug": "maha-yaga-kramaradhya",
+  "devanagari": "महायागक्रमाराध्या",
+  "iastSplit": "Mahā-yāga-kramārādhyā",
+  "archana": "ॐ महायागक्रमाराध्यायै नमः",
+  "syllables": ["ma", "hā", "yā", "gak", "ra", "mā", "rādh", "yā"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "याग", "meaning": { "en": "sacrifice, worship", "hi": "याग, यज्ञ-पूजा" } },
+    { "sa": "क्रम", "meaning": { "en": "order, method", "hi": "क्रम, विधि" } },
+    { "sa": "आराध्या", "meaning": { "en": "to be worshipped", "hi": "आराधनीया" } }
+  ],
+  "meaning": {
+    "en": "Worshipped through the order of the great sacrifice",
+    "hi": "महायाग के क्रम से आराधित होने वाली"
+  },
+  "explanation": {
+    "en": "Yāga is sacrifice or worship, and krama its proper order. She is to be worshipped by the method of the mahāyāga, the great sacrifice, which Bhāskararāya describes as the worship that includes the sixty-four yoginīs, Akṣobhyā and the others, who are portions of Brāhmī and the other Mothers.",
+    "hi": "‘याग’ का अर्थ है यज्ञ या पूजा, और ‘क्रम’ उसका उचित विधान। उनकी आराधना महायाग, अर्थात् महान यज्ञ, के क्रम से होती है, जिसे भास्करराय वह पूजा बताते हैं जिसमें अक्षोभ्या आदि चौंसठ योगिनियों की भी पूजा होती है, जो ब्राह्मी आदि मातृकाओं के अंश हैं।"
+  },
+  "inner": {
+    "en": "He calls this method the only true krama, since every other way bears fruit only late. In a second reading the great sacrifice is the more secret worship taught in the Bhāvanā Upaniṣad, an inner offering that only one fit for Śiva can accomplish. He has explained it, he says, in his commentary on that Upaniṣad, and does not repeat it here.",
+    "hi": "वे इसी विधि को सच्चा क्रम कहते हैं, क्योंकि अन्य सब मार्ग देर से फल देते हैं। दूसरे अर्थ में महायाग भावनोपनिषद् में बताई गई अधिक रहस्यमयी पूजा है, एक आन्तरिक अर्पण, जिसे केवल शिव-योग्य साधक ही सिद्ध कर सकता है। वे कहते हैं कि उसका विवेचन उन्होंने उस उपनिषद् के भाष्य में किया है, इसलिए यहाँ नहीं दोहराते।"
+  },
+  "story": {
+    "en": "Bhāskararāya quotes the Śāśvata lexicon for krama: power, due order, a step and a row. The sixty-four yoginīs of this worship are counted in name 237, and the next name recalls the great sacrifice through which Lalitā first appeared.",
+    "hi": "भास्करराय ‘क्रम’ के लिए शाश्वत कोश का प्रमाण देते हैं: शक्ति, उचित परिपाटी, पग और पंक्ति। इस पूजा की चौंसठ योगिनियों की गणना नाम 237 में है, और अगला नाम उस महायाग का स्मरण कराता है जिससे ललिता पहली बार प्रकट हुईं।"
+  },
+  "commentary": {
+    "sanskrit": "यद्वा भावनोपनिषदा प्रतिपादितो यागो रहस्यतरः शिवयोग्यैकसाध्यो महायागः ।",
+    "translation": {
+      "en": "Or: the more secret sacrifice taught by the Bhāvanā Upaniṣad, which only one fit for Śiva can accomplish, is the great sacrifice.",
+      "hi": "अथवा, भावनोपनिषद् में प्रतिपादित वह अधिक रहस्यमय याग, जिसे केवल शिव-योग्य ही सिद्ध कर सकता है, महायाग है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 230 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. शिवयोग्यैकसाध्यः is rendered “which only one fit for Śiva can accomplish”; check the sense of शिवयोग्य. The commentary on the Bhāvanā Upaniṣad he mentions is his own (तद्भाष्ये). Calling the Bhāvanā Upaniṣad worship “an inner offering” is a description, not his wording. No rite is described." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 754,
+  "verse": 145,
+  "slug": "aparna",
+  "devanagari": "अपर्णा",
+  "iastSplit": "Aparṇā",
+  "archana": "ॐ अपर्णायै नमः",
+  "syllables": ["a", "par", "ṇā"],
+  "words": [
+    { "sa": "अ", "meaning": { "en": "not, without", "hi": "नहीं, रहित" } },
+    { "sa": "पर्ण", "meaning": { "en": "leaf", "hi": "पत्ता, पर्ण" } }
+  ],
+  "meaning": {
+    "en": "Who gave up even leaves as food; free of all debt",
+    "hi": "जिन्होंने तप में पत्ते तक त्याग दिए; जो ऋण से मुक्त हैं"
+  },
+  "explanation": {
+    "en": "In her austerities Pārvatī, the daughter of Himavat, gave up even leaves as food, and so the gods called her Aparṇā, ‘without even a leaf’. Bhāskararāya’s first reading is different: apa-ṛṇa, she from whom all debt has gone.",
+    "hi": "हिमवान् की पुत्री पार्वती ने अपने तप में पत्तों का आहार भी त्याग दिया; इसलिए देवताओं ने उन्हें ‘अपर्णा’ कहा, अर्थात् जिन्होंने पत्ता तक नहीं लिया। भास्करराय का पहला अर्थ दूसरा है: ‘अप-ऋण’, अर्थात् जिनसे सारा ऋण दूर हो गया है।"
+  },
+  "inner": {
+    "en": "On the first reading she keeps no debt: whatever devotion is offered to her, she repays. In a hymn of his own, the Devīstava, Bhāskararāya turns this into a loving complaint: while I chant your name and my wish is still not granted, how does the name ‘debt-free’ not weigh on you? He also reads parṇa, after the Nirukta, as ‘falling’, so that she is the one who never falls.",
+    "hi": "पहले अर्थ में वे कोई ऋण नहीं रखतीं: जो भक्ति उन्हें अर्पित होती है, उसका वे प्रतिफल देती हैं। अपने ‘देवीस्तव’ में भास्करराय इसे प्रेमभरा उलाहना बना देते हैं: मैं तुम्हारा नाम जपता हूँ और मेरी इच्छा अभी पूरी नहीं हुई, तब ‘अपर्णा’ (ऋणरहित) नाम तुम्हें भारी कैसे नहीं लगता? वे निरुक्त के अनुसार ‘पर्ण’ का अर्थ ‘पतन’ भी लेते हैं, जिससे वे कभी न गिरने वाली हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya quotes the Kālikā Purāṇa: because the daughter of Himavat gave up leaves as food, the gods named her Aparṇā on earth. He finds the same derivation hinted in the Brahma Purāṇa, where Aparṇā is described as taking no food.",
+    "hi": "भास्करराय कालिका पुराण का वचन उद्धृत करते हैं: क्योंकि हिमवान् की पुत्री ने आहार में पत्ते भी त्याग दिए, इसलिए देवताओं ने पृथ्वी पर उन्हें ‘अपर्णा’ कहा। ब्रह्म पुराण में भी, जहाँ अपर्णा को निराहार कहा गया है, वे यही व्युत्पत्ति ध्वनित पाते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "अपगतमृणं यस्याः साऽपर्णा ।",
+    "translation": {
+      "en": "She from whom debt (ṛṇa) has gone away is Aparṇā.",
+      "hi": "जिनसे ऋण दूर हो गया है, वे अपर्णा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 754 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The word list follows the familiar division अ + पर्ण (‘without a leaf’, Bhāskararāya’s third reading); his first derivation is अप + ऋण (‘free of debt’), the one quoted in the commentary field. The paraphrase of his Devīstava verse should be checked." }
+}

@@ -1,0 +1,44 @@
+{
+  "number": 763,
+  "verse": 146,
+  "slug": "trigunatmika",
+  "devanagari": "त्रिगुणात्मिका",
+  "iastSplit": "Triguṇātmikā",
+  "archana": "ॐ त्रिगुणात्मिकायै नमः",
+  "syllables": ["tri", "gu", "ṇāt", "mi", "kā"],
+  "words": [
+    { "sa": "त्रि", "meaning": { "en": "three", "hi": "तीन" } },
+    { "sa": "गुण", "meaning": { "en": "guṇa, strand or quality of nature", "hi": "गुण, प्रकृति का तत्त्व" } },
+    { "sa": "आत्मिका", "meaning": { "en": "whose very nature is", "hi": "जिनका स्वरूप है" } }
+  ],
+  "meaning": {
+    "en": "Whose nature is the three guṇas: sattva, rajas and tamas",
+    "hi": "जिनका स्वरूप सत्त्व, रज और तम, ये तीन गुण हैं"
+  },
+  "explanation": {
+    "en": "The guṇas are the three strands of nature: sattva (clarity), rajas (activity) and tamas (inertia). Everything in the world is woven from them, and she is their very nature. Bhāskararāya describes her form as the three guṇas held in balance.",
+    "hi": "गुण प्रकृति के तीन तन्तु हैं: सत्त्व (प्रकाश और स्पष्टता), रज (गति और क्रिया) और तम (जड़ता)। संसार की हर वस्तु इन्हीं से बुनी है, और वे इनका स्वरूप हैं। भास्करराय उनके स्वरूप को तीनों गुणों की साम्यावस्था बताते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya links this name to the one before: as mother of Brahmā, Viṣṇu and Rudra, she is the three guṇas through which they create, sustain and dissolve. Her form is the guṇas in equilibrium, which is the mark of unmanifest prakṛti. In name 789 she is called Nistraiguṇyā, beyond the three guṇas: she is their ground and is not bound by them.",
+    "hi": "भास्करराय इस नाम को पिछले नाम से जोड़ते हैं: ब्रह्मा, विष्णु और रुद्र की माता होने से वे वही तीन गुण हैं जिनसे सृष्टि, पालन और संहार होते हैं। उनका स्वरूप गुणों की साम्यावस्था है, जो अव्यक्त प्रकृति का लक्षण है। नाम 789 में उन्हें ‘निस्त्रैगुण्या’, तीनों गुणों से परे, कहा गया है: वे गुणों का आधार हैं, उनसे बँधी नहीं।"
+  },
+  "story": {
+    "en": "Bhāskararāya reads names 762 and 763 together: because she is the mother of the three gods, the hymn goes on to call her the nature of the three guṇas. This name closes verse 146.",
+    "hi": "भास्करराय नाम 762 और 763 को साथ पढ़ते हैं: क्योंकि वे तीनों देवों की माता हैं, इसीलिए स्तोत्र आगे उन्हें तीनों गुणों का स्वरूप कहता है। इसी नाम से श्लोक 146 पूरा होता है।"
+  },
+  "commentary": {
+    "sanskrit": "त्रिगुणात्मिका सत्त्वरजस्तमोरूपगुणत्रयसाम्यविग्रहा ।",
+    "translation": {
+      "en": "Triguṇātmikā: whose form is the balance of the three guṇas, sattva, rajas and tamas.",
+      "hi": "त्रिगुणात्मिका: जिनका विग्रह सत्त्व, रज और तम, इन तीन गुणों की साम्यावस्था है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 763 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The link to unmanifest prakṛti glosses Bhāskararāya’s साम्य (equilibrium) with the standard Sāṃkhya definition; he does not spell it out. The contrast with name 789 is a reflection." }
+}

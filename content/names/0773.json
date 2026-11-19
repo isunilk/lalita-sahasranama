@@ -1,0 +1,44 @@
+{
+  "number": 773,
+  "verse": 148,
+  "slug": "patali-kusuma-priya",
+  "devanagari": "पाटलीकुसुमप्रिया",
+  "iastSplit": "Pāṭalī-kusuma-priyā",
+  "archana": "ॐ पाटलीकुसुमप्रियायै नमः",
+  "syllables": ["pā", "ṭa", "lī", "ku", "su", "map", "ri", "yā"],
+  "words": [
+    { "sa": "पाटली", "meaning": { "en": "the pāṭalī tree", "hi": "पाटली (पाडर) वृक्ष" } },
+    { "sa": "कुसुम", "meaning": { "en": "flower", "hi": "कुसुम, फूल" } },
+    { "sa": "प्रिया", "meaning": { "en": "dear", "hi": "प्रिय" } }
+  ],
+  "meaning": {
+    "en": "Who loves the flower of the pāṭalī tree",
+    "hi": "जिन्हें पाटली का फूल प्रिय है"
+  },
+  "explanation": {
+    "en": "Pāṭalī is a flowering tree whose blossoms Bhāskararāya describes as white and red; kusuma is flower and priyā means dear. Its flower is dear to her.",
+    "hi": "‘पाटली’ एक पुष्पवृक्ष है, जिसके फूलों को भास्करराय श्वेत-रक्त वर्ण का बताते हैं; ‘कुसुम’ का अर्थ है फूल और ‘प्रिया’ का अर्थ है प्रिय। यह फूल उन्हें प्रिय है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes the Padma Purāṇa: in the śrī tree, the bilva, dwells the god Śaṅkara, and in the pāṭalā, Pārvatī. The pāṭalī is thus the Devī’s own tree, as the bilva is Śiva’s. He gives no hidden meaning beyond this.",
+    "hi": "भास्करराय पद्म पुराण उद्धृत करते हैं: श्रीवृक्ष, अर्थात् बिल्व, में भगवान शंकर निवास करते हैं और पाटला में पार्वती। इस प्रकार पाटली देवी का अपना वृक्ष है, जैसे बिल्व शिव का। इससे आगे वे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "Verse 148 names two flowers dear to her: the pāṭalī here and the mandāra three names later. Offering a flower she loves is among the simplest forms of her worship.",
+    "hi": "श्लोक 148 में उनके दो प्रिय फूलों के नाम आते हैं: यहाँ पाटली और तीन नाम बाद मन्दार। उन्हें प्रिय फूल अर्पित करना उनकी पूजा के सबसे सरल रूपों में है।"
+  },
+  "commentary": {
+    "sanskrit": "श्वेतरक्तवर्णं पाटलीनामकं कुसुमं प्रियं यस्याः । उक्तञ्च पाद्मे- श्रीवृक्षे शङ्करो देवः पाटलायां तु पार्वतीति ।",
+    "translation": {
+      "en": "To whom the flower called pāṭalī, white and red in colour, is dear. And it is said in the Padma Purāṇa: ‘In the śrī tree is the god Śaṅkara; in the pāṭalā, Pārvatī.’",
+      "hi": "जिन्हें श्वेत-रक्त वर्ण का पाटली नामक फूल प्रिय है। पद्म पुराण में कहा भी है: ‘श्रीवृक्ष में शंकर देव हैं, और पाटला में पार्वती।’"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 773 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. श्रीवृक्ष is glossed as bilva, its usual sense. No botanical identification of pāṭalī is given beyond Bhāskararāya’s description; the Hindi पाडर is the common vernacular name and should be checked." }
+}

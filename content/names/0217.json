@@ -1,0 +1,43 @@
+{
+  "number": 217,
+  "verse": 54,
+  "slug": "maha-shakti",
+  "devanagari": "महाशक्तिः",
+  "iastSplit": "Mahā-śaktiḥ",
+  "archana": "ॐ महाशक्त्यै नमः",
+  "syllables": ["ma", "hā", "śak", "tiḥ"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "शक्ति", "meaning": { "en": "power, capacity; also strength, and a spear", "hi": "शक्ति, सामर्थ्य; बल और भाला भी" } }
+  ],
+  "meaning": {
+    "en": "Whose power is great, vast and manifold",
+    "hi": "जिनकी शक्ति महान, व्यापक और अनेकरूप है"
+  },
+  "explanation": {
+    "en": "Śakti is power, the capacity to act. Hers is great: wide and many-sided, the power that keeps the whole world going. Bhāskararāya adds that śakti also means strength and a weapon, the spear called śakti, and that both senses fit here.",
+    "hi": "शक्ति का अर्थ है सामर्थ्य, कर्म करने की क्षमता। उनकी शक्ति महान है: व्यापक और अनेक प्रकार की, वही शक्ति जो सारे जगत को चलाती है। भास्करराय जोड़ते हैं कि ‘शक्ति’ का अर्थ बल और ‘शक्ति’ नामक भाला भी है, और ये दोनों अर्थ भी यहाँ लागू होते हैं।"
+  },
+  "inner": {
+    "en": "He quotes the Viṣṇu Purāṇa: as the light of a fire burning in one place spreads all around, so this whole world is the power of the supreme Brahman. Near the fire the light is strong and far off it is faint; so too that one power shows more in some beings and less in others.",
+    "hi": "वे विष्णु पुराण का वचन देते हैं: जैसे एक स्थान पर जलती अग्नि का प्रकाश चारों ओर फैल जाता है, वैसे ही यह सारा जगत परब्रह्म की शक्ति है। अग्नि के पास प्रकाश तीव्र होता है और दूर मन्द; वैसे ही वह एक ही शक्ति किसी प्राणी में अधिक और किसी में कम प्रकट होती है।"
+  },
+  "story": {
+    "en": "Name 109, in the Kuṇḍalinī verse, is mahāsakti with a dental s, and Bhāskararāya takes care that the hymn does not repeat itself. Because the Chalākṣara Sūtra and the Paribhāṣā give each of the two names four syllables, and some manuscripts read the dental form there, he treats them as different words, like mahāsanā (229) and mahāśanā (753). Were 109 also read with ś, he says, this name would hide an a in the join with the name before it: a-mahāśakti, “she beside whom no power is great”.",
+    "hi": "नाम 109, कुण्डलिनी वाले श्लोक में, दन्त्य ‘स’ से ‘महासक्ति’ है, और भास्करराय ध्यान रखते हैं कि स्तोत्र में कोई नाम दोहराया न जाए। छलाक्षरसूत्र और परिभाषा दोनों नामों को चार-चार अक्षर का बताते हैं, और कुछ पोथियों में वहाँ दन्त्य रूप मिलता है, इसलिए वे इन्हें महासना (229) और महाशना (753) की तरह अलग शब्द मानते हैं। वे कहते हैं कि यदि 109 को भी तालव्य ‘श’ से पढ़ें, तो यहाँ पिछले नाम की सन्धि में एक ‘अ’ छिपा मानना होगा: ‘अमहाशक्ति’, अर्थात् ‘जिनकी तुलना में कोई शक्ति महान नहीं’।"
+  },
+  "commentary": {
+    "sanskrit": "महती सर्वजगन्निर्वाहकत्वादिरूपा विस्तृता विविधा च शक्तिः सामर्थ्यं यस्याः सा ।",
+    "translation": {
+      "en": "She whose śakti, capacity, is great: vast and manifold, in the form of sustaining the whole world and the rest.",
+      "hi": "जिनकी शक्ति, अर्थात् सामर्थ्य, महान है: सारे जगत के निर्वाह आदि के रूप में, व्यापक और विविध।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 217 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s note on name 109 (महासक्तिः, which he reads with dental स) is summarised in the story: the reading अ-महाशक्ति (an अ hidden after महासत्त्वा, glossed न विद्यते महती शक्तिर्यदपेक्षया) is needed only if 109 were palatal, and on the authority of the Chalākṣara Sūtra and the Paribhāṣā he treats the two names as distinct. Check this summary." }
+}

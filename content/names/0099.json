@@ -1,0 +1,44 @@
+{
+  "number": 99,
+  "verse": 38,
+  "slug": "muladharaika-nilaya",
+  "devanagari": "मूलाधारैकनिलया",
+  "iastSplit": "Mūlādhāraika-nilayā",
+  "archana": "ॐ मूलाधारैकनिलयायै नमः",
+  "syllables": ["mū", "lā", "dhā", "rai", "ka", "ni", "la", "yā"],
+  "words": [
+    { "sa": "मूलाधार", "meaning": { "en": "Mūlādhāra, the ‘root-support’, the lowest cakra", "hi": "मूलाधार, मूल आधार, सबसे नीचे का चक्र" } },
+    { "sa": "एक", "meaning": { "en": "one, sole, chief", "hi": "एकमात्र, मुख्य" } },
+    { "sa": "निलय", "meaning": { "en": "dwelling, abode", "hi": "निवास-स्थान" } }
+  ],
+  "meaning": {
+    "en": "Whose one chief dwelling is the Mūlādhāra",
+    "hi": "जिनका एकमात्र मुख्य निवास मूलाधार है"
+  },
+  "explanation": {
+    "en": "The Mūlādhāra is the four-petalled lotus at the base of the body. Bhāskararāya says that at the bindu in the centre of its pericarp, called the Kulakuṇḍa, Kuṇḍalinī lies always asleep. That is her one, principal dwelling.",
+    "hi": "मूलाधार देह के मूल में स्थित चार दलों वाला कमल है। भास्करराय कहते हैं कि उसकी कर्णिका के मध्य, कुलकुण्ड नामक बिन्दु में, कुण्डलिनी सदा सोई हुई रहती हैं। वही उनका एक, मुख्य निवास है।"
+  },
+  "inner": {
+    "en": "The cakra is called Mūlādhāra, he explains, because it is her support and because it is the root of the suṣumṇā. Before these names he sets out what they describe: Kuṇḍalinī, asleep in three and a half coils in the Mūlādhāra, rises through the six cakras, piercing the knots of Brahmā, Viṣṇu and Rudra, and in the thousand-petalled lotus causes nectar to flow from the moon there. He adds that those who are not yogis accomplish this whole process through bhāvanā, contemplation, alone.",
+    "hi": "वे बताते हैं कि यह चक्र मूलाधार इसलिए कहलाता है कि यह कुण्डलिनी का आधार है और सुषुम्णा का मूल है। इन नामों से पहले भास्करराय बताते हैं कि ये किसका वर्णन करते हैं: मूलाधार में साढ़े तीन कुण्डलों में सोई कुण्डलिनी छह चक्रों से ऊपर उठती हैं, ब्रह्मा, विष्णु और रुद्र की ग्रन्थियों का भेदन करती हैं, और सहस्रदल कमल में वहाँ के चन्द्रमा से अमृत बहाती हैं। वे यह भी जोड़ते हैं कि जो योगी नहीं हैं, वे यह सारी प्रक्रिया केवल भावना द्वारा सम्पन्न करते हैं।"
+  },
+  "story": {
+    "en": "From name 90 Bhāskararāya reads the names as describing Kuṇḍalinī, the Devī’s form within the body, after her form within the cosmos; with this name the account turns to the cakras one by one. Their meaning is given here; the practice is traditionally learned from a teacher.",
+    "hi": "नाम 90 से भास्करराय इन नामों को कुण्डलिनी का वर्णन मानते हैं, जो ब्रह्माण्ड में उनके रूप के बाद पिण्ड (देह) में उनका रूप है; इस नाम से वर्णन एक-एक चक्र की ओर मुड़ता है। यहाँ इन नामों का अर्थ दिया गया है; साधना परम्परा से गुरु से ही सीखी जाती है।"
+  },
+  "commentary": {
+    "sanskrit": "अत-एवैतदाधारत्वात्सुषुम्णामूलत्वाच्च मूलाधार इत्युच्यते । स एवैको मुख्यो निलयो वासस्थानं यस्याः ।",
+    "translation": {
+      "en": "Hence, because it is her support and the root of the suṣumṇā, it is called the Mūlādhāra. She whose one, principal nilaya, dwelling place, is that alone.",
+      "hi": "इसीलिए, कुण्डलिनी का आधार होने से और सुषुम्णा का मूल होने से, यह मूलाधार कहलाता है। वही जिनका एकमात्र मुख्य निलय, अर्थात् निवास-स्थान, है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 99 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Kuṇḍalinī name: meaning only, no practice. The edition prints मुखमाछाद्य (for मुखमाच्छाद्य) in the sentence on the Kulakuṇḍa; that sentence is paraphrased, not quoted. The summary of the ascent comes from his introduction under name 89 (मूलकूटत्रयकलेबरा)." }
+}

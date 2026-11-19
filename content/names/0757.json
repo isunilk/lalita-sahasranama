@@ -1,0 +1,44 @@
+{
+  "number": 757,
+  "verse": 146,
+  "slug": "ksharaksharatmika",
+  "devanagari": "क्षराक्षरात्मिका",
+  "iastSplit": "Kṣarākṣarātmikā",
+  "archana": "ॐ क्षराक्षरात्मिकायै नमः",
+  "syllables": ["kṣa", "rāk", "ṣa", "rāt", "mi", "kā"],
+  "words": [
+    { "sa": "क्षर", "meaning": { "en": "perishable", "hi": "नश्वर" } },
+    { "sa": "अक्षर", "meaning": { "en": "imperishable; also a letter, syllable", "hi": "अविनाशी; वर्ण भी" } },
+    { "sa": "आत्मिका", "meaning": { "en": "whose very nature is", "hi": "जिनका स्वरूप है" } }
+  ],
+  "meaning": {
+    "en": "Whose self is both the perishable and the imperishable",
+    "hi": "नश्वर और अविनाशी, दोनों जिनका स्वरूप हैं"
+  },
+  "explanation": {
+    "en": "Kṣara is what perishes and akṣara what does not; ātmikā means ‘whose very nature is’. Both the changing world and the unchanging reality behind it are her own self. Akṣara also means a letter of the alphabet, and Bhāskararāya reads the name that way too.",
+    "hi": "‘क्षर’ वह है जो नष्ट होता है और ‘अक्षर’ वह जो नष्ट नहीं होता; ‘आत्मिका’ का अर्थ है जिनका स्वरूप यही है। बदलता हुआ जगत् और उसके पीछे का अविकारी सत्य, दोनों उन्हीं का स्वरूप हैं। ‘अक्षर’ का अर्थ वर्ण भी है, और भास्करराय इस नाम को इस अर्थ में भी पढ़ते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya’s first reading takes akṣara as letters: her form is the letters, without fixed number, so that she is both the one syllable and the many. His second reading uses words also found in the Bhagavad Gītā: the perishable is all beings, and the unchanging (kūṭastha) is called the imperishable; both are her self. So the world of change is not set against the changeless: both are the Mother.",
+    "hi": "भास्करराय का पहला अर्थ ‘अक्षर’ को वर्ण के रूप में लेता है: उनका स्वरूप अनियत संख्या वाले वर्ण हैं, इसलिए वे एक अक्षर भी हैं और अनेक अक्षर भी। दूसरा अर्थ उन शब्दों से है जो भगवद्गीता में भी मिलते हैं: क्षर सब प्राणी हैं और कूटस्थ अक्षर कहलाता है; दोनों उनका स्वरूप हैं। इस प्रकार परिवर्तनशील जगत् अविकारी के विरुद्ध नहीं है: दोनों ही माँ हैं।"
+  },
+  "story": {
+    "en": "For the reading by letters he quotes the Varāha Purāṇa: she is famed as Ekākṣarā, the one-syllabled, made of all letters, and in some places she is of measureless syllables. The two names that follow call her the ruler and the upholder of all the worlds.",
+    "hi": "वर्णों वाले अर्थ के लिए वे वराह पुराण उद्धृत करते हैं: वे ‘एकाक्षरा’ नाम से विख्यात हैं, सब वर्णों से बनी हैं, और कहीं अपरिमित अक्षरों वाली हैं। आगे के दो नाम उन्हें सब लोकों की स्वामिनी और विश्व को धारण करने वाली कहते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "क्षरः सर्वाणि भूतानि कूटस्थोऽक्षर उच्यते । तदुभयमात्मा स्वरूपं यस्याः ।",
+    "translation": {
+      "en": "‘The perishable is all beings; the unchanging is called the imperishable.’ Both of these are her self, her own form.",
+      "hi": "‘क्षर सब प्राणी हैं; कूटस्थ अक्षर कहलाता है।’ ये दोनों जिनका आत्मा, अर्थात् स्वरूप, हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 757 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya quotes क्षरः सर्वाणि भूतानि… without naming its source; it is Bhagavad Gītā 15.16. He also cites the Mahābhārata (सदसत्क्षरमक्षरम्) and a Bhāgavata verse on the three Puruṣa forms of Viṣṇu. The last sentence of the inner layer is a reflection." }
+}

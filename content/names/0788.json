@@ -1,0 +1,43 @@
+{
+  "number": 788,
+  "verse": 150,
+  "slug": "jayat-sena",
+  "devanagari": "जयत्सेना",
+  "iastSplit": "Jayat-senā",
+  "archana": "ॐ जयत्सेनायै नमः",
+  "syllables": ["ja", "yat", "se", "nā"],
+  "words": [
+    { "sa": "जयत्", "meaning": { "en": "conquering, victorious", "hi": "विजयी, जीतती हुई" } },
+    { "sa": "सेना", "meaning": { "en": "army", "hi": "सेना" } }
+  ],
+  "meaning": {
+    "en": "Whose army is ever victorious",
+    "hi": "जिनकी सेना सदा विजयी है"
+  },
+  "explanation": {
+    "en": "Jayat means conquering and senā is army. Her army, the host of śaktis, conquers Bhaṇḍāsura and all his allies. Bhāskararāya also reads it as the form of a king named Jayatsena.",
+    "hi": "‘जयत्’ का अर्थ है विजय पाने वाली और ‘सेना’ का अर्थ है सेना। उनकी सेना, अर्थात् शक्तियों का समूह, भण्डासुर और उसके सब साथियों को जीत लेती है। भास्करराय इसे ‘जयत्सेन’ नामक एक राजा के स्वरूप के अर्थ में भी पढ़ते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya calls her army a śakti-samūha, a host of powers, and gives no further hidden meaning. The powers that fight for her are her own, and a devotee’s inner struggle is won by them, not by his strength alone.",
+    "hi": "भास्करराय उनकी सेना को ‘शक्ति-समूह’ कहते हैं, और इससे आगे कोई गूढ़ अर्थ नहीं देते। जो शक्तियाँ उनके लिए लड़ती हैं, वे उन्हीं की हैं, और भक्त का भीतरी संघर्ष भी उन्हीं से जीता जाता है, केवल उसके अपने बल से नहीं।"
+  },
+  "story": {
+    "en": "In the Lalitopākhyāna her army of śaktis, led by Mantriṇī and Daṇḍanāthā, defeats the forces of Bhaṇḍāsura in a long war, whose episodes the earlier names of the hymn recount.",
+    "hi": "ललितोपाख्यान में मन्त्रिणी और दण्डनाथा के नेतृत्व में उनकी शक्ति-सेना एक लम्बे युद्ध में भण्डासुर की सेनाओं को पराजित करती है; स्तोत्र के आरम्भिक नाम उस युद्ध के प्रसंग बताते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "जयन्ती भण्डासुरादिजयिनी सेना शक्तिसमूहो यस्याः । जयत्सेनाख्यराजविशेषस्वरूपा वा ।",
+    "translation": {
+      "en": "Whose senā, army, the host of śaktis, is jayantī, conquering Bhaṇḍāsura and the rest. Or: she is in the form of a particular king named Jayatsena.",
+      "hi": "जिनकी सेना, अर्थात् शक्ति-समूह, भण्डासुर आदि को जीतने वाली है। अथवा वे ‘जयत्सेन’ नामक एक विशेष राजा के स्वरूप वाली हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 788 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya does not identify the king Jayatsena further. The second sentence of the inner layer is a reflection." }
+}

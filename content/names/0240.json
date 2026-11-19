@@ -1,0 +1,45 @@
+{
+  "number": 240,
+  "verse": 59,
+  "slug": "chandra-mandala-madhyaga",
+  "devanagari": "चन्द्रमण्डलमध्यगा",
+  "iastSplit": "Candra-maṇḍala-madhya-gā",
+  "archana": "ॐ चन्द्रमण्डलमध्यगायै नमः",
+  "syllables": ["can", "dra", "maṇ", "ḍa", "la", "madh", "ya", "gā"],
+  "words": [
+    { "sa": "चन्द्र", "meaning": { "en": "moon", "hi": "चन्द्रमा" } },
+    { "sa": "मण्डल", "meaning": { "en": "disc, orb", "hi": "मण्डल" } },
+    { "sa": "मध्य", "meaning": { "en": "centre", "hi": "मध्य" } },
+    { "sa": "गा", "meaning": { "en": "who goes to, abides in", "hi": "जाने वाली, स्थित" } }
+  ],
+  "meaning": {
+    "en": "Who dwells at the centre of the moon’s disc",
+    "hi": "चन्द्रमण्डल के मध्य में विराजमान"
+  },
+  "explanation": {
+    "en": "She abides in, and moves to, the very centre of the orb of the moon. Bhāskararāya gives three reasons: the inner path of the Kuṇḍalinī, the place where she is meditated upon in certain rites, and the oneness of that orb with the Śrīcakra.",
+    "hi": "वे चन्द्रमण्डल के ठीक मध्य में स्थित हैं और वहीं पहुँचती हैं। भास्करराय इसके तीन कारण देते हैं: कुण्डलिनी का आन्तरिक मार्ग, कुछ अनुष्ठानों में उनके ध्यान का स्थान, और उस मण्डल का श्रीचक्र से अभेद।"
+  },
+  "inner": {
+    "en": "As Kuṇḍalinī, he says, she pierces the moon in the pericarp of the thousand-petalled lotus at the crown, and so reaches the centre of the moon’s disc. He quotes the Śiva Purāṇa, where Śiva tells the Devī: “I abide at the head of fire, you at the head of the moon; this universe of fire and moon is presided over by us two.” And he ends with what he calls the secret: the moon’s disc is not different from the Śrīcakra.",
+    "hi": "वे कहते हैं कि कुण्डलिनी के रूप में वे सिर के ऊपर स्थित सहस्रदल कमल की कर्णिका में चन्द्रमा का भेदन करती हैं, और इस प्रकार चन्द्रमण्डल के मध्य तक पहुँचती हैं। वे शिव पुराण का वचन देते हैं, जहाँ शिव देवी से कहते हैं: ‘मैं अग्नि के शिखर पर स्थित हूँ, तुम सोम के शिखर पर; अग्नि और सोम रूपी यह विश्व हम दोनों से अधिष्ठित है।’ और अन्त में वे वह बात कहते हैं जिसे वे रहस्य कहते हैं: चन्द्रमण्डल श्रीचक्र से अभिन्न है।"
+  },
+  "story": {
+    "en": "He also notes that she is meditated upon within the moon’s disc in the evening twilight worship and in rites for long life. A few names on, name 245 calls the Śrīcakra her home.",
+    "hi": "वे यह भी बताते हैं कि सायंकालीन सन्ध्या-वन्दन में और दीर्घायु के अनुष्ठानों में उनका ध्यान चन्द्रमण्डल में किया जाता है। कुछ ही आगे नाम 245 श्रीचक्र को उनका निवास कहता है।"
+  },
+  "commentary": {
+    "sanskrit": "चन्द्रमण्डलं तु श्रीचक्राभिन्नमिति रहस्यम् ।",
+    "translation": {
+      "en": "But the moon’s disc is not different from the Śrīcakra: this is the secret.",
+      "hi": "चन्द्रमण्डल तो श्रीचक्र से अभिन्न है, यही रहस्य है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 240 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Kuṇḍalinī reading is reported as meaning only; no practice is described. The evening sandhyā and the rites for long life are mentioned as Bhāskararāya gives them, without detail." }
+}

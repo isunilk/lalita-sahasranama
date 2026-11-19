@@ -1,0 +1,43 @@
+{
+  "number": 784,
+  "verse": 149,
+  "slug": "prana-rupini",
+  "devanagari": "प्राणरूपिणी",
+  "iastSplit": "Prāṇa-rūpiṇī",
+  "archana": "ॐ प्राणरूपिण्यै नमः",
+  "syllables": ["prā", "ṇa", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "प्राण", "meaning": { "en": "life-breath; in the Upaniṣads also Brahman", "hi": "प्राण; उपनिषदों में ब्रह्म भी" } },
+    { "sa": "रूपिणी", "meaning": { "en": "having the form of", "hi": "रूप वाली" } }
+  ],
+  "meaning": {
+    "en": "Whose form is prāṇa, the life-breath, which is Brahman",
+    "hi": "जिनका स्वरूप प्राण है, जो स्वयं ब्रह्म है"
+  },
+  "explanation": {
+    "en": "Prāṇa is life-breath and rūpiṇī means having that form. She is the breath that moves in every living being. Bhāskararāya takes prāṇa here in its highest sense, as Brahman.",
+    "hi": "‘प्राण’ का अर्थ है जीवन-श्वास और ‘रूपिणी’ का अर्थ है उस रूप वाली। वे वह प्राण हैं जो हर जीवित प्राणी में चलता है। भास्करराय यहाँ ‘प्राण’ को उसके सर्वोच्च अर्थ, ब्रह्म, में लेते हैं।"
+  },
+  "inner": {
+    "en": "Since the Brahma Sūtra has settled that prāṇa in the Upaniṣads can mean Brahman, Prāṇarūpiṇī means ‘whose form is Brahman’; he cites the Upaniṣadic words ‘prāṇa is Brahman, ka is Brahman, kha is Brahman’. He adds a reading from grammar: from the root prā, to fill, prāṇa means ‘full’, so she is the full Brahman of ‘that is full, this is full’. He also refers to the Nityā tantras, which reckon days, months and the rest from the single breath upward, and by that reckoning her nature as prāṇa becomes plain.",
+    "hi": "क्योंकि ब्रह्मसूत्र ने निर्णय किया है कि उपनिषदों में ‘प्राण’ का अर्थ ब्रह्म हो सकता है, इसलिए ‘प्राणरूपिणी’ का अर्थ है ‘जिनका स्वरूप ब्रह्म है’; वे उपनिषद् का वचन देते हैं: ‘प्राण ब्रह्म है, क ब्रह्म है, ख ब्रह्म है।’ व्याकरण से वे एक और अर्थ देते हैं: ‘प्रा’ (भरना) धातु से ‘प्राण’ का अर्थ है पूर्ण, अतः वे ‘पूर्णमदः पूर्णमिदम्’ वाला पूर्ण ब्रह्म हैं। वे नित्या-तन्त्रों का भी उल्लेख करते हैं, जो एक श्वास से आरम्भ करके दिन, मास आदि काल की गणना करते हैं, और इस रीति से ललिता का प्राणस्वरूप होना स्पष्ट होता है।"
+  },
+  "story": {
+    "en": "The words ‘prāṇa is Brahman, ka is Brahman, kha is Brahman’ come from the Chāndogya Upaniṣad, where the sacred fires teach them to the student Upakosala. Ka is joy and kha is space: life, bliss and open space are one reality.",
+    "hi": "‘प्राण ब्रह्म है, क ब्रह्म है, ख ब्रह्म है’ ये शब्द छान्दोग्य उपनिषद् के हैं, जहाँ यज्ञ की अग्नियाँ इन्हें शिष्य उपकोसल को सिखाती हैं। ‘क’ का अर्थ आनन्द है और ‘ख’ का आकाश: जीवन, आनन्द और खुला आकाश एक ही सत्य हैं।"
+  },
+  "commentary": {
+    "sanskrit": "तेन प्राणरूपिणीत्यस्य ब्रह्मरूपेत्यर्थः । प्राणो ब्रह्म कं ब्रह्म खं ब्रह्मेति श्रुतेश्च ।",
+    "translation": {
+      "en": "Therefore the meaning of Prāṇarūpiṇī is ‘whose form is Brahman’; and also because of the Veda: ‘prāṇa is Brahman, ka is Brahman, kha is Brahman’.",
+      "hi": "अतः ‘प्राणरूपिणी’ का अर्थ है ‘ब्रह्मरूपा’; श्रुति के इस वचन से भी: ‘प्राण ब्रह्म है, क ब्रह्म है, ख ब्रह्म है।’"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 784 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya cites प्राणो ब्रह्म कं ब्रह्म खं ब्रह्म only as śruti; its identification as Chāndogya Upaniṣad 4.10.5 (the Upakosala episode) is added here. His Manusmṛti quotation on prāṇa is not used." }
+}

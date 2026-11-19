@@ -1,0 +1,45 @@
+{
+  "number": 756,
+  "verse": 145,
+  "slug": "chanda-mundasura-nishudini",
+  "devanagari": "चण्डमुण्डासुरनिषूदिनी",
+  "iastSplit": "Caṇḍa-muṇḍāsura-niṣūdinī",
+  "archana": "ॐ चण्डमुण्डासुरनिषूदिन्यै नमः",
+  "syllables": ["caṇ", "ḍa", "muṇ", "ḍā", "su", "ra", "ni", "ṣū", "di", "nī"],
+  "words": [
+    { "sa": "चण्ड", "meaning": { "en": "Caṇḍa, an asura; also fierce", "hi": "चण्ड नामक असुर; प्रचण्ड भी" } },
+    { "sa": "मुण्ड", "meaning": { "en": "Muṇḍa, an asura; also a head", "hi": "मुण्ड नामक असुर; सिर भी" } },
+    { "sa": "असुर", "meaning": { "en": "demon", "hi": "असुर, दैत्य" } },
+    { "sa": "निषूदिनी", "meaning": { "en": "she who slays", "hi": "संहार करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Slayer of the demons Caṇḍa and Muṇḍa",
+    "hi": "चण्ड और मुण्ड असुरों का संहार करने वाली"
+  },
+  "explanation": {
+    "en": "Caṇḍa and Muṇḍa were two asuras, and niṣūdinī means she who destroys. She slew them both. Bhāskararāya adds that the name points to her other well-known name, Cāmuṇḍā.",
+    "hi": "चण्ड और मुण्ड दो असुर थे, और ‘निषूदिनी’ का अर्थ है संहार करने वाली। देवी ने दोनों का वध किया। भास्करराय बताते हैं कि यह नाम उनके प्रसिद्ध नाम ‘चामुण्डा’ की ओर संकेत करता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya offers a second reading: caṇḍa can describe the heads (muṇḍa) of the asuras, fierce and red-eyed with rage, so that she slays the demons who have such heads. He hears in this a suggestion of her form as Kālikā, who wears a garland of such heads. The fury that rises against the good is itself cut down by her.",
+    "hi": "भास्करराय दूसरा अर्थ भी देते हैं: ‘चण्ड’ असुरों के उन सिरों (मुण्ड) का विशेषण हो सकता है जो क्रोध से लाल आँखों वाले और प्रचण्ड हैं, अर्थात् देवी ऐसे सिरों वाले असुरों का संहार करती हैं। इसमें वे उनके कालिका रूप की ध्वनि सुनते हैं, जो ऐसे मुण्डों की माला धारण करती हैं। भलाई के विरुद्ध उठने वाला क्रोध स्वयं उनके हाथों कट जाता है।"
+  },
+  "story": {
+    "en": "In the Devī Māhātmya of the Mārkaṇḍeya Purāṇa, Caṇḍa and Muṇḍa serve the demon king Śumbha. The Goddess slays them, and Bhāskararāya quotes the verse in which she is told that, because she has seized Caṇḍa and Muṇḍa and brought them, she will be famed in the world as Cāmuṇḍā.",
+    "hi": "मार्कण्डेय पुराण के देवी माहात्म्य में चण्ड और मुण्ड असुरराज शुम्भ के सेवक हैं। देवी उनका वध करती हैं, और भास्करराय वह श्लोक उद्धृत करते हैं जिसमें देवी से कहा गया है कि चण्ड और मुण्ड को पकड़कर लाने के कारण वे संसार में ‘चामुण्डा’ नाम से विख्यात होंगी।"
+  },
+  "commentary": {
+    "sanskrit": "चण्डश्च मुण्डश्च तौ च तावसुरौ च तौ निषूदयतीति तथा । तेन चामुण्डाख्यं नामास्या एवेति सूचितम् ।",
+    "translation": {
+      "en": "Caṇḍa and Muṇḍa, the two asuras: she destroys them, hence the name. By this it is indicated that the name Cāmuṇḍā is hers.",
+      "hi": "चण्ड और मुण्ड, ये दोनों असुर; उनका संहार करती हैं, इसलिए यह नाम है। इससे सूचित होता है कि ‘चामुण्डा’ नाम भी इन्हीं का है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 756 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Variant: Bhāskararāya (and the Wikisource stotram) read चण्डमुण्डासुरनिषूदनी; the master text and nāmāvali read निषूदिनी, which is followed here. That Caṇḍa and Muṇḍa serve Śumbha is from the Devī Māhātmya, not from the commentary. Bhāskararāya also cites a Varāha Purāṇa account (the slaying of Ruru) bearing on the name Cāmuṇḍā/Carmamuṇḍā, not used here. The last sentence of the inner layer is a reflection." }
+}

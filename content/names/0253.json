@@ -1,0 +1,44 @@
+{
+  "number": 253,
+  "verse": 61,
+  "slug": "vijnana-ghana-rupini",
+  "devanagari": "विज्ञानघनरूपिणी",
+  "iastSplit": "Vijñāna-ghana-rūpiṇī",
+  "archana": "ॐ विज्ञानघनरूपिण्यै नमः",
+  "syllables": ["vij", "ñā", "na", "gha", "na", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "विज्ञान", "meaning": { "en": "consciousness, knowing", "hi": "विज्ञान, चैतन्य" } },
+    { "sa": "घन", "meaning": { "en": "dense, a solid mass", "hi": "घन, सान्द्र" } },
+    { "sa": "रूपिणी", "meaning": { "en": "having the form of", "hi": "रूप वाली" } }
+  ],
+  "meaning": {
+    "en": "Whose form is consciousness, dense and undivided",
+    "hi": "जिनका रूप घनीभूत, अखण्ड चैतन्य है"
+  },
+  "explanation": {
+    "en": "Vijñāna is consciousness, and ghana means dense, a solid mass with no gaps. Her form is consciousness through and through, of one taste everywhere, as a lump of salt is salt through and through.",
+    "hi": "‘विज्ञान’ का अर्थ है चैतन्य, और ‘घन’ का अर्थ है सघन, ऐसा ठोस जिसमें कोई रिक्ति न हो। उनका रूप भीतर-बाहर चैतन्य ही है, सर्वत्र एकरस, जैसे नमक की डली पूरी की पूरी नमक ही होती है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya cites the Upaniṣadic words “a mass of consciousness, arising from these elements”, and notes that vijñānaghana there is explained as consciousness of one single essence. In a second reading vijñāna means the individual souls, as in the Antaryāmi Brāhmaṇa, “who, dwelling in vijñāna, rules it from within”; then her form is their dense totality, Hiraṇyagarbha, who identifies with all souls together. He supports this with the word jīvaghana, “mass of souls”, in another śruti.",
+    "hi": "भास्करराय उपनिषद् के शब्द उद्धृत करते हैं, ‘विज्ञानघन ही इन भूतों से उठकर’, और बताते हैं कि वहाँ ‘विज्ञानघन’ का अर्थ एकरस चैतन्य किया गया है। दूसरे अर्थ में ‘विज्ञान’ जीवों का वाचक है, जैसे अन्तर्यामी-ब्राह्मण में: ‘जो विज्ञान में रहते हुए उसे भीतर से नियन्त्रित करता है’; तब उनका रूप उन सब जीवों का घन अर्थात् समष्टि है, हिरण्यगर्भ, जो सब जीवों के समूह का अभिमानी है। इसके लिए वे एक और श्रुति के ‘जीवघन’ शब्द का प्रमाण देते हैं।"
+  },
+  "story": {
+    "en": "With this name the verse completes its three names for her essence: consciousness, bliss and the dense mass of consciousness. The next verse goes on to name her as meditation, meditator and the object of meditation (name 254).",
+    "hi": "इस नाम के साथ श्लोक उनके सार के तीन नाम पूरे करता है: चेतना, आनन्द और घनीभूत चैतन्य। अगला श्लोक उन्हें ध्यान, ध्याता और ध्येय के रूप में प्रस्तुत करता है (नाम 254)।"
+  },
+  "commentary": {
+    "sanskrit": "विज्ञानं चैतन्यमेव घनं सान्द्रं तदेकरसं रूपमस्याः ।",
+    "translation": {
+      "en": "Vijñāna is consciousness itself; her form is that, ghana, dense, of that single essence.",
+      "hi": "विज्ञान चैतन्य ही है; वही घन, अर्थात् सान्द्र और एकरस, उनका रूप है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 253 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The śruti passages Bhāskararāya cites appear to be Bṛhadāraṇyaka 2.4.12 (विज्ञानघन एवैतेभ्यो भूतेभ्यः समुत्थाय), the Antaryāmi Brāhmaṇa (Bṛhadāraṇyaka 3.7) and Praśna 5.5 (एतस्माज्जीवघनात्); he gives no locations. The salt simile in the explanation comes from the same Upaniṣad, not from the commentary. The edition drops the first letters of समष्ट्यभिमानि (printed ष्ट्यभिमानि)." }
+}

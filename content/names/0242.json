@@ -1,0 +1,43 @@
+{
+  "number": 242,
+  "verse": 59,
+  "slug": "charu-hasa",
+  "devanagari": "चारुहासा",
+  "iastSplit": "Cāru-hāsā",
+  "archana": "ॐ चारुहासायै नमः",
+  "syllables": ["cā", "ru", "hā", "sā"],
+  "words": [
+    { "sa": "चारु", "meaning": { "en": "lovely, graceful", "hi": "सुन्दर, मनोहर" } },
+    { "sa": "हास", "meaning": { "en": "smile, laughter", "hi": "हास, मुस्कान" } }
+  ],
+  "meaning": {
+    "en": "Whose smile is lovely",
+    "hi": "जिनकी मुस्कान मनोहर है"
+  },
+  "explanation": {
+    "en": "Hāsa is a smile or laugh, and hers is lovely. Bhāskararāya recalls the words of a hymn: the moon itself is only a drop of her gentle smile.",
+    "hi": "‘हास’ का अर्थ है मुस्कान या हँसी, और उनकी मुस्कान मनोहर है। भास्करराय एक स्तोत्र के शब्दों का स्मरण कराते हैं: चन्द्रमा भी उनकी मन्द मुस्कान की एक बूँद मात्र है।"
+  },
+  "inner": {
+    "en": "He reports another commentator’s reading, taken in a secondary sense: her smile is a special awakening that gives the highest bliss and is known only from the mouth of the guru. A smile cannot be described, only received, and so it is with that awakening.",
+    "hi": "वे एक अन्य व्याख्याकार का लाक्षणिक अर्थ बताते हैं: उनका हास वह विशेष प्रबोध है जो परम आनन्द देता है और केवल गुरु के मुख से जाना जाता है। मुस्कान का वर्णन नहीं किया जा सकता, उसे केवल पाया जा सकता है; वैसा ही वह प्रबोध है।"
+  },
+  "story": {
+    "en": "The full verse, which he quotes from “the Ācārya” under name 250, calls the sun an atom of her eyes and the moon a drop of her gentle smile. In this half-verse the moon thus appears twice: in her smile and in the digit she wears (name 243).",
+    "hi": "पूरा श्लोक, जिसे वे ‘आचार्य’ के वचन के रूप में नाम 250 पर उद्धृत करते हैं, सूर्य को उनकी आँखों का एक अणु और चन्द्रमा को उनकी मन्द मुस्कान की एक बूँद कहता है। इस प्रकार इस अर्धश्लोक में चन्द्रमा दो बार आता है: उनकी मुस्कान में और उस कला में जिसे वे धारण करती हैं (नाम 243)।"
+  },
+  "commentary": {
+    "sanskrit": "परमानन्दप्रदः प्रबोधविशेषो गुरुमुखैकवेद्यो यस्या इति तु लक्षणया कश्चिदूचे ।",
+    "translation": {
+      "en": "Someone has said, taking the word in a secondary sense, that her hāsa is a special awakening that grants supreme bliss and is known only from the guru’s mouth.",
+      "hi": "किसी ने लक्षणा से कहा है कि उनका हास वह विशेष प्रबोध है जो परम आनन्द देता है और केवल गुरु के मुख से जाना जाता है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 242 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya reports the guru-mukha reading as someone else’s (कश्चिदूचे) without endorsing it. The last sentence of the inner layer is a reflection. The verse तवैव मन्दस्मितबिन्दुरिन्दुः is cited from “the Ācārya” (आचार्यैः); the attribution is not checked." }
+}

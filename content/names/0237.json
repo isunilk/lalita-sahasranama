@@ -1,0 +1,47 @@
+{
+  "number": 237,
+  "verse": 58,
+  "slug": "maha-chatushashti-koti-yogini-gana-sevita",
+  "devanagari": "महाचतुःषष्टिकोटियोगिनीगणसेविता",
+  "iastSplit": "Mahā-catuḥṣaṣṭi-koṭi-yoginī-gaṇa-sevitā",
+  "archana": "ॐ महाचतुःषष्टिकोटियोगिनीगणसेवितायै नमः",
+  "syllables": ["ma", "hā", "ca", "tuḥ", "ṣaṣ", "ṭi", "ko", "ṭi", "yo", "gi", "nī", "ga", "ṇa", "se", "vi", "tā"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "चतुःषष्टि", "meaning": { "en": "sixty-four", "hi": "चौंसठ" } },
+    { "sa": "कोटि", "meaning": { "en": "a crore, ten million", "hi": "कोटि, करोड़" } },
+    { "sa": "योगिनी", "meaning": { "en": "yoginī, an attendant goddess", "hi": "योगिनी, सहचरी देवी" } },
+    { "sa": "गण", "meaning": { "en": "host, troop", "hi": "गण, समूह" } },
+    { "sa": "सेविता", "meaning": { "en": "served, attended", "hi": "सेवित" } }
+  ],
+  "meaning": {
+    "en": "Served by the great hosts of sixty-four crore yoginīs",
+    "hi": "चौंसठ करोड़ योगिनियों के महान गणों से सेवित"
+  },
+  "explanation": {
+    "en": "Yoginīs are goddesses who attend on her. Bhāskararāya counts them: each of the eight Mothers, Brāhmī and the rest, has eight portions, making sixty-four yoginīs, and each of these has her own host of a crore, ten million. She is served by these great hosts.",
+    "hi": "योगिनियाँ वे देवियाँ हैं जो उनकी सेवा में रहती हैं। भास्करराय इनकी गणना करते हैं: ब्राह्मी आदि आठ मातृकाओं में से प्रत्येक के आठ अंश हैं, जिससे चौंसठ योगिनियाँ होती हैं, और इनमें से प्रत्येक का एक करोड़ का अपना गण है। वे इन महान गणों से सेवित हैं।"
+  },
+  "inner": {
+    "en": "He prefers the count of the Tantrarāja: in each of the nine cakras of the Śrīcakra, from the Trailokyamohana inward, there are sixty-four crore yoginīs, so that the total is five hundred and seventy-six crore. “Great”, he says, means multiplied by nine. Every enclosure of her yantra is thronged with her powers, and all of them serve the one at its centre.",
+    "hi": "वे तन्त्रराज की गणना को प्रामाणिक मानते हैं: श्रीचक्र के त्रैलोक्यमोहन से आरम्भ होने वाले नौ चक्रों में से प्रत्येक में चौंसठ करोड़ योगिनियाँ हैं, अतः कुल संख्या पाँच सौ छिहत्तर करोड़ होती है। वे कहते हैं कि ‘महा’ का अर्थ यहाँ नौ गुना होना है। उनके यन्त्र का हर आवरण उनकी शक्तियों से भरा है, और वे सब उसके केन्द्र में विराजमान देवी की सेवा करती हैं।"
+  },
+  "story": {
+    "en": "He gives the total in the old units: five abjas, seven arbudas and six crores. Akṣobhyā, first of the sixty-four, was already named in the great sacrifice of name 230.",
+    "hi": "वे कुल संख्या पुरानी इकाइयों में देते हैं: पाँच अब्ज, सात अर्बुद और छह कोटि। चौंसठ में पहली, अक्षोभ्या, का नाम नाम 230 के महायाग में पहले ही आ चुका है।"
+  },
+  "commentary": {
+    "sanskrit": "नवसु त्रैलोक्यमोहनादिचक्रादिषु प्रतिचक्रं भिन्नाभिन्नाश्चतुःषष्टिकोटिसंख्याका योगिन्यः सन्तीति ताः संहत्य पञ्चाब्जानि सप्तार्बुदानि षट्कोट्यो भवन्ति ।",
+    "translation": {
+      "en": "In each of the nine cakras, beginning with Trailokyamohana, there are yoginīs numbering sixty-four crore, distinct yet not distinct; added together they come to five abjas, seven arbudas and six crores.",
+      "hi": "त्रैलोक्यमोहन आदि नौ चक्रों में से प्रत्येक चक्र में चौंसठ करोड़ संख्या वाली योगिनियाँ हैं, जो भिन्न भी हैं और अभिन्न भी; इन्हें जोड़ने पर पाँच अब्ज, सात अर्बुद और छह कोटि होती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 237 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Tantrarāja verse is printed with a gap (------) in this edition. The total, 576 crore, is 64 crore × 9, as Bhāskararāya says (महत्त्वं च नवगुणितत्वम्); he also allows महा to qualify कोटि. The last sentence of the inner layer is a reflection." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 213,
+  "verse": 54,
+  "slug": "maha-pujya",
+  "devanagari": "महापूज्या",
+  "iastSplit": "Mahā-pūjyā",
+  "archana": "ॐ महापूज्यायै नमः",
+  "syllables": ["ma", "hā", "pūj", "yā"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "पूज्या", "meaning": { "en": "worthy of worship", "hi": "पूजनीया" } }
+  ],
+  "meaning": {
+    "en": "Supremely worthy of worship, adored even by the gods",
+    "hi": "परम पूजनीया, जिनकी पूजा देवता भी करते हैं"
+  },
+  "explanation": {
+    "en": "She is great and worthy of worship. Bhāskararāya draws out the sense: she is worshipped even by those whom the world worships, Śiva and the other gods.",
+    "hi": "वे महान हैं और पूजनीया हैं। भास्करराय इसका भाव स्पष्ट करते हैं: जिन शिव आदि देवताओं को संसार पूजता है, वे भी उन्हीं की पूजा करते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya cites the Padma Purāṇa and the Devī Bhāgavata, which describe the image of the Devī that each class of beings worships: Śiva, Brahmā, Viṣṇu, Kubera, Vāyu, Varuṇa, the planets, even rākṣasas and piśācas, each with an image of a different substance, from gold, silver and crystal to pearl, coral, lead and iron. Whatever its form or material, all worship reaches her.",
+    "hi": "भास्करराय पद्म पुराण और देवी भागवत का उल्लेख करते हैं, जिनमें बताया गया है कि प्रत्येक वर्ग के प्राणी देवी की कौन-सी प्रतिमा पूजते हैं: शिव, ब्रह्मा, विष्णु, कुबेर, वायु, वरुण, ग्रह, यहाँ तक कि राक्षस और पिशाच भी, सब अलग-अलग पदार्थ की प्रतिमा से — सोना, चाँदी और स्फटिक से लेकर मोती, मूँगा, सीसा और लोहा तक। पूजा किसी भी रूप में हो, किसी भी पदार्थ से हो, पहुँचती उन्हीं तक है।"
+  },
+  "story": {
+    "en": "Bhāskararāya adds that among these images Agni, Indra and Sūrya all worship one made of ruby, and that the others are to be matched with their materials in the order given.",
+    "hi": "भास्करराय आगे बताते हैं कि इन प्रतिमाओं में अग्नि, इन्द्र और सूर्य तीनों माणिक्य की प्रतिमा पूजते हैं, और शेष को दिए गए क्रम से उनके पदार्थों के साथ जोड़ना चाहिए।"
+  },
+  "commentary": {
+    "sanskrit": "पूज्यानां शिवादीनामपि पूज्येत्यर्थः ।",
+    "translation": {
+      "en": "The meaning is: she is worshipful even to Śiva and the others, who are themselves worshipped.",
+      "hi": "अर्थ यह है कि जो शिव आदि स्वयं पूज्य हैं, उनकी भी वे पूज्या हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 213 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The list of worshippers and materials is abridged from the Padma Purāṇa and Devī Bhāgavata passage Bhāskararāya summarises; the closing sentence of the inner layer is a reflection." }
+}

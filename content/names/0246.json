@@ -1,0 +1,42 @@
+{
+  "number": 246,
+  "verse": 60,
+  "slug": "parvati",
+  "devanagari": "पार्वती",
+  "iastSplit": "Pārvatī",
+  "archana": "ॐ पार्वत्यै नमः",
+  "syllables": ["pār", "va", "tī"],
+  "words": [
+    { "sa": "पार्वती", "meaning": { "en": "Pārvatī: she of the mountain, daughter of Himavān", "hi": "पार्वती: पर्वत की, पर्वतराज हिमवान की पुत्री" } }
+  ],
+  "meaning": {
+    "en": "Daughter of Himavān, king of mountains",
+    "hi": "पर्वतराज हिमवान की पुत्री"
+  },
+  "explanation": {
+    "en": "Pārvatī means “she of the mountain”. She is born as the daughter of Himavān, the Himālaya, and her name comes from his, parvata, “mountain”.",
+    "hi": "‘पार्वती’ का अर्थ है ‘पर्वत की’। वे हिमालय, अर्थात् हिमवान, की पुत्री के रूप में जन्मी हैं, और उनका यह नाम पिता के नाम ‘पर्वत’ से बना है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives the plain sense, that she is the daughter of the mountain Himavat, and adds only a note of grammar. The Goddess who is the ground of all the tattvas also takes birth in a family, as a daughter, so that she can be loved as one.",
+    "hi": "भास्करराय सीधा अर्थ देते हैं कि वे हिमवान पर्वत की पुत्री हैं, और केवल एक व्याकरण-टिप्पणी जोड़ते हैं। जो देवी सब तत्त्वों का आधार हैं, वही एक परिवार में पुत्री बनकर जन्म लेती हैं, ताकि उन्हें बेटी की तरह भी प्रेम किया जा सके।"
+  },
+  "story": {
+    "en": "In the Purāṇas Satī, after giving up her body at Dakṣa’s sacrifice, is born again as Pārvatī, daughter of Himavān and Menā, and wins Śiva as her husband by austerity. Bhāskararāya’s grammatical note explains the form: the suffix shows simply that she belongs to the mountain, as Rāma can be called Dāśaratha, “of Daśaratha”, in the line “let Maithilī be given to Dāśaratha”.",
+    "hi": "पुराणों में सती दक्ष के यज्ञ में देह त्यागने के बाद हिमवान और मेना की पुत्री पार्वती के रूप में फिर जन्म लेती हैं, और तप से शिव को पति के रूप में पाती हैं। भास्करराय की व्याकरण-टिप्पणी इस रूप को समझाती है: यहाँ प्रत्यय केवल पर्वत से सामान्य सम्बन्ध बताता है, जैसे ‘प्रदीयतां दाशरथाय मैथिली’ में राम को ‘दाशरथ’ कहा गया है।"
+  },
+  "commentary": {
+    "sanskrit": "हिमवत्पर्वतस्य स्त्र्यपत्यत्वात्पार्वती ।",
+    "translation": {
+      "en": "She is Pārvatī because she is the daughter of the mountain Himavat.",
+      "hi": "हिमवान पर्वत की पुत्री होने के कारण वे पार्वती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 246 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The story’s account of Satī’s rebirth and Pārvatī’s austerity is general Purāṇic tradition, not from the commentary. Bhāskararāya’s grammatical note (no इञ् suffix; सम्बन्धसामान्य, as in दाशरथाय) is summarised; check. The last sentence of the inner layer is a reflection." }
+}

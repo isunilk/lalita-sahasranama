@@ -1,0 +1,44 @@
+{
+  "number": 248,
+  "verse": 60,
+  "slug": "padmaraga-sama-prabha",
+  "devanagari": "पद्मरागसमप्रभा",
+  "iastSplit": "Padmarāga-sama-prabhā",
+  "archana": "ॐ पद्मरागसमप्रभायै नमः",
+  "syllables": ["pad", "ma", "rā", "ga", "sa", "map", "ra", "bhā"],
+  "words": [
+    { "sa": "पद्मराग", "meaning": { "en": "ruby (literally “lotus-hued”)", "hi": "पद्मराग, माणिक्य" } },
+    { "sa": "सम", "meaning": { "en": "equal", "hi": "समान" } },
+    { "sa": "प्रभा", "meaning": { "en": "radiance", "hi": "प्रभा, कान्ति" } }
+  ],
+  "meaning": {
+    "en": "Whose radiance is like that of a ruby",
+    "hi": "जिनकी कान्ति माणिक्य के समान है"
+  },
+  "explanation": {
+    "en": "Padmarāga, “lotus-hued”, is the ruby, and her radiance equals its deep red glow. Bhāskararāya also reads the word as the rāga, the redness, of the red lotus, the kokanada.",
+    "hi": "‘पद्मराग’, अर्थात् ‘कमल के रंग वाला’, माणिक्य रत्न है, और उनकी प्रभा उसकी गहरी लाल आभा के समान है। भास्करराय इस शब्द को लाल कमल, कोकनद, की ‘राग’ अर्थात् लालिमा के रूप में भी पढ़ते हैं।"
+  },
+  "inner": {
+    "en": "He adds a third reading. A verse of Kalyāṇācārya prays, “Protect me, O Kuṇḍalinī, copper-red like saffron paste,” and so this name may refer to the nectar-Kuṇḍalinī, whose glow is red.",
+    "hi": "वे एक तीसरा अर्थ भी देते हैं। कल्याणाचार्य का एक श्लोक प्रार्थना करता है: ‘हे कुंकुम-लेप जैसी ताम्रवर्णा कुण्डलिनी, मेरी रक्षा करो’; अतः यह नाम अमृत-कुण्डलिनी की ओर भी संकेत कर सकता है, जिसकी आभा लाल है।"
+  },
+  "story": {
+    "en": "Red is her colour throughout the hymn: the dhyāna verse sees her body as red as vermilion, and Bhāskararāya noted under name 213 that Agni, Indra and Sūrya worship her in an image of ruby.",
+    "hi": "पूरे स्तोत्र में लाल ही उनका रंग है: ध्यान-श्लोक उनके शरीर को सिन्दूर जैसा अरुण देखता है, और नाम 213 पर भास्करराय ने बताया था कि अग्नि, इन्द्र और सूर्य माणिक्य की प्रतिमा में उनकी पूजा करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "पद्मविशेषस्य कोकनदस्य रागेण रक्तिम्ना समेत्यादि वा ।",
+    "translation": {
+      "en": "Or: equal to the rāga, the redness, of the kokanada, a particular kind of lotus, and so on.",
+      "hi": "अथवा, एक विशेष कमल, कोकनद, के राग अर्थात् लालिमा के समान, इत्यादि।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 248 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s first gloss is printed with misprints (पद्मरागाख्यरन्तेनारक्तेन for …रत्नेनारक्तेन, and यस्त्यास्तथा for यस्यास्तथा), so the excerpt quotes his second gloss instead. The Kuṇḍalinī reading is reported as meaning only. The dhyāna-verse reference in the story is editorial." }
+}

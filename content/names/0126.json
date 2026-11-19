@@ -1,0 +1,42 @@
+{
+  "number": 126,
+  "verse": 43,
+  "slug": "shankari",
+  "devanagari": "शाङ्करी",
+  "iastSplit": "Śāṅkarī",
+  "archana": "ॐ शाङ्कर्यै नमः",
+  "syllables": ["śāṅ", "ka", "rī"],
+  "words": [
+    { "sa": "शाङ्करी", "meaning": { "en": "Śāṅkarī: consort of Śaṅkara, the maker of welfare", "hi": "शाङ्करी: शङ्कर (कल्याणकर्ता शिव) की शक्ति" } }
+  ],
+  "meaning": {
+    "en": "Consort of Śaṅkara, the giver of welfare",
+    "hi": "कल्याणकारी शङ्कर की शक्ति"
+  },
+  "explanation": {
+    "en": "Śaṅkara is ‘the maker (kara) of śam, happiness’, or ‘he in whose hand is happiness’, and Śāṅkarī is his consort. Like Śāmbhavī and Śarvāṇī, the name calls her by her bond with Śiva, here as the one who makes all things well.",
+    "hi": "‘शङ्कर’ का अर्थ है ‘शम्, अर्थात् सुख, के कर्ता’, या ‘जिनके हाथ में सुख है’, और शाङ्करी उनकी शक्ति हैं। शाम्भवी और शर्वाणी की तरह यह नाम भी शिव से उनके सम्बन्ध के द्वारा उन्हें पुकारता है, यहाँ उनके रूप में जो सबका कल्याण करते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes the Kālikā Purāṇa, where the Devī herself says: ‘In every creation, at its beginning, middle and end, I will follow Śambhu in a woman’s form, taking a body from Dakṣa; then the gods will praise me, Viṣṇu’s Māyā, Yoganidrā who fills the world, as Śāṅkarī and Rudrāṇī.’ So the name belongs to her as Satī, daughter of Dakṣa and wife of Śiva, and also to the Māyā that pervades the world.",
+    "hi": "भास्करराय कालिका पुराण का वचन देते हैं, जहाँ देवी स्वयं कहती हैं: ‘हर सृष्टि के आदि, मध्य और अन्त में मैं दक्ष से देह पाकर स्त्री-रूप में शम्भु का अनुसरण करूँगी; तब देवता मुझे, विष्णुमाया, जगन्मयी योगनिद्रा को, शाङ्करी और रुद्राणी कहकर स्तुति करेंगे।’ इस प्रकार यह नाम दक्ष-पुत्री और शिव-पत्नी सती के रूप में भी उन्हीं का है, और जगत में व्याप्त माया के रूप में भी।"
+  },
+  "story": {
+    "en": "The Kālikā Purāṇa verse recalls the story of Satī, born as Dakṣa’s daughter to become Śiva’s wife. With Śrīkarī, the next name, it makes a pair: Śāṅkarī is Śiva’s, and Śrīkarī, in one reading, belongs to Viṣṇu.",
+    "hi": "कालिका पुराण का यह वचन सती की कथा का स्मरण कराता है, जो शिव की पत्नी होने के लिए दक्ष की पुत्री बनकर जन्मीं। अगले नाम ‘श्रीकरी’ के साथ इसकी जोड़ी बनती है: शाङ्करी शिव की हैं, और श्रीकरी, एक अर्थ में, विष्णु की।"
+  },
+  "commentary": {
+    "sanskrit": "शं सुखस्य करः । शं करे यस्य स वा शङ्करः तस्य स्त्री शाङ्करी ।",
+    "translation": {
+      "en": "Śaṅkara is the kara, the maker, of śam, happiness; or he in whose kara, hand, is śam. His consort is Śāṅkarī.",
+      "hi": "शम्, अर्थात् सुख, के कर (कर्ता) शङ्कर हैं; अथवा जिनके कर (हाथ) में शम् है, वे शङ्कर हैं। उनकी पत्नी शाङ्करी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 126 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya also gives the grammar of kara (पचाद्यच्, or ट by कृञो हेतुताच्छील्ये…), not repeated here." }
+}

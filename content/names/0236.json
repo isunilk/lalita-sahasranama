@@ -1,0 +1,44 @@
+{
+  "number": 236,
+  "verse": 58,
+  "slug": "chatushashti-kala-mayi",
+  "devanagari": "चतुःषष्टिकलामयी",
+  "iastSplit": "Catuḥṣaṣṭi-kalā-mayī",
+  "archana": "ॐ चतुःषष्टिकलामय्यै नमः",
+  "syllables": ["ca", "tuḥ", "ṣaṣ", "ṭi", "ka", "lā", "ma", "yī"],
+  "words": [
+    { "sa": "चतुःषष्टि", "meaning": { "en": "sixty-four", "hi": "चौंसठ" } },
+    { "sa": "कला", "meaning": { "en": "art, skill; also a tantra", "hi": "कला; तन्त्र भी" } },
+    { "sa": "मयी", "meaning": { "en": "made of, abounding in", "hi": "मयी, से परिपूर्ण" } }
+  ],
+  "meaning": {
+    "en": "Made of the sixty-four arts",
+    "hi": "चौंसठ कलाओं से परिपूर्ण"
+  },
+  "explanation": {
+    "en": "The sixty-four kalās are the classical arts and sciences. Bhāskararāya gives a list drawn from older works: scripts and languages, poetry and drama, the Vedas and Upavedas, music and dance, the training of elephants and horses, the testing of gems and metals, and even theft and making oneself invisible. She abounds in all of them.",
+    "hi": "चौंसठ कलाएँ प्राचीन कलाएँ और विद्याएँ हैं। भास्करराय पुराने ग्रन्थों से इनकी एक सूची देते हैं: लिपियाँ और भाषाएँ, काव्य और नाटक, वेद और उपवेद, संगीत और नृत्य, हाथी और घोड़ों का प्रशिक्षण, रत्नों और धातुओं की परख, यहाँ तक कि चोरी और अदृश्य होने की कला भी। वे इन सबसे परिपूर्ण हैं।"
+  },
+  "inner": {
+    "en": "In a second reading he takes kalā to mean a tantra: the Vāmakeśvara Tantra counts sixty-four tantras, which he says he will examine in his commentary on it. Then the name means that she is the substance of all sixty-four. Every skill and every teaching, worldly or sacred, is one of her rays.",
+    "hi": "दूसरे अर्थ में वे ‘कला’ को तन्त्र के अर्थ में लेते हैं: वामकेश्वर तन्त्र चौंसठ तन्त्र गिनाता है, जिनका विवेचन वे उस ग्रन्थ की अपनी टीका में करने की बात कहते हैं। तब नाम का अर्थ है कि वे इन चौंसठों का सार हैं। लौकिक हो या पवित्र, हर कौशल और हर उपदेश उन्हीं की एक किरण है।"
+  },
+  "story": {
+    "en": "Bhāskararāya notes that Śārṅgadhara’s Kathākośa and Śrīdhara’s Lakṣmīpīṭhikā count the arts differently, and he sums them up in verses of his own, which end by saying the poet Bhāskara drew them out. Name 235 counted sixty-four services offered to her; here the sixty-four arts are her own nature.",
+    "hi": "भास्करराय बताते हैं कि शार्ङ्गधर के कथाकोश और श्रीधर की लक्ष्मीपीठिका में कलाएँ अलग-अलग ढंग से गिनी गई हैं, और वे उन्हें अपने ही रचे श्लोकों में समेटते हैं, जिनके अन्त में कहा गया है कि कवि भास्कर ने इन्हें निकालकर बताया। नाम 235 में उन्हें अर्पित चौंसठ सेवाएँ गिनी गईं; यहाँ चौंसठ कलाएँ उनका अपना स्वरूप हैं।"
+  },
+  "commentary": {
+    "sanskrit": "कलाशब्दस्तन्त्रपरो वा । तान्यपि चतुःषष्टिर्वामकेश्वरतन्त्रे गणितानि ।",
+    "translation": {
+      "en": "Or the word kalā refers to tantras; these too, sixty-four of them, are counted in the Vāmakeśvara Tantra.",
+      "hi": "अथवा ‘कला’ शब्द तन्त्रों के अर्थ में है; वे भी चौंसठ हैं, जो वामकेश्वर तन्त्र में गिनाए गए हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 236 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The list of arts is abridged (its six magical rites are left out). The edition has a bracketed variant सेतुबन्धेऽस्माभिर्विवृतानि beside तट्टीकायामस्माभिर्विवेचयिष्यन्ते; the inner layer follows the unbracketed text. The closing line of the verse list is corrupt in the edition (भास्कर[सुधियो कविनोक्ता); the reading “by the poet Bhāskara” should be checked. The last sentence of the inner layer is a reflection." }
+}

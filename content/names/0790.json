@@ -1,0 +1,43 @@
+{
+  "number": 790,
+  "verse": 150,
+  "slug": "parapara",
+  "devanagari": "परापरा",
+  "iastSplit": "Parāparā",
+  "archana": "ॐ परापरायै नमः",
+  "syllables": ["pa", "rā", "pa", "rā"],
+  "words": [
+    { "sa": "पर", "meaning": { "en": "higher, supreme; also other, far", "hi": "पर, परम; दूसरा, दूर भी" } },
+    { "sa": "अपर", "meaning": { "en": "lower; also one’s own, near", "hi": "अपर, निम्न; अपना, निकट भी" } }
+  ],
+  "meaning": {
+    "en": "Both the supreme and the lower; beyond all, yet near",
+    "hi": "परा भी और अपरा भी; परे भी और निकट भी"
+  },
+  "explanation": {
+    "en": "Para means the higher or supreme and apara the lower or near. She is both: the supreme beyond all, and everything nearer and lower in which the supreme appears. Bhāskararāya also reads the name as parāparā, a third, intermediate state between the two.",
+    "hi": "‘पर’ का अर्थ है उच्च या परम, और ‘अपर’ का अर्थ है निम्न या निकट। वे दोनों हैं: सबसे परे परम सत्ता भी, और वह सब निकट और निम्न भी जिसमें परम प्रकट होता है। भास्करराय इसे तीसरे अर्थ में भी पढ़ते हैं: ‘परापरा’, दोनों के बीच की अवस्था।"
+  },
+  "inner": {
+    "en": "Bhāskararāya lists many such pairs. Brahman is para when pure and apara when joined with qualities; knowledge is higher and lower, as the Muṇḍaka Upaniṣad teaches; speech is parā, and aparā in its three further levels; and among the states of consciousness parā is the fourth, turīya, and aparā the waking, dream and sleep states. He reckons twenty-two meanings in all and says others may be added as they are found.",
+    "hi": "भास्करराय ऐसी अनेक जोड़ियाँ गिनाते हैं। ब्रह्म शुद्ध रूप में पर है और गुणों से युक्त रूप में अपर; विद्या परा और अपरा है, जैसा मुण्डक उपनिषद् सिखाता है; वाणी परा है, और पश्यन्ती आदि तीन भेदों में अपरा; और चेतना की अवस्थाओं में परा तुरीया है तथा अपरा जाग्रत्, स्वप्न और सुषुप्ति। वे कुल बाईस अर्थ गिनते हैं और कहते हैं कि अन्य अर्थ भी जैसे मिलें, जोड़े जा सकते हैं।"
+  },
+  "story": {
+    "en": "Para and apara also mean enemy and friend, far and near; Bhāskararāya recalls the Gītā’s ‘none is hateful to me, none dear’ and ‘it is far, and it is near’. With this name verse 150 ends: she holds both sides of every pair.",
+    "hi": "‘पर’ और ‘अपर’ का अर्थ शत्रु और मित्र, दूर और निकट भी है; भास्करराय गीता के वचन याद दिलाते हैं: ‘न मेरा कोई द्वेष्य है, न प्रिय’ और ‘वह दूर भी है और निकट भी’। इसी नाम से श्लोक 150 पूरा होता है: वे हर जोड़ी के दोनों पक्षों को धारण करती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "परशब्दोऽपरशब्दः परापरशब्दो वा यस्य वाचकस्तत्स्वरूपत्वात्परापरा ।",
+    "translation": {
+      "en": "Since she is the very form of that which the word para, or apara, or parāpara denotes, she is Parāparā.",
+      "hi": "पर शब्द, अपर शब्द, या परापर शब्द जिसका वाचक है, उसका स्वरूप होने से वे परापरा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 790 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya cites the two Gītā lines only as smṛti; their identification (Bhagavad Gītā 9.29 and 13.15) is added here. Of his twenty-two meanings only a few are summarised." }
+}

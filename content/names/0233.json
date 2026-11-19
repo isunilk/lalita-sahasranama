@@ -1,0 +1,44 @@
+{
+  "number": 233,
+  "verse": 57,
+  "slug": "maha-kamesha-mahishi",
+  "devanagari": "महाकामेशमहिषी",
+  "iastSplit": "Mahā-kāmeśa-mahiṣī",
+  "archana": "ॐ महाकामेशमहिष्यै नमः",
+  "syllables": ["ma", "hā", "kā", "me", "śa", "ma", "hi", "ṣī"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "कामेश", "meaning": { "en": "Kāmeśa, the Lord of Desire: Śiva", "hi": "कामेश, कामेश्वर शिव" } },
+    { "sa": "महिषी", "meaning": { "en": "chief queen, anointed with the king", "hi": "पटरानी, अभिषिक्त रानी" } }
+  ],
+  "meaning": {
+    "en": "Anointed queen of Mahākāmeśa, the great Lord of Desire",
+    "hi": "महाकामेश्वर की अभिषिक्त पटरानी"
+  },
+  "explanation": {
+    "en": "Mahiṣī is not just any wife but the chief queen, anointed together with the king. She is the queen of Mahākāmeśa, the great Lord whose name joins kāma, desire, with īśa, lord.",
+    "hi": "‘महिषी’ कोई साधारण पत्नी नहीं, बल्कि राजा के साथ अभिषिक्त पटरानी होती है। वे महाकामेश की महिषी हैं, उन महान प्रभु की जिनके नाम में ‘काम’ अर्थात् इच्छा और ‘ईश’ अर्थात् स्वामी जुड़े हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya calls Kāmeśa the great Kāma, the lord and king, not different from Paramaśiva. Desire here is not craving but the supreme will from which the world unfolds, and she is its consecrated partner, sharing both his throne and his rule.",
+    "hi": "भास्करराय कामेश को महान काम, स्वामी और राजा कहते हैं, जो परमशिव से अभिन्न हैं। यहाँ ‘काम’ तृष्णा नहीं, वह परम संकल्प है जिससे जगत प्रकट होता है; और वे उसकी अभिषिक्त सहधर्मिणी हैं, जो उनके सिंहासन और शासन दोनों में भागीदार हैं।"
+  },
+  "story": {
+    "en": "The hymn has pictured her seated on Kāmeśvara’s lap (name 53) and wearing the marriage thread he tied (name 30). Here the relation is given its royal title: she is not only his beloved but his crowned queen.",
+    "hi": "स्तोत्र पहले उन्हें कामेश्वर की गोद में विराजमान (नाम 53) और उनके बाँधे मंगलसूत्र से शोभित (नाम 30) दिखा चुका है। यहाँ इस सम्बन्ध को राजकीय पदवी मिलती है: वे केवल उनकी प्रिया नहीं, उनकी अभिषिक्त महारानी हैं।"
+  },
+  "commentary": {
+    "sanskrit": "महतः कामस्य परमशिवाभिन्नस्येशस्य भूपस्य महिषी कृताभिषेका पत्नी ।",
+    "translation": {
+      "en": "The mahiṣī, the anointed wife, of the great Kāma, the lord and king who is not different from Paramaśiva.",
+      "hi": "महान काम की, जो परमशिव से अभिन्न स्वामी और राजा हैं, महिषी अर्थात् अभिषिक्त पत्नी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 233 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The second sentence of the inner layer is a reflection; the cross-references to names 30 and 53 are editorial." }
+}

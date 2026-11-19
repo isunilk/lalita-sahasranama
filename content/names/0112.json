@@ -1,0 +1,42 @@
+{
+  "number": 112,
+  "verse": 41,
+  "slug": "bhavani",
+  "devanagari": "भवानी",
+  "iastSplit": "Bhavānī",
+  "archana": "ॐ भवान्यै नमः",
+  "syllables": ["bha", "vā", "nī"],
+  "words": [
+    { "sa": "भवानी", "meaning": { "en": "Bhavānī: consort of Bhava (Śiva); she who gives life", "hi": "भवानी: भव (शिव) की पत्नी; जीवन देने वाली" } }
+  ],
+  "meaning": {
+    "en": "Consort of Bhava, who gives life to the world",
+    "hi": "भव (शिव) की शक्ति, जो जगत को जीवन देती हैं"
+  },
+  "explanation": {
+    "en": "Bhava is a name of Śiva, and Bhavānī is his consort. Bhāskararāya also derives the name as ‘she who gives life to Bhava’, quoting the Devī Purāṇa: Bhava is Rudra, Bhava is Kāma, Bhava is the ocean of saṃsāra, and because she gives them life she is called Bhavānī.",
+    "hi": "‘भव’ शिव का नाम है, और भवानी उनकी शक्ति हैं। भास्करराय इस नाम को ‘भव को जीवन देने वाली’ के अर्थ में भी समझाते हैं, और देवी पुराण का वचन देते हैं: भव रुद्र हैं, भव काम है, भव संसार-सागर है; इन्हें प्राण देने के कारण देवी भवानी कहलाती हैं।"
+  },
+  "inner": {
+    "en": "In the Purāṇic teaching of Śiva’s eight forms, Bhava is his form as water, the life of beings; the Liṅga and Vāyu Purāṇas, which Bhāskararāya quotes, name his wife Uṣā and his son Śukra. So Bhavānī also brings bhava, the water that is life itself. Bhāskararāya says that with this name the hymn completes its description of five forms of the Devī and now turns to the means of reaching her.",
+    "hi": "शिव की आठ मूर्तियों के पौराणिक सिद्धान्त में ‘भव’ उनकी जल-मूर्ति है, जो प्राणियों का जीवन है; भास्करराय द्वारा उद्धृत लिङ्ग और वायु पुराण उनकी पत्नी का नाम उषा और पुत्र का नाम शुक्र बताते हैं। इस प्रकार भवानी ‘भव’, अर्थात् जीवन-रूपी जल, को भी लाने वाली हैं। भास्करराय कहते हैं कि इस नाम के साथ स्तोत्र देवी के पाँच रूपों का वर्णन पूरा करता है, और अब उन्हें पाने के उपाय की ओर मुड़ता है।"
+  },
+  "story": {
+    "en": "Bhavānī is among the most widely used names of the Goddess. From the Padma Purāṇa’s list of a hundred and eight shrines of the Devī, Bhāskararāya notes that she presides as Bhavānī at Sthāneśvara.",
+    "hi": "‘भवानी’ देवी के सबसे प्रचलित नामों में से है। पद्म पुराण की देवी के एक सौ आठ तीर्थों की सूची से भास्करराय बताते हैं कि स्थानेश्वर में वे भवानी नाम से अधिष्ठात्री देवी हैं।"
+  },
+  "commentary": {
+    "sanskrit": "भवं महादेवं संसारं कामं वा आनयति जीवयतीति भवानी ।",
+    "translation": {
+      "en": "She gives life (ānayati, that is, jīvayati) to Bhava: to Mahādeva, to saṃsāra, or to Kāma; hence Bhavānī.",
+      "hi": "वे भव को, अर्थात् महादेव, संसार या काम को, ‘आनयति’, अर्थात् जीवन देती हैं; इसलिए भवानी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 112 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Naming Bhava and Śarva as two of Śiva’s eight forms (aṣṭamūrti) is the standard Purāṇic scheme; Bhāskararāya quotes the Liṅga and Vāyu Purāṇas for Bhava as water without naming the scheme. He also gives the grammar (ङीप् with the augment आनुक्), not repeated here. The ‘five forms’ are his phrase (रूपपञ्चकं निर्वर्ण्य); they are not listed here." }
+}

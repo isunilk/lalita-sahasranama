@@ -1,0 +1,45 @@
+{
+  "number": 249,
+  "verse": 61,
+  "slug": "pancha-pretasanasina",
+  "devanagari": "पञ्चप्रेतासनासीना",
+  "iastSplit": "Pañca-pretāsanāsīnā",
+  "archana": "ॐ पञ्चप्रेतासनासीनायै नमः",
+  "syllables": ["pañ", "cap", "re", "tā", "sa", "nā", "sī", "nā"],
+  "words": [
+    { "sa": "पञ्च", "meaning": { "en": "five", "hi": "पाँच" } },
+    { "sa": "प्रेत", "meaning": { "en": "a lifeless body", "hi": "प्रेत, निष्प्राण शरीर" } },
+    { "sa": "आसन", "meaning": { "en": "seat", "hi": "आसन" } },
+    { "sa": "आसीना", "meaning": { "en": "seated", "hi": "विराजमान" } }
+  ],
+  "meaning": {
+    "en": "Seated on a seat made of the five lifeless gods",
+    "hi": "पाँच प्रेतों से बने आसन पर विराजमान"
+  },
+  "explanation": {
+    "en": "The five are Brahmā, Viṣṇu, Rudra, Īśvara and Sadāśiva. Bhāskararāya explains that, separated from their own śaktis, they cannot act, and so are called pretas, lifeless bodies. She sits on the seat, a couch, that is formed of them.",
+    "hi": "ये पाँच हैं ब्रह्मा, विष्णु, रुद्र, ईश्वर और सदाशिव। भास्करराय समझाते हैं कि अपनी-अपनी शक्ति से अलग होने पर वे कोई कार्य नहीं कर सकते, इसलिए ‘प्रेत’, अर्थात् निष्प्राण शरीर, कहलाते हैं। वे उन्हीं से बने आसन, एक मञ्च, पर विराजमान हैं।"
+  },
+  "inner": {
+    "en": "He quotes the Jñānārṇava, where the Goddess asks Śiva how the five can be lifeless and yet eternal. Śiva answers that they are always motionless: Brahmā’s power to create is the śakti Vāmā, and without it he is a preta, and Sadāśiva, the great preta, can do nothing at all without Śakti. All the power of the gods to create, preserve and dissolve is hers.",
+    "hi": "वे ज्ञानार्णव का वचन देते हैं, जहाँ देवी शिव से पूछती हैं कि ये पाँच निर्जीव होकर भी नित्य कैसे हैं। शिव उत्तर देते हैं कि ये पाँचों सदा निश्चल हैं: ब्रह्मा का सृष्टि करने का कर्तृत्व वामा शक्ति है, जिसके बिना ब्रह्मा प्रेत हैं, और महाप्रेत सदाशिव शक्ति के बिना कुछ भी नहीं कर सकते। देवताओं की सृष्टि, पालन और संहार की सारी शक्ति उन्हीं की है।"
+  },
+  "story": {
+    "en": "Under name 58 Bhāskararāya describes this seat from the Tantras: Brahmā, Viṣṇu, Rudra and Īśvara are its four legs, and Sadāśiva is the seat on which she rests. The same image returns near the end of the hymn in name 947, where she reclines on the couch of the five pretas.",
+    "hi": "नाम 58 पर भास्करराय तन्त्रों के आधार पर इस आसन का वर्णन करते हैं: ब्रह्मा, विष्णु, रुद्र और ईश्वर इसके चार पाये हैं, और सदाशिव वह आसन है जिस पर वे विराजती हैं। यही चित्र स्तोत्र के अन्त के पास नाम 947 में लौटता है, जहाँ वे पाँच प्रेतों के मञ्च पर शयन करती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "सदाशिवो महाप्रेतः केवलो निश्चलः प्रिये । शक्त्या विना कृतो देवि कथञ्चिदपि न क्षमः ।।",
+    "translation": {
+      "en": "Sadāśiva is the great preta, beloved, alone and motionless; deprived of Śakti, O Devī, he is not able in any way.",
+      "hi": "प्रिये, सदाशिव महाप्रेत हैं, केवल और निश्चल; हे देवी, शक्ति से रहित होकर वे किसी प्रकार भी समर्थ नहीं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 249 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The commentary excerpt is a Jñānārṇava verse quoted by Bhāskararāya, not his own words; his own gloss contains the unclear वामांशेन and the run-together विरहेसति, so it is not quoted. The description of the seat in the story comes from his comments on names 58 and 947 (कशिपु, फलक). The last sentence of the inner layer is a summary, not a quotation." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 224,
+  "verse": 55,
+  "slug": "maha-siddhi",
+  "devanagari": "महासिद्धिः",
+  "iastSplit": "Mahā-siddhiḥ",
+  "archana": "ॐ महासिद्ध्यै नमः",
+  "syllables": ["ma", "hā", "sid", "dhiḥ"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "सिद्धि", "meaning": { "en": "attainment, perfection; a yogic power", "hi": "सिद्धि, प्राप्ति; योग-शक्ति" } }
+  ],
+  "meaning": {
+    "en": "The great attainment, and the giver of great attainments",
+    "hi": "महान सिद्धि, और महान सिद्धियाँ देने वाली"
+  },
+  "explanation": {
+    "en": "Siddhi is attainment, the fulfilment of an aim. As with the previous name, Bhāskararāya reads it two ways: she is the great attainment itself, and she is the one from whom great attainments come.",
+    "hi": "‘सिद्धि’ का अर्थ है प्राप्ति, किसी लक्ष्य का पूर्ण होना। पिछले नाम की तरह भास्करराय इसे भी दो प्रकार से पढ़ते हैं: वे स्वयं महान सिद्धि हैं, और वे, जिनसे महान सिद्धियाँ प्राप्त होती हैं।"
+  },
+  "inner": {
+    "en": "The well-known siddhis are the eight yogic powers beginning with aṇimā, becoming as small as an atom. Bhāskararāya also quotes another eight from the Skanda Purāṇa, among them not being overpowered by the pairs of opposites, the absence of high and low, abundant beauty and strength, steadiness in austerity and meditation with the supreme Self as the goal, moving at will and being at rest anywhere. These read less like feats than like the marks of a life at peace.",
+    "hi": "प्रसिद्ध सिद्धियाँ अणिमा (परमाणु जितना सूक्ष्म हो जाना) से आरम्भ होने वाली आठ योग-सिद्धियाँ हैं। भास्करराय स्कन्द पुराण से आठ और सिद्धियाँ भी उद्धृत करते हैं, जिनमें हैं: द्वन्द्वों से पराजित न होना, ऊँच-नीच का अभाव, कान्ति और बल की प्रचुरता, परमात्मा को लक्ष्य मानकर तप और ध्यान में निष्ठा, इच्छानुसार विचरण और कहीं भी विश्राम कर पाना। ये चमत्कारों से अधिक शान्त जीवन के लक्षण लगते हैं।"
+  },
+  "story": {
+    "en": "In Śrīvidyā worship the siddhis are themselves honoured as goddesses: aṇimā and her sisters stand in the outermost line of the Śrīcakra, the first enclosure the worshipper meets.",
+    "hi": "श्रीविद्या की उपासना में सिद्धियाँ स्वयं देवियों के रूप में पूजित हैं: अणिमा और उनकी बहनें श्रीचक्र की सबसे बाहरी रेखा में स्थित हैं, जो उपासक को मिलने वाला पहला आवरण है।"
+  },
+  "commentary": {
+    "sanskrit": "एवमेव द्वेधा महासिद्धिपदं व्याख्येयम् । सिद्धयश्चाणिमाद्याः प्रसिद्धाः ।",
+    "translation": {
+      "en": "The word mahāsiddhi is to be explained in the same two ways. The siddhis, aṇimā and the rest, are well known.",
+      "hi": "‘महासिद्धि’ पद की व्याख्या भी इसी प्रकार दो तरह से करनी चाहिए। अणिमा आदि सिद्धियाँ प्रसिद्ध हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 224 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Skanda Purāṇa list is abridged; its first item (रसानां स्वत उल्लासः) and the equality of lifespan, joy and sorrow are left out. The placing of the siddhis in the outer line of the Śrīcakra is general Śrīvidyā tradition, not from this comment. The last sentence of the inner layer is a reflection." }
+}

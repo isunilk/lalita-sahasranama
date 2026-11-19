@@ -1,0 +1,43 @@
+{
+  "number": 777,
+  "verse": 149,
+  "slug": "viraradhya",
+  "devanagari": "वीराराध्या",
+  "iastSplit": "Vīrārādhyā",
+  "archana": "ॐ वीराराध्यायै नमः",
+  "syllables": ["vī", "rā", "rādh", "yā"],
+  "words": [
+    { "sa": "वीर", "meaning": { "en": "hero", "hi": "वीर" } },
+    { "sa": "आराध्या", "meaning": { "en": "she who is to be worshipped", "hi": "जिनकी आराधना की जाए" } }
+  ],
+  "meaning": {
+    "en": "Worshipped by the heroes, the vīras of the spirit",
+    "hi": "वीरों द्वारा आराधित, जो अध्यात्म के वीर हैं"
+  },
+  "explanation": {
+    "en": "Vīra means a hero and ārādhyā one to be worshipped. She is worshipped by heroes. Bhāskararāya defines these heroes by a verse about an inner victory, not a victory in battle.",
+    "hi": "‘वीर’ का अर्थ है वीर पुरुष और ‘आराध्या’ का अर्थ है जिनकी आराधना की जाए। वीर उनकी आराधना करते हैं। भास्करराय इन वीरों का लक्षण एक ऐसे श्लोक से देते हैं जो युद्ध की नहीं, भीतर की विजय की बात करता है।"
+  },
+  "inner": {
+    "en": "The verse he quotes describes the true hero: dissolving the ‘this’, the world set over against oneself, into the ‘I’, the supreme one enjoys his valour, his own Self, which removes all that is inauspicious. The vīra is one who has overcome the division between self and world. Such heroes worship her.",
+    "hi": "वे जो श्लोक उद्धृत करते हैं, वह सच्चे वीर का वर्णन करता है: अपने सामने खड़े ‘इदम्’ (यह जगत्) को ‘अहम्’ (मैं) में विलीन करके वह परम वीर अपने पराक्रम का, अर्थात् अमंगल को दूर करने वाले अपने आत्मस्वरूप का, उपभोग करता है। वीर वह है जिसने अपने और जगत् के बीच के भेद को जीत लिया है। ऐसे वीर उनकी आराधना करते हैं।"
+  },
+  "story": {
+    "en": "This name opens verse 149, where the hymn turns from her worship and her flowers to her cosmic and inner forms: the universal form, the stainless one, the one whose face is everywhere, and the inward-turned.",
+    "hi": "इस नाम से श्लोक 149 आरम्भ होता है, जहाँ स्तोत्र उनकी पूजा और प्रिय फूलों से हटकर उनके विश्वव्यापी और आन्तरिक रूपों की ओर मुड़ता है: विराट् रूप, रजरहित, सब ओर मुख वाली, और अन्तर्मुख रूप।"
+  },
+  "commentary": {
+    "sanskrit": "अहमि प्रलयं कुर्वन्निदमः प्रतियोगिनः । पराक्रमं परो भुङ्क्तेस्वात्मानमशिवापहम् ।। इत्यादिनोक्तलक्षणा वीरास्तैराराध्या ।",
+    "translation": {
+      "en": "‘Dissolving into the I the ‘this’ that stands opposite it, the supreme one enjoys his valour: his own Self, which takes away all that is inauspicious.’ Heroes whose mark is given in this and like verses: by them she is worshipped.",
+      "hi": "‘अपने प्रतियोगी ‘इदम्’ का ‘अहम्’ में प्रलय करके परम वीर अपने पराक्रम का, अर्थात् अमंगल को हरने वाले अपने आत्मस्वरूप का, उपभोग करता है।’ इस प्रकार के वचनों में जिनके लक्षण बताए गए हैं, वे वीर हैं; उनके द्वारा वे आराध्या हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 777 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya does not name the source of the verse he quotes; the edition prints भुङ्क्तेस्वात्मानम without a space, read here as भुङ्क्ते स्वात्मानम्. The translation of the verse is tentative. The second sentence of the inner layer is an explanation of the verse, not his words." }
+}

@@ -1,0 +1,44 @@
+{
+  "number": 101,
+  "verse": 38,
+  "slug": "manipurantar-udita",
+  "devanagari": "मणिपूरान्तरुदिता",
+  "iastSplit": "Maṇipūrāntar-uditā",
+  "archana": "ॐ मणिपूरान्तरुदितायै नमः",
+  "syllables": ["ma", "ṇi", "pū", "rān", "ta", "ru", "di", "tā"],
+  "words": [
+    { "sa": "मणिपूर", "meaning": { "en": "Maṇipūra, the cakra at the navel, ‘filled with jewels’", "hi": "मणिपूर, नाभि का चक्र, ‘मणियों से पूर्ण’" } },
+    { "sa": "अन्तर्", "meaning": { "en": "within", "hi": "भीतर" } },
+    { "sa": "उदिता", "meaning": { "en": "risen, made manifest", "hi": "उदित, प्रकट हुई" } }
+  ],
+  "meaning": {
+    "en": "Who rises and shines forth within the Maṇipūra",
+    "hi": "जो मणिपूर चक्र के भीतर उदित होती हैं"
+  },
+  "explanation": {
+    "en": "The Maṇipūra is the ten-petalled lotus at the navel. Bhāskararāya explains its name: in Samaya worship the Devī is filled, that is adorned, with maṇis, jewels, there. Having broken the knot below, she rises up within it and becomes manifest.",
+    "hi": "मणिपूर नाभि में स्थित दस दलों वाला कमल है। भास्करराय इसके नाम का अर्थ बताते हैं: समय-पूजा में वहाँ देवी मणियों से पूरित, अर्थात् अलंकृत, की जाती हैं। नीचे की ग्रन्थि का भेदन करके वे इसके भीतर उदित, अर्थात् प्रकट, होती हैं।"
+  },
+  "inner": {
+    "en": "Uditā is the word used of the rising sun, and Bhāskararāya glosses it as prakaṭitā, made manifest: she who slept at the base now comes into view. He gives no further hidden meaning here.",
+    "hi": "‘उदिता’ वह शब्द है जो उगते सूर्य के लिए आता है, और भास्करराय इसका अर्थ ‘प्रकटिता’, प्रकट हुई, बताते हैं: जो मूल में सोई थीं, वे अब प्रकट होती हैं। यहाँ वे इससे आगे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "This name opens the second hundred of Bhāskararāya’s commentary. The verse pairs each cakra name with a knot: the Mūlādhāra with Brahmā’s knot, the Maṇipūra with Viṣṇu’s, and, in the next verse, the Ājñā with Rudra’s.",
+    "hi": "इस नाम से भास्करराय की व्याख्या का दूसरा शतक आरम्भ होता है। श्लोक हर चक्र के नाम के साथ एक ग्रन्थि को जोड़ता है: मूलाधार के साथ ब्रह्मग्रन्थि, मणिपूर के साथ विष्णुग्रन्थि, और अगले श्लोक में आज्ञा के साथ रुद्रग्रन्थि।"
+  },
+  "commentary": {
+    "sanskrit": "तस्यान्तरधःस्थितं ग्रन्थिं भित्त्वोदिता प्रकटिता ।",
+    "translation": {
+      "en": "Within it, having broken the knot that lies below, she has risen, that is, become manifest.",
+      "hi": "उसके भीतर, नीचे स्थित ग्रन्थि का भेदन करके, वे उदित, अर्थात् प्रकट, हुई हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 101 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Kuṇḍalinī name: meaning only. The edition’s sentence on the name Maṇipūra has misprints (पद्ये for पद्मे, मणिभी for मणिभिः, तचक्रं for तच्चक्रं), so it is paraphrased rather than quoted." }
+}

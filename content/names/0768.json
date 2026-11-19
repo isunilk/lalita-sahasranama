@@ -1,0 +1,43 @@
+{
+  "number": 768,
+  "verse": 147,
+  "slug": "dyuti-dhara",
+  "devanagari": "द्युतिधरा",
+  "iastSplit": "Dyuti-dharā",
+  "archana": "ॐ द्युतिधरायै नमः",
+  "syllables": ["dyu", "ti", "dha", "rā"],
+  "words": [
+    { "sa": "द्युति", "meaning": { "en": "radiance, lustre", "hi": "द्युति, कान्ति" } },
+    { "sa": "धरा", "meaning": { "en": "she who holds, bears", "hi": "धारण करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who bears radiance; the holder of all splendour",
+    "hi": "जो द्युति, अर्थात् कान्ति, को धारण करती हैं"
+  },
+  "explanation": {
+    "en": "Dyuti is radiance or lustre, and dharā is she who holds or bears. She is the bearer of all light and beauty. Whatever shines in the world shines with the radiance she holds.",
+    "hi": "‘द्युति’ का अर्थ है कान्ति या प्रकाश, और ‘धरा’ का अर्थ है धारण करने वाली। वे समस्त प्रकाश और सौन्दर्य को धारण करती हैं। संसार में जो कुछ चमकता है, वह उन्हीं की धारण की हुई द्युति से चमकता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya explains only the grammar: dharā is formed from the root dhṛ, to hold, and the name means the holder of dyuti, that is, of lustre. He gives no hidden meaning. Sun, moon, fire and jewel all shine with a light that she holds.",
+    "hi": "भास्करराय केवल व्याकरण समझाते हैं: ‘धरा’ ‘धृ’ (धारण करना) धातु से बना है, और नाम का अर्थ है द्युति, अर्थात् कान्ति, को धारण करने वाली। वे कोई गूढ़ अर्थ नहीं देते। सूर्य, चन्द्र, अग्नि और रत्न, सब उसी प्रकाश से चमकते हैं जिसे वे धारण करती हैं।"
+  },
+  "story": {
+    "en": "Radiance is praised throughout the hymn: in name 6 she shines like a thousand rising suns. Coming after Ojovatī, this name pairs her inner power with its outer light.",
+    "hi": "पूरे स्तोत्र में उनके प्रकाश की स्तुति है: नाम 6 में वे सहस्र उगते सूर्यों के समान चमकती हैं। ‘ओजोवती’ के बाद आकर यह नाम उनकी भीतरी शक्ति को उसके बाहरी प्रकाश से जोड़ता है।"
+  },
+  "commentary": {
+    "sanskrit": "धरतीति धरा पचाद्यच् । द्युतेः कान्तेर्धरा ।",
+    "translation": {
+      "en": "Dharā is ‘she who holds’, formed with the suffix ac (by the pacādi rule). She is the holder of dyuti, of lustre.",
+      "hi": "जो धारण करती हैं, वे धरा हैं; यह ‘पचादि’ नियम से ‘अच्’ प्रत्यय लगकर बना है। वे द्युति, अर्थात् कान्ति, को धारण करने वाली हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 768 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the grammar and the literal sense; the last sentence of the inner layer is a reflection." }
+}

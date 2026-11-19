@@ -1,0 +1,44 @@
+{
+  "number": 100,
+  "verse": 38,
+  "slug": "brahma-granthi-vibhedini",
+  "devanagari": "ब्रह्मग्रन्थिविभेदिनी",
+  "iastSplit": "Brahma-granthi-vibhedinī",
+  "archana": "ॐ ब्रह्मग्रन्थिविभेदिन्यै नमः",
+  "syllables": ["brah", "mag", "ran", "thi", "vi", "bhe", "di", "nī"],
+  "words": [
+    { "sa": "ब्रह्मन्", "meaning": { "en": "Brahmā, the creator", "hi": "ब्रह्मा, सृष्टिकर्ता" } },
+    { "sa": "ग्रन्थि", "meaning": { "en": "knot", "hi": "गाँठ, ग्रन्थि" } },
+    { "sa": "विभेदिनी", "meaning": { "en": "she who pierces, breaks through", "hi": "भेदन करने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who pierces the knot of Brahmā",
+    "hi": "जो ब्रह्मग्रन्थि का भेदन करती हैं"
+  },
+  "explanation": {
+    "en": "Rising from the Mūlādhāra, Kuṇḍalinī meets the first of three knots on her path, named after Brahmā. Bhāskararāya says each of the six cakras has two knots, one at its beginning and one at its end, and that the pair called Brahmā’s belongs to the Svādhiṣṭhāna. She breaks through it.",
+    "hi": "मूलाधार से उठते हुए कुण्डलिनी अपने मार्ग की तीन ग्रन्थियों में से पहली से मिलती हैं, जो ब्रह्मा के नाम से जानी जाती है। भास्करराय कहते हैं कि छहों चक्रों में से प्रत्येक के आरम्भ और अन्त में दो-दो ग्रन्थियाँ हैं, और ब्रह्मा नाम की ग्रन्थि-जोड़ी स्वाधिष्ठान की है। वे उसका भेदन करती हैं।"
+  },
+  "inner": {
+    "en": "A granthi is a knot. The three knots bear the names of Brahmā, Viṣṇu and Rudra, the powers of creation, preservation and dissolution, and the Devī passes through all three. Bhāskararāya also cites the Dattātreya Saṃhitā, which groups the six cakras into three pairs; the first pair, of earth and water, is called Brahmā’s knot.",
+    "hi": "ग्रन्थि का अर्थ है गाँठ। तीनों ग्रन्थियाँ सृष्टि, पालन और संहार की शक्तियों, ब्रह्मा, विष्णु और रुद्र, के नाम धारण करती हैं, और देवी इन तीनों को पार करती हैं। भास्करराय दत्तात्रेय संहिता का भी प्रमाण देते हैं, जो छह चक्रों को तीन जोड़ियों में बाँटती है; पृथ्वी और जल के चक्रों की पहली जोड़ी ब्रह्मग्रन्थि कहलाती है।"
+  },
+  "story": {
+    "en": "With this name Bhāskararāya closes his first hundred names. He divides his commentary into kalās, ‘digits’: here the second kalā, Tāpinī, is complete, and the next name opens the third, Dhūmrikā, which covers the second hundred.",
+    "hi": "इस नाम के साथ भास्करराय अपने पहले सौ नाम पूरे करते हैं। वे अपनी व्याख्या को ‘कलाओं’ में बाँटते हैं: यहाँ दूसरी कला, तापिनी, पूर्ण होती है, और अगले नाम से तीसरी कला, धूम्रिका, आरम्भ होती है, जिसमें दूसरे सौ नाम हैं।"
+  },
+  "commentary": {
+    "sanskrit": "षट्चक्रेषु प्रतिचक्रमाद्यन्तयोर्द्वौद्वौ ग्रन्थी । तत्र ब्रह्मग्रन्थिद्वयं स्वाधिष्ठानीयं विशेषेण भिनत्तीति तथा ।",
+    "translation": {
+      "en": "In the six cakras there are two knots in each, at its beginning and at its end. Of these, she specially pierces the pair of Brahmā-knots belonging to the Svādhiṣṭhāna; hence the name.",
+      "hi": "छह चक्रों में प्रत्येक चक्र के आदि और अन्त में दो-दो ग्रन्थियाँ हैं। उनमें स्वाधिष्ठान की ब्रह्मग्रन्थि-जोड़ी का वे विशेष रूप से भेदन करती हैं, इसलिए यह नाम है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 100 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Kuṇḍalinī name: meaning only. Bhāskararāya assigns the pair of Brahmā-knots to the Svādhiṣṭhāna, while the Dattātreya Saṃhitā he cites (under name 104) groups the earth and water cakras as Brahmā’s knot; both are reported as given. The colophon line is printed आद्येन शतकेनाभूद्द्विया तापिनी कला, evidently for द्वितीया; it is paraphrased." }
+}

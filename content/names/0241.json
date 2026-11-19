@@ -1,0 +1,43 @@
+{
+  "number": 241,
+  "verse": 59,
+  "slug": "charu-rupa",
+  "devanagari": "चारुरूपा",
+  "iastSplit": "Cāru-rūpā",
+  "archana": "ॐ चारुरूपायै नमः",
+  "syllables": ["cā", "ru", "rū", "pā"],
+  "words": [
+    { "sa": "चारु", "meaning": { "en": "lovely, graceful", "hi": "सुन्दर, मनोहर" } },
+    { "sa": "रूप", "meaning": { "en": "form, loveliness", "hi": "रूप, लावण्य" } }
+  ],
+  "meaning": {
+    "en": "Of lovely form",
+    "hi": "मनोहर रूप वाली"
+  },
+  "explanation": {
+    "en": "Cāru means lovely, pleasing to the eye and the heart, and her form is lovely. This half-verse uses the word three times: lovely form, lovely smile, lovely digit of the moon.",
+    "hi": "‘चारु’ का अर्थ है सुन्दर, जो आँख और मन दोनों को भाए; उनका रूप मनोहर है। यह अर्धश्लोक इस शब्द को तीन बार दोहराता है: मनोहर रूप, मनोहर मुस्कान, मनोहर चन्द्रकला।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives the plain sense, glossing rūpa as loveliness (lāvaṇya), and offers no hidden meaning. After names on mantra, yantra and the moon’s disc, the hymn returns to her visible beauty, as if to say that the most inward teaching and the beauty one can see are the same Goddess.",
+    "hi": "भास्करराय सीधा अर्थ देते हैं, ‘रूप’ को लावण्य कहकर, और कोई गूढ़ अर्थ नहीं बताते। मन्त्र, यन्त्र और चन्द्रमण्डल के नामों के बाद स्तोत्र फिर उनके दृश्य सौन्दर्य पर लौटता है, मानो कह रहा हो कि सबसे गूढ़ उपदेश और आँखों से दिखने वाला सौन्दर्य एक ही देवी हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya explains names 241 and 242 in a single phrase: she whose form, her loveliness, and whose smile are beautiful. The hymn described her body limb by limb from name 13 onward; here one word gathers it all.",
+    "hi": "भास्करराय नाम 241 और 242 की व्याख्या एक ही वाक्यांश में करते हैं: जिनका रूप, अर्थात् लावण्य, और जिनका हास सुन्दर हैं। स्तोत्र नाम 13 से आगे उनके शरीर का अंग-अंग वर्णन कर चुका है; यहाँ एक ही शब्द में वह सब समा जाता है।"
+  },
+  "commentary": {
+    "sanskrit": "चारु सुन्दरं रूपंलावण्यं हासश्च यस्याः ।",
+    "translation": {
+      "en": "She whose rūpa, that is, loveliness, and whose smile are cāru, beautiful.",
+      "hi": "जिनका रूप अर्थात् लावण्य, और जिनका हास, चारु अर्थात् सुन्दर हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 241 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition prints रूपंलावण्यं without a space; the excerpt keeps it as printed. The second sentence of the inner layer is a reflection; Bhāskararāya gives the literal sense." }
+}

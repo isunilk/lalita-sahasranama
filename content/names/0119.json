@@ -1,0 +1,43 @@
+{
+  "number": 119,
+  "verse": 42,
+  "slug": "bhakti-gamya",
+  "devanagari": "भक्तिगम्या",
+  "iastSplit": "Bhakti-gamyā",
+  "archana": "ॐ भक्तिगम्यायै नमः",
+  "syllables": ["bhak", "ti", "gam", "yā"],
+  "words": [
+    { "sa": "भक्ति", "meaning": { "en": "devotion", "hi": "भक्ति" } },
+    { "sa": "गम्या", "meaning": { "en": "to be reached, directly known", "hi": "प्राप्य, प्रत्यक्ष होने योग्य" } }
+  ],
+  "meaning": {
+    "en": "She who is reached and seen through devotion",
+    "hi": "जो भक्ति से प्राप्त और प्रत्यक्ष होती हैं"
+  },
+  "explanation": {
+    "en": "Through devotion, worship offered with love, she becomes directly known. Bhāskararāya cites the Gītā: ‘By devotion that turns to nothing else, Arjuna, I can be known, truly seen and entered’, and takes ‘entered’ as liberation, becoming one with Brahman. So gamyā means both ‘known’ and ‘attained’.",
+    "hi": "भक्ति, अर्थात् प्रेम से की गई आराधना, से वे प्रत्यक्ष होती हैं। भास्करराय गीता का वचन देते हैं: ‘हे अर्जुन, अनन्य भक्ति से ही मुझे तत्त्व से जाना, देखा और मुझमें प्रवेश किया जा सकता है’; और ‘प्रवेश’ का अर्थ मोक्ष, अर्थात् ब्रह्म-भाव, करते हैं। इस प्रकार ‘गम्या’ का अर्थ ‘ज्ञेय’ भी है और ‘प्राप्य’ भी।"
+  },
+  "inner": {
+    "en": "He gathers further witnesses: the Kaṭha Upaniṣad’s wise one who turned his gaze inward and saw the Self, and the Brahma Sūtra’s teaching that even the unmanifest Brahman becomes manifest in saṃrādhana, worshipful devotion. He also offers a subtle second reading: bhakti can mean lakṣaṇā, indirect expression, because words like truth and knowledge cannot name the attributeless Brahman directly; she is known by such indication.",
+    "hi": "वे और भी प्रमाण जुटाते हैं: कठ उपनिषद् का वह धीर पुरुष जिसने दृष्टि भीतर मोड़कर आत्मा को देखा, और ब्रह्मसूत्र का यह उपदेश कि अव्यक्त ब्रह्म भी संराधन, अर्थात् भक्तिपूर्ण आराधना, में प्रत्यक्ष होता है। वे एक सूक्ष्म दूसरा अर्थ भी देते हैं: ‘भक्ति’ का अर्थ लक्षणा भी है, क्योंकि ‘सत्य’, ‘ज्ञान’ जैसे शब्द निर्गुण ब्रह्म को सीधे नहीं कह सकते; वे ऐसे संकेत से ही जानी जाती हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya cites the Triśatī, where she is called Lakṣyārthā and Lakṣaṇāgamyā, ‘whose meaning is indicated’ and ‘reached through lakṣaṇā’. From a sūtra of Jaimini he shows that Mīmāṃsā uses the word bhakti in just this sense.",
+    "hi": "भास्करराय त्रिशती का प्रमाण देते हैं, जहाँ देवी को ‘लक्ष्यार्था’ और ‘लक्षणागम्या’ कहा गया है, अर्थात् जिनका अर्थ लक्षणा से जाना जाता है। जैमिनि के एक सूत्र से वे दिखाते हैं कि मीमांसा में ‘भक्ति’ शब्द इसी अर्थ में प्रयुक्त होता है।"
+  },
+  "commentary": {
+    "sanskrit": "भक्त्या संराधनेन गम्या प्रत्यक्षा ।",
+    "translation": {
+      "en": "Gamyā by bhakti, by worshipful devotion: made directly perceptible.",
+      "hi": "भक्ति, अर्थात् संराधन, से गम्य, अर्थात् प्रत्यक्ष।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 119 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s phrase त्रिशत्यां वक्ष्यते is taken as a reference to the names लक्ष्यार्था and लक्षणागम्या in the Lalitā Triśatī; check." }
+}

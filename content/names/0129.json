@@ -1,0 +1,45 @@
+{
+  "number": 129,
+  "verse": 43,
+  "slug": "sharach-chandra-nibhanana",
+  "devanagari": "शरच्चन्द्रनिभानना",
+  "iastSplit": "Śarac-candra-nibhānanā",
+  "archana": "ॐ शरच्चन्द्रनिभाननायै नमः",
+  "syllables": ["śa", "rac", "can", "dra", "ni", "bhā", "na", "nā"],
+  "words": [
+    { "sa": "शरद्", "meaning": { "en": "autumn", "hi": "शरद ऋतु" } },
+    { "sa": "चन्द्र", "meaning": { "en": "moon", "hi": "चन्द्रमा" } },
+    { "sa": "निभ", "meaning": { "en": "like, resembling", "hi": "समान" } },
+    { "sa": "आनन", "meaning": { "en": "face", "hi": "मुख" } }
+  ],
+  "meaning": {
+    "en": "Whose face is like the autumn moon",
+    "hi": "जिनका मुख शरद के चन्द्रमा के समान है"
+  },
+  "explanation": {
+    "en": "The autumn moon, in a sky washed clean by the rains, is the clearest and brightest of the year. Her face shines like it, cool and radiant.",
+    "hi": "वर्षा से धुले आकाश में शरद का चन्द्रमा वर्ष भर में सबसे निर्मल और उज्ज्वल होता है। उनका मुख उसी के समान शीतल और दीप्त है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the literal sense: her face is equal to the moon of autumn. As a reflection: the moon gives light without heat, and her face gives the light of grace without fear. After the names on devotion and fidelity, the hymn turns briefly back to her beauty.",
+    "hi": "भास्करराय केवल शब्दार्थ देते हैं: उनका मुख शरद ऋतु के चन्द्रमा के तुल्य है। चिन्तन के रूप में: चन्द्रमा बिना ताप के प्रकाश देता है, और उनका मुख भय के बिना कृपा का प्रकाश देता है। भक्ति और पातिव्रत्य के नामों के बाद स्तोत्र थोड़ी देर के लिए फिर उनके सौन्दर्य की ओर मुड़ता है।"
+  },
+  "story": {
+    "en": "The moon is a constant image for her face in this hymn: name 16 compares the musk mark on her forehead to the mark on the moon of her face. Autumn links this name with Śāradārādhyā (123), worshipped in autumn.",
+    "hi": "इस स्तोत्र में चन्द्रमा उनके मुख का निरन्तर उपमान है: नाम 16 उनके ललाट के कस्तूरी-तिलक की तुलना उनके मुख-चन्द्र के कलंक से करता है। शरद ऋतु इस नाम को ‘शारदाराध्या’ (123) से जोड़ती है, जो शरद में पूजी जाती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "शरत्कालिकेन चन्द्रेण तुल्यमाननं मुखं यस्याः ।",
+    "translation": {
+      "en": "She whose ānana, face, is equal to the moon of the autumn season.",
+      "hi": "जिनका आनन, अर्थात् मुख, शरद ऋतु के चन्द्रमा के तुल्य है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 129 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the inner layer is a reflection." }
+}

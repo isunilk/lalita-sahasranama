@@ -1,0 +1,43 @@
+{
+  "number": 118,
+  "verse": 42,
+  "slug": "bhakti-priya",
+  "devanagari": "भक्तिप्रिया",
+  "iastSplit": "Bhakti-priyā",
+  "archana": "ॐ भक्तिप्रियायै नमः",
+  "syllables": ["bhak", "tip", "ri", "yā"],
+  "words": [
+    { "sa": "भक्ति", "meaning": { "en": "devotion, loving attachment", "hi": "भक्ति" } },
+    { "sa": "प्रिया", "meaning": { "en": "dear; fond of", "hi": "प्रिय" } }
+  ],
+  "meaning": {
+    "en": "To whom devotion is dear",
+    "hi": "जिन्हें भक्ति प्रिय है"
+  },
+  "explanation": {
+    "en": "Bhāskararāya distinguishes two kinds of devotion. The primary kind is love directed to the Lord, a state of the heart; the secondary kind is service, such as remembering, praising and worship. Both are dear to her.",
+    "hi": "भास्करराय भक्ति के दो प्रकार बताते हैं। मुख्य भक्ति ईश्वर के प्रति अनुराग है, चित्त की एक अवस्था; गौण भक्ति सेवा है, जैसे स्मरण, कीर्तन और पूजा। दोनों उन्हें प्रिय हैं।"
+  },
+  "inner": {
+    "en": "For primary devotion he cites the Bhakti Sūtra, ‘it is supreme love for the Lord’, and for service the Garuḍa Purāṇa, which derives bhakti from the root bhaj, ‘to serve’. He then quotes the Śiva Purāṇa, where the Lord says: ‘I am fulfilled and content; what can people do for me? Whether outward or inward, it is the bhāva that I accept.’ Bhāskararāya takes bhāva here to cover both the outward act of service and the inner intention behind it.",
+    "hi": "मुख्य भक्ति के लिए वे भक्ति-मीमांसा सूत्र का वचन देते हैं, ‘सा परानुरक्तिरीश्वरे’, अर्थात् वह ईश्वर में परम अनुराग है; और सेवा के लिए गरुड पुराण का, जो ‘भक्ति’ को ‘भज्’ धातु से निकालता है, जिसका अर्थ सेवा है। फिर वे शिव पुराण का वचन देते हैं, जहाँ भगवान कहते हैं: ‘मैं कृतकृत्य और तृप्त हूँ, मनुष्य मेरे लिए क्या कर सकते हैं? बाहर हो या भीतर, मैं भाव को ही ग्रहण करता हूँ।’ भास्करराय के अनुसार यहाँ ‘भाव’ में बाहर की सेवा-रूप चेष्टा और भीतर का अभिप्राय, दोनों आते हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya also notes the classical counts of the kinds of devotion: eightfold in the Āditya and Garuḍa Purāṇas, ninefold in the Bhāgavata, tenfold in the Bṛhannāradīya, and treats them as restatements of the same thing. Names 118 to 120 form a set: devotion is dear to her, she is reached by it, and she is won over by it.",
+    "hi": "भास्करराय भक्ति के भेदों की पारम्परिक गणनाएँ भी बताते हैं: आदित्य और गरुड पुराण में आठ प्रकार, भागवत में नौ, बृहन्नारदीय में दस; और इन्हें एक ही बात का अलग-अलग कथन मानते हैं। नाम 118 से 120 एक समूह बनाते हैं: भक्ति उन्हें प्रिय है, वे भक्ति से प्राप्त होती हैं, और भक्ति के वश में हैं।"
+  },
+  "commentary": {
+    "sanskrit": "तत्रेश्वरविषयकोऽनुरागाख्यश्चित्तवृत्तिविशेषो मुख्यभक्तिः ।",
+    "translation": {
+      "en": "Of these, primary devotion is the particular state of mind called anurāga, loving attachment, whose object is the Lord.",
+      "hi": "उनमें, ईश्वर-विषयक अनुराग नामक चित्त-वृत्ति-विशेष मुख्य भक्ति है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 118 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya calls the source of सा परानुरक्तिरीश्वरे the भक्तिमीमांसासूत्र (the Śāṇḍilya Bhakti Sūtra); the file says ‘the Bhakti Sūtra’." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 229,
+  "verse": 56,
+  "slug": "mahasana",
+  "devanagari": "महासना",
+  "iastSplit": "Mahāsanā",
+  "archana": "ॐ महासनायै नमः",
+  "syllables": ["ma", "hā", "sa", "nā"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "आसन", "meaning": { "en": "seat", "hi": "आसन" } }
+  ],
+  "meaning": {
+    "en": "Whose seat is great: the thirty-six tattvas",
+    "hi": "जिनका आसन महान है: छत्तीस तत्त्व"
+  },
+  "explanation": {
+    "en": "Āsana means seat, and mahā and āsana join as mahāsana. Her seat is great because, Bhāskararāya says, it is made of the thirty-six tattvas, the principles of existence from earth up to Śiva.",
+    "hi": "‘आसन’ का अर्थ है बैठने का स्थान, और ‘महा’ तथा ‘आसन’ मिलकर ‘महासन’ बनते हैं। भास्करराय के अनुसार उनका आसन इसलिए महान है कि वह पृथ्वी से लेकर शिव तक के छत्तीस तत्त्वों से बना है।"
+  },
+  "inner": {
+    "en": "All of existence is her seat: matter, mind, the powers of knowing and acting, and the highest principles up to Śiva himself. He quotes the Devī Bhāgavata: this Goddess abides resting upon all the tattvas. She is not seated somewhere in the world; the whole world, in all its levels, is what she is seated upon.",
+    "hi": "सारा अस्तित्व उनका आसन है: जड़ पदार्थ, मन, ज्ञान और कर्म की शक्तियाँ, और ऊपर के तत्त्व स्वयं शिव तक। वे देवी भागवत का वचन देते हैं: ‘ये भगवती सब तत्त्वों का आश्रय लेकर स्थित हैं।’ वे जगत में कहीं बैठी नहीं हैं; अपने सब स्तरों सहित पूरा जगत ही उनका आसन है।"
+  },
+  "story": {
+    "en": "Bhāskararāya keeps this name apart from Mahāśanā, “the great eater”, name 753, which differs by a single sibilant. He uses the pair as his example when he shows, under name 217, that the hymn does not repeat its names.",
+    "hi": "भास्करराय इस नाम को नाम 753 ‘महाशना’, अर्थात् ‘महान भक्षण करने वाली’, से अलग रखते हैं, जो केवल ‘स’ और ‘श’ के अन्तर से भिन्न है। नाम 217 पर, यह दिखाते हुए कि स्तोत्र अपने नाम नहीं दोहराता, वे इसी जोड़ी को उदाहरण बनाते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "महदासनं क्षित्यादिषट्त्रिंशत्तत्त्वरूपं यस्याः ।",
+    "translation": {
+      "en": "She whose āsana, seat, is great, consisting of the thirty-six tattvas beginning with earth.",
+      "hi": "जिनका आसन महान है, जो पृथ्वी आदि छत्तीस तत्त्वों के रूप में है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 229 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The gloss “the great eater” for महाशना (753) is from the word itself; check against Bhāskararāya’s comment on 753 when that name is written. The last sentence of the inner layer is a reflection." }
+}

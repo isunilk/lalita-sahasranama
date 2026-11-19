@@ -1,0 +1,44 @@
+{
+  "number": 250,
+  "verse": 61,
+  "slug": "pancha-brahma-svarupini",
+  "devanagari": "पञ्चब्रह्मस्वरूपिणी",
+  "iastSplit": "Pañca-brahma-svarūpiṇī",
+  "archana": "ॐ पञ्चब्रह्मस्वरूपिण्यै नमः",
+  "syllables": ["pañ", "cab", "rah", "mas", "va", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "पञ्च", "meaning": { "en": "five", "hi": "पाँच" } },
+    { "sa": "ब्रह्म", "meaning": { "en": "Brahman; here the five Brahmas", "hi": "ब्रह्म; यहाँ पाँच ब्रह्म" } },
+    { "sa": "स्वरूपिणी", "meaning": { "en": "whose own form is", "hi": "स्वरूपा, जिनका अपना रूप" } }
+  ],
+  "meaning": {
+    "en": "Whose very form is the five Brahmas",
+    "hi": "पाँचों ब्रह्म जिनका स्वरूप हैं"
+  },
+  "explanation": {
+    "en": "The five gods on whom she sits in the previous name are also called the five Brahmas, since each is counted as Brahman. Here she is not seated on them but is their very form.",
+    "hi": "जिन पाँच देवताओं पर वे पिछले नाम में विराजमान थीं, वे ‘पञ्चब्रह्म’ भी कहलाते हैं, क्योंकि प्रत्येक की गणना ब्रह्म में होती है। यहाँ वे उन पर बैठी नहीं, बल्कि स्वयं उनका स्वरूप हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes the Tripurāsiddhānta: Brahman, though without attributes, by the play of māyā within itself takes the names Brahmā, Viṣṇu, Rudra, Īśvara and Sadāśiva, and so stands as five Brahmas. In another reading the five Brahmas are Śiva’s five forms, Īśāna, Tatpuruṣa, Aghora, Vāmadeva and Sadyojāta, which, he says, are the one Śiva standing fivefold through the powers of his five acts, creation, preservation and the rest. He cites the Garuḍa Purāṇa too: the one Viṣṇu stands fivefold as Vāsudeva, Saṅkarṣaṇa, Pradyumna, Aniruddha and Nārāyaṇa.",
+    "hi": "भास्करराय त्रिपुरासिद्धान्त का वचन देते हैं: निर्विशेष ब्रह्म भी अपने भीतर माया की लीला से ब्रह्मा, विष्णु, रुद्र, ईश्वर और सदाशिव नाम धारण करके पाँच ब्रह्मों के रूप में स्थित होता है। दूसरे अर्थ में पाँच ब्रह्म शिव के पाँच रूप हैं, ईशान, तत्पुरुष, अघोर, वामदेव और सद्योजात; वे कहते हैं कि यह एक ही शिव है, जो सृष्टि, स्थिति आदि पाँच कृत्यों की शक्तियों से पाँच प्रकार से स्थित है। वे गरुड पुराण का भी वचन देते हैं: एक ही विष्णु वासुदेव, संकर्षण, प्रद्युम्न, अनिरुद्ध और नारायण के रूप में पाँच प्रकार से स्थित हैं।"
+  },
+  "story": {
+    "en": "He closes with a verse of “the Ācārya”: the five Puruṣas are your play in male form, the three Vedas your casual talk; O Mother, the sun is an atom of your eyes, and the moon only a drop of your gentle smile. Side by side, the two names of this half-verse make the five gods first her seat, then her own form.",
+    "hi": "वे ‘आचार्य’ के एक श्लोक से समापन करते हैं: पाँच पुरुष तुम्हारी पुरुष-रूप लीला हैं, तीनों वेद तुम्हारा सहज वार्तालाप; हे माँ, सूर्य तुम्हारे नेत्रों का एक अणु है और चन्द्रमा तुम्हारी मन्द मुस्कान की एक बूँद। इस अर्धश्लोक के दोनों नाम साथ रखने पर पाँचों देव पहले उनका आसन बनते हैं, फिर उनका अपना स्वरूप।"
+  },
+  "commentary": {
+    "sanskrit": "ब्रह्मादिसदाशिवान्तानां पञ्चानामपि ब्रह्मकोटावन्तर्भावात्पञ्चब्रह्मणां स्वरूपमस्याः ।",
+    "translation": {
+      "en": "Since all five, from Brahmā to Sadāśiva, are included in the class of Brahman, her very form is that of the five Brahmas.",
+      "hi": "ब्रह्मा से सदाशिव तक पाँचों की गणना ब्रह्म की कोटि में होने से, पाँच ब्रह्मों का स्वरूप उन्हीं का है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 250 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Liṅga Purāṇa list Bhāskararāya also cites (क्षेत्रज्ञ, प्रकृति, बुद्धि, अहङ्कार, मन, the senses and the tanmātras as the five Brahma-forms) is left out for length. Calling Īśāna and the others Śiva’s “five forms” is a gloss; Bhāskararāya says पञ्च ब्रह्माणि. The verse पुंभावलीला… is quoted from “the Ācārya” (आचार्यैः); the attribution is not checked." }
+}

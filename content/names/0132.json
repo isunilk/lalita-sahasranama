@@ -1,0 +1,43 @@
+{
+  "number": 132,
+  "verse": 43,
+  "slug": "niradhara",
+  "devanagari": "निराधारा",
+  "iastSplit": "Nirādhārā",
+  "archana": "ॐ निराधारायै नमः",
+  "syllables": ["ni", "rā", "dhā", "rā"],
+  "words": [
+    { "sa": "निर्", "meaning": { "en": "without; out of", "hi": "रहित; बाहर निकली" } },
+    { "sa": "आधार", "meaning": { "en": "support, base; the Mūlādhāra", "hi": "आधार; मूलाधार" } }
+  ],
+  "meaning": {
+    "en": "She who rests on no support",
+    "hi": "जो किसी आधार पर नहीं टिकतीं"
+  },
+  "explanation": {
+    "en": "Bhāskararāya gives three readings. She has gone out from the ādhāra, rising from the Mūlādhāra; she has no other support, for she is herself the real ground of the whole world and cannot rest on anything else; and she is the form of nirādhāra worship, the worship that rests on no support.",
+    "hi": "भास्करराय इसके तीन अर्थ देते हैं। वे आधार से निकली हैं, अर्थात् मूलाधार से ऊपर उठी हैं; उनका कोई अन्य आधार नहीं, क्योंकि वे स्वयं सारे जगत का सत्य अधिष्ठान हैं और किसी और पर नहीं टिक सकतीं; और वे निराधार पूजा का स्वरूप हैं, वह पूजा जो किसी आधार पर नहीं टिकती।"
+  },
+  "inner": {
+    "en": "For the third reading he quotes the Sūta Saṃhitā. Inner worship, it says, is of two kinds, with support and without: the first worships the Devī in a form made of letters, by the way the guru teaches; the second is in pure awareness, and is the greater. ‘The worship said to be in awareness is the dissolving of the mind in her’, for awareness itself is the supreme Śakti.",
+    "hi": "तीसरे अर्थ के लिए वे सूत संहिता का वचन देते हैं। उसके अनुसार भीतर की पूजा दो प्रकार की है, साधार और निराधार: पहली में गुरु के बताए मार्ग से वर्णों से रचित विग्रह में परमेश्वरी की आराधना होती है; दूसरी शुद्ध संवित्, अर्थात् चेतना, में होती है, और वही श्रेष्ठ है। ‘संवित् में जो पूजा कही गई है, वह उसी में मन का लय है’, क्योंकि संवित् ही परा शक्ति है।"
+  },
+  "story": {
+    "en": "The name gathers both halves of this part of the hymn. In its first sense it looks back to Kuṇḍalinī rising from the Mūlādhāra; in its third it looks ahead to the names that describe her as pure awareness, which begin with the next name.",
+    "hi": "यह नाम स्तोत्र के इस भाग के दोनों पक्षों को समेटता है। पहले अर्थ में यह मूलाधार से उठती कुण्डलिनी की ओर पीछे देखता है; तीसरे अर्थ में आगे के उन नामों की ओर, जो उन्हें शुद्ध चेतना के रूप में बताते हैं और अगले नाम से आरम्भ होते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "यद्वा निर्गत आधारः अधिष्ठानान्तरं यस्याः । सर्वजगदधिष्ठानस्य सत्यत्वेनाधारान्तरायोगात् ।",
+    "translation": {
+      "en": "Or: she from whom any ādhāra, any other ground, is absent; for the ground of the whole world, being real, cannot have another support.",
+      "hi": "अथवा जिनका कोई आधार, अर्थात् अन्य अधिष्ठान, नहीं है; क्योंकि सारे जगत का अधिष्ठान सत्य होने से उसका कोई दूसरा आधार नहीं हो सकता।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 132 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Sūta Saṃhitā passage is summarised for its meaning; it describes kinds of worship and no method is given." }
+}

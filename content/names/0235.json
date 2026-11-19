@@ -1,0 +1,44 @@
+{
+  "number": 235,
+  "verse": 58,
+  "slug": "chatushashtyupacharadhya",
+  "devanagari": "चतुःषष्ट्युपचाराढ्या",
+  "iastSplit": "Catuḥṣaṣṭyupacārāḍhyā",
+  "archana": "ॐ चतुःषष्ट्युपचाराढ्यायै नमः",
+  "syllables": ["ca", "tuḥ", "ṣaṣ", "ṭyu", "pa", "cā", "rāḍh", "yā"],
+  "words": [
+    { "sa": "चतुःषष्टि", "meaning": { "en": "sixty-four", "hi": "चौंसठ" } },
+    { "sa": "उपचार", "meaning": { "en": "a service offered in worship", "hi": "उपचार, पूजा की सेवा" } },
+    { "sa": "आढ्या", "meaning": { "en": "rich, abounding in", "hi": "सम्पन्न, धनवती" } }
+  ],
+  "meaning": {
+    "en": "Rich in the sixty-four offerings of worship",
+    "hi": "चौंसठ उपचारों से सम्पन्न"
+  },
+  "explanation": {
+    "en": "Upacāras are the acts of loving service offered to the deity in worship, as to an honoured guest: a seat, water, bathing, clothing, ornaments, incense, light, food and more. Her worship has sixty-four of them, and she is āḍhyā, rich in them.",
+    "hi": "उपचार वे प्रेमपूर्ण सेवाएँ हैं जो पूजा में देवता को, किसी सम्मानित अतिथि की तरह, अर्पित की जाती हैं: आसन, जल, स्नान, वस्त्र, आभूषण, धूप, दीप, नैवेद्य आदि। उनकी पूजा में ऐसे चौंसठ उपचार हैं, और वे उनसे ‘आढ्या’ अर्थात् सम्पन्न हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says the sixty-four are counted by the revered Paraśurāma in the Kalpasūtra, and that another tantra adds eight more, making seventy-two. Among the eight are honouring the devotees of one’s guru and the books of Śiva, and the “fire-offering into the breath”, in which eating itself becomes an offering. He reads āḍhyā as “wealthy”: these services are her riches, not different from her.",
+    "hi": "भास्करराय बताते हैं कि ये चौंसठ उपचार पूज्य परशुराम ने कल्पसूत्र में गिनाए हैं, और एक अन्य तन्त्र आठ और जोड़कर इन्हें बहत्तर कर देता है। इन आठ में गुरु के भक्तों और शैव ग्रन्थों का पूजन, और ‘प्राणाग्निहोत्र’ है, जिसमें भोजन करना भी आहुति बन जाता है। ‘आढ्या’ का अर्थ वे ‘धनवती’ करते हैं: ये सेवाएँ ही उनका धन हैं, उनसे अभिन्न।"
+  },
+  "story": {
+    "en": "The count of sixty-four recurs in the next names: sixty-four arts (236) and sixty-four crores of yoginīs (237). In the Saundaryalaharī verse Bhāskararāya quotes under name 226, the same number counts the tantras.",
+    "hi": "चौंसठ की यह संख्या अगले नामों में भी आती है: चौंसठ कलाएँ (236) और चौंसठ करोड़ योगिनियाँ (237)। सौन्दर्यलहरी के जिस श्लोक को भास्करराय नाम 226 पर उद्धृत करते हैं, उसमें यही संख्या तन्त्रों की है।"
+  },
+  "commentary": {
+    "sanskrit": "चतुरधिका षष्टिश्चतुःषष्टिस्तावन्त उपचारा भगवता परशुरामेण कल्पसूत्रे गणिताः ।",
+    "translation": {
+      "en": "Sixty with four more is sixty-four; that many upacāras are counted by the revered Paraśurāma in the Kalpasūtra.",
+      "hi": "साठ में चार अधिक, अर्थात् चौंसठ; इतने उपचार पूज्य परशुराम ने कल्पसूत्र में गिनाए हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 235 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. iastSplit and slug keep the vowel-sandhi joins unbroken, as in earlier files. The eight further upacāras are abridged from the tantra verse Bhāskararāya quotes; check the rendering of प्राणाग्निहोत्र. He says he has listed the sixty-four in a section on worship (पूजाप्रकरणेऽस्माभिरुक्ताः) without naming the work." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 787,
+  "verse": 150,
+  "slug": "tripureshi",
+  "devanagari": "त्रिपुरेशी",
+  "iastSplit": "Tripureśī",
+  "archana": "ॐ त्रिपुरेश्यै नमः",
+  "syllables": ["tri", "pu", "re", "śī"],
+  "words": [
+    { "sa": "त्रिपुर", "meaning": { "en": "the three cities; the threefold", "hi": "तीन पुर, त्रिपुर" } },
+    { "sa": "ईशी", "meaning": { "en": "ruler, sovereign", "hi": "स्वामिनी, ईश्वरी" } }
+  ],
+  "meaning": {
+    "en": "Queen of the three cities, one with the goddess Tripureśī",
+    "hi": "त्रिपुरों की स्वामिनी, चक्रेश्वरी त्रिपुरेशी से अभिन्न"
+  },
+  "explanation": {
+    "en": "Tripura means ‘the three cities’ and īśī is the ruler. Bhāskararāya explains the name through the Śrīcakra: Tripureśī is the presiding goddess of the Sarvāśāparipūraka cakra, ‘the circuit that fulfils all hopes’. The Mother is one with her and so bears her name.",
+    "hi": "‘त्रिपुर’ का अर्थ है तीन पुर, और ‘ईशी’ का अर्थ है स्वामिनी। भास्करराय इस नाम को श्रीचक्र के माध्यम से समझाते हैं: त्रिपुरेशी सर्वाशापरिपूरक चक्र, अर्थात् सब आशाओं को पूर्ण करने वाले आवरण, की अधिष्ठात्री देवी हैं। माँ उनसे अभिन्न हैं, इसलिए यह नाम उनका भी है।"
+  },
+  "inner": {
+    "en": "In the Śrīcakra each of the nine circuits has its presiding goddess, and all of them are forms of Lalitā herself. The Sarvāśāparipūraka cakra is the sixteen-petalled lotus, and its ruler fulfils every hope of the worshipper. Bhāskararāya gives no further hidden meaning here.",
+    "hi": "श्रीचक्र के नौ आवरणों में से प्रत्येक की एक अधिष्ठात्री देवी है, और वे सब स्वयं ललिता के ही रूप हैं। सर्वाशापरिपूरक चक्र षोडशदल कमल है, और उसकी स्वामिनी उपासक की हर आशा पूरी करती हैं। भास्करराय यहाँ इससे आगे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "Many of her names are built on Tripura, ‘the threefold’: Tripurā (name 626), Mahātripurasundarī (234), Tripuramālinī (875) and Tripurāmbikā (976), and several of these are also names of the presiding goddesses of the Śrīcakra.",
+    "hi": "उनके कई नाम ‘त्रिपुर’ पर आधारित हैं: त्रिपुरा (नाम 626), महात्रिपुरसुन्दरी (234), त्रिपुरमालिनी (875) और त्रिपुराम्बिका (976); इनमें से कई श्रीचक्र की आवरण-देवियों के नाम भी हैं।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वाशापरिपूरकचक्राधीश्वर्यास्त्रिपुरेशीति नाम । तदभेदादियमम्बापि तथोच्यते ।",
+    "translation": {
+      "en": "Tripureśī is the name of the presiding goddess of the Sarvāśāparipūraka cakra. Being one with her, the Mother too is called so.",
+      "hi": "सर्वाशापरिपूरक चक्र की अधीश्वरी का नाम त्रिपुरेशी है। उनसे अभिन्न होने के कारण ये अम्बा भी उसी नाम से कही जाती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 787 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. That the Sarvāśāparipūraka cakra is the sixteen-petalled lotus (the second āvaraṇa), and that the nine cakreśvarīs are forms of Lalitā, is standard Śrīvidyā teaching, not stated in this comment." }
+}

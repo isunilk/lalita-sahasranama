@@ -1,0 +1,45 @@
+{
+  "number": 225,
+  "verse": 55,
+  "slug": "maha-yogeshvareshvari",
+  "devanagari": "महायोगेश्वरेश्वरी",
+  "iastSplit": "Mahā-yogeśvareśvarī",
+  "archana": "ॐ महायोगेश्वरेश्वर्यै नमः",
+  "syllables": ["ma", "hā", "yo", "geś", "va", "reś", "va", "rī"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "योग", "meaning": { "en": "yoga, the discipline of union", "hi": "योग" } },
+    { "sa": "ईश्वर", "meaning": { "en": "lord, master (yogeśvara: master of yoga)", "hi": "ईश्वर, स्वामी (योगेश्वर: योग के स्वामी)" } },
+    { "sa": "ईश्वरी", "meaning": { "en": "sovereign, ruler", "hi": "ईश्वरी, स्वामिनी" } }
+  ],
+  "meaning": {
+    "en": "Sovereign of the great masters of yoga",
+    "hi": "महान योगेश्वरों की भी ईश्वरी"
+  },
+  "explanation": {
+    "en": "A yogeśvara is a lord or master of yoga. She is the sovereign even of the great yogeśvaras. With this name the verse closes its praise of her understanding and attainment.",
+    "hi": "योगेश्वर का अर्थ है योग का स्वामी, योग में सिद्ध। वे महान योगेश्वरों की भी ईश्वरी हैं। इस नाम के साथ श्लोक उनकी बुद्धि और सिद्धि की स्तुति पूरी करता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the literal sense: she is the ruler of the great lords of yoga. Coming after the names for understanding and attainment, it suggests that whatever mastery yogīs reach is held under her, a gift from her rather than a possession of their own.",
+    "hi": "भास्करराय केवल शब्दार्थ देते हैं: वे महान योगेश्वरों की ईश्वरी हैं। बुद्धि और सिद्धि वाले नामों के बाद यह नाम संकेत करता है कि योगी जो भी सिद्धि पाते हैं, वह उन्हीं के अधीन है; वह उनकी अपनी सम्पत्ति नहीं, उनका दिया हुआ प्रसाद है।"
+  },
+  "story": {
+    "en": "The name is built like a title of rank, īśvarī of the yogeśvaras, as one might say queen of kings. In the Bhagavad Gītā the title Yogeśvara is given to Kṛṣṇa himself.",
+    "hi": "यह नाम पदवी की तरह रचा गया है: योगेश्वरों की ईश्वरी, जैसे कोई कहे राजाओं की महारानी। भगवद्गीता में ‘योगेश्वर’ की उपाधि स्वयं श्रीकृष्ण को दी गई है।"
+  },
+  "commentary": {
+    "sanskrit": "महतां योगेश्वराणामीश्वरीति तथा ।",
+    "translation": {
+      "en": "She is the īśvarī, the sovereign, of the great lords of yoga; hence the name.",
+      "hi": "वे महान योगेश्वरों की ईश्वरी हैं, इसलिए यह नाम है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 225 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives the literal sense only; the inner layer is a reflection, and the Gītā reference in the story is editorial." }
+}

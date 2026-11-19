@@ -1,0 +1,43 @@
+{
+  "number": 251,
+  "verse": 61,
+  "slug": "chinmayi",
+  "devanagari": "चिन्मयी",
+  "iastSplit": "Cin-mayī",
+  "archana": "ॐ चिन्मय्यै नमः",
+  "syllables": ["cin", "ma", "yī"],
+  "words": [
+    { "sa": "चित्", "meaning": { "en": "pure consciousness", "hi": "शुद्ध चेतना" } },
+    { "sa": "मयी", "meaning": { "en": "consisting of; one with", "hi": "मयी, स्वरूपा" } }
+  ],
+  "meaning": {
+    "en": "Consciousness itself",
+    "hi": "स्वयं चैतन्य-स्वरूपा"
+  },
+  "explanation": {
+    "en": "Cit is pure consciousness. The suffix -mayī usually means “made of”, but Bhāskararāya says she is cinmayī because she is not different from consciousness: she is not made of it as a pot is made of clay; she is it.",
+    "hi": "‘चित्’ का अर्थ है शुद्ध चेतना। ‘मयी’ प्रत्यय का अर्थ प्रायः ‘से बनी’ होता है, पर भास्करराय कहते हैं कि वे चेतना से अभिन्न होने के कारण चिन्मयी हैं: वे उससे वैसे नहीं बनीं जैसे मिट्टी से घड़ा बनता है; वे स्वयं चेतना हैं।"
+  },
+  "inner": {
+    "en": "This verse turns from her seats and forms to her essence, in the classical terms of Vedānta: consciousness, bliss and the dense mass of knowing. Bhāskararāya’s gloss is a single phrase, and he adds no hidden meaning; the name is already the deepest. Everything named so far, from her city and jewelled palace to the five gods beneath her, is this consciousness appearing.",
+    "hi": "यह श्लोक उनके आसनों और रूपों से उनके सार की ओर मुड़ता है, वेदान्त के पारम्परिक शब्दों में: चेतना, आनन्द और विज्ञान का घन। भास्करराय की व्याख्या एक ही वाक्यांश की है और वे कोई गूढ़ अर्थ नहीं जोड़ते; यह नाम स्वयं ही सबसे गहरा है। अब तक जो कुछ कहा गया, उनके नगर और रत्नमय भवन से लेकर उनके नीचे के पाँच देवों तक, वह सब इसी चेतना का प्रकट होना है।"
+  },
+  "story": {
+    "en": "The hymn told of her birth from the fire-altar of consciousness (name 4); here it says plainly that she is that consciousness. The theme returns in later names such as Cidekarasarūpiṇī, “whose form is consciousness alone” (name 364).",
+    "hi": "स्तोत्र ने चैतन्य रूपी अग्निकुण्ड से उनके प्रकट होने की कथा कही थी (नाम 4); यहाँ वह सीधे कहता है कि वे स्वयं वही चेतना हैं। यह भाव आगे ‘चिदेकरसरूपिणी’ (नाम 364), अर्थात् ‘केवल चेतना ही जिनका स्वरूप है’, जैसे नामों में लौटता है।"
+  },
+  "commentary": {
+    "sanskrit": "चिदभेदाच्चिन्मयी ।",
+    "translation": {
+      "en": "She is cinmayī because she is not different from consciousness.",
+      "hi": "चेतना से अभिन्न होने के कारण वे चिन्मयी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 251 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s gloss is one phrase; the inner layer and the clay-pot comparison in the explanation are reflections. The cross-references to names 4 and 364 are editorial." }
+}

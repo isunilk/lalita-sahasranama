@@ -1,0 +1,42 @@
+{
+  "number": 755,
+  "verse": 145,
+  "slug": "chandika",
+  "devanagari": "चण्डिका",
+  "iastSplit": "Caṇḍikā",
+  "archana": "ॐ चण्डिकायै नमः",
+  "syllables": ["caṇ", "ḍi", "kā"],
+  "words": [
+    { "sa": "चण्डिका", "meaning": { "en": "the fierce one, the wrathful Goddess", "hi": "प्रचण्ड देवी, कोप करने वाली" } }
+  ],
+  "meaning": {
+    "en": "The fierce one, wrathful toward those without devotion",
+    "hi": "प्रचण्ड देवी, जो भक्तिहीनों पर कोप करती हैं"
+  },
+  "explanation": {
+    "en": "The name comes from the root caṇḍ, to be angry. Bhāskararāya explains that she is Caṇḍikā because she is wrathful toward those who have no devotion. Her anger does not fall on those who seek her.",
+    "hi": "यह नाम ‘चण्ड्’ धातु से बना है, जिसका अर्थ है क्रोध करना। भास्करराय बताते हैं कि भक्तिहीनों पर कोप करने के कारण वे चण्डिका हैं। उनका क्रोध उन पर नहीं पड़ता जो उनकी शरण आते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives no hidden meaning here. The same Mother who is tender to her devotees is fierce toward all that stands against them; her wrath is a form of her protection.",
+    "hi": "यहाँ भास्करराय कोई गूढ़ अर्थ नहीं देते। जो माँ भक्तों के प्रति कोमल हैं, वही उनके विरोधी सब कुछ के प्रति प्रचण्ड हैं; उनका क्रोध भी उनकी रक्षा का ही एक रूप है।"
+  },
+  "story": {
+    "en": "Caṇḍikā is one of the chief names by which the Devī Māhātmya calls the Goddess who slays the demons. Bhāskararāya also notes that in the Devī Bhāgavata, Caṇḍikā is the name given to a girl of seven years in the worship of young girls.",
+    "hi": "देवी माहात्म्य में असुरों का संहार करने वाली देवी को जिन मुख्य नामों से पुकारा गया है, उनमें ‘चण्डिका’ एक है। भास्करराय यह भी बताते हैं कि देवीभागवत में कुमारी-पूजा के प्रसंग में सात वर्ष की कन्या को ‘चण्डिका’ कहा गया है।"
+  },
+  "commentary": {
+    "sanskrit": "चडि कोपे अभक्तेषु कोपनत्वाच्चण्डिका ।",
+    "translation": {
+      "en": "From the root caḍi, ‘to be angry’: she is Caṇḍikā because she is wrathful toward those without devotion.",
+      "hi": "‘चडि’ धातु कोप के अर्थ में है; भक्तिहीनों पर कोप करने के कारण वे चण्डिका हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 755 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives the derivation and the Devī Bhāgavata usage only; the inner layer is a reflection, and the remark on the Devī Māhātmya in the story is added here." }
+}

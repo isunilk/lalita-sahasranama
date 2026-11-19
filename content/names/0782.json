@@ -1,0 +1,43 @@
+{
+  "number": 782,
+  "verse": 149,
+  "slug": "parakasha",
+  "devanagari": "पराकाशा",
+  "iastSplit": "Parākāśā",
+  "archana": "ॐ पराकाशायै नमः",
+  "syllables": ["pa", "rā", "kā", "śā"],
+  "words": [
+    { "sa": "पर", "meaning": { "en": "supreme", "hi": "परम, उत्कृष्ट" } },
+    { "sa": "आकाश", "meaning": { "en": "space, sky", "hi": "आकाश" } }
+  ],
+  "meaning": {
+    "en": "The supreme space: Brahman, in which all appears",
+    "hi": "परम आकाश, अर्थात् परब्रह्म"
+  },
+  "explanation": {
+    "en": "Para means supreme and ākāśa means space or sky. She is the supreme space: not the physical sky, but the boundless openness in which everything appears. Bhāskararāya says the sense is the supreme Brahman.",
+    "hi": "‘पर’ का अर्थ है परम और ‘आकाश’ का अर्थ है आकाश या अवकाश। वे परम आकाश हैं: भौतिक आकाश नहीं, बल्कि वह असीम विस्तार जिसमें सब कुछ प्रकट होता है। भास्करराय कहते हैं कि इसका अर्थ परब्रह्म है।"
+  },
+  "inner": {
+    "en": "He grounds this in the Chāndogya Upaniṣad, which calls space greater than all and the final resort, and in the Brahma Sūtra’s ruling that ākāśa there means Brahman, not the element. He also speaks of a supreme sky within the body, which the texts he quotes place above the crown of the head, as the place where Brahman is revealed. Among other readings, he divides the word as parāka-āśā, ‘the direction reached by austerity’, or takes it as ‘she who destroys the great aka, sin and sorrow’.",
+    "hi": "वे इसका आधार छान्दोग्य उपनिषद् में देते हैं, जो आकाश को सबसे बड़ा और परम आश्रय कहता है, और ब्रह्मसूत्र के इस निर्णय में कि वहाँ ‘आकाश’ का अर्थ ब्रह्म है, भूताकाश नहीं। वे शरीर के भीतर के परम व्योम की भी बात करते हैं, जिसे उनके उद्धृत ग्रन्थ सिर के शिखर से ऊपर बताते हैं, जहाँ ब्रह्म प्रकट होता है। अन्य अर्थों में वे शब्द को ‘पराक-आशा’ भी पढ़ते हैं, अर्थात् तप से प्राप्त होने वाली दिशा, या ‘महान अक (पाप और दुःख) का नाश करने वाली’।"
+  },
+  "story": {
+    "en": "Bhāskararāya also gives a Śrīvidyā picture from the Kādimata: the sixteen Nityās occupy Meru, the seven continents, the seven oceans and the supreme sky beyond them, each moving one place a year, so that in the sixteenth year Lalitā herself is in the supreme sky. In that sense too she is called Parākāśā.",
+    "hi": "भास्करराय कादिमत से श्रीविद्या का एक चित्र भी देते हैं: सोलह नित्याएँ मेरु, सात द्वीपों, सात समुद्रों और उनसे परे परम आकाश में स्थित रहती हैं और हर वर्ष एक-एक स्थान आगे बढ़ती हैं, जिससे सोलहवें वर्ष स्वयं ललिता परम आकाश में होती हैं। इस अर्थ में भी उन्हें ‘पराकाशा’ कहा जाता है।"
+  },
+  "commentary": {
+    "sanskrit": "पर उत्कृष्टश्चासावाकाशश्च पराकाशा । निर्गुणत्वात्स्त्रीलिङ्गम् । परब्रह्मेत्यर्थः ।",
+    "translation": {
+      "en": "Para, supreme, and ākāśa, space: that supreme space is Parākāśā. The feminine gender is because it is nirguṇa, beyond qualities. The sense is: the supreme Brahman.",
+      "hi": "‘पर’ अर्थात् उत्कृष्ट, और ‘आकाश’; वह परम आकाश ही पराकाशा है। निर्गुण होने से स्त्रीलिंग है। अर्थ है परब्रह्म।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 782 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s remark निर्गुणत्वात्स्त्रीलिङ्गम् (feminine ‘because nirguṇa’) is translated literally; its reasoning should be checked. Of his several further readings (पराक as a penance, अक as sin or sorrow, पराकाश as ‘incomparable’, and the bodily द्वादशान्त) only some are summarised; no practice is described." }
+}

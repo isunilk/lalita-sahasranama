@@ -1,0 +1,43 @@
+{
+  "number": 789,
+  "verse": 150,
+  "slug": "nis-traigunya",
+  "devanagari": "निस्त्रैगुण्या",
+  "iastSplit": "Nis-traiguṇyā",
+  "archana": "ॐ निस्त्रैगुण्यायै नमः",
+  "syllables": ["nis", "trai", "guṇ", "yā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "out of, without", "hi": "रहित, बाहर" } },
+    { "sa": "त्रैगुण्य", "meaning": { "en": "the state of having the three guṇas", "hi": "तीन गुणों से युक्त होना" } }
+  ],
+  "meaning": {
+    "en": "Beyond the three guṇas, untouched by their play",
+    "hi": "तीनों गुणों से परे, उनके खेल से अछूती"
+  },
+  "explanation": {
+    "en": "Nis means ‘gone out, without’ and traiguṇya is the state of having the three guṇas, sattva, rajas and tamas. She is beyond them all. The world is woven of the guṇas, but she is not bound by them.",
+    "hi": "‘निस्’ का अर्थ है बाहर, रहित, और ‘त्रैगुण्य’ का अर्थ है सत्त्व, रज और तम, इन तीन गुणों से युक्त होना। वे इन सबसे परे हैं। जगत् गुणों से बुना है, पर वे उनसे बँधी नहीं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the literal sense. Set beside name 763, Triguṇātmikā, ‘whose nature is the three guṇas’, it shows both sides of her: she appears as the guṇas, and in herself is free of them.",
+    "hi": "भास्करराय केवल शाब्दिक अर्थ देते हैं। नाम 763, ‘त्रिगुणात्मिका’ (जिनका स्वरूप तीन गुण हैं), के साथ रखने पर यह उनके दोनों पक्ष दिखाता है: वे गुणों के रूप में प्रकट होती हैं, और अपने स्वरूप में उनसे मुक्त हैं।"
+  },
+  "story": {
+    "en": "The Bhagavad Gītā says the Vedas deal with the three guṇas and bids Arjuna be nistraiguṇya, free of them; this name gives the same word to the Devī.",
+    "hi": "भगवद्गीता कहती है कि वेदों का विषय तीन गुण हैं, और अर्जुन से ‘निस्त्रैगुण्य’ होने को कहती है; यह नाम वही शब्द देवी के लिए प्रयोग करता है।"
+  },
+  "commentary": {
+    "sanskrit": "निर्गतं त्रैगुण्यं गुणत्रयवत्त्वं यस्याः ।",
+    "translation": {
+      "en": "From whom traiguṇya, the state of possessing the three guṇas, has gone out.",
+      "hi": "जिनसे त्रैगुण्य, अर्थात् तीन गुणों से युक्त होना, निकल गया है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 789 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the pairing with name 763 is a reflection, and the Bhagavad Gītā (2.45) parallel in the story is added here." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 760,
+  "verse": 146,
+  "slug": "trivarga-datri",
+  "devanagari": "त्रिवर्गदात्री",
+  "iastSplit": "Trivarga-dātrī",
+  "archana": "ॐ त्रिवर्गदात्र्यै नमः",
+  "syllables": ["tri", "var", "ga", "dāt", "rī"],
+  "words": [
+    { "sa": "त्रिवर्ग", "meaning": { "en": "the group of three aims: dharma, artha, kāma", "hi": "त्रिवर्ग: धर्म, अर्थ और काम" } },
+    { "sa": "दात्री", "meaning": { "en": "giver", "hi": "देने वाली" } }
+  ],
+  "meaning": {
+    "en": "Giver of the three aims of life: dharma, wealth, desire",
+    "hi": "धर्म, अर्थ और काम, इन तीन पुरुषार्थों को देने वाली"
+  },
+  "explanation": {
+    "en": "Trivarga, ‘the group of three’, is the classical name for three aims of human life: dharma, artha (wealth and security) and kāma (fulfilled desire). Dātrī is the giver. She grants all three to those who seek them.",
+    "hi": "‘त्रिवर्ग’, अर्थात् तीन का समूह, मानव जीवन के तीन लक्ष्यों का पारम्परिक नाम है: धर्म, अर्थ (धन और सुरक्षा) और काम (इच्छाओं की पूर्ति)। ‘दात्री’ का अर्थ है देने वाली। जो इन्हें चाहते हैं, उन्हें वे तीनों प्रदान करती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya cites the Amarakośa: the three are called trivarga, and with mokṣa added they become the caturvarga, the group of four. He glosses dātrī as one intent on giving, generous by nature. He gives no further hidden meaning; four names later, Svargāpavargadā adds the fourth aim, liberation.",
+    "hi": "भास्करराय अमरकोश उद्धृत करते हैं: धर्म, अर्थ और काम को त्रिवर्ग कहते हैं, और मोक्ष जोड़ने पर वे चतुर्वर्ग बन जाते हैं। वे ‘दात्री’ का अर्थ ‘वितरण में तत्पर’ बताते हैं, अर्थात् जिनका स्वभाव ही देना है। इससे आगे वे कोई गूढ़ अर्थ नहीं देते; चार नाम बाद ‘स्वर्गापवर्गदा’ चौथा पुरुषार्थ, मोक्ष, भी जोड़ देता है।"
+  },
+  "story": {
+    "en": "Indian thought counts four aims of life, the puruṣārthas. This name speaks of the first three, which belong to life in the world: the Mother gives not liberation alone, but also a righteous, prosperous and happy life.",
+    "hi": "भारतीय चिन्तन जीवन के चार लक्ष्य, पुरुषार्थ, मानता है। यह नाम पहले तीन की बात करता है, जो संसार के जीवन से जुड़े हैं: माँ केवल मोक्ष ही नहीं, धर्ममय, समृद्ध और सुखी जीवन भी देती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "त्रयाणां धर्मार्थकामानां वर्गः समूहः । त्रिवर्गो धर्मकामार्थैश्चतुर्वर्गः समोक्षकैरित्यमरः । तस्य दात्री वितरणपरा ।",
+    "translation": {
+      "en": "The varga, the group, of the three: dharma, artha and kāma. As the Amarakośa says, ‘the trivarga is dharma, kāma and artha; with mokṣa they are the caturvarga.’ Of that she is the dātrī, intent on giving.",
+      "hi": "धर्म, अर्थ और काम, इन तीनों का वर्ग अर्थात् समूह। अमरकोश कहता है: ‘धर्म, काम और अर्थ त्रिवर्ग हैं; मोक्ष सहित वे चतुर्वर्ग हैं।’ उसकी दात्री, अर्थात् उसे बाँटने में तत्पर।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 760 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense with the Amarakośa definition; the inner layer adds nothing beyond it." }
+}

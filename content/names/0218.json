@@ -1,0 +1,43 @@
+{
+  "number": 218,
+  "verse": 54,
+  "slug": "maha-rati",
+  "devanagari": "महारतिः",
+  "iastSplit": "Mahā-ratiḥ",
+  "archana": "ॐ महारत्यै नमः",
+  "syllables": ["ma", "hā", "ra", "tiḥ"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "रति", "meaning": { "en": "delight, love", "hi": "रति, प्रीति, आनन्द" } }
+  ],
+  "meaning": {
+    "en": "The great delight, dearer than every pleasure",
+    "hi": "महान आनन्द, जो हर सुख से बढ़कर प्रिय है"
+  },
+  "explanation": {
+    "en": "Rati is delight and love. She is the great delight: the joy that the wise find in her is greater than any pleasure the senses can give.",
+    "hi": "रति का अर्थ है प्रीति और आनन्द। वे महान रति हैं: ज्ञानी उनमें जो आनन्द पाते हैं, वह इन्द्रियों के किसी भी सुख से बड़ा है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives two readings. In the first, rati is the love of the wise, which rests in her and outweighs every delight in the objects of the senses. In the second, since she is Mahākāmasundarī, the beauty of the great Kāma, she is herself the great Rati, as Rati is the beloved of Kāma, the god of love.",
+    "hi": "भास्करराय दो अर्थ देते हैं। पहले में रति ज्ञानियों की प्रीति है, जो उन्हीं में टिकती है और विषयों के हर सुख से बढ़कर है। दूसरे में, क्योंकि वे महाकामसुन्दरी हैं, वे स्वयं महान रति हैं, जैसे कामदेव की प्रिया रति है।"
+  },
+  "story": {
+    "en": "In the Purāṇas Rati is the wife of Kāma, the god of love, whom Śiva burned with the fire of his eye; the hymn has already praised Lalitā as the herb that brought Kāma back to life (name 84). As the beloved of Kāmeśvara she is here called the great Rati.",
+    "hi": "पुराणों में रति कामदेव की पत्नी हैं; कामदेव को शिव ने अपने नेत्र की अग्नि से भस्म कर दिया था, और स्तोत्र ललिता की स्तुति पहले ही उस औषधि के रूप में कर चुका है जिसने काम को फिर से जीवित किया (नाम 84)। कामेश्वर की प्रिया होने से यहाँ उन्हें महान रति कहा गया है।"
+  },
+  "commentary": {
+    "sanskrit": "महती विषयरतिभ्योऽधिका रतिः प्रीतिर्ज्ञानिनां यस्यां सा ।",
+    "translation": {
+      "en": "She in whom the wise find a great rati, a love, greater than delight in the objects of the senses.",
+      "hi": "वे, जिनमें ज्ञानियों की महान रति अर्थात् प्रीति है, जो विषयों के सुख से बढ़कर है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 218 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The link to name 84 in the story is an editorial cross-reference, not from the commentary on this name." }
+}

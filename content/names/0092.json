@@ -1,0 +1,43 @@
+{
+  "number": 92,
+  "verse": 37,
+  "slug": "kulangana",
+  "devanagari": "कुलाङ्गना",
+  "iastSplit": "Kulāṅganā",
+  "archana": "ॐ कुलाङ्गनायै नमः",
+  "syllables": ["ku", "lāṅ", "ga", "nā"],
+  "words": [
+    { "sa": "कुल", "meaning": { "en": "a noble family; also the Kula tradition", "hi": "कुल, श्रेष्ठ आचरण वाला वंश; कौल परम्परा भी" } },
+    { "sa": "अङ्गना", "meaning": { "en": "woman, lady", "hi": "स्त्री, नारी" } }
+  ],
+  "meaning": {
+    "en": "The lady of a noble house, kept from common view",
+    "hi": "कुलीन घर की नारी, जो सबकी दृष्टि से ओझल रहती हैं"
+  },
+  "explanation": {
+    "en": "Kula here is a noble family, one whose way of life is rich in virtues such as faithfulness, and a woman of such a house is not on public view. So too the Devī is hidden, behind the curtain of ignorance, and is not seen by everyone who passes.",
+    "hi": "यहाँ ‘कुल’ का अर्थ है श्रेष्ठ वंश, जिसका आचरण पातिव्रत्य जैसे गुणों से भरा हो; ऐसे घर की नारी सबके सामने नहीं आती। वैसे ही देवी भी अविद्या के परदे के पीछे गुप्त रहती हैं, और हर राह चलते को दिखाई नहीं देतीं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya turns the image to her vidyā. He quotes the Kulārṇava Tantra: other vidyās are displayed openly, like courtesans, but this Śāmbhavī vidyā is guarded like a wife of noble family; he cites Paraśurāma to the same effect. The curtain that hides her is avidyā, so she is seen as ignorance falls away.",
+    "hi": "भास्करराय इस उपमा को उनकी विद्या पर लागू करते हैं। वे कुलार्णव तन्त्र का वचन देते हैं: अन्य विद्याएँ गणिकाओं की तरह खुले में प्रकट रहती हैं, पर यह शाम्भवी विद्या कुलवधू की भाँति गुप्त रहती है; भगवान परशुराम का भी यही कथन वे उद्धृत करते हैं। उन्हें ढकने वाला परदा अविद्या है, इसलिए अविद्या हटने पर ही उनका दर्शन होता है।"
+  },
+  "story": {
+    "en": "This name opens a verse of Kula names. Just before it, Bhāskararāya explains kula as the triad of knower, knowing and known, as the body, and as the tradition and its scriptures; here he gives it the everyday sense of a noble family.",
+    "hi": "यह नाम कुल-नामों के एक श्लोक का आरम्भ करता है। ठीक पहले के नामों में भास्करराय ‘कुल’ को ज्ञाता, ज्ञान और ज्ञेय की त्रिपुटी, शरीर, तथा परम्परा और उसके शास्त्र के रूप में समझाते हैं; यहाँ वे इसे लौकिक अर्थ देते हैं, कुलीन वंश।"
+  },
+  "commentary": {
+    "sanskrit": "कुलं नाम पातिव्रत्यादिगुणराशिशीलो वंशस्तत्सम्बन्धिन्यङ्गना यथा गुप्ता तथेयमप्यविद्याजवनिकया गुप्तत्वात्कुलाङ्गना ।",
+    "translation": {
+      "en": "Kula is a family whose character is a store of virtues such as faithfulness. As a woman belonging to such a family is kept from view, so is she, hidden by the curtain of ignorance; hence Kulāṅganā.",
+      "hi": "कुल वह वंश है जिसका स्वभाव पातिव्रत्य आदि गुणों का भण्डार हो। जैसे ऐसे वंश की नारी गुप्त रहती है, वैसे ही ये भी अविद्या के परदे से ढकी होने के कारण गुप्त हैं; इसलिए ‘कुलाङ्गना’ हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 92 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Kulārṇava line is printed in the edition as प्रकटा मणिका इव, evidently for गणिका (courtesans); it is paraphrased, not quoted. The last sentence of the inner layer draws out his phrase अविद्याजवनिका." }
+}

@@ -1,0 +1,45 @@
+{
+  "number": 766,
+  "verse": 147,
+  "slug": "japa-pushpa-nibhakriti",
+  "devanagari": "जपापुष्पनिभाकृतिः",
+  "iastSplit": "Japā-puṣpa-nibhākṛtiḥ",
+  "archana": "ॐ जपापुष्पनिभाकृतये नमः",
+  "syllables": ["ja", "pā", "puṣ", "pa", "ni", "bhā", "kṛ", "tiḥ"],
+  "words": [
+    { "sa": "जपा", "meaning": { "en": "hibiscus", "hi": "जपा, गुड़हल" } },
+    { "sa": "पुष्प", "meaning": { "en": "flower", "hi": "पुष्प, फूल" } },
+    { "sa": "निभ", "meaning": { "en": "like, resembling", "hi": "समान, सदृश" } },
+    { "sa": "आकृति", "meaning": { "en": "form, appearance", "hi": "आकृति, रूप" } }
+  ],
+  "meaning": {
+    "en": "Whose form glows red like the hibiscus flower",
+    "hi": "जिनका रूप जपाकुसुम (गुड़हल) के समान लाल आभा वाला है"
+  },
+  "explanation": {
+    "en": "Japā is the hibiscus, the deep red flower offered to the Devī; puṣpa is flower, nibhā means like, and ākṛti is form. Her form has the colour of the hibiscus. Bhāskararāya glosses japā as the oḍra flower, another name for it.",
+    "hi": "‘जपा’ गुड़हल है, गहरे लाल रंग का वह फूल जो देवी को चढ़ाया जाता है; ‘पुष्प’ का अर्थ है फूल, ‘निभा’ का अर्थ है समान, और ‘आकृति’ का अर्थ है रूप। उनका रूप गुड़हल के रंग का है। भास्करराय ‘जपा’ का अर्थ ‘ओड्र पुष्प’ बताते हैं, जो उसी का दूसरा नाम है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya notes that the words can also be divided another way. With a hidden a, śuddhā-ajapā gives a separate name, Ajapā, the mantra that, as the Dakṣiṇāmūrti Saṃhitā says, goes on without being recited and cuts the bonds of worldly existence. The rest then reads Puṣpanibhākṛtiḥ, ‘whose form is like a flower’, and he adds that Dharā and Dharasutā (names 955–956) may then be taken as one name.",
+    "hi": "भास्करराय बताते हैं कि इन शब्दों का विभाजन दूसरे ढंग से भी हो सकता है। एक छिपे हुए ‘अ’ को मानकर ‘शुद्धा-अजपा’ पढ़ने से ‘अजपा’ एक अलग नाम बनता है: वह मन्त्र जो, दक्षिणामूर्ति संहिता के अनुसार, बिना जपे ही चलता रहता है और संसार के बन्धन काटता है। तब शेष भाग ‘पुष्पनिभाकृतिः’ (जिनका रूप पुष्प के समान है) होता है, और वे कहते हैं कि उस स्थिति में ‘धरा’ और ‘धरसुता’ (नाम 955–956) को एक नाम माना जा सकता है।"
+  },
+  "story": {
+    "en": "The deep red hibiscus is closely tied to the worship of the Devī, and red is her colour throughout the hymn: name 49 calls her Sarvāruṇā, red in every part.",
+    "hi": "गहरे लाल रंग का गुड़हल देवी की पूजा से गहराई से जुड़ा है, और पूरे स्तोत्र में लाल ही उनका रंग है: नाम 49 उन्हें ‘सर्वारुणा’, अर्थात् सर्वांग अरुण, कहता है।"
+  },
+  "commentary": {
+    "sanskrit": "जपापुष्पनिभा ओड्रपुष्पेण तुल्या आकृतिः स्वरूपं यस्याः ।",
+    "translation": {
+      "en": "Whose ākṛti, form, is japāpuṣpanibhā: equal to the oḍra flower.",
+      "hi": "जिनकी आकृति, अर्थात् स्वरूप, जपापुष्प के समान, यानी ओड्र पुष्प के तुल्य है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 766 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Variant division: Bhāskararāya also allows शुद्धा + अजपा, with पुष्पनिभाकृतिः as the following name and धराधरसुता then counted as one name; the master text’s division is followed here. That joining धरा and धरसुता keeps the count at a thousand is an inference, not his words. Ajapā is explained as meaning only; no practice is described." }
+}

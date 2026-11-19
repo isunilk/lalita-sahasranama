@@ -1,0 +1,43 @@
+{
+  "number": 779,
+  "verse": 149,
+  "slug": "viraja",
+  "devanagari": "विरजाः",
+  "iastSplit": "Virajāḥ",
+  "archana": "ॐ विरजसे नमः",
+  "syllables": ["vi", "ra", "jāḥ"],
+  "words": [
+    { "sa": "वि", "meaning": { "en": "without, free of", "hi": "रहित" } },
+    { "sa": "रजस्", "meaning": { "en": "rajas: here sin; also dust, impurity", "hi": "रज: यहाँ पाप; धूल, मलिनता भी" } }
+  ],
+  "meaning": {
+    "en": "Free of rajas: stainless, untouched by any sin",
+    "hi": "रज से रहित: निर्मल, पाप से अछूती"
+  },
+  "explanation": {
+    "en": "Vi means ‘without’, and rajas, as Bhāskararāya glosses it, means sin. She is the one from whom every stain of sin has gone. He adds that the etymologists take the word rajas to mean light, water and the worlds.",
+    "hi": "‘वि’ का अर्थ है रहित, और भास्करराय के अनुसार ‘रजस्’ का अर्थ है पाप। वे वह हैं जिनसे पाप का हर मल दूर हो गया है। वे यह भी बताते हैं कि निरुक्तकार ‘रजस्’ शब्द से प्रकाश, जल और लोकों का अर्थ लेते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives the plain sense, free from sin, and no further hidden meaning. Her stainlessness is not kept apart from the world: the Purāṇa verse he quotes says that whoever sees her is purified, together with seven generations of his family.",
+    "hi": "भास्करराय सीधा अर्थ देते हैं, पाप से रहित, और कोई अन्य गूढ़ अर्थ नहीं। उनकी निर्मलता संसार से अलग नहीं रखी गई: जो पुराण-वचन वे उद्धृत करते हैं, वह कहता है कि जो उनके दर्शन करता है, वह अपनी सात पीढ़ियों सहित पवित्र हो जाता है।"
+  },
+  "story": {
+    "en": "Bhāskararāya also takes her as the presiding goddess of Virajā, a sacred place in Utkala (present-day Odisha), and quotes the Brahmāṇḍa Purāṇa: at Virajā the Mother Virajā was installed by Brahmā. He states that the archana form is virajase namaḥ, since the name is formed from rajas; that form is used here.",
+    "hi": "भास्करराय उन्हें उत्कल (आज के ओडिशा) के पवित्र क्षेत्र विरजा की अधिष्ठात्री देवी भी मानते हैं, और ब्रह्माण्ड पुराण उद्धृत करते हैं: विरजा में माता विरजा की स्थापना ब्रह्मा ने की। वे बताते हैं कि अर्चना में ‘विरजसे नमः’ का प्रयोग होता है, क्योंकि नाम ‘रजस्’ से बना है; यहाँ वही रूप लिया गया है।"
+  },
+  "commentary": {
+    "sanskrit": "विगतं रजः पापं यस्याः । विरजसे नम इति प्रयोगः ।",
+    "translation": {
+      "en": "From whom rajas, sin, has gone. The usage [in worship] is virajase namaḥ.",
+      "hi": "जिनसे रजस्, अर्थात् पाप, दूर हो गया है। (अर्चना में) ‘विरजसे नमः’ का प्रयोग होता है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 779 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Archana changed from the nāmāvali’s विरजायै नमः to विरजसे नमः, following Bhāskararāya’s explicit statement विरजसे नम इति प्रयोगः; the name is accordingly given as the s-stem विरजाः (in the verse, विरजा विश्वतोमुखी is the regular sandhi of विरजाः before व). The ā-stem form विरजा / विरजायै, used in most nāmāvalis and possible for the goddess of the Virajā shrine, should be weighed by a reviewer." }
+}

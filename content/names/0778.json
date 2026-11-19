@@ -1,0 +1,43 @@
+{
+  "number": 778,
+  "verse": 149,
+  "slug": "virad-rupa",
+  "devanagari": "विराड्रूपा",
+  "iastSplit": "Virāḍ-rūpā",
+  "archana": "ॐ विराड्रूपायै नमः",
+  "syllables": ["vi", "rāḍ", "rū", "pā"],
+  "words": [
+    { "sa": "विराज्", "meaning": { "en": "Virāṭ, the cosmic person whose body is the manifest universe", "hi": "विराट्, विश्वपुरुष जिसका शरीर व्यक्त जगत् है" } },
+    { "sa": "रूप", "meaning": { "en": "form", "hi": "रूप, स्वरूप" } }
+  ],
+  "meaning": {
+    "en": "Whose form is Virāṭ, the whole manifest universe",
+    "hi": "जिनका रूप विराट्, अर्थात् सम्पूर्ण व्यक्त जगत्, है"
+  },
+  "explanation": {
+    "en": "Virāṭ is the cosmic person whose body is the whole visible universe. She has that form: the earth, the sky, the stars and every creature are her body. Rūpā means having the form of.",
+    "hi": "विराट् वह विश्वपुरुष है जिसका शरीर सारा दृश्य जगत् है। वे उसी रूप वाली हैं: पृथ्वी, आकाश, तारे और हर प्राणी उनका शरीर हैं। ‘रूपा’ का अर्थ है उस रूप वाली।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says only that Virāṭ was defined earlier and that she has that form. There, on name 620, he explains Virāṭ as the one who identifies with the cosmic egg, the gross universe made of the five compounded elements; Svarāṭ identifies with the subtle body of all, and Samrāṭ with the unmanifest cause of both. Here she is the first and most visible of these: the universe as it is seen.",
+    "hi": "भास्करराय केवल इतना कहते हैं कि विराट् का लक्षण पहले बताया जा चुका है और वे उसी रूप वाली हैं। वहाँ, नाम 620 पर, वे विराट् को उस चेतना के रूप में समझाते हैं जो ब्रह्माण्ड, अर्थात् पंचीकृत स्थूल भूतों से बने जगत्, को अपना मानती है; स्वराट् सबके सूक्ष्म शरीर को और सम्राट् इन दोनों के अव्यक्त कारण को अपना मानता है। यहाँ वे इनमें पहले और सबसे प्रत्यक्ष रूप में हैं: जैसा जगत् दिखाई देता है, वैसा ही।"
+  },
+  "story": {
+    "en": "The idea goes back to the Puruṣa Sūkta of the Ṛg Veda, where Virāj is born from the cosmic Person. Later in this verse, name 780, Viśvatomukhī, whose face is on every side, carries the image further.",
+    "hi": "यह विचार ऋग्वेद के पुरुषसूक्त तक जाता है, जहाँ विश्वपुरुष से विराज् का जन्म बताया गया है। इसी श्लोक में आगे नाम 780, ‘विश्वतोमुखी’ (जिनका मुख सब ओर है), इस चित्र को आगे बढ़ाता है।"
+  },
+  "commentary": {
+    "sanskrit": "विराजो लक्षणं पूर्वमुक्तं तद्रूपा ।",
+    "translation": {
+      "en": "The definition of Virāṭ has been given earlier; she has that form.",
+      "hi": "विराट् का लक्षण पहले कहा जा चुका है; वे उसी रूप वाली हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 778 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya refers back to his definition of विराट् at name 620 (अनेककोटिब्रह्माण्डजननी), summarised in the inner layer. The Puruṣa Sūkta reference in the story is added here." }
+}

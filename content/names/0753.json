@@ -1,0 +1,43 @@
+{
+  "number": 753,
+  "verse": 145,
+  "slug": "mahashana",
+  "devanagari": "महाशना",
+  "iastSplit": "Mahāśanā",
+  "archana": "ॐ महाशनायै नमः",
+  "syllables": ["ma", "hā", "śa", "nā"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "अशन", "meaning": { "en": "eating, food", "hi": "भोजन, खाना" } }
+  ],
+  "meaning": {
+    "en": "Whose food is the whole universe, moving and unmoving",
+    "hi": "चर-अचर सारा जगत् जिनका भोजन है"
+  },
+  "explanation": {
+    "en": "Aśana means eating. Her eating is mahā, great, because what she eats is everything that moves and everything that does not. The name follows Mahāgrāsā and carries the same thought further.",
+    "hi": "‘अशन’ का अर्थ है भोजन करना। उनका भोजन ‘महा’ है, क्योंकि वे जो ग्रहण करती हैं, वह चलने वाला और न चलने वाला सारा जगत् है। यह नाम ‘महाग्रासा’ के बाद आता है और उसी भाव को आगे बढ़ाता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the literal sense and no hidden meaning. Read with the names around it, it shows the Mother as the end of all things as well as their beginning: what she sends out, she also takes back.",
+    "hi": "भास्करराय केवल शाब्दिक अर्थ देते हैं, कोई गूढ़ अर्थ नहीं। आसपास के नामों के साथ पढ़ने पर यह माँ को सब वस्तुओं का आदि ही नहीं, अन्त भी दिखाता है: जिसे वे प्रकट करती हैं, उसे वापस भी ले लेती हैं।"
+  },
+  "story": {
+    "en": "Name 229 is Mahāsanā, ‘whose seat is great’, spelt with a dental s. Bhāskararāya notes that this name has the palatal ś as its third letter, so the two are different words and not a repetition.",
+    "hi": "नाम 229 ‘महासना’ है (जिनका आसन महान है), जिसमें दन्त्य ‘स’ है। भास्करराय बताते हैं कि इस नाम का तीसरा वर्ण तालव्य ‘श’ है, इसलिए दोनों अलग शब्द हैं और पुनरुक्ति नहीं है।"
+  },
+  "commentary": {
+    "sanskrit": "महच्चराचरकर्मकत्वादशनं यस्याः ।",
+    "translation": {
+      "en": "Whose eating is great, because its object is all that moves and all that does not.",
+      "hi": "जिनका भोजन महान है, क्योंकि उसका विषय समस्त चर और अचर जगत् है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 753 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya distinguishes this name from महासना (229) by its palatal श; the edition prints पूर्वं तदन्त्यतृतीयकं नाम, apparently for a name whose third letter is dental (दन्त्य). The second sentence of the inner layer is a reflection." }
+}

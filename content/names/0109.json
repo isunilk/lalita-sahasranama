@@ -1,0 +1,43 @@
+{
+  "number": 109,
+  "verse": 40,
+  "slug": "mahasakti",
+  "devanagari": "महासक्तिः",
+  "iastSplit": "Mahāsaktiḥ",
+  "archana": "ॐ महासक्त्यै नमः",
+  "syllables": ["ma", "hā", "sak", "tiḥ"],
+  "words": [
+    { "sa": "मह", "meaning": { "en": "festival, celebration; also radiance", "hi": "उत्सव; तेज भी" } },
+    { "sa": "आसक्ति", "meaning": { "en": "eager devotion, being wholly intent", "hi": "आसक्ति, तत्परता" } }
+  ],
+  "meaning": {
+    "en": "Wholly intent on the great festival, the union of Śiva and Śakti",
+    "hi": "जो शिव-शक्ति के मिलन रूपी महोत्सव में आसक्त हैं"
+  },
+  "explanation": {
+    "en": "The name divides as maha, a festival, and āsakti, eager devotion. Bhāskararāya says the festival is the union of Śiva and Śakti in the thousand-petalled lotus, and she is wholly intent upon it. He also reads maha as radiance, the fire’s light, and gives a third reading: she whose union is great and complete on every side.",
+    "hi": "यह नाम ‘मह’ (उत्सव) और ‘आसक्ति’ (उत्कट तत्परता) से बना है। भास्करराय कहते हैं कि वह उत्सव सहस्रदल कमल में शिव और शक्ति का मिलन है, और वे उसमें पूर्णतः तत्पर हैं। वे ‘मह’ का अर्थ तेज, अर्थात् अग्नि का प्रकाश, भी करते हैं, और एक तीसरा अर्थ भी देते हैं: जिनका संयोग महान और सब ओर से पूर्ण है।"
+  },
+  "inner": {
+    "en": "Read with the names around it, this is the Devī wholly given to the union at the crown, the ‘festival’ toward which the whole ascent moves. Bhāskararāya supports the senses of maha from the Amarakośa (festival) and the Viśva lexicon (festival or radiance). He gives no further hidden meaning beyond these readings.",
+    "hi": "आस-पास के नामों के साथ पढ़ने पर ये वे देवी हैं जो शिखर पर होने वाले मिलन में पूर्णतः लीन हैं, वह ‘उत्सव’ जिसकी ओर सारा आरोहण बढ़ता है। ‘मह’ के अर्थों के लिए भास्करराय अमरकोश (उत्सव) और विश्व कोश (उत्सव या तेज) का प्रमाण देते हैं। इन अर्थों से आगे वे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "Some texts read Mahāśaktiḥ, ‘great power’, here. Bhāskararāya reads Mahāsaktiḥ, with the dental s, and in his comment on the later name Mahāśaktiḥ (verse 54) explains that, on the evidence of the Chalākṣara Sūtra and of some manuscripts, he keeps the two as different names.",
+    "hi": "कुछ पाठों में यहाँ ‘महाशक्तिः’ (महान शक्ति) मिलता है। भास्करराय दन्त्य ‘स’ वाला ‘महासक्तिः’ पढ़ते हैं, और आगे आने वाले नाम ‘महाशक्तिः’ (श्लोक 54) की व्याख्या में बताते हैं कि छलाक्षर सूत्र और कुछ पुस्तकों के प्रमाण से वे दोनों को अलग-अलग नाम मानते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "महे उत्सवे तत्रत्यशिवशक्तिसमायोगरूपे आसक्तिस्तत्परता यस्याः ।",
+    "translation": {
+      "en": "She whose āsakti, eager devotion, is for the maha, the festival, which is the union of Śiva and Śakti there.",
+      "hi": "जिनकी आसक्ति, अर्थात् तत्परता, उस ‘मह’, अर्थात् उत्सव, में है जो वहाँ (सहस्रार में) शिव और शक्ति का मिलन है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 109 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Kuṇḍalinī name: meaning only. Bhāskararāya reads महासक्तिः (dental स, मह + आसक्ति), as the master text does. In his note after name 117 the edition prints महाशक्तिरित्यारभ्य; in his comment on the later महाशक्तिः (his verse 105, this site’s verse 54) he says that if the palatal श were certain here, an elided अ would have to be read in the later name, and that he keeps the dental reading on the evidence of the Chalākṣara Sūtra and some manuscripts. Check." }
+}

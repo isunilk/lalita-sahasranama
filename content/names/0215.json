@@ -1,0 +1,43 @@
+{
+  "number": 215,
+  "verse": 54,
+  "slug": "maha-maya",
+  "devanagari": "महामाया",
+  "iastSplit": "Mahā-māyā",
+  "archana": "ॐ महामायायै नमः",
+  "syllables": ["ma", "hā", "mā", "yā"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "माया", "meaning": { "en": "the power that veils and enchants; also compassion", "hi": "माया, मोहित करने वाली शक्ति; करुणा भी" } }
+  ],
+  "meaning": {
+    "en": "The great power of illusion that enchants even the gods",
+    "hi": "महामाया, जो देवताओं को भी मोहित कर देती हैं"
+  },
+  "explanation": {
+    "en": "Māyā is the power that veils the truth and makes the world seem other than it is. Hers is great māyā, because it holds even Brahmā and the other gods under its spell.",
+    "hi": "माया वह शक्ति है जो सत्य को ढक देती है और जगत को जैसा वह है उससे भिन्न दिखाती है। उनकी माया महान है, क्योंकि ब्रह्मा आदि देवता भी उसके वश में रहते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes the Mārkaṇḍeya Purāṇa: the Goddess Mahāmāyā forcibly draws even the minds of the wise into delusion. From the Kālikā Purāṇa he adds how it works: the child has knowledge in the womb, is born without it, and is bound again by old impressions, possessiveness, anger, greed, desire and anxiety day and night. He also gives a second reading: since māyā can mean compassion, Mahāmāyā is she who is full of compassion.",
+    "hi": "भास्करराय मार्कण्डेय पुराण का वचन देते हैं: भगवती महामाया ज्ञानियों के चित्त को भी बलपूर्वक खींचकर मोह में डाल देती हैं। कालिका पुराण से वे इसकी प्रक्रिया बताते हैं: गर्भ में जीव को ज्ञान रहता है, जन्म के समय वह ज्ञान खो जाता है, और फिर पुराने संस्कार, ममता, क्रोध, लोभ, कामना और दिन-रात की चिन्ता उसे बाँध लेते हैं। वे एक दूसरा अर्थ भी देते हैं: कोश के अनुसार ‘माया’ का अर्थ करुणा भी है, अतः महामाया वे हैं जो करुणा से परिपूर्ण हैं।"
+  },
+  "story": {
+    "en": "The verse comes from the opening of the Devī Māhātmya. The sage Medhas speaks it to King Suratha and the merchant Samādhi, wise men who still cannot let go of the kingdom and family that cast them out; that, he explains, is Mahāmāyā at work.",
+    "hi": "यह श्लोक देवी माहात्म्य के आरम्भ से है। ऋषि मेधा इसे राजा सुरथ और वैश्य समाधि से कहते हैं, जो समझदार होकर भी उस राज्य और परिवार के मोह से छूट नहीं पाते जिन्होंने उन्हें निकाल दिया था; मेधा बताते हैं कि यही महामाया का प्रभाव है।"
+  },
+  "commentary": {
+    "sanskrit": "ब्रह्मादीनामपि मोहकत्वान्महामाया ।",
+    "translation": {
+      "en": "She is Mahāmāyā because she deludes even Brahmā and the other gods.",
+      "hi": "ब्रह्मा आदि को भी मोहित करने के कारण वे महामाया हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 215 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The story gives the Devī Māhātmya setting of the verse Bhāskararāya quotes (Medhas, Suratha, Samādhi); the commentary itself does not tell the story." }
+}

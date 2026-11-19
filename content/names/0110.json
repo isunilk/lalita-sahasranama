@@ -1,0 +1,42 @@
+{
+  "number": 110,
+  "verse": 40,
+  "slug": "kundalini",
+  "devanagari": "कुण्डलिनी",
+  "iastSplit": "Kuṇḍalinī",
+  "archana": "ॐ कुण्डलिन्यै नमः",
+  "syllables": ["kuṇ", "ḍa", "li", "nī"],
+  "words": [
+    { "sa": "कुण्डलिनी", "meaning": { "en": "Kuṇḍalinī: she who is coiled, who has kuṇḍalas, coils", "hi": "कुण्डलिनी: कुण्डल (घेरे) वाली, कुण्डली मारे हुए" } }
+  ],
+  "meaning": {
+    "en": "The coiled power, the Devī herself within the body",
+    "hi": "कुण्डली मारे हुए शक्ति, देह के भीतर स्वयं देवी"
+  },
+  "explanation": {
+    "en": "Kuṇḍala means a ring or coil, and Kuṇḍalinī is ‘she who has coils’; in shape, says Bhāskararāya, she is like a serpent. He quotes the Tantrarāja: she is the life-power in the Mūlādhāra, in the form of a sleeping serpent with three coils, of great radiance. This one name gathers up all the names of the ascent around it.",
+    "hi": "‘कुण्डल’ का अर्थ है घेरा या कुण्डली, और कुण्डलिनी का अर्थ है ‘कुण्डलों वाली’; भास्करराय कहते हैं कि आकृति में वे सर्पिणी जैसी हैं। वे तन्त्रराज का वचन देते हैं: वे मूलाधार में स्थित जीव-शक्ति हैं, सोई हुई सर्पिणी के आकार की, तीन आवर्तों वाली, महान द्युति से युक्त। यह एक नाम आस-पास के आरोहण के सभी नामों को समेट लेता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives other derivations: the Devī Purāṇa says she is called Kuṇḍalinī because her form is like a śṛṅgāṭaka, a three-cornered figure; and Kuṇḍalinī is also a name for the first section of her mantra, which she embodies. From the Yoga Vāsiṣṭha’s tale of Cūḍālā he quotes: know Kuṇḍalinī as the life of the mind, like a cluster of blossoms holding its fragrance within. In this hymn Kuṇḍalinī is the Devī’s own form within the body, not a separate power.",
+    "hi": "भास्करराय अन्य व्युत्पत्तियाँ भी देते हैं: देवी पुराण कहता है कि शृङ्गाटक, अर्थात् त्रिकोण, जैसी आकृति के कारण वे कुण्डलिनी कहलाती हैं; और ‘कुण्डलिनी’ उनके मन्त्र के पहले खण्ड का भी नाम है, जिसका स्वरूप वे स्वयं हैं। योगवासिष्ठ के चूडाला-उपाख्यान से वे उद्धृत करते हैं: कुण्डलिनी को मन का जीवन जानो, जैसे भीतर सुगन्ध समेटे फूलों की मञ्जरी। इस स्तोत्र में कुण्डलिनी कोई अलग शक्ति नहीं, देह के भीतर देवी का ही अपना रूप हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya quotes several Tantras on Kuṇḍalinī, among them the Vāmakeśvara Tantra, which tells how she, coiled in the Mūlādhāra and fine as a lotus fibre, rises, breaks the three knots and the six lotuses, and rejoices with Śiva in the thousand-petalled lotus. The methods those texts describe are traditionally learned from a teacher and are not given here.",
+    "hi": "भास्करराय कुण्डलिनी पर अनेक तन्त्रों के वचन देते हैं, जिनमें वामकेश्वर तन्त्र भी है; वह बताता है कि मूलाधार में कुण्डली मारे, कमल-तन्तु-सी सूक्ष्म वे ऊपर उठती हैं, तीनों ग्रन्थियों और छहों कमलों का भेदन करती हैं, और सहस्रदल कमल में शिव के साथ आनन्दित होती हैं। उन ग्रन्थों में वर्णित विधियाँ परम्परा से गुरु से सीखी जाती हैं, और यहाँ नहीं दी गई हैं।"
+  },
+  "commentary": {
+    "sanskrit": "कुण्डले अस्याः स्त इति कुण्डलिनी आकृत्या भुजङ्गी वा ।",
+    "translation": {
+      "en": "She has kuṇḍalas, coils, hence Kuṇḍalinī; or, in form she is a serpent.",
+      "hi": "इनके कुण्डल, अर्थात् घेरे, हैं, इसलिए ये कुण्डलिनी हैं; अथवा आकृति में ये सर्पिणी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 110 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Kuṇḍalinī name: meaning only. The Vāmakeśvara Tantra and Aruṇopaniṣad passages he quotes include practice details; only their descriptive content is summarised, and no method is given. The gloss कुण्डले अस्याः स्तः has a dual (‘two kuṇḍalas’), translated loosely as ‘coils’. The remark that Kuṇḍalinī names the first section of her mantra follows his वाग्भवबीजस्य कुण्डलिनीति संज्ञा; no mantra is given." }
+}

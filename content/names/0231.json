@@ -1,0 +1,44 @@
+{
+  "number": 231,
+  "verse": 56,
+  "slug": "maha-bhairava-pujita",
+  "devanagari": "महाभैरवपूजिता",
+  "iastSplit": "Mahā-bhairava-pūjitā",
+  "archana": "ॐ महाभैरवपूजितायै नमः",
+  "syllables": ["ma", "hā", "bhai", "ra", "va", "pū", "ji", "tā"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "भैरव", "meaning": { "en": "Bhairava, Śiva in his awe-inspiring form", "hi": "भैरव, शिव का भयावह और विस्मयकारी रूप" } },
+    { "sa": "पूजिता", "meaning": { "en": "worshipped", "hi": "पूजित" } }
+  ],
+  "meaning": {
+    "en": "Worshipped by Mahābhairava, the supreme Śiva",
+    "hi": "महाभैरव, अर्थात् परमशिव, द्वारा पूजित"
+  },
+  "explanation": {
+    "en": "Bhairava is Śiva in his awe-inspiring form. Bhāskararāya hears in the word three acts, sustaining, delighting and emitting, and so takes Bhairava to be Paraśiva, the supreme Śiva who creates, preserves and dissolves. She is worshipped by him.",
+    "hi": "भैरव शिव का भयावह और विस्मयकारी रूप है। भास्करराय इस शब्द में तीन क्रियाएँ सुनते हैं, भरण, रमण और वमन, और इसलिए भैरव को परशिव मानते हैं, जो सृष्टि, स्थिति और संहार करते हैं। वे उन्हीं महाभैरव द्वारा पूजित हैं।"
+  },
+  "inner": {
+    "en": "He quotes the Padma Purāṇa: Śambhu, from whom the world arises, worships the Devī, auspicious and made of the power of mantra, holding a rosary in his hand. So the supreme Lord himself is counted among her worshippers.",
+    "hi": "वे पद्म पुराण का वचन देते हैं: जगत के उद्गम शम्भु हाथ में अक्षमाला लेकर, मन्त्र-शक्तिमयी मंगलमयी देवी की पूजा करते हैं। इस प्रकार स्वयं परमेश्वर भी उनके उपासकों में गिने जाते हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya adds that, as the Lalitopākhyāna tells, it was Mahāśambhunātha who, by a great sacrifice, brought Lalitā forth from the fire-altar of consciousness. The worship of this name and the sacrifice of the last thus reach back to her first appearance (name 4).",
+    "hi": "भास्करराय जोड़ते हैं कि ललितोपाख्यान के अनुसार महाशम्भुनाथ ने ही महायाग द्वारा ललिता को चिदग्निकुण्ड से प्रकट किया था। इस प्रकार इस नाम की पूजा और पिछले नाम का याग उनके प्रथम प्राकट्य तक पहुँचते हैं (नाम 4)।"
+  },
+  "commentary": {
+    "sanskrit": "भरणरमणवमनकर्ता सृष्टिस्थितिसंहृतिकारी परशिवो भैरवः स एव महांस्तेन महाभैरवेण पूजिता ।",
+    "translation": {
+      "en": "Bhairava is Paraśiva, the doer of sustaining, delighting and emitting, who brings about creation, preservation and dissolution; he alone is great, and she is worshipped by that Mahābhairava.",
+      "hi": "भरण, रमण और वमन करने वाले, सृष्टि, स्थिति और संहार करने वाले परशिव ही भैरव हैं; वही महान हैं, और उन्हीं महाभैरव द्वारा वे पूजित हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 231 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Name 4’s story (from the Lalitopākhyāna) has the gods perform the sacrifice; here Bhāskararāya credits it to Mahāśambhunātha. Both are recorded as given; a scholar may wish to reconcile them. The reading of भैरव as भरण, रमण, वमन is his." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 761,
+  "verse": 146,
+  "slug": "subhaga",
+  "devanagari": "सुभगा",
+  "iastSplit": "Subhagā",
+  "archana": "ॐ सुभगायै नमः",
+  "syllables": ["su", "bha", "gā"],
+  "words": [
+    { "sa": "सु", "meaning": { "en": "good, beautiful", "hi": "शुभ, सुन्दर" } },
+    { "sa": "भग", "meaning": { "en": "fortune, splendour, prosperity", "hi": "सौभाग्य, ऐश्वर्य, श्री" } }
+  ],
+  "meaning": {
+    "en": "The fortunate and lovely one, source of all good fortune",
+    "hi": "सौभाग्यवती, जो समस्त सौभाग्य का स्रोत हैं"
+  },
+  "explanation": {
+    "en": "Su means good and bhaga means fortune, splendour, beauty and prosperity. She is Subhagā, the one in whom all these are found at their best. Bhāskararāya adds that all the good fortune in the three worlds is her own form.",
+    "hi": "‘सु’ का अर्थ है शुभ और ‘भग’ का अर्थ है सौभाग्य, ऐश्वर्य, सौन्दर्य और समृद्धि। वे ‘सुभगा’ हैं, जिनमें ये सब अपने श्रेष्ठ रूप में विद्यमान हैं। भास्करराय कहते हैं कि तीनों लोकों का सारा सौभाग्य उन्हीं का रूप है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya lists the senses of bhaga from a lexicon: sovereignty, greatness, knowledge, detachment, fame, valour, effort, desire, prosperity, dharma, liberation and also the sun. Taking the last, she is the one by whom the sun is made splendid, for the power at work in the sun is hers; he quotes the Viṣṇu Purāṇa that this power, made of the three Vedas, abides in the sun month after month.",
+    "hi": "भास्करराय कोश से ‘भग’ के अर्थ गिनाते हैं: ऐश्वर्य, माहात्म्य, ज्ञान, वैराग्य, यश, वीर्य, प्रयत्न, इच्छा, श्री, धर्म, मुक्ति और सूर्य भी। अन्तिम अर्थ से वे वह हैं जिनके कारण सूर्य शोभित है, क्योंकि सूर्य में काम करने वाली शक्ति उन्हीं की है; इसके लिए वे विष्णु पुराण उद्धृत करते हैं कि तीनों वेदों से बनी यह शक्ति हर मास सूर्य में स्थित रहती है।"
+  },
+  "story": {
+    "en": "Bhāskararāya notes that, by a saying of Dhaumya on the honouring of young girls, a girl of five years is called Subhagā, and the Devī is one with her. He also gives the Padma Purāṇa’s eight auspicious things, such as sugarcane, milk, flowers and salt, and names married women as the living form of good fortune.",
+    "hi": "भास्करराय बताते हैं कि कन्या-पूजन के प्रसंग में धौम्य के वचन के अनुसार पाँच वर्ष की कन्या ‘सुभगा’ कहलाती है, और देवी उससे अभिन्न हैं। वे पद्म पुराण से ईख, दूध, फूल और नमक जैसी आठ मंगल वस्तुएँ भी गिनाते हैं, और सुवासिनी स्त्रियों को सौभाग्य का सजीव रूप बताते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "लोकत्रयान्तर्गतं सौभाग्यं चरगतमचरगतं वा अस्या एव रूपमिति सुभगा ।",
+    "translation": {
+      "en": "All the good fortune within the three worlds, whether in moving beings or in unmoving things, is her own form; hence Subhagā.",
+      "hi": "तीनों लोकों में जो भी सौभाग्य है, चाहे चर प्राणियों में हो या अचर वस्तुओं में, वह उन्हीं का रूप है; इसलिए वे सुभगा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 761 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The senses of भग are from the Viśva lexicon as quoted by Bhāskararāya (one sense, योनि, is left out of the list). The eight auspicious things (सौभाग्याष्टक) are abridged; सुवासिन्यः is rendered as married women." }
+}

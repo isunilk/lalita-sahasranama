@@ -1,0 +1,42 @@
+{
+  "number": 124,
+  "verse": 42,
+  "slug": "sharvani",
+  "devanagari": "शर्वाणी",
+  "iastSplit": "Śarvāṇī",
+  "archana": "ॐ शर्वाण्यै नमः",
+  "syllables": ["śar", "vā", "ṇī"],
+  "words": [
+    { "sa": "शर्वाणी", "meaning": { "en": "Śarvāṇī: consort of Śarva (Śiva)", "hi": "शर्वाणी: शर्व (शिव) की पत्नी" } }
+  ],
+  "meaning": {
+    "en": "Consort of Śarva, Śiva in his form as earth",
+    "hi": "शर्व की पत्नी, पृथ्वी-रूप शिव की शक्ति"
+  },
+  "explanation": {
+    "en": "Śarva is a name of Śiva, and Śarvāṇī is his consort; the name is formed by the same rule of grammar as Bhavānī. Bhāskararāya explains that Śarva is the name of Paramaśiva in his form as the earth.",
+    "hi": "‘शर्व’ शिव का नाम है, और शर्वाणी उनकी पत्नी हैं; यह नाम व्याकरण के उसी नियम से बनता है जिससे भवानी। भास्करराय बताते हैं कि ‘शर्व’ पृथ्वी-मूर्ति परमशिव का नाम है।"
+  },
+  "inner": {
+    "en": "As Bhava is tied to water, the Purāṇas he cites tie Śarva to the earth, which upholds all moving and unmoving beings. In them Śarva’s wife is Sukeśī and his son is Aṅgāraka, the planet Mars; so, Bhāskararāya says, Śarvāṇī means the mother of Maṅgala. As the earth upholds all, so she, as the earth’s own power, upholds every creature.",
+    "hi": "जैसे भव का सम्बन्ध जल से है, वैसे ही उनके द्वारा उद्धृत पुराण शर्व को पृथ्वी से जोड़ते हैं, जो सब चर और अचर प्राणियों को धारण करती है। उनमें शर्व की पत्नी सुकेशी और पुत्र अङ्गारक, अर्थात् मंगल ग्रह, बताए गए हैं; इसलिए भास्करराय कहते हैं कि शर्वाणी का अर्थ है मंगल की माता। जैसे पृथ्वी सबको धारण करती है, वैसे ही वे, पृथ्वी की अपनी शक्ति के रूप में, हर प्राणी को धारण करती हैं।"
+  },
+  "story": {
+    "en": "For this account Bhāskararāya cites the Liṅga Purāṇa and the Vāyavīya. Together with Bhavānī (112), Śarvāṇī places the Devī within the Purāṇic scheme of the eight forms of Śiva.",
+    "hi": "इस वर्णन के लिए भास्करराय लिङ्ग पुराण और वायवीय का प्रमाण देते हैं। भवानी (112) के साथ शर्वाणी देवी को शिव की आठ मूर्तियों के पौराणिक क्रम में स्थापित करती है।"
+  },
+  "commentary": {
+    "sanskrit": "क्षितिमूर्तेः परमशिवस्य शर्व इति संज्ञा ।",
+    "translation": {
+      "en": "Śarva is the name of Paramaśiva in his form as the earth.",
+      "hi": "पृथ्वी-मूर्ति परमशिव का नाम ‘शर्व’ है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 124 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. वायवीये is left as ‘the Vāyavīya’ (the Vāyu Purāṇa or the Vāyavīya Saṃhitā). The last sentence of the inner layer extends the Liṅga Purāṇa’s description of Śarva as the upholder of all beings to her; it is a reflection." }
+}

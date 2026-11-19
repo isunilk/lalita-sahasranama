@@ -1,0 +1,43 @@
+{
+  "number": 226,
+  "verse": 56,
+  "slug": "maha-tantra",
+  "devanagari": "महातन्त्रा",
+  "iastSplit": "Mahā-tantrā",
+  "archana": "ॐ महातन्त्रायै नमः",
+  "syllables": ["ma", "hā", "tan", "trā"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "तन्त्र", "meaning": { "en": "tantra, a scripture of worship and discipline", "hi": "तन्त्र, उपासना और साधना का शास्त्र" } }
+  ],
+  "meaning": {
+    "en": "Whose tantras, her sacred teachings, are great",
+    "hi": "जिनके तन्त्र, अर्थात् उपासना-शास्त्र, महान हैं"
+  },
+  "explanation": {
+    "en": "A tantra is a scripture that teaches the worship of a deity: its doctrine, rites and disciplines. Hers are great because they bear abundant fruit; Bhāskararāya names the Kulārṇava and the Jñānārṇava among them.",
+    "hi": "तन्त्र वह शास्त्र है जो किसी देवता की उपासना सिखाता है: उसका सिद्धान्त, विधि और साधना। उनके तन्त्र महान हैं क्योंकि वे प्रचुर फल देते हैं; भास्करराय इनमें कुलार्णव और ज्ञानार्णव का नाम लेते हैं।"
+  },
+  "inner": {
+    "en": "In a second reading he takes the great tantra to be one text above all, the Svatantra, great because it depends on no other. He quotes it: the Lord is asked for a teaching free of the confusion caused by tantras that rely on one another, and answers with the Kādimata, complete in itself. The Saundaryalaharī says the same in verse: Paśupati first filled the world with sixty-four tantras, each bent on its own powers, then at her insistence brought down to earth her own independent tantra, which accomplishes every aim of life.",
+    "hi": "दूसरे अर्थ में वे महान तन्त्र को एक विशेष ग्रन्थ मानते हैं, स्वतन्त्र, जो किसी दूसरे पर निर्भर न होने के कारण महान है। वे उसी का वचन देते हैं: प्रभु से ऐसा उपदेश माँगा जाता है जो एक-दूसरे पर निर्भर तन्त्रों से उत्पन्न भ्रम से मुक्त हो, और उत्तर में वे कादिमत देते हैं, जो अपने आप में पूर्ण है। सौन्दर्यलहरी भी यही कहती है: पशुपति ने पहले अपनी-अपनी सिद्धियों में लगे चौंसठ तन्त्रों से सारे जगत को भर दिया, फिर देवी के आग्रह पर उनका अपना स्वतन्त्र तन्त्र धरती पर उतारा, जो जीवन के सब पुरुषार्थ सिद्ध करता है।"
+  },
+  "story": {
+    "en": "This verse answers names 204 to 206, where she is the form of all mantras, yantras and tantras. There she is all of them; here the greatest of each is hers. The next two names carry the same pattern through mantra and yantra.",
+    "hi": "यह श्लोक नाम 204 से 206 से मेल खाता है, जहाँ वे सभी मन्त्रों, यन्त्रों और तन्त्रों का स्वरूप हैं। वहाँ वे इन सबका रूप हैं; यहाँ इनमें से प्रत्येक का सर्वश्रेष्ठ उन्हीं का है। अगले दो नाम यही क्रम मन्त्र और यन्त्र के लिए आगे बढ़ाते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "स्वतन्त्रस्यान्यानपेक्षत्वान्महत्त्वम् ।",
+    "translation": {
+      "en": "The Svatantra is great because it needs no other.",
+      "hi": "स्वतन्त्र तन्त्र की महानता इसलिए है कि वह किसी अन्य पर निर्भर नहीं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 226 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya quotes the Kādimata passage as from the Svatantra itself (तदुक्तं तत्रैव); the identification is his. The Saundaryalaharī verse (31 in the usual numbering) is paraphrased." }
+}

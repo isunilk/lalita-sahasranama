@@ -1,0 +1,43 @@
+{
+  "number": 219,
+  "verse": 55,
+  "slug": "maha-bhoga",
+  "devanagari": "महाभोगा",
+  "iastSplit": "Mahā-bhogā",
+  "archana": "ॐ महाभोगायै नमः",
+  "syllables": ["ma", "hā", "bho", "gā"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "भोग", "meaning": { "en": "enjoyment, joy, wealth (or ābhoga, expanse)", "hi": "भोग, सुख, धन (अथवा आभोग, विस्तार)" } }
+  ],
+  "meaning": {
+    "en": "Whose expanse and whose joys are vast",
+    "hi": "जिनका विस्तार और जिनका सुख-वैभव अपार है"
+  },
+  "explanation": {
+    "en": "Bhāskararāya reads the name two ways. Split as mahā-ābhogā, it means she whose expanse is great: earth, water and the other elements are her spread-out form. Split as mahā-bhogā, it means she whose enjoyment, or wealth, is great.",
+    "hi": "भास्करराय इस नाम को दो प्रकार से पढ़ते हैं। ‘महा-आभोगा’ के रूप में इसका अर्थ है वे, जिनका विस्तार महान है: पृथ्वी, जल आदि तत्त्व उन्हीं का फैला हुआ रूप हैं। ‘महा-भोगा’ के रूप में इसका अर्थ है वे, जिनका भोग अर्थात् सुख या धन महान है।"
+  },
+  "inner": {
+    "en": "He gives these senses without a further hidden meaning. The two readings fit together: the world spread out from earth upward is her expanse, and the same world is what she enjoys. Nothing she enjoys lies outside herself.",
+    "hi": "वे इन अर्थों से आगे कोई गूढ़ अर्थ नहीं देते। दोनों अर्थ एक-दूसरे से जुड़ते हैं: पृथ्वी से लेकर ऊपर तक फैला जगत उनका विस्तार है, और वही जगत उनका भोग भी है। जिसका वे भोग करती हैं, वह उनसे बाहर कुछ नहीं।"
+  },
+  "story": {
+    "en": "This verse names four of her riches in a row: enjoyment, sovereignty, potency and strength. Bhāskararāya gives each word its several senses, often from the lexicons, so that each name opens in more than one direction.",
+    "hi": "यह श्लोक उनके चार ऐश्वर्यों को क्रम से गिनाता है: भोग, ऐश्वर्य, वीर्य और बल। भास्करराय हर शब्द के अनेक अर्थ देते हैं, प्रायः कोशों से, जिससे प्रत्येक नाम कई दिशाओं में खुलता है।"
+  },
+  "commentary": {
+    "sanskrit": "महानाभोगः क्षित्यादिरूपो विस्तारो यस्याः ।",
+    "translation": {
+      "en": "She whose ābhoga, expanse, in the form of earth and the rest, is great.",
+      "hi": "जिनका आभोग अर्थात् विस्तार, पृथ्वी आदि के रूप में, महान है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 219 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya splits the name as महा + आभोग or महा + भोग; both give महाभोगा. The inner layer is a reflection on his two readings." }
+}

@@ -1,0 +1,44 @@
+{
+  "number": 114,
+  "verse": 41,
+  "slug": "bhavaranya-kutharika",
+  "devanagari": "भवारण्यकुठारिका",
+  "iastSplit": "Bhavāraṇya-kuṭhārikā",
+  "archana": "ॐ भवारण्यकुठारिकायै नमः",
+  "syllables": ["bha", "vā", "raṇ", "ya", "ku", "ṭhā", "ri", "kā"],
+  "words": [
+    { "sa": "भव", "meaning": { "en": "worldly existence, saṃsāra", "hi": "भव, संसार" } },
+    { "sa": "अरण्य", "meaning": { "en": "forest", "hi": "वन, जंगल" } },
+    { "sa": "कुठारिका", "meaning": { "en": "axe", "hi": "कुठार, कुल्हाड़ी" } }
+  ],
+  "meaning": {
+    "en": "The axe that fells the forest of worldly existence",
+    "hi": "संसार रूपी वन को काटने वाली कुल्हाड़ी"
+  },
+  "explanation": {
+    "en": "Bhava, worldly existence, is a forest: dense, without a clear way through, and growing back again and again. She is the axe that cuts it down. Bhāskararāya notes that a lexicon gives the word for axe in two genders, so the feminine form suits a name of the Devī.",
+    "hi": "भव, अर्थात् संसार, एक वन है: घना, जिसमें राह न सूझे, और जो बार-बार फिर उग आता है। वे उसे काटने वाली कुल्हाड़ी हैं। भास्करराय बताते हैं कि कोश ‘कुठार’ शब्द को दो लिंगों में देता है, इसलिए यह स्त्रीलिंग रूप देवी के नाम के अनुकूल है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the literal sense: she is the one who cuts saṃsāra down. As a reflection: the name follows Bhāvanāgamyā, so it shows what reaching her through contemplation does. The forest grows back again and again; only her axe clears it.",
+    "hi": "भास्करराय केवल शब्दार्थ देते हैं: वे संसार को काटने वाली हैं। चिन्तन के रूप में: यह नाम ‘भावनागम्या’ के बाद आता है, इसलिए यह बताता है कि भावना से उन्हें पाने का फल क्या है। वन बार-बार उग आता है; केवल उनकी कुल्हाड़ी ही उसे साफ़ करती है।"
+  },
+  "story": {
+    "en": "From Bhavānī (112) the hymn strings together names beginning with bha: Bhavānī, Bhāvanāgamyā and Bhavāraṇyakuṭhārikā, then Bhadrapriyā, Bhadramūrti and Bhaktasaubhāgyadāyinī, and the bhakti names of the next verse.",
+    "hi": "भवानी (112) से स्तोत्र ‘भ’ से आरम्भ होने वाले नामों की माला पिरोता है: भवानी, भावनागम्या और भवारण्यकुठारिका, फिर भद्रप्रिया, भद्रमूर्ति और भक्तसौभाग्यदायिनी, और अगले श्लोक के भक्ति-नाम।"
+  },
+  "commentary": {
+    "sanskrit": "भवः संसार एवारण्यमतिगहनत्वात् पुनः पुनः प्ररोहाच्च । तस्य कुठारेव कुठारिका ।",
+    "translation": {
+      "en": "Bhava, saṃsāra, is itself a forest, because it is very dense and because it sprouts again and again. Like an axe to it, she is Kuṭhārikā.",
+      "hi": "भव, अर्थात् संसार, ही अरण्य है, क्योंकि वह अत्यन्त घना है और बार-बार उग आता है। उसके लिए कुठार के समान होने से वे कुठारिका हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 114 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the inner layer is a reflection." }
+}

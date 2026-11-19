@@ -1,0 +1,43 @@
+{
+  "number": 221,
+  "verse": 55,
+  "slug": "maha-virya",
+  "devanagari": "महावीर्या",
+  "iastSplit": "Mahā-vīryā",
+  "archana": "ॐ महावीर्यायै नमः",
+  "syllables": ["ma", "hā", "vīr", "yā"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "वीर्य", "meaning": { "en": "potency, valour; seed, radiance", "hi": "पराक्रम, सामर्थ्य; बीज, तेज" } }
+  ],
+  "meaning": {
+    "en": "Whose potency, valour and radiance are great",
+    "hi": "जिनका वीर्य, पराक्रम और तेज महान है"
+  },
+  "explanation": {
+    "en": "Vīrya is potency in every sense: the creative seed, majesty, radiance and the power to act. Bhāskararāya takes all of these from the Viśva lexicon and says that in her they are great.",
+    "hi": "‘वीर्य’ हर अर्थ में सामर्थ्य है: सृजन का बीज, प्रभाव, तेज और कर्म करने की शक्ति। भास्करराय ये सब अर्थ विश्वकोश से लेते हैं और कहते हैं कि उनमें ये सब महान हैं।"
+  },
+  "inner": {
+    "en": "He gives the senses and no further hidden meaning. The first sense, the seed, points to her as the source of all that is born, and the others to the same power shown as majesty and as valour in her battles.",
+    "hi": "वे ये अर्थ देते हैं, इससे आगे कोई गूढ़ अर्थ नहीं। पहला अर्थ, बीज, उन्हें हर जन्म लेने वाली वस्तु का मूल बताता है; शेष अर्थ उसी शक्ति को प्रभाव और उनके युद्धों के पराक्रम के रूप में दिखाते हैं।"
+  },
+  "story": {
+    "en": "The hymn has already told of that valour in the war against Bhaṇḍāsura and his armies (names 65 to 82). Here the same power is praised without the story, as a quality of her nature.",
+    "hi": "स्तोत्र भण्डासुर और उसकी सेनाओं से हुए युद्ध में उनके इस पराक्रम का वर्णन पहले कर चुका है (नाम 65 से 82)। यहाँ वही शक्ति कथा के बिना, उनके स्वभाव के गुण के रूप में स्तुत है।"
+  },
+  "commentary": {
+    "sanskrit": "महान्ति वीर्याणि शुक्रादीनि यस्याः ।",
+    "translation": {
+      "en": "She whose vīryas, seed and the rest, are great.",
+      "hi": "जिनके वीर्य, अर्थात् बीज आदि, महान हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 221 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives the lexical senses only (Viśva: शुक्र, प्रभाव, तेज, सामर्थ्य); the inner layer is a reflection, and the reference to names 65–82 is editorial." }
+}

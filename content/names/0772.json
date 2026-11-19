@@ -1,0 +1,43 @@
+{
+  "number": 772,
+  "verse": 148,
+  "slug": "duradharsha",
+  "devanagari": "दुराधर्षा",
+  "iastSplit": "Durādharṣā",
+  "archana": "ॐ दुराधर्षायै नमः",
+  "syllables": ["du", "rā", "dhar", "ṣā"],
+  "words": [
+    { "sa": "दुर्", "meaning": { "en": "hard, with difficulty", "hi": "कठिन, कठिनाई से" } },
+    { "sa": "आधर्ष", "meaning": { "en": "attack; bringing under one’s control", "hi": "आक्रमण; अपने अधीन करना" } }
+  ],
+  "meaning": {
+    "en": "Whom no one can overpower or bring under control",
+    "hi": "जिन्हें कोई वश में नहीं कर सकता, जो अजेय हैं"
+  },
+  "explanation": {
+    "en": "Dur means hard and ādharṣa is attacking or bringing under one’s power. To overpower her, to make her one’s own by force, is beyond anyone. No demon, no power and no will can master her.",
+    "hi": "‘दुर्’ का अर्थ है कठिन और ‘आधर्ष’ का अर्थ है आक्रमण करना या अपने अधीन करना। उन्हें बलपूर्वक अपने अधीन करना किसी के वश में नहीं। कोई असुर, कोई शक्ति, कोई इच्छा उन पर अधिकार नहीं कर सकती।"
+  },
+  "inner": {
+    "en": "Bhāskararāya glosses ādharṣa as svāyattīkaraṇa, making something subject to oneself, and gives no hidden meaning. She is gained by surrender, never by seizing: whoever tries to hold her as a possession finds nothing, and whoever gives himself to her is held by her.",
+    "hi": "भास्करराय ‘आधर्ष’ का अर्थ ‘स्वायत्तीकरण’, अर्थात् किसी को अपने अधीन करना, बताते हैं, और कोई गूढ़ अर्थ नहीं देते। वे समर्पण से मिलती हैं, अधिकार जमाने से नहीं: जो उन्हें अपनी वस्तु बनाकर पकड़ना चाहता है, उसे कुछ नहीं मिलता, और जो स्वयं को उन्हें सौंप देता है, उसे वे थाम लेती हैं।"
+  },
+  "story": {
+    "en": "In the Lalitopākhyāna, Bhaṇḍāsura and his armies bring every weapon they have against her, and she defeats them all. The name sums up that war: no force can overcome her.",
+    "hi": "ललितोपाख्यान में भण्डासुर और उसकी सेनाएँ अपने सारे अस्त्र उनके विरुद्ध चलाती हैं, और वे सबको परास्त कर देती हैं। यह नाम उस युद्ध का सार है: कोई बल उन्हें जीत नहीं सकता।"
+  },
+  "commentary": {
+    "sanskrit": "दुःखरूप आधर्षः स्वायत्तीकरणं यस्याः ।",
+    "translation": {
+      "en": "She whose ādharṣa, being brought under someone’s control, is a thing of great difficulty.",
+      "hi": "जिनका आधर्ष, अर्थात् अपने अधीन किया जाना, अत्यन्त कठिन है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 772 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the second sentence of the inner layer is a reflection, and the story links the name to the Lalitopākhyāna war only in general terms." }
+}

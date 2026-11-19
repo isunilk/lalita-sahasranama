@@ -1,0 +1,45 @@
+{
+  "number": 107,
+  "verse": 40,
+  "slug": "tatil-lata-sama-ruchi",
+  "devanagari": "तटिल्लतासमरुचिः",
+  "iastSplit": "Taṭil-latā-sama-ruciḥ",
+  "archana": "ॐ तटिल्लतासमरुच्यै नमः",
+  "syllables": ["ta", "ṭil", "la", "tā", "sa", "ma", "ru", "ciḥ"],
+  "words": [
+    { "sa": "तटित्", "meaning": { "en": "lightning", "hi": "तड़ित, बिजली" } },
+    { "sa": "लता", "meaning": { "en": "creeper; a slender streak", "hi": "लता, बेल; पतली रेखा" } },
+    { "sa": "सम", "meaning": { "en": "equal, like", "hi": "समान" } },
+    { "sa": "रुचि", "meaning": { "en": "radiance, lustre", "hi": "कान्ति, आभा" } }
+  ],
+  "meaning": {
+    "en": "Whose radiance is like a streak of lightning",
+    "hi": "जिनकी कान्ति बिजली की रेखा के समान है"
+  },
+  "explanation": {
+    "en": "A flash of lightning, long and thin like a creeper, is the picture of her brightness. Bhāskararāya glosses: her lustre is equal to a creeper made of lightning. He cites the Vedic phrase ‘shining like a streak of lightning’.",
+    "hi": "लता-सी लम्बी और पतली बिजली की कौंध उनकी उज्ज्वलता का चित्र है। भास्करराय अर्थ करते हैं: उनकी कान्ति बिजली रूपी लता के समान है। वे वैदिक वचन ‘विद्युल्लेखेव भास्वरा’, अर्थात् बिजली की रेखा-सी चमकती, उद्धृत करते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya cites the phrase only as śruti; it comes from the Nārāyaṇa Sūkta, where it describes the flame that dwells in the heart. Here the same words describe Kuṇḍalinī. He gives no further hidden meaning.",
+    "hi": "भास्करराय इस वचन को केवल श्रुति कहकर उद्धृत करते हैं; यह नारायण सूक्त का अंश है, जहाँ यह हृदय में स्थित ज्योति-शिखा का वर्णन करता है। यहाँ वही शब्द कुण्डलिनी का वर्णन करते हैं। वे इससे आगे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "This verse gathers the Kuṇḍalinī names into one picture: bright as lightning, established above the six cakras, called Kuṇḍalinī, and finer than a lotus fibre. Bhāskararāya’s text spells the first word taḍit; the text followed here reads taṭit, another form of the same word.",
+    "hi": "यह श्लोक कुण्डलिनी-नामों को एक चित्र में समेटता है: बिजली-सी उज्ज्वल, छह चक्रों के ऊपर प्रतिष्ठित, कुण्डलिनी नाम वाली, और कमल-तन्तु से भी सूक्ष्म। भास्करराय के पाठ में पहला शब्द ‘तडित्’ है; यहाँ अपनाया गया पाठ ‘तटित्’ है, जो उसी शब्द का दूसरा रूप है।"
+  },
+  "commentary": {
+    "sanskrit": "तडित्सौदामिन्येव लता वल्ली तथा समा रुचिः कान्तिर्यस्याः ।",
+    "translation": {
+      "en": "She whose ruci, lustre, is equal to a latā, a creeper, that is lightning itself.",
+      "hi": "जिनकी रुचि, अर्थात् कान्ति, उस लता, अर्थात् बेल, के समान है जो स्वयं बिजली (सौदामिनी) है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 107 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Kuṇḍalinī name: meaning only. Bhāskararāya’s text reads तडिल्लतासमरुचिः (ड); the master text and the archana read तटिल्लता (ट), kept here; the quoted commentary keeps his spelling तडित्. The identification of विद्युल्लेखेव भास्वरा as the Nārāyaṇa Sūkta is editorial; he cites it only as śruti." }
+}

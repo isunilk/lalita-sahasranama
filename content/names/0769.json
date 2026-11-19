@@ -1,0 +1,43 @@
+{
+  "number": 769,
+  "verse": 147,
+  "slug": "yajna-rupa",
+  "devanagari": "यज्ञरूपा",
+  "iastSplit": "Yajña-rūpā",
+  "archana": "ॐ यज्ञरूपायै नमः",
+  "syllables": ["yaj", "ña", "rū", "pā"],
+  "words": [
+    { "sa": "यज्ञ", "meaning": { "en": "sacrifice, the Vedic rite of offering", "hi": "यज्ञ" } },
+    { "sa": "रूप", "meaning": { "en": "form", "hi": "रूप, स्वरूप" } }
+  ],
+  "meaning": {
+    "en": "Whose form is the sacrifice itself",
+    "hi": "यज्ञ ही जिनका स्वरूप है"
+  },
+  "explanation": {
+    "en": "Yajña is sacrifice, the Vedic rite of offering, and rūpa is form. The Veda says that the sacrifice is Viṣṇu; the Devī is not different from him, and so the sacrifice is her form. Bhāskararāya also reads it simply: all sacrifices are her form.",
+    "hi": "‘यज्ञ’ का अर्थ है वैदिक आहुति-कर्म और ‘रूप’ का अर्थ है स्वरूप। वेद कहता है कि यज्ञ ही विष्णु है; देवी उनसे अभिन्न हैं, इसलिए यज्ञ उनका रूप है। भास्करराय इसे सीधे भी पढ़ते हैं: सभी यज्ञ उन्हीं का रूप हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya then quotes a verse from the Mukhyāmnāya Rahasya: when one naturally worships the deity that is the Self with the scents and other things that come in through the doors of the senses, that is the knower’s great sacrifice. She is one with that inner sacrifice, in which ordinary experience itself becomes the offering.",
+    "hi": "भास्करराय फिर मुख्याम्नाय-रहस्य का एक श्लोक उद्धृत करते हैं: इन्द्रियों के द्वार से आए गन्ध आदि विषयों से जब कोई स्वभावतः आत्मदेवता की आराधना करता है, तो वही ज्ञानी का महायज्ञ है। वे उसी भीतरी यज्ञ से अभिन्न हैं, जिसमें साधारण अनुभव ही आहुति बन जाता है।"
+  },
+  "story": {
+    "en": "Bhāskararāya also quotes the Harivaṃśa and the Padma Purāṇa on the Lord whose body is the sacrifice: the Vedas are his feet, the sacrificial post his tusks, fire his tongue, the ladle his snout, and the chanting of the Sāma Veda his voice.",
+    "hi": "भास्करराय हरिवंश और पद्म पुराण से उस परमेश्वर का वर्णन भी उद्धृत करते हैं जिसका शरीर ही यज्ञ है: वेद उसके चरण हैं, यूप उसकी दाढ़ें, अग्नि उसकी जिह्वा, स्रुवा उसका थूथन, और सामगान का घोष उसका स्वर।"
+  },
+  "commentary": {
+    "sanskrit": "यज्ञो वै विष्णुरिति श्रुतेः तदभिन्ना देवी यज्ञरूपा । यज्ञा एव वा रूपमस्याः ।",
+    "translation": {
+      "en": "Because the Veda says ‘the sacrifice is Viṣṇu’, the Devī, who is not different from him, is Yajñarūpā. Or: sacrifices themselves are her form.",
+      "hi": "श्रुति कहती है ‘यज्ञ ही विष्णु है’; उनसे अभिन्न देवी इसलिए यज्ञरूपा हैं। अथवा, यज्ञ ही उनका रूप हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 769 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Harivaṃśa and Padma Purāṇa verses describe the Lord (ईश्वरं प्रक्रम्य); Bhāskararāya does not say here which form, and none is named in the story. The Mukhyāmnāya Rahasya verse is paraphrased." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 770,
+  "verse": 147,
+  "slug": "priya-vrata",
+  "devanagari": "प्रियव्रता",
+  "iastSplit": "Priya-vratā",
+  "archana": "ॐ प्रियव्रतायै नमः",
+  "syllables": ["pri", "yav", "ra", "tā"],
+  "words": [
+    { "sa": "प्रिय", "meaning": { "en": "dear", "hi": "प्रिय" } },
+    { "sa": "व्रत", "meaning": { "en": "vow, religious observance", "hi": "व्रत, नियम" } }
+  ],
+  "meaning": {
+    "en": "To whom all vows are dear",
+    "hi": "जिन्हें सभी व्रत प्रिय हैं"
+  },
+  "explanation": {
+    "en": "Priya means dear and vrata a vow or religious observance. All vows are dear to her, without distinction, whatever deity they are addressed to. Bhāskararāya quotes the Bhaviṣyottara Purāṇa: every vow made to a god or a goddess is for the pleasure of Śiva and Śakti, the parents of the world.",
+    "hi": "‘प्रिय’ का अर्थ है प्यारा और ‘व्रत’ का अर्थ है धार्मिक नियम या संकल्प। उन्हें सभी व्रत, बिना भेद के, प्रिय हैं, चाहे वे किसी भी देवता के लिए किए गए हों। भास्करराय भविष्योत्तर पुराण उद्धृत करते हैं: किसी देव या देवी के लिए किया गया हर व्रत जगत् के माता-पिता शिव और शक्ति की प्रसन्नता के लिए है।"
+  },
+  "inner": {
+    "en": "The verse goes on: no difference should be imagined there, for the world is made of Śiva and Śakti. Whatever form a devotee worships, the devotion reaches her. Bhāskararāya gives no further hidden meaning.",
+    "hi": "वह श्लोक आगे कहता है: इसमें भेद नहीं मानना चाहिए, क्योंकि जगत् शिव-शक्तिमय है। भक्त चाहे किसी भी रूप की उपासना करे, वह भक्ति उन्हीं तक पहुँचती है। भास्करराय इससे आगे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "Bhāskararāya offers a second reading: she is in the form of King Priyavrata, the king of that name in the Purāṇas. This name closes verse 147.",
+    "hi": "भास्करराय दूसरा अर्थ भी देते हैं: वे ‘प्रियव्रत’ नामक राजा के स्वरूप वाली हैं, जो पुराणों में इसी नाम के राजा हैं। इसी नाम से श्लोक 147 पूरा होता है।"
+  },
+  "commentary": {
+    "sanskrit": "प्रियाणि व्रतान्यविशेषात्सर्वदेवताविषयकाणि यस्याः ।",
+    "translation": {
+      "en": "To whom vows are dear, all of them without distinction, whatever deity they concern.",
+      "hi": "जिन्हें सब व्रत, बिना भेद के, प्रिय हैं, चाहे वे किसी भी देवता से सम्बन्धित हों।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 770 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya also reads प्रियव्रता as the form of King Priyavrata; he does not identify the king further. The second sentence of the inner layer is a reflection drawn from the verse he quotes." }
+}

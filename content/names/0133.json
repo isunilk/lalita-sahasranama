@@ -1,0 +1,43 @@
+{
+  "number": 133,
+  "verse": 43,
+  "slug": "niranjana",
+  "devanagari": "निरञ्जना",
+  "iastSplit": "Nirañjanā",
+  "archana": "ॐ निरञ्जनायै नमः",
+  "syllables": ["ni", "rañ", "ja", "nā"],
+  "words": [
+    { "sa": "निर्", "meaning": { "en": "without", "hi": "रहित" } },
+    { "sa": "अञ्जन", "meaning": { "en": "collyrium, a dark stain; here, the taint of Māyā", "hi": "अंजन, कालिमा; यहाँ माया का संग" } }
+  ],
+  "meaning": {
+    "en": "Stainless, untouched by the darkness of Māyā",
+    "hi": "निष्कलंक, माया की कालिमा से अछूती"
+  },
+  "explanation": {
+    "en": "Añjana is the black collyrium used to line the eyes, and so any dark stain. Bhāskararāya says the stain here is contact with Māyā, which resembles darkness in that it covers. She is free of it: nirañjanā, as the Upaniṣad says of Brahman, ‘faultless, stainless’.",
+    "hi": "अञ्जन आँखों में लगाया जाने वाला काला काजल है, और इसलिए कोई भी काला दाग। भास्करराय कहते हैं कि यहाँ यह दाग माया का संग है, जो ढकने के स्वभाव में अन्धकार के समान है। वे उससे रहित हैं: निरञ्जना, जैसे उपनिषद् ब्रह्म के विषय में कहती है, ‘निरवद्यं निरञ्जनम्’, अर्थात् निर्दोष, निष्कलंक।"
+  },
+  "inner": {
+    "en": "Bhāskararāya sets the name in Śaiva doctrine, which knows three kinds of bound souls: those bound only by limited selfhood, those bound also by karma, and the sakala, bound besides by Māyā, which makes difference. Nirañjanā sets her apart from the sakala; she has no contact with avidyā, for the false has no place in the ground on which it appears. He adds a gentler reading, nitarāṃ rañjanam: she in whom there is complete delight, or the deep red of love.",
+    "hi": "भास्करराय इस नाम को शैव सिद्धान्त में रखते हैं, जिसमें बद्ध जीव (पशु) तीन प्रकार के हैं: केवल आणव मल से बँधे विज्ञानकेवल, कर्म-मल से भी बँधे प्रलयाकल, और भेद-बुद्धि उत्पन्न करने वाले माया-मल से भी बँधे सकल। ‘निरञ्जना’ उन्हें सकल पशु से अलग करता है; उनमें अविद्या का कोई सम्पर्क नहीं, क्योंकि मिथ्या का अपने अधिष्ठान में कोई स्थान नहीं होता। वे एक कोमल अर्थ भी देते हैं, ‘नितरां रञ्जनम्’: जिनमें पूर्ण आनन्द है, या प्रेम की गहरी लालिमा।"
+  },
+  "story": {
+    "en": "Bhāskararāya opens a new section here. From Nirañjanā, through eight verses, the hymn describes the awareness that is the object of support-less worship, by negation, by affirmation and by setting aside others’ views, and then gives the means of reaching it and its fruit; the run of names beginning with nir- that starts here continues through the next verse.",
+    "hi": "भास्करराय यहाँ एक नया प्रकरण आरम्भ करते हैं। निरञ्जना से आठ श्लोकों तक स्तोत्र उस संवित्, अर्थात् चेतना, का वर्णन करता है जो निराधार पूजा का विषय है, निषेध से, विधि से और अन्य मतों के खण्डन से, और फिर उसे पाने का उपाय और उसका फल बताता है; यहाँ से आरम्भ होने वाली ‘निर्’ वाले नामों की माला अगले श्लोक में भी चलती है।"
+  },
+  "commentary": {
+    "sanskrit": "निरञ्जना अञ्जनं नाम कालिमा । मायासङ्ग इति यावत् । तमोरूपत्वेनावरणधर्मेण सादृश्यात् ।",
+    "translation": {
+      "en": "Nirañjanā: añjana means blackness, that is, contact with Māyā, so called because it resembles darkness in its covering nature.",
+      "hi": "निरञ्जना: अञ्जन का अर्थ है कालिमा, अर्थात् माया का संग; क्योंकि ढकने के धर्म में वह अन्धकार के समान है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 133 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The three kinds of paśu are summarised from Bhāskararāya, who refers to his Setubandha for detail. ‘Upaniṣad’ for निरवद्यं निरञ्जनम् (Śvetāśvatara 6.19) follows his ‘iti śruteḥ’." }
+}

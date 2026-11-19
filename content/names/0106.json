@@ -1,0 +1,44 @@
+{
+  "number": 106,
+  "verse": 39,
+  "slug": "sudhasarabhivarshini",
+  "devanagari": "सुधासाराभिवर्षिणी",
+  "iastSplit": "Sudhāsārābhivarṣiṇī",
+  "archana": "ॐ सुधासाराभिवर्षिण्यै नमः",
+  "syllables": ["su", "dhā", "sā", "rā", "bhi", "var", "ṣi", "ṇī"],
+  "words": [
+    { "sa": "सुधा", "meaning": { "en": "nectar, amṛta", "hi": "सुधा, अमृत" } },
+    { "sa": "आसार", "meaning": { "en": "downpour, heavy shower", "hi": "मूसलाधार वर्षा, धारा" } },
+    { "sa": "अभिवर्षिणी", "meaning": { "en": "she who rains down", "hi": "बरसाने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who rains down streams of nectar",
+    "hi": "जो अमृत की धाराएँ बरसाती हैं"
+  },
+  "explanation": {
+    "en": "Āsāra is a heavy shower. Seated in the thousand-petalled lotus, she pours down a stream of nectar from the moon at its centre. Bhāskararāya cites the Vedic mantra that speaks of ‘the stream of nectar, milked out in many ways’.",
+    "hi": "‘आसार’ का अर्थ है मूसलाधार वर्षा। सहस्रदल कमल में विराजमान होकर वे उसके मध्य के चन्द्रमा से अमृत की धारा बरसाती हैं। भास्करराय वह वैदिक मन्त्र उद्धृत करते हैं जो ‘अनेक प्रकार से दुही जाती अमृत की धारा’ की बात करता है।"
+  },
+  "inner": {
+    "en": "In his comment on name 111, Bhāskararāya reads that mantra as speaking of Kuṇḍalinī herself, who, having come to the places of fire, sun and moon, sends down a rain of nectar and satisfies us. In this account the nectar flows through all the seventy-two thousand channels of the body. The name pictures her grace as a downpour, not a trickle.",
+    "hi": "नाम 111 की व्याख्या में भास्करराय उस मन्त्र को स्वयं कुण्डलिनी का वर्णन मानते हैं, जो अग्नि, सूर्य और चन्द्र के स्थानों में आकर अमृत की वर्षा करती हैं और हमें तृप्त करती हैं। इस वर्णन में वह अमृत देह की बहत्तर हज़ार नाड़ियों में बहता है। यह नाम उनकी कृपा को बूँद-बूँद नहीं, मूसलाधार वर्षा के रूप में दिखाता है।"
+  },
+  "story": {
+    "en": "Names 105 and 106 complete the ascent: she reaches the crown and the nectar flows. The next verse describes her form on this path, bright as lightning and fine as a lotus fibre.",
+    "hi": "नाम 105 और 106 आरोहण को पूर्ण करते हैं: वे शिखर पर पहुँचती हैं और अमृत बहने लगता है। अगला श्लोक इस मार्ग पर उनके रूप का वर्णन करता है: बिजली-सी उज्ज्वल और कमल-तन्तु-सी सूक्ष्म।"
+  },
+  "commentary": {
+    "sanskrit": "सुधायास्तत्कर्णिकाचन्द्रसम्बन्धिन्या आसारो धारासम्पातस्तमभिवर्षितुं शीलमस्याः",
+    "translation": {
+      "en": "Whose nature is to rain down the āsāra, the falling stream, of nectar that belongs to the moon in that lotus’s pericarp.",
+      "hi": "उस कमल की कर्णिका में स्थित चन्द्रमा से सम्बन्धित सुधा का आसार, अर्थात् धाराओं का गिरना, बरसाना जिनका स्वभाव है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 106 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Kuṇḍalinī name: meaning only. The reading of the mantra अमृतस्य धारा बहुधा दोहमानम् as speaking of Kuṇḍalinī is from his comment on name 111; the seventy-two thousand channels come from the Śukra Saṃhitā verse he quotes there. The last sentence of the inner layer is a reflection on āsāra." }
+}

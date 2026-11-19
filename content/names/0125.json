@@ -1,0 +1,43 @@
+{
+  "number": 125,
+  "verse": 42,
+  "slug": "sharma-dayini",
+  "devanagari": "शर्मदायिनी",
+  "iastSplit": "Śarma-dāyinī",
+  "archana": "ॐ शर्मदायिन्यै नमः",
+  "syllables": ["śar", "ma", "dā", "yi", "nī"],
+  "words": [
+    { "sa": "शर्मन्", "meaning": { "en": "happiness; also shelter", "hi": "सुख; शरण भी" } },
+    { "sa": "दायिनी", "meaning": { "en": "she who gives", "hi": "देने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who gives happiness",
+    "hi": "जो सुख प्रदान करती हैं"
+  },
+  "explanation": {
+    "en": "Śarma means happiness, and also shelter, and her very nature is to give it. Bhāskararāya cites the lexicon in the Agni Purāṇa, which gives śarma as happiness, and the Devī Bhāgavata: ‘she gives happiness to her devotees, and so she is Śarmadāyinī’.",
+    "hi": "‘शर्म’ का अर्थ है सुख, और शरण भी, और यह देना उनका स्वभाव ही है। भास्करराय अग्नि पुराण के कोश का प्रमाण देते हैं, जो ‘शर्म’ को सुख कहता है, और देवी भागवत का: ‘वे भक्तों को सुख देती हैं, इसलिए शर्मदायिनी हैं’।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the literal sense. As a reflection: the verse opened with the names of devotion and closes here; those who love her lose their fear (121) and receive happiness (125).",
+    "hi": "भास्करराय केवल शब्दार्थ देते हैं। चिन्तन के रूप में: यह श्लोक भक्ति के नामों से आरम्भ हुआ और यहाँ पूरा होता है; जो उनसे प्रेम करते हैं, उनका भय मिटता है (121) और उन्हें सुख मिलता है (125)।"
+  },
+  "story": {
+    "en": "Śarma here and śam, the root of Śaṅkara in the next name, both mean happiness and welfare. The sounds śa and śā run through this half-verse and much of the next verse.",
+    "hi": "यहाँ का ‘शर्म’ और अगले नाम ‘शङ्कर’ का मूल ‘शम्’, दोनों का अर्थ सुख और कल्याण है। ‘श’ और ‘शा’ की ध्वनि इस आधे श्लोक में और अगले श्लोक के अधिकांश में गूँजती है।"
+  },
+  "commentary": {
+    "sanskrit": "शर्म सुखं दातुं शीलमस्याः",
+    "translation": {
+      "en": "Whose nature is to give śarma, happiness.",
+      "hi": "शर्म, अर्थात् सुख, देना जिनका स्वभाव है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 125 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the inner layer is a reflection. ‘Shelter’ as a sense of śarma is a dictionary sense, not his gloss." }
+}

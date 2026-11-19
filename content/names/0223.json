@@ -1,0 +1,43 @@
+{
+  "number": 223,
+  "verse": 55,
+  "slug": "maha-buddhi",
+  "devanagari": "महाबुद्धिः",
+  "iastSplit": "Mahā-buddhiḥ",
+  "archana": "ॐ महाबुद्ध्यै नमः",
+  "syllables": ["ma", "hā", "bud", "dhiḥ"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "बुद्धि", "meaning": { "en": "understanding, intellect", "hi": "बुद्धि, ज्ञान" } }
+  ],
+  "meaning": {
+    "en": "The great understanding, after which nothing remains to be known",
+    "hi": "वह महान बुद्धि, जिसके बाद जानने को कुछ शेष नहीं रहता"
+  },
+  "explanation": {
+    "en": "She is great understanding itself. Bhāskararāya says which understanding is great: the one that, once it dawns, leaves nothing more to be known. He also reads the name as “she from whom great understanding comes”.",
+    "hi": "वे स्वयं महान बुद्धि हैं। भास्करराय बताते हैं कि कौन-सी बुद्धि महान है: वह, जिसके उदय होने पर जानने के लिए कुछ भी शेष नहीं रहता। वे इस नाम को ‘वे, जिनसे महान बुद्धि प्राप्त होती है’ के अर्थ में भी पढ़ते हैं।"
+  },
+  "inner": {
+    "en": "He supports this with the words of the śruti: when that is known, all this becomes known. Ordinary knowledge adds one fact to another and is never finished; the great understanding knows the one reality of which all things are forms, and so it is complete.",
+    "hi": "इसके समर्थन में वे श्रुति का वचन देते हैं: ‘जिसके जान लेने पर यह सब जान लिया जाता है।’ साधारण ज्ञान एक तथ्य में दूसरा जोड़ता जाता है और कभी पूरा नहीं होता; महान बुद्धि उस एक सत्य को जानती है जिसके सब पदार्थ रूप हैं, इसलिए वह पूर्ण है।"
+  },
+  "story": {
+    "en": "Names 223 and 224 are built alike, and Bhāskararāya says the second is to be explained in the same two ways as this one: she is the great attainment, and she is the one from whom great attainment comes.",
+    "hi": "नाम 223 और 224 एक ही ढंग से बने हैं, और भास्करराय कहते हैं कि दूसरे को भी इसी प्रकार दो तरह से समझना चाहिए: वे स्वयं महान सिद्धि हैं, और वे, जिनसे महान सिद्धि मिलती है।"
+  },
+  "commentary": {
+    "sanskrit": "यस्यां बुद्धावुत्पन्नायां ज्ञातव्यं नावशिष्यते सा महती ।",
+    "translation": {
+      "en": "That understanding is great upon whose arising nothing remains to be known.",
+      "hi": "वह बुद्धि महान है, जिसके उत्पन्न होने पर जानने योग्य कुछ शेष नहीं रहता।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 223 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The second sentence of the inner layer is a reflection on the śruti Bhāskararāya cites (यस्मिन्विज्ञाते सर्वमिदं विज्ञातं स्यात्)." }
+}

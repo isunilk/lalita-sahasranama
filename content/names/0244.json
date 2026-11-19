@@ -1,0 +1,45 @@
+{
+  "number": 244,
+  "verse": 60,
+  "slug": "charachara-jagannatha",
+  "devanagari": "चराचरजगन्नाथा",
+  "iastSplit": "Carācara-jagan-nāthā",
+  "archana": "ॐ चराचरजगन्नाथायै नमः",
+  "syllables": ["ca", "rā", "ca", "ra", "ja", "gan", "nā", "thā"],
+  "words": [
+    { "sa": "चर", "meaning": { "en": "moving", "hi": "चर, चलने वाला" } },
+    { "sa": "अचर", "meaning": { "en": "unmoving", "hi": "अचर, स्थिर" } },
+    { "sa": "जगत्", "meaning": { "en": "world", "hi": "जगत" } },
+    { "sa": "नाथा", "meaning": { "en": "sovereign, protector", "hi": "स्वामिनी, रक्षिका" } }
+  ],
+  "meaning": {
+    "en": "Sovereign of the whole world, moving and unmoving",
+    "hi": "चर-अचर सम्पूर्ण जगत की स्वामिनी"
+  },
+  "explanation": {
+    "en": "Cara is what moves and acara what does not: animals and people on the one hand, mountains and plants on the other. Together they are the whole world, and she is its nāthā, its sovereign and protector.",
+    "hi": "‘चर’ वह है जो चलता है और ‘अचर’ वह जो नहीं चलता: एक ओर प्राणी और मनुष्य, दूसरी ओर पर्वत और वनस्पतियाँ। दोनों मिलकर सम्पूर्ण जगत हैं, और वे उसकी नाथा, अर्थात् स्वामिनी और रक्षिका, हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the literal sense: she is the supreme ruler of the world of moving and unmoving things. Nothing is too small or too still to be in her keeping: the stone is as much hers as the sage.",
+    "hi": "भास्करराय केवल शब्दार्थ देते हैं: वे जंगम और स्थावर जगत की अधीश्वरी हैं। कुछ भी इतना छोटा या इतना स्थिर नहीं कि उनकी देखरेख से बाहर हो: पत्थर भी उतना ही उनका है जितना ऋषि।"
+  },
+  "story": {
+    "en": "Jagannātha, “lord of the world”, is a familiar name of Viṣṇu, above all at Puri; here it is given to her in the feminine. The next name moves from the world she rules to the place where she lives.",
+    "hi": "‘जगन्नाथ’, अर्थात् ‘जगत के स्वामी’, विष्णु का एक परिचित नाम है, विशेषकर पुरी में; यहाँ यह स्त्रीलिंग में उन्हें दिया गया है। अगला नाम उनके शासित जगत से उनके निवास-स्थान की ओर बढ़ता है।"
+  },
+  "commentary": {
+    "sanskrit": "जङ्गमस्थावरात्मकस्य जगतोऽधीश्वरी ।",
+    "translation": {
+      "en": "The supreme ruler of the world, which consists of moving and unmoving things.",
+      "hi": "जंगम और स्थावर रूप जगत की अधीश्वरी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 244 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives the literal sense only; the second sentence of the inner layer is a reflection, and the note on Jagannātha in the story is editorial." }
+}

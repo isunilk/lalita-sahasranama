@@ -1,0 +1,47 @@
+{
+  "number": 232,
+  "verse": 57,
+  "slug": "maheshvara-maha-kalpa-maha-tandava-sakshini",
+  "devanagari": "महेश्वरमहाकल्पमहाताण्डवसाक्षिणी",
+  "iastSplit": "Maheśvara-mahā-kalpa-mahā-tāṇḍava-sākṣiṇī",
+  "archana": "ॐ महेश्वरमहाकल्पमहाताण्डवसाक्षिण्यै नमः",
+  "syllables": ["ma", "heś", "va", "ra", "ma", "hā", "kal", "pa", "ma", "hā", "tāṇ", "ḍa", "va", "sāk", "ṣi", "ṇī"],
+  "words": [
+    { "sa": "महेश्वर", "meaning": { "en": "the Great Lord, Śiva", "hi": "महेश्वर, शिव" } },
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "कल्प", "meaning": { "en": "an age of the world; here its end, the dissolution", "hi": "कल्प, सृष्टि का युग; यहाँ उसका अन्त, प्रलय" } },
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "ताण्डव", "meaning": { "en": "Śiva’s vigorous cosmic dance", "hi": "ताण्डव, शिव का प्रचण्ड नृत्य" } },
+    { "sa": "साक्षिणी", "meaning": { "en": "witness", "hi": "साक्षी" } }
+  ],
+  "meaning": {
+    "en": "Sole witness of Śiva’s great dance at the great dissolution",
+    "hi": "महाप्रलय में महेश्वर के महाताण्डव की एकमात्र साक्षी"
+  },
+  "explanation": {
+    "en": "At the mahākalpa, the great dissolution at the end of all ages, Maheśvara dances the great tāṇḍava. Since nothing else exists at that time, she alone is there to witness it.",
+    "hi": "महाकल्प, अर्थात् सब युगों के अन्त में होने वाले महाप्रलय, के समय महेश्वर महाताण्डव करते हैं। उस समय और कुछ भी शेष नहीं रहता, इसलिए उसकी साक्षी केवल वही होती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says the dance springs from bliss: when the universe has been withdrawn and the Self alone remains, that bliss overflows as dance. The witness who remains is the awareness that does not end when everything else does. He quotes the Devī Bhāgavata: at the dissolution she gathers up the whole universe and plays, holding the subtle bodies of all beings within her own body.",
+    "hi": "भास्करराय कहते हैं कि यह नृत्य आनन्द से उत्पन्न होता है: जब विश्व समेट लिया जाता है और केवल आत्मा शेष रहती है, तब वही आनन्द नृत्य बनकर उमड़ता है। शेष रहने वाली वह साक्षी वही चेतना है जो सब कुछ समाप्त होने पर भी समाप्त नहीं होती। वे देवी भागवत का वचन देते हैं: प्रलय में वे सारे विश्व को समेटकर क्रीड़ा करती हैं, और सब जीवों के सूक्ष्म शरीरों को अपने शरीर में धारण कर लेती हैं।"
+  },
+  "story": {
+    "en": "He quotes the Pañcadaśīstava: victorious is your single form, holding noose, goad, sugarcane bow and flower arrows, the witness of the dance that Śiva, the god with the axe, devised for the end of the age. He also points to the Yoga Vāsiṣṭha, where more than a hundred verses describe the wondrous and terrible dance of Bhairava and Kālarātri at the dissolution.",
+    "hi": "वे पञ्चदशीस्तव का वचन देते हैं: कल्प के अन्त के लिए ताण्डव रचने वाले खण्डपरशु परभैरव की साक्षी, पाश, अंकुश, इक्षु-धनुष और पुष्प-बाण धारण करने वाली आपकी एकमात्र मूर्ति की जय हो। वे योगवासिष्ठ का भी उल्लेख करते हैं, जहाँ सौ से अधिक श्लोकों में प्रलय के समय भैरव और कालरात्रि का अत्यन्त अद्भुत और भयंकर नृत्य वर्णित है।"
+  },
+  "commentary": {
+    "sanskrit": "महाकल्पे महाप्रलये यन्महेश्वरस्य महाताण्डवं विश्वोपसंहारादात्मैकशेषसमुद्भूतानन्दकृतं तत्कालेऽन्यस्य कस्याप्यभावादियमेव साक्षिणी ।",
+    "translation": {
+      "en": "At the mahākalpa, the great dissolution, Maheśvara performs the great tāṇḍava, moved by the bliss that arises when the universe is withdrawn and the Self alone remains; since at that time no one else exists, she alone is its witness.",
+      "hi": "महाकल्प अर्थात् महाप्रलय में महेश्वर जो महाताण्डव करते हैं, वह विश्व के उपसंहार के बाद केवल आत्मा के शेष रहने से उत्पन्न आनन्द से होता है; उस समय और किसी के न होने से वही उसकी साक्षी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 232 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The second sentence of the inner layer is a reflection. Bhāskararāya locates the Yoga Vāsiṣṭha passage in the latter half of the Nirvāṇa Prakaraṇa, sarga 81; not checked against an edition. खण्डपरशु is rendered “the god with the axe”." }
+}

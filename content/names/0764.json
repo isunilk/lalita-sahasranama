@@ -1,0 +1,44 @@
+{
+  "number": 764,
+  "verse": 147,
+  "slug": "svargapavarga-da",
+  "devanagari": "स्वर्गापवर्गदा",
+  "iastSplit": "Svargāpavarga-dā",
+  "archana": "ॐ स्वर्गापवर्गदायै नमः",
+  "syllables": ["svar", "gā", "pa", "var", "ga", "dā"],
+  "words": [
+    { "sa": "स्वर्ग", "meaning": { "en": "heaven", "hi": "स्वर्ग" } },
+    { "sa": "अपवर्ग", "meaning": { "en": "final liberation", "hi": "मोक्ष, अपवर्ग" } },
+    { "sa": "दा", "meaning": { "en": "giver", "hi": "देने वाली" } }
+  ],
+  "meaning": {
+    "en": "Giver of heaven and of final liberation",
+    "hi": "स्वर्ग और मोक्ष दोनों देने वाली"
+  },
+  "explanation": {
+    "en": "Svarga is heaven, the happiness won by good deeds; apavarga is liberation, freedom from the round of birth and death. Dā means the one who gives. She gives both, each to those who seek it.",
+    "hi": "‘स्वर्ग’ वह सुख है जो पुण्य कर्मों से मिलता है; ‘अपवर्ग’ है मोक्ष, अर्थात् जन्म-मृत्यु के चक्र से मुक्ति। ‘दा’ का अर्थ है देने वाली। वे दोनों देती हैं, जिसे जो चाहिए।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes a verse describing heaven as happiness unmixed with sorrow, not swallowed up at once, and brought by desire; such happiness, he says, still wears away. Apavarga is the happiness that is everlasting. The Mother grants the passing joy and the lasting one, and the wise ask her for the second.",
+    "hi": "भास्करराय एक श्लोक उद्धृत करते हैं जिसमें स्वर्ग को ऐसा सुख कहा गया है जो दुःख से मिला हुआ नहीं, तुरन्त नष्ट नहीं होता और इच्छा से प्राप्त होता है; फिर भी वे कहते हैं कि यह सुख क्षीण होने वाला है। अपवर्ग वह सुख है जो नित्य है। माँ क्षणिक सुख भी देती हैं और स्थायी भी, और विवेकी उनसे दूसरा ही माँगते हैं।"
+  },
+  "story": {
+    "en": "Four names earlier she is Trivargadātrī, giver of the three worldly aims; here heaven and liberation are added, so that between them the two names cover every good a person can seek.",
+    "hi": "चार नाम पहले वे ‘त्रिवर्गदात्री’ हैं, अर्थात् तीन सांसारिक पुरुषार्थों को देने वाली; यहाँ स्वर्ग और मोक्ष जुड़ जाते हैं, और इस प्रकार दोनों नाम मिलकर मनुष्य द्वारा चाहे जाने वाले हर कल्याण को समेट लेते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "श्रुतिप्रसिद्धं क्षयिष्णु सुखं वर्गः । नित्यं तु सुखमपवर्गः । तदुभयं दत्ते ।",
+    "translation": {
+      "en": "The happiness so described in scripture, which wears away, is svarga; everlasting happiness is apavarga. She gives both.",
+      "hi": "श्रुति में इस प्रकार प्रसिद्ध, क्षीण होने वाला सुख स्वर्ग है; नित्य सुख अपवर्ग है। वे दोनों देती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 764 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. In the commentary excerpt the edition prints वर्गः where the sense requires स्वर्गः; it is quoted as printed and translated as svarga. Bhāskararāya calls the verse on heaven (यत्र दुःखेन संभिन्नं…) śruti without naming its source. The last sentence of the inner layer is a reflection." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 222,
+  "verse": 55,
+  "slug": "maha-bala",
+  "devanagari": "महाबला",
+  "iastSplit": "Mahā-balā",
+  "archana": "ॐ महाबलायै नमः",
+  "syllables": ["ma", "hā", "ba", "lā"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "बल", "meaning": { "en": "strength, might", "hi": "बल, शक्ति" } }
+  ],
+  "meaning": {
+    "en": "Of great strength",
+    "hi": "महान बल वाली"
+  },
+  "explanation": {
+    "en": "Bala is strength and might. Bhāskararāya, following the Viśva lexicon, notes that the word also covers the subtle qualities of things, such as smell, taste and form, and even an army; in her all of these are great.",
+    "hi": "‘बल’ का अर्थ है शक्ति और सामर्थ्य। भास्करराय विश्वकोश के अनुसार बताते हैं कि यह शब्द गन्ध, रस और रूप जैसे पदार्थों के सूक्ष्म गुणों और सेना के लिए भी आता है; उनमें ये सब महान हैं।"
+  },
+  "inner": {
+    "en": "The lexicon also connects the word with a crow, and Bhāskararāya takes even this sense: she is the one by whose grace crows such as Bhusuṇḍa became great. He gives no other hidden reading; the point is that her strength raises up even the humblest who turn to her.",
+    "hi": "कोश में ‘बल’ शब्द कौए से भी जुड़ा है, और भास्करराय यह अर्थ भी लेते हैं: वे, जिनकी कृपा से भुसुण्ड जैसे कौए महान हो गए। वे कोई और गूढ़ अर्थ नहीं देते; भाव यह है कि उनका बल उनकी शरण आए सबसे साधारण प्राणी को भी ऊँचा उठा देता है।"
+  },
+  "story": {
+    "en": "In the Yoga Vāsiṣṭha the long-lived crow Bhusuṇḍa tells the sage Vasiṣṭha that he and his brothers, the twenty-one crow sons of Caṇḍa, worshipped the goddess Brāhmī for a long time. When their meditation ended she, full of grace, blessed them, and so they became free.",
+    "hi": "योगवासिष्ठ में चिरंजीवी कौआ भुसुण्ड ऋषि वसिष्ठ को बताता है कि वह और उसके भाई, चण्ड के इक्कीस कौआ-पुत्र, बहुत समय तक भगवती ब्राह्मी की आराधना करते रहे। समाधि पूरी होने पर उन कृपामयी देवी ने स्वयं उन पर अनुग्रह किया, और इसी से वे मुक्त हो गए।"
+  },
+  "commentary": {
+    "sanskrit": "महान्ति बलानि गन्धादीनि यस्याः ।",
+    "translation": {
+      "en": "She whose balas, smell and the rest, are great.",
+      "hi": "जिनके बल, अर्थात् गन्ध आदि, महान हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 222 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s crow sense rests on the Viśva entry बलो हलायुधे दैत्यभेदे बलिनि वायसः, whose reading should be checked. The story paraphrases the Yoga Vāsiṣṭha verses he quotes; the last sentence of the inner layer is a reflection." }
+}

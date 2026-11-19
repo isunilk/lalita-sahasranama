@@ -1,0 +1,43 @@
+{
+  "number": 239,
+  "verse": 59,
+  "slug": "chandra-vidya",
+  "devanagari": "चन्द्रविद्या",
+  "iastSplit": "Candra-vidyā",
+  "archana": "ॐ चन्द्रविद्यायै नमः",
+  "syllables": ["can", "dra", "vid", "yā"],
+  "words": [
+    { "sa": "चन्द्र", "meaning": { "en": "the Moon, here as a worshipper of the Devī", "hi": "चन्द्रमा, यहाँ देवी के उपासक के रूप में" } },
+    { "sa": "विद्या", "meaning": { "en": "vidyā, a mantra of the Goddess", "hi": "विद्या, देवी का मन्त्र" } }
+  ],
+  "meaning": {
+    "en": "The Śrīvidyā as worshipped by Candra, the Moon",
+    "hi": "चन्द्रमा द्वारा उपासित श्रीविद्या का स्वरूप"
+  },
+  "explanation": {
+    "en": "Candra, the Moon, is the second of the twelve great worshippers of the Devī. She is the form of her vidyā associated with him, as the previous name named the form of Manu.",
+    "hi": "चन्द्र, अर्थात् चन्द्रमा, देवी के बारह महान उपासकों में दूसरे हैं। वे उनसे जुड़ी विद्या का स्वरूप हैं, जैसे पिछला नाम मनु की विद्या का।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives no further hidden reading here. The Moon as her worshipper prepares for what follows: the next name places her at the centre of the moon’s disc, which he calls one with the Śrīcakra, and the verse ends with the digit of the moon that she wears.",
+    "hi": "भास्करराय यहाँ इससे आगे कोई गूढ़ अर्थ नहीं देते। चन्द्रमा का उनका उपासक होना आगे की भूमिका बनाता है: अगला नाम उन्हें चन्द्रमण्डल के मध्य में स्थित बताता है, जिसे वे श्रीचक्र से अभिन्न कहते हैं, और श्लोक उस चन्द्रकला पर समाप्त होता है जिसे वे धारण करती हैं।"
+  },
+  "story": {
+    "en": "For how each of the twelve vidyās is drawn out, Bhāskararāya simply refers to the Jñānārṇava Tantra. Like all the mantras of Śrīvidyā they are received from a teacher, and he does not set them out here.",
+    "hi": "बारहों विद्याओं का उद्धार कैसे होता है, इसके लिए भास्करराय केवल ज्ञानार्णव तन्त्र की ओर संकेत करते हैं। श्रीविद्या के सब मन्त्रों की तरह ये भी गुरु से प्राप्त होते हैं, और वे इन्हें यहाँ नहीं लिखते।"
+  },
+  "commentary": {
+    "sanskrit": "तेषु मनुश्चन्द्रविद्योभयरूपेत्यवयुत्यानुवादो नामद्वयम् ।",
+    "translation": {
+      "en": "Among them, she is in the form of both, the vidyā of Manu and that of Candra: the two names restate these one at a time.",
+      "hi": "इनमें वे मनु और चन्द्र दोनों की विद्या के स्वरूप वाली हैं: ये दो नाम इन्हें अलग-अलग दोहराते हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 239 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. अवयुत्यानुवादः is rendered “restate one at a time”; check. Bhāskararāya gives no hidden meaning; the second sentence of the inner layer is a reflection linking to names 240 and 243." }
+}

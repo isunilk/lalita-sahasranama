@@ -1,0 +1,43 @@
+{
+  "number": 752,
+  "verse": 145,
+  "slug": "maha-grasa",
+  "devanagari": "महाग्रासा",
+  "iastSplit": "Mahā-grāsā",
+  "archana": "ॐ महाग्रासायै नमः",
+  "syllables": ["ma", "hāg", "rā", "sā"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great, boundless", "hi": "महान, अपार" } },
+    { "sa": "ग्रास", "meaning": { "en": "mouthful", "hi": "ग्रास, कौर" } }
+  ],
+  "meaning": {
+    "en": "Whose mouthful is boundless: she who swallows all",
+    "hi": "जिनका ग्रास अपार है, जो सब कुछ निगल लेती हैं"
+  },
+  "explanation": {
+    "en": "Grāsa is a mouthful of food. Her mouthful is mahā, without measure: the whole universe is taken back into her as easily as a single bite.",
+    "hi": "‘ग्रास’ का अर्थ है कौर। उनका कौर ‘महा’ है, जिसकी कोई माप नहीं: सारा विश्व उनमें वैसे ही लौट जाता है जैसे एक कौर।"
+  },
+  "inner": {
+    "en": "Bhāskararāya supports the name with the Upaniṣadic line ‘for whom the brahmin and the kṣatriya both become food’. Even the highest powers of the world, priestly and royal, are only a meal for her. All that is born is finally taken back into the one from whom it came.",
+    "hi": "भास्करराय इस नाम के समर्थन में उपनिषद् का वचन देते हैं: ‘जिसके लिए ब्राह्मण और क्षत्रिय दोनों ही भोजन बन जाते हैं।’ संसार की सबसे बड़ी शक्तियाँ, पुरोहित और राजा, भी उनके लिए केवल एक कौर हैं। जो कुछ जन्मा है, वह अन्त में उसी में लौट जाता है जिससे वह आया था।"
+  },
+  "story": {
+    "en": "The line he quotes is from the Kaṭha Upaniṣad, which speaks of the one for whom brahmin and kṣatriya are rice and death itself only the sauce. Name 890, Viśvagrāsā, ‘who devours the universe’, returns to the same image.",
+    "hi": "उद्धृत वचन कठोपनिषद् का है, जो उस परम सत्ता की बात करता है जिसके लिए ब्राह्मण और क्षत्रिय भात हैं और मृत्यु केवल व्यंजन। नाम 890, ‘विश्वग्रासा’ (जो विश्व को निगल जाती हैं), इसी चित्र को फिर उठाता है।"
+  },
+  "commentary": {
+    "sanskrit": "महानपरिमितो ग्रासः कवलो यस्याः । यस्य ब्रह्म च क्षत्रं चोभे भवत ओदन इति श्रुतेः ।",
+    "translation": {
+      "en": "Whose grāsa, mouthful, is great, without measure; as the Veda says: ‘for whom the brahmin and the kṣatriya both become food’.",
+      "hi": "जिनका ग्रास, अर्थात् कौर, महान और अपरिमित है; जैसा श्रुति कहती है: ‘जिसके लिए ब्राह्मण और क्षत्रिय दोनों भोजन बन जाते हैं।’"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 752 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya cites the line only as śruti; its identification as Kaṭha Upaniṣad 1.2.25 (where death is the उपसेचन, the sauce) is added here. The last sentence of the inner layer is a reflection." }
+}

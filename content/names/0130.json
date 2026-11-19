@@ -1,0 +1,43 @@
+{
+  "number": 130,
+  "verse": 43,
+  "slug": "shatodari",
+  "devanagari": "शातोदरी",
+  "iastSplit": "Śātodarī",
+  "archana": "ॐ शातोदर्यै नमः",
+  "syllables": ["śā", "to", "da", "rī"],
+  "words": [
+    { "sa": "शात", "meaning": { "en": "slender, thin", "hi": "कृश, पतला" } },
+    { "sa": "उदर", "meaning": { "en": "waist, belly", "hi": "उदर, कमर" } }
+  ],
+  "meaning": {
+    "en": "Slender-waisted; or, daughter of Himavat",
+    "hi": "पतली कमर वाली; अथवा हिमवान की पुत्री"
+  },
+  "explanation": {
+    "en": "Śāta means thin, from a root meaning ‘to make slender’, so Śātodarī is ‘she whose waist is slender’, a classical mark of beauty. Bhāskararāya also reads it another way: Śatodara, ‘the hundred-bellied’, is Himavat with his countless caves, and his daughter is Śātodarī, that is, Haimavatī, Pārvatī.",
+    "hi": "‘शात’ का अर्थ है कृश, पतला, जो ‘तनू करना’ अर्थ वाली धातु से बनता है; अतः शातोदरी का अर्थ है पतली कमर वाली, जो सौन्दर्य का पारम्परिक लक्षण है। भास्करराय एक दूसरा अर्थ भी देते हैं: ‘शतोदर’, अर्थात् सौ उदरों वाला, अनन्त गुफाओं वाला हिमवान है, और उसकी पुत्री शातोदरी, अर्थात् हैमवती, पार्वती हैं।"
+  },
+  "inner": {
+    "en": "He gives no hidden meaning. The second reading turns a feature of her beauty into a statement of her birth: she is Pārvatī, the mountain’s daughter, the form in which she became Śiva’s wife.",
+    "hi": "वे कोई गूढ़ अर्थ नहीं देते। दूसरा अर्थ उनके सौन्दर्य के एक लक्षण को उनके जन्म का कथन बना देता है: वे पर्वत-पुत्री पार्वती हैं, जिस रूप में वे शिव की पत्नी बनीं।"
+  },
+  "story": {
+    "en": "In the Sanskrit Wikisource edition the verse is printed with śāntodarī, but Bhāskararāya’s own explanation is of śātodarī, the reading followed here. The story of Pārvatī, daughter of Himavat, is told in the Purāṇas and in Kālidāsa’s Kumārasambhava.",
+    "hi": "संस्कृत विकिस्रोत संस्करण में श्लोक में ‘शान्तोदरी’ छपा है, पर भास्करराय की अपनी व्याख्या ‘शातोदरी’ की है, और यहाँ वही पाठ अपनाया गया है। हिमवान की पुत्री पार्वती की कथा पुराणों में और कालिदास के कुमारसम्भव में वर्णित है।"
+  },
+  "commentary": {
+    "sanskrit": "शतोदरस्यानन्तगुहस्य हिमवतोऽपत्यं हैमवतीत्यर्थो वा ।",
+    "translation": {
+      "en": "Or the meaning is: the child of Śatodara, Himavat, who has endless caves; that is, Haimavatī.",
+      "hi": "अथवा अर्थ है: शतोदर, अर्थात् अनन्त गुफाओं वाले हिमवान, की सन्तान, यानी हैमवती।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 130 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Variant: the edition prints the verse line with शान्तोदरी, but Bhāskararāya’s explanation (शातं कृशम्… उदरं यस्याः सा शातोदरी) is of शातोदरी, the master-text reading kept here. The Kumārasambhava reference is editorial context." }
+}

@@ -1,0 +1,42 @@
+{
+  "number": 128,
+  "verse": 43,
+  "slug": "sadhvi",
+  "devanagari": "साध्वी",
+  "iastSplit": "Sādhvī",
+  "archana": "ॐ साध्व्यै नमः",
+  "syllables": ["sādh", "vī"],
+  "words": [
+    { "sa": "साध्वी", "meaning": { "en": "sādhvī: virtuous, chaste; a faithful wife", "hi": "साध्वी: सती, पतिव्रता" } }
+  ],
+  "meaning": {
+    "en": "The faithful one, devoted to her Lord alone",
+    "hi": "पतिव्रता, जो केवल अपने स्वामी में अनन्य हैं"
+  },
+  "explanation": {
+    "en": "Sādhvī means a faithful, virtuous wife; the Amarakośa gives satī, sādhvī and pativratā as one. Bhāskararāya says her fidelity is unlike anyone else’s, for in all three times, past, present and future, she has no union with any other lord.",
+    "hi": "‘साध्वी’ का अर्थ है पतिव्रता, सद्गुणी पत्नी; अमरकोश ‘सती’, ‘साध्वी’ और ‘पतिव्रता’ को एक ही अर्थ में देता है। भास्करराय कहते हैं कि उनका पातिव्रत्य किसी और जैसा नहीं, क्योंकि तीनों कालों में, भूत, वर्तमान और भविष्य में, उनका किसी अन्य स्वामी से योग नहीं।"
+  },
+  "inner": {
+    "en": "He quotes Śaṅkara’s Saundaryalaharī: poets may win Brahmā’s consort, learning, and men become lords of Śrī through wealth, but you, O Satī, are not to be touched by anyone but Mahādeva. The Devī Bhāgavata likewise praises her fidelity, shared by no other. Read with Kaulinī (94), her fidelity is the oneness of Śakti with Śiva.",
+    "hi": "वे श्री शङ्कराचार्य की सौन्दर्यलहरी का श्लोक उद्धृत करते हैं: कवि ब्रह्मा की पत्नी, विद्या, को पा लेते हैं, लोग धन से श्री के स्वामी बन जाते हैं, पर हे सती, महादेव के सिवा तुम्हें कोई नहीं छू सकता। देवी भागवत भी उनके अनन्य पातिव्रत्य की स्तुति करता है। कौलिनी (94) के साथ पढ़ने पर उनका पातिव्रत्य शिव के साथ शक्ति का एकत्व है।"
+  },
+  "story": {
+    "en": "Bhāskararāya cites the Saundaryalaharī as the work of ‘the revered Ācārya’, Śaṅkara. The hymn has already pictured her seated on Kāmeśvara’s lap (53) with Śiva wholly her own (54); this name speaks of the same bond from her side.",
+    "hi": "भास्करराय सौन्दर्यलहरी को ‘श्रीमद् आचार्य भगवत्पाद’, अर्थात् शङ्कराचार्य, की रचना के रूप में उद्धृत करते हैं। स्तोत्र पहले ही उन्हें कामेश्वर की गोद में विराजमान (53) और शिव को पूर्णतः अपने अधीन (54) दिखा चुका है; यह नाम उसी सम्बन्ध को उनकी ओर से कहता है।"
+  },
+  "commentary": {
+    "sanskrit": "कालत्रयेऽपि पत्यन्तरयोगाभावादनितरसाधारणं पातिव्रत्यम् ।",
+    "translation": {
+      "en": "Since in all three times she has no union with another lord, her fidelity is shared by no one else.",
+      "hi": "तीनों कालों में भी किसी अन्य पति से योग न होने के कारण उनका पातिव्रत्य असाधारण है, किसी और में नहीं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 128 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Saundaryalaharī verse (कलत्रं वैधात्रं…, verse 99) is paraphrased in part, leaving out its closing image. The last sentence of the inner layer, linking to name 94, is a reflection." }
+}

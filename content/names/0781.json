@@ -1,0 +1,43 @@
+{
+  "number": 781,
+  "verse": 149,
+  "slug": "pratyag-rupa",
+  "devanagari": "प्रत्यग्रूपा",
+  "iastSplit": "Pratyag-rūpā",
+  "archana": "ॐ प्रत्यग्रूपायै नमः",
+  "syllables": ["prat", "yag", "rū", "pā"],
+  "words": [
+    { "sa": "प्रत्यक्", "meaning": { "en": "turned back, inward", "hi": "भीतर की ओर मुड़ा हुआ, अन्तर्मुख" } },
+    { "sa": "रूप", "meaning": { "en": "form", "hi": "रूप, स्वरूप" } }
+  ],
+  "meaning": {
+    "en": "Whose form is the inner Self, seen by turning within",
+    "hi": "जिनका स्वरूप अन्तर्मुख होकर ही देखा जाता है"
+  },
+  "explanation": {
+    "en": "Pratyak means turned back, facing inward, and rūpa is form. The senses naturally run outward to their objects; she is the one seen when they turn back toward the Self within. Her form is the inner Self, not an object outside.",
+    "hi": "‘प्रत्यक्’ का अर्थ है पीछे की ओर, भीतर की ओर मुड़ा हुआ, और ‘रूप’ का अर्थ है स्वरूप। इन्द्रियाँ स्वभाव से बाहर अपने विषयों की ओर दौड़ती हैं; वे वह हैं जो इन्द्रियों के भीतर आत्मा की ओर लौटने पर दिखाई देती हैं। उनका स्वरूप भीतर की आत्मा है, बाहर की कोई वस्तु नहीं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya explains: the senses facing their objects is called being outward-turned (parāṅmukha); giving that up and facing the inner Self is being inward-turned (pratyaṅmukha). He quotes the Upaniṣad: the Self-born pierced the openings of the senses outward, so one sees outward and not the inner Self. Her form, he says, is the one beheld by inward vision.",
+    "hi": "भास्करराय समझाते हैं: इन्द्रियों का विषयों की ओर उन्मुख होना ‘पराङ्मुख’ या बहिर्मुख होना कहलाता है; उसे छोड़कर भीतर की आत्मा की ओर उन्मुख होना ‘प्रत्यङ्मुख’ या अन्तर्मुख होना कहलाता है। वे उपनिषद् का वचन देते हैं: स्वयम्भू ने इन्द्रियों के द्वार बाहर की ओर खोले, इसलिए मनुष्य बाहर देखता है, भीतर की आत्मा को नहीं। उनका स्वरूप, वे कहते हैं, वह है जो भीतर की दृष्टि से देखा जाता है।"
+  },
+  "story": {
+    "en": "The Upaniṣad he quotes is the Kaṭha, which goes on to say that a wise one, seeking immortality, turned his gaze inward and saw the Self. After the outward, universal names before it, this name turns to the inward way.",
+    "hi": "वे जो उपनिषद् उद्धृत करते हैं, वह कठोपनिषद् है, जो आगे कहता है कि अमरत्व की इच्छा वाले किसी धीर पुरुष ने दृष्टि भीतर मोड़कर प्रत्यगात्मा को देखा। पहले के बाहरी, विश्वव्यापी नामों के बाद यह नाम भीतर के मार्ग की ओर मुड़ता है।"
+  },
+  "commentary": {
+    "sanskrit": "प्रतिकूलमञ्चतीति प्रत्यक् तादृशं रूपं यस्याः । इन्द्रियाणां विषयोन्मुखत्वं बहिर्मुखत्वं पराङ्मुखत्वं चेत्युच्यते । तत्परित्यागेनान्तरात्मोन्मुखत्वमन्तर्मुखत्वं प्रत्यङ्मुखत्वं चोच्यते ।",
+    "translation": {
+      "en": "Pratyak is what moves (añcati) the opposite way; she whose form is such. The senses facing their objects is called being outward-turned, facing away; giving that up and facing the inner Self is called being inward-turned, pratyaṅmukha.",
+      "hi": "जो विपरीत दिशा में जाता है, वह प्रत्यक् है; ऐसा जिनका रूप है। इन्द्रियों का विषयों की ओर उन्मुख होना बहिर्मुखता या पराङ्मुखता कहलाता है; उसे त्यागकर अन्तरात्मा की ओर उन्मुख होना अन्तर्मुखता या प्रत्यङ्मुखता कहलाता है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 781 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya quotes पराञ्चि खानि व्यतृणत्स्वयम्भूः as śruti; its identification as Kaṭha Upaniṣad 2.1.1 is added here. The edition prints the verse line प्रत्यग्रूपा … ।। २०० ।। in the middle of this comment." }
+}

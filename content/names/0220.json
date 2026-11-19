@@ -1,0 +1,43 @@
+{
+  "number": 220,
+  "verse": 55,
+  "slug": "mahaishvarya",
+  "devanagari": "महैश्वर्या",
+  "iastSplit": "Mahaiśvaryā",
+  "archana": "ॐ महैश्वर्यायै नमः",
+  "syllables": ["ma", "haiś", "var", "yā"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "ऐश्वर्य", "meaning": { "en": "lordship; splendour, wealth", "hi": "ईश्वरता, प्रभुत्व; वैभव" } }
+  ],
+  "meaning": {
+    "en": "Whose sovereignty and splendour are great",
+    "hi": "जिनका प्रभुत्व और वैभव महान है"
+  },
+  "explanation": {
+    "en": "Aiśvarya means both lordship, the state of being the ruler, and the splendour that goes with it. In her both are great; mahā and aiśvarya join as mahaiśvarya.",
+    "hi": "‘ऐश्वर्य’ का अर्थ है ईश्वरता, अर्थात् स्वामी होने का भाव, और उसके साथ जुड़ा वैभव भी। उनमें ये दोनों महान हैं; ‘महा’ और ‘ऐश्वर्य’ मिलकर ‘महैश्वर्य’ बनते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only these two senses, lordship and splendour (vibhūti), and no hidden meaning. Read together, they suggest that her power to rule and the riches of the world are not two: the world itself is the splendour of its ruler.",
+    "hi": "भास्करराय केवल ये दो अर्थ देते हैं, ईश्वरता और विभूति; कोई गूढ़ अर्थ नहीं। दोनों को साथ पढ़ें तो लगता है कि उनका शासन और जगत का वैभव दो नहीं: स्वयं जगत ही अपनी स्वामिनी की विभूति है।"
+  },
+  "story": {
+    "en": "This name continues the list of her riches begun with Mahābhogā. Lordship, īśitva, is also one of the eight classical siddhis, aṇimā and the rest, that name 224 recalls.",
+    "hi": "यह नाम महाभोगा से शुरू हुई उनके ऐश्वर्यों की सूची को आगे बढ़ाता है। ईशित्व अर्थात् ईश्वरता अणिमा आदि उन आठ प्रसिद्ध सिद्धियों में से भी एक है, जिनका स्मरण नाम 224 कराता है।"
+  },
+  "commentary": {
+    "sanskrit": "ऐश्वर्यमीश्वरता विभूतिश्चेत्युभयं महद्यस्याः ।",
+    "translation": {
+      "en": "Aiśvarya is lordship and also splendour; she in whom both are great.",
+      "hi": "ऐश्वर्य का अर्थ है ईश्वरता और विभूति; जिनमें ये दोनों महान हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 220 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives the literal senses only; the inner layer is a reflection, and the link to the siddhi īśitva in the story is editorial." }
+}

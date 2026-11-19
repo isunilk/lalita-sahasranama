@@ -1,0 +1,45 @@
+{
+  "number": 108,
+  "verse": 40,
+  "slug": "shat-chakropari-samsthita",
+  "devanagari": "षट्चक्रोपरिसंस्थिता",
+  "iastSplit": "Ṣaṭ-cakropari-saṃsthitā",
+  "archana": "ॐ षट्चक्रोपरिसंस्थितायै नमः",
+  "syllables": ["ṣaṭ", "cak", "ro", "pa", "ri", "saṃ", "sthi", "tā"],
+  "words": [
+    { "sa": "षट्", "meaning": { "en": "six", "hi": "छह" } },
+    { "sa": "चक्र", "meaning": { "en": "cakra, centre", "hi": "चक्र" } },
+    { "sa": "उपरि", "meaning": { "en": "above", "hi": "ऊपर" } },
+    { "sa": "संस्थिता", "meaning": { "en": "well established, abiding", "hi": "भली-भाँति स्थित, प्रतिष्ठित" } }
+  ],
+  "meaning": {
+    "en": "Who is established above the six cakras",
+    "hi": "जो छह चक्रों के ऊपर प्रतिष्ठित हैं"
+  },
+  "explanation": {
+    "en": "The six cakras are the Mūlādhāra, Svādhiṣṭhāna, Maṇipūra, Anāhata, Viśuddhi and Ājñā. Above them all, in the Sahasrāra, she is firmly established. Bhāskararāya reads the sam of saṃsthitā as samyak, ‘well, fully’.",
+    "hi": "छह चक्र हैं: मूलाधार, स्वाधिष्ठान, मणिपूर, अनाहत, विशुद्धि और आज्ञा। इन सबके ऊपर, सहस्रार में, वे भली-भाँति प्रतिष्ठित हैं। भास्करराय ‘संस्थिता’ के ‘सम्’ का अर्थ ‘सम्यक्’, अर्थात् पूर्ण रूप से, करते हैं।"
+  },
+  "inner": {
+    "en": "The six cakras are the stages of her path; her own seat is above them, in the Sahasrāra, the Akula of name 96. Bhāskararāya gives only the literal sense here, so this is a reflection: whatever she passes through, she is not confined to it.",
+    "hi": "छह चक्र उनके मार्ग के पड़ाव हैं; उनका अपना आसन उनके ऊपर, सहस्रार में, है, जो नाम 96 का ‘अकुल’ है। भास्करराय यहाँ केवल शब्दार्थ देते हैं, अतः यह एक चिन्तन है: वे जिससे भी होकर गुज़रती हैं, उसमें बँधी नहीं रहतीं।"
+  },
+  "story": {
+    "en": "Bhāskararāya adds a point of grammar: ṣaṭcakra stands for ‘the cakras that have six members’, a compound with a middle word dropped, and so it does not take the feminine ending -ī that a numeral compound otherwise would.",
+    "hi": "भास्करराय एक व्याकरण-बिन्दु जोड़ते हैं: ‘षट्चक्र’ का अर्थ है ‘छह अवयवों वाले चक्र’; यह मध्यमपदलोपी समास है, इसलिए इसमें वह स्त्रीलिंग ‘ई’ प्रत्यय नहीं लगता जो संख्यावाचक (द्विगु) समास में लगता।"
+  },
+  "commentary": {
+    "sanskrit": "तेषामुपरि सहस्रारे सम्यक् स्थिता ।",
+    "translation": {
+      "en": "Above them, in the Sahasrāra, she is well established.",
+      "hi": "उनके ऊपर, सहस्रार में, वे सम्यक् रूप से स्थित हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 108 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Kuṇḍalinī name: meaning only. The edition’s verse line prints षट्चक्रोपरि संस्थिता as two words; the master text has one compound. Bhāskararāya gives only the literal sense and a grammatical note; the inner layer’s last sentence is a reflection. The first member is given as षट्, the compound form of षष्." }
+}

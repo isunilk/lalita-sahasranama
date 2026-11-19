@@ -1,0 +1,43 @@
+{
+  "number": 759,
+  "verse": 146,
+  "slug": "vishva-dharini",
+  "devanagari": "विश्वधारिणी",
+  "iastSplit": "Viśva-dhāriṇī",
+  "archana": "ॐ विश्वधारिण्यै नमः",
+  "syllables": ["viś", "va", "dhā", "ri", "ṇī"],
+  "words": [
+    { "sa": "विश्व", "meaning": { "en": "the universe", "hi": "विश्व, सम्पूर्ण जगत्" } },
+    { "sa": "धारिणी", "meaning": { "en": "she who holds, supports", "hi": "धारण करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who holds up and sustains the whole universe",
+    "hi": "जो सम्पूर्ण विश्व को धारण करती हैं"
+  },
+  "explanation": {
+    "en": "Viśva is the universe and dhāriṇī is she who bears or supports it. As the earth bears all that stands on it, she bears the whole of creation. Nothing in it stands without her support.",
+    "hi": "‘विश्व’ का अर्थ है सम्पूर्ण जगत् और ‘धारिणी’ का अर्थ है धारण करने वाली। जैसे पृथ्वी अपने ऊपर स्थित सब कुछ को धारण करती है, वैसे ही वे सारी सृष्टि को धारण करती हैं। उसमें कुछ भी उनके आधार के बिना नहीं टिकता।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the plain sense: she holds the universe. Holding here means more than carrying a weight: it is what keeps each thing in being, so that simply to exist is already to rest in her.",
+    "hi": "भास्करराय केवल सीधा अर्थ देते हैं: वे विश्व को धारण करती हैं। यहाँ धारण करना केवल भार उठाना नहीं है; यही वह शक्ति है जो हर वस्तु को अस्तित्व में बनाए रखती है, इसलिए होना ही उनमें टिके रहना है।"
+  },
+  "story": {
+    "en": "With the two names before it, this completes the first line of the verse: she is the nature of the perishable and the imperishable, the ruler of every world, and the one who holds the universe.",
+    "hi": "पहले के दो नामों के साथ यह श्लोक की पहली पंक्ति पूरी करता है: वे क्षर और अक्षर का स्वरूप हैं, हर लोक की स्वामिनी हैं, और विश्व को धारण करने वाली हैं।"
+  },
+  "commentary": {
+    "sanskrit": "विश्वं धारयतीति तथा ।",
+    "translation": {
+      "en": "She holds the universe (viśvaṃ dhārayati); hence the name.",
+      "hi": "विश्व को धारण करती हैं, इसलिए यह नाम है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 759 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the second sentence of the inner layer is a reflection." }
+}

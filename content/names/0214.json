@@ -1,0 +1,44 @@
+{
+  "number": 214,
+  "verse": 54,
+  "slug": "maha-pataka-nashini",
+  "devanagari": "महापातकनाशिनी",
+  "iastSplit": "Mahā-pātaka-nāśinī",
+  "archana": "ॐ महापातकनाशिन्यै नमः",
+  "syllables": ["ma", "hā", "pā", "ta", "ka", "nā", "śi", "nī"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "पातक", "meaning": { "en": "sin, that which makes one fall", "hi": "पाप, पतन कराने वाला कर्म" } },
+    { "sa": "नाशिनी", "meaning": { "en": "destroyer", "hi": "नाश करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Destroyer of even the gravest sins",
+    "hi": "महापापों का भी नाश करने वाली"
+  },
+  "explanation": {
+    "en": "Pātaka is sin, literally “that which makes one fall”. The mahāpātakas are the gravest sins named in the law books, such as the killing of a brahmin. She destroys even these.",
+    "hi": "‘पातक’ का अर्थ है पाप, शब्दार्थ में ‘जो गिरा दे’। धर्मशास्त्रों में ब्रह्महत्या जैसे सबसे गम्भीर पाप ‘महापातक’ कहलाते हैं। वे इनका भी नाश कर देती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes the Brahmāṇḍa Purāṇa: for every sin, committed knowingly or unknowingly, the highest expiation is remembrance of the feet of the supreme Śakti. What ends the sin is not a counterweight of merit but the mind turning back to her.",
+    "hi": "भास्करराय ब्रह्माण्ड पुराण का वचन देते हैं: जान-बूझकर या अनजाने में किए गए हर पाप का सबसे बड़ा प्रायश्चित्त पराशक्ति के चरणों का स्मरण है। पाप को मिटाने वाला पुण्य का कोई प्रतिभार नहीं, बल्कि मन का फिर से उनकी ओर मुड़ना है।"
+  },
+  "story": {
+    "en": "He also cites the Brahmottara Khaṇḍa: “Why say more? In half a verse I declare it: worship of Śiva destroys even a hundred killings of brahmins.”",
+    "hi": "वे ब्रह्मोत्तर खण्ड का भी वचन देते हैं: ‘अधिक कहने से क्या? आधे श्लोक में कहता हूँ: शिव-पूजा सौ ब्रह्महत्याओं का भी नाश कर देती है।’"
+  },
+  "commentary": {
+    "sanskrit": "महान्ति ब्रह्महत्यादीनि पातकानि नाशयतीति तथा ।",
+    "translation": {
+      "en": "She destroys the great sins, the killing of a brahmin and the rest; hence the name.",
+      "hi": "वे ब्रह्महत्या आदि महान पापों का नाश करती हैं, इसलिए यह नाम है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 214 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya also cites the Artharatnāvalī, for which महापातक here means only वीरहत्या, and refers to texts such as the Saubhāgyaratnākara that grade Pañcadaśī japa by the weight of the sin; both are left out of the public layers. The second sentence of the inner layer is a reflection." }
+}

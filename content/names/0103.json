@@ -1,0 +1,45 @@
+{
+  "number": 103,
+  "verse": 39,
+  "slug": "ajna-chakrantarala-stha",
+  "devanagari": "आज्ञाचक्रान्तरालस्था",
+  "iastSplit": "Ājñā-cakrāntarāla-sthā",
+  "archana": "ॐ आज्ञाचक्रान्तरालस्थायै नमः",
+  "syllables": ["āj", "ñā", "cak", "rān", "ta", "rā", "las", "thā"],
+  "words": [
+    { "sa": "आज्ञा", "meaning": { "en": "command", "hi": "आज्ञा" } },
+    { "sa": "चक्र", "meaning": { "en": "cakra, wheel, centre", "hi": "चक्र" } },
+    { "sa": "अन्तराल", "meaning": { "en": "interior, the space within", "hi": "भीतरी भाग, मध्य" } },
+    { "sa": "स्था", "meaning": { "en": "abiding", "hi": "स्थित" } }
+  ],
+  "meaning": {
+    "en": "Who abides within the Ājñā cakra, between the brows",
+    "hi": "जो भ्रूमध्य के आज्ञाचक्र के भीतर स्थित हैं"
+  },
+  "explanation": {
+    "en": "The Ājñā is the two-petalled lotus between the eyebrows. Bhāskararāya explains its name: it is the seat of the Śrī Guru who gives the command, ājñā. The Devī abides in its interior.",
+    "hi": "आज्ञाचक्र भौंहों के बीच स्थित दो दलों वाला कमल है। भास्करराय इसके नाम का अर्थ बताते हैं: यह आज्ञा देने वाले श्रीगुरु का स्थान है। देवी इसके भीतरी भाग में स्थित हैं।"
+  },
+  "inner": {
+    "en": "He offers a second sense of the name: the prefix ā can mean ‘a little’, for by the time one reaches this centre a little knowledge has dawned. Above the Ājñā lies only the thousand-petalled lotus, to which the next names turn.",
+    "hi": "वे इसके नाम का एक दूसरा अर्थ भी देते हैं: उपसर्ग ‘आ’ का अर्थ ‘थोड़ा’ भी होता है, क्योंकि यहाँ तक पहुँचते-पहुँचते थोड़ा ज्ञान उदित हो जाता है। आज्ञा के ऊपर केवल सहस्रदल कमल है, जिसकी ओर अगले नाम मुड़ते हैं।"
+  },
+  "story": {
+    "en": "The Ājñā is the last of the six cakras. Bhāskararāya’s two readings of its name, the guru’s command and the first dawning of knowledge, both make it a threshold before the thousand-petalled lotus.",
+    "hi": "आज्ञा छह चक्रों में अन्तिम है। इसके नाम के भास्करराय के दोनों अर्थ, गुरु की आज्ञा और ज्ञान का पहला उदय, इसे सहस्रदल कमल से पहले की देहरी बना देते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "भ्रूमध्ये द्विदलपद्मे आज्ञापकस्य श्रीगुरोरवस्थानादाज्ञाचक्रसंज्ञा ।",
+    "translation": {
+      "en": "The two-petalled lotus between the brows is called the Ājñā cakra because the Śrī Guru, who gives the command, abides there.",
+      "hi": "भौंहों के मध्य स्थित दो दलों वाले कमल का नाम आज्ञाचक्र इसलिए है कि वहाँ आज्ञा देने वाले श्रीगुरु का निवास है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 103 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Kuṇḍalinī name: meaning only. In the second etymology the edition prints मनोविग्रहाभ्यासे इषद् ज्ञानोदयो (इषद् for ईषद्; मनोविग्रह perhaps for मनोनिग्रह), so it is paraphrased loosely, without the phrase about practice. The ‘threshold’ in the story is a reflection." }
+}

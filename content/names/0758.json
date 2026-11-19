@@ -1,0 +1,44 @@
+{
+  "number": 758,
+  "verse": 146,
+  "slug": "sarva-lokeshi",
+  "devanagari": "सर्वलोकेशी",
+  "iastSplit": "Sarva-lokeśī",
+  "archana": "ॐ सर्वलोकेश्यै नमः",
+  "syllables": ["sar", "va", "lo", "ke", "śī"],
+  "words": [
+    { "sa": "सर्व", "meaning": { "en": "all", "hi": "सब, समस्त" } },
+    { "sa": "लोक", "meaning": { "en": "world", "hi": "लोक, जगत्" } },
+    { "sa": "ईशी", "meaning": { "en": "ruler, sovereign", "hi": "स्वामिनी, ईश्वरी" } }
+  ],
+  "meaning": {
+    "en": "Sovereign of all the worlds",
+    "hi": "समस्त लोकों की स्वामिनी"
+  },
+  "explanation": {
+    "en": "Sarva is all, loka a world, and īśī a ruler. She rules every world, from the highest heaven to the lowest realm. Bhāskararāya glosses īśī simply as īśvarī, sovereign.",
+    "hi": "‘सर्व’ का अर्थ है सब, ‘लोक’ का अर्थ है लोक या जगत्, और ‘ईशी’ का अर्थ है शासन करने वाली। ऊँचे से ऊँचे स्वर्ग से लेकर नीचे से नीचे लोक तक, हर लोक पर उनका शासन है। भास्करराय ‘ईशी’ का अर्थ सीधे ‘ईश्वरी’ बताते हैं।"
+  },
+  "inner": {
+    "en": "He gives no hidden meaning here. The worlds are many, but their ruler is one; whatever world a being finds itself in, it is already within her rule and her care.",
+    "hi": "यहाँ वे कोई गूढ़ अर्थ नहीं देते। लोक अनेक हैं, पर उनकी स्वामिनी एक ही हैं; कोई प्राणी चाहे जिस लोक में हो, वह पहले से उनके शासन और संरक्षण में है।"
+  },
+  "story": {
+    "en": "This name stands between Kṣarākṣarātmikā and Viśvadhāriṇī: she is the nature of all things, their ruler, and their support. Name 569, Nikhileśvarī, ‘ruler of all’, is close to it in sense.",
+    "hi": "यह नाम ‘क्षराक्षरात्मिका’ और ‘विश्वधारिणी’ के बीच आता है: वे सब वस्तुओं का स्वरूप हैं, उनकी स्वामिनी हैं और उनका आधार हैं। नाम 569, ‘निखिलेश्वरी’ (सबकी ईश्वरी), इसी के समान अर्थ वाला है।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वेषां लोकानामीशी ईश्वरी ।",
+    "translation": {
+      "en": "The īśī, the sovereign, of all the worlds.",
+      "hi": "सब लोकों की ईशी, अर्थात् ईश्वरी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 758 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the second sentence of the inner layer is a reflection." }
+}

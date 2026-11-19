@@ -1,0 +1,43 @@
+{
+  "number": 247,
+  "verse": 60,
+  "slug": "padma-nayana",
+  "devanagari": "पद्मनयना",
+  "iastSplit": "Padma-nayanā",
+  "archana": "ॐ पद्मनयनायै नमः",
+  "syllables": ["pad", "ma", "na", "ya", "nā"],
+  "words": [
+    { "sa": "पद्म", "meaning": { "en": "lotus", "hi": "कमल" } },
+    { "sa": "नयन", "meaning": { "en": "eye", "hi": "नेत्र" } }
+  ],
+  "meaning": {
+    "en": "Whose eyes are like lotuses",
+    "hi": "कमल जैसे नेत्रों वाली"
+  },
+  "explanation": {
+    "en": "Her eyes are like lotuses: long, soft and open. The lotus is the classical image of beautiful eyes in Sanskrit poetry.",
+    "hi": "उनके नेत्र कमल जैसे हैं: लम्बे, कोमल और खिले हुए। संस्कृत काव्य में सुन्दर नेत्रों की यही पारम्परिक उपमा है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the simile: she whose eyes are like lotuses. A lotus rises clean from muddy water, and her gaze rests on the world without being stained by it.",
+    "hi": "भास्करराय केवल उपमा देते हैं: वे, जिनके नेत्र कमल जैसे हैं। कमल कीचड़ भरे जल से निर्मल ऊपर उठता है; उनकी दृष्टि भी जगत पर पड़कर उससे मलिन नहीं होती।"
+  },
+  "story": {
+    "en": "Lotus-eyed is also an epithet of Viṣṇu (padmanayana, puṇḍarīkākṣa). In this half-verse it stands between her name as Himavān’s daughter and the ruby glow of her body.",
+    "hi": "‘कमलनयन’ विष्णु का भी विशेषण है (पद्मनयन, पुण्डरीकाक्ष)। इस अर्धश्लोक में यह हिमवान की पुत्री वाले नाम और उनकी माणिक्य जैसी कान्ति वाले नाम के बीच आता है।"
+  },
+  "commentary": {
+    "sanskrit": "पद्मे इव नयने यस्याः सा पद्मनयना ।",
+    "translation": {
+      "en": "She whose eyes are like two lotuses is Padmanayanā.",
+      "hi": "जिनके नेत्र दो कमलों जैसे हैं, वे पद्मनयना हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 247 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives the simile only; the second sentence of the inner layer is a reflection, and the Viṣṇu epithets in the story are editorial." }
+}

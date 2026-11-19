@@ -1,0 +1,44 @@
+{
+  "number": 245,
+  "verse": 60,
+  "slug": "chakra-raja-niketana",
+  "devanagari": "चक्रराजनिकेतना",
+  "iastSplit": "Cakra-rāja-niketanā",
+  "archana": "ॐ चक्रराजनिकेतनायै नमः",
+  "syllables": ["cak", "ra", "rā", "ja", "ni", "ke", "ta", "nā"],
+  "words": [
+    { "sa": "चक्र", "meaning": { "en": "cakra, sacred wheel or diagram", "hi": "चक्र" } },
+    { "sa": "राज", "meaning": { "en": "king; here, the chief", "hi": "राजा, श्रेष्ठ" } },
+    { "sa": "निकेतन", "meaning": { "en": "dwelling, home", "hi": "निकेतन, निवास" } }
+  ],
+  "meaning": {
+    "en": "Whose dwelling is the king of cakras, the Śrīcakra",
+    "hi": "जिनका निवास चक्रराज, अर्थात् श्रीचक्र, है"
+  },
+  "explanation": {
+    "en": "The cakrarāja, “king of cakras”, is the Śrīcakra, the sacred diagram of her worship, and it is her niketana, her home. Bhāskararāya describes it as made of nine cakras, beginning with the Trailokyamohana.",
+    "hi": "चक्रराज, अर्थात् ‘चक्रों का राजा’, श्रीचक्र है, उनकी उपासना का पवित्र यन्त्र, और वही उनका निकेतन, अर्थात् घर, है। भास्करराय इसे त्रैलोक्यमोहन से आरम्भ होने वाले नौ चक्रों से बना बताते हैं।"
+  },
+  "inner": {
+    "en": "The Śrīcakra is not only a diagram that stands for her; Bhāskararāya calls it her very dwelling. Under name 240 he called the moon’s disc one with it, and under name 237 he filled each of its nine cakras with sixty-four crore yoginīs. Whoever worships the Śrīcakra worships in her own home.",
+    "hi": "श्रीचक्र केवल उनका प्रतीक कोई चित्र नहीं; भास्करराय उसे उनका वास्तविक निवास कहते हैं। नाम 240 पर उन्होंने चन्द्रमण्डल को इससे अभिन्न कहा था, और नाम 237 पर इसके नौ चक्रों में से प्रत्येक को चौंसठ करोड़ योगिनियों से भरा बताया था। जो श्रीचक्र की पूजा करता है, वह उनके अपने घर में पूजा करता है।"
+  },
+  "story": {
+    "en": "The hymn has already shown her riding into battle on the chariot called Cakrarāja (name 68), and near its end it calls her Śrīcakrarājanilayā, “whose abode is the Śrīcakra” (name 996).",
+    "hi": "स्तोत्र उन्हें पहले चक्रराज नामक रथ पर युद्ध के लिए आरूढ़ दिखा चुका है (नाम 68), और अन्त के पास उन्हें ‘श्रीचक्रराजनिलया’, अर्थात् ‘जिनका निवास श्रीचक्र है’, कहता है (नाम 996)।"
+  },
+  "commentary": {
+    "sanskrit": "त्रैलोक्यमोहनादिनवचक्रराजमेव निकेतनं वासस्थानं यस्याः ।",
+    "translation": {
+      "en": "She whose niketana, dwelling place, is the king of cakras itself, made of the nine cakras beginning with Trailokyamohana.",
+      "hi": "जिनका निकेतन, अर्थात् वास-स्थान, त्रैलोक्यमोहन आदि नौ चक्रों वाला चक्रराज ही है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 245 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The last sentence of the inner layer is a reflection; the cross-references to names 68 and 996 are editorial." }
+}

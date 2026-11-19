@@ -1,0 +1,43 @@
+{
+  "number": 115,
+  "verse": 41,
+  "slug": "bhadra-priya",
+  "devanagari": "भद्रप्रिया",
+  "iastSplit": "Bhadra-priyā",
+  "archana": "ॐ भद्रप्रियायै नमः",
+  "syllables": ["bhad", "rap", "ri", "yā"],
+  "words": [
+    { "sa": "भद्र", "meaning": { "en": "the auspicious, the good; also a noble breed of elephant", "hi": "भद्र, मंगल; हाथियों की एक श्रेष्ठ जाति भी" } },
+    { "sa": "प्रिया", "meaning": { "en": "dear; fond of", "hi": "प्रिय" } }
+  ],
+  "meaning": {
+    "en": "To whom all that is auspicious is dear",
+    "hi": "जिन्हें सब कुछ मंगलमय प्रिय है"
+  },
+  "explanation": {
+    "en": "Bhadra means auspicious, good, blessed, and she is fond of all that is auspicious. Bhāskararāya adds a second sense: bhadra is a noble breed of elephant, and elephants of that kind are dear to her.",
+    "hi": "‘भद्र’ का अर्थ है मंगल, शुभ, कल्याणकारी, और उन्हें सब कुछ मंगलमय प्रिय है। भास्करराय एक दूसरा अर्थ भी देते हैं: ‘भद्र’ हाथियों की एक श्रेष्ठ जाति है, और उस जाति के हाथी उन्हें प्रिय हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only these two literal senses. As a reflection: one who loves the auspicious is pleased by auspicious conduct, and the names that follow speak of the good fortune she gives her devotees.",
+    "hi": "भास्करराय केवल ये दो शब्दार्थ देते हैं। चिन्तन के रूप में: जिसे मंगल प्रिय है, वह मंगलमय आचरण से प्रसन्न होता है; और आगे के नाम भक्तों को दिए जाने वाले उनके सौभाग्य की बात करते हैं।"
+  },
+  "story": {
+    "en": "The second sense recalls name 66, where she is attended by a host of elephants on which the goddess Sampatkarī rides.",
+    "hi": "दूसरा अर्थ नाम 66 का स्मरण कराता है, जहाँ सम्पत्करी देवी जिन पर आरूढ़ हैं, ऐसे हाथियों का समूह उनकी सेवा करता है।"
+  },
+  "commentary": {
+    "sanskrit": "भद्रं मङ्गलं प्रियं यस्याः । भद्रो गजविशेषस्तज्जातीया गजाः प्रिया यस्या इति वा ।",
+    "translation": {
+      "en": "She to whom bhadra, the auspicious, is dear. Or: bhadra is a particular kind of elephant, and she to whom elephants of that breed are dear.",
+      "hi": "जिन्हें भद्र, अर्थात् मंगल, प्रिय है। अथवा ‘भद्र’ हाथियों की एक विशेष जाति है, और उस जाति के हाथी जिन्हें प्रिय हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 115 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the two literal senses; the inner layer is a reflection, and the link to name 66 in the story is editorial." }
+}

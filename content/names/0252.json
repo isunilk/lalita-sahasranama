@@ -1,0 +1,36 @@
+{
+  "number": 252,
+  "verse": 61,
+  "slug": "paramananda",
+  "devanagari": "परमानन्दा",
+  "iastSplit": "Paramānandā",
+  "archana": "ॐ परमानन्दायै नमः",
+  "syllables": ["pa", "ra", "mā", "nan", "dā"],
+  "words": [
+    { "sa": "परम", "meaning": { "en": "supreme", "hi": "परम, सर्वोच्च" } },
+    { "sa": "आनन्द", "meaning": { "en": "bliss", "hi": "आनन्द" } }
+  ],
+  "meaning": {
+    "en": "Whose nature is supreme bliss",
+    "hi": "परम आनन्द जिनका स्वरूप है"
+  },
+  "explanation": {
+    "en": "Ānanda is bliss, and parama means supreme, the highest there is. Bliss is not something she has but what she is.",
+    "hi": "‘आनन्द’ का अर्थ है परम सुख, और ‘परम’ का अर्थ है सर्वोच्च, जिससे ऊपर कुछ नहीं। आनन्द उनके पास कोई वस्तु नहीं, उनका स्वरूप है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya glosses the name as she whose own nature is the highest bliss, and supports it with the Upaniṣad: “That which is the infinite is happiness.” The same passage goes on to say that there is no happiness in the small. With the previous name and the next, this gives her nature as consciousness and bliss together.",
+    "hi": "भास्करराय इस नाम का अर्थ करते हैं ‘जिनका स्वरूप ही परम आनन्द है’, और उपनिषद् का वचन देते हैं: ‘जो भूमा, अर्थात् अनन्त, है, वही सुख है।’ वही प्रसंग आगे कहता है कि अल्प में सुख नहीं है। पिछले और अगले नाम के साथ यह नाम उनके स्वरूप को चेतना और आनन्द दोनों के रूप में बताता है।"
+  },
+  "story": {
+    "en": "Names 251 to 253 echo the Upaniṣadic description of Brahman as consciousness and bliss, and Bhāskararāya supports the last two with passages from the Upaniṣads.",
+    "hi": "नाम 251 से 253 ब्रह्म के उस उपनिषद्-वर्णन की प्रतिध्वनि हैं जिसमें वह चेतना और आनन्द है, और भास्करराय अन्तिम दो नामों की पुष्टि उपनिषदों के वचनों से करते हैं।"
+  },
+  "commentary": null,
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Commentary left null: the edition prints Bhāskararāya’s gloss as परम उत्कृष्ट आनन्दा स्याः स्वरूपं सा, evidently a misprint for …आनन्दो यस्याः…. He quotes only यो वै भूमा तत्सुखम् (Chāndogya 7.23, not named by him); “there is no happiness in the small” is from the same passage, added for context." }
+}

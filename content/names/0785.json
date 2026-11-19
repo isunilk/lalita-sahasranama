@@ -1,0 +1,44 @@
+{
+  "number": 785,
+  "verse": 150,
+  "slug": "martanda-bhairavaradhya",
+  "devanagari": "मार्ताण्डभैरवाराध्या",
+  "iastSplit": "Mārtāṇḍa-bhairavārādhyā",
+  "archana": "ॐ मार्ताण्डभैरवाराध्यायै नमः",
+  "syllables": ["mār", "tāṇ", "ḍa", "bhai", "ra", "vā", "rādh", "yā"],
+  "words": [
+    { "sa": "मार्ताण्ड", "meaning": { "en": "the sun; part of the name Mārtāṇḍa Bhairava", "hi": "सूर्य; मार्ताण्ड भैरव नाम का अंश" } },
+    { "sa": "भैरव", "meaning": { "en": "Bhairava, a fierce form of Śiva", "hi": "भैरव, शिव का उग्र रूप" } },
+    { "sa": "आराध्या", "meaning": { "en": "she who is worshipped", "hi": "जिनकी आराधना की जाती है" } }
+  ],
+  "meaning": {
+    "en": "Worshipped by Mārtāṇḍa Bhairava",
+    "hi": "मार्ताण्ड भैरव द्वारा आराधित"
+  },
+  "explanation": {
+    "en": "Mārtāṇḍa Bhairava is a god who worships the Devī in her city, Śrīpura. Ārādhyā means the one he worships. Bhāskararāya also reads the name as ‘worshipped by Mārtāṇḍa, the sun, and by Bhairava’.",
+    "hi": "मार्ताण्ड भैरव एक देवता हैं जो देवी के नगर श्रीपुर में उनकी उपासना करते हैं। ‘आराध्या’ का अर्थ है जिनकी वे आराधना करते हैं। भास्करराय इस नाम को ‘मार्ताण्ड (सूर्य) और भैरव द्वारा आराधित’ के अर्थ में भी पढ़ते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives an inner reading from the Śiva Sūtras, which say that Bhairava is udyama, the sudden upsurge of awareness. That upsurge is a Mārtāṇḍa, a sun, because it destroys the darkness of delusion. She is reached through that sun-like upsurge within.",
+    "hi": "भास्करराय शिवसूत्रों से एक आन्तरिक अर्थ देते हैं, जो कहते हैं कि ‘उद्यम ही भैरव है’, अर्थात् चेतना का अचानक उभरना। वह उद्यम ‘मार्ताण्ड’ अर्थात् सूर्य है, क्योंकि वह मोह के अन्धकार का नाश करता है। उस सूर्य जैसे भीतरी उद्यम से ही वे प्राप्त होती हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya places Mārtāṇḍa Bhairava in Śrīpura, between its twenty-second and twenty-third ramparts, and quotes Durvāsas’ description of him. He adds that in Maharashtra the Śiva who came to earth on horseback to slay the demon Maṇimalla, known as Mallāri, is also called Mārtāṇḍa Bhairava, and that his worship of the Devī is told in the Mallāri Māhātmya.",
+    "hi": "भास्करराय मार्ताण्ड भैरव को श्रीपुर में बाईसवें और तेईसवें प्राकार के बीच की भूमि में स्थित बताते हैं और दुर्वासा द्वारा किया गया उनका वर्णन उद्धृत करते हैं। वे यह भी कहते हैं कि महाराष्ट्र में मणिमल्ल दैत्य का वध करने के लिए घोड़े पर सवार होकर पृथ्वी पर आए शिव, जो ‘मल्लारि’ कहलाते हैं, ‘मार्ताण्ड भैरव’ भी कहे जाते हैं, और उनके द्वारा की गई देवी की आराधना मल्लारि-माहात्म्य में प्रसिद्ध है।"
+  },
+  "commentary": {
+    "sanskrit": "श्रीपुरे द्वाविंशत्रयोविंशयोः प्राकारयोर्मध्यभूम्यामस्ति मार्ताण्डभैरवो देवो देव्युपासकः ।",
+    "translation": {
+      "en": "In Śrīpura, in the ground between the twenty-second and twenty-third ramparts, there is the god Mārtāṇḍa Bhairava, a worshipper of the Devī.",
+      "hi": "श्रीपुर में बाईसवें और तेईसवें प्राकार के बीच की भूमि में मार्ताण्ड भैरव देवता हैं, जो देवी के उपासक हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 785 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya also reads the name as worshipped by the Sun (quoting the Padma Purāṇa) and by Bhairava (Kālikā Purāṇa), or by ‘the multitude of the fearful’ (भैरव as a collective). Mallāri is commonly identified with Khaṇḍobā; that identification is not in the commentary and is not used." }
+}

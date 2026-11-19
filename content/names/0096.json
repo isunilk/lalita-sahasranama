@@ -1,0 +1,43 @@
+{
+  "number": 96,
+  "verse": 37,
+  "slug": "akula",
+  "devanagari": "अकुला",
+  "iastSplit": "Akulā",
+  "archana": "ॐ अकुलायै नमः",
+  "syllables": ["a", "ku", "lā"],
+  "words": [
+    { "sa": "अ", "meaning": { "en": "not, without", "hi": "न, रहित" } },
+    { "sa": "कुल", "meaning": { "en": "kula; family, body, lineage", "hi": "कुल; वंश, देह आदि" } }
+  ],
+  "meaning": {
+    "en": "Beyond the Kula, without family, body or lineage",
+    "hi": "कुल से परे, जिनका न वंश है, न देह"
+  },
+  "explanation": {
+    "en": "Akulā means ‘without kula’. Bhāskararāya reads it two ways: she has no kula, no body, family or lineage of her own; and she is the Akula, the thousand-petalled lotus above the suṣumṇā, or she abides in it.",
+    "hi": "‘अकुला’ का अर्थ है कुल-रहित। भास्करराय इसके दो अर्थ करते हैं: उनका अपना कोई कुल, अर्थात् देह, वंश आदि, नहीं है; और वे स्वयं अकुल हैं, सुषुम्णा के ऊपर स्थित सहस्रदल कमल, अथवा उसमें निवास करती हैं।"
+  },
+  "inner": {
+    "en": "In the Tantric picture of the body, kula is the region of the six cakras along the suṣumṇā, and akula is what lies above it. Bhāskararāya cites the Svacchanda Saṃgraha, which speaks of a pair of thousand-petalled lotuses, below and above the suṣumṇā, made of Kula and Akula. After the names that place her within kula, this one says she is also beyond it.",
+    "hi": "तन्त्र के देह-चित्र में सुषुम्णा के साथ स्थित छह चक्रों का क्षेत्र कुल है, और उसके ऊपर जो है वह अकुल। भास्करराय स्वच्छन्द-संग्रह का प्रमाण देते हैं, जिसमें सुषुम्णा के नीचे और ऊपर सहस्र दलों वाले दो कमलों को कुल और अकुल-मय बताया गया है। जिन नामों ने उन्हें कुल के भीतर दिखाया, उनके बाद यह नाम कहता है कि वे उससे परे भी हैं।"
+  },
+  "story": {
+    "en": "Kula and Akula are paired again and again in this part of the hymn: Kula is Śakti, Akula is Śiva, and Kaula is their bond (name 94). Here the name of Śiva’s side is given to her, for the two are not apart.",
+    "hi": "स्तोत्र के इस भाग में कुल और अकुल बार-बार साथ आते हैं: कुल शक्ति है, अकुल शिव, और कौल दोनों का सम्बन्ध (नाम 94)। यहाँ शिव-पक्ष का नाम उन्हीं को दिया गया है, क्योंकि दोनों अलग नहीं हैं।"
+  },
+  "commentary": {
+    "sanskrit": "सुषुम्णोर्ध्वस्थितं सहस्रारपद्ममकुलमित्युच्यते ।",
+    "translation": {
+      "en": "The thousand-petalled lotus situated above the suṣumṇā is called Akula.",
+      "hi": "सुषुम्णा के ऊपर स्थित सहस्रार कमल ‘अकुल’ कहलाता है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 96 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The six cakras as kula follows the Dattātreya Saṃhitā passage he quotes under name 104. The closing clause of the story (‘for the two are not apart’) is a reflection drawing on name 94." }
+}

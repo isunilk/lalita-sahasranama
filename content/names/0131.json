@@ -1,0 +1,42 @@
+{
+  "number": 131,
+  "verse": 43,
+  "slug": "shantimati",
+  "devanagari": "शान्तिमती",
+  "iastSplit": "Śāntimatī",
+  "archana": "ॐ शान्तिमत्यै नमः",
+  "syllables": ["śān", "ti", "ma", "tī"],
+  "words": [
+    { "sa": "शान्तिमती", "meaning": { "en": "possessed of śānti, peace (-matī, ‘having’)", "hi": "शान्ति से युक्त (‘-मती’, अर्थात् वाली)" } }
+  ],
+  "meaning": {
+    "en": "Full of peace, without pride toward her devotees",
+    "hi": "शान्ति से परिपूर्ण, भक्तों के प्रति निरभिमान"
+  },
+  "explanation": {
+    "en": "Śānti is peace, calm, freedom from agitation, and she possesses it fully. Bhāskararāya gives the reason in a few words: she shows no haughtiness toward her devotees.",
+    "hi": "शान्ति का अर्थ है प्रशान्ति, स्थिरता, क्षोभ का अभाव, और वे उससे पूर्ण हैं। भास्करराय कुछ ही शब्दों में इसका कारण बताते हैं: भक्तों के प्रति उनमें कोई उद्धतता नहीं।"
+  },
+  "inner": {
+    "en": "He gives no further hidden meaning. As a reflection: the sovereign of all, who cuts down saṃsāra and removes every fear, meets her devotees without pride; her greatness does not keep them at a distance.",
+    "hi": "वे इससे आगे कोई गूढ़ अर्थ नहीं देते। चिन्तन के रूप में: जो सबकी स्वामिनी हैं, संसार को काटती हैं और हर भय मिटाती हैं, वे अपने भक्तों से बिना किसी गर्व के मिलती हैं; उनकी महिमा भक्तों को दूर नहीं रखती।"
+  },
+  "story": {
+    "en": "The next verse calls her Śāntā, the tranquil one, among the names that describe her as beyond all qualities; that series begins with Nirañjanā (133).",
+    "hi": "अगला श्लोक उन्हें ‘शान्ता’ कहता है, उन नामों के बीच जो उन्हें सब गुणों से परे बताते हैं; वह श्रृंखला निरञ्जना (133) से आरम्भ होती है।"
+  },
+  "commentary": {
+    "sanskrit": "सान्तीरस्या अस्तीति शान्तिमती । भक्तेष्वौद्धत्याभावात् ।",
+    "translation": {
+      "en": "She has śānti, peace, hence Śāntimatī: because she has no haughtiness toward her devotees.",
+      "hi": "इनमें शान्ति है, इसलिए ये शान्तिमती हैं; क्योंकि भक्तों के प्रति इनमें उद्धतता का अभाव है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 131 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The quoted sentence is printed in the edition as सान्तीरस्या, evidently a misprint for शान्तिरस्या; it is quoted exactly as printed and translated as intended. The inner layer is a reflection." }
+}

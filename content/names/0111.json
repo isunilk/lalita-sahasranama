@@ -1,0 +1,44 @@
+{
+  "number": 111,
+  "verse": 40,
+  "slug": "bisa-tantu-taniyasi",
+  "devanagari": "बिसतन्तुतनीयसी",
+  "iastSplit": "Bisa-tantu-tanīyasī",
+  "archana": "ॐ बिसतन्तुतनीयस्यै नमः",
+  "syllables": ["bi", "sa", "tan", "tu", "ta", "nī", "ya", "sī"],
+  "words": [
+    { "sa": "बिस", "meaning": { "en": "lotus stalk", "hi": "बिस, कमलनाल" } },
+    { "sa": "तन्तु", "meaning": { "en": "fibre, thread", "hi": "तन्तु, धागा" } },
+    { "sa": "तनीयसी", "meaning": { "en": "more slender, exceedingly fine", "hi": "अत्यन्त सूक्ष्म, पतली" } }
+  ],
+  "meaning": {
+    "en": "Finer than the fibre of a lotus stalk",
+    "hi": "कमलनाल के तन्तु से भी सूक्ष्म"
+  },
+  "explanation": {
+    "en": "A lotus stalk, when broken, draws out very fine threads. Kuṇḍalinī is as slender as such a fibre, exceedingly fine in form. Bhāskararāya cites the Vedic image of the flame in the heart: ‘slender as the awn of a wild-rice grain, golden, shining, like an atom’.",
+    "hi": "कमलनाल को तोड़ने पर उसमें से बहुत बारीक धागे निकलते हैं। कुण्डलिनी ऐसे ही तन्तु-सी पतली, अत्यन्त सूक्ष्म आकृति वाली हैं। भास्करराय हृदय की ज्योति का वैदिक चित्र उद्धृत करते हैं: ‘नीवार (जंगली धान) के शूक-सी पतली, पीली, चमकती, अणु के समान’।"
+  },
+  "inner": {
+    "en": "Tanīyasī is a comparative, ‘more slender’, and Bhāskararāya glosses it as ‘exceedingly fine’. The Vedic verse he cites, from the Nārāyaṇa Sūkta, describes the flame in the heart; here it describes the subtle form that the hymn has just called bright as lightning. So fine a form is not seen with the eyes, and the names that follow say she is reached through bhāvanā and devotion.",
+    "hi": "‘तनीयसी’ तुलनात्मक रूप है, ‘अधिक पतली’, और भास्करराय इसका अर्थ ‘अतिशय सूक्ष्म’ करते हैं। वे जो वैदिक मन्त्र उद्धृत करते हैं, वह नारायण सूक्त का है और हृदय की ज्योति का वर्णन करता है; यहाँ वह उस सूक्ष्म रूप का वर्णन करता है जिसे स्तोत्र ने अभी बिजली-सा उज्ज्वल कहा। ऐसा सूक्ष्म रूप आँखों से नहीं दिखता, और आगे के नाम कहते हैं कि वे भावना और भक्ति से प्राप्त होती हैं।"
+  },
+  "story": {
+    "en": "This name closes Bhāskararāya’s long comment on Kuṇḍalinī, in which he also reads verses of the Aruṇopaniṣad and another Vedic mantra as describing her rising and the rain of nectar. The Vāmakeśvara Tantra he quotes uses the same image: Kuṇḍalinī dwells in the Mūlādhāra ‘like a lotus fibre, auspicious’.",
+    "hi": "इस नाम पर भास्करराय की कुण्डलिनी-विषयक लम्बी व्याख्या पूरी होती है, जिसमें वे अरुणोपनिषद् के मन्त्रों और एक अन्य वैदिक मन्त्र को भी उनके उत्थान और अमृत-वर्षा का वर्णन मानते हैं। जिस वामकेश्वर तन्त्र को वे उद्धृत करते हैं, उसमें भी यही उपमा है: ‘कमल-तन्तु के समान, शुभ’ कुण्डलिनी मूलाधार में निवास करती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "बिसतन्तुः कमलनालं तदेव तन्तुस्तद्वत्तनीयसी अतिशयेन कृशाकृतिः ।",
+    "translation": {
+      "en": "Bisatantu: the lotus stalk, and that itself as a thread; tanīyasī, slender as that, exceedingly fine in form.",
+      "hi": "बिसतन्तु: कमलनाल, और वही तन्तु; उसके समान तनीयसी, अर्थात् अत्यन्त कृश आकृति वाली।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 111 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Kuṇḍalinī name: meaning only. नीवारशूकवत्तन्वी… is identified as the Nārāyaṇa Sūkta editorially (he cites it as śruti). The last sentence of the inner layer, linking to names 113 and 119, is a reflection." }
+}

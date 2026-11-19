@@ -1,0 +1,44 @@
+{
+  "number": 104,
+  "verse": 39,
+  "slug": "rudra-granthi-vibhedini",
+  "devanagari": "रुद्रग्रन्थिविभेदिनी",
+  "iastSplit": "Rudra-granthi-vibhedinī",
+  "archana": "ॐ रुद्रग्रन्थिविभेदिन्यै नमः",
+  "syllables": ["rud", "rag", "ran", "thi", "vi", "bhe", "di", "nī"],
+  "words": [
+    { "sa": "रुद्र", "meaning": { "en": "Rudra, the dissolver", "hi": "रुद्र, संहारकर्ता" } },
+    { "sa": "ग्रन्थि", "meaning": { "en": "knot", "hi": "गाँठ, ग्रन्थि" } },
+    { "sa": "विभेदिनी", "meaning": { "en": "she who pierces, breaks through", "hi": "भेदन करने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who pierces the knot of Rudra",
+    "hi": "जो रुद्रग्रन्थि का भेदन करती हैं"
+  },
+  "explanation": {
+    "en": "The third and last knot bears the name of Rudra. Bhāskararāya says this pair of knots belongs to the Anāhata cakra in the heart, and she breaks through it. With it all three knots are undone.",
+    "hi": "तीसरी और अन्तिम ग्रन्थि रुद्र के नाम से जानी जाती है। भास्करराय कहते हैं कि यह ग्रन्थि-जोड़ी हृदय में स्थित अनाहत चक्र की है, और वे उसका भेदन करती हैं। इसके साथ तीनों ग्रन्थियाँ खुल जाती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya notes that the order of the names is not the order of events: she breaks Rudra’s knot in the heart before she rests in the Ājñā, for the order of meaning outweighs the order of recitation. He also reads the knots in her mantra: the four sections of the Śrīvidyā are divided by three junctions, named Rudra, Viṣṇu and Brahmā, and she passes through them all. Finally he says that in truth these six names (99–104) carry the Kaula sense of the Dattātreya Saṃhitā, where the six cakras are kula and each knot holds a pair of them: earth and water for Brahmā, fire and sun for Viṣṇu, air and space for Rudra.",
+    "hi": "भास्करराय बताते हैं कि नामों का क्रम घटनाओं का क्रम नहीं है: आज्ञा में स्थित होने से पहले वे हृदय की रुद्रग्रन्थि का भेदन करती हैं, क्योंकि पाठ-क्रम से अर्थ-क्रम बलवान होता है। वे ग्रन्थियों को उनके मन्त्र में भी पढ़ते हैं: श्रीविद्या के चार खण्डों के बीच तीन ग्रन्थियाँ हैं, जो क्रम से रुद्र, विष्णु और ब्रह्मा कहलाती हैं, और वे तीनों को भेदकर भीतर प्रवेश करती हैं। अन्त में वे कहते हैं कि वस्तुतः ये छह नाम (99–104) दत्तात्रेय संहिता के कौलिक अर्थ के हैं, जहाँ छह चक्र कुल हैं और हर ग्रन्थि में दो-दो चक्र हैं: पृथ्वी और जल ब्रह्मा के, अग्नि और सूर्य विष्णु के, वायु और आकाश रुद्र के।"
+  },
+  "story": {
+    "en": "Brahmā, Viṣṇu and Rudra are the gods of creation, preservation and dissolution, and the three knots carry their names. The second half of the verse brings Kuṇḍalinī to the thousand-petalled lotus.",
+    "hi": "ब्रह्मा, विष्णु और रुद्र सृष्टि, पालन और संहार के देवता हैं, और तीनों ग्रन्थियाँ उन्हीं के नाम धारण करती हैं। श्लोक का दूसरा आधा भाग कुण्डलिनी को सहस्रदल कमल तक ले जाता है।"
+  },
+  "commentary": {
+    "sanskrit": "रुद्रग्रन्थिद्वयं हृदयगतानाहतचक्रीयं विभिनत्तीति तथा ।",
+    "translation": {
+      "en": "She pierces the pair of Rudra-knots belonging to the Anāhata cakra in the heart; hence the name.",
+      "hi": "हृदय में स्थित अनाहत चक्र की रुद्रग्रन्थि-जोड़ी का वे भेदन करती हैं, इसलिए यह नाम है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 104 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Kuṇḍalinī name: meaning only. His mantra reading of the three knots is summarised without naming any bīja. His remark that the order of names 103 and 104 is reversed in the actual sequence (अनुष्ठाने एतद्वैपरीत्यमुन्नेयम्) is reported as a point about meaning, citing the Mīmāṃsā rule he gives." }
+}

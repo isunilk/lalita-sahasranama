@@ -1,0 +1,43 @@
+{
+  "number": 228,
+  "verse": 56,
+  "slug": "maha-yantra",
+  "devanagari": "महायन्त्रा",
+  "iastSplit": "Mahā-yantrā",
+  "archana": "ॐ महायन्त्रायै नमः",
+  "syllables": ["ma", "hā", "yan", "trā"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "यन्त्र", "meaning": { "en": "yantra, a sacred diagram for worship", "hi": "यन्त्र, पूजा की पवित्र आकृति" } }
+  ],
+  "meaning": {
+    "en": "Whose yantras, the sacred diagrams of her worship, are great",
+    "hi": "जिनके यन्त्र, अर्थात् पूजा की पवित्र आकृतियाँ, महान हैं"
+  },
+  "explanation": {
+    "en": "A yantra is a sacred diagram, drawn, engraved or built in three dimensions, in which the deity is worshipped. Bhāskararāya lists several used in her worship, among them the pūjā-cakra, the lotus-cakra, the vessel of nectar, the meru and the liṅga.",
+    "hi": "यन्त्र एक पवित्र आकृति है, जो खींची, उकेरी या त्रिआयामी रूप में बनाई जाती है, और जिसमें देवता की पूजा होती है। भास्करराय उनकी पूजा में प्रयुक्त कई यन्त्र गिनाते हैं, जिनमें पूजा-चक्र, पद्म-चक्र, अमृत-घट, मेरु और लिङ्ग हैं।"
+  },
+  "inner": {
+    "en": "In his second reading the great yantra is the one called Siddhivajra. He quotes the Nityā Tantra: whoever thinks another vidyā equal to Lalitā’s vidyā, or another yantra equal to this yantra, is deluded. A few names on, the hymn calls the king of cakras her very home (name 245).",
+    "hi": "दूसरे अर्थ में महान यन्त्र सिद्धिवज्र नामक यन्त्र है। वे नित्यातन्त्र का वचन देते हैं: जो ललिता की विद्या के समान किसी अन्य विद्या को, या इस यन्त्र के समान किसी अन्य यन्त्र को मानता है, वह मूढ़ है। कुछ ही नामों के बाद स्तोत्र चक्रराज को उनका अपना घर कहता है (नाम 245)।"
+  },
+  "story": {
+    "en": "The three names Mahātantrā, Mahāmantrā and Mahāyantrā name the three supports of Tantric worship: the teaching, the sacred sound and the sacred form. Bhāskararāya reads all three together, first as many great texts, mantras and diagrams, then as one supreme example of each.",
+    "hi": "महातन्त्रा, महामन्त्रा और महायन्त्रा ये तीन नाम तान्त्रिक उपासना के तीन आधारों को कहते हैं: उपदेश, पवित्र ध्वनि और पवित्र आकृति। भास्करराय तीनों को साथ पढ़ते हैं: पहले अनेक महान ग्रन्थों, मन्त्रों और यन्त्रों के रूप में, फिर प्रत्येक के एक सर्वोत्तम उदाहरण के रूप में।"
+  },
+  "commentary": {
+    "sanskrit": "यन्त्राणि पूजाचक्रपद्मचक्रामृतघटमेरुलिङ्गादीनि यस्याः सा तथा ।",
+    "translation": {
+      "en": "…and she whose yantras, the pūjā-cakra, the padma-cakra, the amṛta-ghaṭa, the meru, the liṅga and the rest, [are great]: so she is named.",
+      "hi": "…और जिनके यन्त्र, अर्थात् पूजा-चक्र, पद्म-चक्र, अमृत-घट, मेरु, लिङ्ग आदि, [महान हैं]: इसलिए वे इस नाम वाली हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 228 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The excerpt closes the sentence that begins with the tantras (226) and mantras (227); the division of पूजाचक्रपद्मचक्रामृतघटमेरुलिङ्ग into five yantras is the drafter’s and should be checked. Whether Siddhivajra is a name of the Śrīcakra is not stated here and is left open." }
+}

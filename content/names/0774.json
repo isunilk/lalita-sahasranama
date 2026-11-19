@@ -1,0 +1,42 @@
+{
+  "number": 774,
+  "verse": 148,
+  "slug": "mahati",
+  "devanagari": "महती",
+  "iastSplit": "Mahatī",
+  "archana": "ॐ महत्यै नमः",
+  "syllables": ["ma", "ha", "tī"],
+  "words": [
+    { "sa": "महती", "meaning": { "en": "great; also the name of Nārada’s vīṇā", "hi": "महान; नारद की वीणा का नाम भी" } }
+  ],
+  "meaning": {
+    "en": "The great one, beyond all measure",
+    "hi": "महती, जिनकी महिमा की कोई माप नहीं"
+  },
+  "explanation": {
+    "en": "Mahatī means great. Bhāskararāya says she is so called because her measure is the greatest of all; nothing is larger than she. He also gives Yāska’s etymology of mahat: what surpasses others in measure, or what is worthy of worship.",
+    "hi": "‘महती’ का अर्थ है महान। भास्करराय कहते हैं कि उनका परिमाण सबसे महान है, इसलिए वे महती हैं; उनसे बड़ा कुछ नहीं। वे यास्क के निरुक्त से ‘महत्’ की व्युत्पत्ति भी देते हैं: जो माप में दूसरों को पीछे छोड़ दे, या जो पूजनीय हो।"
+  },
+  "inner": {
+    "en": "Both senses meet in her: she is greatest in extent, holding all things, and greatest in worth, worthy of all worship. Bhāskararāya also notes that Mahatī is the name of the sage Nārada’s vīṇā, and that she may be that vīṇā. The Mother is the music the divine singer plays.",
+    "hi": "दोनों अर्थ उनमें मिलते हैं: विस्तार में वे सबसे महान हैं, सबको धारण करती हैं; और महत्त्व में भी, सबकी पूजनीय। भास्करराय यह भी बताते हैं कि नारद मुनि की वीणा का नाम ‘महती’ है, और वे वही वीणा भी हो सकती हैं। माँ वह संगीत हैं जिसे दिव्य गायक बजाता है।"
+  },
+  "story": {
+    "en": "Nārada, the wandering sage of the Purāṇas, travels the worlds singing the praise of the Lord on his vīṇā, which is called Mahatī. Bhāskararāya’s reading makes the Devī herself the instrument of that praise.",
+    "hi": "पुराणों के घुमन्तू मुनि नारद अपनी ‘महती’ नामक वीणा पर भगवान का गुणगान करते हुए लोकों में विचरते हैं। भास्करराय का यह अर्थ स्वयं देवी को उस स्तुति का वाद्य बना देता है।"
+  },
+  "commentary": {
+    "sanskrit": "परममहत्परिमाणत्वात् । महती महान्कस्मान्मानेनान्याञ्जहतीति शाकपूणिर्महनीयो भवतीति वेति तु यास्कनिरुक्तिः । नारदमुनेर्वीणाविशेषोऽपि महती तत्स्वरूपा वा ।",
+    "translation": {
+      "en": "Because her measure is the greatest of all. Yāska’s etymology runs: ‘Why mahān? Because it leaves others behind in measure, says Śākapūṇi; or because it is worthy of worship.’ Mahatī is also the name of the sage Nārada’s vīṇā; or she is that.",
+      "hi": "क्योंकि उनका परिमाण परम महान है। यास्क का निरुक्त कहता है: ‘महान् क्यों? माप में दूसरों को पीछे छोड़ देने से, ऐसा शाकपूणि कहते हैं; अथवा पूजनीय होने से।’ नारद मुनि की वीणा का नाम भी महती है; अथवा वे उसी का स्वरूप हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 774 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. In the Nirukta quotation the edition prints जहतीति (feminine, perhaps adapted to महती); the usual text of the Nirukta reads जहातीति. It is quoted as printed. The last sentence of the inner layer is a reflection." }
+}

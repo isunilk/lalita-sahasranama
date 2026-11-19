@@ -1,0 +1,45 @@
+{
+  "number": 243,
+  "verse": 59,
+  "slug": "charu-chandra-kala-dhara",
+  "devanagari": "चारुचन्द्रकलाधरा",
+  "iastSplit": "Cāru-candra-kalā-dharā",
+  "archana": "ॐ चारुचन्द्रकलाधरायै नमः",
+  "syllables": ["cā", "ru", "can", "dra", "ka", "lā", "dha", "rā"],
+  "words": [
+    { "sa": "चारु", "meaning": { "en": "lovely, graceful", "hi": "सुन्दर, मनोहर" } },
+    { "sa": "चन्द्र", "meaning": { "en": "moon", "hi": "चन्द्रमा" } },
+    { "sa": "कला", "meaning": { "en": "digit, crescent", "hi": "कला" } },
+    { "sa": "धरा", "meaning": { "en": "who bears, upholds", "hi": "धारण करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who wears the lovely digit of the moon",
+    "hi": "मनोहर चन्द्रकला धारण करने वाली"
+  },
+  "explanation": {
+    "en": "She bears a lovely kalā, a crescent digit, of the moon. Bhāskararāya says this is no ordinary crescent that grows and wanes, but the eternal digit that neither waxes nor wanes.",
+    "hi": "वे चन्द्रमा की एक मनोहर कला धारण करती हैं। भास्करराय कहते हैं कि यह घटने-बढ़ने वाली साधारण कला नहीं, बल्कि वह नित्य कला है जो न बढ़ती है न घटती है।"
+  },
+  "inner": {
+    "en": "He calls this digit Sādākhyā and says it is consciousness itself. The moon’s ordinary phases change with time; the kalā she holds is the changeless awareness behind them, and she is the one who bears and supports it.",
+    "hi": "वे इस कला को ‘सादाख्या’ कहते हैं और बताते हैं कि यह स्वयं चैतन्य-रूपा है। चन्द्रमा की साधारण कलाएँ समय के साथ बदलती हैं; जिस कला को वे धारण करती हैं, वह उनके पीछे की अपरिवर्तनशील चेतना है, और वे ही उसे धारण करने वाली और उसका आधार हैं।"
+  },
+  "story": {
+    "en": "He also gives a story from the third book of the Devī Bhāgavata. The Mother appeared in a dream to Śaśikalā, here called Candrakalā, daughter of the king of Kāśī, and told her to choose Prince Sudarśana, her devotee, as husband; so the name also means she who graciously upheld Candrakalā.",
+    "hi": "वे देवी भागवत के तीसरे स्कन्ध की एक कथा भी देते हैं। काशीराज की पुत्री शशिकला, जिसे यहाँ चन्द्रकला कहा गया है, को जगदम्बा ने स्वप्न में दर्शन देकर कहा कि वह उनके भक्त राजकुमार सुदर्शन का ही वरण करे; इसलिए इस नाम का एक अर्थ है: वे, जिन्होंने चन्द्रकला को कृपापूर्वक सहारा दिया।"
+  },
+  "commentary": {
+    "sanskrit": "चार्व्या वृद्धिक्षयरहितायाश्चन्द्रकलायाः सादाख्यायाश्चिद्रूपाया धरा धारयित्री ।",
+    "translation": {
+      "en": "The dharā, the bearer, of the lovely digit of the moon that is free from waxing and waning, called Sādākhyā, which is consciousness itself.",
+      "hi": "उस मनोहर चन्द्रकला की धरा अर्थात् धारण करने वाली, जो वृद्धि और क्षय से रहित है, ‘सादाख्या’ कहलाती है और चैतन्य-रूपा है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 243 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. सादाख्या is kept as a name; whether it refers to the sixteenth, eternal kalā or to the Sādākhya (Sadāśiva) principle should be checked. Bhāskararāya calls Sudarśana a worshipper of the Kāmarāja bīja; the story says “her devotee” and gives no bīja. The second sentence of the inner layer is a reflection." }
+}

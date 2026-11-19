@@ -1,0 +1,44 @@
+{
+  "number": 102,
+  "verse": 38,
+  "slug": "vishnu-granthi-vibhedini",
+  "devanagari": "विष्णुग्रन्थिविभेदिनी",
+  "iastSplit": "Viṣṇu-granthi-vibhedinī",
+  "archana": "ॐ विष्णुग्रन्थिविभेदिन्यै नमः",
+  "syllables": ["viṣ", "ṇug", "ran", "thi", "vi", "bhe", "di", "nī"],
+  "words": [
+    { "sa": "विष्णु", "meaning": { "en": "Viṣṇu, the preserver", "hi": "विष्णु, पालनकर्ता" } },
+    { "sa": "ग्रन्थि", "meaning": { "en": "knot", "hi": "गाँठ, ग्रन्थि" } },
+    { "sa": "विभेदिनी", "meaning": { "en": "she who pierces, breaks through", "hi": "भेदन करने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who pierces the knot of Viṣṇu",
+    "hi": "जो विष्णुग्रन्थि का भेदन करती हैं"
+  },
+  "explanation": {
+    "en": "Having risen in the Maṇipūra, she breaks through the second knot, which lies above. Bhāskararāya says it bears Viṣṇu’s name because Viṣṇu abides in the Maṇipūra cakra, and the knots of Brahmā and Rudra are named in the same way.",
+    "hi": "मणिपूर में उदित होकर वे ऊपर स्थित दूसरी ग्रन्थि का भेदन करती हैं। भास्करराय कहते हैं कि यह विष्णु के नाम से इसलिए जानी जाती है कि विष्णु मणिपूर चक्र में स्थित हैं; ब्रह्मा और रुद्र की ग्रन्थियों के नाम भी इसी प्रकार समझने चाहिए।"
+  },
+  "inner": {
+    "en": "In the Dattātreya Saṃhitā that he cites, the second pair of cakras, made of fire and sun, is called Viṣṇu’s knot, ‘radiant and granting every attainment’. He gives no separate hidden meaning; the order of the knots follows the order of the three powers, creation, preservation and dissolution.",
+    "hi": "दत्तात्रेय संहिता में, जिसका वे प्रमाण देते हैं, अग्नि और सूर्य से बने चक्रों की दूसरी जोड़ी को विष्णुग्रन्थि कहा गया है, ‘तेजोमय और सब सिद्धियाँ देने वाली’। वे कोई अलग गूढ़ अर्थ नहीं देते; ग्रन्थियों का क्रम तीनों शक्तियों के क्रम, सृष्टि, पालन और संहार, के अनुसार है।"
+  },
+  "story": {
+    "en": "The verse passes each knot in two steps: first a name for the cakra where she abides or rises, then a name for the knot she breaks. This name completes the second pair.",
+    "hi": "श्लोक हर ग्रन्थि को दो चरणों में पार करता है: पहले उस चक्र का नाम जहाँ वे रहती या उदित होती हैं, फिर उस ग्रन्थि का नाम जिसका वे भेदन करती हैं। यह नाम दूसरी जोड़ी पूरी करता है।"
+  },
+  "commentary": {
+    "sanskrit": "विष्णोर्मणिपूरचक्रस्थितत्वेन तद्ग्रन्थ्योर्विष्णुग्रन्थिसंज्ञा । एवं ब्रह्मरुद्रग्रन्थिसंज्ञे अपि ज्ञेये ।",
+    "translation": {
+      "en": "Because Viṣṇu abides in the Maṇipūra cakra, its two knots are called Viṣṇu’s knot. In the same way the names Brahmā’s knot and Rudra’s knot are to be understood.",
+      "hi": "विष्णु के मणिपूर चक्र में स्थित होने से उसकी दोनों ग्रन्थियों को विष्णुग्रन्थि कहा जाता है। इसी प्रकार ब्रह्मग्रन्थि और रुद्रग्रन्थि नाम भी समझने चाहिए।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 102 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Kuṇḍalinī name: meaning only. The edition prints विष्णुगन्थिं (for विष्णुग्रन्थिं) in the sentence before the quoted passage; the quoted passage itself is clean. The remark on the order of the three powers is an observation, not his." }
+}

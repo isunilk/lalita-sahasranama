@@ -1,0 +1,42 @@
+{
+  "number": 765,
+  "verse": 147,
+  "slug": "shuddha",
+  "devanagari": "शुद्धा",
+  "iastSplit": "Śuddhā",
+  "archana": "ॐ शुद्धायै नमः",
+  "syllables": ["śud", "dhā"],
+  "words": [
+    { "sa": "शुद्धा", "meaning": { "en": "pure, stainless", "hi": "शुद्ध, निर्मल" } }
+  ],
+  "meaning": {
+    "en": "The pure one, untouched by the stain of ignorance",
+    "hi": "शुद्ध, जिन्हें अविद्या का मल छू भी नहीं सकता"
+  },
+  "explanation": {
+    "en": "Śuddhā means pure. Bhāskararāya says exactly what the purity is: she is free of the impurity that comes from avidyā, ignorance of one’s true nature. Nothing that clouds the minds of beings ever touches her.",
+    "hi": "‘शुद्धा’ का अर्थ है पवित्र, निर्मल। भास्करराय इस शुद्धता को ठीक-ठीक बताते हैं: वे अविद्या, अर्थात् अपने सच्चे स्वरूप के अज्ञान, से उत्पन्न मलिनता से रहित हैं। जो कुछ प्राणियों के मन को ढक लेता है, वह उन्हें कभी नहीं छूता।"
+  },
+  "inner": {
+    "en": "Bhāskararāya means not outer uncleanness but the impurity born of ignorance, through which a being forgets its own nature. She is consciousness that has never been veiled. He says no more; to turn to her is to turn toward that same clarity.",
+    "hi": "भास्करराय का आशय बाहरी अशुद्धि से नहीं, अविद्या से उत्पन्न उस मलिनता से है जिसके कारण प्राणी अपना स्वरूप भूल जाता है। वे वह चेतना हैं जिस पर कभी आवरण नहीं पड़ा। वे इससे अधिक नहीं कहते; उनकी ओर मुड़ना उसी निर्मलता की ओर मुड़ना है।"
+  },
+  "story": {
+    "en": "This short name stands between the giver of heaven and liberation and the one whose form is red as the hibiscus. On the next name Bhāskararāya notes that the words śuddhā japā can also be divided as śuddhā ajapā.",
+    "hi": "यह छोटा नाम स्वर्ग-मोक्ष देने वाली और गुड़हल-से लाल रूप वाली, इन दो नामों के बीच आता है। अगले नाम पर भास्करराय बताते हैं कि ‘शुद्धा जपा’ को ‘शुद्धा अजपा’ के रूप में भी विभाजित किया जा सकता है।"
+  },
+  "commentary": {
+    "sanskrit": "शुद्धा आविद्यकमालिन्यशून्या ।",
+    "translation": {
+      "en": "Śuddhā: free of the impurity that comes from ignorance (avidyā).",
+      "hi": "शुद्धा: अविद्या से उत्पन्न मलिनता से रहित।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 765 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives a one-line gloss; the inner layer expands it, and its last two sentences are a reflection." }
+}

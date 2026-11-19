@@ -1,0 +1,43 @@
+{
+  "number": 123,
+  "verse": 42,
+  "slug": "sharadaradhya",
+  "devanagari": "शारदाराध्या",
+  "iastSplit": "Śāradārādhyā",
+  "archana": "ॐ शारदाराध्यायै नमः",
+  "syllables": ["śā", "ra", "dā", "rādh", "yā"],
+  "words": [
+    { "sa": "शारदा", "meaning": { "en": "Śāradā, Sarasvatī; also the autumn season", "hi": "शारदा, सरस्वती; शरद ऋतु भी" } },
+    { "sa": "आराध्या", "meaning": { "en": "to be worshipped", "hi": "आराधना के योग्य, पूज्या" } }
+  ],
+  "meaning": {
+    "en": "Worshipped by Śāradā, and worshipped in autumn",
+    "hi": "जिनकी आराधना शारदा करती हैं, और जो शरद में पूजी जाती हैं"
+  },
+  "explanation": {
+    "en": "Śāradā is Sarasvatī, goddess of learning, and she with the goddesses of speech worships the Devī. Bhāskararāya also reads śārada as ‘of autumn’: she is worshipped in the autumn season, and, since śarat can mean a year, at the start of the year.",
+    "hi": "शारदा सरस्वती हैं, विद्या की देवी, और वे वाग्देवियों के साथ देवी की आराधना करती हैं। भास्करराय ‘शारद’ का अर्थ ‘शरद का’ भी करते हैं: वे शरद ऋतु में पूजी जाती हैं, और क्योंकि ‘शरत्’ का अर्थ वर्ष भी है, वर्ष के आरम्भ में भी।"
+  },
+  "inner": {
+    "en": "Bhāskararāya multiplies the senses. Śāradas are also the learned, so she is worshipped by the wise; and the Kālī Purāṇa gives the name Śāradā to the Devī herself, because the gods awakened her on the ninth day of autumn, so the name can also mean ‘Śāradā, the one to be worshipped’. He gives no further hidden sense.",
+    "hi": "भास्करराय अर्थों को और बढ़ाते हैं। ‘शारद’ विद्वानों को भी कहते हैं, अतः वे ज्ञानियों द्वारा पूजित हैं; और कालीपुराण स्वयं देवी को ‘शारदा’ नाम देता है, क्योंकि देवताओं ने शरद ऋतु की नवमी को उन्हें जगाया था; इसलिए इस नाम का अर्थ ‘शारदा, जो आराध्या हैं’ भी हो सकता है। इससे आगे वे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "For the autumn worship he cites the Mārkaṇḍeya Purāṇa, ‘the great worship performed in autumn, the yearly one’, and the Rudrayāmala for worship in the spring Navarātri. The Vāgdevīs who worship her here are, in the hymn’s own story, the goddesses who composed this Sahasranāma.",
+    "hi": "शरद की पूजा के लिए वे मार्कण्डेय पुराण का वचन देते हैं, ‘शरत्काल में जो वार्षिक महापूजा की जाती है’, और वसन्त नवरात्र की पूजा के लिए रुद्रयामल का। यहाँ उनकी आराधना करने वाली वाग्देवियाँ ही, स्तोत्र की अपनी कथा में, इस सहस्रनाम की रचयिता हैं।"
+  },
+  "commentary": {
+    "sanskrit": "शारदया सरस्वत्या वाग्देवताभिश्च आराध्या, शारदे शरदृतौ वर्षादौ वा आराध्या ।",
+    "translation": {
+      "en": "To be worshipped by Śāradā, that is Sarasvatī, and by the goddesses of speech; or to be worshipped in the śārada, the autumn season, or at the start of the year.",
+      "hi": "शारदा, अर्थात् सरस्वती, और वाग्देवताओं द्वारा आराध्या; अथवा शारद, अर्थात् शरद ऋतु में, या वर्ष के आरम्भ में आराध्या।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 123 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Mārkaṇḍeya Purāṇa line शरत्काले महापूजा क्रियते या च वार्षिकी is from the Devī Māhātmya; he names only the Purāṇa. His wordplay readings (अ = Vāsudeva, आ = Pitāmaha; śāradas as those of the śālīna āśrama) are left out." }
+}

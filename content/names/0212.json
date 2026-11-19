@@ -1,0 +1,43 @@
+{
+  "number": 212,
+  "verse": 54,
+  "slug": "maha-rupa",
+  "devanagari": "महारूपा",
+  "iastSplit": "Mahā-rūpā",
+  "archana": "ॐ महारूपायै नमः",
+  "syllables": ["ma", "hā", "rū", "pā"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "रूप", "meaning": { "en": "form", "hi": "रूप" } }
+  ],
+  "meaning": {
+    "en": "Whose form is great, above every other form",
+    "hi": "जिनका रूप महान है, सब रूपों से श्रेष्ठ"
+  },
+  "explanation": {
+    "en": "Her form, rūpa, is mahā, great. It is not great in size alone: it stands above every other form in which the Absolute is known. The names that follow, most of them beginning with mahā, praise this greatness from many sides.",
+    "hi": "उनका रूप महान है। यह महानता केवल आकार की नहीं; वह उन सभी रूपों से ऊँचा है जिनमें परम सत्य को जाना जाता है। आगे के नाम, जिनमें से अधिकांश ‘महा’ से आरम्भ होते हैं, इसी महिमा का अनेक ओर से गान करते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya reads the name as a form higher than four forms, and quotes the Viṣṇu Purāṇa. There the supreme Brahman has four forms, spirit (puruṣa), unmanifest nature (pradhāna), the manifest world and Time, which bring about creation, preservation and dissolution; beyond them the sages see its pure highest state. Her form is that state beyond the four.",
+    "hi": "भास्करराय इस नाम को चार रूपों से श्रेष्ठ रूप के अर्थ में पढ़ते हैं और विष्णु पुराण का वचन देते हैं। वहाँ परब्रह्म के चार रूप बताए गए हैं: पुरुष, प्रधान (अव्यक्त प्रकृति), व्यक्त जगत और काल, जो सृष्टि, स्थिति और संहार के कारण हैं; इन चारों से परे ज्ञानी उसका शुद्ध परम पद देखते हैं। देवी का रूप वही परम पद है, जो इन चारों से परे है।"
+  },
+  "story": {
+    "en": "The run of names beginning with mahā started in the previous verse with Mahādevī and Mahālakṣmī and continues, with one short break, to name 237. Read together, they praise her greatness in form, worship, power, knowledge and ritual.",
+    "hi": "‘महा’ से आरम्भ होने वाले नामों की शृंखला पिछले श्लोक में महादेवी और महालक्ष्मी से शुरू हुई थी, और एक छोटे अन्तराल के साथ नाम 237 तक चलती है। साथ पढ़ने पर ये नाम रूप, पूजा, शक्ति, ज्ञान और अनुष्ठान में उनकी महिमा का गान करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "महद् रूपचतुष्टयमपेक्ष्योत्कृष्टं रूपं यस्याः ।",
+    "translation": {
+      "en": "She whose form is great, that is, higher when compared with the four forms.",
+      "hi": "जिनका रूप महान है, अर्थात् चार रूपों की तुलना में श्रेष्ठ।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 212 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The four forms are named from the Viṣṇu Purāṇa verses Bhāskararāya quotes (प्रधान, पुरुष, व्यक्त, काल)." }
+}

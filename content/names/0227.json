@@ -1,0 +1,43 @@
+{
+  "number": 227,
+  "verse": 56,
+  "slug": "maha-mantra",
+  "devanagari": "महामन्त्रा",
+  "iastSplit": "Mahā-mantrā",
+  "archana": "ॐ महामन्त्रायै नमः",
+  "syllables": ["ma", "hā", "man", "trā"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "मन्त्र", "meaning": { "en": "mantra, a sacred formula", "hi": "मन्त्र" } }
+  ],
+  "meaning": {
+    "en": "Whose mantras are great, Śrīvidyā above all",
+    "hi": "जिनके मन्त्र महान हैं, जिनमें श्रीविद्या सर्वोपरि है"
+  },
+  "explanation": {
+    "en": "A mantra is a sacred formula of sound, received from a teacher and repeated in worship. Her mantras are great because they bear abundant fruit; Bhāskararāya names those of Bālā and Bagalā among them.",
+    "hi": "मन्त्र ध्वनि का पवित्र सूत्र है, जो गुरु से मिलता है और उपासना में जपा जाता है। उनके मन्त्र महान हैं क्योंकि वे प्रचुर फल देते हैं; भास्करराय इनमें बाला और बगला के मन्त्रों का नाम लेते हैं।"
+  },
+  "inner": {
+    "en": "In his second reading the great mantra is one, Śrīvidyā, her own mantra, as the great tantra is the Svatantra and the great yantra the Siddhivajra. For its praise he points to the Kulārṇava and the Śaktirahasya, with more than a thousand such passages, among them the one that begins “Śrīvidyā among mantras”.",
+    "hi": "दूसरे अर्थ में महान मन्त्र एक ही है, उनका अपना मन्त्र श्रीविद्या, जैसे महान तन्त्र स्वतन्त्र है और महान यन्त्र सिद्धिवज्र। इसकी स्तुति के लिए वे कुलार्णव और शक्तिरहस्य के हज़ार से अधिक वर्णनों की ओर संकेत करते हैं, जिनमें वह वचन भी है जो ‘मन्त्रों में श्रीविद्या’ से आरम्भ होता है।"
+  },
+  "story": {
+    "en": "Bālā, the goddess in the form of a young girl, appears in the Lalitopākhyāna as Lalitā’s daughter, who slew the sons of Bhaṇḍa (name 74). Bagalā is one of the ten Mahāvidyās, the great goddesses of Tantric worship.",
+    "hi": "बाला, कन्या रूप वाली देवी, ललितोपाख्यान में ललिता की पुत्री के रूप में आती हैं, जिन्होंने भण्डासुर के पुत्रों का वध किया (नाम 74)। बगला दस महाविद्याओं में से एक हैं, जो तान्त्रिक उपासना की महान देवियाँ हैं।"
+  },
+  "commentary": {
+    "sanskrit": "स्वतन्त्राख्यं तन्त्रं श्रीविद्याख्यो मन्त्रः सिद्धिवज्राख्यं च यन्त्रं महत्सर्वोत्तमं यस्याः ।",
+    "translation": {
+      "en": "She whose tantra, called Svatantra, whose mantra, called Śrīvidyā, and whose yantra, called Siddhivajra, are great, the highest of all.",
+      "hi": "जिनका स्वतन्त्र नामक तन्त्र, श्रीविद्या नामक मन्त्र और सिद्धिवज्र नामक यन्त्र महान अर्थात् सर्वोत्तम हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 227 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The excerpt is Bhāskararāya’s second reading, which covers names 226–228 together. Bālā’s role in the story is from the Lalitopākhyāna as reflected in name 74, and Bagalā as a Mahāvidyā is general tradition; neither is from this comment. No mantra is given." }
+}

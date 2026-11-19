@@ -1,0 +1,43 @@
+{
+  "number": 767,
+  "verse": 147,
+  "slug": "ojovati",
+  "devanagari": "ओजोवती",
+  "iastSplit": "Ojovatī",
+  "archana": "ॐ ओजोवत्यै नमः",
+  "syllables": ["o", "jo", "va", "tī"],
+  "words": [
+    { "sa": "ओजस्", "meaning": { "en": "vital power, strength, radiance", "hi": "ओज, प्राणशक्ति, तेज" } },
+    { "sa": "वती", "meaning": { "en": "possessing, full of", "hi": "युक्त, से भरी" } }
+  ],
+  "meaning": {
+    "en": "Full of ojas: vital power, strength and radiance",
+    "hi": "ओज से परिपूर्ण: प्राणशक्ति, बल और तेज वाली"
+  },
+  "explanation": {
+    "en": "Ojas is vital power. Bhāskararāya gathers its senses: the essence of the body’s tissues, the strength of the senses, brightness and might. Vatī means ‘possessing’; all of these are in her, so she is Ojovatī.",
+    "hi": "‘ओज’ का अर्थ है प्राणशक्ति। भास्करराय इसके अर्थ एकत्र करते हैं: शरीर की धातुओं का सार, इन्द्रियों का सामर्थ्य, तेज और बल। ‘वती’ का अर्थ है युक्त; ये सब उनमें हैं, इसलिए वे ‘ओजोवती’ हैं।"
+  },
+  "inner": {
+    "en": "A commentary on the Veda, which he cites, calls ojas the eighth dhātu, the refined essence beyond the seven tissues of the body. In her it is the power that keeps every being alive and bright. Bhāskararāya gives no hidden meaning beyond these senses of the word.",
+    "hi": "वे जिस वेद-भाष्य का उल्लेख करते हैं, उसमें ओज को आठवीं धातु कहा गया है, अर्थात् शरीर की सात धातुओं से परे उनका परिष्कृत सार। देवी में यही वह शक्ति है जो हर प्राणी को जीवित और तेजस्वी रखती है। शब्द के इन अर्थों से आगे भास्करराय कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "This name opens a line of four short names: she is full of ojas, she bears radiance, her form is sacrifice, and vows are dear to her.",
+    "hi": "इस नाम से चार छोटे नामों की एक पंक्ति आरम्भ होती है: वे ओज से पूर्ण हैं, द्युति को धारण करती हैं, यज्ञ उनका रूप है, और व्रत उन्हें प्रिय हैं।"
+  },
+  "commentary": {
+    "sanskrit": "ओजोऽष्टमधातुरिति वेदभाष्ये । इन्द्रियसामर्थ्यमित्यन्ये । ओजस्तेजसि धातूनामवष्टम्भप्रकाशयोः । ओजो बले च दीप्तौ चेति तु विश्वः । तान्यस्यां सन्तीत्योजोवती ।",
+    "translation": {
+      "en": "‘Ojas is the eighth dhātu’, says a commentary on the Veda; others say it is the power of the senses. The Viśva lexicon says ojas means splendour, the firmness and the lustre of the bodily elements, strength and brightness. These are in her, hence Ojovatī.",
+      "hi": "‘ओज आठवीं धातु है’, ऐसा वेद-भाष्य में कहा है; अन्य इसे इन्द्रियों का सामर्थ्य कहते हैं। विश्वकोश के अनुसार ओज का अर्थ है तेज, धातुओं की दृढ़ता और प्रकाश, बल और दीप्ति। ये सब उनमें हैं, इसलिए वे ओजोवती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 767 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya does not name the Veda commentary (वेदभाष्ये). ‘The refined essence beyond the seven tissues’ glosses his ‘eighth dhātu’ with the usual Āyurvedic sense. The second sentence of the inner layer is a reflection." }
+}

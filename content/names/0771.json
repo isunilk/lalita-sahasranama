@@ -1,0 +1,43 @@
+{
+  "number": 771,
+  "verse": 148,
+  "slug": "duraradhya",
+  "devanagari": "दुराराध्या",
+  "iastSplit": "Durārādhyā",
+  "archana": "ॐ दुराराध्यायै नमः",
+  "syllables": ["du", "rā", "rādh", "yā"],
+  "words": [
+    { "sa": "दुर्", "meaning": { "en": "hard, with difficulty", "hi": "कठिन, कठिनाई से" } },
+    { "sa": "आराध्या", "meaning": { "en": "she who is to be worshipped", "hi": "जिनकी आराधना की जाए" } }
+  ],
+  "meaning": {
+    "en": "Hard to worship for those whose senses are restless",
+    "hi": "चंचल इन्द्रियों वालों के लिए जिनकी आराधना कठिन है"
+  },
+  "explanation": {
+    "en": "Dur means hard and ārādhyā is she who is to be worshipped. For those whose senses are restless she is hard to worship; Bhāskararāya says that for them ‘hard’ in the end means ‘impossible’. Her worship asks for a steady, gathered mind.",
+    "hi": "‘दुर्’ का अर्थ है कठिन और ‘आराध्या’ का अर्थ है जिनकी आराधना की जाए। जिनकी इन्द्रियाँ चंचल हैं, उनके लिए उनकी आराधना कठिन है; भास्करराय कहते हैं कि उनके लिए ‘कठिन’ का अर्थ अन्ततः ‘असम्भव’ ही है। उनकी उपासना स्थिर, एकाग्र मन माँगती है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya supports this with the phrase ‘not easily reached by those whose senses waver’, which is found in the Saundaryalaharī. The difficulty is not in her but in the scattered mind; as the senses are drawn inward, she who was hard to reach comes near. He gives no further hidden meaning.",
+    "hi": "भास्करराय इसके समर्थन में यह वाक्यांश देते हैं: ‘चंचल इन्द्रियों वालों के लिए सुलभ नहीं’, जो सौन्दर्यलहरी में मिलता है। कठिनाई उनमें नहीं, बिखरे हुए मन में है; जैसे-जैसे इन्द्रियाँ भीतर की ओर मुड़ती हैं, कठिनाई से मिलने वाली देवी निकट आ जाती हैं। इससे आगे वे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "This name and the next form a pair: she is hard to worship and hard to overpower. Both say the same thing from two sides: a restless mind cannot reach her, and force cannot seize her.",
+    "hi": "यह नाम और अगला नाम एक जोड़ी हैं: उनकी आराधना कठिन है और उन्हें वश में करना भी कठिन है। दोनों एक ही बात को दो ओर से कहते हैं: न चंचल मन उन तक पहुँच सकता है, न बल उन्हें पकड़ सकता है।"
+  },
+  "commentary": {
+    "sanskrit": "चपलेन्द्रियाणां दुःखेनाराधितुं अशक्या । अशक्येत्येव पर्यवसानम् ।",
+    "translation": {
+      "en": "For those whose senses are restless she cannot be worshipped, even with effort; the sense comes finally to ‘impossible’.",
+      "hi": "चंचल इन्द्रियों वालों के लिए वे कष्ट उठाकर भी आराध्य नहीं हैं; अन्ततः अर्थ ‘असम्भव’ ही ठहरता है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 771 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya introduces तरलकरणानामसुलभा only with तदुक्तम्; its identification with Saundaryalaharī 95 is added here. The second sentence of the inner layer is a reflection." }
+}

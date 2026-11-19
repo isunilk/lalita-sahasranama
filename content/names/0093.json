@@ -1,0 +1,44 @@
+{
+  "number": 93,
+  "verse": 37,
+  "slug": "kulanta-stha",
+  "devanagari": "कुलान्तःस्था",
+  "iastSplit": "Kulāntaḥ-sthā",
+  "archana": "ॐ कुलान्तःस्थायै नमः",
+  "syllables": ["ku", "lān", "taḥ", "sthā"],
+  "words": [
+    { "sa": "कुल", "meaning": { "en": "kula: the triad of knower, known and knowing; also home, family, body", "hi": "कुल: ज्ञाता, ज्ञेय और ज्ञान की त्रिपुटी; घर, वंश, देह भी" } },
+    { "sa": "अन्तर्", "meaning": { "en": "within", "hi": "भीतर" } },
+    { "sa": "स्था", "meaning": { "en": "abiding, dwelling", "hi": "स्थित, निवास करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who dwells within the Kula, in every home and body",
+    "hi": "जो कुल के भीतर, हर घर और हर देह में निवास करती हैं"
+  },
+  "explanation": {
+    "en": "Bhāskararāya gives several senses of kula and finds her within each. She stands within the Kula scriptures as the one to be known, and she is worshipped in every house, every land, every body and every family. He cites the Bhaviṣyottara Purāṇa: the Devī is to be worshipped in place after place, town after town, house after house, village after village and forest after forest.",
+    "hi": "भास्करराय ‘कुल’ के कई अर्थ देते हैं और हर अर्थ में उन्हें उसके भीतर पाते हैं। वे कुल-शास्त्र के भीतर ज्ञेय के रूप में स्थित हैं, और हर घर, हर देश, हर देह और हर वंश में पूजी जाती हैं। वे भविष्योत्तर पुराण का वचन देते हैं: स्थान-स्थान पर, पुर-पुर में, घर-घर में, गाँव-गाँव और वन-वन में देवी की पूजा होनी चाहिए।"
+  },
+  "inner": {
+    "en": "Taking kula as the triad of knower, knowing and known, he says she stands within it, between the knower and the known, as knowing itself. In every act of knowing, then, she is present as the knowing. He adds that the red thousand-petalled lotus below, with the Kula goddess at its centre and the Kula śaktis in its petals, is also called kula, a subject treated at length in the Svacchanda Tantra.",
+    "hi": "‘कुल’ को ज्ञाता, ज्ञान और ज्ञेय की त्रिपुटी मानकर वे कहते हैं कि वे उसके भीतर, ज्ञाता और ज्ञेय के बीच, स्वयं ज्ञान (मिति) के रूप में स्थित हैं। अर्थात् जानने की हर क्रिया में वे जानने के रूप में उपस्थित हैं। वे यह भी जोड़ते हैं कि नीचे स्थित लाल सहस्रदल कमल, जिसकी कर्णिका में कुलदेवी और दलों में कुलशक्तियाँ हैं, वह भी कुल कहलाता है; स्वच्छन्द तन्त्र में इसका विस्तार है।"
+  },
+  "story": {
+    "en": "For these many senses Bhāskararāya cites the lexicon Viśva, which gives kula as country, house, a group of one kind, lineage and body.",
+    "hi": "इन अनेक अर्थों के लिए भास्करराय ‘विश्व’ कोश का प्रमाण देते हैं, जिसमें ‘कुल’ के अर्थ जनपद, घर, सजातीय समूह, गोत्र और देह बताए गए हैं।"
+  },
+  "commentary": {
+    "sanskrit": "कुलस्यान्तः मातृमेययोर्मध्ये मितिरूपेण स्थिता ।",
+    "translation": {
+      "en": "Within the kula, between the knower and the known, she abides as knowing.",
+      "hi": "कुल के भीतर, ज्ञाता और ज्ञेय के बीच, वे ज्ञान (मिति) के रूप में स्थित हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 93 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s text spells the name कुलान्तस्था (without visarga); the master text reads कुलान्तःस्था, kept here. Syllables treat the visarga as closing its syllable (taḥ, sthā)." }
+}

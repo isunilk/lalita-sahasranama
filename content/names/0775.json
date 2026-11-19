@@ -1,0 +1,43 @@
+{
+  "number": 775,
+  "verse": 148,
+  "slug": "meru-nilaya",
+  "devanagari": "मेरुनिलया",
+  "iastSplit": "Meru-nilayā",
+  "archana": "ॐ मेरुनिलयायै नमः",
+  "syllables": ["me", "ru", "ni", "la", "yā"],
+  "words": [
+    { "sa": "मेरु", "meaning": { "en": "Mount Meru", "hi": "मेरु पर्वत" } },
+    { "sa": "निलय", "meaning": { "en": "dwelling, home", "hi": "निवास, आलय" } }
+  ],
+  "meaning": {
+    "en": "Whose dwelling is Mount Meru",
+    "hi": "जिनका निवास मेरु पर्वत है"
+  },
+  "explanation": {
+    "en": "Meru is the golden mountain at the centre of the world in Purāṇic geography, and nilaya means home. Her dwelling is on Meru. Name 55 places her on Meru’s central peak.",
+    "hi": "पुराणों के भूगोल में मेरु संसार के केन्द्र में स्थित स्वर्ण पर्वत है, और ‘निलय’ का अर्थ है निवास। उनका निवास मेरु पर है। नाम 55 उन्हें मेरु के मध्य शिखर पर स्थित बताता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives a Śrīvidyā reading. He says the Śrīcakra has three prastāras, Bhū, Kailāsa and Meru, distinguished by what it is contemplated as one with: the eight goddesses beginning with Vaśinī, the letters of the alphabet, or the sixteen Nityās. Meru, her abode, is the contemplation of her identity with the Nityās. He also reads Meru as a nine-syllabled mantra of that name, the source from which all mantras arise.",
+    "hi": "भास्करराय श्रीविद्या की दृष्टि से अर्थ देते हैं। वे कहते हैं कि श्रीचक्र के तीन प्रस्तार हैं, भू, कैलास और मेरु, जो इस बात से भिन्न होते हैं कि चक्र की भावना किनके साथ अभेद रूप में की जाती है: वशिनी आदि आठ देवियों के साथ, मातृका वर्णों के साथ, या सोलह नित्याओं के साथ। उनका निवास ‘मेरु’ नित्याओं के साथ उनके तादात्म्य की भावना ही है। वे ‘मेरु’ को इसी नाम के एक नौ-अक्षरी मन्त्र के रूप में भी पढ़ते हैं, जिससे सब मन्त्र उत्पन्न होते हैं।"
+  },
+  "story": {
+    "en": "He quotes the Tantrarāja: Lalitā, of great splendour, always dwells on Meru at the centre; the other fourteen Nityās are placed around her out to the oceans, and Citrā in the supreme sky beyond. The many details of this, he says, must be learned from the mouth of a guru.",
+    "hi": "वे तन्त्रराज उद्धृत करते हैं: महाद्युतिमयी ललिता सदा मध्य में स्थित मेरु पर रहती हैं; उनके चारों ओर समुद्रों तक शेष चौदह नित्याएँ हैं, और उसके बाहर परम व्योम में चित्रा। वे कहते हैं कि इसके अनेक विवरण गुरु के मुख से ही जानने चाहिए।"
+  },
+  "commentary": {
+    "sanskrit": "मेरुरेव निलयो यस्याः ।",
+    "translation": {
+      "en": "She whose nilaya, dwelling, is Meru itself.",
+      "hi": "मेरु ही जिनका निलय, अर्थात् निवास, है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 775 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The three prastāras are described as Bhāskararāya explains them here, as modes of contemplation; the common description of them as flat, raised and pyramidal forms of the Śrīcakra is not his and is not used. The letters of the nine-syllabled Meru mantra, which he quotes from the Jñānārṇava, are deliberately not reproduced." }
+}

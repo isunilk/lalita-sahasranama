@@ -1,0 +1,43 @@
+{
+  "number": 113,
+  "verse": 41,
+  "slug": "bhavana-gamya",
+  "devanagari": "भावनागम्या",
+  "iastSplit": "Bhāvanā-gamyā",
+  "archana": "ॐ भावनागम्यायै नमः",
+  "syllables": ["bhā", "va", "nā", "gam", "yā"],
+  "words": [
+    { "sa": "भावना", "meaning": { "en": "bhāvanā, contemplation, inner meditation", "hi": "भावना, ध्यानपूर्वक चिन्तन" } },
+    { "sa": "गम्या", "meaning": { "en": "to be reached, known; read as agamyā, beyond reach", "hi": "प्राप्य, ज्ञेय; ‘अगम्या’ पढ़ने पर पहुँच से परे" } }
+  ],
+  "meaning": {
+    "en": "She who is reached through bhāvanā, inner contemplation",
+    "hi": "जो भावना, अर्थात् आन्तरिक चिन्तन, से प्राप्त होती हैं"
+  },
+  "explanation": {
+    "en": "Bhāvanā is bringing something into being in the mind, deep contemplation. Bhāskararāya says that with this name the hymn begins to give the means of reaching her. She is attained through bhāvanā; and, read as bhāvanā-agamyā, she is also beyond its reach.",
+    "hi": "भावना का अर्थ है किसी वस्तु को मन में साकार करना, गहन चिन्तन। भास्करराय कहते हैं कि इस नाम से स्तोत्र उन्हें पाने के उपाय बताना आरम्भ करता है। वे भावना से प्राप्य हैं; और ‘भावना-अगम्या’ पढ़ने पर वे उसकी पहुँच से परे भी हैं।"
+  },
+  "inner": {
+    "en": "He sets out several kinds of bhāvanā. In Mīmāṃsā there are two, the verbal and the actual, and she is either beyond them, being no object of the path of ritual action, or reached by them, being the purity of mind they produce. The Kūrma Purāṇa names three bhāvanās resting in Rudra, and the Yoginīhṛdaya three more: with parts, up to the Ājñā; with and without parts; and without parts, in the supreme state beyond. By all of these she is known.",
+    "hi": "वे भावना के कई प्रकार बताते हैं। मीमांसा में भावना दो हैं, शाब्दी और आर्थी; वे इनसे अगम्य हैं, क्योंकि वे कर्म-मार्ग का विषय नहीं, अथवा इनसे गम्य हैं, क्योंकि इनसे उत्पन्न चित्त-शुद्धि उन्हीं का रूप है। कूर्म पुराण रुद्र में स्थित तीन भावनाएँ बताता है, और योगिनीहृदय तीन और: आज्ञा तक सकल, फिर सकल-निष्कल, और उन्मनी से परे परम स्थान में निष्कल। इन सबसे वे जानी जाती हैं।"
+  },
+  "story": {
+    "en": "Bhāvanā is a technical term of Mīmāṃsā, and Bhāskararāya refers readers to his own work on Mīmāṃsā for its full treatment. From here the hymn moves from describing her forms to the ways of reaching her: contemplation in this name, devotion in the names that follow.",
+    "hi": "‘भावना’ मीमांसा का पारिभाषिक शब्द है, और भास्करराय इसके पूरे विवेचन के लिए पाठकों को मीमांसा पर अपनी कृति की ओर भेजते हैं। यहाँ से स्तोत्र उनके रूपों के वर्णन से उन्हें पाने के मार्गों की ओर बढ़ता है: इस नाम में भावना, और आगे के नामों में भक्ति।"
+  },
+  "commentary": {
+    "sanskrit": "ताभ्यामगम्या गम्या वा कर्ममार्गाविषय इति वा तज्जन्यचित्तशुद्धिरूपा वेत्यर्थः ।",
+    "translation": {
+      "en": "Unreachable by these two, or reachable: that is, she is not an object of the path of ritual action, or she is the purity of mind produced by it.",
+      "hi": "इन दोनों से वे अगम्य हैं या गम्य; अर्थात् वे कर्म-मार्ग का विषय नहीं हैं, अथवा उससे उत्पन्न चित्त-शुद्धि-रूपा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 113 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The name can be read भावना-गम्या or भावना-अगम्या; Bhāskararāya gives both, and the archana form fits both. The work he refers to is printed as मीमांसकवादकौतूहल; it is not named in the text above." }
+}

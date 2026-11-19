@@ -1,0 +1,43 @@
+{
+  "number": 780,
+  "verse": 149,
+  "slug": "vishvato-mukhi",
+  "devanagari": "विश्वतोमुखी",
+  "iastSplit": "Viśvato-mukhī",
+  "archana": "ॐ विश्वतोमुख्यै नमः",
+  "syllables": ["viś", "va", "to", "mu", "khī"],
+  "words": [
+    { "sa": "विश्वतस्", "meaning": { "en": "on every side, everywhere", "hi": "सब ओर, सर्वत्र" } },
+    { "sa": "मुख", "meaning": { "en": "face", "hi": "मुख" } }
+  ],
+  "meaning": {
+    "en": "Whose face is turned in every direction",
+    "hi": "जिनका मुख सब दिशाओं में है"
+  },
+  "explanation": {
+    "en": "Viśvataḥ means on every side and mukha is face. Her face is everywhere: wherever one turns, she is facing that way. Bhāskararāya cites the Veda, which speaks of the one ‘with eyes on every side and faces on every side’.",
+    "hi": "‘विश्वतः’ का अर्थ है सब ओर और ‘मुख’ का अर्थ है चेहरा। उनका मुख सर्वत्र है: जिधर भी देखें, वे उसी ओर उन्मुख हैं। भास्करराय वेद का वचन देते हैं, जो परम सत्ता को ‘सब ओर नेत्रों वाला और सब ओर मुखों वाला’ कहता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya resolves an old question. Scripture says the Supreme has hands, feet, eyes and faces everywhere, and also that it has no hands or feet. The first, he says, means that she appears wherever worshippers imagine a form for meditation; the second speaks of her ultimate nature; so there is no contradiction.",
+    "hi": "भास्करराय एक पुराना प्रश्न सुलझाते हैं। शास्त्र कहते हैं कि परम सत्ता के हाथ, पैर, नेत्र और मुख सर्वत्र हैं, और यह भी कि उसके हाथ-पैर नहीं हैं। वे कहते हैं कि पहले वचन का आशय यह है कि उपासक ध्यान के लिए जहाँ भी जो रूप कल्पित करते हैं, वे वहीं प्रकट होती हैं; दूसरा उनके पारमार्थिक स्वरूप के विषय में है; इसलिए कोई विरोध नहीं।"
+  },
+  "story": {
+    "en": "The phrase ‘with faces on every side’ is found in the Ṛg Veda and the Śvetāśvatara Upaniṣad, and the words ‘hands and feet everywhere’ in the Bhagavad Gītā. Coming after Virāḍrūpā, the name shows the universal form looking out from every point of itself.",
+    "hi": "‘सब ओर मुखों वाला’ यह वाक्यांश ऋग्वेद और श्वेताश्वतर उपनिषद् में मिलता है, और ‘सर्वत्र हाथ-पैर वाला’ भगवद्गीता में। ‘विराड्रूपा’ के बाद आकर यह नाम दिखाता है कि वह विश्वरूप अपने हर बिन्दु से देखता है।"
+  },
+  "commentary": {
+    "sanskrit": "विश्वतः सर्वावच्छेदेन मुखं यस्याः । विश्वतश्चक्षुरुत विश्वतोमुख इति श्रुतेः ।",
+    "translation": {
+      "en": "Whose face is viśvataḥ, in every place; as the Veda says, ‘with eyes on every side and faces on every side’.",
+      "hi": "जिनका मुख विश्वतः, अर्थात् हर स्थान पर, है; जैसा श्रुति कहती है: ‘सब ओर नेत्रों वाला और सब ओर मुखों वाला।’"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 780 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya cites these passages only as śruti and scripture; the identifications in the story (Ṛg Veda 10.81.3 and Śvetāśvatara Upaniṣad 3.3 for विश्वतश्चक्षुः, Bhagavad Gītā 13.13 for सर्वतः पाणिपादम्; अपाणिपादो जवनो ग्रहीता is Śvetāśvatara 3.19) are added here." }
+}

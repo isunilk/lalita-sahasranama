@@ -1,0 +1,43 @@
+{
+  "number": 762,
+  "verse": 146,
+  "slug": "tryambaka",
+  "devanagari": "त्र्यम्बका",
+  "iastSplit": "Tryambakā",
+  "archana": "ॐ त्र्यम्बकायै नमः",
+  "syllables": ["tryam", "ba", "kā"],
+  "words": [
+    { "sa": "त्रि", "meaning": { "en": "three", "hi": "तीन" } },
+    { "sa": "अम्बक", "meaning": { "en": "eye", "hi": "नेत्र" } }
+  ],
+  "meaning": {
+    "en": "The three-eyed one, whose eyes are sun, moon and fire",
+    "hi": "त्रिनेत्रा, जिनके नेत्र सूर्य, चन्द्र और अग्नि हैं"
+  },
+  "explanation": {
+    "en": "Tri is three and ambaka is an eye. Like Śiva, who is Tryambaka, she has three eyes. Bhāskararāya quotes the Devī Purāṇa: her three eyes are the moon, the sun and fire, and so the sages call her Tryambakā.",
+    "hi": "‘त्रि’ का अर्थ है तीन और ‘अम्बक’ का अर्थ है नेत्र। ‘त्र्यम्बक’ शिव की तरह वे भी तीन नेत्रों वाली हैं। भास्करराय देवी पुराण उद्धृत करते हैं: चन्द्र, सूर्य और अग्नि उनके तीन नेत्र हैं, इसलिए मुनि उन्हें ‘त्र्यम्बका’ कहते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya also reads the name as ‘mother (ambikā) of the three’, Brahmā, Viṣṇu and Rudra. For this reason, he says, the next name calls her Triguṇātmikā: the three gods work through the three guṇas, and she is their source.",
+    "hi": "भास्करराय इसे ‘तीनों की अम्बिका (माता)’ के अर्थ में भी पढ़ते हैं, अर्थात् ब्रह्मा, विष्णु और रुद्र की माता। इसी कारण, वे कहते हैं, अगला नाम उन्हें ‘त्रिगुणात्मिका’ कहता है: तीनों देव तीन गुणों के द्वारा कार्य करते हैं, और वे उनका मूल हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya also explains a point of grammar: on either reading the name keeps the form Tryambakā and does not become Tryambikā. The Sahasranāma’s own meditation verse pictures her as trinayanā, with three eyes.",
+    "hi": "भास्करराय व्याकरण की एक बात भी समझाते हैं: दोनों अर्थों में नाम ‘त्र्यम्बका’ ही रहता है, ‘त्र्यम्बिका’ नहीं बनता। सहस्रनाम का अपना ध्यान-श्लोक भी उन्हें ‘त्रिनयना’, अर्थात् तीन नेत्रों वाली, के रूप में चित्रित करता है।"
+  },
+  "commentary": {
+    "sanskrit": "त्रीण्यम्बकानि नेत्राणि यस्याः ।",
+    "translation": {
+      "en": "She who has three ambakas, that is, eyes.",
+      "hi": "जिनके तीन अम्बक, अर्थात् नेत्र, हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 762 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives two derivations (three eyes; mother of the three gods) and grammatical notes on why the form is not त्र्यम्बिका. The link between the three gods and the three guṇas spells out his अत एवाह; the reference to the dhyāna verse (त्रिनयनाम्) is added here." }
+}

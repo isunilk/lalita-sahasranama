@@ -1,0 +1,43 @@
+{
+  "number": 750,
+  "verse": 145,
+  "slug": "maha-ishvari",
+  "devanagari": "महेश्वरी",
+  "iastSplit": "Maheśvarī",
+  "archana": "ॐ महेश्वर्यै नमः",
+  "syllables": ["ma", "heś", "va", "rī"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "ईश्वरी", "meaning": { "en": "sovereign, ruling goddess", "hi": "ईश्वरी, स्वामिनी" } }
+  ],
+  "meaning": {
+    "en": "The Great Sovereign, supreme ruler of all",
+    "hi": "महान ईश्वरी, सबकी परम स्वामिनी"
+  },
+  "explanation": {
+    "en": "Mahā means great and īśvarī means the sovereign, the one who rules. She is both: great, and the ruler of all. The name is the feminine of Maheśvara, a name of Śiva, and gives her the same supreme lordship.",
+    "hi": "‘महा’ का अर्थ है महान और ‘ईश्वरी’ का अर्थ है शासन करने वाली स्वामिनी। वे दोनों हैं: महान भी, और सब पर शासन करने वाली भी। यह शिव के नाम ‘महेश्वर’ का स्त्रीलिंग रूप है और उन्हें वही परम ऐश्वर्य देता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya reads it simply as ‘she who is great and is the sovereign’ and gives no hidden meaning here. Her greatness and her lordship are one: she rules because nothing stands outside her.",
+    "hi": "भास्करराय इसे सीधे ‘जो महान हैं और ईश्वरी हैं’ के अर्थ में पढ़ते हैं; यहाँ वे कोई गूढ़ अर्थ नहीं देते। उनकी महानता और उनका ऐश्वर्य एक ही हैं: वे सब पर शासन करती हैं, क्योंकि कुछ भी उनसे बाहर नहीं है।"
+  },
+  "story": {
+    "en": "Name 208 is Māheśvarī, with a long ā in the first syllable. Bhāskararāya notes that this difference of a short and a long vowel keeps the two names from being a repetition. This name opens a verse of fierce, protective names: Mahākālī, Caṇḍikā and the slayer of Caṇḍa and Muṇḍa.",
+    "hi": "नाम 208 ‘माहेश्वरी’ है, जिसके पहले अक्षर में दीर्घ ‘आ’ है। भास्करराय बताते हैं कि ह्रस्व और दीर्घ स्वर के इस भेद के कारण दोनों नामों में पुनरुक्ति नहीं है। इसी नाम से वह श्लोक आरम्भ होता है जिसमें महाकाली, चण्डिका और चण्ड-मुण्ड का संहार करने वाली देवी के उग्र, रक्षक नाम आते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "महती च सेश्वरी च माहेश्वरीति पूर्वं व्याख्यातं नाम । अनयोर्ह्रस्वदीर्घादिमत्त्वाभ्यां न पौनरुक्त्यम् ।",
+    "translation": {
+      "en": "Great, and the Īśvarī. Māheśvarī is a name explained earlier; between the two there is no repetition, since one has a short vowel and the other a long one.",
+      "hi": "महान भी और ईश्वरी भी। ‘माहेश्वरी’ नाम की व्याख्या पहले हो चुकी है; इन दोनों में ह्रस्व और दीर्घ स्वर के भेद के कारण पुनरुक्ति नहीं है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 750 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense (महती च सा ईश्वरी च, printed with sandhi as सेश्वरी); the second sentence of the inner layer is a reflection. Slug: maha-ishvari is used because the plain spelling maheshvari also fits name 208 (Māheśvarī); check against the slug chosen for 208." }
+}

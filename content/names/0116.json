@@ -1,0 +1,43 @@
+{
+  "number": 116,
+  "verse": 41,
+  "slug": "bhadra-murti",
+  "devanagari": "भद्रमूर्तिः",
+  "iastSplit": "Bhadra-mūrtiḥ",
+  "archana": "ॐ भद्रमूर्त्यै नमः",
+  "syllables": ["bhad", "ra", "mūr", "tiḥ"],
+  "words": [
+    { "sa": "भद्र", "meaning": { "en": "auspicious, blessed", "hi": "मंगलमय, कल्याणकारी" } },
+    { "sa": "मूर्ति", "meaning": { "en": "form, embodiment", "hi": "मूर्ति, स्वरूप" } }
+  ],
+  "meaning": {
+    "en": "Whose form is auspiciousness itself",
+    "hi": "जिनका स्वरूप ही मंगलमय है"
+  },
+  "explanation": {
+    "en": "Her mūrti, her form and very nature, is bhadra: auspicious and blessed. Bhāskararāya glosses bhadra as bhavya, fair and good.",
+    "hi": "उनकी मूर्ति, अर्थात् उनका रूप और स्वरूप, भद्र है: मंगलमय और कल्याणकारी। भास्करराय ‘भद्र’ का अर्थ ‘भव्य’, अर्थात् सुन्दर और शुभ, करते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya then quotes the Viṣṇu Purāṇa, ‘they know that Brahman as auspiciousness’, and the Mahābhārata, ‘the auspicious among the auspicious’. So the name says more than that she is lovely: the Absolute itself is the auspicious, and she is its form.",
+    "hi": "फिर भास्करराय विष्णु पुराण का वचन ‘ब्रह्म तन्मङ्गलं विदुः’, उस ब्रह्म को मंगल जानते हैं, और महाभारत का ‘मङ्गलानां च मङ्गलम्’, मंगलों का भी मंगल, उद्धृत करते हैं। इस प्रकार यह नाम केवल यह नहीं कहता कि वे सुन्दर हैं: परम सत्य ही मंगल है, और वे उसका रूप हैं।"
+  },
+  "story": {
+    "en": "In the verse this name stands between Bhadrapriyā and Bhaktasaubhāgyadāyinī: she loves the auspicious, she is the auspicious, and she gives good fortune to her devotees.",
+    "hi": "श्लोक में यह नाम भद्रप्रिया और भक्तसौभाग्यदायिनी के बीच है: उन्हें मंगल प्रिय है, वे स्वयं मंगल हैं, और वे भक्तों को सौभाग्य देती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "भद्रा भव्या मूर्तिः स्वरूपं यस्याः ।",
+    "translation": {
+      "en": "She whose mūrti, form, is bhadrā, fair and auspicious.",
+      "hi": "जिनकी मूर्ति, अर्थात् स्वरूप, भद्र, अर्थात् भव्य, है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 116 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The reading of his two quotations as showing that the auspicious is Brahman is an interpretation of why he cites them." }
+}

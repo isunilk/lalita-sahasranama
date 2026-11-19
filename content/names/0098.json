@@ -1,0 +1,44 @@
+{
+  "number": 98,
+  "verse": 37,
+  "slug": "samayachara-tatpara",
+  "devanagari": "समयाचारतत्परा",
+  "iastSplit": "Samayācāra-tatparā",
+  "archana": "ॐ समयाचारतत्परायै नमः",
+  "syllables": ["sa", "ma", "yā", "cā", "ra", "tat", "pa", "rā"],
+  "words": [
+    { "sa": "समय", "meaning": { "en": "Samaya, the inner path", "hi": "समय, आन्तरिक मार्ग" } },
+    { "sa": "आचार", "meaning": { "en": "discipline, way of conduct", "hi": "आचार, आचरण की रीति" } },
+    { "sa": "तत्परा", "meaning": { "en": "intent upon, devoted to", "hi": "तत्पर, उसमें लगी हुई" } }
+  ],
+  "meaning": {
+    "en": "Intent upon the Samaya way of worship",
+    "hi": "जो समय-आचार की उपासना में तत्पर हैं"
+  },
+  "explanation": {
+    "en": "Samayācāra is the discipline of the Samaya path. Bhāskararāya gives two accounts of it: the way of conduct taught in ten chapters of the Rudrayāmala, and an inner worship carried out entirely within, which he says is to be learned only from the guru’s own lips. She is intent upon both.",
+    "hi": "समयाचार समय-मार्ग का आचार है। भास्करराय इसके दो रूप बताते हैं: रुद्रयामल के दस पटलों में उपदिष्ट आचार, और पूर्णतः भीतर की जाने वाली एक उपासना, जिसके विषय में वे कहते हैं कि वह केवल गुरु के मुख से ही जानी जा सकती है। वे दोनों में तत्पर हैं।"
+  },
+  "inner": {
+    "en": "The inner worship he outlines follows the Devī as she rises from the Mūlādhāra through the cakras to union with Sadāśiva in the thousand-petalled lotus, and returns again; the names that follow trace the same ascent. Bhāskararāya calls it ‘known only from the guru’s mouth’, and this site keeps that reserve: the names are explained for their meaning, not as instruction.",
+    "hi": "जिस आन्तरिक उपासना की वे रूपरेखा देते हैं, वह देवी का अनुसरण करती है: मूलाधार से उठकर चक्रों से होते हुए सहस्रदल कमल में सदाशिव से मिलन, और फिर लौटना; आगे के नाम इसी आरोहण का वर्णन करते हैं। भास्करराय इसे ‘गुरुमुखैकवेद्य’, केवल गुरु के मुख से जानने योग्य, कहते हैं, और यह साइट भी वही संयम रखती है: इन नामों का अर्थ बताया गया है, साधना-विधि नहीं।"
+  },
+  "story": {
+    "en": "With this name the verse completes its pairing of Kula and Samaya, which Bhāskararāya, under names 94 and 97, describes by common usage as the outer and the inner forms of worship. The next verse begins the names of Kuṇḍalinī’s ascent.",
+    "hi": "इस नाम के साथ श्लोक कुल और समय की जोड़ी पूरी करता है, जिन्हें भास्करराय नाम 94 और 97 में रूढ़ प्रयोग के अनुसार उपासना के बाहरी और भीतरी रूप बताते हैं। अगला श्लोक कुण्डलिनी के आरोहण के नामों से आरम्भ होता है।"
+  },
+  "commentary": {
+    "sanskrit": "रुद्रयामले दशभिः पटलैरुपदिष्ट आचारः समयाचार इत्युच्यते ।",
+    "translation": {
+      "en": "The discipline taught in ten chapters in the Rudrayāmala is called Samayācāra.",
+      "hi": "रुद्रयामल में दस पटलों द्वारा उपदिष्ट आचार ‘समयाचार’ कहलाता है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 98 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s second account of samayācāra outlines an inner worship that he calls गुरुमुखैकवेद्य; only its broad outline (ascent to union with Sadāśiva and return) is mentioned, with no method. Check that this level of description is acceptable." }
+}

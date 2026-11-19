@@ -1,0 +1,45 @@
+{
+  "number": 105,
+  "verse": 39,
+  "slug": "sahasrarambujarudha",
+  "devanagari": "सहस्राराम्बुजारूढा",
+  "iastSplit": "Sahasrārāmbujārūḍhā",
+  "archana": "ॐ सहस्राराम्बुजारूढायै नमः",
+  "syllables": ["sa", "has", "rā", "rām", "bu", "jā", "rū", "ḍhā"],
+  "words": [
+    { "sa": "सहस्र", "meaning": { "en": "a thousand", "hi": "सहस्र, हज़ार" } },
+    { "sa": "अर", "meaning": { "en": "spoke; here, petal", "hi": "अर, आरा; यहाँ दल" } },
+    { "sa": "अम्बुज", "meaning": { "en": "lotus, ‘born of water’", "hi": "कमल" } },
+    { "sa": "आरूढा", "meaning": { "en": "ascended, seated upon", "hi": "आरूढ़, विराजमान" } }
+  ],
+  "meaning": {
+    "en": "Who has ascended to the thousand-petalled lotus",
+    "hi": "जो सहस्रदल कमल पर आरूढ़ हैं"
+  },
+  "explanation": {
+    "en": "The Sahasrāra is the lotus of a thousand petals at the crown. Bhāskararāya places it just below the brahmarandhra, the opening at the top of the head. Having passed the six cakras and the three knots, she ascends and is seated there.",
+    "hi": "सहस्रार सिर के शिखर पर स्थित हज़ार दलों वाला कमल है। भास्करराय इसे ब्रह्मरन्ध्र, अर्थात् सिर के शीर्ष के छिद्र, के ठीक नीचे बताते हैं। छहों चक्रों और तीनों ग्रन्थियों को पार करके वे ऊपर चढ़ती हैं और वहाँ विराजमान होती हैं।"
+  },
+  "inner": {
+    "en": "Ara means a spoke of a wheel, and here a petal: a lotus with a thousand spokes. This is the Akula of name 96, beyond the six cakras, where, in a verse of the Vāmakeśvara Tantra that Bhāskararāya quotes, Śakti rejoices together with Śiva. That state, the Tantra says, is to be known as the supreme one and the cause of bliss.",
+    "hi": "‘अर’ का अर्थ पहिये का आरा है, और यहाँ दल: हज़ार आरों वाला कमल। यह नाम 96 का ‘अकुल’ है, छहों चक्रों से परे, जहाँ, वामकेश्वर तन्त्र के जिस वचन को भास्करराय उद्धृत करते हैं उसके अनुसार, शक्ति शिव के साथ आनन्दित होती हैं। तन्त्र कहता है कि वही अवस्था परम जाननी चाहिए, और वही निर्वृति, अर्थात् परम आनन्द, का कारण है।"
+  },
+  "story": {
+    "en": "Here the inner ascent meets the hymn’s picture of Lalitā seated with Kāmeśvara. In his comment on name 111 Bhāskararāya places Kāmeśvara in the brahmarandhra and the union of Śiva and Śakti in the moon-disc of the Sahasrāra, from which flows the nectar of the next name.",
+    "hi": "यहाँ भीतर का आरोहण स्तोत्र के उस चित्र से मिल जाता है जिसमें ललिता कामेश्वर के साथ विराजमान हैं। नाम 111 की व्याख्या में भास्करराय कामेश्वर को ब्रह्मरन्ध्र में, और शिव-शक्ति के मिलन को सहस्रार के चन्द्रमण्डल में बताते हैं, जिससे अगले नाम का अमृत बहता है।"
+  },
+  "commentary": {
+    "sanskrit": "सहस्रसंख्याका अरा दलानि यस्य तदम्बुजं कमलं ब्रह्मरन्ध्राधःस्थमारूढा ।",
+    "translation": {
+      "en": "That lotus whose aras, petals, number a thousand, situated below the brahmarandhra: she has ascended it.",
+      "hi": "जिस अम्बुज, अर्थात् कमल, के अर, अर्थात् दल, हज़ार हैं, और जो ब्रह्मरन्ध्र के नीचे स्थित है, उस पर वे आरूढ़ हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 105 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Kuṇḍalinī name: meaning only. The Vāmakeśvara Tantra line on Śakti rejoicing with Śiva comes from the passage he quotes under name 111; the surrounding lines of that passage describe practice and are not used." }
+}

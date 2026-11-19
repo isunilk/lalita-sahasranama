@@ -1,0 +1,43 @@
+{
+  "number": 238,
+  "verse": 59,
+  "slug": "manu-vidya",
+  "devanagari": "मनुविद्या",
+  "iastSplit": "Manu-vidyā",
+  "archana": "ॐ मनुविद्यायै नमः",
+  "syllables": ["ma", "nu", "vid", "yā"],
+  "words": [
+    { "sa": "मनु", "meaning": { "en": "Manu, ancestor of humankind; one of the twelve worshippers of the Devī", "hi": "मनु, मानवजाति के आदिपुरुष; देवी के बारह उपासकों में एक" } },
+    { "sa": "विद्या", "meaning": { "en": "vidyā, a mantra of the Goddess", "hi": "विद्या, देवी का मन्त्र" } }
+  ],
+  "meaning": {
+    "en": "The Śrīvidyā as worshipped and handed down by Manu",
+    "hi": "मनु द्वारा उपासित श्रीविद्या का स्वरूप"
+  },
+  "explanation": {
+    "en": "In Śrīvidyā a vidyā is a mantra of the Goddess. Tradition counts twelve great worshippers of the Devī, each associated with a form of her mantra, and Manu stands first among them. She is that vidyā of Manu.",
+    "hi": "श्रीविद्या में ‘विद्या’ का अर्थ है देवी का मन्त्र। परम्परा देवी के बारह महान उपासक मानती है, जिनमें से प्रत्येक के साथ उनके मन्त्र का एक रूप जुड़ा है, और इनमें मनु प्रथम हैं। वे मनु की वही विद्या हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes a verse naming the twelve: Manu, Candra, Kubera, Lopāmudrā, Manmatha, Agasti, Agni, Sūrya, Indra, Skanda, Śiva and Krodhabhaṭṭāraka. Together they make up the twelvefold spread (prastāra) of Śrīvidyā. The names Manuvidyā and Candravidyā, he says, single out the first two of them.",
+    "hi": "भास्करराय एक श्लोक उद्धृत करते हैं जिसमें बारह उपासकों के नाम हैं: मनु, चन्द्र, कुबेर, लोपामुद्रा, मन्मथ, अगस्ति, अग्नि, सूर्य, इन्द्र, स्कन्द, शिव और क्रोधभट्टारक। इनसे मिलकर श्रीविद्या का बारह प्रकार का प्रस्तार बनता है। वे कहते हैं कि मनुविद्या और चन्द्रविद्या ये दो नाम इनमें से पहले दो को अलग से कहते हैं।"
+  },
+  "story": {
+    "en": "Lopāmudrā and her husband Agastya both appear in the list; Agastya is the sage to whom Hayagrīva teaches this very hymn.",
+    "hi": "इस सूची में लोपामुद्रा और उनके पति अगस्त्य दोनों हैं; अगस्त्य वही ऋषि हैं जिन्हें हयग्रीव यह स्तोत्र सिखाते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "मनुश्चन्द्रः कुबेरश्च लोपामुद्रा च मन्मथः । अगस्तिरग्निः सूर्यश्च इन्द्रः स्कन्दः शिवस्तथा ।। क्रोधभट्टारको देव्या द्वादशामी उपासकाः ।",
+    "translation": {
+      "en": "Manu, Candra, Kubera, Lopāmudrā, Manmatha, Agasti, Agni, Sūrya, Indra, Skanda, Śiva and Krodhabhaṭṭāraka: these twelve are worshippers of the Devī.",
+      "hi": "मनु, चन्द्र, कुबेर, लोपामुद्रा, मन्मथ, अगस्ति, अग्नि, सूर्य, इन्द्र, स्कन्द, शिव और क्रोधभट्टारक: ये बारह देवी के उपासक हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 238 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The commentary excerpt is the verse Bhāskararāya quotes (he does not name its source), not his own words. No mantra or uddhāra is given, by design. The gloss of Manu as ancestor of humankind is general." }
+}

@@ -1,0 +1,45 @@
+{
+  "number": 234,
+  "verse": 57,
+  "slug": "maha-tripura-sundari",
+  "devanagari": "महात्रिपुरसुन्दरी",
+  "iastSplit": "Mahā-tripura-sundarī",
+  "archana": "ॐ महात्रिपुरसुन्दर्यै नमः",
+  "syllables": ["ma", "hāt", "ri", "pu", "ra", "sun", "da", "rī"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "त्रि", "meaning": { "en": "three", "hi": "तीन" } },
+    { "sa": "पुर", "meaning": { "en": "city", "hi": "पुर, नगर" } },
+    { "sa": "सुन्दरी", "meaning": { "en": "beautiful one", "hi": "सुन्दरी" } }
+  ],
+  "meaning": {
+    "en": "The great Tripurasundarī, beauty of the three cities",
+    "hi": "महात्रिपुरसुन्दरी, तीनों पुरों की सुन्दरी"
+  },
+  "explanation": {
+    "en": "Tripurasundarī, “the beautiful one of the three cities”, is the chief name of the Goddess in Śrīvidyā. With mahā it becomes her fullest title: she is great, and she is beautiful.",
+    "hi": "त्रिपुरसुन्दरी, अर्थात् ‘तीन पुरों की सुन्दरी’, श्रीविद्या में देवी का प्रमुख नाम है। ‘महा’ जुड़कर यह उनकी पूर्ण उपाधि बन जाता है: वे महान भी हैं और सुन्दरी भी।"
+  },
+  "inner": {
+    "en": "Bhāskararāya explains the three as the knower, the means of knowing and the known (mātṛ, māna, meya). Their city is the whole of experience, since nothing is known without all three, and she is that city itself. She is also great and beautiful, the other two words of the name.",
+    "hi": "भास्करराय ‘त्रि’ को मातृ, मान और मेय (प्रमाता, प्रमाण और प्रमेय), अर्थात् जानने वाला, जानने का साधन और जाना जाने वाला, बताते हैं। इन तीनों का नगर सम्पूर्ण अनुभव है, क्योंकि तीनों के बिना कुछ भी जाना नहीं जाता, और वे स्वयं वही नगर हैं। साथ ही वे महान और सुन्दरी हैं, जो नाम के शेष दो शब्द हैं।"
+  },
+  "story": {
+    "en": "The name returns near the end of the hymn as Śrīmat-tripurasundarī (name 997), beside Śrīcakrarājanilayā. Here it closes a verse that also names her the queen of Mahākāmeśa.",
+    "hi": "यह नाम स्तोत्र के अन्त के पास ‘श्रीमत्त्रिपुरसुन्दरी’ (नाम 997) के रूप में, ‘श्रीचक्रराजनिलया’ के साथ, फिर आता है। यहाँ यह उस श्लोक को पूरा करता है जो उन्हें महाकामेश की महिषी भी कहता है।"
+  },
+  "commentary": {
+    "sanskrit": "त्रयाणां मातृमानमेयानां पुरं नगरं तदात्मिका च सा । महती च सा सुन्दरी चेति तथा ।",
+    "translation": {
+      "en": "The city, the pura, of the three, the knower, the means of knowing and the known: she is that. And she is great and beautiful; hence the name.",
+      "hi": "तीनों, अर्थात् प्रमाता, प्रमाण और प्रमेय, का पुर अर्थात् नगर; वे उसी स्वरूप वाली हैं। वे महान भी हैं और सुन्दरी भी, इसलिए यह नाम है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 234 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives one reading of tripura here (मातृ-मान-मेय); other traditional triads are not added. The cross-reference to name 997 is editorial." }
+}

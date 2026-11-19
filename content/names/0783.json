@@ -1,0 +1,43 @@
+{
+  "number": 783,
+  "verse": 149,
+  "slug": "prana-da",
+  "devanagari": "प्राणदा",
+  "iastSplit": "Prāṇa-dā",
+  "archana": "ॐ प्राणदायै नमः",
+  "syllables": ["prā", "ṇa", "dā"],
+  "words": [
+    { "sa": "प्राण", "meaning": { "en": "life-breath, vital force", "hi": "प्राण, जीवनशक्ति" } },
+    { "sa": "दा", "meaning": { "en": "giver", "hi": "देने वाली" } }
+  ],
+  "meaning": {
+    "en": "Giver of the life-breath and of the senses",
+    "hi": "प्राण और इन्द्रियाँ देने वाली"
+  },
+  "explanation": {
+    "en": "Prāṇa is the breath of life and dā means the one who gives. She gives the vital breath, with its five functions, and the senses by which beings live and know. Every breath a creature takes is her gift.",
+    "hi": "‘प्राण’ जीवन की श्वास है और ‘दा’ का अर्थ है देने वाली। वे पाँच वृत्तियों वाला प्राण देती हैं, और वे इन्द्रियाँ भी जिनसे प्राणी जीते और जानते हैं। हर प्राणी की हर साँस उन्हीं का दान है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya also reads the name another way, from the root do, to cut: she cuts off the prāṇas, taking back the life she gave. The one Mother gives breath and, at the end, withdraws it. He then shows, from the Kauṣītaki Brāhmaṇa and the Brahma Sūtra, that prāṇa can mean Brahman itself, which leads into the next name.",
+    "hi": "भास्करराय इस नाम को दूसरे ढंग से भी पढ़ते हैं, ‘दो’ (काटना) धातु से: वे प्राणों को काट देती हैं, अर्थात् दिया हुआ जीवन वापस ले लेती हैं। एक ही माँ श्वास देती हैं और अन्त में उसे लौटा भी लेती हैं। फिर वे कौषीतकि ब्राह्मण और ब्रह्मसूत्र से दिखाते हैं कि ‘प्राण’ का अर्थ स्वयं ब्रह्म भी हो सकता है, जो अगले नाम की ओर ले जाता है।"
+  },
+  "story": {
+    "en": "Names 783 and 784 are a pair: she gives prāṇa, and she is prāṇa. Bhāskararāya’s comment moves from the breath in the body to Brahman, the life of all.",
+    "hi": "नाम 783 और 784 एक जोड़ी हैं: वे प्राण देती हैं, और वे स्वयं प्राण हैं। भास्करराय की व्याख्या शरीर की श्वास से सबके जीवन, ब्रह्म, तक जाती है।"
+  },
+  "commentary": {
+    "sanskrit": "प्राणान्पञ्चवृत्तिकानकादशेन्द्रियाणि वादत्ते । प्राणान्द्यति खण्डयतीति वा ।",
+    "translation": {
+      "en": "She gives the prāṇas, the breath with its five functions, or the eleven senses. Or: she cuts (dyati), that is, severs, the prāṇas.",
+      "hi": "वे पाँच वृत्तियों वाले प्राण, या ग्यारह इन्द्रियाँ, देती हैं। अथवा, वे प्राणों को ‘द्यति’ अर्थात् काटती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 783 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The commentary excerpt is quoted as printed: पञ्चवृत्तिकानकादशेन्द्रियाणि is evidently a misprint for पञ्चवृत्तिकानेकादशेन्द्रियाणि (‘or the eleven senses’). वादत्ते is read as वा दत्ते (‘or gives’); it could also be divided वा आदत्ते (‘or takes’), which a reviewer should consider. The second sentence of the inner layer is a reflection." }
+}

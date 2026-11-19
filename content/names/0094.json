@@ -1,0 +1,42 @@
+{
+  "number": 94,
+  "verse": 37,
+  "slug": "kaulini",
+  "devanagari": "कौलिनी",
+  "iastSplit": "Kaulinī",
+  "archana": "ॐ कौलिन्यै नमः",
+  "syllables": ["kau", "li", "nī"],
+  "words": [
+    { "sa": "कौलिनी", "meaning": { "en": "Kaulinī: she who has kaula, the bond of Kula and Akula", "hi": "कौलिनी: कौल से युक्त, कुल और अकुल के सम्बन्ध वाली" } }
+  ],
+  "meaning": {
+    "en": "She who embodies Kaula, the union of Śakti and Śiva",
+    "hi": "जो कौल-स्वरूपा हैं, शक्ति और शिव का मिलन"
+  },
+  "explanation": {
+    "en": "Kaula is what belongs to kula. Bhāskararāya quotes a Tantra: Kula is called Śakti and Akula is called Śiva, and the bond of Akula with Kula is called Kaula. She who possesses this is Kaulinī.",
+    "hi": "‘कौल’ का अर्थ है कुल से सम्बन्धित। भास्करराय एक तन्त्र-वचन देते हैं: कुल शक्ति कहलाता है और अकुल शिव, और कुल में अकुल का सम्बन्ध ‘कौल’ कहलाता है। जो इस कौल से युक्त हैं, वे कौलिनी हैं।"
+  },
+  "inner": {
+    "en": "Or, he says, Kaula is the sāmarasya of Śiva and Śakti, their oneness in a single savour, and she who has it is Kaulinī. He also records a conventional use: some call it Kaula when the cakra is drawn outwardly and worshipped there. The name thus holds both the inner union and the outer worship.",
+    "hi": "अथवा, वे कहते हैं, कौल शिव और शक्ति का सामरस्य है, अर्थात् दोनों का एकरस हो जाना, और जो इससे युक्त हैं वे कौलिनी हैं। वे एक रूढ़ प्रयोग भी बताते हैं: कुछ लोग बाहरी आकाश में चक्र लिखकर वहाँ की जाने वाली पूजा को कौल कहते हैं। इस प्रकार यह नाम भीतर का मिलन और बाहर की पूजा, दोनों को समेटता है।"
+  },
+  "story": {
+    "en": "Bhāskararāya notes that the Chalākṣara Sūtra, a coded aid that fixes how the names are counted, treats Kaulinī Kulayoginī as a single name of eight syllables, and he defers the reasoning to his tenth hundred. The text followed here counts them as two names.",
+    "hi": "भास्करराय बताते हैं कि छलाक्षर सूत्र, जो सांकेतिक अक्षरों से नामों की गणना निश्चित करता है, ‘कौलिनी कुलयोगिनी’ को आठ अक्षरों का एक ही नाम मानता है; इसका कारण वे दसवें शतक में बताने को कहते हैं। यहाँ अपनाए गए पाठ में ये दो नाम गिने जाते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "शिवशक्तिसामरस्यं वा कौलं तद्वती कौलिनी",
+    "translation": {
+      "en": "Or Kaula is the oneness of Śiva and Śakti; she who has it is Kaulinī.",
+      "hi": "अथवा शिव-शक्ति का सामरस्य कौल है; उससे युक्त होने के कारण वे कौलिनी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 94 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya reports that the Chalākṣara Sūtra counts कौलिनी कुलयोगिनी as one eight-syllable name and promises the reasoning in his tenth hundred (not checked here); the master text counts two names (94, 95). The outer-worship sense of Kaula is reported by him as someone’s view (इति कश्चित्). The last sentence of the inner layer is a reflection." }
+}

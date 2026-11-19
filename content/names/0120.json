@@ -1,0 +1,43 @@
+{
+  "number": 120,
+  "verse": 42,
+  "slug": "bhakti-vashya",
+  "devanagari": "भक्तिवश्या",
+  "iastSplit": "Bhakti-vaśyā",
+  "archana": "ॐ भक्तिवश्यायै नमः",
+  "syllables": ["bhak", "ti", "vaś", "yā"],
+  "words": [
+    { "sa": "भक्ति", "meaning": { "en": "devotion", "hi": "भक्ति" } },
+    { "sa": "वश्या", "meaning": { "en": "subject to, won over by", "hi": "वश में होने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who is won over by devotion",
+    "hi": "जो भक्ति के वश में हो जाती हैं"
+  },
+  "explanation": {
+    "en": "She who is free and sovereign over all lets herself be held by devotion. Bhāskararāya says she is subject to bhakti of the kind just described, dependent on it; or she is won over through it.",
+    "hi": "जो सबकी स्वतन्त्र स्वामिनी हैं, वे स्वयं को भक्ति से बँधने देती हैं। भास्करराय कहते हैं कि वे पहले बताई गई भक्ति के वश में, उसके अधीन, हैं; अथवा भक्ति से वश में होती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only this plain sense. As a reflection: she who is the Empress of all (name 2) and bound by nothing lets herself be held by the love of her devotees.",
+    "hi": "भास्करराय केवल यही सीधा अर्थ देते हैं। चिन्तन के रूप में: जो सबकी महारानी हैं (नाम 2) और किसी से बँधी नहीं, वे अपने भक्तों के प्रेम से स्वयं को बँधने देती हैं।"
+  },
+  "story": {
+    "en": "This is the third of the three bhakti names: devotion is dear to her (118), devotion reaches her (119), and devotion holds her (120). The next name tells what she does for those who hold her so: she removes their fear.",
+    "hi": "यह भक्ति के तीन नामों में तीसरा है: भक्ति उन्हें प्रिय है (118), भक्ति से वे प्राप्त होती हैं (119), और भक्ति उन्हें बाँध लेती है (120)। अगला नाम बताता है कि ऐसे भक्तों के लिए वे क्या करती हैं: उनका भय दूर करती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "भक्तेरुक्तलक्षणाया वश्या पराधीना । भक्त्या वश्येति वा ।",
+    "translation": {
+      "en": "Subject to devotion of the kind described, dependent on it; or, won over by devotion.",
+      "hi": "पहले बताए गए लक्षण वाली भक्ति के वश में, उसके अधीन; अथवा भक्ति से वश में होने वाली।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 120 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the plain sense; the inner layer is a reflection. A further line he cites (स्वतन्त्रापि शिवभक्तिपारतन्त्र्यत्वमश्नुषे) is ambiguous out of context and is not used." }
+}

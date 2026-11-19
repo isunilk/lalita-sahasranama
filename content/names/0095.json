@@ -1,0 +1,43 @@
+{
+  "number": 95,
+  "verse": 37,
+  "slug": "kula-yogini",
+  "devanagari": "कुलयोगिनी",
+  "iastSplit": "Kula-yoginī",
+  "archana": "ॐ कुलयोगिन्यै नमः",
+  "syllables": ["ku", "la", "yo", "gi", "nī"],
+  "words": [
+    { "sa": "कुल", "meaning": { "en": "kula, in all the senses given above", "hi": "कुल, ऊपर बताए सभी अर्थों में" } },
+    { "sa": "योगिनी", "meaning": { "en": "she who is joined, connected; a yoginī", "hi": "युक्त, सम्बन्ध रखने वाली; योगिनी" } }
+  ],
+  "meaning": {
+    "en": "She who is united with the Kula",
+    "hi": "जो कुल से नित्य युक्त हैं"
+  },
+  "explanation": {
+    "en": "Yoga here means connection. Bhāskararāya says simply that she is joined to kula in the senses already given: the triad of knowing, the body, the family and the tradition. Wherever there is kula, she is united with it.",
+    "hi": "यहाँ ‘योग’ का अर्थ है सम्बन्ध। भास्करराय सीधे कहते हैं कि वे पहले बताए गए सभी अर्थों वाले कुल से युक्त हैं: ज्ञान की त्रिपुटी, देह, वंश और परम्परा। जहाँ कहीं कुल है, वहाँ वे उससे जुड़ी हुई हैं।"
+  },
+  "inner": {
+    "en": "He gives no further hidden meaning here; the name gathers up the senses of kula unfolded in the names before it. The word yoginī also suggests one established in yoga, but Bhāskararāya keeps to the plain sense of connection.",
+    "hi": "यहाँ वे कोई और गूढ़ अर्थ नहीं देते; यह नाम पिछले नामों में खोले गए कुल के सारे अर्थों को समेट लेता है। ‘योगिनी’ शब्द से योग में प्रतिष्ठित होने का भाव भी झलकता है, पर भास्करराय सम्बन्ध वाले सीधे अर्थ पर ही टिके रहते हैं।"
+  },
+  "story": {
+    "en": "As noted under the previous name, the Chalākṣara Sūtra counts Kaulinī Kulayoginī as one name, while the text used here counts two. With this name the first line of the verse closes on four Kula names.",
+    "hi": "जैसा पिछले नाम में कहा गया, छलाक्षर सूत्र ‘कौलिनी कुलयोगिनी’ को एक नाम गिनता है, जबकि यहाँ प्रयुक्त पाठ इन्हें दो गिनता है। इस नाम के साथ श्लोक की पहली पंक्ति चार कुल-नामों पर पूरी होती है।"
+  },
+  "commentary": {
+    "sanskrit": "कुले उक्तार्थके योगः सम्बन्धोऽस्या इति कुलयोगिनी ।",
+    "translation": {
+      "en": "She has yoga, connection, with kula in the senses already stated; hence Kulayoginī.",
+      "hi": "पहले कहे गए अर्थों वाले कुल में इनका योग, अर्थात् सम्बन्ध, है; इसलिए ये कुलयोगिनी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 95 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the sense ‘connected with kula’; the remark on yoginī in the inner layer is a note, not his reading. See name 94 for the Chalākṣara Sūtra count." }
+}

@@ -1,0 +1,44 @@
+{
+  "number": 97,
+  "verse": 37,
+  "slug": "samayanta-stha",
+  "devanagari": "समयान्तःस्था",
+  "iastSplit": "Samayāntaḥ-sthā",
+  "archana": "ॐ समयान्तःस्थायै नमः",
+  "syllables": ["sa", "ma", "yān", "taḥ", "sthā"],
+  "words": [
+    { "sa": "समय", "meaning": { "en": "Samaya: inner worship; the Samaya tantras; Śiva and Śakti in equality", "hi": "समय: आन्तरिक उपासना; समय तन्त्र; समता में स्थित शिव-शक्ति" } },
+    { "sa": "अन्तर्", "meaning": { "en": "within; also, one’s own nature", "hi": "भीतर; स्वरूप भी" } },
+    { "sa": "स्था", "meaning": { "en": "abiding", "hi": "स्थित" } }
+  ],
+  "meaning": {
+    "en": "Who abides within Samaya, the inner worship and its teaching",
+    "hi": "जो समय, अर्थात् आन्तरिक उपासना और उसके शास्त्र, में स्थित हैं"
+  },
+  "explanation": {
+    "en": "Bhāskararāya records that worship of the cakra contemplated in the space of the heart is by usage called samaya. The five tantras ascribed to Vasiṣṭha, Śuka, Sanaka, Sanandana and Sanatkumāra, which teach it, are also called samaya, and she abides within them as their subject.",
+    "hi": "भास्करराय बताते हैं कि हृदयाकाश (दहराकाश) में चक्र की भावना करके की जाने वाली पूजा रूढ़ि से ‘समय’ कहलाती है। इसका प्रतिपादन करने वाले वसिष्ठ, शुक, सनक, सनन्दन और सनत्कुमार के नाम से प्रसिद्ध पाँच तन्त्र भी ‘समय’ कहलाते हैं, और वे उनमें उनके प्रतिपाद्य विषय के रूप में स्थित हैं।"
+  },
+  "inner": {
+    "en": "His deeper reading: Samaya is Śiva, ‘he who attains sameness’, and Samayā is the Devī, and the name takes them as a pair. Their sameness is fivefold: of seat, action, state, name and form. Antaḥ can also mean ‘own nature’, so she abides in the very nature of that equal pair.",
+    "hi": "उनका गहरा अर्थ: ‘समय’ शिव हैं, जो साम्य को प्राप्त होते हैं, और ‘समया’ देवी; यह नाम दोनों को एक साथ लेता है। उनका साम्य पाँच प्रकार का है: अधिष्ठान, अनुष्ठान, अवस्थान, नाम और रूप का। ‘अन्तः’ का अर्थ स्वरूप भी है, अतः वे उस समान युगल के स्वरूप में ही स्थित हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya says this fivefold equality is set out at length by Lalla in his commentary on the Vāsanāsubhagodaya. Samaya also means an agreed sign, and he notes that its meaning was settled by all the yogis with one mind.",
+    "hi": "भास्करराय बताते हैं कि इस पंचविध साम्य का विस्तार लल्ल ने ‘वासनासुभगोदय’ की व्याख्या में किया है। ‘समय’ का अर्थ संकेत भी है, और वे कहते हैं कि इसका अर्थ सभी योगियों ने एकमत होकर निश्चित किया था।"
+  },
+  "commentary": {
+    "sanskrit": "साम्यं च परस्परं शिवशक्त्योः पञ्चविधं अधिष्ठानसाम्यमनुष्ठानसाम्यमवस्थानसाम्यं नामसाम्यं रूपसाम्यं चेति ।",
+    "translation": {
+      "en": "And the sameness of Śiva and Śakti with each other is fivefold: sameness of seat, of action, of state, of name and of form.",
+      "hi": "और शिव-शक्ति का परस्पर साम्य पाँच प्रकार का है: अधिष्ठान-साम्य, अनुष्ठान-साम्य, अवस्थान-साम्य, नाम-साम्य और रूप-साम्य।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 97 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s text spells the name समयान्तस्था (without visarga); the master text reads समयान्तःस्था, kept here. His examples of the five kinds of sameness (seat: the cakra of worship; action: creation and the rest; state: dance and the like; name: Bhairava and so on; form: redness and so on) are summarised only. The heart-space worship is given as a definition; no method is described." }
+}

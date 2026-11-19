@@ -1,0 +1,44 @@
+{
+  "number": 776,
+  "verse": 148,
+  "slug": "mandara-kusuma-priya",
+  "devanagari": "मन्दारकुसुमप्रिया",
+  "iastSplit": "Mandāra-kusuma-priyā",
+  "archana": "ॐ मन्दारकुसुमप्रियायै नमः",
+  "syllables": ["man", "dā", "ra", "ku", "su", "map", "ri", "yā"],
+  "words": [
+    { "sa": "मन्दार", "meaning": { "en": "the mandāra, a tree of heaven; also the white arka", "hi": "मन्दार, देववृक्ष; श्वेत अर्क भी" } },
+    { "sa": "कुसुम", "meaning": { "en": "flower", "hi": "कुसुम, फूल" } },
+    { "sa": "प्रिया", "meaning": { "en": "dear", "hi": "प्रिय" } }
+  ],
+  "meaning": {
+    "en": "Who loves the flower of the mandāra tree",
+    "hi": "जिन्हें मन्दार का फूल प्रिय है"
+  },
+  "explanation": {
+    "en": "Mandāra is one of the trees of heaven; Bhāskararāya also identifies it with the white arka plant. Kusuma is flower and priyā means dear. The mandāra flower is dear to her.",
+    "hi": "मन्दार स्वर्ग के वृक्षों में से एक है; भास्करराय इसे श्वेत अर्क (सफ़ेद आक) भी बताते हैं। ‘कुसुम’ का अर्थ है फूल और ‘प्रिया’ का अर्थ है प्रिय। मन्दार का फूल उन्हें प्रिय है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the literal sense and no hidden meaning. His two readings span heaven and earth: the flower of the gods’ own tree and the humble white arka that grows by the roadside are equally dear to her.",
+    "hi": "भास्करराय केवल शाब्दिक अर्थ देते हैं, कोई गूढ़ अर्थ नहीं। उनके दोनों अर्थ स्वर्ग और पृथ्वी को जोड़ते हैं: देवताओं के अपने वृक्ष का फूल और रास्ते के किनारे उगने वाला साधारण सफ़ेद आक, दोनों उन्हें समान रूप से प्रिय हैं।"
+  },
+  "story": {
+    "en": "The Amarakośa counts the mandāra among the five trees of the gods, with the pārijāta and the kalpavṛkṣa. With this name verse 148 ends, having named two flowers dear to her.",
+    "hi": "अमरकोश मन्दार को पारिजात और कल्पवृक्ष के साथ देवताओं के पाँच वृक्षों में गिनता है। इसी नाम से श्लोक 148 पूरा होता है, जिसमें उनके दो प्रिय फूलों के नाम आए हैं।"
+  },
+  "commentary": {
+    "sanskrit": "मन्दारो देवतरुः श्वेतार्को वा तस्य कुसुमं प्रियं यस्याः ।",
+    "translation": {
+      "en": "Mandāra is the tree of the gods, or the white arka; she to whom its flower is dear.",
+      "hi": "मन्दार देवताओं का वृक्ष है, अथवा श्वेत अर्क; उसका फूल जिन्हें प्रिय है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 776 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The inner layer is a reflection on Bhāskararāya’s two glosses. The Amarakośa reference in the story is added here, not taken from the commentary." }
+}

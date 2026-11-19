@@ -1,0 +1,43 @@
+{
+  "number": 216,
+  "verse": 54,
+  "slug": "maha-sattva",
+  "devanagari": "महासत्त्वा",
+  "iastSplit": "Mahā-sattvā",
+  "archana": "ॐ महासत्त्वायै नमः",
+  "syllables": ["ma", "hā", "sat", "tvā"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "सत्त्व", "meaning": { "en": "being, strength, goodness; also living beings", "hi": "सत्ता, बल, सत्त्वगुण; प्राणी भी" } }
+  ],
+  "meaning": {
+    "en": "Great in being, strength and goodness",
+    "hi": "सत्ता, बल और सत्त्व में महान"
+  },
+  "explanation": {
+    "en": "Sattva is a word of many meanings: being, strength, the quality of purity and light, and also living creatures. In every one of these senses, hers is great.",
+    "hi": "‘सत्त्व’ अनेक अर्थों वाला शब्द है: सत्ता, बल, निर्मलता और प्रकाश का गुण, और प्राणी भी। इन सभी अर्थों में उनका सत्त्व महान है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gathers the senses of sattva: the nature of what truly is, strength, the guṇa of clarity, and living beings; the Viśva lexicon adds substance and inner nature. He gives no hidden meaning beyond these. Taken all at once, the name says that all real being, all strength and all clarity are hers, and every living creature is her own.",
+    "hi": "भास्करराय ‘सत्त्व’ के अर्थ एकत्र करते हैं: जो वास्तव में है उसका भाव, बल, निर्मलता का गुण और प्राणी; विश्वकोश इसमें द्रव्य और स्वभाव भी जोड़ता है। वे इनसे आगे कोई गूढ़ अर्थ नहीं देते। सब अर्थ एक साथ लें तो नाम कहता है कि सारी सत्ता, सारा बल और सारी निर्मलता उन्हीं की है, और हर प्राणी उनका अपना है।"
+  },
+  "story": {
+    "en": "Bhāskararāya reads sattva in its widest sense, not only as the guṇa of purity. The next names, Mahāśakti and Mahārati, carry the praise on through power and delight.",
+    "hi": "भास्करराय ‘सत्त्व’ को केवल सत्त्वगुण के अर्थ में नहीं, उसके व्यापकतम अर्थ में पढ़ते हैं। अगले नाम, महाशक्ति और महारति, यही स्तुति शक्ति और आनन्द के रूप में आगे बढ़ाते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "सतो भावो बलं गुणः । प्राणिनश्च सत्त्वपदार्थाः ।",
+    "translation": {
+      "en": "Sattva is the state of what is, strength, and the guṇa; living beings too are what the word sattva means.",
+      "hi": "‘सत्त्व’ का अर्थ है सत् का भाव, बल और गुण; प्राणी भी ‘सत्त्व’ शब्द के अर्थ हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 216 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the senses of sattva; the last sentence of the inner layer is a reflection. The excerpt begins after यद्वा …कृपाबहुला, which belongs to name 215." }
+}

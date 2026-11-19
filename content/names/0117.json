@@ -1,0 +1,44 @@
+{
+  "number": 117,
+  "verse": 41,
+  "slug": "bhakta-saubhagya-dayini",
+  "devanagari": "भक्तसौभाग्यदायिनी",
+  "iastSplit": "Bhakta-saubhāgya-dāyinī",
+  "archana": "ॐ भक्तसौभाग्यदायिन्यै नमः",
+  "syllables": ["bhak", "ta", "sau", "bhāg", "ya", "dā", "yi", "nī"],
+  "words": [
+    { "sa": "भक्त", "meaning": { "en": "devotee", "hi": "भक्त" } },
+    { "sa": "सौभाग्य", "meaning": { "en": "good fortune, blessedness", "hi": "सौभाग्य" } },
+    { "sa": "दायिनी", "meaning": { "en": "she who gives", "hi": "देने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who gives good fortune to her devotees",
+    "hi": "जो भक्तों को सौभाग्य देती हैं"
+  },
+  "explanation": {
+    "en": "Saubhāgya is good fortune in every sense. Bhāskararāya lists the meanings of bhaga given in the Agni Purāṇa: prosperity, desire, greatness, valour, effort, the sun and fame. He also counts as saubhāgya the eight auspicious things of the Padma Purāṇa, among them sugarcane, cumin, cow’s milk, the kusumbha flower and salt, since they serve auspicious rites; all these she gives to her devotees.",
+    "hi": "सौभाग्य हर अर्थ में अच्छा भाग्य है। भास्करराय अग्नि पुराण में दिए ‘भग’ के अर्थ गिनाते हैं: श्री, काम, माहात्म्य, वीर्य, यत्न, सूर्य और कीर्ति। वे पद्म पुराण की आठ मंगल वस्तुओं को भी, जिनमें ईख, जीरा, गाय का दूध, कुसुम्भ का फूल और नमक हैं, सौभाग्य मानते हैं, क्योंकि वे मंगल कार्यों में काम आती हैं; यह सब वे अपने भक्तों को देती हैं।"
+  },
+  "inner": {
+    "en": "His deepest gloss: she in whom all these meanings of bhaga are beautiful is Subhagā, Lalitā herself, and saubhāgya, ‘the state of Subhagā’, is identity with her. The good fortune she gives her devotees is, in the end, oneness with her.",
+    "hi": "उनका सबसे गहरा अर्थ: जिनमें ‘भग’ के ये सब अर्थ शोभन हैं, वे सुभगा हैं, स्वयं ललिता; और सौभाग्य, अर्थात् ‘सुभगा का भाव’, उनसे अभेद है। भक्तों को वे जो सौभाग्य देती हैं, वह अन्ततः उनसे एकत्व ही है।"
+  },
+  "story": {
+    "en": "Bhāskararāya notes that the nine names from Mahāsakti (109) to this one are marked as one group in the coded Chalākṣara Sūtra. With this name the verse of bha names closes.",
+    "hi": "भास्करराय बताते हैं कि महासक्ति (109) से इस नाम तक के नौ नाम सांकेतिक छलाक्षर सूत्र में एक समूह के रूप में चिह्नित हैं। इस नाम के साथ ‘भ’ से आरम्भ होने वाले नामों का यह श्लोक पूरा होता है।"
+  },
+  "commentary": {
+    "sanskrit": "सुभगा ललितैव तस्या भावः सौभाग्यं तदभेद इति यावत् ।",
+    "translation": {
+      "en": "Subhagā is Lalitā herself; her state is saubhāgya, which is to say, identity with her.",
+      "hi": "सुभगा स्वयं ललिता हैं; उनका भाव सौभाग्य है, अर्थात् उनसे अभेद।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 117 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. His note on the group of nine names (109–117) is printed महाशक्तिरित्यारभ्य; see name 109. Of the Padma Purāṇa’s eight auspicious things, तरुराज and निष्पाव are not identified and are left out of the examples." }
+}

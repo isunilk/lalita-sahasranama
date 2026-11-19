@@ -1,0 +1,43 @@
+{
+  "number": 751,
+  "verse": 145,
+  "slug": "maha-kali",
+  "devanagari": "महाकाली",
+  "iastSplit": "Mahā-kālī",
+  "archana": "ॐ महाकाल्यै नमः",
+  "syllables": ["ma", "hā", "kā", "lī"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "काली", "meaning": { "en": "she who drives all things to their end; the dark Goddess", "hi": "काली, जो सबको अन्त की ओर ले चलती हैं" } }
+  ],
+  "meaning": {
+    "en": "The great Kālī, who holds even Death in her sway",
+    "hi": "महाकाली, जिनके वश में मृत्यु भी है"
+  },
+  "explanation": {
+    "en": "Kālī is she who drives all things on toward their end; the word comes from kālayati, ‘she drives’. She is mahā, great, because she drives even Death, who ends every being.",
+    "hi": "‘काली’ वे हैं जो सब कुछ उसके अन्त की ओर ले चलती हैं; यह शब्द ‘कालयति’ (वे चलाती हैं) से बना है। वे ‘महा’, अर्थात् महान, हैं, क्योंकि जो मृत्यु हर प्राणी का अन्त करती है, उसे भी वे ही चलाती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes a verse he ascribes to Kālidāsa, in which Yama, the god of death, skilled in the sport of restraining all beings, is himself driven by her. The power that ends every creature is itself held in her hand.",
+    "hi": "भास्करराय एक श्लोक उद्धृत करते हैं, जिसे वे कालिदास का बताते हैं: सब प्राणियों को वश में रखने की क्रीड़ा में निपुण यम भी उन्हीं के द्वारा चलाए जाते हैं। जो शक्ति हर प्राणी का अन्त करती है, वह स्वयं उनके हाथ में है।"
+  },
+  "story": {
+    "en": "Bhāskararāya also reads the name as ‘the consort of Mahākāla’, the form of Śiva who presides over the sacred seat of Ujjayinī. With Mahāgrāsā and Mahāśanā that follow, it shows her as the one into whom all things return.",
+    "hi": "भास्करराय इस नाम को ‘महाकाल की पत्नी’ के अर्थ में भी पढ़ते हैं, अर्थात् उज्जयिनी पीठ के अधीश्वर शिव की शक्ति। आगे आने वाले ‘महाग्रासा’ और ‘महाशना’ के साथ यह उन्हें वह दिखाता है जिनमें सब कुछ लौट जाता है।"
+  },
+  "commentary": {
+    "sanskrit": "महती च सा काली च । कालयतीति काली । कालने महत्वं तु मृत्योरपि कालनात् ।",
+    "translation": {
+      "en": "Great, and Kālī. She is Kālī because she drives (kālayati). Her greatness in driving is that she drives even Death.",
+      "hi": "महान भी और काली भी। जो (सबको) चलाती हैं, वे काली हैं। इस चलाने में उनकी महानता यह है कि वे मृत्यु को भी चलाती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 751 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. ‘Drives’ renders कालयति. The edition introduces the Kālidāsa verse with तहा च कालिदासः, evidently a misprint for तथा च; the verse is only paraphrased in the inner layer, and loosely. The last sentence of the inner layer is a reflection." }
+}

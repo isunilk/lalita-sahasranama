@@ -1,0 +1,42 @@
+{
+  "number": 122,
+  "verse": 42,
+  "slug": "shambhavi",
+  "devanagari": "शाम्भवी",
+  "iastSplit": "Śāmbhavī",
+  "archana": "ॐ शाम्भव्यै नमः",
+  "syllables": ["śām", "bha", "vī"],
+  "words": [
+    { "sa": "शाम्भवी", "meaning": { "en": "Śāmbhavī: belonging to Śambhu (Śiva); his consort", "hi": "शाम्भवी: शम्भु (शिव) की, उनकी शक्ति" } }
+  ],
+  "meaning": {
+    "en": "Consort of Śambhu, mother of his devotees",
+    "hi": "शम्भु की शक्ति, शिव-भक्तों की माता"
+  },
+  "explanation": {
+    "en": "Śambhu, ‘source of happiness’, is a name of Śiva, and Śāmbhavī is his consort. Bhāskararāya adds that she is the mother of the Śāmbhavas, the worshippers of Śambhu.",
+    "hi": "‘शम्भु’, अर्थात् सुख के स्रोत, शिव का नाम है, और शाम्भवी उनकी शक्ति हैं। भास्करराय जोड़ते हैं कि वे शाम्भवों, अर्थात् शम्भु के उपासकों, की माता भी हैं।"
+  },
+  "inner": {
+    "en": "The word has technical senses too, and Bhāskararāya lists them: in yoga, Śāmbhavī is the name of a particular mudrā; in the Kalpasūtra it is one of three kinds of dīkṣā, initiation, with the śākta and the māntrī; and in the Devī Bhāgavata it is the name for an eight-year-old girl honoured as the Goddess. She is the reality behind each of these. The details of the mudrā and the initiation belong to the teacher and are not given here.",
+    "hi": "इस शब्द के पारिभाषिक अर्थ भी हैं, जिन्हें भास्करराय गिनाते हैं: योगशास्त्र में शाम्भवी एक विशेष मुद्रा का नाम है; कल्पसूत्र में यह शाक्ती और मान्त्री के साथ तीन प्रकार की दीक्षाओं में से एक है; और देवी भागवत में यह आठ वर्ष की उस कन्या का नाम है जिसका देवी के रूप में पूजन होता है। वे इन सबका स्वरूप हैं। मुद्रा और दीक्षा का विवरण गुरु से जानने का विषय है, और यहाँ नहीं दिया गया है।"
+  },
+  "story": {
+    "en": "With Śāmbhavī the hymn begins a run of names that link her to Śiva under his different names, Śāmbhavī (Śambhu), Śarvāṇī (Śarva) and Śāṅkarī (Śaṅkara), set among other names beginning with śa.",
+    "hi": "शाम्भवी से स्तोत्र ऐसे नामों की श्रृंखला आरम्भ करता है जो शिव के अलग-अलग नामों से उन्हें जोड़ते हैं, शाम्भवी (शम्भु), शर्वाणी (शर्व) और शाङ्करी (शङ्कर), और जो ‘श’ से आरम्भ होने वाले अन्य नामों के बीच गुँथे हैं।"
+  },
+  "commentary": {
+    "sanskrit": "शम्भोरियं स्त्री शाम्भवानामियं माता वा शाम्भवी ।",
+    "translation": {
+      "en": "She is the wife of Śambhu, or the mother of the Śāmbhavas; hence Śāmbhavī.",
+      "hi": "वे शम्भु की पत्नी हैं, अथवा शाम्भवों की माता; इसलिए शाम्भवी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 122 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The yogic mudrā and the kinds of dīkṣā are named only; the definition of the mudrā that he quotes is not reproduced." }
+}

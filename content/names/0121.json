@@ -1,0 +1,43 @@
+{
+  "number": 121,
+  "verse": 42,
+  "slug": "bhayapaha",
+  "devanagari": "भयापहा",
+  "iastSplit": "Bhayāpahā",
+  "archana": "ॐ भयापहायै नमः",
+  "syllables": ["bha", "yā", "pa", "hā"],
+  "words": [
+    { "sa": "भय", "meaning": { "en": "fear", "hi": "भय, डर" } },
+    { "sa": "अपहा", "meaning": { "en": "she who removes, drives away", "hi": "दूर करने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who drives away all fear",
+    "hi": "जो सब भय दूर करती हैं"
+  },
+  "explanation": {
+    "en": "She removes every fear, says Bhāskararāya: fears arising on water or on land, and every other. He quotes the Vāyu Purāṇa: in a forest or a wilderness, on water or on land, in danger from tigers, crocodiles or thieves, and in every distress of mind, one should recite the names of the Devī.",
+    "hi": "भास्करराय कहते हैं कि वे सब भय दूर करती हैं: जल में, स्थल पर, और अन्य सब कारणों से उत्पन्न भय। वे वायु पुराण का वचन देते हैं: वन में या निर्जन प्रदेश में, जल में या स्थल पर, बाघ, मगरमच्छ या चोर के डर से, भय के हर स्थान पर और मन के सब कष्टों में, देवी के नामों का कीर्तन करना चाहिए।"
+  },
+  "inner": {
+    "en": "For the deepest sense he cites the Taittirīya Upaniṣad: ‘one who knows the bliss of Brahman fears nothing at all’. She removes outer dangers, and, known as that bliss, she removes fear at its root.",
+    "hi": "सबसे गहरे अर्थ के लिए वे तैत्तिरीय उपनिषद् का वचन देते हैं: ‘ब्रह्म के आनन्द को जानने वाला किसी से नहीं डरता’। वे बाहर के संकट दूर करती हैं, और उस आनन्द के रूप में जानी जाने पर भय को जड़ से मिटा देती हैं।"
+  },
+  "story": {
+    "en": "The verse he quotes asks that the Devī’s names be recited in every place of fear; this name is itself such a recitation.",
+    "hi": "जो वचन वे उद्धृत करते हैं, वह भय के हर स्थान पर देवी के नामों के कीर्तन को कहता है; यह नाम स्वयं ऐसा ही एक कीर्तन है।"
+  },
+  "commentary": {
+    "sanskrit": "भयानि जलस्थलादिप्रयुक्तादीनि सर्वाण्यपहन्तीति भयापहा ।",
+    "translation": {
+      "en": "She drives away all fears, those arising from water, land and the rest; hence Bhayāpahā.",
+      "hi": "जल, स्थल आदि से उत्पन्न सब भयों को वे दूर करती हैं, इसलिए भयापहा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 121 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The closing clause of the inner layer (‘known as that bliss’) draws out his citation of the Taittirīya Upaniṣad." }
+}

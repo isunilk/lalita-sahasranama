@@ -1,0 +1,43 @@
+{
+  "number": 127,
+  "verse": 43,
+  "slug": "shri-kari",
+  "devanagari": "श्रीकरी",
+  "iastSplit": "Śrī-karī",
+  "archana": "ॐ श्रीकर्यै नमः",
+  "syllables": ["śrī", "ka", "rī"],
+  "words": [
+    { "sa": "श्री", "meaning": { "en": "prosperity, beauty, auspiciousness; Lakṣmī", "hi": "श्री, समृद्धि, सौन्दर्य, मंगल; लक्ष्मी" } },
+    { "sa": "करी", "meaning": { "en": "she who makes, brings about", "hi": "करने वाली, रचने वाली" } }
+  ],
+  "meaning": {
+    "en": "Maker of śrī: prosperity, beauty and all that is auspicious",
+    "hi": "श्री की रचयिता: समृद्धि, सौन्दर्य और सब मंगल"
+  },
+  "explanation": {
+    "en": "Karī is ‘she who makes’, and she makes śrī: wealth, beauty and auspiciousness. Bhāskararāya gives a second reading: Śrīkara is a name of Viṣṇu in the Viṣṇu Sahasranāma (‘Śrīdhara, Śrīkara, Śrīmān’), and she, as his, is Śrīkarī.",
+    "hi": "‘करी’ का अर्थ है करने वाली, और वे ‘श्री’ की रचना करती हैं: धन, सौन्दर्य और मंगल। भास्करराय दूसरा अर्थ भी देते हैं: विष्णु सहस्रनाम में ‘श्रीकर’ विष्णु का नाम है (‘श्रीधरः श्रीकरः श्रीमान्’), और उनकी होने से वे श्रीकरी हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only these two senses. As a reflection: with Śāṅkarī just before, the two names hold Śiva’s welfare and Viṣṇu’s prosperity together in one Devī. Name 1 called her Śrīmātā, mother of Śrī; here she is the maker of śrī.",
+    "hi": "भास्करराय केवल ये दो अर्थ देते हैं। चिन्तन के रूप में: ठीक पहले के ‘शाङ्करी’ के साथ ये दोनों नाम शिव के कल्याण और विष्णु की श्री को एक ही देवी में समेटते हैं। नाम 1 ने उन्हें ‘श्रीमाता’, श्री की माता, कहा था; यहाँ वे श्री की रचयिता हैं।"
+  },
+  "story": {
+    "en": "In Bhāskararāya’s second reading the name ties the Devī to Viṣṇu through a phrase of the Viṣṇu Sahasranāma. Śrī itself can mean wealth, beauty, auspiciousness or Lakṣmī, so ‘maker of śrī’ can be heard in each of these senses.",
+    "hi": "भास्करराय के दूसरे अर्थ में यह नाम विष्णु सहस्रनाम के एक वचन द्वारा देवी को विष्णु से जोड़ता है। ‘श्री’ का अर्थ धन, सौन्दर्य, मंगल या स्वयं लक्ष्मी हो सकता है, अतः ‘श्री की रचयिता’ को इनमें से हर अर्थ में समझा जा सकता है।"
+  },
+  "commentary": {
+    "sanskrit": "करोतीति करी श्रियः करी । श्रीकरो विष्णुः ।",
+    "translation": {
+      "en": "She makes, so she is karī: the maker of śrī. Or: Śrīkara is Viṣṇu.",
+      "hi": "जो करती हैं वे करी; श्री की करी, अर्थात् रचयिता। अथवा श्रीकर विष्णु हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 127 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the two senses; the inner layer is a reflection." }
+}
