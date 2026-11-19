@@ -1,0 +1,42 @@
+{
+  "number": 310,
+  "verse": 71,
+  "slug": "ramani",
+  "devanagari": "रमणी",
+  "iastSplit": "Ramaṇī",
+  "archana": "ॐ रमण्यै नमः",
+  "syllables": ["ra", "ma", "ṇī"],
+  "words": [
+    { "sa": "रमणी", "meaning": { "en": "she who gives delight; she who plays", "hi": "आनन्द देने वाली; क्रीड़ा करने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who delights her devotees and plays among them",
+    "hi": "भक्तों को आनन्द देने वाली, उनके साथ क्रीड़ा करने वाली"
+  },
+  "explanation": {
+    "en": "Ramaṇī comes from ram, to delight. Bhāskararāya reads it as she who delights her devotees and plays with them.",
+    "hi": "‘रमणी’ ‘रम्’ धातु से बना है, जिसका अर्थ है आनन्दित होना। भास्करराय इसका अर्थ करते हैं: वे भक्तों को आनन्दित करती हैं और उनके साथ क्रीड़ा करती हैं।"
+  },
+  "inner": {
+    "en": "He cites the Vedic words “eating, playing, delighting”, which in the Chāndogya Upaniṣad describe the freed self. Her play with her devotees has that same freedom: joy that needs no reason.",
+    "hi": "वे श्रुति का वचन देते हैं: ‘खाता, खेलता, रमता हुआ’; छान्दोग्य उपनिषद् में यह मुक्त आत्मा का वर्णन है। भक्तों के साथ उनकी क्रीड़ा में भी वही स्वतन्त्रता है: ऐसा आनन्द, जिसे किसी कारण की आवश्यकता नहीं।"
+  },
+  "story": {
+    "en": "In everyday Sanskrit ramaṇī is a word for a beautiful woman, one who gladdens the heart. In the hymn it stands between Rañjanī, she who delights, and Rasyā, she who is to be relished.",
+    "hi": "साधारण संस्कृत में ‘रमणी’ सुन्दर स्त्री को कहते हैं, जो मन को आनन्दित करे। स्तोत्र में यह ‘रञ्जनी’ (आनन्दित करने वाली) और ‘रस्या’ (आस्वादन योग्य) के बीच आता है।"
+  },
+  "commentary": {
+    "sanskrit": "भक्तान् रमयति तैः सह क्रीडतीति रमणी ।",
+    "translation": {
+      "en": "She delights her devotees and plays with them; so she is Ramaṇī.",
+      "hi": "वे भक्तों को रमाती हैं और उनके साथ क्रीड़ा करती हैं, इसलिए रमणी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 310 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya cites the words जक्षन् क्रीडन् रममाणः only as śruti; identifying them as Chāndogya Upaniṣad 8.12.3 is the drafter’s. The second sentence of the inner layer is a reflection." }
+}

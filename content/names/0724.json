@@ -1,0 +1,44 @@
+{
+  "number": 724,
+  "verse": 140,
+  "slug": "sarva-tantreshi",
+  "devanagari": "सर्वतन्त्रेशी",
+  "iastSplit": "Sarva-tantreśī",
+  "archana": "ॐ सर्वतन्त्रेश्यै नमः",
+  "syllables": ["sar", "va", "tan", "tre", "śī"],
+  "words": [
+    { "sa": "सर्व", "meaning": { "en": "all", "hi": "सब, समस्त" } },
+    { "sa": "तन्त्र", "meaning": { "en": "tantra, a body of sacred teaching and worship", "hi": "तन्त्र, उपासना-शास्त्र" } },
+    { "sa": "ईशी", "meaning": { "en": "sovereign lady", "hi": "स्वामिनी, ईश्वरी" } }
+  ],
+  "meaning": {
+    "en": "Sovereign of all the tantras",
+    "hi": "सभी तन्त्रों की स्वामिनी"
+  },
+  "explanation": {
+    "en": "Bhāskararāya says she rules all the tantras, sixty-four in number, and gives them their power. The tantras are scriptures of worship and inner discipline, and each of them draws its force from her.",
+    "hi": "भास्करराय कहते हैं कि वे चौंसठ तन्त्रों की स्वामिनी हैं और उन्हें सामर्थ्य देती हैं। तन्त्र उपासना और आन्तरिक साधना के शास्त्र हैं, और प्रत्येक की शक्ति उन्हीं से आती है।"
+  },
+  "inner": {
+    "en": "He gives no hidden meaning here beyond her lordship. In reflection, a scripture is only as alive as the power that speaks through it; she is that power, which is why the previous name could call every tantra her own.",
+    "hi": "यहाँ वे उनके स्वामित्व से आगे कोई गूढ़ अर्थ नहीं देते। चिन्तन के रूप में: कोई भी शास्त्र उतना ही जीवन्त है जितनी उसमें बोलने वाली शक्ति; वे वही शक्ति हैं, इसीलिए पिछले नाम में हर तन्त्र को उनका अपना कहा गया।"
+  },
+  "story": {
+    "en": "The tradition counts sixty-four tantras. In the Saundaryalaharī, Śiva first gives the world sixty-four tantras and then, at the Devī’s urging, her own tantra, which grants every aim of life. The hymn has earlier called her Sarvatantrarūpā, the form of all the tantras (name 206).",
+    "hi": "परम्परा चौंसठ तन्त्र मानती है। सौन्दर्यलहरी में शिव पहले संसार को चौंसठ तन्त्र देते हैं, फिर देवी के आग्रह पर उनका अपना तन्त्र, जो जीवन के सभी पुरुषार्थ देता है। स्तोत्र पहले उन्हें ‘सर्वतन्त्ररूपा’, अर्थात् सब तन्त्रों का स्वरूप, कह चुका है (नाम 206)।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वाणि चतुःषष्टिसंख्याकानि तन्त्राणीष्टे समर्थयति ।",
+    "translation": {
+      "en": "She is sovereign over all the tantras, sixty-four in number; she makes them effective.",
+      "hi": "वे चौंसठ संख्या वाले सभी तन्त्रों की स्वामिनी हैं, उन्हें समर्थ बनाती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 724 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The inner layer beyond her lordship is a reflection. The Saundaryalaharī reference (verse 31) is general context, not cited by Bhāskararāya here." }
+}

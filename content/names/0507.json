@@ -1,0 +1,43 @@
+{
+  "number": 507,
+  "verse": 104,
+  "slug": "pita-varna",
+  "devanagari": "पीतवर्णा",
+  "iastSplit": "Pīta-varṇā",
+  "archana": "ॐ पीतवर्णायै नमः",
+  "syllables": ["pī", "ta", "var", "ṇā"],
+  "words": [
+    { "sa": "पीत", "meaning": { "en": "yellow", "hi": "पीला" } },
+    { "sa": "वर्ण", "meaning": { "en": "colour, complexion", "hi": "वर्ण, रंग" } }
+  ],
+  "meaning": {
+    "en": "Yellow in complexion",
+    "hi": "पीत वर्ण वाली"
+  },
+  "explanation": {
+    "en": "Kākinī is yellow. Bhāskararāya explains it simply: she whose colour is yellow. The meditation verse he quotes also calls her pītā, the yellow one.",
+    "hi": "काकिनी पीत वर्ण की हैं। भास्करराय इसे सरलता से समझाते हैं: जिनका वर्ण पीला है। उनके उद्धृत ध्यान-श्लोक में भी उन्हें ‘पीता’, अर्थात् पीत वर्ण वाली, कहा गया है।"
+  },
+  "inner": {
+    "en": "He gives only the literal sense, with no hidden meaning. Each yoginī is known by her colour, and the colours change from centre to centre as the hymn moves through the body.",
+    "hi": "वे केवल शाब्दिक अर्थ देते हैं, कोई गूढ़ अर्थ नहीं। हर योगिनी अपने वर्ण से पहचानी जाती है, और स्तोत्र जैसे-जैसे शरीर में आगे बढ़ता है, वर्ण हर चक्र में बदलते जाते हैं।"
+  },
+  "story": {
+    "en": "In the chanted verse this name runs into the next, pītavarṇā’tigarvitā; the avagraha (ऽ) marks where the final ā and the initial a of atigarvitā have merged. The colours named so far are rose-red for Ḍākinī, dark for Rākiṇī, red for Lākinī and now yellow for Kākinī.",
+    "hi": "श्लोक में यह नाम अगले से जुड़कर ‘पीतवर्णाऽतिगर्विता’ बनता है; अवग्रह (ऽ) उस स्थान का चिह्न है जहाँ अन्तिम ‘आ’ और ‘अतिगर्विता’ का आरम्भिक ‘अ’ मिल गए हैं। अब तक के वर्ण हैं: डाकिनी हल्की लाल, राकिणी श्याम, लाकिनी लाल और अब काकिनी पीली।"
+  },
+  "commentary": {
+    "sanskrit": "पीतो वर्णो यस्याः सा ।",
+    "translation": {
+      "en": "She whose colour is yellow.",
+      "hi": "जिनका वर्ण पीला है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 507 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense." }
+}

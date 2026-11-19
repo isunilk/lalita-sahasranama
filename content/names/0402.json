@@ -1,0 +1,44 @@
+{
+  "number": 402,
+  "verse": 87,
+  "slug": "vidyavidya-svarupini",
+  "devanagari": "विद्याविद्यास्वरूपिणी",
+  "iastSplit": "Vidyāvidyā-svarūpiṇī",
+  "archana": "ॐ विद्याविद्यास्वरूपिण्यै नमः",
+  "syllables": ["vid", "yā", "vid", "yās", "va", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "विद्या", "meaning": { "en": "knowledge", "hi": "विद्या, ज्ञान" } },
+    { "sa": "अविद्या", "meaning": { "en": "ignorance, nescience", "hi": "अविद्या, अज्ञान" } },
+    { "sa": "स्वरूपिणी", "meaning": { "en": "having as her own form", "hi": "स्वरूप वाली" } }
+  ],
+  "meaning": {
+    "en": "Whose form is both knowledge and ignorance",
+    "hi": "विद्या और अविद्या, दोनों जिनका स्वरूप हैं"
+  },
+  "explanation": {
+    "en": "Vidyā is the knowledge that frees, and avidyā the ignorance that binds. Both are her forms: she is the bondage and she is the release.",
+    "hi": "विद्या वह ज्ञान है जो मुक्त करता है, और अविद्या वह अज्ञान है जो बाँधता है। दोनों उन्हीं के रूप हैं: बन्धन भी वही हैं और मुक्ति भी।"
+  },
+  "inner": {
+    "en": "Bhāskararāya begins from the Īśa Upaniṣad: by avidyā one crosses death, and by vidyā one attains immortality. In that sense vidyā is knowledge that is one’s own Self, and avidyā is knowledge in the form of the final modification of the mind (carama-vṛtti); both are her form. He also quotes the Devī Bhāgavata: vidyā and avidyā are the Devī’s two forms; by one a being is freed, by the other bound again.",
+    "hi": "भास्करराय ईश उपनिषद् से आरम्भ करते हैं: अविद्या से मनुष्य मृत्यु को पार करता है, और विद्या से अमृत प्राप्त करता है। इस अर्थ में विद्या आत्मस्वरूप ज्ञान है, और अविद्या मन की अन्तिम वृत्ति (चरमवृत्ति) के रूप वाला ज्ञान; दोनों उनका स्वरूप हैं। वे देवीभागवत का वचन भी देते हैं: विद्या और अविद्या देवी के दो रूप हैं; एक से जीव मुक्त होता है, दूसरे से फिर बँधता है।"
+  },
+  "story": {
+    "en": "In a second reading he finds three terms in the name: vidyā; avidyā, the illusion of difference; and sva, the Self, supreme Brahman. He supports this with the Liṅga Purāṇa: illusion, knowledge and the supreme, these three are the form of Śiva.",
+    "hi": "दूसरे अर्थ में वे इस नाम में तीन पद देखते हैं: विद्या; भेद-भ्रान्ति रूप अविद्या; और ‘स्व’, अर्थात् आत्मा, परब्रह्म। इसके लिए वे लिङ्गपुराण का प्रमाण देते हैं: भ्रान्ति, विद्या और पर, ये तीनों शिव का रूप हैं।"
+  },
+  "commentary": {
+    "sanskrit": "विद्या स्वात्मरूपं ज्ञानम् । अविद्या चरमवृत्तिरूपं ज्ञानम् । तदुभयं स्वरूपमस्याः ।",
+    "translation": {
+      "en": "Vidyā is knowledge that is one’s own Self. Avidyā is knowledge in the form of the final modification of the mind. Both are her own form.",
+      "hi": "विद्या आत्मस्वरूप ज्ञान है। अविद्या चरमवृत्ति रूप ज्ञान है। ये दोनों उनका स्वरूप हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 402 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The verse writes विद्याऽविद्या with an avagraha marking the elided अ of अविद्या; the name is stored without it, as in the nāmāvali and the Saubhāgya Bhāskara edition. Check the English rendering of चरमवृत्तिरूपं ज्ञानम्. In his second reading the last member is divided स्व + रूपिणी." }
+}

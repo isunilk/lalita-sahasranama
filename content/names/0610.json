@@ -1,0 +1,113 @@
+{
+  "number": 610,
+  "verse": 122,
+  "slug": "pratipan-mukhya-rakanta-tithi-mandala-pujita",
+  "devanagari": "प्रतिपन्मुख्यराकान्ततिथिमण्डलपूजिता",
+  "iastSplit": "Pratipan-mukhya-rākānta-tithi-maṇḍala-pūjitā",
+  "archana": "ॐ प्रतिपन्मुख्यराकान्ततिथिमण्डलपूजितायै नमः",
+  "syllables": [
+    "pra",
+    "ti",
+    "pan",
+    "mukh",
+    "ya",
+    "rā",
+    "kān",
+    "ta",
+    "ti",
+    "thi",
+    "maṇ",
+    "ḍa",
+    "la",
+    "pū",
+    "ji",
+    "tā"
+  ],
+  "words": [
+    {
+      "sa": "प्रतिपद्",
+      "meaning": {
+        "en": "the first lunar day",
+        "hi": "प्रतिपदा, पहली तिथि"
+      }
+    },
+    {
+      "sa": "मुख्य",
+      "meaning": {
+        "en": "first, beginning with",
+        "hi": "प्रथम, आरम्भ में"
+      }
+    },
+    {
+      "sa": "राका",
+      "meaning": {
+        "en": "the full-moon day",
+        "hi": "राका, पूर्णिमा"
+      }
+    },
+    {
+      "sa": "अन्त",
+      "meaning": {
+        "en": "end",
+        "hi": "अन्त"
+      }
+    },
+    {
+      "sa": "तिथि",
+      "meaning": {
+        "en": "lunar day",
+        "hi": "तिथि"
+      }
+    },
+    {
+      "sa": "मण्डल",
+      "meaning": {
+        "en": "circle, assembly",
+        "hi": "मण्डल, समूह"
+      }
+    },
+    {
+      "sa": "पूजिता",
+      "meaning": {
+        "en": "worshipped",
+        "hi": "पूजित"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Worshipped by the circle of lunar days, first to full moon",
+    "hi": "प्रतिपदा से पूर्णिमा तक के तिथि-मण्डल द्वारा पूजित"
+  },
+  "explanation": {
+    "en": "Pratipad is the first day of the lunar fortnight and rākā is the full-moon day. Between them lie the fifteen tithis, or lunar days. She is worshipped through all of them, for the tantras prescribe a different form of her worship for each day.",
+    "hi": "‘प्रतिपद्’ पक्ष की पहली तिथि है और ‘राका’ पूर्णिमा। उनके बीच पन्द्रह तिथियाँ हैं। इन सब तिथियों में उनकी पूजा होती है, क्योंकि तन्त्र प्रत्येक तिथि के लिए उनकी पूजा का अलग विधान बताते हैं।"
+  },
+  "inner": {
+    "en": "In Bhāskararāya’s second reading the first and last days stand for Kāmeśvarī and Citrā, the first and last of the Nityā goddesses, and tithi means a Nityā. The whole circle of Nityās worships her, set around her as the three lines of the triangle. In a third reading the circle is that of the deities who preside over the lunar days, whom the Varāha Purāṇa lists: Agni, the Aśvins, Gaurī, Gaṇapati and the rest.",
+    "hi": "भास्करराय के दूसरे अर्थ में पहली और अन्तिम तिथि कामेश्वरी और चित्रा की सूचक हैं, जो नित्या देवियों में पहली और अन्तिम हैं, और ‘तिथि’ का अर्थ है नित्या। सारा नित्यामण्डल त्रिकोण की तीन रेखाओं के रूप में उन्हें घेरकर उनकी पूजा करता है। तीसरे अर्थ में यह मण्डल तिथियों के अधिष्ठाता देवताओं का है, जिन्हें वराह पुराण गिनाता है: अग्नि, अश्विनीकुमार, गौरी, गणपति आदि।"
+  },
+  "story": {
+    "en": "The fifteen Nityās are goddesses of the fifteen lunar days, worshipped around the central triangle of the Śrīcakra. In the tradition Lalitā herself is counted as the sixteenth.",
+    "hi": "पन्द्रह नित्याएँ पन्द्रह तिथियों की देवियाँ हैं, जिनकी पूजा श्रीचक्र के मध्य त्रिकोण के चारों ओर होती है। परम्परा में स्वयं ललिता को सोलहवीं नित्या माना जाता है।"
+  },
+  "commentary": {
+    "sanskrit": "यद्वा प्रतिपद्राकाशब्दौ कामेश्वरीचित्रापरौ । तिथिशब्दो नित्यापरः । तेन नित्यामण्डलेन पूजिता त्रिकोणरेखात्रयरूपेणावृता ।",
+    "translation": {
+      "en": "Or: the words pratipad and rākā refer to Kāmeśvarī and Citrā, and the word tithi to the Nityās. So she is worshipped by the circle of the Nityās, who surround her as the three lines of the triangle.",
+      "hi": "अथवा ‘प्रतिपद्’ और ‘राका’ शब्द कामेश्वरी और चित्रा के सूचक हैं, और ‘तिथि’ शब्द नित्या का। अतः वे नित्यामण्डल द्वारा पूजित हैं, जो त्रिकोण की तीन रेखाओं के रूप में उन्हें घेरे हुए है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 610 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. Bhāskararāya’s first gloss is printed with ‘यस्मिस्तस्मिस्’ (for यस्मिंस्तस्मिंस्), so his second reading is quoted instead. He notes that the Kādimata counts amāvāsyā as the fifteenth day and the full moon as the sixteenth, while here rākā is the fifteenth. That Lalitā is counted as the sixteenth Nityā comes from the wider tradition, not from this passage; check."
+  }
+}

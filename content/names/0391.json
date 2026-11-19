@@ -1,0 +1,44 @@
+{
+  "number": 391,
+  "verse": 85,
+  "slug": "nitya-shodashika-rupa",
+  "devanagari": "नित्याषोडशिकारूपा",
+  "iastSplit": "Nityā-ṣoḍaśikā-rūpā",
+  "archana": "ॐ नित्याषोडशिकारूपायै नमः",
+  "syllables": ["nit", "yā", "ṣo", "ḍa", "śi", "kā", "rū", "pā"],
+  "words": [
+    { "sa": "नित्या", "meaning": { "en": "the Nityās, goddesses of the lunar days", "hi": "नित्या देवियाँ, तिथियों की देवियाँ" } },
+    { "sa": "षोडशिका", "meaning": { "en": "group of sixteen", "hi": "सोलह का समूह" } },
+    { "sa": "रूप", "meaning": { "en": "form", "hi": "रूप" } }
+  ],
+  "meaning": {
+    "en": "Whose forms are the sixteen Nityā goddesses",
+    "hi": "सोलह नित्या देवियाँ जिनके रूप हैं"
+  },
+  "explanation": {
+    "en": "The Nityās are the goddesses of the lunar days, from Kāmeśvarī to Tripurasundarī, sixteen in all. They are all her forms.",
+    "hi": "नित्याएँ चन्द्र तिथियों की देवियाँ हैं, कामेश्वरी से त्रिपुरसुन्दरी तक, कुल सोलह। ये सब उन्हीं के रूप हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes the Tantrarāja: the other fifteen are limbs of Lalitā, the first, and as the one who has those limbs she is the very self of them all. The fifteen lunar days are her parts, and she is the whole, the sixteenth. He also reads ṣoḍaśikā through the Vedic ṣoḍaśin rite, by which she is pleased.",
+    "hi": "भास्करराय तन्त्रराज का वचन उद्धृत करते हैं: आद्या ललिता की अन्य पन्द्रह नित्याएँ अंग हैं, और अंगी होने के कारण वे सबकी आत्मा हैं। पन्द्रह तिथियाँ उनके अंग हैं, और वे स्वयं पूर्ण, सोलहवीं हैं। वे ‘षोडशिका’ को वैदिक षोडशी याग के सन्दर्भ में भी पढ़ते हैं, जिससे वे प्रसन्न होती हैं।"
+  },
+  "story": {
+    "en": "In Śrīvidyā the fifteen Nityās are linked with the fifteen days of the lunar fortnight; Nityaklinnā (name 388) is the third. Lalitā herself, Tripurasundarī, is the sixteenth, the whole of which they are parts.",
+    "hi": "श्रीविद्या में पन्द्रह नित्याएँ पक्ष की पन्द्रह तिथियों से जुड़ी हैं; नित्यक्लिन्ना (नाम 388) तीसरी हैं। स्वयं ललिता, त्रिपुरसुन्दरी, सोलहवीं हैं, वह पूर्ण जिसके ये अंग हैं।"
+  },
+  "commentary": {
+    "sanskrit": "षोडशैवषोडशिकाः नित्याश्च ताः षोडशिकाश्च कामेश्वर्यादित्रिपुरसुन्दर्यन्तास्तासां रूपाणि यस्याः सा ।",
+    "translation": {
+      "en": "The sixteen themselves are the ṣoḍaśikās; they are Nityās and they are the sixteen, from Kāmeśvarī to Tripurasundarī. She whose forms they are.",
+      "hi": "सोलह ही षोडशिकाएँ हैं; वे नित्याएँ भी हैं और षोडशिकाएँ भी, कामेश्वरी से त्रिपुरसुन्दरी तक। वे जिनके रूप हैं, वे नित्याषोडशिकारूपा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 391 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The long ā of नित्या in the compound follows Bhāskararāya’s analysis (नित्याश्च ताः षोडशिकाश्च). The edition prints षोडशैवषोडशिकाः without a space; quoted as printed. His further reading through the ṣoḍaśī (with a Śakti Rahasya verse on its utterance) is mentioned only briefly, without the mantra." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 149,
+  "verse": 45,
+  "slug": "nitya-buddha",
+  "devanagari": "नित्यबुद्धा",
+  "iastSplit": "Nitya-buddhā",
+  "archana": "ॐ नित्यबुद्धायै नमः",
+  "syllables": ["nit", "ya", "bud", "dhā"],
+  "words": [
+    { "sa": "नित्य", "meaning": { "en": "ever, always", "hi": "सदा, नित्य" } },
+    { "sa": "बुद्ध", "meaning": { "en": "awake, aware, knowing", "hi": "प्रबुद्ध, ज्ञानमय" } }
+  ],
+  "meaning": {
+    "en": "Ever awake, pure awareness itself",
+    "hi": "सदा प्रबुद्ध, स्वयं ज्ञानस्वरूपा"
+  },
+  "explanation": {
+    "en": "Buddha here means awake or aware. Her awareness never sleeps or lapses; she does not come to know, she is knowing itself.",
+    "hi": "यहाँ ‘बुद्ध’ का अर्थ है जागा हुआ, ज्ञानयुक्त। उनकी चेतना कभी सोती या चूकती नहीं; वे ज्ञान को पाने वाली नहीं, स्वयं ज्ञान हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says she is consciousness itself, with the Upaniṣad’s words in mind: “there is no break in the knowing of the knower.” The Upaniṣad says this of deep sleep: even when nothing is known, the knower’s light has not gone out. That unbroken awareness is what this name calls her.",
+    "hi": "भास्करराय कहते हैं कि वे चिद्रूपा, अर्थात् स्वयं चेतना हैं; उनके मन में उपनिषद् का यह वचन है: ‘ज्ञाता के ज्ञान का कभी लोप नहीं होता।’ उपनिषद् यह बात गहरी नींद के प्रसंग में कहता है: जब कुछ भी जाना नहीं जाता, तब भी ज्ञाता का प्रकाश बुझता नहीं। यही अखण्ड चेतना इस नाम में उनका स्वरूप है।"
+  },
+  "story": {
+    "en": "Bhāskararāya adds a reading from the ritual worship of the six darśanas, the philosophical systems, in which the Devī is honoured even as the deity of the Jaina system. In that reading the pair Nityaśuddhā and Nityabuddhā means she by whose grace Śuddha and Buddha, two Jinas, are eternal; she is the goddess Tārā whom they worship.",
+    "hi": "भास्करराय षड्दर्शन-पूजा से एक अर्थ और देते हैं, जिसमें देवी की पूजा जैन दर्शन की उपास्य देवी के रूप में भी होती है। उस अर्थ में ‘नित्यशुद्धा, नित्यबुद्धा’ का भाव है: जिनकी कृपा से शुद्ध और बुद्ध नामक दो जिन नित्य हैं; वे उनकी उपास्य देवी तारा हैं।"
+  },
+  "commentary": {
+    "sanskrit": "नित्यबुद्धा चिद्रूपा ।",
+    "translation": {
+      "en": "Nityabuddhā: whose form is consciousness.",
+      "hi": "नित्यबुद्धा, अर्थात् चिद्रूपा, चेतनास्वरूपा।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 149 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Jaina reading (Śuddha and Buddha as two Jinas, the Devī as Tārā) is reported as Bhāskararāya gives it; a scholar may wish to check it. The Upaniṣad he has in mind is the Bṛhadāraṇyaka (4.3.30), on deep sleep; the third sentence of the inner layer is a reflection." }
+}

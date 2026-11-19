@@ -1,0 +1,45 @@
+{
+  "number": 434,
+  "verse": 92,
+  "slug": "chandana-drava-digdhangi",
+  "devanagari": "चन्दनद्रवदिग्धाङ्गी",
+  "iastSplit": "Candana-drava-digdhāṅgī",
+  "archana": "ॐ चन्दनद्रवदिग्धाङ्ग्यै नमः",
+  "syllables": ["can", "da", "nad", "ra", "va", "dig", "dhāṅ", "gī"],
+  "words": [
+    { "sa": "चन्दन", "meaning": { "en": "sandalwood", "hi": "चन्दन" } },
+    { "sa": "द्रव", "meaning": { "en": "liquid, paste", "hi": "द्रव, लेप" } },
+    { "sa": "दिग्ध", "meaning": { "en": "smeared, anointed", "hi": "लिप्त" } },
+    { "sa": "अङ्ग", "meaning": { "en": "limb, body", "hi": "अंग" } }
+  ],
+  "meaning": {
+    "en": "Whose limbs are anointed with liquid sandal",
+    "hi": "जिनके अंग चन्दन के लेप से लिप्त हैं"
+  },
+  "explanation": {
+    "en": "Her body is smeared with sandal paste, cool and fragrant. Bhāskararāya describes it as sandal of the Malaya hills, rubbed to draw out its essence.",
+    "hi": "उनका शरीर शीतल, सुगन्धित चन्दन के लेप से लिप्त है। भास्करराय इसे मलय पर्वत का चन्दन बताते हैं, जिसे घिसकर उसका सार निकाला गया हो।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the literal sense here. Sandal is offered to the Devī in daily worship; here the hymn sees her already anointed with it, cool, fragrant and calm.",
+    "hi": "भास्करराय यहाँ केवल शाब्दिक अर्थ देते हैं। नित्य पूजा में देवी को चन्दन अर्पित किया जाता है; यहाँ स्तोत्र उन्हें पहले से ही उससे लिप्त देखता है, शीतल, सुगन्धित और शान्त।"
+  },
+  "story": {
+    "en": "Verse 92 moves from her rapture to her adornment: sandal on her limbs, and in the next name the flower she loves. Bhāskararāya’s printed text reads -digdhāṅgā; the chanted text has -digdhāṅgī, with the same meaning.",
+    "hi": "श्लोक 92 उनके आनन्द से उनके शृंगार की ओर आता है: अंगों पर चन्दन, और अगले नाम में उनका प्रिय पुष्प। भास्करराय के मुद्रित पाठ में ‘दिग्धाङ्गा’ है; पाठ किए जाने वाले श्लोक में ‘दिग्धाङ्गी’ है, अर्थ वही है।"
+  },
+  "commentary": {
+    "sanskrit": "चन्दनस्य मलयजस्य द्रवेण घृष्टसारेण दिग्धानि लिप्तान्यङ्गानि यस्याः ।",
+    "translation": {
+      "en": "She whose limbs are digdha, smeared, with the liquid of candana, sandal born on the Malaya hills, its essence drawn out by rubbing.",
+      "hi": "जिनके अंग मलयगिरि के चन्दन के द्रव, अर्थात् घिसकर निकाले गए सार, से दिग्ध यानी लिप्त हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 434 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The commentary’s verse-line prints चन्दनद्रवदिग्धाङ्गा; the master text reads चन्दनद्रवदिग्धाङ्गी (both are possible feminine forms). Bhāskararāya gives only the literal sense; the second sentence of the inner layer is a reflection." }
+}

@@ -1,0 +1,44 @@
+{
+  "number": 727,
+  "verse": 140,
+  "slug": "shiva-jnana-pradayini",
+  "devanagari": "शिवज्ञानप्रदायिनी",
+  "iastSplit": "Śiva-jñāna-pradāyinī",
+  "archana": "ॐ शिवज्ञानप्रदायिन्यै नमः",
+  "syllables": ["śi", "vaj", "ñā", "nap", "ra", "dā", "yi", "nī"],
+  "words": [
+    { "sa": "शिव", "meaning": { "en": "Śiva, the auspicious Supreme", "hi": "शिव, मंगलमय परमेश्वर" } },
+    { "sa": "ज्ञान", "meaning": { "en": "knowledge", "hi": "ज्ञान" } },
+    { "sa": "प्रदायिनी", "meaning": { "en": "who gives generously", "hi": "प्रदान करने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who bestows the knowledge of Śiva",
+    "hi": "जो शिव का ज्ञान प्रदान करती हैं"
+  },
+  "explanation": {
+    "en": "Bhāskararāya says she gives, in abundance, the knowledge whose object is Śiva. He also reads it the other way round: she for whom Śiva is the giver of knowledge.",
+    "hi": "भास्करराय के अनुसार वे वह ज्ञान भरपूर देती हैं जिसका विषय शिव हैं। वे इसे उलटकर भी पढ़ते हैं: वे, जिनके लिए शिव ज्ञान देने वाले हैं।"
+  },
+  "inner": {
+    "en": "Why does knowledge of Śiva come through her? Bhāskararāya answers from the Yoga Vāsiṣṭha: wind is known by its movement and fire by its heat, and the pure, still consciousness called Śiva is known only through its power of vibration, spanda, and in no other way. She is that power, so she alone can show him.",
+    "hi": "शिव का ज्ञान उन्हीं के द्वारा क्यों मिलता है? भास्करराय योगवासिष्ठ से उत्तर देते हैं: वायु गति से जानी जाती है, अग्नि उष्णता से; और शिव कहलाने वाली शुद्ध, शान्त चेतना केवल अपनी स्पन्दमयी शक्ति से ही जानी जाती है, किसी और प्रकार नहीं। वे वही शक्ति हैं, इसलिए वे ही उन्हें दिखा सकती हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya also cites the Varāha Purāṇa, in a passage on the three divine forms: all three are attained by one who knows Rudra in truth. With the Kumāras of the previous name, this half-verse is about the gift of the highest knowledge.",
+    "hi": "भास्करराय त्रिमूर्ति के प्रसंग से वराह पुराण की एक पंक्ति भी देते हैं: जो रुद्र को तत्त्व से जानता है, उसे ये तीनों सिद्ध हो जाती हैं। पिछले नाम के कुमारों के साथ यह अर्ध-श्लोक सर्वोच्च ज्ञान के दान का है।"
+  },
+  "commentary": {
+    "sanskrit": "शिवविषयकं ज्ञानं प्रकर्षेण दत्ते ।",
+    "translation": {
+      "en": "She gives, in abundance, the knowledge whose object is Śiva.",
+      "hi": "वे शिव-विषयक ज्ञान प्रकर्ष से, अर्थात् भरपूर, देती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 727 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s alternative reading: शिवो ज्ञानप्रदायी यस्या वा. The Yoga Vāsiṣṭha is cited in the edition as वासिष्ठरामायण. The Varāha Purāṇa line uses the feminine एतास्तिस्रः; what ‘the three’ are is left unspecified on the page. The last sentence of the inner layer is a reflection." }
+}

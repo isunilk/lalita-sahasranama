@@ -1,0 +1,45 @@
+{
+  "number": 512,
+  "verse": 105,
+  "slug": "dadhyannasakta-hridaya",
+  "devanagari": "दध्यन्नासक्तहृदया",
+  "iastSplit": "Dadhyannāsakta-hṛdayā",
+  "archana": "ॐ दध्यन्नासक्तहृदयायै नमः",
+  "syllables": ["dadh", "yan", "nā", "sak", "ta", "hṛ", "da", "yā"],
+  "words": [
+    { "sa": "दधि", "meaning": { "en": "curd, yoghurt", "hi": "दही" } },
+    { "sa": "अन्न", "meaning": { "en": "cooked rice, food", "hi": "अन्न, भात" } },
+    { "sa": "आसक्त", "meaning": { "en": "attached, devoted", "hi": "आसक्त" } },
+    { "sa": "हृदय", "meaning": { "en": "heart", "hi": "हृदय" } }
+  ],
+  "meaning": {
+    "en": "Whose heart is set on curd-rice",
+    "hi": "दही-भात में जिनका हृदय आसक्त है"
+  },
+  "explanation": {
+    "en": "Dadhyanna is rice mixed with curd. Bhāskararāya calls it rice sprinkled with curd, and says that Kākinī’s heart is fond of it.",
+    "hi": "दध्यन्न का अर्थ है दही मिला भात। भास्करराय इसे दही से सिक्त भात बताते हैं, और कहते हैं कि काकिनी का हृदय इसमें रमता है।"
+  },
+  "inner": {
+    "en": "His note is grammatical: the compound follows Pāṇini’s rule for food combined with a condiment. He gives no hidden meaning. As with Lākinī’s ‘mind’ (name 501), it is the heart that is attached: the names speak of her delight, not her hunger.",
+    "hi": "उनकी टिप्पणी व्याकरण की है: यह समास पाणिनि के उस सूत्र से बना है जो अन्न के साथ व्यञ्जन के मेल के लिए है। वे कोई गूढ़ अर्थ नहीं देते। लाकिनी के ‘मानस’ (नाम 501) की तरह यहाँ भी आसक्त होता है ‘हृदय’: नाम उनके आनन्द की बात करते हैं, भूख की नहीं।"
+  },
+  "story": {
+    "en": "The meditation verse Bhāskararāya quotes calls Kākinī dadhyodaneṣṭā, ‘to whom curd-rice is dear’. Curd-rice is still a familiar temple offering, especially in South India.",
+    "hi": "भास्करराय के उद्धृत ध्यान-श्लोक में काकिनी को ‘दध्योदनेष्टा’, अर्थात् जिन्हें दही-भात प्रिय है, कहा गया है। दही-भात आज भी, विशेषकर दक्षिण भारत में, मन्दिरों का परिचित प्रसाद है।"
+  },
+  "commentary": {
+    "sanskrit": "दध्ना अन्नं दध्यन्नम् । अन्नेन व्यञ्जनमिति समासः । दधिसिक्त ओदन इति यावत् तस्मिन्नासक्तं हृदयं यस्याः ।",
+    "translation": {
+      "en": "Dadhyanna is rice with curd; the compound follows the rule ‘food with a condiment’. That is, rice sprinkled with curd: she whose heart is attached to it.",
+      "hi": "दही के साथ अन्न दध्यन्न है; यह समास ‘अन्नेन व्यञ्जनम्’ सूत्र से है। अर्थात् दही से सिक्त भात; जिनका हृदय उसमें आसक्त है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 512 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The rule Bhāskararāya names, अन्नेन व्यञ्जनम्, is Pāṇini 2.1.34. The last sentence of the inner layer is a reflection, and the remark on temple offerings is general context." }
+}

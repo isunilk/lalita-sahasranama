@@ -1,0 +1,43 @@
+{
+  "number": 738,
+  "verse": 142,
+  "slug": "lasya-priya",
+  "devanagari": "लास्यप्रिया",
+  "iastSplit": "Lāsya-priyā",
+  "archana": "ॐ लास्यप्रियायै नमः",
+  "syllables": ["lās", "yap", "ri", "yā"],
+  "words": [
+    { "sa": "लास्य", "meaning": { "en": "graceful dance", "hi": "लास्य, कोमल नृत्य" } },
+    { "sa": "प्रिया", "meaning": { "en": "to whom it is dear", "hi": "जिसे प्रिय हो" } }
+  ],
+  "meaning": {
+    "en": "She who loves the graceful dance",
+    "hi": "जिन्हें लास्य नृत्य प्रिय है"
+  },
+  "explanation": {
+    "en": "Bhāskararāya glosses lāsya simply as dance: she to whom dance is dear. Lāsya is the gentle, graceful style of dance, traditionally linked with the Devī, as the vigorous tāṇḍava is with Śiva.",
+    "hi": "भास्करराय ‘लास्य’ का अर्थ केवल नृत्य बताते हैं: जिन्हें नृत्य प्रिय है। लास्य नृत्य की कोमल, ललित शैली है, जो परम्परा से देवी से जुड़ी है, जैसे उद्धत ताण्डव शिव से।"
+  },
+  "inner": {
+    "en": "He gives no hidden meaning here. Coming after Naṭeśvarī (name 734), the name keeps the image of the divine dance. In reflection, creation is not labour for her but delight, a dance she loves.",
+    "hi": "यहाँ वे कोई गूढ़ अर्थ नहीं देते। नटेश्वरी (नाम 734) के बाद आकर यह नाम दिव्य नृत्य का चित्र बनाए रखता है। चिन्तन के रूप में: सृष्टि उनके लिए श्रम नहीं, आनन्द है, एक नृत्य जो उन्हें प्रिय है।"
+  },
+  "story": {
+    "en": "Besides Lajjā, this half-verse gathers names of music and dance: lāsya, laya (the measure of song and dance), and the apsarases, the dancers of heaven.",
+    "hi": "लज्जा के अतिरिक्त यह अर्ध-श्लोक संगीत और नृत्य से जुड़े नाम एकत्र करता है: लास्य, लय (गीत और नृत्य की ताल-बद्ध गति), और अप्सराएँ, जो स्वर्ग की नर्तकियाँ हैं।"
+  },
+  "commentary": {
+    "sanskrit": "लास्यं नर्तनं प्रियं यस्याः ।",
+    "translation": {
+      "en": "She to whom lāsya, dance, is dear.",
+      "hi": "जिन्हें लास्य, अर्थात् नृत्य, प्रिय है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 738 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya glosses lāsya only as नर्तन; the lāsya/tāṇḍava contrast is general tradition. The last sentence of the inner layer is a reflection." }
+}

@@ -1,0 +1,44 @@
+{
+  "number": 423,
+  "verse": 90,
+  "slug": "dvija-brinda-nishevita",
+  "devanagari": "द्विजबृन्दनिषेविता",
+  "iastSplit": "Dvija-bṛnda-niṣevitā",
+  "archana": "ॐ द्विजबृन्दनिषेवितायै नमः",
+  "syllables": ["dvi", "ja", "bṛn", "da", "ni", "ṣe", "vi", "tā"],
+  "words": [
+    { "sa": "द्विज", "meaning": { "en": "twice-born; also a bird", "hi": "द्विज; पक्षी भी" } },
+    { "sa": "बृन्द", "meaning": { "en": "host, multitude", "hi": "समूह" } },
+    { "sa": "निषेवित", "meaning": { "en": "served, worshipped", "hi": "सेवित, उपासित" } }
+  ],
+  "meaning": {
+    "en": "Worshipped by hosts of the twice-born",
+    "hi": "द्विजों के समूहों द्वारा उपासित"
+  },
+  "explanation": {
+    "en": "Because she is the Sandhyā, the twice-born worship her together at the junctions of the day. Dvija, ‘twice-born’, names those whose second birth is the sacred-thread rite, when the Gāyatrī is received.",
+    "hi": "क्योंकि वे सन्ध्या हैं, इसलिए द्विज दिन की सन्धियों में मिलकर उनकी उपासना करते हैं। ‘द्विज’ अर्थात् दो बार जन्मे, वे जिनका दूसरा जन्म उपनयन संस्कार है, जब गायत्री प्राप्त होती है।"
+  },
+  "inner": {
+    "en": "In Bhāskararāya’s second reading this name is deep sleep. Dvija also means bird, and the jīvas are the birds: as birds tired from flying fold their wings and settle in the nest, so jīvas tired of waking and dream fold them up and rest in the supreme Brahman, wholly one with her. He supports it with the Bṛhadāraṇyaka image of the hawk that folds its wings and sinks to rest.",
+    "hi": "भास्करराय के दूसरे अर्थ में यह नाम सुषुप्ति है। ‘द्विज’ का अर्थ पक्षी भी है, और जीव ही ये पक्षी हैं: जैसे उड़ान से थके पक्षी पंख समेटकर घोंसले में विश्राम करते हैं, वैसे ही जागरण और स्वप्न से थके जीव उन्हें समेटकर परब्रह्म में, उनसे पूर्ण अभेद में, विश्राम करते हैं। इसके लिए वे बृहदारण्यक उपनिषद् के उस बाज़ का दृष्टान्त देते हैं जो पंख समेटकर विश्राम के लिए नीचे उतरता है।"
+  },
+  "story": {
+    "en": "This closes the line on the Vedic rite, which has moved from the Gāyatrī to its utterances, its hour and its keepers. Bhāskararāya’s text spells the word dvija-vṛnda; bṛnda and vṛnda are two spellings of the same word.",
+    "hi": "यह वैदिक कर्म वाली पंक्ति को पूरा करता है, जो गायत्री से उसके उच्चारणों, उसके समय और उसके पालकों तक आई है। भास्करराय के पाठ में यह शब्द ‘द्विजवृन्द’ लिखा है; ‘बृन्द’ और ‘वृन्द’ एक ही शब्द की दो वर्तनियाँ हैं।"
+  },
+  "commentary": {
+    "sanskrit": "द्विजवृन्दैस्त्रैवार्णिकसमूहैर्निषेवितोपास्या सन्ध्यात्वादेव ।",
+    "translation": {
+      "en": "Niṣevitā, worshipped, by hosts of the twice-born, the gatherings of the three varṇas, precisely because she is the Sandhyā.",
+      "hi": "द्विज-वृन्दों, अर्थात् तीनों वर्णों के समूहों, द्वारा निषेवित अर्थात् उपासित, क्योंकि वे सन्ध्या ही हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 423 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The master text reads द्विजबृन्द; the Saubhāgya Bhāskara text (and so the quote) has द्विजवृन्द, the same word in its other spelling." }
+}

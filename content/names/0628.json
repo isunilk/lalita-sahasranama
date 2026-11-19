@@ -1,0 +1,65 @@
+{
+  "number": 628,
+  "verse": 125,
+  "slug": "tri-murti",
+  "devanagari": "त्रिमूर्तिः",
+  "iastSplit": "Tri-mūrtiḥ",
+  "archana": "ॐ त्रिमूर्त्यै नमः",
+  "syllables": [
+    "tri",
+    "mūr",
+    "tiḥ"
+  ],
+  "words": [
+    {
+      "sa": "त्रि",
+      "meaning": {
+        "en": "three",
+        "hi": "तीन"
+      }
+    },
+    {
+      "sa": "मूर्ति",
+      "meaning": {
+        "en": "form",
+        "hi": "मूर्ति, रूप"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Who takes three forms",
+    "hi": "त्रिमूर्ति, तीन रूपों वाली"
+  },
+  "explanation": {
+    "en": "Tri is three and mūrti is form. She is the one power appearing as three: as the gods of creation, preservation and dissolution, and as the powers of will, knowledge and action.",
+    "hi": "‘त्रि’ का अर्थ है तीन और ‘मूर्ति’ का रूप। वे एक ही शक्ति हैं जो तीन रूपों में प्रकट होती हैं: सृष्टि, पालन और संहार के देवताओं के रूप में, और इच्छा, ज्ञान तथा क्रिया की शक्तियों के रूप में।"
+  },
+  "inner": {
+    "en": "Bhāskararāya cites a passage: white, she is sattva and Brāhmī; red, she is rajas and Vaiṣṇavī; dark, she is tamas and Raudrī. As the supreme Self is one yet stands in three ways, so the one Śakti becomes threefold for the work to be done. He also notes that in the worship of young girls a girl of three years is called Trimūrti.",
+    "hi": "भास्करराय एक वचन उद्धृत करते हैं: श्वेत रूप में वे सत्त्व और ब्राह्मी हैं, रक्त रूप में रज और वैष्णवी, कृष्ण रूप में तम और रौद्री। जैसे परमात्मा एक होकर भी तीन रूपों में स्थित है, वैसे ही एक ही शक्ति प्रयोजन के अनुसार त्रिविध हो जाती है। वे यह भी बताते हैं कि कन्या-पूजन में तीन वर्ष की कन्या को त्रिमूर्ति कहते हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya tells a story from the Varāha Purāṇa. Brahmā, Viṣṇu and Śiva gazed at one another, and from their joined gaze a radiant maiden of three colours was born. At their request she made her body threefold, white, red and dark, and as Brāhmī, Vaiṣṇavī and Raudrī she performed austerities on three mountains.",
+    "hi": "भास्करराय वराह पुराण की एक कथा सुनाते हैं। ब्रह्मा, विष्णु और शिव ने एक-दूसरे को देखा, और उनकी मिली हुई दृष्टि से तीन वर्णों वाली एक दिव्य कुमारी प्रकट हुई। देवताओं के कहने पर उसने अपनी देह को श्वेत, रक्त और कृष्ण, इन तीन रूपों में बाँटा, और ब्राह्मी, वैष्णवी तथा रौद्री के रूप में तीन पर्वतों पर तप किया।"
+  },
+  "commentary": {
+    "sanskrit": "यद्वा ब्रह्मादिमूर्तित्रयं वामादित्रयमिच्छादिमूर्तित्रयं चास्या एवेति त्रिमूर्तित्वम् ।",
+    "translation": {
+      "en": "Or: the three forms beginning with Brahmā, the triad beginning with Vāmā, and the three forms beginning with Icchā are hers alone; hence she is Trimūrti.",
+      "hi": "अथवा ब्रह्मा आदि तीन मूर्तियाँ, वामा आदि त्रयी, और इच्छा आदि तीन मूर्तियाँ उन्हीं की हैं; इसलिए वे त्रिमूर्ति हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 628 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. In the Varāha Purāṇa passage the maiden is first described as black, white and yellow, and then takes the three forms white, red and black; the story layer names only the second set."
+  }
+}

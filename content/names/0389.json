@@ -1,0 +1,43 @@
+{
+  "number": 389,
+  "verse": 85,
+  "slug": "nirupama",
+  "devanagari": "निरुपमा",
+  "iastSplit": "Nirupamā",
+  "archana": "ॐ निरुपमायै नमः",
+  "syllables": ["ni", "ru", "pa", "mā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without", "hi": "रहित, बिना" } },
+    { "sa": "उपमा", "meaning": { "en": "comparison, likeness", "hi": "उपमा, समानता" } }
+  ],
+  "meaning": {
+    "en": "Beyond compare",
+    "hi": "जिनकी कोई उपमा नहीं"
+  },
+  "explanation": {
+    "en": "Upamā is likeness or comparison. Nothing can be set beside her as her equal, not even to describe her.",
+    "hi": "‘उपमा’ का अर्थ है समानता या तुलना। उनके बराबर रखी जा सके, ऐसी कोई वस्तु नहीं, उनका वर्णन करने के लिए भी नहीं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya grounds the name in the Upaniṣadic words “there is no likeness of him”, and gives no further hidden meaning. What has no likeness cannot be grasped by comparison; it can only be known as itself.",
+    "hi": "भास्करराय इस नाम का आधार उपनिषद् का वचन ‘न तस्य प्रतिमा अस्ति’, अर्थात् उसकी कोई प्रतिमा, कोई समानता नहीं, बताते हैं, और कोई अन्य गूढ़ अर्थ नहीं देते। जिसकी कोई उपमा नहीं, उसे तुलना से नहीं पकड़ा जा सकता; उसे केवल उसी के रूप में जाना जा सकता है।"
+  },
+  "story": {
+    "en": "Earlier names describe her beauty through many comparisons; this name stands beside them as a reminder that none of them is her equal.",
+    "hi": "पहले के नाम अनेक उपमाओं से उनके सौन्दर्य का वर्णन करते हैं; यह नाम उनके साथ खड़ा होकर याद दिलाता है कि उनमें से कोई भी उनके बराबर नहीं।"
+  },
+  "commentary": {
+    "sanskrit": "निर्गतोपमा सादृश्यं यस्याः सा निरुपमा । न तस्य प्रतिमास्ति इति श्रुतेः ।",
+    "translation": {
+      "en": "She from whom upamā, likeness, has gone is Nirupamā; as the śruti says, “There is no likeness of him.”",
+      "hi": "जिनसे उपमा, अर्थात् सादृश्य, निकल गया है, वे निरुपमा हैं; जैसा श्रुति कहती है: ‘उसकी कोई प्रतिमा नहीं।’"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 389 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense with the śruti; the last sentence of the inner layer is a reflection." }
+}

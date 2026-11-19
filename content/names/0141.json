@@ -1,0 +1,42 @@
+{
+  "number": 141,
+  "verse": 44,
+  "slug": "shanta",
+  "devanagari": "शान्ता",
+  "iastSplit": "Śāntā",
+  "archana": "ॐ शान्तायै नमः",
+  "syllables": ["śān", "tā"],
+  "words": [
+    { "sa": "शान्त", "meaning": { "en": "calm, at peace, tranquil", "hi": "शान्त, प्रशान्त" } }
+  ],
+  "meaning": {
+    "en": "Perfectly calm and at peace",
+    "hi": "परम शान्त, प्रशान्त स्वरूपा"
+  },
+  "explanation": {
+    "en": "Śānta means calmed, at rest, free of all disturbance. She is peace itself, untouched by the restless movement of the world.",
+    "hi": "‘शान्त’ का अर्थ है शमित, स्थिर, सब उद्वेग से रहित। वे स्वयं शान्ति हैं, संसार की चंचल हलचल से अछूती।"
+  },
+  "inner": {
+    "en": "Bhāskararāya glosses śāntā as possessed of śama, inner calm, and cites the Tripura Upaniṣad: “without parts, without action, at peace.” Dividing the verse instead as niṣkalā āśāntā, he also finds āśāntā, she who reaches to the ends of the directions, and with it rejects the Digambara Jain view that the self is limited in size.",
+    "hi": "भास्करराय ‘शान्ता’ का अर्थ ‘शमवती’, अर्थात् भीतरी शान्ति से युक्त, करते हैं, और त्रिपुरोपनिषद् का वचन देते हैं: ‘निष्कल, निष्क्रिय, शान्त।’ श्लोक को ‘निष्कला आशान्ता’ के रूप में तोड़कर वे ‘आशान्ता’ अर्थ भी निकालते हैं, अर्थात् दिशाओं के अन्त तक व्याप्त; इससे वे दिगम्बर जैन मत का खण्डन करते हैं जो आत्मा को परिमित मानता है।"
+  },
+  "story": {
+    "en": "Among the many names of these verses that begin with nis-, ‘without’, Śāntā is one of the few that names what she is rather than what she is free of. Its peace is not a passing mood but her nature.",
+    "hi": "इन श्लोकों के ‘निस्’ (रहित) से आरम्भ होने वाले अनेक नामों के बीच ‘शान्ता’ उन थोड़े नामों में है जो बताते हैं कि वे क्या हैं, न कि किससे रहित हैं। यह शान्ति कोई आती-जाती मनोदशा नहीं, उनका स्वभाव है।"
+  },
+  "commentary": {
+    "sanskrit": "शान्ता शमवती ।",
+    "translation": {
+      "en": "Śāntā: possessed of śama, calm.",
+      "hi": "शान्ता, अर्थात् शम से युक्त।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 141 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Variant division: Bhāskararāya also reads निष्कला आशान्ता (‘reaching to the ends of the directions’); the master text reads शान्ता, which is followed. He also gives a reading from the letters (शकारोऽन्तो यस्य … अमृतबीजात्मिका), not summarized here. He attributes निष्कलं निष्क्रियं शान्तम् to the Tripura Upaniṣad; the same words open Śvetāśvatara Upaniṣad 6.19. The second sentence of the story layer is a reflection." }
+}

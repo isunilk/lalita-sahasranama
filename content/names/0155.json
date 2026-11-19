@@ -1,0 +1,43 @@
+{
+  "number": 155,
+  "verse": 46,
+  "slug": "nir-ishvara",
+  "devanagari": "निरीश्वरा",
+  "iastSplit": "Nir-īśvarā",
+  "archana": "ॐ निरीश्वरायै नमः",
+  "syllables": ["ni", "rīś", "va", "rā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free from", "hi": "रहित, बिना" } },
+    { "sa": "ईश्वर", "meaning": { "en": "lord, ruler", "hi": "ईश्वर, स्वामी" } }
+  ],
+  "meaning": {
+    "en": "Who has no lord above her",
+    "hi": "जिनके ऊपर कोई ईश्वर नहीं"
+  },
+  "explanation": {
+    "en": "Īśvara is a lord or ruler. She is the ruler of all, and there is no one above her who could rule her.",
+    "hi": "‘ईश्वर’ का अर्थ है स्वामी या शासक। वे सबकी स्वामिनी हैं, और उनके ऊपर कोई नहीं जो उन पर शासन करे।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives two readings. Mīmāṃsā and Sāṃkhya each come in two kinds, with a Lord and without one; she is the form of both, so the ‘lordless’ systems too are her form. More simply, she is the Lady of all, and there is no other lord over her.",
+    "hi": "भास्करराय दो अर्थ देते हैं। मीमांसा और सांख्य, दोनों शास्त्र दो प्रकार के हैं: सेश्वर, अर्थात् ईश्वर को मानने वाले, और निरीश्वर; वे दोनों के रूप में हैं, इसलिए निरीश्वर दर्शन भी उन्हीं का रूप है। अधिक सरल अर्थ यह है कि वे सबकी ईश्वरी हैं, और उनके ऊपर कोई अन्य ईश्वर नहीं।"
+  },
+  "story": {
+    "en": "The name can startle at first hearing, as if it meant ‘godless’. Bhāskararāya’s readings show it as a statement of her supremacy, not a denial; for him even the schools that admit no Lord are forms of the Devī.",
+    "hi": "‘निरीश्वरा’ शब्द पहली बार सुनने में चौंका सकता है, मानो इसका अर्थ ‘ईश्वर-रहित’ हो। भास्करराय के अर्थ दिखाते हैं कि यह उनकी सर्वोच्चता का कथन है, निषेध नहीं; उनके लिए तो ईश्वर को न मानने वाले दर्शन भी देवी के ही रूप हैं।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वेषामीश्वर्या ईश्वरान्तराभावाद्वा ।",
+    "translation": {
+      "en": "Or: because there is no other lord over her who is the Lady of all.",
+      "hi": "अथवा, सबकी ईश्वरी होने के कारण उनके ऊपर कोई अन्य ईश्वर नहीं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 155 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The second reading is quoted because the edition prints साख्यशास्त्रञ्च for सांख्यशास्त्रञ्च in the first." }
+}

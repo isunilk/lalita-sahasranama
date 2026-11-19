@@ -1,0 +1,66 @@
+{
+  "number": 603,
+  "verse": 121,
+  "slug": "guru-murti",
+  "devanagari": "गुरुमूर्तिः",
+  "iastSplit": "Guru-mūrtiḥ",
+  "archana": "ॐ गुरुमूर्त्यै नमः",
+  "syllables": [
+    "gu",
+    "ru",
+    "mūr",
+    "tiḥ"
+  ],
+  "words": [
+    {
+      "sa": "गुरु",
+      "meaning": {
+        "en": "teacher, spiritual guide",
+        "hi": "गुरु, आध्यात्मिक मार्गदर्शक"
+      }
+    },
+    {
+      "sa": "मूर्ति",
+      "meaning": {
+        "en": "form, embodiment",
+        "hi": "मूर्ति, स्वरूप"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Whose very form is the Guru",
+    "hi": "जिनका स्वरूप स्वयं गुरु है"
+  },
+  "explanation": {
+    "en": "Mūrti means form or body. She takes form as the guru, the teacher who removes ignorance and gives knowledge of the truth. In the teacher, it is she who teaches.",
+    "hi": "‘मूर्ति’ का अर्थ है रूप या देह। वे गुरु का रूप धारण करती हैं, जो अज्ञान दूर करके सत्य का ज्ञान देता है। गुरु में वस्तुतः वही उपदेश देती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya cites the Sundarī-tāpinī: as ghaṭa, kalaśa and kumbha are three words for one pot, so mantra, deity and guru are three words for one reality. He explains the word guru: gu is darkness and ru is what removes it; or gu is being and ru is knowledge. From the Nityā-hṛdaya he adds that one should contemplate the Devī in the form of the guru.",
+    "hi": "भास्करराय सुन्दरीतापिनी का वचन उद्धृत करते हैं: जैसे घट, कलश और कुम्भ एक ही पात्र के तीन नाम हैं, वैसे ही मन्त्र, देवता और गुरु एक ही तत्त्व के तीन नाम हैं। वे ‘गुरु’ शब्द का अर्थ बताते हैं: ‘गु’ अंधकार है और ‘रु’ उसे दूर करने वाला; अथवा ‘गु’ सत् है और ‘रु’ ज्ञान। नित्याहृदय से वे जोड़ते हैं कि देवी का ध्यान गुरु-रूप में करना चाहिए।"
+  },
+  "story": {
+    "en": "The second half of this verse is a chain of four names beginning with g: Gurumūrti, Guṇanidhi, Gomātā and Guhajanmabhū. In Śrīvidyā the teacher is honoured as one with the Devī and her mantra, and Bhāskararāya’s citations here express that view.",
+    "hi": "इस श्लोक का उत्तरार्ध ‘ग’ से आरम्भ होने वाले चार नामों की माला है: गुरुमूर्ति, गुणनिधि, गोमाता और गुहजन्मभू। श्रीविद्या में गुरु को देवी और उनके मन्त्र से अभिन्न माना जाता है, और यहाँ भास्करराय के उद्धरण इसी दृष्टि को प्रकट करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "गुरुरेव मूर्तिः शरीरं यस्याः ।",
+    "translation": {
+      "en": "She whose mūrti, body, is the guru himself.",
+      "hi": "जिनकी मूर्ति अर्थात् देह स्वयं गुरु ही है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 603 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. Archana corrected: the web list has गुरूमूर्त्यै (long ū), a typo for गुरुमूर्त्यै as in the verse. The edition prints the Śaktirahasya etymology as ‘गुरस्त्वन्धकारः स्याद्रुकारस्तन्निवर्तक’, evidently for ‘गुकारस्त्वन्धकारः’; it is paraphrased, not quoted."
+  }
+}

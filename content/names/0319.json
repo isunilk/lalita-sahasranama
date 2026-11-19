@@ -1,0 +1,42 @@
+{
+  "number": 319,
+  "verse": 72,
+  "slug": "raama",
+  "devanagari": "रामा",
+  "iastSplit": "Rāmā",
+  "archana": "ॐ रामायै नमः",
+  "syllables": ["rā", "mā"],
+  "words": [
+    { "sa": "रामा", "meaning": { "en": "woman; she in whom one delights", "hi": "स्त्री; जिनमें मन रमता है" } }
+  ],
+  "meaning": {
+    "en": "She who is every woman, in whom yogis delight",
+    "hi": "समस्त स्त्री-रूपों वाली, जिनमें योगी रमते हैं"
+  },
+  "explanation": {
+    "en": "Rāmā is a common word for woman. Bhāskararāya reads it as she who is the form of all women; or as she in whom yogis delight.",
+    "hi": "‘रामा’ स्त्री के लिए एक सामान्य शब्द है। भास्करराय इसका अर्थ करते हैं: वे समस्त स्त्रियों का स्वरूप हैं; अथवा वे, जिनमें योगी रमण करते हैं।"
+  },
+  "inner": {
+    "en": "He gathers witnesses for the first reading. The Liṅga Purāṇa says all men are Śaṅkara and all women Maheśvarī; the Viṣṇu Purāṇa says the same of Hari and Lakṣmī; and the Brahmavaivarta says that every female form seen in the three worlds is the Devī’s own. From this he draws a rule of conduct, quoting a smṛti: when women are content the gods are content, and women who are honoured make the family prosper, while dishonoured they bring it to ruin.",
+    "hi": "पहले अर्थ के लिए वे अनेक प्रमाण देते हैं। लिङ्ग पुराण कहता है कि सब पुरुष शंकर हैं और सब स्त्रियाँ महेश्वरी; विष्णु पुराण यही बात हरि और लक्ष्मी के विषय में कहता है; और ब्रह्मवैवर्त कहता है कि तीनों लोकों में जो भी स्त्री-रूप दिखता है, वह सब देवी का ही स्वरूप है। इससे वे आचरण का नियम निकालते हैं और एक स्मृति-वचन देते हैं: स्त्रियाँ प्रसन्न हों तो देवता प्रसन्न होते हैं; सम्मानित स्त्रियाँ कुल को बढ़ाती हैं, और अपमानित होने पर उसका नाश कर देती हैं।"
+  },
+  "story": {
+    "en": "Rāmā differs from Ramā (313) only in its first vowel, and both come from ram, to delight. In the second reading she is the one in whom yogis find their delight.",
+    "hi": "‘रामा’ और ‘रमा’ (313) में केवल पहले स्वर का अन्तर है, और दोनों ‘रम्’ धातु से बने हैं, जिसका अर्थ है आनन्दित होना। दूसरे अर्थ में वे वह हैं जिनमें योगी अपना आनन्द पाते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "रामा स्त्रीमात्रस्वरूपा । रमन्तेऽस्यां योगिन इति वा",
+    "translation": {
+      "en": "Rāmā: she who is the form of every woman. Or: she in whom yogis delight.",
+      "hi": "रामा अर्थात् समस्त स्त्री-स्वरूपा। अथवा, जिनमें योगी रमण करते हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 319 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Slug: “raama” is used because “rama” is taken by रमा (313); a reviewer may prefer another way to tell them apart. The smṛti verse is quoted by Bhāskararāya from the Bṛhat-Parāśara Smṛti. He also cites the grammar rule ज्वलितिकसन्तेभ्यो णः for the second reading." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 184,
+  "verse": 50,
+  "slug": "nistula",
+  "devanagari": "निस्तुला",
+  "iastSplit": "Nis-tulā",
+  "archana": "ॐ निस्तुलायै नमः",
+  "syllables": ["nis", "tu", "lā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free of", "hi": "रहित" } },
+    { "sa": "तुला", "meaning": { "en": "balance, comparison, an equal", "hi": "तराज़ू, तुलना, बराबरी" } }
+  ],
+  "meaning": {
+    "en": "Beyond compare; nothing can be weighed against her",
+    "hi": "अतुलनीय, जिनकी किसी से तुलना नहीं हो सकती"
+  },
+  "explanation": {
+    "en": "Tulā is a balance, and so comparison. Nothing can be set on the other pan of the scale against her. She is nistulā, incomparable.",
+    "hi": "तुला का अर्थ है तराज़ू, और इसीलिए तुलना। तराज़ू के दूसरे पलड़े पर उनके सामने कुछ भी नहीं रखा जा सकता। वे निस्तुला हैं, अतुलनीय।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says that since nothing can serve as a comparison for her, she is nistulā. He quotes the Tripura Upaniṣad, which calls the highest ‘free of reason and example’: no argument proves it and no example illustrates it. As a reflection: the mind knows things by comparing them, but she can be known only as herself.",
+    "hi": "भास्करराय कहते हैं कि उनकी कोई उपमा न होने से वे निस्तुला हैं। वे त्रिपुरा उपनिषद् का वचन देते हैं जो परम तत्त्व को ‘हेतु और दृष्टान्त से रहित’ कहता है: न कोई तर्क उसे सिद्ध करता है, न कोई उदाहरण उसे समझाता है। चिन्तन के रूप में: मन वस्तुओं को तुलना से जानता है, पर उन्हें केवल उन्हीं के रूप में जाना जा सकता है।"
+  },
+  "story": {
+    "en": "Verse 50 opens with this name, and the same thought returns at the close of this section in name 198, samānādhikavarjitā, ‘without equal or superior’.",
+    "hi": "श्लोक 50 इसी नाम से आरम्भ होता है, और यही भाव इस खण्ड के अन्त में नाम 198, समानाधिकवर्जिता, अर्थात् ‘जिनके समान या जिनसे बड़ा कोई नहीं’, में लौटता है।"
+  },
+  "commentary": {
+    "sanskrit": "उपमाभावान्निस्तुला",
+    "translation": {
+      "en": "Because there is nothing to compare her with, she is nistulā.",
+      "hi": "उपमा के अभाव से वे निस्तुला हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 184 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition prints the verse heading as विस्तुला, a misprint for निस्तुला; the gloss itself reads निस्तुला. The last sentence of the inner layer is a reflection." }
+}

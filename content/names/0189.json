@@ -1,0 +1,43 @@
+{
+  "number": 189,
+  "verse": 50,
+  "slug": "durgama",
+  "devanagari": "दुर्गमा",
+  "iastSplit": "Dur-gamā",
+  "archana": "ॐ दुर्गमायै नमः",
+  "syllables": ["dur", "ga", "mā"],
+  "words": [
+    { "sa": "दुर्", "meaning": { "en": "with difficulty, hard", "hi": "कठिनाई से, दुष्कर" } },
+    { "sa": "गमा", "meaning": { "en": "to be approached, reached", "hi": "जिस तक पहुँचा जाए" } }
+  ],
+  "meaning": {
+    "en": "Hard to approach and hard to comprehend",
+    "hi": "जिन तक पहुँचना और जिन्हें समझना कठिन है"
+  },
+  "explanation": {
+    "en": "Durgamā means hard to go to, hard to reach. She cannot be approached, or fully understood, by ordinary means.",
+    "hi": "दुर्गमा का अर्थ है जहाँ जाना कठिन हो, जिस तक पहुँचना कठिन हो। साधारण साधनों से न उन तक पहुँचा जा सकता है, न उन्हें पूरी तरह समझा जा सकता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says that, for the same reason as the previous name, she is durgamā, because she cannot be reached. He also allows another division of the verse, a-durgamā: she for whom no Durgama remains, that is, she who brought about the death of the demon Durgama. Both readings fit the chanted text, since durlabhā and adurgamā join in sandhi into the same sounds.",
+    "hi": "भास्करराय कहते हैं कि पिछले नाम के ही कारण वे दुर्गमा हैं, क्योंकि उन तक पहुँचा नहीं जा सकता। वे श्लोक का एक और पदच्छेद भी स्वीकार करते हैं, ‘अदुर्गमा’: जिनके लिए कोई दुर्गम शेष नहीं, अर्थात् जिन्होंने दुर्गम नामक दैत्य का वध कराया। दोनों अर्थ पाठ में बैठते हैं, क्योंकि ‘दुर्लभा’ और ‘अदुर्गमा’ सन्धि से मिलकर वैसे ही सुनाई देते हैं।"
+  },
+  "story": {
+    "en": "In the Devī Māhātmya of the Mārkaṇḍeya Purāṇa, the Devī foretells that she will slay the great asura named Durgama and so become renowned as Durgādevī. Bhāskararāya cites this for the next name.",
+    "hi": "मार्कण्डेय पुराण के देवी माहात्म्य में देवी भविष्यवाणी करती हैं कि वे दुर्गम नामक महासुर का वध करेंगी, और इसी से दुर्गादेवी के नाम से विख्यात होंगी। भास्करराय अगले नाम पर इसी का उल्लेख करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "अत-एव दुर्गमा अधिगन्तुमशक्यत्वात् । अदुर्गमेति वा छेदः । न विद्यते दुर्गमो यस्या इति तदर्थः । दुर्गमाख्यदैत्यवधप्रयोजिकेति यावत् ।",
+    "translation": {
+      "en": "For this very reason she is durgamā, since she cannot be reached. Or the words may be divided as adurgamā, meaning ‘she for whom there is no Durgama’, that is, she who brought about the slaying of the demon called Durgama.",
+      "hi": "इसी कारण वे दुर्गमा हैं, क्योंकि उन तक पहुँचना सम्भव नहीं। अथवा पदच्छेद ‘अदुर्गमा’ भी हो सकता है, जिसका अर्थ है ‘जिनके लिए दुर्गम नहीं है’, अर्थात् जिन्होंने दुर्गम नामक दैत्य का वध कराया।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 189 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Follows the master text दुर्गमा. Bhāskararāya also allows the division अदुर्गमा (दुर्लभा + अदुर्गमा), recorded in the inner layer. The batch data gave no separate verse form for this name." }
+}

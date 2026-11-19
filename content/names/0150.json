@@ -1,0 +1,43 @@
+{
+  "number": 150,
+  "verse": 45,
+  "slug": "nir-avadya",
+  "devanagari": "निरवद्या",
+  "iastSplit": "Nir-avadyā",
+  "archana": "ॐ निरवद्यायै नमः",
+  "syllables": ["ni", "ra", "vad", "yā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free from", "hi": "रहित, बिना" } },
+    { "sa": "अवद्य", "meaning": { "en": "blameworthy, faulty; a fault", "hi": "निन्दनीय, दोष" } }
+  ],
+  "meaning": {
+    "en": "Free from every fault or blemish",
+    "hi": "हर दोष और निन्दा से रहित"
+  },
+  "explanation": {
+    "en": "Avadya is whatever deserves blame, a fault or flaw. Nothing in her can be faulted.",
+    "hi": "‘अवद्य’ का अर्थ है निन्दनीय, दोष या त्रुटि। उनमें ऐसा कुछ भी नहीं जिसमें दोष निकाला जा सके।"
+  },
+  "inner": {
+    "en": "Bhāskararāya takes avadya as the whole brood of blameworthy changes born of ignorance, and cites the Upaniṣad: “faultless, stainless.” In a second reading, Avadya is the name of a hell, and she is the one by whose grace people come out of it.",
+    "hi": "भास्करराय ‘अवद्य’ का अर्थ अविद्या से उत्पन्न निन्दनीय विकारों का समूह बताते हैं, और उपनिषद् का वचन देते हैं: ‘निरवद्य, निरञ्जन।’ दूसरे अर्थ में ‘अवद्य’ एक नरक का नाम है, और वे वह हैं जिनकी कृपा से लोग उससे निकल जाते हैं।"
+  },
+  "story": {
+    "en": "For the second reading he quotes the Kūrma Purāṇa: whoever remembers the Devī day and night does not go to the hell Avadya, for all his sins are worn away. He adds the Liṅga Purāṇa, which speaks of twenty-eight crores of such hells, where sinners suffer who have not taken refuge in Śiva, the lord of Bhavānī.",
+    "hi": "दूसरे अर्थ के लिए वे कूर्म पुराण का वचन देते हैं: जो मनुष्य दिन-रात देवी का स्मरण करता है, वह ‘अवद्य’ नरक में नहीं जाता, क्योंकि उसके सारे पाप क्षीण हो जाते हैं। वे लिंग पुराण का भी उल्लेख करते हैं, जो ऐसे अट्ठाईस करोड़ नरकों की बात करता है, जहाँ वे पापी कष्ट पाते हैं जिन्होंने भवानीपति शंकर की शरण नहीं ली।"
+  },
+  "commentary": {
+    "sanskrit": "निर्गतं अवद्यं गर्ह्यमाविद्यकविकारजातं यस्याः ।",
+    "translation": {
+      "en": "She from whom avadya has gone: the blameworthy host of changes born of ignorance.",
+      "hi": "जिनसे अवद्य दूर है, अर्थात् अविद्या से उत्पन्न निन्दनीय विकारों का समूह।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 150 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude." }
+}

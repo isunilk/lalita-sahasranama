@@ -1,0 +1,44 @@
+{
+  "number": 726,
+  "verse": 140,
+  "slug": "sanakadi-samaradhya",
+  "devanagari": "सनकादिसमाराध्या",
+  "iastSplit": "Sanakādi-samārādhyā",
+  "archana": "ॐ सनकादिसमाराध्यायै नमः",
+  "syllables": ["sa", "na", "kā", "di", "sa", "mā", "rādh", "yā"],
+  "words": [
+    { "sa": "सनक", "meaning": { "en": "Sanaka, eldest of the four sage-sons of Brahmā", "hi": "सनक, ब्रह्मा के चार मानस-पुत्रों में ज्येष्ठ" } },
+    { "sa": "आदि", "meaning": { "en": "and the others", "hi": "आदि, इत्यादि" } },
+    { "sa": "समाराध्या", "meaning": { "en": "fully worshipped", "hi": "भली-भाँति आराधित" } }
+  ],
+  "meaning": {
+    "en": "Worshipped in full by Sanaka and the other sages",
+    "hi": "सनक आदि ऋषियों द्वारा भली-भाँति आराधित"
+  },
+  "explanation": {
+    "en": "Sanaka, Sanandana and their brothers are the ever-young sages born from Brahmā’s mind. Bhāskararāya says they worship her fully, and for that reason they are counted in the lineage of gurus.",
+    "hi": "सनक, सनन्दन और उनके भाई ब्रह्मा के मन से उत्पन्न, सदा बालरूप ऋषि हैं। भास्करराय कहते हैं कि वे उनकी भली-भाँति आराधना करते हैं, और इसीलिए उनकी गणना गुरु-परम्परा में होती है।"
+  },
+  "inner": {
+    "en": "He supports this with a verse from the Brahmāṇḍa Purāṇa: she alone is beginningless and whole, the form of cause and effect, and she alone is the one whom the yogins, Sanaka and the rest, seek. What these great knowers search for is not an idea but her.",
+    "hi": "इसके समर्थन में वे ब्रह्माण्ड पुराण का श्लोक देते हैं: वे ही अनादि और सम्पूर्ण हैं, कार्य और कारण का रूप हैं, और सनक आदि योगी उन्हीं को खोजते हैं। ये महान ज्ञानी किसी विचार को नहीं, उन्हीं को खोजते हैं।"
+  },
+  "story": {
+    "en": "The four Kumāras, Sanaka, Sanandana, Sanātana and Sanatkumāra, declined the work of creation and remained children devoted to knowledge. Tradition makes them the disciples of Dakṣiṇāmūrti, praised in the previous name.",
+    "hi": "चार कुमार, सनक, सनन्दन, सनातन और सनत्कुमार, ने सृष्टि-कार्य स्वीकार नहीं किया और ज्ञान में लीन बालक ही बने रहे। परम्परा उन्हें दक्षिणामूर्ति का शिष्य मानती है, जिनकी स्तुति पिछले नाम में हुई।"
+  },
+  "commentary": {
+    "sanskrit": "सनकसनन्दनादिभिः सम्यगाराध्योपास्या । अत एव तेषां गुरुपरम्परायां गणना ।",
+    "translation": {
+      "en": "Fully worshipped, adored, by Sanaka, Sanandana and the others; that is why they are counted in the lineage of gurus.",
+      "hi": "सनक, सनन्दन आदि द्वारा भली-भाँति आराध्या, उपास्या; इसीलिए गुरु-परम्परा में उनकी गणना होती है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 726 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The last sentence of the inner layer is a reflection; the story’s account of the Kumāras is general Purāṇic tradition." }
+}

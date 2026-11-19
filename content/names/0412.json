@@ -1,0 +1,43 @@
+{
+  "number": 412,
+  "verse": 89,
+  "slug": "shishta-pujita",
+  "devanagari": "शिष्टपूजिता",
+  "iastSplit": "Śiṣṭa-pūjitā",
+  "archana": "ॐ शिष्टपूजितायै नमः",
+  "syllables": ["śiṣ", "ṭa", "pū", "ji", "tā"],
+  "words": [
+    { "sa": "शिष्ट", "meaning": { "en": "the cultured and learned, the virtuous", "hi": "शिष्ट जन, सज्जन" } },
+    { "sa": "पूजित", "meaning": { "en": "worshipped", "hi": "पूजित" } }
+  ],
+  "meaning": {
+    "en": "Worshipped by the wise and virtuous",
+    "hi": "शिष्ट जनों द्वारा पूजित"
+  },
+  "explanation": {
+    "en": "She is honoured and worshipped by the śiṣṭas, people of learning and disciplined conduct. Bhāskararāya says this name states plainly what the previous name already allowed.",
+    "hi": "शिष्ट जन, अर्थात् विद्वान और संयमित आचरण वाले लोग, उनकी पूजा करते हैं। भास्करराय कहते हैं कि यह नाम वही बात स्पष्ट कहता है जो पिछले नाम में भी निहित थी।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the literal sense here. The pair carries a quiet point: those whose lives are ordered by dharma worship her, and such an ordered life is itself her worship.",
+    "hi": "भास्करराय यहाँ केवल शाब्दिक अर्थ देते हैं। यह जोड़ी एक शान्त संकेत देती है: जिनका जीवन धर्म से व्यवस्थित है, वे उनकी पूजा करते हैं, और ऐसा व्यवस्थित जीवन स्वयं उनकी पूजा है।"
+  },
+  "story": {
+    "en": "With Śiṣṭeṣṭā this closes the first line of verse 89. The next three names turn from her worshippers to her own nature: beyond measure, self-luminous, beyond mind and speech.",
+    "hi": "‘शिष्टेष्टा’ के साथ यह नाम श्लोक 89 की पहली पंक्ति पूरी करता है। अगले तीन नाम उपासकों से हटकर उनके अपने स्वरूप की ओर मुड़ते हैं: अप्रमेय, स्वयं-प्रकाश, और मन तथा वाणी से परे।"
+  },
+  "commentary": {
+    "sanskrit": "यद्वा शिष्टैरिष्टा पूजिता । इममेवार्थं स्पष्टमाचष्टे शिष्टपूजिता ।",
+    "translation": {
+      "en": "Or: iṣṭā, worshipped, by the śiṣṭas. The name Śiṣṭapūjitā states this very sense plainly.",
+      "hi": "अथवा, शिष्टों द्वारा इष्टा अर्थात् पूजित। इसी अर्थ को ‘शिष्टपूजिता’ नाम स्पष्ट रूप से कहता है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 412 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya explains this name only through the previous one, in its literal sense; the second sentence of the inner layer is a reflection." }
+}

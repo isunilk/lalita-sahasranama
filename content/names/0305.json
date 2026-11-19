@@ -1,0 +1,43 @@
+{
+  "number": 305,
+  "verse": 71,
+  "slug": "raja-rajarchita",
+  "devanagari": "राजराजार्चिता",
+  "iastSplit": "Rāja-rājārcitā",
+  "archana": "ॐ राजराजार्चितायै नमः",
+  "syllables": ["rā", "ja", "rā", "jār", "ci", "tā"],
+  "words": [
+    { "sa": "राजराज", "meaning": { "en": "king of kings: Kubera, and also Manu", "hi": "राजराज: कुबेर, और मनु भी" } },
+    { "sa": "अर्चिता", "meaning": { "en": "worshipped", "hi": "पूजित" } }
+  ],
+  "meaning": {
+    "en": "Worshipped by the king of kings",
+    "hi": "राजराज द्वारा पूजित"
+  },
+  "explanation": {
+    "en": "Rājarāja, king of kings, is a title of Kubera, lord of wealth, and Bhāskararāya applies it to Manu as well. Both worship her. Or, he says, she is herself the vidyā, the form of her mantra, that belongs to Kubera and the others.",
+    "hi": "‘राजराज’ अर्थात् राजाओं का राजा, धन के स्वामी कुबेर की उपाधि है, और भास्करराय इसे मनु पर भी लागू करते हैं। ये दोनों उनकी उपासना करते हैं। अथवा, वे कहते हैं, देवी स्वयं कुबेर आदि की विद्या, अर्थात् उनके मन्त्र का वह रूप, हैं।"
+  },
+  "inner": {
+    "en": "On name 238 Bhāskararāya quotes a verse naming twelve worshippers of the Devī, among them Manu, Candra and Kubera, each linked with his own form of Śrīvidyā; names 238 and 239, Manuvidyā and Candravidyā, name two of them. Here he points to the form linked with Kubera. Even the lord of all riches appears as her devotee.",
+    "hi": "नाम 238 पर भास्करराय एक श्लोक उद्धृत करते हैं जिसमें देवी के बारह उपासक गिनाए गए हैं, जैसे मनु, चन्द्र और कुबेर, और प्रत्येक के साथ श्रीविद्या का एक अपना प्रकार जुड़ा है; नाम 238 और 239, मनुविद्या और चन्द्रविद्या, इन्हीं में से दो हैं। यहाँ वे कुबेर से जुड़े प्रकार की ओर संकेत करते हैं। धन के स्वामी भी यहाँ उनके भक्त के रूप में ही दिखाई देते हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya quotes a verse of the sage Durvāsas on the ground between the fourteenth and fifteenth walls of her city: in the eastern part of that region, which he explains as Vāyu’s world, sits Kubera, lord of the treasure-families, with Maṇibhadra and the other yakṣas, who hold fast to the Mother’s feet.",
+    "hi": "भास्करराय दुर्वासा मुनि का एक श्लोक उद्धृत करते हैं, जो देवी के नगर के चौदहवें और पन्द्रहवें प्राकार के बीच की भूमि का वर्णन करता है: उस प्रदेश के पूर्वी भाग में, जिसे वे वायु का लोक बताते हैं, निधियों के स्वामी कुबेर विराजते हैं, और उनके साथ मणिभद्र आदि यक्ष, जो माँ के चरणों का ही आश्रय लिए हैं।"
+  },
+  "commentary": {
+    "sanskrit": "राजराजो मनुः कुबेरश्च ताभ्यामर्चितोपासिता, कुबेरादिविद्यारूपा वा ।",
+    "translation": {
+      "en": "Rājarāja is Manu, and Kubera: she is arcitā, worshipped, by both. Or she is the form of the vidyā of Kubera and the others.",
+      "hi": "राजराज मनु भी हैं और कुबेर भी; वे उन दोनों द्वारा अर्चित अर्थात् उपासित हैं। अथवा वे कुबेर आदि की विद्या का स्वरूप हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 305 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The last sentence of the inner layer is a reflection. The twelve worshippers are from the verse Bhāskararāya quotes on मनुविद्या (238); the Durvāsas verse is quoted by him without naming the hymn." }
+}

@@ -1,0 +1,45 @@
+{
+  "number": 428,
+  "verse": 91,
+  "slug": "pancha-koshantara-sthita",
+  "devanagari": "पञ्चकोशान्तरस्थिता",
+  "iastSplit": "Pañca-kośāntara-sthitā",
+  "archana": "ॐ पञ्चकोशान्तरस्थितायै नमः",
+  "syllables": ["pañ", "ca", "ko", "śān", "ta", "ras", "thi", "tā"],
+  "words": [
+    { "sa": "पञ्च", "meaning": { "en": "five", "hi": "पाँच" } },
+    { "sa": "कोश", "meaning": { "en": "sheath; also a sacred formula", "hi": "कोश, आवरण; विद्या भी" } },
+    { "sa": "अन्तर", "meaning": { "en": "within, the middle", "hi": "भीतर, मध्य" } },
+    { "sa": "स्थित", "meaning": { "en": "abiding", "hi": "स्थित" } }
+  ],
+  "meaning": {
+    "en": "Abiding within the five sheaths",
+    "hi": "पाँच कोशों के भीतर स्थित"
+  },
+  "explanation": {
+    "en": "The Upaniṣads describe five kośas, sheaths, around the Self: of food, breath, mind, understanding and bliss, each inside the last. She dwells within them, at the innermost.",
+    "hi": "उपनिषद् आत्मा के चारों ओर पाँच कोश बताते हैं: अन्नमय, प्राणमय, मनोमय, विज्ञानमय और आनन्दमय, हर एक पिछले के भीतर। वे इनके भीतर, सबसे अन्तरतम में, निवास करती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya places her in the innermost, the sheath of bliss, one with it; on Śaṅkara’s view, in which Brahman lies beyond even that sheath, she abides in the midst of all five. He gives a Śrīvidyā reading too: the five kośas are five vidyās named in the Jñānārṇava and worshipped in the Śrīcakra, four around and Śrīvidyā in the centre, at the bindu. Either way she is the centre that the layers enclose.",
+    "hi": "भास्करराय उन्हें सबसे भीतरी, आनन्दमय कोश में, उससे अभिन्न होकर स्थित बताते हैं; शंकराचार्य के मत में, जहाँ ब्रह्म आनन्दमय कोश से भी परे है, वे पाँचों के मध्य स्थित हैं। वे श्रीविद्या का एक अर्थ भी देते हैं: ज्ञानार्णव में कहे गए पाँच कोश पाँच विद्याएँ हैं, जिनकी पूजा श्रीचक्र में होती है, चार चारों ओर और श्रीविद्या मध्य में, बिन्दु में। दोनों अर्थों में वे वह केन्द्र हैं जिसे ये परतें घेरे हुए हैं।"
+  },
+  "story": {
+    "en": "This ends the group of fourteen names that began with Manovācāmagocarā (415), and the first line of verse 91. Bhāskararāya also quotes a verse of Krodha-bhaṭṭāraka: one who knows her as the blazing light hidden within these five sheaths is a knower of Brahman.",
+    "hi": "यह मनोवाचामगोचरा (415) से आरम्भ हुए चौदह नामों के समूह को, और श्लोक 91 की पहली पंक्ति को, पूरा करता है। भास्करराय क्रोधभट्टारक का एक श्लोक भी उद्धृत करते हैं: जो उन्हें इन पाँच कोशों में छिपी दीप्त ज्योति के रूप में जानता है, वह ब्रह्मवेत्ता है।"
+  },
+  "commentary": {
+    "sanskrit": "एतेषां पञ्चानां मध्ये आन्तर आनन्दमयः कोशस्तत्राभेदेन स्थिता ।",
+    "translation": {
+      "en": "Among these five, the innermost is the sheath made of bliss; she abides there, one with it.",
+      "hi": "इन पाँचों में सबसे भीतरी आनन्दमय कोश है; वे उसमें अभेद रूप से स्थित हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 428 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Wikisource text prints the verse-line as पञ्चकोशान्तरस्थिताम्, a misprint. The five vidyās of the Jñānārṇava (श्रीविद्या, परंज्योति, परा निष्कलशाम्भवी, अजपा, मातृका) are mentioned but not described, by design. The last sentence of the inner layer is a reflection." }
+}

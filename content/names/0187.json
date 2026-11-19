@@ -1,0 +1,43 @@
+{
+  "number": 187,
+  "verse": 50,
+  "slug": "niratyaya",
+  "devanagari": "निरत्यया",
+  "iastSplit": "Nir-atyayā",
+  "archana": "ॐ निरत्ययायै नमः",
+  "syllables": ["ni", "rat", "ya", "yā"],
+  "words": [
+    { "sa": "निर्", "meaning": { "en": "without, beyond", "hi": "रहित, परे" } },
+    { "sa": "अत्यय", "meaning": { "en": "overstepping; also fault, punishment, ruin, hardship", "hi": "अतिक्रमण; दोष, दण्ड, विनाश और कष्ट भी" } }
+  ],
+  "meaning": {
+    "en": "She who oversteps no bound and whom no hardship touches",
+    "hi": "जो कभी मर्यादा नहीं लाँघतीं, जिन्हें कोई कष्ट नहीं छूता"
+  },
+  "explanation": {
+    "en": "Atyaya means going beyond a limit, and by extension fault, punishment, ruin and hardship. She is free of all of these: she never transgresses, and nothing can bring her to harm.",
+    "hi": "अत्यय का अर्थ है किसी सीमा का अतिक्रमण, और इसी से दोष, दण्ड, विनाश और कष्ट भी। वे इन सबसे रहित हैं: वे कभी मर्यादा नहीं लाँघतीं, और कोई उनका अहित नहीं कर सकता।"
+  },
+  "inner": {
+    "en": "Bhāskararāya cites the Viśva lexicon, which gives atyaya the senses of transgression, punishment, destruction, fault and hardship, and says she is free of transgression and the rest. He gives no hidden meaning. As a reflection: she who is the measure of every order is never outside it.",
+    "hi": "भास्करराय विश्व कोश का उल्लेख करते हैं, जो ‘अत्यय’ के अर्थ अतिक्रमण, दण्ड, विनाश, दोष और कष्ट बताता है, और कहते हैं कि वे अतिक्रमण आदि से रहित हैं। वे कोई गूढ़ अर्थ नहीं देते। चिन्तन के रूप में: जो स्वयं हर व्यवस्था की कसौटी हैं, वे उससे कभी बाहर नहीं होतीं।"
+  },
+  "story": {
+    "en": "Because name 186 already used atyaya in the sense of destruction, Bhāskararāya draws on its other meanings here. So the first line of verse 50 ends with two names that together say she suffers no loss and commits no fault.",
+    "hi": "क्योंकि नाम 186 में ‘अत्यय’ का प्रयोग नाश के अर्थ में हो चुका है, भास्करराय यहाँ उसके अन्य अर्थ लेते हैं। इस प्रकार श्लोक 50 की पहली पंक्ति दो ऐसे नामों से समाप्त होती है जो मिलकर कहते हैं कि उनकी न कोई हानि होती है, न उनसे कोई दोष होता है।"
+  },
+  "commentary": {
+    "sanskrit": "विश्वकोशानुसारेणातिक्रमादिरहिता निरत्यया ।",
+    "translation": {
+      "en": "Following the Viśva lexicon, she is free of transgression and the rest: niratyayā.",
+      "hi": "विश्व कोश के अनुसार अतिक्रमण आदि से रहित होने के कारण वे निरत्यया हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 187 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the lexical senses; the closing sentence of the inner layer is a reflection." }
+}

@@ -1,0 +1,44 @@
+{
+  "number": 494,
+  "verse": 101,
+  "slug": "rakinyamba-svarupini",
+  "devanagari": "राकिण्यम्बास्वरूपिणी",
+  "iastSplit": "Rākiṇyambā-svarūpiṇī",
+  "archana": "ॐ राकिण्यम्बास्वरूपिण्यै नमः",
+  "syllables": ["rā", "kiṇ", "yam", "bās", "va", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "राकिणी", "meaning": { "en": "Rākiṇī, the yoginī of the heart lotus", "hi": "राकिणी, हृदय-कमल की योगिनी" } },
+    { "sa": "अम्बा", "meaning": { "en": "mother", "hi": "माता" } },
+    { "sa": "स्वरूपिणी", "meaning": { "en": "whose own form is", "hi": "जिनका स्वरूप है" } }
+  ],
+  "meaning": {
+    "en": "Whose very form is Mother Rākiṇī",
+    "hi": "राकिणी अम्बा जिनका स्वरूप हैं"
+  },
+  "explanation": {
+    "en": "This name closes the ten names on the heart lotus (485–494). Bhāskararāya says that the form of the Mother named Rākiṇī is her own form. The Goddess and the yoginī of the heart are one.",
+    "hi": "यह नाम हृदय-कमल के दस नामों (485–494) को पूरा करता है। भास्करराय कहते हैं कि राकिणी नाम की अम्बा का स्वरूप ही उनका स्वरूप है। देवी और हृदय की योगिनी एक ही हैं।"
+  },
+  "inner": {
+    "en": "He gives only the literal sense, with no hidden meaning. But the word svarūpa, ‘own form’, matters: the yoginīs are not lesser deities standing beside Lalitā but her own forms, as Bhāskararāya says when he introduces these names as praise of the Goddess in the form of the seven yoginīs.",
+    "hi": "वे केवल शाब्दिक अर्थ देते हैं, कोई गूढ़ अर्थ नहीं। पर ‘स्वरूप’ शब्द महत्त्वपूर्ण है: योगिनियाँ ललिता के पास खड़ी छोटी देवियाँ नहीं, उनके अपने ही रूप हैं, जैसा भास्करराय इन नामों के आरम्भ में कहते हैं कि यहाँ भगवती की स्तुति सात योगिनियों के रूप में की गई है।"
+  },
+  "story": {
+    "en": "Each yoginī group closes by naming its yoginī: Ḍākinī as Īśvarī (484), Kākinī and Hākinī as ‘bearing the form’, and Rākiṇī, Lākinī, Sākinī and Yākinī as ‘whose very form is Mother’. The meditation verse Bhāskararāya quotes calls Rākiṇī the giver of desired fruits.",
+    "hi": "हर योगिनी-समूह अपनी योगिनी का नाम लेकर पूरा होता है: डाकिनी ‘ईश्वरी’ के रूप में (484), काकिनी और हाकिनी ‘रूप धारण करने वाली’ के रूप में, और राकिणी, लाकिनी, साकिनी तथा याकिनी ‘अम्बा-स्वरूपिणी’ के रूप में। भास्करराय के उद्धृत ध्यान-श्लोक में राकिणी को मनचाहा फल देने वाली कहा गया है।"
+  },
+  "commentary": {
+    "sanskrit": "राकिणीनामिकाया अम्बायाः स्वरूपमस्याः ।।",
+    "translation": {
+      "en": "Hers is the very form of the Mother named Rākiṇī.",
+      "hi": "राकिणी नाम की अम्बा का स्वरूप इन्हीं का है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 494 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The name follows the master text’s spelling राकिणी (with ण); the meditation verse in the edition spells it राकिनी. The closing names of the later groups (513, 520, 527, 534) are cited from the master text. The inner layer’s second sentence is a reflection grounded in his introduction to the yoginī names." }
+}

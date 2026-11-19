@@ -1,0 +1,44 @@
+{
+  "number": 201,
+  "verse": 52,
+  "slug": "sadgati-prada",
+  "devanagari": "सद्गतिप्रदा",
+  "iastSplit": "Sad-gati-pradā",
+  "archana": "ॐ सद्गतिप्रदायै नमः",
+  "syllables": ["sad", "ga", "tip", "ra", "dā"],
+  "words": [
+    { "sa": "सत्", "meaning": { "en": "good; the Real (Brahman)", "hi": "शुभ, उत्तम; परम सत्य (ब्रह्म)" } },
+    { "sa": "गति", "meaning": { "en": "destination, goal; also understanding", "hi": "गति, लक्ष्य; ज्ञान भी" } },
+    { "sa": "प्रदा", "meaning": { "en": "she who gives", "hi": "देने वाली" } }
+  ],
+  "meaning": {
+    "en": "Giver of good destinies, up to liberation itself",
+    "hi": "उत्तम गति, यहाँ तक कि मोक्ष, देने वाली"
+  },
+  "explanation": {
+    "en": "Gati is a going, a destination. She grants good destinies to those who worship her, from the heavens up to liberation itself.",
+    "hi": "गति का अर्थ है जाना, गन्तव्य। जो उनकी उपासना करते हैं, उन्हें वे उत्तम गति देती हैं, स्वर्ग से लेकर स्वयं मोक्ष तक।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives three readings. She grants good destinations, from heaven to liberation; or the understanding (gati) of sat, the Real, which is Brahman; or the goal of the good. He recalls the well-known line ‘you are my refuge, you are my mind, you alone, Bhavānī’.",
+    "hi": "भास्करराय तीन अर्थ देते हैं। वे स्वर्ग से मोक्ष तक की सद्गतियाँ देती हैं; या ‘सत्’, अर्थात् ब्रह्म, की अवगति, अर्थात् ज्ञान, देती हैं; या सज्जनों की गति देती हैं। वे प्रसिद्ध वचन का स्मरण कराते हैं: ‘गतिस्त्वं मतिस्त्वं त्वमेका भवानी’, अर्थात् हे भवानी, तुम ही गति हो, तुम ही मति हो, केवल तुम।"
+  },
+  "story": {
+    "en": "This name opens the third hundred, which Bhāskararāya calls the fourth kalā, Marīci. He points to four chapters of the Padma Purāṇa on her worship, which say that one who worships her three times on the fourteenth lunar day reaches the supreme abode where the Devī dwells, and that whoever offers what he can for Durgā’s worship, little or much, is honoured in the world of Rudra.",
+    "hi": "यह नाम तीसरे शतक को आरम्भ करता है, जिसे भास्करराय चौथी कला ‘मरीचि’ कहते हैं। वे पद्म पुराण के उन चार अध्यायों की ओर संकेत करते हैं जो उनकी पूजा का वर्णन करते हैं: जो चतुर्दशी को तीनों समय उनकी पूजा करता है, वह उस परम स्थान को जाता है जहाँ देवी स्थित हैं; और जो अपनी सामर्थ्य के अनुसार थोड़ी या बहुत, दुर्गा-पूजा की सामग्री अर्पित करता है, वह रुद्रलोक में सम्मानित होता है।"
+  },
+  "commentary": {
+    "sanskrit": "स्वर्गादिमोक्षान्ताः सद्गतीः सतो ब्रह्मणोऽवगतिं ज्ञानं वा सतां गतिर्वा प्रददातीति तथा ।",
+    "translation": {
+      "en": "She grants good destinies, from heaven up to liberation; or the understanding, that is, the knowledge, of sat, Brahman; or the goal of the good. Hence the name.",
+      "hi": "वे स्वर्ग से लेकर मोक्ष तक की सद्गतियाँ, अथवा सत् अर्थात् ब्रह्म की अवगति (ज्ञान), अथवा सज्जनों की गति प्रदान करती हैं; इसलिए यह नाम है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 201 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya quotes गतिस्त्वं मतिस्त्वं त्वमेका भवानी as the words of an authority (अभियुक्तोक्ति) without naming the work. Name 201 begins the fourth kalā (third hundred) of the commentary." }
+}

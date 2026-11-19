@@ -1,0 +1,43 @@
+{
+  "number": 408,
+  "verse": 88,
+  "slug": "shivankari",
+  "devanagari": "शिवङ्करी",
+  "iastSplit": "Śivaṅkarī",
+  "archana": "ॐ शिवङ्कर्यै नमः",
+  "syllables": ["śi", "vaṅ", "ka", "rī"],
+  "words": [
+    { "sa": "शिव", "meaning": { "en": "auspiciousness; also Śiva", "hi": "मंगल; शिव भी" } },
+    { "sa": "करी", "meaning": { "en": "she who makes", "hi": "करने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who makes the devotee Śiva, the bringer of good",
+    "hi": "भक्त को शिव बना देने वाली, मंगल करने वाली"
+  },
+  "explanation": {
+    "en": "Śivaṅkarī is she who brings about what is auspicious. Bhāskararāya gives a bolder sense first: she makes her devotee Śiva himself.",
+    "hi": "शिवङ्करी वे हैं जो मंगल करती हैं। भास्करराय पहले एक और गहरा अर्थ देते हैं: वे अपने भक्त को स्वयं शिव बना देती हैं।"
+  },
+  "inner": {
+    "en": "By cutting the noose of ignorance she makes the devotee, as it were, the Brahman that the liberated reach. Bhāskararāya adds ‘as it were’ with care, calling the phrase figurative: nothing new is made, for the devotee was never other than Śiva; she removes what hid it.",
+    "hi": "अविद्या का पाश काटकर वे भक्त को मानो वह ब्रह्म बना देती हैं जिसे मुक्त पुरुष पाते हैं। भास्करराय सावधानी से ‘मानो’ कहते हैं और इसे औपचारिक कथन बताते हैं: कुछ नया नहीं बनता, क्योंकि भक्त कभी शिव से भिन्न था ही नहीं; वे केवल उस आवरण को हटाती हैं।"
+  },
+  "story": {
+    "en": "The fourth name of the Śiva chain closes verse 88. Grammatically it is śivam + karī: by a rule Bhāskararāya cites, the m is kept before kara, which is why the name is chanted with ṅ.",
+    "hi": "‘शिव’ से आरम्भ होने वाले नामों में चौथा यह नाम श्लोक 88 को पूरा करता है। व्याकरण की दृष्टि से यह ‘शिवम् + करी’ है; भास्करराय जिस नियम का उल्लेख करते हैं, उसके अनुसार ‘कर’ से पहले ‘म्’ बना रहता है, इसीलिए इसे ‘शिवङ्करी’ पढ़ा जाता है।"
+  },
+  "commentary": {
+    "sanskrit": "भक्तं शिवमेव करोति अविद्यापाशनिरासेन मुक्तप्राप्यं ब्रह्म करोतीवेत्युपचारात् । मङ्गलं करोतीति वा शिवङ्करी ।",
+    "translation": {
+      "en": "She makes the devotee Śiva himself: by removing the noose of ignorance she makes him, as it were, the Brahman that the liberated attain; this is said figuratively. Or she is Śivaṅkarī because she makes what is auspicious.",
+      "hi": "वे भक्त को शिव ही बना देती हैं: अविद्या का पाश हटाकर उसे मानो मुक्तों द्वारा प्राप्य ब्रह्म बना देती हैं; यह औपचारिक कथन है। अथवा मंगल करने के कारण वे शिवङ्करी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 408 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The second half of the inner layer, on why ‘as it were’ is used, is a reflection on Bhāskararāya’s word उपचारात् (figuratively)." }
+}

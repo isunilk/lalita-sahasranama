@@ -1,0 +1,43 @@
+{
+  "number": 737,
+  "verse": 142,
+  "slug": "mukti-rupini",
+  "devanagari": "मुक्तिरूपिणी",
+  "iastSplit": "Mukti-rūpiṇī",
+  "archana": "ॐ मुक्तिरूपिण्यै नमः",
+  "syllables": ["muk", "ti", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "मुक्ति", "meaning": { "en": "liberation", "hi": "मुक्ति, मोक्ष" } },
+    { "sa": "रूपिणी", "meaning": { "en": "having the form of", "hi": "रूप वाली, स्वरूपा" } }
+  ],
+  "meaning": {
+    "en": "She who is liberation itself",
+    "hi": "जो स्वयं मुक्ति-स्वरूपा हैं"
+  },
+  "explanation": {
+    "en": "Liberation is not something she hands over from outside; it is her own form. Bhāskararāya argues that liberation cannot be a mere ending of ignorance, for a mere ending could not be the highest goal of life. It must be the bliss of one’s own Self, which that ending reveals.",
+    "hi": "मुक्ति कोई बाहरी वस्तु नहीं जो वे दे देती हैं; वह उनका अपना स्वरूप है। भास्करराय तर्क देते हैं कि मुक्ति केवल अविद्या का नाश नहीं हो सकती, क्योंकि केवल नाश जीवन का परम लक्ष्य नहीं बन सकता। वह अपनी आत्मा का आनन्द ही होनी चाहिए, जिसे वह नाश प्रकट करता है।"
+  },
+  "inner": {
+    "en": "He closes with a text he calls the Saura Saṃhitā: the supreme liberation is one’s own Self; hidden by ignorance, it is revealed by knowledge. Freedom, then, is not reached by going somewhere else. It is what we already are, uncovered, and that Self is she.",
+    "hi": "वे एक ग्रन्थ से समापन करते हैं जिसे वे सौर संहिता कहते हैं: परम मुक्ति अपनी आत्मा ही है; अविद्या से ढकी हुई, वह विद्या से प्रकट होती है। इसलिए मुक्ति कहीं और जाकर नहीं मिलती। वह वही है जो हम पहले से हैं, केवल आवरण हटने पर दिखती है, और वह आत्मा वे ही हैं।"
+  },
+  "story": {
+    "en": "In the passage he cites, the text first rejects the views that knowledge produces liberation as an effect, or that liberation is a substance, quality or action, and then concludes that it is simply one’s own Self. With the previous name this completes a pair: she gives liberation and she is liberation.",
+    "hi": "उनके उद्धृत प्रसंग में वह ग्रन्थ पहले इन मतों का खण्डन करता है कि ज्ञान मुक्ति को कार्य की तरह उत्पन्न करता है, या मुक्ति कोई द्रव्य, गुण या कर्म है; फिर निष्कर्ष देता है कि वह अपनी आत्मा ही है। पिछले नाम के साथ यह जोड़ी पूरी होती है: वे मुक्ति देती हैं और वे ही मुक्ति हैं।"
+  },
+  "commentary": {
+    "sanskrit": "तस्मादात्मस्वरूपैव परा मुक्तिरविद्यया । तिरोभूता विशुद्धस्य विद्यया व्यज्यतेऽनघ ।।",
+    "translation": {
+      "en": "Therefore the supreme liberation is of the very nature of the Self. Hidden by ignorance, it is revealed by knowledge to one who is pure, O sinless one.",
+      "hi": "अतः परम मुक्ति आत्मस्वरूप ही है। अविद्या से तिरोहित वह, शुद्ध व्यक्ति के लिए विद्या से प्रकट होती है, हे निष्पाप!"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 737 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The commentary excerpt is a verse Bhāskararāya cites from what the edition prints as सौरसंहिता, chapter 14 (possibly the Sūta Saṃhitā; to be checked); his own gloss is मुक्तिरेव रूपमस्याः. The last clause of the inner layer is a reflection." }
+}

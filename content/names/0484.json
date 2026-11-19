@@ -1,0 +1,43 @@
+{
+  "number": 484,
+  "verse": 99,
+  "slug": "dakinishvari",
+  "devanagari": "डाकिनीश्वरी",
+  "iastSplit": "Ḍākinīśvarī",
+  "archana": "ॐ डाकिनीश्वर्यै नमः",
+  "syllables": ["ḍā", "ki", "nīś", "va", "rī"],
+  "words": [
+    { "sa": "डाकिनी", "meaning": { "en": "Ḍākinī, the yoginī of the throat lotus", "hi": "डाकिनी, कण्ठ-कमल की योगिनी" } },
+    { "sa": "ईश्वरी", "meaning": { "en": "sovereign goddess", "hi": "ईश्वरी, स्वामिनी" } }
+  ],
+  "meaning": {
+    "en": "The sovereign goddess named Ḍākinī",
+    "hi": "डाकिनी नाम की ईश्वरी"
+  },
+  "explanation": {
+    "en": "This name closes the group on the throat lotus. The nine names before it describe her; this one says who she is. Bhāskararāya explains it as ‘the Īśvarī who is called Ḍākinī’.",
+    "hi": "यह नाम कण्ठ-कमल के समूह को पूरा करता है। इससे पहले के नौ नाम उनका वर्णन करते हैं; यह नाम बताता है कि वे कौन हैं। भास्करराय इसका अर्थ ‘डाकिनी नाम की ईश्वरी’ बताते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya’s point is grammatical: the nine qualifiers before this name all belong to it. He gives no hidden meaning. Since the whole sequence praises the Goddess in the form of the seven yoginīs, the name says that it is Lalitā herself who rules at the throat as Ḍākinī.",
+    "hi": "भास्करराय की बात व्याकरण की है: इससे पहले के नौ विशेषण इसी नाम के हैं। वे कोई गूढ़ अर्थ नहीं देते। चूँकि यह पूरा क्रम देवी की स्तुति सात योगिनियों के रूप में करता है, यह नाम बताता है कि कण्ठ में डाकिनी बनकर स्वयं ललिता ही शासन करती हैं।"
+  },
+  "story": {
+    "en": "The meditation verse Bhāskararāya quotes pictures Ḍākinī in the sixteen-petalled lotus at the throat: three-eyed and one-faced, holding a khaṭvāṅga staff, a sword, a trident and a great shield, revered by heroes. Names 475–484 follow this picture closely.",
+    "hi": "भास्करराय जो ध्यान-श्लोक उद्धृत करते हैं, उसमें डाकिनी कण्ठ के सोलह दलों वाले कमल में हैं: तीन नेत्रों और एक मुख वाली, हाथों में खट्वाङ्ग, खड्ग, त्रिशूल और विशाल ढाल धारण किए, वीरों द्वारा वन्दित। नाम 475–484 इसी चित्र का निकट से अनुसरण करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "नवानां विशेषणानां विशेष्यं नाम्ना निर्दिशति- डाकिनीश्वरीति । डाकिन्याख्येश्वरीत्यर्थः ।।",
+    "translation": {
+      "en": "He names the one whom the nine qualifiers describe: Ḍākinīśvarī, meaning the Īśvarī called Ḍākinī.",
+      "hi": "नौ विशेषणों के विशेष्य को वे नाम से बताते हैं: डाकिनीश्वरी, अर्थात् डाकिनी नाम की ईश्वरी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 484 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya treats names 475–483 as nine qualifiers of this name. The meditation verse is described as iconography only. Slug and iastSplit have no hyphen because the two members merge in sandhi (डाकिनी + ईश्वरी)." }
+}

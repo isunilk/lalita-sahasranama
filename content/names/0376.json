@@ -1,0 +1,44 @@
+{
+  "number": 376,
+  "verse": 82,
+  "slug": "shringara-rasa-sampurna",
+  "devanagari": "शृङ्गाररससम्पूर्णा",
+  "iastSplit": "Śṛṅgāra-rasa-sampūrṇā",
+  "archana": "ॐ शृङ्गाररससम्पूर्णायै नमः",
+  "syllables": ["śṛṅ", "gā", "ra", "ra", "sa", "sam", "pūr", "ṇā"],
+  "words": [
+    { "sa": "शृङ्गार", "meaning": { "en": "love, the sentiment of love", "hi": "शृंगार, प्रेम" } },
+    { "sa": "रस", "meaning": { "en": "rasa, aesthetic flavour", "hi": "रस" } },
+    { "sa": "सम्पूर्णा", "meaning": { "en": "completely filled", "hi": "परिपूर्ण" } }
+  ],
+  "meaning": {
+    "en": "Wholly filled with the rasa of love",
+    "hi": "शृंगार रस से पूर्णतः भरी हुई"
+  },
+  "explanation": {
+    "en": "In Indian poetics śṛṅgāra is the rasa of love, the first of the aesthetic flavours. She is wholly filled with it: love itself, in its fullness.",
+    "hi": "भारतीय काव्यशास्त्र में शृंगार प्रेम का रस है, रसों में पहला। वे इससे पूरी तरह भरी हुई हैं: स्वयं प्रेम, अपनी पूर्णता में।"
+  },
+  "inner": {
+    "en": "Bhāskararāya also gives two coded readings. In one, śṛṅga stands for two, arara for a petal and rasa for six: twice six petals, the twelve-petalled anāhata, which in the body is the place of the Pūrṇagiri seat, where she dwells fully (sam-pūrṇā). In the other, the door of covering ignorance (arara) is hers, yet she is joined with the full Brahman, so that she holds both Brahman with qualities and pure Brahman.",
+    "hi": "भास्करराय दो सांकेतिक अर्थ भी देते हैं। एक में ‘शृंग’ दो का, ‘अरर’ दल (पंखुड़ी) का और ‘रस’ छह का सूचक है: दो गुणा छह दल, अर्थात् बारह दलों वाला अनाहत, जो शरीर में पूर्णगिरि पीठ का स्थान है, और वहाँ वे सम्यक् रूप से स्थित (सम्पूर्णा) हैं। दूसरे में आवरण करने वाली अविद्या रूपी किवाड़ (अरर) उनका है, फिर भी वे पूर्ण ब्रह्म से युक्त हैं; इस तरह वे सगुण (शबल) और शुद्ध, दोनों ब्रह्म-रूपों को धारण करती हैं।"
+  },
+  "story": {
+    "en": "Rasa theory names eight or nine flavours of feeling in art, and śṛṅgāra stands first among them. Bhāskararāya’s seat reading ties this name and name 375 to the Kāmarūpa and Pūrṇagiri seats, ahead of Jālandhara (378) and Oḍyāṇa (379).",
+    "hi": "रस-सिद्धान्त कला में भाव के आठ या नौ रस गिनाता है, और उनमें शृंगार पहला है। भास्करराय का पीठ-परक अर्थ इस नाम और नाम 375 को कामरूप और पूर्णगिरि पीठों से जोड़ता है, जिनके बाद जालन्धर (378) और ओड्याण (379) आते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "शृङ्गाराख्यरसेन सम्यक् पूर्णा ।",
+    "translation": {
+      "en": "Fully filled with the rasa called śṛṅgāra.",
+      "hi": "शृंगार नामक रस से सम्यक् रूप से पूर्ण।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 376 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The numerical reading (शृङ्ग = 2, अरर = petal, रस = 6) and the pīṭha reading are Bhāskararāya’s. In this passage the edition prints पूणगिरि for पूर्णगिरि and द्वाशदला for द्वादशदला (not quoted)." }
+}

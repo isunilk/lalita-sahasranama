@@ -1,0 +1,37 @@
+{
+  "number": 314,
+  "verse": 72,
+  "slug": "rakendu-vadana",
+  "devanagari": "राकेन्दुवदना",
+  "iastSplit": "Rākendu-vadanā",
+  "archana": "ॐ राकेन्दुवदनायै नमः",
+  "syllables": ["rā", "ken", "du", "va", "da", "nā"],
+  "words": [
+    { "sa": "राका", "meaning": { "en": "the night of the full moon", "hi": "पूर्णिमा की रात्रि" } },
+    { "sa": "इन्दु", "meaning": { "en": "moon", "hi": "चन्द्रमा" } },
+    { "sa": "वदना", "meaning": { "en": "having a face", "hi": "मुख वाली" } }
+  ],
+  "meaning": {
+    "en": "Whose face is like the full moon",
+    "hi": "पूर्णिमा के चन्द्रमा जैसे मुख वाली"
+  },
+  "explanation": {
+    "en": "Rākā is the night of the full moon, and indu the moon. Her face is like the full moon: round, bright and cooling. Bhāskararāya cites a lexicon in the Agni Purāṇa: when the moon lacks a digit the night is called anumati, and when it is full, rākā.",
+    "hi": "‘राका’ पूर्णिमा की रात्रि है और ‘इन्दु’ चन्द्रमा। उनका मुख पूर्णिमा के चन्द्रमा जैसा है: गोल, उज्ज्वल और शीतल। भास्करराय अग्नि पुराण में दिए कोश का प्रमाण देते हैं: जब चन्द्रमा एक कला से हीन हो, तब रात्रि ‘अनुमति’ कहलाती है, और जब पूर्ण हो, तब ‘राका’।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives the plain sense of the image. The moon of the night before still lacks a sliver; the full moon lacks nothing, as name 292 called her Pūrṇā, the complete one. Her face holds that fullness, and its light cools rather than burns.",
+    "hi": "भास्करराय इस उपमा का सीधा अर्थ देते हैं। पूर्णिमा से पहले की रात का चन्द्रमा अब भी थोड़ा अधूरा होता है, पर पूर्णिमा का चन्द्रमा किसी कला से हीन नहीं, जैसे नाम 292 ने उन्हें ‘पूर्णा’ कहा था। उनके मुख में वही पूर्णता है, और उसका प्रकाश जलाता नहीं, शीतल करता है।"
+  },
+  "story": {
+    "en": "Likening a beautiful face to the full moon is among the oldest figures of Sanskrit poetry. Name 16 earlier spoke of the moon of her face, with her musk mark like the moon’s dark spot.",
+    "hi": "सुन्दर मुख की उपमा पूर्ण चन्द्रमा से देना संस्कृत काव्य की सबसे पुरानी उपमाओं में से है। पहले नाम 16 में उनके मुख-चन्द्र का वर्णन आया था, जिस पर कस्तूरी-तिलक चन्द्रमा के कलंक जैसा लगता है।"
+  },
+  "commentary": null,
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Commentary left null: the edition’s gloss reads पूर्णचन्द्रवद्वनं, evidently a misprint for पूर्णचन्द्रवद्वदनं. Bhāskararāya also reads names 313–315 together as a coded description (uddhāra) of a seed-syllable; it is not spelled out. The inner layer after its first sentence is a reflection." }
+}

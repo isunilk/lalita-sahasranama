@@ -1,0 +1,57 @@
+{
+  "number": 633,
+  "verse": 126,
+  "slug": "uma",
+  "devanagari": "उमा",
+  "iastSplit": "Umā",
+  "archana": "ॐ उमायै नमः",
+  "syllables": [
+    "u",
+    "mā"
+  ],
+  "words": [
+    {
+      "sa": "उमा",
+      "meaning": {
+        "en": "Umā; splendour of Śiva; flax flower; fame, radiance",
+        "hi": "उमा; शिव की शोभा; अलसी का फूल; कीर्ति, कान्ति"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Umā, the splendour of Śiva",
+    "hi": "उमा, शिव की शोभा"
+  },
+  "explanation": {
+    "en": "Umā is among the best-known names of Pārvatī, Śiva’s consort. The word has many senses: u stands for Śiva and mā for Lakṣmī, so she is Śiva’s glory; umā also names the flax flower and turmeric, recalling her colour, and means fame and radiance.",
+    "hi": "‘उमा’ शिव की शक्ति पार्वती के सबसे प्रसिद्ध नामों में से है। इस शब्द के अनेक अर्थ हैं: ‘उ’ शिव का वाचक है और ‘मा’ लक्ष्मी का, इसलिए वे शिव की शोभा हैं; ‘उमा’ अलसी के फूल और हल्दी का भी नाम है, जो उनके वर्ण की याद दिलाता है, और इसका अर्थ कीर्ति और कान्ति भी है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says those who know the secret call this word the Devī’s praṇava: the three sounds of Om, a, u and m, in the order u-m-a. He cites the Liṅga Purāṇa, where Śiva tells the Goddess that a-u-m is his praṇava and u-m-a is hers. He also cites the Śiva-sūtra “icchā śaktir umā kumārī”: the yogi’s power of will is called Umā.",
+    "hi": "भास्करराय कहते हैं कि रहस्य जानने वाले इस शब्द को ‘देवीप्रणव’ कहते हैं: ॐ के तीन वर्ण अ, उ और म, उ-म-अ के क्रम में। वे लिङ्ग पुराण का वचन देते हैं, जहाँ शिव देवी से कहते हैं कि अ-उ-म उनका प्रणव है और उ-म-अ देवी का। वे शिवसूत्र ‘इच्छा शक्तिरुमा कुमारी’ भी उद्धृत करते हैं: योगी की इच्छाशक्ति को उमा कहा गया है।"
+  },
+  "story": {
+    "en": "The Purāṇas explain her name with a story. As a girl Pārvatī set out to win Śiva by austerity, and her mother Menā tried to stop her, crying “u mā”, “O, do not!”; from that cry she became Umā. Bhāskararāya cites this from the Kālikā, Brahma and Padma Purāṇas.",
+    "hi": "पुराण उनके नाम की एक कथा बताते हैं। बालिका पार्वती शिव को पाने के लिए तप करने चलीं, तो उनकी माता मेना ने उन्हें रोकते हुए कहा, ‘उ मा’, अर्थात् ‘अरी, ऐसा मत कर!’; उसी पुकार से वे उमा कहलाईं। भास्करराय यह कथा कालिका, ब्रह्म और पद्म पुराणों से उद्धृत करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "उ इत्यामन्त्रणे । मेति निषेधे । बाल्ये तपस्यन्ती भगवती मात्रामन्त्र्य निषिद्धेत्युमा वा ।",
+    "translation": {
+      "en": "U is a word of calling, mā a word of forbidding. Or she is Umā because, when as a girl the Bhagavatī was practising austerity, her mother called to her and forbade her.",
+      "hi": "‘उ’ सम्बोधन के अर्थ में है, ‘मा’ निषेध के अर्थ में। अथवा बचपन में तप करती हुई भगवती को माता ने पुकार कर रोका, इसलिए वे उमा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 633 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The Purāṇic verses differ in detail: in the Kālikā the mother stops her from going to the forest, in the Brahma she speaks to the fasting Aparṇā, and in the Padma a heavenly voice confirms the name. The story layer gives their common core."
+  }
+}

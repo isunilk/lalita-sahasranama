@@ -1,0 +1,43 @@
+{
+  "number": 569,
+  "verse": 115,
+  "slug": "nikhileshvari",
+  "devanagari": "निखिलेश्वरी",
+  "iastSplit": "Nikhileśvarī",
+  "archana": "ॐ निखिलेश्वर्यै नमः",
+  "syllables": ["ni", "khi", "leś", "va", "rī"],
+  "words": [
+    { "sa": "निखिल", "meaning": { "en": "all, entire", "hi": "सम्पूर्ण, समस्त" } },
+    { "sa": "ईश्वरी", "meaning": { "en": "sovereign, ruler", "hi": "ईश्वरी, स्वामिनी" } }
+  ],
+  "meaning": {
+    "en": "Sovereign of the entire universe",
+    "hi": "सम्पूर्ण जगत् की ईश्वरी"
+  },
+  "explanation": {
+    "en": "Nikhila means the whole, with nothing left out. She is the ruler of the entire manifest world, of every part of it.",
+    "hi": "‘निखिल’ का अर्थ है सम्पूर्ण, जिसमें कुछ भी न छूटे। वे इस समस्त प्रकट जगत् की, उसके हर अंश की, ईश्वरी हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya glosses nikhila as the entire prapañca, the whole spread of the manifest world, and gives no hidden meaning. Nothing in it, great or small, lies outside her rule.",
+    "hi": "भास्करराय ‘निखिल’ का अर्थ सम्पूर्ण प्रपंच, अर्थात् प्रकट जगत् का पूरा विस्तार, बताते हैं, और कोई गूढ़ अर्थ नहीं देते। उसमें छोटा-बड़ा कुछ भी उनके शासन से बाहर नहीं है।"
+  },
+  "story": {
+    "en": "With this name the first line of verse 115 ends. The second line turns from her rule to how she is reached and what she witnesses.",
+    "hi": "इस नाम के साथ श्लोक 115 की पहली पंक्ति पूरी होती है। दूसरी पंक्ति उनके शासन से हटकर यह बताती है कि वे कैसे प्राप्त होती हैं और किसकी साक्षी हैं।"
+  },
+  "commentary": {
+    "sanskrit": "निखिलस्य कृत्स्नप्रपञ्चस्येश्वरी ।",
+    "translation": {
+      "en": "The sovereign of the nikhila, the entire manifest world.",
+      "hi": "निखिल, अर्थात् सम्पूर्ण प्रपंच, की ईश्वरी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 569 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense." }
+}

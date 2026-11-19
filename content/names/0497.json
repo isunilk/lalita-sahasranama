@@ -1,0 +1,45 @@
+{
+  "number": 497,
+  "verse": 102,
+  "slug": "vajradikayudhopeta",
+  "devanagari": "वज्रादिकायुधोपेता",
+  "iastSplit": "Vajrādikāyudhopetā",
+  "archana": "ॐ वज्रादिकायुधोपेतायै नमः",
+  "syllables": ["vaj", "rā", "di", "kā", "yu", "dho", "pe", "tā"],
+  "words": [
+    { "sa": "वज्र", "meaning": { "en": "thunderbolt", "hi": "वज्र" } },
+    { "sa": "आदिक", "meaning": { "en": "beginning with, and the others", "hi": "आदि" } },
+    { "sa": "आयुध", "meaning": { "en": "weapon", "hi": "आयुध, शस्त्र" } },
+    { "sa": "उपेता", "meaning": { "en": "furnished with", "hi": "युक्त, सम्पन्न" } }
+  ],
+  "meaning": {
+    "en": "Armed with the thunderbolt and other weapons",
+    "hi": "वज्र आदि आयुधों से युक्त"
+  },
+  "explanation": {
+    "en": "Bhāskararāya says she is furnished with four weapons, the first of them the vajra, the thunderbolt. The meditation verse he quotes names the thunderbolt, a staff and the gesture of fearlessness among them.",
+    "hi": "भास्करराय बताते हैं कि वे चार आयुधों से युक्त हैं, जिनमें पहला वज्र है। उनके उद्धृत ध्यान-श्लोक में इनमें वज्र, दण्ड और अभय-मुद्रा का नाम आता है।"
+  },
+  "inner": {
+    "en": "He gives only the literal sense, with no hidden meaning. The thunderbolt is Indra’s weapon, the sign of irresistible force; that the gesture of fearlessness is held beside it says that her power is turned toward protection.",
+    "hi": "वे केवल शाब्दिक अर्थ देते हैं, कोई गूढ़ अर्थ नहीं। वज्र इन्द्र का आयुध है, अजेय शक्ति का प्रतीक; उसके साथ अभय-मुद्रा का होना बताता है कि उनकी शक्ति रक्षा की ओर उन्मुख है।"
+  },
+  "story": {
+    "en": "Each yoginī carries four emblems in these names and in the meditation verses Bhāskararāya quotes: Ḍākinī the khaṭvāṅga staff and others, Rākiṇī the rosary and others, Lākinī the thunderbolt and others, Kākinī the trident and others, and Sākinī the goad and others.",
+    "hi": "इन नामों और भास्करराय के उद्धृत ध्यान-श्लोकों में हर योगिनी चार आयुध धारण करती है: डाकिनी खट्वाङ्ग आदि, राकिणी अक्षमाला आदि, लाकिनी वज्र आदि, काकिनी शूल आदि, और साकिनी अङ्कुश आदि।"
+  },
+  "commentary": {
+    "sanskrit": "वज्रादिकैश्चतुर्भिरायुधैरुपेता ।",
+    "translation": {
+      "en": "Furnished with four weapons, the vajra and the rest.",
+      "hi": "वज्र आदि चार आयुधों से युक्त।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 497 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the second sentence of the inner layer is a reflection. The verse he quotes reads शक्तिं दम्भोलिदण्डावभयमपि; only the thunderbolt, staff and gesture of fearlessness are named here, and whether शक्ति names a fourth weapon (a spear) is left to the reviewer." }
+}

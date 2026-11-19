@@ -1,0 +1,43 @@
+{
+  "number": 202,
+  "verse": 52,
+  "slug": "sarveshvari",
+  "devanagari": "सर्वेश्वरी",
+  "iastSplit": "Sarveśvarī",
+  "archana": "ॐ सर्वेश्वर्यै नमः",
+  "syllables": ["sar", "veś", "va", "rī"],
+  "words": [
+    { "sa": "सर्व", "meaning": { "en": "all", "hi": "सब, सम्पूर्ण" } },
+    { "sa": "ईश्वरी", "meaning": { "en": "sovereign, ruler (feminine)", "hi": "स्वामिनी, ईश्वरी" } }
+  ],
+  "meaning": {
+    "en": "The sovereign ruler of all",
+    "hi": "सबकी स्वामिनी"
+  },
+  "explanation": {
+    "en": "Īśvarī is a sovereign, one who rules and owns. She is the ruler of everything that exists, and nothing lies outside her rule.",
+    "hi": "ईश्वरी का अर्थ है स्वामिनी, जो शासन करे और जिसका अधिकार हो। जो कुछ भी है, वे उन सबकी स्वामिनी हैं; उनके शासन से बाहर कुछ भी नहीं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya links this name to the one before: because she grants every goal, she is the owner of all. He then adds that lordship without any limit cannot stand unless the lord is one with what is ruled, and that is why the next name calls her sarvamayī, ‘made of all’.",
+    "hi": "भास्करराय इस नाम को पिछले नाम से जोड़ते हैं: क्योंकि वे हर गति देती हैं, इसलिए वे सबकी स्वामिनी हैं। फिर वे कहते हैं कि असीम स्वामित्व तभी सम्भव है जब स्वामी उनसे अभिन्न हो जिन पर वह शासन करता है; इसीलिए अगला नाम उन्हें ‘सर्वमयी’, अर्थात् सर्वरूपा, कहता है।"
+  },
+  "story": {
+    "en": "Her sovereignty was named at the very start of the hymn, in Śrī-mahārājñī, the great Empress (name 2), and Śrīmat-siṃhāsaneśvarī, queen of the lion-throne (name 3).",
+    "hi": "उनकी प्रभुता का उल्लेख स्तोत्र के आरम्भ में ही हो चुका है: श्रीमहाराज्ञी, अर्थात् महान साम्राज्ञी (नाम 2), और श्रीमत्सिंहासनेश्वरी, अर्थात् सिंहासन की स्वामिनी (नाम 3)।"
+  },
+  "commentary": {
+    "sanskrit": "अत-एव सर्वस्वामित्वात्सर्वेश्वरी । असंकुचितस्वामित्वमभेदं विना न निर्वहतीत्याह ।",
+    "translation": {
+      "en": "For this very reason, being the owner of all, she is sarveśvarī. Lordship without limit cannot hold without oneness, and so the text goes on to the next name.",
+      "hi": "इसी कारण सबकी स्वामिनी होने से वे सर्वेश्वरी हैं। असीम स्वामित्व अभेद के बिना नहीं निभता, इसलिए आगे का नाम कहा गया है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 202 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The second sentence of the quote introduces name 203. The story layer’s link to names 2 and 3 is context, not from the commentary." }
+}

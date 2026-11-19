@@ -1,0 +1,43 @@
+{
+  "number": 393,
+  "verse": 86,
+  "slug": "prabhavati",
+  "devanagari": "प्रभावती",
+  "iastSplit": "Prabhāvatī",
+  "archana": "ॐ प्रभावत्यै नमः",
+  "syllables": ["pra", "bhā", "va", "tī"],
+  "words": [
+    { "sa": "प्रभा", "meaning": { "en": "light, radiance; here the deities Aṇimā and the rest", "hi": "प्रभा, ज्योति; यहाँ अणिमा आदि देवियाँ" } },
+    { "sa": "वत्", "meaning": { "en": "possessing (suffix)", "hi": "युक्त, वाली (प्रत्यय)" } }
+  ],
+  "meaning": {
+    "en": "Radiant, surrounded by her rays",
+    "hi": "प्रभामयी, अपनी किरणों से घिरी"
+  },
+  "explanation": {
+    "en": "Prabhāvatī means radiant, possessed of light. Bhāskararāya takes the rays as the deities of the Śrīcakra’s enclosures, beginning with Aṇimā: she is surrounded by them as the sun by its rays.",
+    "hi": "‘प्रभावती’ का अर्थ है प्रभा से युक्त, ज्योतिर्मयी। भास्करराय उनकी किरणों को श्रीचक्र के आवरणों की देवियाँ मानते हैं, जिनमें पहली अणिमा है: वे उनसे वैसे ही घिरी हैं जैसे सूर्य अपनी किरणों से।"
+  },
+  "inner": {
+    "en": "He supports this with the dhyāna verse recited before the hymn, which pictures her “surrounded by rays, Aṇimā and the others”. Aṇimā and the rest are the siddhis, powers such as becoming minute or vast; seen this way, every power a seeker might gain is only a ray of her light, not something apart from her.",
+    "hi": "इसके समर्थन में वे स्तोत्र से पहले पढ़े जाने वाले ध्यान-श्लोक का वचन देते हैं, जो उन्हें ‘अणिमा आदि किरणों से घिरी’ बताता है। अणिमा आदि सिद्धियाँ हैं, जैसे अणु के समान सूक्ष्म या विशाल हो जाने की शक्ति; इस दृष्टि से साधक को मिलने वाली हर शक्ति उनकी ज्योति की एक किरण मात्र है, उनसे अलग कुछ नहीं।"
+  },
+  "story": {
+    "en": "Names 393 to 396 form the first line of verse 86. Bhāskararāya reads the first two as a pair: the rays are hers, and she is the rays.",
+    "hi": "नाम 393 से 396 श्लोक 86 की पहली पंक्ति बनाते हैं। भास्करराय पहले दो नामों को जोड़ी के रूप में पढ़ते हैं: किरणें उनकी हैं, और वे स्वयं किरणें हैं।"
+  },
+  "commentary": {
+    "sanskrit": "प्रभा अणिमाद्या आवरणदेवताः । अणिमादिभिरावृतां मयूखैरिति वचनात् । तद्वती ताभिरावृता ।",
+    "translation": {
+      "en": "The prabhās are the enclosure-deities beginning with Aṇimā, as the words “surrounded by rays, Aṇimā and the rest” say. She possesses them, that is, she is surrounded by them.",
+      "hi": "प्रभाएँ अणिमा आदि आवरण-देवियाँ हैं, जैसा ‘अणिमा आदि किरणों से घिरी’ वचन कहता है। वे उनसे युक्त हैं, अर्थात् उनसे घिरी हुई हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 393 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya cites अणिमादिभिरावृतां मयूखैः only as ‘वचनात्’; its identification with the dhyāna verse अरुणां करुणातरङ्गिताक्षीं is mine. The last clause of the inner layer is a reflection." }
+}

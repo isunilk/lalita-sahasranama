@@ -1,0 +1,43 @@
+{
+  "number": 487,
+  "verse": 100,
+  "slug": "vadana-dvaya",
+  "devanagari": "वदनद्वया",
+  "iastSplit": "Vadana-dvayā",
+  "archana": "ॐ वदनद्वयायै नमः",
+  "syllables": ["va", "da", "nad", "va", "yā"],
+  "words": [
+    { "sa": "वदन", "meaning": { "en": "face, mouth", "hi": "मुख" } },
+    { "sa": "द्वय", "meaning": { "en": "pair", "hi": "जोड़ा, युगल" } }
+  ],
+  "meaning": {
+    "en": "Who has two faces",
+    "hi": "दो मुखों वाली"
+  },
+  "explanation": {
+    "en": "Rākiṇī, the yoginī of the heart lotus, has two faces. Bhāskararāya explains it simply: she who has a pair of faces.",
+    "hi": "हृदय-कमल की योगिनी राकिणी के दो मुख हैं। भास्करराय इसे सरलता से समझाते हैं: जिनके मुखों का युगल है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the literal sense, with no hidden meaning. Like the colour, the weapons and the favourite food, the number of faces is one of the fixed marks by which each yoginī is known.",
+    "hi": "भास्करराय केवल शाब्दिक अर्थ देते हैं, कोई गूढ़ अर्थ नहीं। वर्ण, आयुध और प्रिय अन्न की तरह मुखों की संख्या भी उन निश्चित लक्षणों में से है जिनसे हर योगिनी पहचानी जाती है।"
+  },
+  "story": {
+    "en": "Counting through the yoginī names: Ḍākinī has one face, Rākiṇī two, Lākinī three, Kākinī four, Sākinī five and Hākinī six, while Yākinī in the thousand-petalled lotus has faces on every side.",
+    "hi": "योगिनी-नामों में गिनें तो डाकिनी का एक मुख है, राकिणी के दो, लाकिनी के तीन, काकिनी के चार, साकिनी के पाँच और हाकिनी के छह, जबकि सहस्रदल कमल की याकिनी के मुख सब ओर हैं।"
+  },
+  "commentary": {
+    "sanskrit": "वदनयोर्द्वयं यस्याः ।",
+    "translation": {
+      "en": "She who has a pair of faces.",
+      "hi": "जिनके मुखों का युगल है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 487 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense. The face counts in the story come from names 479, 487, 496, 505, 515, 523 and 532." }
+}

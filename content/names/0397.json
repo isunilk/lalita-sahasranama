@@ -1,0 +1,43 @@
+{
+  "number": 397,
+  "verse": 86,
+  "slug": "mula-prakriti",
+  "devanagari": "मूलप्रकृतिः",
+  "iastSplit": "Mūla-prakṛtiḥ",
+  "archana": "ॐ मूलप्रकृत्यै नमः",
+  "syllables": ["mū", "lap", "ra", "kṛ", "tiḥ"],
+  "words": [
+    { "sa": "मूल", "meaning": { "en": "root", "hi": "मूल, जड़" } },
+    { "sa": "प्रकृति", "meaning": { "en": "source, primal nature", "hi": "प्रकृति, मूल कारण" } }
+  ],
+  "meaning": {
+    "en": "The root source of all creation",
+    "hi": "समस्त सृष्टि की मूल प्रकृति"
+  },
+  "explanation": {
+    "en": "Prakṛti is the source from which things come forth, and mūla means root. She is the first source of everything, with no source behind her.",
+    "hi": "प्रकृति वह स्रोत है जिससे वस्तुएँ उत्पन्न होती हैं, और ‘मूल’ का अर्थ है जड़। वे सबका पहला स्रोत हैं, जिनके पीछे कोई और स्रोत नहीं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives many readings: the mūlaprakṛti of Sāṅkhya, the uncreated root of all; the Kuṇḍalinī, which the Mṛgendra Saṃhitā calls the eightfold prakṛti; and the cause of the mūla, the root mantra of Śrīvidyā, as the two principles of light (prakāśa) and reflective awareness (vimarśa). His fullest reading traces creation back step by step: each stage arises from the one before, the Unmanifest arises from Brahman, and Brahman has no further root. She is that root.",
+    "hi": "भास्करराय अनेक अर्थ देते हैं: सांख्य की मूलप्रकृति, जो सबकी अनुत्पन्न जड़ है; कुण्डलिनी, जिसे मृगेन्द्रसंहिता आठ प्रकार की प्रकृति कहती है; और मूल, अर्थात् श्रीविद्या के मूल मन्त्र, का कारण, प्रकाश और विमर्श के रूप में। उनका सबसे विस्तृत अर्थ सृष्टि को क्रम से पीछे की ओर ले जाता है: हर अवस्था अपने से पहली अवस्था से उत्पन्न होती है, अव्यक्त ब्रह्म से, और ब्रह्म की कोई और जड़ नहीं। वही जड़ वे हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya says that with the next name the hymn begins to praise her, in order, through all the forms of creation: the Unmanifest, the great principle, ahaṅkāra and what comes from it. In the chanted verse mūlaprakṛtiḥ and avyaktā run together as mūlaprakṛtir avyaktā.",
+    "hi": "भास्करराय कहते हैं कि अगले नाम से स्तोत्र क्रम से सृष्टि के सभी रूपों में उनकी स्तुति आरम्भ करता है: अव्यक्त, महत्तत्त्व, अहंकार और उससे उत्पन्न सब कुछ। पाठ में ‘मूलप्रकृतिः’ और ‘अव्यक्ता’ मिलकर ‘मूलप्रकृतिरव्यक्ता’ बोले जाते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "एवं चाव्यक्तादिसर्गाणां मध्ये उत्तरोत्तरस्य पूर्वपूर्वं प्रकृतिः अव्यक्तस्य तु ब्रह्मैव प्रकृतिरिति सर्वसृष्टीनां मूलभूतत्वात्तस्य मूलान्तराभावाच्च मूलप्रकृतिरित्यर्थः ।",
+    "translation": {
+      "en": "Thus among the creations beginning with the Unmanifest, each earlier one is the prakṛti, the source, of the one after it; but the source of the Unmanifest is Brahman itself. Because that is the root of all creations and has no other root, the meaning is mūlaprakṛti, the root source.",
+      "hi": "इस प्रकार अव्यक्त आदि सृष्टियों में प्रत्येक पूर्ववर्ती अपनी परवर्ती की प्रकृति, अर्थात् कारण, है; पर अव्यक्त की प्रकृति स्वयं ब्रह्म है। सब सृष्टियों का मूल होने से और उसका कोई अन्य मूल न होने से इसका अर्थ है मूलप्रकृति।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 397 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives several readings (Sāṅkhya, Mṛgendra Saṃhitā, Pañcarātra, a letter-count reading of मू and ल); only the main ones are summarised, and the two letters he names for the mūla mantra are not given. Archana मूलप्रकृत्यै kept from the nāmāvali; मूलप्रकृतये is also grammatical." }
+}

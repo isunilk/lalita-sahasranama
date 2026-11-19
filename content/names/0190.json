@@ -1,0 +1,42 @@
+{
+  "number": 190,
+  "verse": 50,
+  "slug": "durga",
+  "devanagari": "दुर्गा",
+  "iastSplit": "Durgā",
+  "archana": "ॐ दुर्गायै नमः",
+  "syllables": ["dur", "gā"],
+  "words": [
+    { "sa": "दुर्गा", "meaning": { "en": "Durgā; from durga, a fortress or a hard strait, hard to approach", "hi": "दुर्गा; ‘दुर्ग’ से, अर्थात् किला या संकट का स्थान, जहाँ पहुँचना कठिन हो" } }
+  ],
+  "meaning": {
+    "en": "Durgā, the unassailable one who carries her devotees through danger",
+    "hi": "दुर्गा, जो अजेय हैं और संकट से पार लगाती हैं"
+  },
+  "explanation": {
+    "en": "Durga means a fortress, a place hard to reach, and also a hard strait or danger. Durgā is the unassailable one, and the one who brings the gods and her devotees safely through every danger.",
+    "hi": "दुर्ग का अर्थ है किला, ऐसा स्थान जहाँ पहुँचना कठिन हो, और संकट या विपत्ति भी। दुर्गा वे हैं जिन्हें कोई जीत नहीं सकता, और जो देवताओं तथा भक्तों को हर संकट से सुरक्षित पार लगाती हैं।"
+  },
+  "inner": {
+    "en": "In the Devī Purāṇa etymology that Bhāskararāya quotes, durga is a perilous strait, and she is called Durgā because she carried the gods, led by Indra, through it when they feared their enemies. He gives no further hidden meaning. As a reflection: the names just before say she is hard to reach (188–189); here that same inaccessibility becomes protection, for the fortress no enemy can enter is the safest refuge.",
+    "hi": "भास्करराय जो देवी पुराण की निरुक्ति उद्धृत करते हैं, उसमें ‘दुर्ग’ संकट का स्थान है; शत्रुओं के भय में पड़े इन्द्र आदि देवताओं को उन्होंने उससे पार लगाया, इसलिए वे दुर्गा कहलाती हैं। वे इसके आगे कोई गूढ़ अर्थ नहीं देते। चिन्तन के रूप में: पिछले नाम कहते हैं कि उन तक पहुँचना कठिन है (188–189); यहाँ वही दुर्गमता रक्षा बन जाती है, क्योंकि जिस दुर्ग में शत्रु प्रवेश न कर सके, वही सबसे सुरक्षित शरण है।"
+  },
+  "story": {
+    "en": "Bhāskararāya cites the Devī’s own words in the Mārkaṇḍeya Purāṇa, the Pāñcarātra and the Lakṣmī Tantra: ‘There I shall slay the great asura named Durgama, and my name will be renowned as Durgādevī.’ From the Devī Bhāgavata he adds that she stayed in Vārāṇasī under this name at the prayer of King Subāhu, to whom she had granted a boon, and he notes that in the worship of young girls a girl of nine is called Durgā.",
+    "hi": "भास्करराय मार्कण्डेय पुराण, पाञ्चरात्र और लक्ष्मी तन्त्र से स्वयं देवी के वचन उद्धृत करते हैं: ‘वहीं मैं दुर्गम नामक महासुर का वध करूँगी, और मेरा नाम दुर्गादेवी के रूप में विख्यात होगा।’ देवी भागवत से वे जोड़ते हैं कि राजा सुबाहु को वर देने के बाद उनकी प्रार्थना पर वे इसी नाम से वाराणसी में स्थित हुईं; और वे बताते हैं कि कन्या-पूजन में नौ वर्ष की कन्या को दुर्गा कहा जाता है।"
+  },
+  "commentary": {
+    "sanskrit": "सुबलादिभये दुर्गे तारिता रिपुसङ्कटे । देवाः शक्रादयो येन तेन दुर्गा प्रकीर्तिता ।।",
+    "translation": {
+      "en": "Because the gods, Śakra and the rest, were carried across by her when they were in a strait (durga) of fear from Subala and others, in peril from their foes, she is proclaimed Durgā.",
+      "hi": "सुबल आदि के भय से उत्पन्न संकट (दुर्ग) में, शत्रुओं से घिरे शक्र (इन्द्र) आदि देवताओं को उन्होंने पार लगाया; इसलिए वे दुर्गा कहलाती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 190 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The commentary quote is a Devī Purāṇa verse that Bhāskararāya cites for the etymology of Durgā. In the Devī Māhātmya verse he quotes, the edition prints भष्यति, evidently for भविष्यति. He also mentions the Kāśī Khaṇḍa chapter on the demon Durga and a seat of the Devī at Sannati on the Bhīmarathī; these are left out." }
+}

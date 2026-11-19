@@ -1,0 +1,36 @@
+{
+  "number": 173,
+  "verse": 48,
+  "slug": "samshaya-ghni",
+  "devanagari": "संशयघ्नी",
+  "iastSplit": "Saṃśaya-ghnī",
+  "archana": "ॐ संशयघ्न्यै नमः",
+  "syllables": ["saṃ", "śa", "yagh", "nī"],
+  "words": [
+    { "sa": "संशय", "meaning": { "en": "doubt", "hi": "संशय, सन्देह" } },
+    { "sa": "घ्नी", "meaning": { "en": "she who strikes down, destroys", "hi": "नष्ट करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who destroys the doubts of her devotees",
+    "hi": "भक्तों के संशयों को नष्ट करने वाली"
+  },
+  "explanation": {
+    "en": "Ghnī means she who strikes down or destroys. She cuts through the doubts of those who come to her, as a true teacher does, by showing them the truth.",
+    "hi": "‘घ्नी’ का अर्थ है मार गिराने वाली, नष्ट करने वाली। जो उनके पास आते हैं, उनके संशयों को वे सच्चे गुरु की भाँति, सत्य दिखाकर, काट देती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya explains this name together with the last, through the Tantrarāja’s marks of the guru: the guru is the cutter of doubt because he teaches the truth he knows. The Devī is one with that guru; when doubt is cut by the teaching of truth, it is she who cuts it.",
+    "hi": "भास्करराय इस नाम को पिछले नाम के साथ तन्त्रराज में बताए गुरु-लक्षणों के प्रकाश में समझाते हैं: गुरु संशय का छेदन करने वाला इसलिए है कि वह अपने जाने हुए तत्त्व का उपदेश देता है। देवी उस गुरु से अभिन्न हैं; जब तत्त्व के उपदेश से संशय कटता है, तो उसे काटने वाली वही हैं।"
+  },
+  "story": {
+    "en": "Doubt is the last of the inner knots in this run of names, before the closing pair on bhava, worldly becoming. The Gītā warns that for one full of doubt there is neither this world, nor the next, nor happiness.",
+    "hi": "इस क्रम में संशय भीतर की अन्तिम गाँठ है; उसके बाद अन्तिम जोड़ा ‘भव’, अर्थात् जन्म-मरण के संसार, की बात करता है। गीता चेतावनी देती है कि संशय से भरे मनुष्य के लिए न यह लोक है, न परलोक, न सुख।"
+  },
+  "commentary": null,
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya explains names 172 and 173 as a single pair; his summary sentence is quoted under name 172, so commentary is null here. The last clause of the inner layer is a reflection on his identification of the Devī with the guru. The Gītā reference (4.40) in the story layer is context." }
+}

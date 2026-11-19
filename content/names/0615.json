@@ -1,0 +1,66 @@
+{
+  "number": 615,
+  "verse": 124,
+  "slug": "adi-shakti",
+  "devanagari": "आदिशक्तिः",
+  "iastSplit": "Ādi-śaktiḥ",
+  "archana": "ॐ आदिशक्त्यै नमः",
+  "syllables": [
+    "ā",
+    "di",
+    "śak",
+    "tiḥ"
+  ],
+  "words": [
+    {
+      "sa": "आदि",
+      "meaning": {
+        "en": "first, original",
+        "hi": "आदि, मूल"
+      }
+    },
+    {
+      "sa": "शक्ति",
+      "meaning": {
+        "en": "power",
+        "hi": "शक्ति"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "The primordial Power",
+    "hi": "आदिशक्ति, सबकी मूल शक्ति"
+  },
+  "explanation": {
+    "en": "Ādi means first or original, and śakti is power. She is the first power, the cause from which all worlds come forth.",
+    "hi": "‘आदि’ का अर्थ है प्रथम या मूल, और ‘शक्ति’ है सामर्थ्य। वे वह प्रथम शक्ति हैं, वह कारण जिससे सब लोक उत्पन्न होते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya explains: because she brings forth all the worlds, she is the first, the cause, and she is power. He gives no further hidden meaning here. Before any god, world or creature there is power, and that power is she.",
+    "hi": "भास्करराय समझाते हैं: सब लोकों को उत्पन्न करने के कारण वे आदि, अर्थात् कारण, हैं, और वे शक्ति हैं। वे यहाँ इससे आगे कोई गूढ़ अर्थ नहीं देते। किसी भी देवता, लोक या प्राणी से पहले शक्ति है, और वह शक्ति वही हैं।"
+  },
+  "story": {
+    "en": "The verse opens with names that speak of her as the ultimate: the first power, the immeasurable, the Self, the supreme. Bhāskararāya reads “ādiśaktir ameyātmā” as three names, as the nāmāvali does.",
+    "hi": "यह श्लोक उन नामों से आरम्भ होता है जो उन्हें परम सत्य के रूप में बताते हैं: आदिशक्ति, अमेया, आत्मा और परमा। भास्करराय ‘आदिशक्तिरमेयात्मा’ को तीन नाम मानते हैं, जैसा नामावली में भी है।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वजगतामुत्पादकत्वादादिः कारणभूता च सा शक्तिश्च ।",
+    "translation": {
+      "en": "Because she produces all the worlds she is ādi, the original cause, and she is also śakti, power.",
+      "hi": "सब जगतों को उत्पन्न करने के कारण वे आदि, अर्थात् कारण-रूप, हैं, और वे शक्ति भी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 615 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. Bhāskararāya divides आदिशक्तिरमेयात्मा into three names, as the master text does; the edition prints the half-line as ‘आदिशक्तिऽरमेयाऽत्मा’ with stray avagrahas. The last sentence of the inner layer is a reflection."
+  }
+}

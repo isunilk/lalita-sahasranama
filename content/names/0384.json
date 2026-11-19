@@ -1,0 +1,43 @@
+{
+  "number": 384,
+  "verse": 84,
+  "slug": "vishva-sakshini",
+  "devanagari": "विश्वसाक्षिणी",
+  "iastSplit": "Viśva-sākṣiṇī",
+  "archana": "ॐ विश्वसाक्षिण्यै नमः",
+  "syllables": ["viś", "va", "sāk", "ṣi", "ṇī"],
+  "words": [
+    { "sa": "विश्व", "meaning": { "en": "universe, all", "hi": "विश्व, सम्पूर्ण जगत" } },
+    { "sa": "साक्षिणी", "meaning": { "en": "witness", "hi": "साक्षी" } }
+  ],
+  "meaning": {
+    "en": "Witness of the whole universe",
+    "hi": "सम्पूर्ण विश्व की साक्षी"
+  },
+  "explanation": {
+    "en": "A sākṣī is one who sees directly. She sees the whole universe directly, and nothing happens anywhere that she does not see.",
+    "hi": "साक्षी वह है जो प्रत्यक्ष देखता है। वे सारे विश्व को प्रत्यक्ष देखती हैं, और कहीं भी कुछ ऐसा नहीं होता जो उनकी दृष्टि से बाहर हो।"
+  },
+  "inner": {
+    "en": "Bhāskararāya stresses that her seeing has no medium: she sees by the awareness that is her own nature, not through senses or instruments. A witness does not take part in what it sees and is not changed by it; it simply knows. In this way she is present in every mind, as the awareness that knows its thoughts.",
+    "hi": "भास्करराय ज़ोर देते हैं कि उनके देखने में कोई माध्यम नहीं: वे इन्द्रियों या साधनों से नहीं, अपने स्वरूपभूत बोध से देखती हैं। साक्षी जिसे देखता है उसमें भाग नहीं लेता और उससे बदलता नहीं; वह केवल जानता है। इसी रूप में वे हर मन में उपस्थित हैं, उस चेतना के रूप में जो उसके विचारों को जानती है।"
+  },
+  "story": {
+    "en": "Bhāskararāya adds a note of grammar: sākṣin, witness, is formed by Pāṇini’s rule for one who sees directly. The next name follows from this one: the witness of all has no witness.",
+    "hi": "भास्करराय व्याकरण की टिप्पणी भी देते हैं: ‘साक्षी’ शब्द पाणिनि के उस सूत्र से बनता है जो प्रत्यक्ष देखने वाले के लिए है। अगला नाम इसी से निकलता है: जो सबकी साक्षी है, उसका कोई साक्षी नहीं।"
+  },
+  "commentary": {
+    "sanskrit": "विश्वस्य द्रष्ट्री साक्षादव्यवधानेन स्वरूपात्मकबोधेनेति विश्वसाक्षिणी ।",
+    "translation": {
+      "en": "She is the seer of the universe sākṣāt, directly, with nothing between, by the awareness that is her own nature: hence Viśvasākṣiṇī.",
+      "hi": "वे विश्व की द्रष्टा हैं, साक्षात्, अर्थात् बिना किसी व्यवधान के, अपने स्वरूप रूपी बोध से; इसलिए विश्वसाक्षिणी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 384 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The second and third sentences of the inner layer are a reflection in the spirit of Bhāskararāya’s gloss. The Pāṇini rule he cites is साक्षाद्द्रष्टरि संज्ञायाम्." }
+}

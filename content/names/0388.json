@@ -1,0 +1,43 @@
+{
+  "number": 388,
+  "verse": 85,
+  "slug": "nitya-klinna",
+  "devanagari": "नित्यक्लिन्ना",
+  "iastSplit": "Nitya-klinnā",
+  "archana": "ॐ नित्यक्लिन्नायै नमः",
+  "syllables": ["nit", "yak", "lin", "nā"],
+  "words": [
+    { "sa": "नित्य", "meaning": { "en": "always, eternal", "hi": "नित्य, सदा" } },
+    { "sa": "क्लिन्ना", "meaning": { "en": "moist, softened", "hi": "आर्द्र, भीगी हुई" } }
+  ],
+  "meaning": {
+    "en": "Ever moist with compassion",
+    "hi": "सदा करुणा से आर्द्र"
+  },
+  "explanation": {
+    "en": "Klinna means moist or softened. Her heart is ever moist with compassion; it never dries or hardens toward her children.",
+    "hi": "‘क्लिन्न’ का अर्थ है भीगा हुआ, कोमल। उनका हृदय सदा करुणा से भीगा रहता है; अपनी सन्तानों के प्रति वह कभी सूखता या कठोर नहीं होता।"
+  },
+  "inner": {
+    "en": "Bhāskararāya adds that Nityaklinnā is the name of the Nityā of the third lunar day, one of the fifteen Nityā goddesses of Śrīvidyā, and that the Garuḍa Purāṇa describes her as Tripurā, giver of enjoyment and liberation; she is that goddess. So the name speaks both of her tender heart and of one of her own forms, honoured on its own day of the lunar fortnight.",
+    "hi": "भास्करराय बताते हैं कि नित्यक्लिन्ना तृतीया तिथि की नित्या का नाम है, जो श्रीविद्या की पन्द्रह नित्या देवियों में एक हैं, और गरुडपुराण उन्हें भोग और मोक्ष देने वाली त्रिपुरा के रूप में वर्णित करता है; वे वही देवी हैं। इस प्रकार यह नाम उनके कोमल हृदय की भी बात करता है और उनके उस रूप की भी, जिसका पक्ष में अपना दिन है।"
+  },
+  "story": {
+    "en": "The fifteen Nityās, one for each lunar day, are forms of Lalitā, and she herself is the sixteenth; name 391 gathers them all. Nityaklinnā is the third in their order.",
+    "hi": "पन्द्रह नित्याएँ, प्रत्येक तिथि की एक, ललिता के ही रूप हैं, और सोलहवीं स्वयं वे हैं; नाम 391 इन सबको एक साथ लेता है। उनके क्रम में नित्यक्लिन्ना तीसरी हैं।"
+  },
+  "commentary": {
+    "sanskrit": "नित्यं दयया क्लिन्ना सार्द्रा । तृतीयातिथिनित्या नित्यक्लिन्नेत्युच्यते ।",
+    "translation": {
+      "en": "Ever klinnā, moist, tender with compassion. Also, the Nityā of the third lunar day is called Nityaklinnā.",
+      "hi": "सदा दया से क्लिन्न, अर्थात् आर्द्र। तृतीया तिथि की नित्या को भी नित्यक्लिन्ना कहा जाता है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 388 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Both readings are Bhāskararāya’s; the last sentence of the inner layer is a bridging reflection." }
+}

@@ -1,0 +1,44 @@
+{
+  "number": 440,
+  "verse": 93,
+  "slug": "kula-kundalaya",
+  "devanagari": "कुलकुण्डालया",
+  "iastSplit": "Kula-kuṇḍālayā",
+  "archana": "ॐ कुलकुण्डालयायै नमः",
+  "syllables": ["ku", "la", "kuṇ", "ḍā", "la", "yā"],
+  "words": [
+    { "sa": "कुल", "meaning": { "en": "kula; here the root centre, the mūlādhāra", "hi": "कुल; यहाँ मूलाधार" } },
+    { "sa": "कुण्ड", "meaning": { "en": "hollow, pit", "hi": "कुण्ड" } },
+    { "sa": "आलय", "meaning": { "en": "abode, resting place", "hi": "आलय, निवास" } }
+  ],
+  "meaning": {
+    "en": "Whose abode is the kula-kuṇḍa, as Kuṇḍalinī",
+    "hi": "कुलकुण्ड जिनका निवास है, कुण्डलिनी के रूप में"
+  },
+  "explanation": {
+    "en": "Kula-kuṇḍa is the small hollow at the centre of the mūlādhāra, the root centre. That is her ālaya, her resting place, where as Kuṇḍalinī she sleeps.",
+    "hi": "कुलकुण्ड मूलाधार चक्र के मध्य में स्थित छोटा-सा कुण्ड है। वही उनका आलय, विश्राम-स्थान है, जहाँ वे कुण्डलिनी के रूप में सोती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya describes the kula-kuṇḍa as the bindu at the centre of the mūlādhāra lotus, like the hollow in the middle of a lotus bulb, and says plainly that she is Kuṇḍalinī. He quotes Śaṅkara’s verse in which she, coiled like a serpent, sleeps in the kula-kuṇḍa. He also reads ālaya as ā-laya: there she is wholly withdrawn, as if in deep sleep.",
+    "hi": "भास्करराय कुलकुण्ड को मूलाधार-कमल की कर्णिका के मध्य स्थित बिन्दु बताते हैं, जो कमल-कन्द के बीच के छिद्र जैसा है, और स्पष्ट कहते हैं कि वे कुण्डलिनी हैं। वे शंकराचार्य का श्लोक उद्धृत करते हैं जिसमें वे सर्प की भाँति कुण्डली मारकर कुलकुण्ड में सोती हैं। वे ‘आलय’ को ‘आ-लय’ भी पढ़ते हैं: वहाँ उनका पूर्ण लय है, मानो गहरी निद्रा।"
+  },
+  "story": {
+    "en": "Earlier names (99–111) followed Kuṇḍalinī through the centres of the subtle body; this name recalls her at rest in her home. As with those names, only the meaning is given here; the practice is learned from a teacher.",
+    "hi": "पहले के नाम (99–111) कुण्डलिनी की यात्रा को सूक्ष्म शरीर के केन्द्रों से होकर दिखाते हैं; यह नाम उन्हें उनके अपने घर में विश्राम करते हुए स्मरण करता है। उन नामों की भाँति यहाँ भी केवल अर्थ दिया गया है; साधना गुरु से सीखी जाती है।"
+  },
+  "commentary": {
+    "sanskrit": "मूलाधारकार्णिकामध्यगतो बिन्दुः कुलकुण्डं कमलकन्दमध्यस्थितछिद्रतुल्यं तदेवालयः स्वापस्थानं यस्याः ।",
+    "translation": {
+      "en": "The bindu at the centre of the pericarp of the mūlādhāra is the kula-kuṇḍa, like the hollow in the middle of a lotus bulb; that is her ālaya, her place of sleep.",
+      "hi": "मूलाधार की कर्णिका के मध्य स्थित बिन्दु कुलकुण्ड है, जो कमल-कन्द के मध्य के छिद्र जैसा है; वही जिनका आलय अर्थात् शयन-स्थान है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 440 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Kuṇḍalinī name: meaning only, no practice, by design. The excerpt is copied as printed; कार्णिका there is evidently a misprint for कर्णिका. The verse he ascribes to Śaṅkara (अवाप्य स्वां भूमिं…) is Saundaryalaharī 10." }
+}

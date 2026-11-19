@@ -1,0 +1,43 @@
+{
+  "number": 374,
+  "verse": 82,
+  "slug": "kritajna",
+  "devanagari": "कृतज्ञा",
+  "iastSplit": "Kṛtajñā",
+  "archana": "ॐ कृतज्ञायै नमः",
+  "syllables": ["kṛ", "taj", "ñā"],
+  "words": [
+    { "sa": "कृत", "meaning": { "en": "what is done, deed", "hi": "किया हुआ, कर्म" } },
+    { "sa": "ज्ञा", "meaning": { "en": "knowing", "hi": "जानने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who knows all that is done",
+    "hi": "जो किए गए सब कर्मों को जानती हैं"
+  },
+  "explanation": {
+    "en": "Kṛtajñā usually means “grateful”, one who remembers a kindness. Bhāskararāya’s first reading is wider: she knows every deed that is done, good and bad. He also keeps the sense of gratitude: she repays what is done for her.",
+    "hi": "‘कृतज्ञा’ का सामान्य अर्थ है उपकार मानने वाली। भास्करराय का पहला अर्थ इससे व्यापक है: वे किया गया हर कर्म, शुभ और अशुभ, जानती हैं। वे कृतज्ञता का अर्थ भी रखते हैं: जो उनके लिए किया जाए, वे उसका प्रतिदान करती हैं।"
+  },
+  "inner": {
+    "en": "He links the name to the nine witnesses of every deed, the sun, the moon, Yama, Time and the five elements, and says she is one with them. Another reading takes kṛta as the Kṛta age, when knowledge was whole: her knowledge is full like that of the first age. Nothing done in secret escapes her, and nothing offered to her is forgotten.",
+    "hi": "वे इस नाम को हर कर्म के नौ साक्षियों से जोड़ते हैं, सूर्य, चन्द्र, यम, काल और पाँच महाभूत, और कहते हैं कि वे इन्हीं से अभिन्न हैं। एक अन्य अर्थ में ‘कृत’ कृतयुग है, जब ज्ञान पूर्ण था: उनका ज्ञान पहले युग के समान पूर्ण है। छिपकर किया गया कुछ भी उनसे बचता नहीं, और उन्हें अर्पित कुछ भी भुलाया नहीं जाता।"
+  },
+  "story": {
+    "en": "Bhāskararāya also reads the name through the game of dice, where kṛta is the highest throw and contains all the lower ones. He hints that when she plays dice with Śiva, the victory is always hers, because she knows kṛta.",
+    "hi": "भास्करराय इस नाम को द्यूत-क्रीड़ा के रूप में भी पढ़ते हैं, जहाँ ‘कृत’ सबसे ऊँचा दाँव है और बाकी सब दाँव उसी में समा जाते हैं। वे संकेत करते हैं कि शिव के साथ पासे के खेल में जीत सदा देवी की ही होती है, क्योंकि वे ‘कृत’ को जानती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "कृते सुकृतदुष्कृते जानातीति कृतज्ञा । सूर्यः सोमो यमः कालो महाभूतानि पञ्च च । एते शुभाशुभस्येह कर्मणो नव साक्षिणः ।। इत्युक्तनवकाभिन्नेति वा ।",
+    "translation": {
+      "en": "She knows kṛta, what is done, good deeds and bad: so she is Kṛtajñā. Or she is one with the nine named in the verse: “The sun, the moon, Yama, Time and the five great elements: these are the nine witnesses here of every deed, good or bad.”",
+      "hi": "वे कृत, अर्थात् किए गए सुकृत और दुष्कृत, को जानती हैं, इसलिए कृतज्ञा हैं। अथवा वे उन नौ से अभिन्न हैं जिनका वर्णन इस श्लोक में है: ‘सूर्य, चन्द्र, यम, काल और पाँच महाभूत: ये नौ यहाँ शुभ-अशुभ कर्म के साक्षी हैं।’"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 374 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. All readings are Bhāskararāya’s; the last sentence of the inner layer is a reflection." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 418,
+  "verse": 90,
+  "slug": "jada-shakti",
+  "devanagari": "जडशक्तिः",
+  "iastSplit": "Jaḍa-śaktiḥ",
+  "archana": "ॐ जडशक्त्यै नमः",
+  "syllables": ["ja", "ḍa", "śak", "tiḥ"],
+  "words": [
+    { "sa": "जड", "meaning": { "en": "inert, insentient", "hi": "जड, अचेतन" } },
+    { "sa": "शक्ति", "meaning": { "en": "power", "hi": "शक्ति" } }
+  ],
+  "meaning": {
+    "en": "The power that becomes the inert world",
+    "hi": "जड़ जगत के रूप में परिणत होने वाली शक्ति"
+  },
+  "explanation": {
+    "en": "Jaḍa means insentient, the matter that does not know itself. She is the power behind this too: the power by which māyā turns into the world that is to be created.",
+    "hi": "‘जड’ का अर्थ है अचेतन, वह पदार्थ जो स्वयं को नहीं जानता। वे इसकी भी शक्ति हैं: वह सामर्थ्य जिससे माया रचे जाने वाले जगत के रूप में परिणत होती है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya calls it a particular transformation of māyā, directed to the world to be created, and says the name stands for every creative power in things. He quotes the Viṣṇu Purāṇa: the powers of all things are beyond thought, like heat in fire; Brahmā is only the instrumental cause of creation, while the powers in the things themselves are its chief cause. Even what seems lifeless holds her power.",
+    "hi": "भास्करराय इसे माया का एक विशेष परिणाम कहते हैं, जिसका लक्ष्य रचा जाने वाला जगत है, और बताते हैं कि यह नाम वस्तुओं में स्थित हर सृजन-शक्ति का उपलक्षण है। वे विष्णु पुराण का वचन देते हैं: सब पदार्थों की शक्तियाँ अचिन्त्य हैं, जैसे अग्नि की उष्णता; सृष्टि में ब्रह्मा केवल निमित्त कारण हैं, प्रधान कारण तो रचे जाने वाले पदार्थों की अपनी शक्तियाँ हैं। जो निर्जीव दिखता है, उसमें भी उन्हीं की शक्ति है।"
+  },
+  "story": {
+    "en": "This begins the second pair of verse 90. After two names on consciousness come two on inert matter, so that nothing, sentient or insentient, lies outside her.",
+    "hi": "यह श्लोक 90 की दूसरी जोड़ी का आरम्भ है। चेतना वाले दो नामों के बाद जड़ वाले दो नाम आते हैं, ताकि कुछ भी, चेतन या अचेतन, उनसे बाहर न रहे।"
+  },
+  "commentary": {
+    "sanskrit": "स्रष्टव्यजगदात्मकशक्यप्रतियोगिको मायापरिणामविशेषो जडशक्तिः । सृज्यशक्तिमात्रोपलक्षणमेतत् ।",
+    "translation": {
+      "en": "Jaḍaśakti is a particular transformation of māyā whose effect is the world that is to be created. The name stands for all the powers of the things to be created.",
+      "hi": "जडशक्ति माया का वह विशेष परिणाम है जिसका कार्य रचा जाने वाला जगत है। यह नाम रचे जाने वाले पदार्थों की सब शक्तियों का उपलक्षण है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 418 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The last sentence of the inner layer is a reflection." }
+}

@@ -1,0 +1,65 @@
+{
+  "number": 622,
+  "verse": 125,
+  "slug": "klin-kari",
+  "devanagari": "क्लीङ्कारी",
+  "iastSplit": "Klīṅ-kārī",
+  "archana": "ॐ क्लीङ्कार्यै नमः",
+  "syllables": [
+    "klīṅ",
+    "kā",
+    "rī"
+  ],
+  "words": [
+    {
+      "sa": "क्लीं",
+      "meaning": {
+        "en": "the seed-syllable klīṃ, called the kāma-bīja",
+        "hi": "‘क्लीं’ बीजाक्षर, जिसे कामबीज कहते हैं"
+      }
+    },
+    {
+      "sa": "कारी",
+      "meaning": {
+        "en": "who makes; whose form is",
+        "hi": "रचने वाली; स्वरूपा"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Whose form is the seed-syllable klīṃ",
+    "hi": "जिनका स्वरूप ‘क्लीं’ बीजाक्षर है"
+  },
+  "explanation": {
+    "en": "Klīṃ is a seed-syllable (bīja) called the kāma-bīja, the seed of desire. She is the one who makes this syllable, and it is her own form.",
+    "hi": "‘क्लीं’ एक बीजाक्षर है जिसे कामबीज कहा जाता है। वे इस बीज को रचने वाली हैं, और यह उनका अपना स्वरूप है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives three readings: she makes the kāma-bīja, she is its form, or she is the consort of Klīṅkāra, Śiva as Kāma. In his reading of the names that follow, this seed brings the three aims of life, while its innermost part leads to liberation. Such syllables are traditionally received from a teacher; here only their meaning is given.",
+    "hi": "भास्करराय तीन अर्थ देते हैं: वे कामबीज को रचती हैं, वे उसका स्वरूप हैं, अथवा वे ‘क्लींकार’, अर्थात् कामरूप शिव, की पत्नी हैं। आगे के नामों की उनकी व्याख्या में यह बीज धर्म, अर्थ और काम, ये तीन पुरुषार्थ देता है, और इसका अन्तरतम अंश मोक्ष तक ले जाता है। ऐसे बीजाक्षर परम्परा से गुरु से प्राप्त होते हैं; यहाँ केवल उनका अर्थ दिया गया है।"
+  },
+  "story": {
+    "en": "Bhāskararāya reads the first half of this verse as one movement: Klīṅkārī, Kevalā, Guhyā and Kaivalya-pada-dāyinī lead from the seed of desire to the secret that grants final freedom.",
+    "hi": "भास्करराय इस श्लोक के पूर्वार्ध को एक ही प्रवाह के रूप में पढ़ते हैं: क्लीङ्कारी, केवला, गुह्या और कैवल्यपददायिनी, ये नाम कामबीज से उस रहस्य तक ले जाते हैं जो परम मुक्ति देता है।"
+  },
+  "commentary": {
+    "sanskrit": "कामं बीजं करोतीति वा कामबीजस्वरूपेति वा क्लींकारस्य शिवकामस्य स्त्रीति वा क्लींकारी ।",
+    "translation": {
+      "en": "Klīṅkārī: she who makes the kāma-bīja; or whose form is the kāma-bīja; or the wife of Klīṅkāra, Śiva as Kāma.",
+      "hi": "क्लींकारी: जो कामबीज को रचती हैं; अथवा जो कामबीज-स्वरूपा हैं; अथवा जो क्लींकार, अर्थात् कामरूप शिव, की पत्नी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 622 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. A bīja name: the file explains its meaning only and gives no practice. The edition spells the name क्लींकारी (anusvāra); the master text has क्लीङ्कारी."
+  }
+}

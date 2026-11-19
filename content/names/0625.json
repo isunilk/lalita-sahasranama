@@ -1,0 +1,77 @@
+{
+  "number": 625,
+  "verse": 125,
+  "slug": "kaivalya-pada-dayini",
+  "devanagari": "कैवल्यपददायिनी",
+  "iastSplit": "Kaivalya-pada-dāyinī",
+  "archana": "ॐ कैवल्यपददायिन्यै नमः",
+  "syllables": [
+    "kai",
+    "val",
+    "ya",
+    "pa",
+    "da",
+    "dā",
+    "yi",
+    "nī"
+  ],
+  "words": [
+    {
+      "sa": "कैवल्य",
+      "meaning": {
+        "en": "final liberation, aloneness",
+        "hi": "कैवल्य, परम मुक्ति"
+      }
+    },
+    {
+      "sa": "पद",
+      "meaning": {
+        "en": "state, abode",
+        "hi": "पद, धाम"
+      }
+    },
+    {
+      "sa": "दायिनी",
+      "meaning": {
+        "en": "giver",
+        "hi": "देने वाली"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Who grants the state of final liberation",
+    "hi": "कैवल्य पद, अर्थात् परम मुक्ति, देने वाली"
+  },
+  "explanation": {
+    "en": "Kaivalya, “aloneness”, is final liberation, in which the Self abides as itself alone. Pada is a state or abode, and dāyinī is she who gives. She grants that highest freedom.",
+    "hi": "‘कैवल्य’, अर्थात् केवलता, परम मुक्ति है, जिसमें आत्मा केवल अपने स्वरूप में स्थित रहती है। ‘पद’ का अर्थ है अवस्था या धाम, और ‘दायिनी’ है देने वाली। वे वह परम मुक्ति प्रदान करती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya calls kaivalya the fifth liberation, beyond the four abodes: living in the deity’s world, nearness, likeness of form and union. Those four, he says, are fruits of action and worship, graded and impermanent; kaivalya is the fruit of knowledge, a bliss with nothing above it. He cites the Śakti-rahasya: whether one worships her through a symbol, as mother, as one’s own self, or even through ritual action, one reaches the state of kaivalya.",
+    "hi": "भास्करराय कैवल्य को पाँचवीं मुक्ति कहते हैं, जो चार पदों से परे है: सालोक्य, सामीप्य, सारूप्य और सायुज्य। वे कहते हैं कि ये चार कर्म और उपासना के फल हैं, तारतम्य वाले और अनित्य; कैवल्य ज्ञान का फल है, ऐसा आनन्द जिससे बढ़कर कुछ नहीं। वे शक्तिरहस्य का वचन देते हैं: प्रतीक के द्वारा, माता के भाव से, अपनी आत्मा मानकर, या कर्म के द्वारा भी उनकी उपासना करने वाला मनुष्य कैवल्य पद पाता है।"
+  },
+  "story": {
+    "en": "The Yoga-sūtras of Patañjali end with kaivalya, defining it as consciousness established in its own nature. Bhāskararāya cites that final sūtra together with Bhoja’s commentary on it.",
+    "hi": "पतञ्जलि के योगसूत्र कैवल्य पर समाप्त होते हैं, और उसे चितिशक्ति का अपने स्वरूप में प्रतिष्ठित होना बताते हैं। भास्करराय उसी अन्तिम सूत्र को भोजराज की वृत्ति के साथ उद्धृत करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "केवलस्य भावो धर्मिमात्रावशेषः कैवल्यं पञ्चमी मुक्तिस्तदेव पदं ददाति । अथवा कैवल्यं च पदानि च स्थानानि च दातुं शीलमस्याः ।",
+    "translation": {
+      "en": "Kaivalya is the state of being kevala, in which only the substratum remains: the fifth liberation. She gives that very pada, state. Or: it is her nature to give both kaivalya and the padas, the abodes.",
+      "hi": "केवल का भाव, जिसमें केवल धर्मी शेष रहता है, कैवल्य है: पाँचवीं मुक्ति। वही पद वे देती हैं। अथवा कैवल्य और पद, अर्थात् स्थान, दोनों देना उनका स्वभाव है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 625 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The edition prints the Yoga-sūtra as ‘कैवल्यं स्वरूपं प्रतिष्ठा चितिशक्तेः’, which differs from the usual text (‘…स्वरूपप्रतिष्ठा वा चितिशक्तिरिति’); it is paraphrased only. The four muktis are listed in the usual order, not in the order of his exposition."
+  }
+}

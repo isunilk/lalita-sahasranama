@@ -1,0 +1,43 @@
+{
+  "number": 188,
+  "verse": 50,
+  "slug": "durlabha",
+  "devanagari": "दुर्लभा",
+  "iastSplit": "Dur-labhā",
+  "archana": "ॐ दुर्लभायै नमः",
+  "syllables": ["dur", "la", "bhā"],
+  "words": [
+    { "sa": "दुर्", "meaning": { "en": "with difficulty, hard", "hi": "कठिनाई से, दुष्कर" } },
+    { "sa": "लभा", "meaning": { "en": "to be obtained", "hi": "प्राप्त होने वाली" } }
+  ],
+  "meaning": {
+    "en": "Hard to attain, even for yogis",
+    "hi": "जिन्हें पाना कठिन है, योगियों के लिए भी"
+  },
+  "explanation": {
+    "en": "Durlabhā means hard to obtain. She cannot be gained like an object, by striving or skill; even great yogis do not reach her by their own effort alone.",
+    "hi": "दुर्लभा का अर्थ है जिसे पाना कठिन हो। उन्हें किसी वस्तु की तरह प्रयत्न या कौशल से प्राप्त नहीं किया जा सकता; बड़े-बड़े योगी भी केवल अपने प्रयास से उन तक नहीं पहुँचते।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says she is hard to attain because even yogis cannot accomplish her. As a reflection: what cannot be achieved can still be given, and the hymn has already called her bhaktigamyā (name 119), she who is reached through devotion.",
+    "hi": "भास्करराय कहते हैं कि वे दुर्लभ हैं, क्योंकि योगी भी उन्हें साध नहीं पाते। चिन्तन के रूप में: जो साधा नहीं जा सकता, वह दिया तो जा सकता है; और स्तोत्र उन्हें पहले ही भक्तिगम्या (नाम 119), अर्थात् भक्ति से प्राप्त होने वाली, कह चुका है।"
+  },
+  "story": {
+    "en": "Bhāskararāya links this name to the next: ‘for this very reason’ she is durgamā, hard to approach. He then ties durgamā to Durgā through the demon Durgama (names 189–190).",
+    "hi": "भास्करराय इस नाम को अगले नाम से जोड़ते हैं: ‘इसी कारण’ वे दुर्गमा हैं, अर्थात् जिन तक पहुँचना कठिन है। फिर वे दुर्गम नामक दैत्य के द्वारा दुर्गमा को दुर्गा से जोड़ते हैं (नाम 189–190)।"
+  },
+  "commentary": {
+    "sanskrit": "दुर्लभा योगिनामप्यसाध्यत्वात् ।",
+    "translation": {
+      "en": "She is durlabhā, since even for yogis she cannot be achieved.",
+      "hi": "योगियों के लिए भी असाध्य होने से वे दुर्लभा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 188 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The link to bhaktigamyā (name 119) in the inner layer is a reflection, not from the commentary." }
+}

@@ -1,0 +1,42 @@
+{
+  "number": 421,
+  "verse": 90,
+  "slug": "vyahriti",
+  "devanagari": "व्याहृतिः",
+  "iastSplit": "Vyāhṛtiḥ",
+  "archana": "ॐ व्याहृत्यै नमः",
+  "syllables": ["vyā", "hṛ", "tiḥ"],
+  "words": [
+    { "sa": "व्याहृति", "meaning": { "en": "utterance; the sacred Vedic utterances", "hi": "उच्चारण; वैदिक व्याहृतियाँ" } }
+  ],
+  "meaning": {
+    "en": "Utterance itself, and the sacred Vedic words",
+    "hi": "उच्चारण स्वयं, और पवित्र वैदिक व्याहृतियाँ"
+  },
+  "explanation": {
+    "en": "Vyāhṛti means speaking, uttering. It is also the name of certain sacred utterances of the Veda, recited before the Gāyatrī. She is both: all utterance, and those holy words.",
+    "hi": "‘व्याहृति’ का अर्थ है बोलना, उच्चारण। यह वेद के उन विशेष पवित्र उच्चारणों का भी नाम है जो गायत्री से पहले बोले जाते हैं। वे दोनों हैं: हर उच्चारण भी, और वे पवित्र शब्द भी।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives a second reading of names 421 to 423 together: they are the three states of experience. Vyāhṛti, the activity of speech, marks the waking state, when we speak and act in the world, and she is present in waking as that very activity.",
+    "hi": "भास्करराय नाम 421 से 423 का एक साथ दूसरा अर्थ देते हैं: ये अनुभव की तीन अवस्थाएँ हैं। व्याहृति, अर्थात् वाणी का व्यापार, जाग्रत अवस्था का सूचक है, जब हम संसार में बोलते और कर्म करते हैं; और जाग्रत में वे उसी व्यापार के रूप में विद्यमान हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya quotes the Vāyu Purāṇa’s explanation of the name: ‘Since I uttered the word and you appeared, your name shall be Vyāhṛti.’",
+    "hi": "भास्करराय वायु पुराण से इस नाम की व्याख्या देते हैं: ‘क्योंकि मैंने उच्चारण किया और तुम प्रकट हुईं, इसलिए तुम्हारा नाम व्याहृति होगा।’"
+  },
+  "commentary": {
+    "sanskrit": "व्याहृतिर्व्याहरणमुच्चारणं तद्रूपा । मन्त्रविशेषरूपा वा ।",
+    "translation": {
+      "en": "Vyāhṛti is vyāharaṇa, utterance; she is that. Or she is in the form of the particular mantras of that name.",
+      "hi": "व्याहृति अर्थात् व्याहरण, उच्चारण; वे उसी का रूप हैं। अथवा वे विशेष मन्त्रों (व्याहृतियों) का रूप हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 421 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The vyāhṛti mantras are mentioned but not given, by design. The speaker of the Vāyu Purāṇa verse is not named in the commentary, so none is named here." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 401,
+  "verse": 87,
+  "slug": "vividhakara",
+  "devanagari": "विविधाकारा",
+  "iastSplit": "Vividhākārā",
+  "archana": "ॐ विविधाकारायै नमः",
+  "syllables": ["vi", "vi", "dhā", "kā", "rā"],
+  "words": [
+    { "sa": "विविध", "meaning": { "en": "various, manifold", "hi": "विविध, अनेक प्रकार के" } },
+    { "sa": "आकार", "meaning": { "en": "form, shape", "hi": "आकार, रूप" } }
+  ],
+  "meaning": {
+    "en": "Of many and varied forms",
+    "hi": "अनेक प्रकार के रूपों वाली"
+  },
+  "explanation": {
+    "en": "Vividha means of many kinds, and ākāra form. Everything in creation, in all its variety, is a form she has taken.",
+    "hi": "‘विविध’ का अर्थ है अनेक प्रकार के, और ‘आकार’ का अर्थ है रूप। सृष्टि की सारी विविधता उन्हीं के धारण किए हुए रूप हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya completes his account of creation here. Her many forms are the primary creations; the secondary creations, plants, animals and beings such as spirits; and the Kaumāra creation, which shares in both. From the unmanifest root to every living thing, it is one Mother in many shapes.",
+    "hi": "भास्करराय यहाँ सृष्टि का अपना वर्णन पूरा करते हैं। उनके अनेक रूप हैं: प्राकृत सृष्टियाँ; वैकृत सृष्टियाँ, अर्थात् वृक्ष आदि, पशु आदि और भूत-प्रेत आदि; और कौमार सृष्टि, जो दोनों प्रकार की है। अव्यक्त मूल से लेकर हर जीव तक, एक ही माँ अनेक रूपों में है।"
+  },
+  "story": {
+    "en": "In the commentary this is the first name of the fifth hundred, which opens a new section, the sixth kalā, named Ruci. The order of creation he follows, six primary, three secondary and one Kaumāra creation, is the one he quotes from the Bhāgavata Purāṇa under name 397.",
+    "hi": "टीका में यह पाँचवें शतक का पहला नाम है, जिससे एक नया खण्ड, छठी कला ‘रुचि’, आरम्भ होता है। सृष्टि का जो क्रम वे अपनाते हैं, छह प्राकृत, तीन वैकृत और एक कौमार सृष्टि, वह भागवत पुराण का है, जिसे वे नाम 397 के अन्तर्गत उद्धृत करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "प्राकृता वैकृताः सर्गाः कौमारसर्गश्चेत्येवं विविधा आकारा यस्याः सा ।",
+    "translation": {
+      "en": "She whose ākāras, forms, are thus manifold: the primary creations, the secondary creations and the Kaumāra creation.",
+      "hi": "प्राकृत सृष्टियाँ, वैकृत सृष्टियाँ और कौमार सृष्टि: इस प्रकार जिनके आकार विविध हैं, वे विविधाकारा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 401 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The kinds of vaikṛta creation (plants, animals, bhūta-preta) are taken from Bhāskararāya’s account under name 397. In the Wikisource edition the fifth hundred (षष्ठी रुच्याख्या कला) opens with this name, and its heading prints the half-verse without व्यापिनी. The last sentence of the inner layer is a reflection." }
+}

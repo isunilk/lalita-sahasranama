@@ -1,0 +1,42 @@
+{
+  "number": 295,
+  "verse": 69,
+  "slug": "ambika",
+  "devanagari": "अम्बिका",
+  "iastSplit": "Ambikā",
+  "archana": "ॐ अम्बिकायै नमः",
+  "syllables": ["am", "bi", "kā"],
+  "words": [
+    { "sa": "अम्बिका", "meaning": { "en": "mother; also night, sleep", "hi": "माता, अम्बा; रात्रि, निद्रा भी" } }
+  ],
+  "meaning": {
+    "en": "The Mother of the universe",
+    "hi": "जगत् की माता, अम्बा"
+  },
+  "explanation": {
+    "en": "Ambikā is Ambā, mother, with a suffix that adds no new sense; Bhāskararāya says simply that Ambā itself is Ambikā. He gives a further sense: the powers of will, knowledge and action, taken together as one whole, are called Ambikā, and she is that whole.",
+    "hi": "‘अम्बिका’ वही ‘अम्बा’ अर्थात् माँ है; भास्करराय सीधे कहते हैं: अम्बा ही अम्बिका है। वे एक और अर्थ देते हैं: इच्छा, ज्ञान और क्रिया, इन तीनों शक्तियों की समष्टि को अम्बिका कहा जाता है, और वे वही समष्टि हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya also reads Ambikā as night and as sleep, citing the lexicon Viśva. A Skanda Purāṇa line he quotes says that the Great Goddess is night and Maheśvara is day. From the Harivaṃśa and the Mārkaṇḍeya Purāṇa he quotes verses on Sleep as a goddess, who overcomes every creature and whom only Nārāyaṇa could hold, the Lady of the universe who sustains and dissolves the world.",
+    "hi": "भास्करराय ‘विश्व’ कोश के आधार पर अम्बिका का अर्थ रात्रि और निद्रा भी बताते हैं। वे स्कन्द पुराण का वचन देते हैं कि महादेवी रात्रि हैं और महेश्वर दिन। हरिवंश और मार्कण्डेय पुराण से वे निद्रा-देवी के वर्णन उद्धृत करते हैं, जो हर प्राणी को वश में कर लेती हैं और जिन्हें नारायण के सिवा कोई धारण न कर सका; वे विश्व की ईश्वरी हैं, जो जगत् की स्थिति और संहार करती हैं।"
+  },
+  "story": {
+    "en": "The Mārkaṇḍeya verse belongs to the Devī Māhātmya: when the demons Madhu and Kaiṭabha rise against Brahmā, he praises the Goddess as the sleep that holds Viṣṇu, so that she will release him to fight. Ambikā is one of the names that text uses most often for the Goddess.",
+    "hi": "मार्कण्डेय पुराण का वह श्लोक देवीमाहात्म्य का है: जब मधु और कैटभ ब्रह्मा पर आक्रमण करते हैं, तब ब्रह्मा विष्णु को घेरे हुई निद्रा के रूप में देवी की स्तुति करते हैं, ताकि वे विष्णु को छोड़ दें और विष्णु युद्ध के लिए जागें। देवीमाहात्म्य में देवी के लिए ‘अम्बिका’ सबसे अधिक प्रयुक्त नामों में से है।"
+  },
+  "commentary": {
+    "sanskrit": "अम्बैवाम्बिका ।",
+    "translation": {
+      "en": "Ambā, mother, is itself Ambikā.",
+      "hi": "अम्बा ही अम्बिका है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 295 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The samaṣṭi reading is printed as जगन्माताभारतीपृथ्वीरुद्राण्यात्मकेच्छाज्ञानक्रियाशक्तीनां समष्टिः; how the deity names pair with the three powers is unclear in this print (जगन्माता may belong to the preceding sentence), so only the three powers are mentioned. Identifying the Mārkaṇḍeya verse as part of the Devī Māhātmya’s Madhu–Kaiṭabha episode is the drafter’s, not Bhāskararāya’s." }
+}

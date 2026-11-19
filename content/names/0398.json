@@ -1,0 +1,42 @@
+{
+  "number": 398,
+  "verse": 86,
+  "slug": "avyakta",
+  "devanagari": "अव्यक्ता",
+  "iastSplit": "Avyaktā",
+  "archana": "ॐ अव्यक्तायै नमः",
+  "syllables": ["av", "yak", "tā"],
+  "words": [
+    { "sa": "अव्यक्त", "meaning": { "en": "unmanifest, not yet revealed", "hi": "अव्यक्त, अप्रकट" } }
+  ],
+  "meaning": {
+    "en": "The Unmanifest",
+    "hi": "अव्यक्त, जो अभी प्रकट नहीं"
+  },
+  "explanation": {
+    "en": "Avyakta means unmanifest: what exists but has not yet appeared in distinct form. She is the world before it unfolds, as a tree is in its seed.",
+    "hi": "‘अव्यक्त’ का अर्थ है वह जो है, पर अभी अलग-अलग रूपों में प्रकट नहीं हुआ। वे प्रकट होने से पहले का जगत हैं, जैसे बीज में वृक्ष।"
+  },
+  "inner": {
+    "en": "Bhāskararāya takes it as the first stirring of māyā, the very beginning of creation, or as the avyakta of Sāṅkhya, also called pradhāna, the three guṇas taken together. Or it is Brahman itself, which the Upaniṣads call unmanifest because eye, speech and the senses cannot grasp it. The Liṅga Purāṇa, he notes, counts avyakta among the names of Viṣṇu.",
+    "hi": "भास्करराय इसे माया की पहली स्फूर्ति, सृष्टि का बिल्कुल आरम्भ, बताते हैं; अथवा सांख्य का अव्यक्त, जिसे प्रधान भी कहते हैं, तीनों गुणों की समष्टि। अथवा यह स्वयं ब्रह्म है, जिसे उपनिषद् अव्यक्त कहते हैं क्योंकि नेत्र, वाणी और इन्द्रियाँ उसे ग्रहण नहीं कर सकतीं। वे बताते हैं कि लिङ्गपुराण ‘अव्यक्त’ को विष्णु के नामों में गिनता है।"
+  },
+  "story": {
+    "en": "In Bhāskararāya’s reading this is the first of the names that follow creation in its order: the Unmanifest here, then mahat and ahaṅkāra in name 399, and the rest of creation in names 400 and 401.",
+    "hi": "भास्करराय के अनुसार यह उन नामों में पहला है जो सृष्टि का क्रम से अनुसरण करते हैं: यहाँ अव्यक्त, फिर नाम 399 में महत् और अहंकार, और नाम 400 तथा 401 में शेष सृष्टि।"
+  },
+  "commentary": {
+    "sanskrit": "अव्यक्ता प्राथमिकमायास्फूर्तिरूपा । सांख्यमते प्रधानप्रकृत्यादिपदवाच्यमव्यक्तं तद्रूपा वा ।",
+    "translation": {
+      "en": "Avyaktā: she whose form is the first stirring of māyā. Or she is the avyakta of the Sāṅkhya system, which is also called pradhāna, prakṛti and so on.",
+      "hi": "अव्यक्ता: माया की प्राथमिक स्फूर्ति जिनका रूप है। अथवा सांख्य मत में प्रधान, प्रकृति आदि शब्दों से कहा जाने वाला अव्यक्त, वे उसी रूप वाली हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 398 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. In the verse मूलप्रकृतिः and अव्यक्ता are joined by sandhi (मूलप्रकृतिरव्यक्ता); the name is अव्यक्ता. The seed simile in the explanation is a plain illustration." }
+}

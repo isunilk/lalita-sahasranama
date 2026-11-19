@@ -1,0 +1,43 @@
+{
+  "number": 721,
+  "verse": 139,
+  "slug": "komalangi",
+  "devanagari": "कोमलाङ्गी",
+  "iastSplit": "Komalāṅgī",
+  "archana": "ॐ कोमलाङ्ग्यै नमः",
+  "syllables": ["ko", "ma", "lāṅ", "gī"],
+  "words": [
+    { "sa": "कोमल", "meaning": { "en": "soft, tender", "hi": "कोमल, सुकुमार" } },
+    { "sa": "अङ्ग", "meaning": { "en": "limb, body", "hi": "अंग, देह" } }
+  ],
+  "meaning": {
+    "en": "She whose limbs are soft and tender",
+    "hi": "जिनके अंग कोमल और सुकुमार हैं"
+  },
+  "explanation": {
+    "en": "Bhāskararāya’s gloss is simple: her limbs are komala, delicate. The Mother who rules all the worlds has a form of great gentleness.",
+    "hi": "भास्करराय का अर्थ सरल है: उनके अंग कोमल, सुकुमार हैं। जो माँ सब लोकों पर शासन करती हैं, उनका रूप अत्यन्त कोमल है।"
+  },
+  "inner": {
+    "en": "He gives no hidden meaning here. In reflection, softness in this hymn is never weakness: a few names later the same Devī is the thunderbolt that shatters disease. Her tenderness is the way she comes close to the devotee.",
+    "hi": "यहाँ वे कोई गूढ़ अर्थ नहीं देते। चिन्तन के रूप में: इस स्तोत्र में कोमलता कभी दुर्बलता नहीं है; कुछ ही नामों बाद यही देवी रोगों को तोड़ने वाला वज्र कही गई हैं। उनकी कोमलता ही वह मार्ग है जिससे वे भक्त के निकट आती हैं।"
+  },
+  "story": {
+    "en": "Like Anavadyāṅgī, she of faultless limbs (name 50), this name recalls in a single word the hymn’s long description of her form.",
+    "hi": "‘अनवद्याङ्गी’, अर्थात् निर्दोष अंगों वाली (नाम 50), की भाँति यह नाम भी स्तोत्र में उनके रूप के विस्तृत वर्णन को एक ही शब्द में याद दिलाता है।"
+  },
+  "commentary": {
+    "sanskrit": "कोमलानि सुकुमाराण्यङ्गानि यस्याः ।",
+    "translation": {
+      "en": "She whose limbs are komala, delicate.",
+      "hi": "जिनके अंग कोमल अर्थात् सुकुमार हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 721 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the inner layer is a reflection." }
+}

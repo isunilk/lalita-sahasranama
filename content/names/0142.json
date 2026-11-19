@@ -1,0 +1,43 @@
+{
+  "number": 142,
+  "verse": 44,
+  "slug": "nish-kama",
+  "devanagari": "निष्कामा",
+  "iastSplit": "Niṣ-kāmā",
+  "archana": "ॐ निष्कामायै नमः",
+  "syllables": ["niṣ", "kā", "mā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free from", "hi": "रहित, बिना" } },
+    { "sa": "काम", "meaning": { "en": "desire, wish", "hi": "कामना, इच्छा" } }
+  ],
+  "meaning": {
+    "en": "Free from all desire",
+    "hi": "सब कामनाओं से रहित"
+  },
+  "explanation": {
+    "en": "Kāma is desire, the wanting of what one lacks. She lacks nothing, so there is nothing left for her to want.",
+    "hi": "‘काम’ का अर्थ है इच्छा, उस वस्तु की चाह जो पास न हो। उन्हें किसी वस्तु का अभाव नहीं, इसलिए उनके लिए चाहने को कुछ शेष नहीं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes the Devī Bhāgavata: for one who has gained every desire, what could thirst be for? Some take the Upaniṣad’s words “whose desires are true, whose resolves are true” to mean that Brahman has desires; he answers that, in the light of “not this, not this” and “that is full, this is full,” such passages speak of qualities taken on through limiting adjuncts, not of her own nature.",
+    "hi": "भास्करराय देवी भागवत का वचन देते हैं: जिसे सारी कामनाएँ प्राप्त हैं, उसकी तृष्णा किस वस्तु के लिए होगी? कुछ लोग उपनिषद् के ‘सत्यकाम, सत्यसंकल्प’ वचन से यह समझते हैं कि ब्रह्म इच्छाओं वाला है; वे उत्तर देते हैं कि ‘नेति नेति’ और ‘पूर्णमदः पूर्णमिदम्’ के प्रकाश में ऐसे वचन उपाधि से आए गुणों की बात करते हैं, उनके अपने स्वरूप की नहीं।"
+  },
+  "story": {
+    "en": "Kāma heads the traditional list of the six inner enemies. From name 156 the hymn takes up these and related faults in pairs: she is free of each, and she destroys it in her devotees.",
+    "hi": "‘काम’ छह आन्तरिक शत्रुओं (षड्रिपु) की पारम्परिक सूची में पहला है। नाम 156 से स्तोत्र इन और इनसे जुड़े दोषों को जोड़ों में लेता है: वे हर दोष से रहित हैं, और भक्तों में उसका नाश करती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "निर्गतः काम इच्छा यस्याः सा निष्कामा ।",
+    "translation": {
+      "en": "She from whom kāma, desire, has gone is Niṣkāmā.",
+      "hi": "जिनसे काम, अर्थात् इच्छा, निकल गई है, वे निष्कामा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 142 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya adds a grammatical alternative (निष्कममतीति वा, from the root am ‘to go’) that is not summarized." }
+}

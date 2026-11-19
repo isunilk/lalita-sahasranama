@@ -1,0 +1,43 @@
+{
+  "number": 595,
+  "verse": 120,
+  "slug": "hridaya-stha",
+  "devanagari": "हृदयस्था",
+  "iastSplit": "Hṛdaya-sthā",
+  "archana": "ॐ हृदयस्थायै नमः",
+  "syllables": ["hṛ", "da", "yas", "thā"],
+  "words": [
+    { "sa": "हृदय", "meaning": { "en": "heart", "hi": "हृदय" } },
+    { "sa": "स्था", "meaning": { "en": "abiding", "hi": "स्थित" } }
+  ],
+  "meaning": {
+    "en": "Who abides in the heart",
+    "hi": "हृदय में स्थित"
+  },
+  "explanation": {
+    "en": "She dwells in the heart. Bhāskararāya’s first reading is simple: she abides in the heart as the one on whom the devotee meditates.",
+    "hi": "वे हृदय में निवास करती हैं। भास्करराय का पहला अर्थ सरल है: वे हृदय में ध्येय, अर्थात् जिनका ध्यान किया जाता है, के रूप में स्थित हैं।"
+  },
+  "inner": {
+    "en": "He gives further readings. In the usage of the Kalpasūtra, ‘the heart’ is the seed-syllable of Parā; or it is the Upaniṣad called the Parameśvara-hṛdaya, in which she abides as the inner ruler or as its subject. Or the heart is the seed of the whole world, and she abides there as the world itself. He quotes the Anuttaratriṃśikā: as the great banyan tree lies in its seed as potential, so this whole world, moving and unmoving, lies in the seed that is the heart.",
+    "hi": "वे और अर्थ भी देते हैं। कल्पसूत्र के प्रयोग में ‘हृदय’ परा का बीजाक्षर है; अथवा ‘परमेश्वरहृदय’ नामक उपनिषद् को ‘हृदय’ कहा गया है, जिसमें वे अन्तर्यामी के रूप में या उसके प्रतिपाद्य विषय के रूप में स्थित हैं। अथवा हृदय सारे जगत् का बीज है, और वे वहाँ जगत्-रूप में स्थित हैं। वे अनुत्तरत्रिंशिका का वचन देते हैं: जैसे विशाल वटवृक्ष अपने बीज में शक्ति-रूप से रहता है, वैसे ही यह सारा चराचर जगत् हृदय-रूपी बीज में रहता है।"
+  },
+  "story": {
+    "en": "As the names before placed her in the head and the forehead, this name and the next place her in the heart. Bhāskararāya relates the heart to the sun, and the sun to the second kūṭa of the mantra.",
+    "hi": "जैसे पिछले नामों ने उन्हें सिर और ललाट में दिखाया, वैसे ही यह नाम और अगला नाम उन्हें हृदय में दिखाते हैं। भास्करराय हृदय को सूर्य से, और सूर्य को मन्त्र के दूसरे कूट से जोड़ते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "हृदये ध्येयत्वेन तिष्ठतीति तथा ।",
+    "translation": {
+      "en": "She abides in the heart as the one to be meditated upon; hence the name.",
+      "hi": "हृदय में ध्येय-रूप से स्थित रहती हैं, इसलिए यह नाम।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 595 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Cakra and mantra name: meaning only; the seed-syllable of Parā is named, not given. Bhāskararāya calls the source of the banyan verse अनुत्तरत्रिंशिकाशास्त्र (presumably the Parātriṃśikā)." }
+}

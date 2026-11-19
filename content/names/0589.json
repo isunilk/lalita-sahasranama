@@ -1,0 +1,43 @@
+{
+  "number": 589,
+  "verse": 118,
+  "slug": "kama-kotika",
+  "devanagari": "कामकोटिका",
+  "iastSplit": "Kāma-koṭikā",
+  "archana": "ॐ कामकोटिकायै नमः",
+  "syllables": ["kā", "ma", "ko", "ṭi", "kā"],
+  "words": [
+    { "sa": "काम", "meaning": { "en": "Kāma: here Paraśiva", "hi": "काम: यहाँ परशिव" } },
+    { "sa": "कोटि", "meaning": { "en": "part, portion", "hi": "अंश, भाग" } }
+  ],
+  "meaning": {
+    "en": "Of whom Kāma, Paraśiva himself, is a part",
+    "hi": "जिनका एक अंश स्वयं काम, अर्थात् परशिव, हैं"
+  },
+  "explanation": {
+    "en": "Koṭi here means a part or portion. Bhāskararāya says Kāma is Paraśiva himself, and he is only a part of her; so she is Kāmakoṭikā.",
+    "hi": "यहाँ ‘कोटि’ का अर्थ अंश या भाग है। भास्करराय कहते हैं कि काम स्वयं परशिव हैं, और वे उनका एक अंश मात्र हैं; इसलिए वे कामकोटिका हैं।"
+  },
+  "inner": {
+    "en": "The reason he gives is that she is the supreme Brahman, the sāmarasya, the single flavour, of Śiva and Śakti together. If she is that whole, then Śiva too is within her, as one side of a single reality.",
+    "hi": "इसका कारण वे यह बताते हैं कि वे शिव और शक्ति के सामरस्य, अर्थात् एकरस मिलन, रूप परब्रह्म हैं। जब वे वह पूर्णता हैं, तो शिव भी उन्हीं के भीतर हैं, एक ही सत्य के एक पक्ष के रूप में।"
+  },
+  "story": {
+    "en": "Kāmakoṭi is also the name of the Devī’s seat at Kāñcī, the Kāmakoṭi pīṭha of Kāmākṣī; Bhāskararāya does not draw on it here.",
+    "hi": "‘कामकोटि’ काञ्ची में कामाक्षी देवी के पीठ, कामकोटि पीठ, का भी नाम है; भास्करराय यहाँ उसका उल्लेख नहीं करते।"
+  },
+  "commentary": {
+    "sanskrit": "कामः परशिव एव कोटिरेकदेशो यस्याः सैव कामकोटिका । शिवशक्तिसामरस्यपरब्रह्मरूपत्वात् ।",
+    "translation": {
+      "en": "She of whom Kāma, Paraśiva himself, is a koṭi, a part: she is Kāmakoṭikā. For she is the supreme Brahman that is the union of Śiva and Śakti.",
+      "hi": "काम, अर्थात् स्वयं परशिव, जिनकी कोटि, अर्थात् एक अंश, हैं, वही कामकोटिका हैं; क्योंकि वे शिव-शक्ति-सामरस्य-रूप परब्रह्म हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 589 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The mention of the Kāmakoṭi pīṭha at Kāñcī is general context, not from the commentary; the second sentence of the inner layer is a reflection." }
+}

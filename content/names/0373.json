@@ -1,0 +1,44 @@
+{
+  "number": 373,
+  "verse": 82,
+  "slug": "kameshvara-prana-nadi",
+  "devanagari": "कामेश्वरप्राणनाडी",
+  "iastSplit": "Kāmeśvara-prāṇa-nāḍī",
+  "archana": "ॐ कामेश्वरप्राणनाड्यै नमः",
+  "syllables": ["kā", "meś", "va", "rap", "rā", "ṇa", "nā", "ḍī"],
+  "words": [
+    { "sa": "कामेश्वर", "meaning": { "en": "Kāmeśvara, Śiva as her consort", "hi": "कामेश्वर, उनके पति शिव" } },
+    { "sa": "प्राण", "meaning": { "en": "life, breath", "hi": "प्राण, जीवन" } },
+    { "sa": "नाडी", "meaning": { "en": "channel, vital artery", "hi": "नाड़ी" } }
+  ],
+  "meaning": {
+    "en": "The very life-channel of Kāmeśvara",
+    "hi": "कामेश्वर की प्राण-नाड़ी, उनके जीवन का आधार"
+  },
+  "explanation": {
+    "en": "Kāmeśvara is Śiva as her consort, and a prāṇanāḍī is the channel that carries life. She is like the life-artery of her Lord: his life depends on her.",
+    "hi": "कामेश्वर उनके पति शिव हैं, और प्राणनाड़ी वह नाड़ी है जिससे जीवन बहता है। वे अपने स्वामी की जीवन-नाड़ी के समान हैं: उनका जीवन उन्हीं पर टिका है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya supports the name with a verse of Śaṅkarācārya’s Saundaryalaharī: death does not touch Śambhu, though he swallowed the dreadful poison, and the cause of this, Mother, is the power of your ear-ornaments. He gives no further hidden meaning. The thought is that Śiva and Śakti cannot be parted: his life is held in her.",
+    "hi": "भास्करराय इस नाम की पुष्टि शंकराचार्य की सौन्दर्यलहरी के एक श्लोक से करते हैं: भयंकर विष पी लेने पर भी काल शम्भु को छू नहीं पाता, और हे माँ, इसका कारण आपके कर्णाभूषणों (ताटंकों) की महिमा है। वे इससे आगे कोई गूढ़ अर्थ नहीं देते। भाव यह है कि शिव और शक्ति अलग नहीं किए जा सकते: उनका जीवन उन्हीं में स्थित है।"
+  },
+  "story": {
+    "en": "Behind the verse is the churning of the ocean, when Śiva drank the poison that rose from it to save the worlds. Ear-ornaments are a traditional sign of a wife whose husband lives, so the poet credits her ornaments with his survival.",
+    "hi": "इस श्लोक के पीछे समुद्र-मन्थन की कथा है, जब संसार की रक्षा के लिए शिव ने उससे निकला विष पी लिया था। ताटंक परम्परा में सुहागिन स्त्री का चिह्न हैं, इसलिए कवि शिव के जीवित रहने का श्रेय देवी के कर्णाभूषणों को देता है।"
+  },
+  "commentary": {
+    "sanskrit": "कामेश्वरस्य शिवकामस्य प्राणनाडी जीवनाडीव ।",
+    "translation": {
+      "en": "She is like the prāṇanāḍī, the life-channel, of Kāmeśvara, that is, of Śiva-Kāma.",
+      "hi": "वे कामेश्वर, अर्थात् शिवकाम, की प्राणनाड़ी, यानी जीवन-नाड़ी, के समान हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 373 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya attributes the verse to आचार्यभगवत्पाद; the identification as Saundaryalaharī 28 is mine, and the story layer’s note on ear-ornaments as a sign of a living husband is the usual reading of that verse, not stated by Bhāskararāya. The last sentence of the inner layer is a reflection." }
+}

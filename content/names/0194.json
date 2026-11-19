@@ -1,0 +1,43 @@
+{
+  "number": 194,
+  "verse": 51,
+  "slug": "durachara-shamani",
+  "devanagari": "दुराचारशमनी",
+  "iastSplit": "Durācāra-śamanī",
+  "archana": "ॐ दुराचारशमन्यै नमः",
+  "syllables": ["du", "rā", "cā", "ra", "śa", "ma", "nī"],
+  "words": [
+    { "sa": "दुराचार", "meaning": { "en": "wrong conduct, conduct against scripture", "hi": "दुराचार, शास्त्रविरुद्ध आचरण" } },
+    { "sa": "शमनी", "meaning": { "en": "she who calms, quells", "hi": "शान्त करने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who quells wrong conduct and the sin it brings",
+    "hi": "दुराचार और उससे उपजे पाप को शान्त करने वाली"
+  },
+  "explanation": {
+    "en": "Durācāra is conduct that goes against what scripture teaches. In those who turn to her, she calms such conduct and puts an end to the sin that comes from it.",
+    "hi": "दुराचार वह आचरण है जो शास्त्र की शिक्षा के विरुद्ध हो। जो उनकी शरण लेते हैं, उनमें वे ऐसे आचरण को शान्त करती हैं और उससे उपजे पाप का अन्त कर देती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya glosses durācāra as conduct contrary to the śāstras, and points ahead to a verse later in the text: whatever sin people incur by failing in their daily duties, or by doing what is forbidden, all of it quickly perishes. He gives no further hidden meaning.",
+    "hi": "भास्करराय ‘दुराचार’ का अर्थ शास्त्रविरुद्ध आचरण बताते हैं, और आगे आने वाले एक श्लोक की ओर संकेत करते हैं: नित्यकर्म न करने से या निषिद्ध कर्म करने से मनुष्यों को जो पाप लगता है, वह सब शीघ्र नष्ट हो जाता है। वे इसके आगे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "Where the earlier paired names spoke of faults of the mind, such as attachment, delusion and anger, this name turns to outward conduct. The same word, śamanī, ‘she who calms’, appears in name 169, krodhaśamanī, she who calms anger.",
+    "hi": "जहाँ पहले के जोड़ीदार नाम मन के दोषों, जैसे राग, मोह और क्रोध, की बात करते थे, वहाँ यह नाम बाहरी आचरण की ओर मुड़ता है। यही शब्द ‘शमनी’, अर्थात् शान्त करने वाली, नाम 169 ‘क्रोधशमनी’ में भी आता है।"
+  },
+  "commentary": {
+    "sanskrit": "दुराचारं शास्त्रविरुद्धाचारं शमयतीति तथा ।",
+    "translation": {
+      "en": "She calms durācāra, conduct contrary to the śāstras; hence the name.",
+      "hi": "वे दुराचार, अर्थात् शास्त्रविरुद्ध आचरण, को शान्त करती हैं; इसलिए यह नाम है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 194 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya says the verse he quotes (नित्यकर्माननुष्ठानात्…) comes later in the text (वक्ष्यति च पुरस्तात्), presumably in the phalaśruti; not checked. The contrast in the story layer between faults of mind and of conduct is an observation from the verses." }
+}

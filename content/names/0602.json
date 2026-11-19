@@ -1,0 +1,84 @@
+{
+  "number": 602,
+  "verse": 121,
+  "slug": "dara-hasojjvalan-mukhi",
+  "devanagari": "दरहासोज्ज्वलन्मुखी",
+  "iastSplit": "Dara-hāsojjvalan-mukhī",
+  "archana": "ॐ दरहासोज्ज्वलन्मुख्यै नमः",
+  "syllables": [
+    "da",
+    "ra",
+    "hā",
+    "soj",
+    "jva",
+    "lan",
+    "mu",
+    "khī"
+  ],
+  "words": [
+    {
+      "sa": "दर",
+      "meaning": {
+        "en": "slightly, a little",
+        "hi": "थोड़ा-सा"
+      }
+    },
+    {
+      "sa": "हास",
+      "meaning": {
+        "en": "smile, laughter",
+        "hi": "हास, मुस्कान"
+      }
+    },
+    {
+      "sa": "उज्ज्वलत्",
+      "meaning": {
+        "en": "shining, radiant",
+        "hi": "दमकता हुआ"
+      }
+    },
+    {
+      "sa": "मुख",
+      "meaning": {
+        "en": "face",
+        "hi": "मुख"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Whose face shines with a gentle smile",
+    "hi": "जिनका मुख मन्द मुस्कान से दमकता है"
+  },
+  "explanation": {
+    "en": "Dara again means “a little”, and hāsa is a smile. Her face glows with a slight, quiet smile: not loud laughter, but the ease of one who is wholly at peace.",
+    "hi": "यहाँ भी ‘दर’ का अर्थ है ‘थोड़ा-सा’, और ‘हास’ है मुस्कान। उनका मुख एक हल्की, शान्त मुस्कान से दमकता है; यह ठहाका नहीं, बल्कि पूर्णतः शान्त मन की सहजता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the literal sense: her face shines with a slight smile. He gives no hidden meaning here. Coming after the glance that removes fear, the smile is the reassurance that follows it.",
+    "hi": "भास्करराय केवल शब्दार्थ देते हैं: उनका मुख मन्द मुस्कान से शोभित है। वे यहाँ कोई गूढ़ अर्थ नहीं देते। भय मिटाने वाले कटाक्ष के बाद यह मुस्कान वह आश्वासन है जो उसके पीछे आता है।"
+  },
+  "story": {
+    "en": "With the previous name this completes the picture of her face, eyes and smile together. Her smile has appeared before in the hymn: name 28 describes the flood of its radiance in which Kāmeśvara’s mind is immersed.",
+    "hi": "पिछले नाम के साथ यह उनके मुख का चित्र पूरा करता है: नेत्र और मुस्कान एक साथ। उनकी मुस्कान स्तोत्र में पहले भी आ चुकी है; नाम 28 उसकी प्रभा की उस बाढ़ का वर्णन करता है जिसमें कामेश्वर का मन डूब जाता है।"
+  },
+  "commentary": {
+    "sanskrit": "दरहासेनेषत्स्मितेनोज्ज्वलच्छोभमानं मुखं यस्याः ।",
+    "translation": {
+      "en": "She whose face is ujjvalat, shining, with darahāsa, a slight smile.",
+      "hi": "जिनका मुख ‘दरहास’ अर्थात् मन्द मुस्कान से ‘उज्ज्वलत्’ अर्थात् शोभायमान है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 602 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the last sentence of the inner layer is a reflection."
+  }
+}

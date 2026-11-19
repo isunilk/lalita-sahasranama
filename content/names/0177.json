@@ -1,0 +1,43 @@
+{
+  "number": 177,
+  "verse": 49,
+  "slug": "nirabadha",
+  "devanagari": "निराबाधा",
+  "iastSplit": "Nir-ābādhā",
+  "archana": "ॐ निराबाधायै नमः",
+  "syllables": ["ni", "rā", "bā", "dhā"],
+  "words": [
+    { "sa": "निर्", "meaning": { "en": "without, beyond", "hi": "रहित, परे" } },
+    { "sa": "आबाधा", "meaning": { "en": "hindrance, affliction; in Vedānta, sublation (being shown unreal)", "hi": "बाधा, पीड़ा; वेदान्त में ‘बाध’, अर्थात् मिथ्या सिद्ध होना" } }
+  ],
+  "meaning": {
+    "en": "Free of all hindrance, never shown to be unreal",
+    "hi": "सब बाधाओं से रहित, जो कभी मिथ्या सिद्ध नहीं होतीं"
+  },
+  "explanation": {
+    "en": "Ābādhā means hindrance or affliction: nothing obstructs or troubles her. In Vedānta the word also means sublation, the way a mistaken perception is cancelled when the truth is seen. She is the one reality that is never cancelled.",
+    "hi": "आबाधा का अर्थ है रुकावट या पीड़ा: उन्हें कुछ भी रोक या सता नहीं सकता। वेदान्त में यह शब्द ‘बाध’ के अर्थ में भी आता है, अर्थात् सत्य दिखने पर किसी भ्रम का कट जाना। वे वह एकमात्र सत्य हैं जो कभी कटता नहीं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya uses the classic Vedānta example of mistaking something for silver. When we realise ‘this is not silver’, the silver is cancelled, but the ‘this’, the thing actually there, is not. In the same way, when every false idea about the world falls away, she remains: the ground that no correction can remove.",
+    "hi": "भास्करराय वेदान्त का प्रसिद्ध उदाहरण देते हैं: किसी वस्तु को चाँदी समझ लेना। जब बोध होता है कि ‘यह चाँदी नहीं है’, तब चाँदी कट जाती है, पर ‘यह’, अर्थात् जो वस्तु सचमुच सामने है, नहीं कटती। इसी प्रकार जब जगत के बारे में हर मिथ्या धारणा मिट जाती है, तब भी वे शेष रहती हैं: वह आधार जिसे कोई सुधार हटा नहीं सकता।"
+  },
+  "story": {
+    "en": "Bhāskararāya links this name to the one before it. The third chapter of the Brahma Sūtra establishes that Brahman’s one mark is freedom from distinctions (name 176), so there is nothing in her that later knowledge could cancel.",
+    "hi": "भास्करराय इस नाम को पिछले नाम से जोड़ते हैं। ब्रह्मसूत्र के तीसरे अध्याय में सिद्ध किया गया है कि भेदरहित होना ही ब्रह्म का एकमात्र लक्षण है (नाम 176), इसलिए उनमें ऐसा कुछ नहीं जिसे बाद का ज्ञान काट सके।"
+  },
+  "commentary": {
+    "sanskrit": "नेदं रजतमिति ज्ञानेन रजतबाधेऽपीदं पदार्थस्येव बाधाभावान्निराबाधा ।",
+    "translation": {
+      "en": "Just as, when the knowledge ‘this is not silver’ cancels the silver, the thing meant by ‘this’ is not cancelled, so she is never cancelled: she is nirābādhā.",
+      "hi": "जैसे ‘यह चाँदी नहीं है’ इस ज्ञान से चाँदी का बाध होने पर भी ‘यह’ शब्द से सूचित वस्तु का बाध नहीं होता, वैसे ही उनका कभी बाध नहीं होता; इसलिए वे निराबाधा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 177 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya reads ābādhā in the Vedāntic sense of bādha (sublation); the plain sense ‘hindrance, affliction’ is given in the explanation. The Brahma Sūtra passage he cites is अरूपवदेव हि तत्प्रधानत्वात्, which he places in the third chapter." }
+}

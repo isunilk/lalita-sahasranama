@@ -1,0 +1,77 @@
+{
+  "number": 632,
+  "verse": 126,
+  "slug": "sindura-tilakanchita",
+  "devanagari": "सिन्दूरतिलकाञ्चिता",
+  "iastSplit": "Sindūra-tilakāñcitā",
+  "archana": "ॐ सिन्दूरतिलकाञ्चितायै नमः",
+  "syllables": [
+    "sin",
+    "dū",
+    "ra",
+    "ti",
+    "la",
+    "kāñ",
+    "ci",
+    "tā"
+  ],
+  "words": [
+    {
+      "sa": "सिन्दूर",
+      "meaning": {
+        "en": "vermilion, red powder",
+        "hi": "सिन्दूर"
+      }
+    },
+    {
+      "sa": "तिलक",
+      "meaning": {
+        "en": "mark on the forehead",
+        "hi": "तिलक"
+      }
+    },
+    {
+      "sa": "अञ्चिता",
+      "meaning": {
+        "en": "adorned; also worshipped",
+        "hi": "सुशोभित; पूजित भी"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Adorned with a vermilion mark on her forehead",
+    "hi": "सिन्दूर के तिलक से सुशोभित"
+  },
+  "explanation": {
+    "en": "Sindūra is red vermilion powder and tilaka is a mark on the forehead. Her brow bears a red mark of sindūra, a sign of auspiciousness and of a blessed married life.",
+    "hi": "‘सिन्दूर’ लाल चूर्ण है और ‘तिलक’ माथे पर लगाया गया चिह्न। उनके ललाट पर सिन्दूर का लाल तिलक है, जो मंगल और सौभाग्य का चिह्न है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya also takes añcitā from the root añc, “to worship”: she is worshipped by women. Dictionaries give sindūratilakā as “woman” and sindūratilaka as “elephant”, so he also reads her as attended by women and elephants. Women have long come to her for a blessed marriage, as the story below recalls.",
+    "hi": "भास्करराय ‘अञ्चिता’ को ‘अञ्चु गतिपूजनयोः’ धातु से भी लेते हैं: वे स्त्रियों द्वारा पूजित हैं। कोशों में ‘सिन्दूरतिलका’ का अर्थ स्त्री और ‘सिन्दूरतिलक’ का अर्थ हाथी मिलता है, इसलिए वे इसे स्त्रियों और हाथियों से घिरी के अर्थ में भी पढ़ते हैं। स्त्रियाँ सदा से सौभाग्यपूर्ण विवाह के लिए उनकी शरण आती रही हैं, जैसा नीचे की कथा बताती है।"
+  },
+  "story": {
+    "en": "Bhāskararāya recalls the Bhāgavata Purāṇa: the young girls of Nanda’s Vraja worshipped Kātyāyanī, praying, “Make Nanda’s son my husband”. Rukmiṇī too, waiting for Kṛṣṇa before her wedding, went on foot to the shrine of Ambikā to worship the Goddess.",
+    "hi": "भास्करराय भागवत पुराण का स्मरण कराते हैं: नन्द के व्रज की कुमारियों ने कात्यायनी की पूजा की और प्रार्थना की, ‘नन्दगोप के पुत्र को मेरा पति बनाओ’। रुक्मिणी भी विवाह से पहले कृष्ण की प्रतीक्षा करते हुए पैदल अम्बिका के मन्दिर में देवी की पूजा करने गईं।"
+  },
+  "commentary": {
+    "sanskrit": "सिन्दूरस्य रक्तचूर्णस्य गोरोचनाया वा तिलकेन चित्रकेणाञ्चिता युक्ता ।",
+    "translation": {
+      "en": "Añcitā, adorned, with a tilaka, a decorative mark, of sindūra, red powder, or of gorocanā.",
+      "hi": "सिन्दूर, अर्थात् लाल चूर्ण, अथवा गोरोचन के तिलक, अर्थात् चित्रक, से अञ्चिता, यानी युक्त।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 632 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. Bhāskararāya’s other readings (tilaka as curls on the forehead; ‘moving like an elephant’) are not reproduced."
+  }
+}

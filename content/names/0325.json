@@ -1,0 +1,43 @@
+{
+  "number": 325,
+  "verse": 73,
+  "slug": "jagati-kanda",
+  "devanagari": "जगतीकन्दा",
+  "iastSplit": "Jagatī-kandā",
+  "archana": "ॐ जगतीकन्दायै नमः",
+  "syllables": ["ja", "ga", "tī", "kan", "dā"],
+  "words": [
+    { "sa": "जगती", "meaning": { "en": "the world", "hi": "जगत्, संसार" } },
+    { "sa": "कन्द", "meaning": { "en": "root; that which fills and sustains", "hi": "कन्द, मूल; पूरण" } }
+  ],
+  "meaning": {
+    "en": "The root and sustenance of the world",
+    "hi": "जगत् का मूल और पोषण"
+  },
+  "explanation": {
+    "en": "A kanda is a bulbous root, from which a plant grows and by which it lives. She is the world’s root. Bhāskararāya cites the lexicographer Yādava, who gives kanda the senses of filling (pūraṇa), the root of a crop, and a rain-cloud; she is the world’s source and the one who fills it.",
+    "hi": "‘कन्द’ पौधे का वह मूल है जिससे वह उगता है और जिससे पोषण पाता है। वे जगत् का कन्द हैं। भास्करराय कोशकार यादव का प्रमाण देते हैं, जो ‘कन्द’ के अर्थ पूरण, फसल का मूल और मेघ बताते हैं; इस प्रकार वे जगत् का मूल भी हैं और उसे भरने-पोसने वाली भी।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the sense of the words. A root works unseen under the ground while the tree stands in the light; so she remains hidden, while the world she feeds is seen.",
+    "hi": "भास्करराय शब्दों का अर्थ ही देते हैं। मूल धरती के नीचे अदृश्य रहकर काम करता है, जबकि वृक्ष प्रकाश में खड़ा रहता है; वैसे ही वे स्वयं छिपी रहती हैं, और जिस जगत् को वे पोषण देती हैं, वह दिखाई देता है।"
+  },
+  "story": {
+    "en": "On the next name Bhāskararāya makes a point of grammar that covers this one too: read as a tatpuruṣa, “the root of the world”, the name would take the masculine gender of kanda. He therefore reads it as a bahuvrīhi, “she who has the world’s root”, which keeps it feminine, so the archana jagatīkandāyai namaḥ stands.",
+    "hi": "अगले नाम पर भास्करराय व्याकरण की एक बात कहते हैं जो इस नाम पर भी लागू होती है: तत्पुरुष मानकर ‘जगत् का कन्द’ पढ़ें तो ‘कन्द’ के पुल्लिंग होने से पूरा नाम पुल्लिंग हो जाएगा। इसलिए वे इसे बहुव्रीहि मानते हैं, ‘जगत् का कन्द जिनका है, वे’, जिससे नाम स्त्रीलिंग रहता है और अर्चना में ‘जगतीकन्दायै नमः’ ही ठीक है।"
+  },
+  "commentary": {
+    "sanskrit": "जगत्याः कन्दः पूरणं मूलं वा यस्याः सा ।",
+    "translation": {
+      "en": "She who has the kanda of the world: its filling, or its root.",
+      "hi": "जगत् का कन्द, अर्थात् पूरण या मूल, जिनका है, वे।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 325 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The inner layer after its first sentence is a reflection. The bahuvrīhi reading and the gender point are Bhāskararāya’s (stated at the end of his comment on 326 for both कन्द and सागर)." }
+}

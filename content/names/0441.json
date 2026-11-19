@@ -1,0 +1,45 @@
+{
+  "number": 441,
+  "verse": 93,
+  "slug": "kaula-marga-tatpara-sevita",
+  "devanagari": "कौलमार्गतत्परसेविता",
+  "iastSplit": "Kaula-mārga-tatpara-sevitā",
+  "archana": "ॐ कौलमार्गतत्परसेवितायै नमः",
+  "syllables": ["kau", "la", "mār", "ga", "tat", "pa", "ra", "se", "vi", "tā"],
+  "words": [
+    { "sa": "कौल", "meaning": { "en": "of the kula; the Kaula tradition", "hi": "कुल सम्बन्धी; कौल परम्परा" } },
+    { "sa": "मार्ग", "meaning": { "en": "path", "hi": "मार्ग" } },
+    { "sa": "तत्पर", "meaning": { "en": "devoted, wholly intent", "hi": "तत्पर, निष्ठावान" } },
+    { "sa": "सेवित", "meaning": { "en": "served, worshipped", "hi": "सेवित" } }
+  ],
+  "meaning": {
+    "en": "Worshipped by those devoted to the Kaula path",
+    "hi": "कौल मार्ग में निष्ठावान साधकों द्वारा सेवित"
+  },
+  "explanation": {
+    "en": "Kaula-mārga is the path of the kula. Bhāskararāya first explains it simply as the way of worship handed down in one’s own family line. Those devoted to it serve her.",
+    "hi": "कौल मार्ग कुल का मार्ग है। भास्करराय पहले इसे सरल रूप में समझाते हैं: अपनी वंश-परम्परा से मिली उपासना की रीति। जो इसमें निष्ठावान हैं, वे उनकी सेवा करते हैं।"
+  },
+  "inner": {
+    "en": "For this first reading he quotes a verse from the Vratakhaṇḍa: whatever goddess is established in a family by its kula path, she is to be worshipped by that family with offerings, perfume and unguents. Whatever form of worship has come down to a devotee, done with devotion, reaches her.",
+    "hi": "इस पहले अर्थ के लिए वे व्रतखण्ड का एक श्लोक देते हैं: जिस कुल में जो देवी कुल-मार्ग से प्रतिष्ठित है, उस कुल के लोग बलि, गन्ध और अनुलेपन से उसी की पूजा करें। भक्त तक जो भी उपासना-रीति परम्परा से आई है, श्रद्धा से की जाए तो वह उन्हीं तक पहुँचती है।"
+  },
+  "story": {
+    "en": "Bhāskararāya also names the three schools of Śrīvidyā worship: samaya, joined with the Vedic path and taught in five saṃhitās ascribed to Śuka, Vasiṣṭha and others; miśra, taught in a group of eight tantras, which follows both; and kaula, taught in the other tantras. The practices of each, and who is fit for them, he says, are made clear in the tantras themselves. Earlier, names 97 and 98 named her as abiding within the samaya way and devoted to its conduct.",
+    "hi": "भास्करराय श्रीविद्या उपासना के तीन मत भी बताते हैं: समय मत, जो वैदिक मार्ग से मिश्रित है और शुक, वसिष्ठ आदि की पाँच संहिताओं में कहा गया है; मिश्र मत, जो आठ तन्त्रों के एक समूह में कहा गया है और दोनों का अनुसरण करता है; और कौल मत, जो अन्य तन्त्रों में कहा गया है। वे कहते हैं कि हर मत की उपासना-विधि और उसका अधिकार उन्हीं तन्त्रों में स्पष्ट है। पहले नाम 97 और 98 उन्हें समय मार्ग के भीतर स्थित और उसके आचार में तत्पर कह चुके हैं।"
+  },
+  "commentary": {
+    "sanskrit": "स्वस्ववंशपरम्पराप्राप्तो मार्गः कुलसम्बन्धित्वात्कौलः ।",
+    "translation": {
+      "en": "The path received through one’s own family line is kaula, because it belongs to the kula.",
+      "hi": "अपनी-अपनी वंश-परम्परा से प्राप्त मार्ग कुल से सम्बन्धित होने के कारण ‘कौल’ है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 441 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The eight tantras of the miśra school are printed as चन्द्रकुलादि (probably for चन्द्रकलादि); they are not named here. No practice is described, by design. The last sentence of the inner layer is a reflection." }
+}

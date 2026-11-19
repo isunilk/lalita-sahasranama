@@ -1,0 +1,45 @@
+{
+  "number": 579,
+  "verse": 117,
+  "slug": "mrinala-mridu-dorlata",
+  "devanagari": "मृणालमृदुदोर्लता",
+  "iastSplit": "Mṛṇāla-mṛdu-dor-latā",
+  "archana": "ॐ मृणालमृदुदोर्लतायै नमः",
+  "syllables": ["mṛ", "ṇā", "la", "mṛ", "du", "dor", "la", "tā"],
+  "words": [
+    { "sa": "मृणाल", "meaning": { "en": "lotus stalk, lotus fibre", "hi": "मृणाल, कमल-नाल" } },
+    { "sa": "मृदु", "meaning": { "en": "soft", "hi": "कोमल" } },
+    { "sa": "दोस्", "meaning": { "en": "arm", "hi": "भुजा, बाँह" } },
+    { "sa": "लता", "meaning": { "en": "creeper", "hi": "लता, बेल" } }
+  ],
+  "meaning": {
+    "en": "Whose creeper-like arms are soft as lotus fibre",
+    "hi": "जिनकी लता जैसी भुजाएँ कमल-नाल-सी कोमल हैं"
+  },
+  "explanation": {
+    "en": "Her arms are slender and soft like the fibres of a lotus stalk, and graceful like creepers. Bhāskararāya glosses mṛṇāla as the lotus fibre (bisatantu).",
+    "hi": "उनकी भुजाएँ कमल-नाल के तन्तुओं जैसी कोमल और लताओं जैसी सुघड़ हैं। भास्करराय ‘मृणाल’ का अर्थ कमल-नाल का तन्तु (बिसतन्तु) बताते हैं।"
+  },
+  "inner": {
+    "en": "He gives no hidden meaning here. Coming just after her great abode, the name brings her near again: the ruler of Mahākailāsa has arms soft enough to hold a child.",
+    "hi": "वे यहाँ कोई गूढ़ अर्थ नहीं देते। उनके महान धाम के ठीक बाद यह नाम उन्हें फिर निकट ले आता है: महाकैलास की स्वामिनी की भुजाएँ इतनी कोमल हैं कि किसी बालक को थाम सकें।"
+  },
+  "story": {
+    "en": "Comparing arms to creepers and to lotus stalks is a familiar figure in Sanskrit poetry. Her four arms, holding noose, goad, bow and arrows, were described near the start of the hymn (names 7–11).",
+    "hi": "भुजाओं की तुलना लताओं और कमल-नाल से करना संस्कृत काव्य की परिचित उपमा है। पाश, अंकुश, धनुष और बाण धारण करने वाली उनकी चार भुजाओं का वर्णन स्तोत्र के आरम्भ में (नाम 7–11) हुआ था।"
+  },
+  "commentary": {
+    "sanskrit": "मृणालं बिसतन्तुः तद्वन्मृद्व्यो दोर्लता यस्याः ।",
+    "translation": {
+      "en": "Mṛṇāla is the lotus fibre; she whose creeper-like arms are soft as that.",
+      "hi": "मृणाल अर्थात् कमल-नाल का तन्तु; उसके समान कोमल जिनकी भुजा-लताएँ हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 579 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the closing sentence of the inner layer is a reflection." }
+}

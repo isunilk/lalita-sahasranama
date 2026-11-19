@@ -1,0 +1,43 @@
+{
+  "number": 145,
+  "verse": 45,
+  "slug": "nir-vikara",
+  "devanagari": "निर्विकारा",
+  "iastSplit": "Nir-vikārā",
+  "archana": "ॐ निर्विकारायै नमः",
+  "syllables": ["nir", "vi", "kā", "rā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free from", "hi": "रहित, बिना" } },
+    { "sa": "विकार", "meaning": { "en": "change, modification", "hi": "विकार, परिवर्तन" } }
+  ],
+  "meaning": {
+    "en": "Free from all change",
+    "hi": "सब विकारों से रहित, अपरिवर्तनशील"
+  },
+  "explanation": {
+    "en": "Vikāra is change, the turning of one thing into another, as milk becomes curd. Everything in the world changes in this way; she does not.",
+    "hi": "‘विकार’ का अर्थ है परिवर्तन, एक वस्तु का दूसरी में बदल जाना, जैसे दूध का दही बनना। संसार की हर वस्तु इसी प्रकार बदलती है; वे नहीं बदलतीं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya takes vikāra in the Sāṃkhya sense: the twenty-three products of nature, beginning with mahat, the great principle. None of them is in her. With this he sets her apart from pradhāna, the primal nature that turns into the world, and from the mind. He quotes the Sāṃkhya verse: root nature is no product, seven are both source and product, sixteen are products only, and the Puruṣa is neither.",
+    "hi": "भास्करराय ‘विकार’ को सांख्य के अर्थ में लेते हैं: प्रकृति के तेईस विकार, जो महत् से आरम्भ होते हैं। इनमें से कोई उनमें नहीं। इससे वे उन्हें प्रधान, अर्थात् जगत् में बदलने वाली मूल प्रकृति, से और मन से अलग करते हैं। वे सांख्य का श्लोक देते हैं: मूल प्रकृति किसी का विकार नहीं, महत् आदि सात प्रकृति भी हैं और विकृति भी, सोलह केवल विकार हैं, और पुरुष न प्रकृति है न विकृति।"
+  },
+  "story": {
+    "en": "In Sāṃkhya the twenty-three products are the great principle (mahat), the ego-sense, the mind, the five senses of knowing, the five organs of action, the five subtle elements and the five gross elements. Bhāskararāya quotes the verse that classifies them from the Sāṃkhya Tattva Kaumudī.",
+    "hi": "सांख्य में ये तेईस विकार हैं: महत्, अहंकार, मन, पाँच ज्ञानेन्द्रियाँ, पाँच कर्मेन्द्रियाँ, पाँच तन्मात्राएँ और पाँच महाभूत। भास्करराय इनका वर्गीकरण करने वाला श्लोक सांख्यतत्त्वकौमुदी से उद्धृत करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "निर्गता विकाराः सांख्ये प्रसिद्धा महदाद्यास्त्रयोविंशतिर्यस्याः ।",
+    "translation": {
+      "en": "She from whom the vikāras are absent: the twenty-three, beginning with mahat, well known in Sāṃkhya.",
+      "hi": "जिनमें विकार नहीं हैं: सांख्य में प्रसिद्ध, महत् से आरम्भ होने वाले तेईस विकार।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 145 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The verse he quotes is Sāṃkhya Kārikā 3, cited by him from the Sāṃkhya Tattva Kaumudī. The list of the twenty-three in the story layer is standard Sāṃkhya, not spelled out in the commentary." }
+}

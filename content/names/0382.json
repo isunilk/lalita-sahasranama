@@ -1,0 +1,44 @@
+{
+  "number": 382,
+  "verse": 83,
+  "slug": "rahas-tarpana-tarpita",
+  "devanagari": "रहस्तर्पणतर्पिता",
+  "iastSplit": "Rahas-tarpaṇa-tarpitā",
+  "archana": "ॐ रहस्तर्पणतर्पितायै नमः",
+  "syllables": ["ra", "has", "tar", "pa", "ṇa", "tar", "pi", "tā"],
+  "words": [
+    { "sa": "रहस्", "meaning": { "en": "secret, solitude", "hi": "एकान्त, रहस्य" } },
+    { "sa": "तर्पण", "meaning": { "en": "offering that satisfies", "hi": "तर्पण" } },
+    { "sa": "तर्पिता", "meaning": { "en": "satisfied, delighted", "hi": "तृप्त, प्रसन्न" } }
+  ],
+  "meaning": {
+    "en": "Satisfied by the secret, inner offering",
+    "hi": "गुप्त आन्तरिक तर्पण से तृप्त"
+  },
+  "explanation": {
+    "en": "Tarpaṇa is an offering that satisfies, as water is offered to the gods. She is satisfied by the secret tarpaṇa, made inwardly where no one sees.",
+    "hi": "तर्पण वह अर्पण है जो तृप्त करता है, जैसे देवताओं को जल अर्पित किया जाता है। वे उस गुप्त तर्पण से तृप्त होती हैं, जो भीतर, सबकी दृष्टि से दूर, किया जाता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya explains the secret tarpaṇa as contemplation of the meaning of the mantra of the inner sacrifice. He quotes a verse that gives that meaning: into the fire of awareness, which blazes within ceaselessly and without fuel and is the foe of the darkness of delusion, one offers the whole universe, from the earth up to Śiva. What satisfies her is not a substance poured out but understanding: seeing everything offered into consciousness.",
+    "hi": "भास्करराय गुप्त तर्पण का अर्थ आन्तरिक यज्ञ के मन्त्र के अर्थ का चिन्तन बताते हैं। वे उस अर्थ को बताने वाला एक श्लोक उद्धृत करते हैं: भीतर निरन्तर, बिना ईंधन के प्रज्वलित, मोह के अन्धकार की शत्रु चेतना की अग्नि में साधक पृथ्वी से लेकर शिव तक सारा विश्व अर्पित करता है। उन्हें कोई पदार्थ नहीं, समझ तृप्त करती है: सब कुछ चेतना में अर्पित होते देखना।"
+  },
+  "story": {
+    "en": "Together with name 381 this describes the inner worship of Śrīvidyā. The next name tells what follows from it: she is pleased at once.",
+    "hi": "नाम 381 के साथ यह श्रीविद्या की आन्तरिक उपासना का वर्णन करता है। अगला नाम बताता है कि इसका फल क्या है: वे तुरन्त प्रसन्न होती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "मन्त्रार्थविभावनञ्च च रहस्तर्पणं तेन तर्पिता ।।",
+    "translation": {
+      "en": "And the contemplation of the mantra’s meaning is the secret tarpaṇa; she is satisfied by it.",
+      "hi": "और मन्त्र के अर्थ का चिन्तन ही रहस्तर्पण है; उससे वे तृप्त होती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 382 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The quoted sentence is printed with a doubled च (मन्त्रार्थविभावनञ्च च), evidently a misprint; it is quoted as printed. The verse on the fire of consciousness is summarised, not quoted, and the mantra before it is not given; Bhāskararāya does not name the verse’s source. The last sentence of the inner layer is a reflection." }
+}

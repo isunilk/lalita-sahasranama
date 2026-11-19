@@ -1,0 +1,43 @@
+{
+  "number": 734,
+  "verse": 141,
+  "slug": "nateshvari",
+  "devanagari": "नटेश्वरी",
+  "iastSplit": "Naṭeśvarī",
+  "archana": "ॐ नटेश्वर्यै नमः",
+  "syllables": ["na", "ṭeś", "va", "rī"],
+  "words": [
+    { "sa": "नट", "meaning": { "en": "dancer", "hi": "नर्तक, नट" } },
+    { "sa": "ईश्वरी", "meaning": { "en": "sovereign lady; consort of the Lord", "hi": "ईश्वरी, स्वामिनी" } }
+  ],
+  "meaning": {
+    "en": "Consort of Naṭeśvara, the Lord of dance",
+    "hi": "नटेश्वर शिव की ईश्वरी, नृत्य की स्वामिनी"
+  },
+  "explanation": {
+    "en": "Naṭeśvara, the Lord of dancers, is Śiva who dances at Cidambaram. Bhāskararāya says she belongs to him and follows him in his dance.",
+    "hi": "नटेश्वर, अर्थात् नर्तकों के स्वामी, चिदम्बरम् में नृत्य करने वाले शिव हैं। भास्करराय कहते हैं कि वे उन्हीं की हैं और उनके नृत्य का अनुसरण करती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives no hidden meaning beyond this. In reflection, Śiva’s dance is the movement of the universe, and she dances with him; the world’s play is never his alone. The name Cidambaram itself is read as ‘the sky of consciousness’.",
+    "hi": "भास्करराय इससे आगे कोई गूढ़ अर्थ नहीं देते। चिन्तन के रूप में: शिव का नृत्य ब्रह्माण्ड की गति है, और वे उनके साथ नाचती हैं; जगत की लीला कभी अकेले शिव की नहीं। ‘चिदम्बरम्’ नाम का अर्थ ही ‘चेतना का आकाश’ माना जाता है।"
+  },
+  "story": {
+    "en": "Bhāskararāya quotes a verse in praise of Bhavānī’s foot as she imitates her husband’s dance: raised high, with shin and thigh for its stalk, nail-rays for its filaments, red lac for its young leaves and tinkling anklets for its bees, it looks like a lotus born in the pool of her own clear beauty.",
+    "hi": "भास्करराय एक श्लोक उद्धृत करते हैं जो पति के नृत्य का अनुकरण करती भवानी के चरण की स्तुति करता है: ऊँचे उठे उस चरण की पिंडली और जंघा नाल हैं, नखों की किरणें केसर, लाल महावर नए पत्ते और बजते नूपुर भ्रमर; वह चरण उनके निर्मल लावण्य के सरोवर में खिले कमल-सा दिखता है।"
+  },
+  "commentary": {
+    "sanskrit": "नटेश्वरस्य चिदम्बरनटस्येयं तदनुकारिणी ।",
+    "translation": {
+      "en": "She belongs to Naṭeśvara, the dancer of Cidambaram, and follows his dance.",
+      "hi": "वे नटेश्वर, अर्थात् चिदम्बरम् के नर्तक, की हैं, और उनका अनुकरण करती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 734 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The inner layer is a reflection; the reading of Cidambaram as ‘sky of consciousness’ is common usage, not from Bhāskararāya. In the cited verse the edition prints मञ्जनुमञजीरभृङ्गः, evidently a misprint (perhaps for मञ्जुमञ्जीरभृङ्गः); not quoted." }
+}

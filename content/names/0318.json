@@ -1,0 +1,43 @@
+{
+  "number": 318,
+  "verse": 72,
+  "slug": "rakshasa-ghni",
+  "devanagari": "राक्षसघ्नी",
+  "iastSplit": "Rākṣasa-ghnī",
+  "archana": "ॐ राक्षसघ्न्यै नमः",
+  "syllables": ["rāk", "ṣa", "sagh", "nī"],
+  "words": [
+    { "sa": "राक्षस", "meaning": { "en": "demon, rākṣasa", "hi": "राक्षस" } },
+    { "sa": "घ्नी", "meaning": { "en": "slayer", "hi": "नाश करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Slayer of the demons",
+    "hi": "राक्षसों का संहार करने वाली"
+  },
+  "explanation": {
+    "en": "Rākṣasas are the demonic beings who harm the world and its order, and she destroys them. Bhāskararāya explains simply that the rakṣases are the rākṣasas, and she slays them.",
+    "hi": "राक्षस वे आसुरी प्राणी हैं जो जगत् और उसकी व्यवस्था को हानि पहुँचाते हैं, और वे उनका नाश करती हैं। भास्करराय सीधे बताते हैं कि ‘रक्षस्’ ही राक्षस हैं, और वे उनका वध करती हैं।"
+  },
+  "inner": {
+    "en": "He gives only the literal sense. Coming right after Rakṣākarī, the name shows the other side of her protection: to guard the good she must destroy what preys on it, outside us and within.",
+    "hi": "वे केवल शाब्दिक अर्थ देते हैं। ‘रक्षाकरी’ के ठीक बाद आकर यह नाम उनकी रक्षा का दूसरा पक्ष दिखाता है: शुभ की रक्षा के लिए उन्हें उसका नाश करना होता है जो उसे नष्ट करना चाहता है, बाहर भी और हमारे भीतर भी।"
+  },
+  "story": {
+    "en": "In the Lalitopākhyāna she leads her army of śaktis against the hosts of Bhaṇḍāsura and destroys them; names 65 to 82 earlier in the hymn tell of that war.",
+    "hi": "ललितोपाख्यान में वे अपनी शक्ति-सेना के साथ भण्डासुर की सेनाओं पर चढ़ाई करती हैं और उनका नाश करती हैं; स्तोत्र में पहले नाम 65 से 82 उसी युद्ध का वर्णन करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "रक्षांस्येव राक्षसास्तान्हन्तीति राक्षसघ्नी ।",
+    "translation": {
+      "en": "The rakṣases themselves are the rākṣasas; she slays them, so she is Rākṣasaghnī.",
+      "hi": "रक्षस् ही राक्षस हैं; वे उनका वध करती हैं, इसलिए राक्षसघ्नी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 318 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the second sentence of the inner layer is a reflection." }
+}

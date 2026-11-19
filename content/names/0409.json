@@ -1,0 +1,43 @@
+{
+  "number": 409,
+  "verse": 89,
+  "slug": "shiva-priya",
+  "devanagari": "शिवप्रिया",
+  "iastSplit": "Śiva-priyā",
+  "archana": "ॐ शिवप्रियायै नमः",
+  "syllables": ["śi", "vap", "ri", "yā"],
+  "words": [
+    { "sa": "शिव", "meaning": { "en": "Śiva", "hi": "शिव" } },
+    { "sa": "प्रिय", "meaning": { "en": "beloved, dear", "hi": "प्रिय" } }
+  ],
+  "meaning": {
+    "en": "Beloved of Śiva, she to whom Śiva is dear",
+    "hi": "शिव की प्रिया, जिन्हें शिव प्रिय हैं"
+  },
+  "explanation": {
+    "en": "She is the beloved of Śiva. Read the other way, as Bhāskararāya allows, it means she to whom Śiva is dear, so the love runs both ways.",
+    "hi": "वे शिव की प्रिया हैं। भास्करराय इसे दूसरी ओर से भी पढ़ते हैं: वे जिन्हें शिव प्रिय हैं; इस प्रकार यह प्रेम दोनों ओर से है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only these two literal senses and no hidden meaning. Held together, they picture a love that is wholly mutual, which the hymn elsewhere calls the oneness of Śiva and Śakti.",
+    "hi": "भास्करराय केवल ये दो शाब्दिक अर्थ देते हैं, कोई गूढ़ अर्थ नहीं। दोनों को साथ रखें तो पूर्णतः परस्पर प्रेम का चित्र बनता है, जिसे स्तोत्र अन्यत्र शिव और शक्ति की एकता कहता है।"
+  },
+  "story": {
+    "en": "The fifth of the six names that begin with Śiva, it opens verse 89. With the next name, Śivaparā, the chain is complete, and the hymn turns to the śiṣṭas, the good who honour her.",
+    "hi": "‘शिव’ से आरम्भ होने वाले छह नामों में यह पाँचवाँ है और श्लोक 89 का आरम्भ करता है। अगले नाम ‘शिवपरा’ के साथ यह माला पूरी होती है, और स्तोत्र उन शिष्ट जनों की ओर मुड़ता है जो उनका सम्मान करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "शिवस्य प्रिया । शिवः प्रियो यस्या इति वा ।",
+    "translation": {
+      "en": "The beloved of Śiva. Or: she to whom Śiva is dear.",
+      "hi": "शिव की प्रिया। अथवा, जिन्हें शिव प्रिय हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 409 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the two literal senses; the second sentence of the inner layer is a reflection (the reference is to names such as 999, शिवशक्त्यैक्यरूपिणी)." }
+}

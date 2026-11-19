@@ -1,0 +1,44 @@
+{
+  "number": 744,
+  "verse": 143,
+  "slug": "daurbhagya-tula-vatula",
+  "devanagari": "दौर्भाग्यतूलवातूला",
+  "iastSplit": "Daurbhāgya-tūla-vātūlā",
+  "archana": "ॐ दौर्भाग्यतूलवातूलायै नमः",
+  "syllables": ["daur", "bhāg", "ya", "tū", "la", "vā", "tū", "lā"],
+  "words": [
+    { "sa": "दौर्भाग्य", "meaning": { "en": "misfortune", "hi": "दुर्भाग्य" } },
+    { "sa": "तूल", "meaning": { "en": "cotton, a tuft of cotton", "hi": "रुई" } },
+    { "sa": "वातूल", "meaning": { "en": "whirlwind", "hi": "बवण्डर, आँधी" } }
+  ],
+  "meaning": {
+    "en": "A whirlwind that scatters misfortune like tufts of cotton",
+    "hi": "दुर्भाग्य रूपी रुई को उड़ा देने वाली आँधी"
+  },
+  "explanation": {
+    "en": "Misfortune is cotton, light and loose, and she is the whirlwind that blows it far away. Bhāskararāya cites the Amarakośa for vātūla in the sense of a whirlwind.",
+    "hi": "दुर्भाग्य रुई है, हल्की और बिखरी हुई, और वे वह बवण्डर हैं जो उसे दूर उड़ा ले जाता है। भास्करराय ‘वातूल’ के बवण्डर अर्थ के लिए अमरकोश का प्रमाण देते हैं।"
+  },
+  "inner": {
+    "en": "He also gives a second analysis: the dharmas, the right acts that drive off misfortune as wind drives cotton, are the whirlwinds, and they arise from her. So it is not only her direct grace that clears misfortune, but every good act, and every such act comes from her.",
+    "hi": "वे दूसरा विग्रह भी देते हैं: जो धर्म, अर्थात् शुभ कर्म, दुर्भाग्य को वैसे ही दूर करते हैं जैसे हवा रुई को, वे ही बवण्डर हैं, और वे उन्हीं से उत्पन्न होते हैं। अतः केवल उनकी प्रत्यक्ष कृपा ही नहीं, हर शुभ कर्म दुर्भाग्य मिटाता है, और ऐसा हर कर्म उन्हीं से आता है।"
+  },
+  "story": {
+    "en": "This is the third of the eight metaphor names. Misfortune may feel heavy, but before her it is as weightless as cotton in a gale.",
+    "hi": "यह रूपक वाले आठ नामों में तीसरा है। दुर्भाग्य भारी लग सकता है, पर उनके सामने वह आँधी में उड़ती रुई जितना हल्का है।"
+  },
+  "commentary": {
+    "sanskrit": "दौर्भाग्यमेव तूलं कार्पासं तस्य वातूल इव वात्येव दूरं निरासिकेति यावत् ।",
+    "translation": {
+      "en": "Misfortune itself is tūla, cotton; she is like a vātūla, a whirlwind, to it: that is, she drives it far away.",
+      "hi": "दुर्भाग्य ही तूल अर्थात् कपास है; वे उसके लिए वातूल अर्थात् बवण्डर के समान हैं, यानी उसे दूर उड़ा देने वाली।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 744 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s second analysis (दौर्भाग्यतूलवातूला यस्याः सकाशात्) is paraphrased in the inner layer." }
+}

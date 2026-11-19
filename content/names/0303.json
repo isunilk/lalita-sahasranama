@@ -1,0 +1,42 @@
+{
+  "number": 303,
+  "verse": 70,
+  "slug": "hridya",
+  "devanagari": "हृद्या",
+  "iastSplit": "Hṛdyā",
+  "archana": "ॐ हृद्यायै नमः",
+  "syllables": ["hṛd", "yā"],
+  "words": [
+    { "sa": "हृद्या", "meaning": { "en": "of the heart: dwelling in the heart; delightful", "hi": "हृदय की: हृदय में रहने वाली; मनोहर" } }
+  ],
+  "meaning": {
+    "en": "Dweller in the heart, dear to the heart",
+    "hi": "हृदय में निवास करने वाली, हृदय को प्रिय"
+  },
+  "explanation": {
+    "en": "Hṛdyā comes from hṛd, the heart. Bhāskararāya gives two senses: she abides in the heart, dwelling in the hearts of sages; and she is delightful, pleasing to the heart.",
+    "hi": "‘हृद्या’ शब्द ‘हृद्’ अर्थात् हृदय से बना है। भास्करराय इसके दो अर्थ देते हैं: वे हृदय में रहती हैं, अर्थात् मुनियों के हृदय में निवास करती हैं; और वे रमणीय हैं, हृदय को आनन्द देने वाली।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives no further hidden meaning. The two senses meet: what lives in the heart is also what the heart loves. The sages find her not far away but within.",
+    "hi": "भास्करराय इससे आगे कोई गूढ़ अर्थ नहीं देते। ये दोनों अर्थ एक-दूसरे में मिल जाते हैं: जो हृदय में बसता है, वही हृदय को प्रिय भी होता है। मुनि उन्हें कहीं दूर नहीं, अपने ही भीतर पाते हैं।"
+  },
+  "story": {
+    "en": "This is the third of the four names in this half-verse that begin with h. In ordinary Sanskrit, too, hṛdya is said of anything that pleases the heart, such as kind words or good food.",
+    "hi": "यह इस अर्धश्लोक के उन चार नामों में तीसरा है जो ‘ह’ से आरम्भ होते हैं। साधारण संस्कृत में भी ‘हृद्य’ हर उस वस्तु को कहते हैं जो मन को भाए, जैसे मधुर वचन या स्वादिष्ट भोजन।"
+  },
+  "commentary": {
+    "sanskrit": "हृदि भवा हृद्या मुनिहृन्निवासिनी, रमणीया वा ।",
+    "translation": {
+      "en": "Hṛdyā is she who is in the heart, dwelling in the hearts of sages; or she who is delightful.",
+      "hi": "हृदय में होने वाली हृद्या हैं, अर्थात् मुनियों के हृदय में निवास करने वाली; अथवा रमणीया।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 303 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the two literal senses; the inner layer after its first sentence is a reflection." }
+}

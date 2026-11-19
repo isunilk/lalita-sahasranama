@@ -1,0 +1,70 @@
+{
+  "number": 613,
+  "verse": 123,
+  "slug": "kavyalapa-vinodini",
+  "devanagari": "काव्यालापविनोदिनी",
+  "iastSplit": "Kāvyālāpa-vinodinī",
+  "archana": "ॐ काव्यालापविनोदिन्यै नमः",
+  "syllables": [
+    "kāv",
+    "yā",
+    "lā",
+    "pa",
+    "vi",
+    "no",
+    "di",
+    "nī"
+  ],
+  "words": [
+    {
+      "sa": "काव्य",
+      "meaning": {
+        "en": "poetry, poem",
+        "hi": "काव्य"
+      }
+    },
+    {
+      "sa": "आलाप",
+      "meaning": {
+        "en": "recitation, speech",
+        "hi": "आलाप, पाठ"
+      }
+    },
+    {
+      "sa": "विनोदिनी",
+      "meaning": {
+        "en": "who takes delight",
+        "hi": "आनन्द लेने वाली"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Who delights in the recitation of poetry",
+    "hi": "जो काव्य के पाठ में आनन्द लेती हैं"
+  },
+  "explanation": {
+    "en": "Kāvya is poetry, ālāpa is speech or recitation, and vinodinī is one who takes delight. She delights in hearing great poems recited.",
+    "hi": "‘काव्य’ है कविता, ‘आलाप’ है वाणी या पाठ, और ‘विनोदिनी’ है आनन्द लेने वाली। उन्हें महान काव्यों का पाठ सुनना प्रिय है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya names the poems as the works of Vālmīki and the other great poets, and the many kinds of drama. His text reads the last word as vimodinī, “who delights especially”, which comes to the same sense. Speech made beautiful is an offering she loves; this hymn itself, composed by the goddesses of speech, is such an offering.",
+    "hi": "भास्करराय काव्यों के रूप में वाल्मीकि आदि महाकवियों की रचनाओं और नाटक के विविध भेदों का नाम लेते हैं। उनके पाठ में अन्तिम शब्द ‘विमोदिनी’ है, अर्थात् विशेष रूप से आनन्दित होने वाली, जिसका अर्थ वही है। सुन्दर बनी वाणी उन्हें प्रिय अर्पण है; वाग्देवियों द्वारा रचा यह स्तोत्र स्वयं ऐसा ही एक अर्पण है।"
+  },
+  "story": {
+    "en": "Sanskrit poetics describes the mahākāvya, the great poem, by eighteen features, such as descriptions of cities, seas, mountains and seasons. Bhāskararāya speaks of poems marked by these eighteen features, and names Vālmīki, author of the Rāmāyaṇa, the first poem.",
+    "hi": "संस्कृत काव्यशास्त्र महाकाव्य के अठारह लक्षण बताता है, जैसे नगर, समुद्र, पर्वत और ऋतुओं का वर्णन। भास्करराय इन अठारह लक्षणों से युक्त काव्यों की बात करते हैं, और आदिकाव्य रामायण के रचयिता वाल्मीकि का नाम लेते हैं।"
+  },
+  "commentary": null,
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. Variant: Bhāskararāya’s text reads काव्यालापविमोदिनी and glosses it ‘विशिष्य मोदत इति’; the master text and nāmāvali read विनोदिनी, which is followed here. Commentary left null because the explaining sentence is printed with a misprint (‘लक्षितअनां’ for लक्षितानां). The last sentence of the inner layer is a reflection; the examples of the eighteen features come from Sanskrit poetics generally, not from Bhāskararāya."
+  }
+}

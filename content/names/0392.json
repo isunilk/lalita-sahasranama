@@ -1,0 +1,44 @@
+{
+  "number": 392,
+  "verse": 85,
+  "slug": "shrikanthardha-sharirini",
+  "devanagari": "श्रीकण्ठार्धशरीरिणी",
+  "iastSplit": "Śrīkaṇṭhārdha-śarīriṇī",
+  "archana": "ॐ श्रीकण्ठार्धशरीरिण्यै नमः",
+  "syllables": ["śrī", "kaṇ", "ṭhār", "dha", "śa", "rī", "ri", "ṇī"],
+  "words": [
+    { "sa": "श्रीकण्ठ", "meaning": { "en": "Śrīkaṇṭha, Śiva, who holds the poison in his throat", "hi": "श्रीकण्ठ, कण्ठ में विष धारण करने वाले शिव" } },
+    { "sa": "अर्ध", "meaning": { "en": "half", "hi": "आधा" } },
+    { "sa": "शरीरिणी", "meaning": { "en": "having a body", "hi": "शरीर वाली" } }
+  ],
+  "meaning": {
+    "en": "Who is half the body of Śrīkaṇṭha, Śiva",
+    "hi": "जो श्रीकण्ठ शिव के आधे शरीर के रूप में हैं"
+  },
+  "explanation": {
+    "en": "Śrīkaṇṭha is a name of Śiva. She is half of his body: the Lord and the Goddess as one form, Ardhanārīśvara.",
+    "hi": "श्रीकण्ठ शिव का एक नाम है। वे उनके शरीर का आधा भाग हैं: ईश्वर और देवी एक ही रूप में, अर्धनारीश्वर।"
+  },
+  "inner": {
+    "en": "Bhāskararāya explains Śrīkaṇṭha through a rare sense of śrī, poison: Śiva is the one with poison in his throat. He cites the Upaniṣad in which the one Self divides itself in two and becomes husband and wife. In another reading Śrīkaṇṭha is a name of the letter a, the source of all speech, so this name joins the names of speech at the start of verse 81: the first sound is half her body.",
+    "hi": "भास्करराय ‘श्रीकण्ठ’ का अर्थ ‘श्री’ के एक दुर्लभ अर्थ, विष, से बताते हैं: शिव वे हैं जिनके कण्ठ में विष है। वे उस उपनिषद्-वचन को उद्धृत करते हैं जिसमें एक ही आत्मा स्वयं को दो भागों में बाँटकर पति और पत्नी बनता है। एक अन्य अर्थ में ‘श्रीकण्ठ’ अकार का नाम है, जो सारी वाणी का मूल है; इस तरह यह नाम श्लोक 81 के आरम्भ के वाणी-सम्बन्धी नामों से जुड़ जाता है: पहला अक्षर उनके शरीर का आधा भाग है।"
+  },
+  "story": {
+    "en": "Bhāskararāya also quotes the Vāyu Purāṇa: when Brahmā told her, who is half of Śaṅkara’s body, to divide herself, she became two, Gaurī and Kālī, the fair and the dark.",
+    "hi": "भास्करराय वायुपुराण का वचन भी देते हैं: शंकर के अर्धांग रूप उन देवी को जब ब्रह्मा ने स्वयं को विभाजित करने को कहा, तो वे दो रूपों में प्रकट हुईं, गौरी और काली, गौर वर्ण और श्याम वर्ण।"
+  },
+  "commentary": {
+    "sanskrit": "अत एवैकस्यैव द्व्यात्मकत्वं बृहदारण्यके श्रूयते- आत्मैवेदमग्र आसीदिति प्रक्रम्य स इममेवात्मानं द्वेधाऽपातयत्ततः पतिश्च पत्नी चाभवतामिति ।",
+    "translation": {
+      "en": "That is why the Bṛhadāraṇyaka teaches that the One is twofold: beginning “In the beginning this was the Self alone”, it says, “He made this very Self fall into two parts; from that came husband and wife.”",
+      "hi": "इसीलिए बृहदारण्यक में एक ही के द्विरूप होने की बात सुनी जाती है: ‘आरम्भ में यह आत्मा ही था’ से आरम्भ करके वह कहता है, ‘उसने इसी आत्मा को दो भागों में विभक्त किया; उससे पति और पत्नी हुए।’"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 392 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The commentary quote is the Bṛhadāraṇyaka passage Bhāskararāya adduces. His gloss of श्रीकण्ठ just before it is printed with a misprint (शिवस्तस्यार्थं for तस्यार्धं; also श्रीकण्ठेनार्थशरीरवती), so it is summarised rather than quoted. The reading of श्री as ‘poison’ and of श्रीकण्ठ as अकार are his." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 211,
+  "verse": 53,
+  "slug": "mrida-priya",
+  "devanagari": "मृडप्रिया",
+  "iastSplit": "Mṛḍa-priyā",
+  "archana": "ॐ मृडप्रियायै नमः",
+  "syllables": ["mṛ", "ḍap", "ri", "yā"],
+  "words": [
+    { "sa": "मृड", "meaning": { "en": "Mṛḍa, ‘the gracious’, a name of Śiva", "hi": "मृड, ‘सुख देने वाले’, शिव का नाम" } },
+    { "sa": "प्रिया", "meaning": { "en": "beloved", "hi": "प्रिया, प्रियतमा" } }
+  ],
+  "meaning": {
+    "en": "Beloved of Mṛḍa, Śiva the gracious",
+    "hi": "मृड, अर्थात् कृपालु शिव, की प्रिया"
+  },
+  "explanation": {
+    "en": "Mṛḍa, ‘the one who makes happy’, is a name of Śiva. She is his beloved, dear to the gracious Lord who brings joy to all beings.",
+    "hi": "मृड, अर्थात् ‘सुख देने वाले’, शिव का नाम है। वे उनकी प्रिया हैं, उन कृपालु प्रभु की, जो सब प्राणियों को सुख देते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya derives Mṛḍa from the root mṛḍ, ‘to make happy’: it is the name of Śiva as the sustainer of the world, in whom sattva prevails. He quotes the Mahimnaḥ Stotra: ‘salutations again and again to Mṛḍa, abounding in sattva, for the happiness of people’. She is dear to Śiva in this gentle, sustaining aspect.",
+    "hi": "भास्करराय ‘मृड’ को ‘मृड् सुखने’, अर्थात् सुख देने के अर्थ वाली धातु से निकालते हैं: यह जगत का पालन करने वाले, सत्त्वगुण-प्रधान शिव का नाम है। वे महिम्नःस्तोत्र का वचन उद्धृत करते हैं: ‘लोगों के सुख के लिए सत्त्व से भरपूर मृड को बार-बार नमस्कार’। वे शिव के इसी कोमल, पालन करने वाले रूप की प्रिया हैं।"
+  },
+  "story": {
+    "en": "The Mahimnaḥ verse he quotes names three forms of Śiva by the guṇa that rules each: Bhava, full of rajas, for creation; Hara, strong in tamas, for dissolution; and Mṛḍa, abounding in sattva, for the happiness of beings. This name chooses the gentlest of the three.",
+    "hi": "जिस महिम्नःस्तोत्र के श्लोक को वे उद्धृत करते हैं, वह शिव के तीन रूपों को उनके गुणों से पहचानता है: सृष्टि के लिए रजोगुण से भरे भव, संहार के लिए तमोगुण से प्रबल हर, और प्राणियों के सुख के लिए सत्त्व से भरे मृड। यह नाम इन तीनों में सबसे कोमल रूप को चुनता है।"
+  },
+  "commentary": {
+    "sanskrit": "धातोर्विश्वस्थितिकर्तुः सत्त्वगुणवतः शिवस्य मृड इति संज्ञा ।",
+    "translation": {
+      "en": "From the root [mṛḍ, ‘to make happy’], Mṛḍa is the name of Śiva, who sustains the world and is endowed with sattva.",
+      "hi": "[‘मृड् सुखने’] धातु से, जगत का पालन करने वाले, सत्त्वगुणयुक्त शिव की संज्ञा मृड है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 211 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The quote starts after the root citation (मृड सुखने इति), which is supplied in brackets in the translation. Bhāskararāya quotes only the Mṛḍa line of the Mahimnaḥ verse; the lines on Bhava and Hara in the story layer are added as context from the stotra." }
+}

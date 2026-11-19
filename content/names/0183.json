@@ -1,0 +1,43 @@
+{
+  "number": 183,
+  "verse": 49,
+  "slug": "nishparigraha",
+  "devanagari": "निष्परिग्रहा",
+  "iastSplit": "Niṣ-parigrahā",
+  "archana": "ॐ निष्परिग्रहायै नमः",
+  "syllables": ["niṣ", "pa", "rig", "ra", "hā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free of", "hi": "रहित" } },
+    { "sa": "परिग्रह", "meaning": { "en": "possession, taking hold; also retinue, wife, root", "hi": "परिग्रह, ग्रहण; परिजन, पत्नी और मूल भी" } }
+  ],
+  "meaning": {
+    "en": "She who possesses nothing and holds on to nothing",
+    "hi": "जो कुछ भी ग्रहण नहीं करतीं, जिनका कोई परिग्रह नहीं"
+  },
+  "explanation": {
+    "en": "Parigraha means taking hold of something as one’s own: possessions, a household, a following. She needs nothing and grasps nothing; she is niṣparigrahā.",
+    "hi": "परिग्रह का अर्थ है किसी वस्तु को अपना मानकर पकड़ लेना: धन-सम्पत्ति, घर-परिवार, अनुयायी। उन्हें किसी वस्तु की आवश्यकता नहीं, वे कुछ भी नहीं पकड़तीं; वे निष्परिग्रहा हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya simply cites the Medinī lexicon, which gives parigraha the senses of retinue, wife, acceptance and root; she is free of them all. He gives no hidden meaning. As a reflection: she is the source of everything, so there is nothing outside her to take, and nothing beneath her to rest on.",
+    "hi": "भास्करराय केवल मेदिनी कोश का उल्लेख करते हैं, जो ‘परिग्रह’ के अर्थ परिजन, पत्नी, स्वीकार और मूल बताता है; वे इन सबसे रहित हैं। वे कोई गूढ़ अर्थ नहीं देते। चिन्तन के रूप में: वे सबका स्रोत हैं, इसलिए उनसे बाहर ऐसा कुछ नहीं जिसे वे ग्रहण करें, और उनके नीचे ऐसा कुछ नहीं जिस पर वे टिकें।"
+  },
+  "story": {
+    "en": "Aparigraha, not grasping, is one of the five restraints (yamas) in Patañjali’s Yoga Sūtra. What the seeker practises with effort is her very nature.",
+    "hi": "पतञ्जलि के योगसूत्र में अपरिग्रह, अर्थात् संग्रह न करना, पाँच यमों में से एक है। साधक जिसे प्रयत्न से साधता है, वह देवी का स्वभाव ही है।"
+  },
+  "commentary": {
+    "sanskrit": "निर्गतः परिग्रहो यस्याः",
+    "translation": {
+      "en": "She from whom parigraha has gone.",
+      "hi": "जिनसे परिग्रह निकल गया है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 183 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the Medinī lexicon’s senses of parigraha. The closing sentence of the inner layer and the link to aparigraha (Yoga Sūtra 2.30) in the story layer are reflections, not from the commentary." }
+}

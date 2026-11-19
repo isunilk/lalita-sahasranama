@@ -1,0 +1,43 @@
+{
+  "number": 488,
+  "verse": 100,
+  "slug": "damshtrojjvala",
+  "devanagari": "दंष्ट्रोज्ज्वला",
+  "iastSplit": "Daṃṣṭrojjvalā",
+  "archana": "ॐ दंष्ट्रोज्ज्वलायै नमः",
+  "syllables": ["daṃṣ", "ṭroj", "jva", "lā"],
+  "words": [
+    { "sa": "दंष्ट्रा", "meaning": { "en": "tusk, fang", "hi": "दंष्ट्रा, दाढ़" } },
+    { "sa": "उज्ज्वला", "meaning": { "en": "shining, resplendent", "hi": "उज्ज्वल, दीप्तिमान" } }
+  ],
+  "meaning": {
+    "en": "Resplendent with her tusks",
+    "hi": "दंष्ट्राओं से दीप्त"
+  },
+  "explanation": {
+    "en": "Rākiṇī is pictured with tusks. Bhāskararāya describes them as teeth like a boar’s, and says she shines and is beautiful with them.",
+    "hi": "राकिणी को दंष्ट्राओं वाली बताया गया है। भास्करराय इन्हें वराह के दाँतों जैसी बताते हैं, और कहते हैं कि इनसे वे उज्ज्वल और शोभायमान हैं।"
+  },
+  "inner": {
+    "en": "He gives the literal sense only, with no hidden meaning. What might frighten is here called ujjvala, shining: in the Mother even fierceness is a kind of beauty, and it guards the devotee rather than threatening them.",
+    "hi": "वे केवल शाब्दिक अर्थ देते हैं, कोई गूढ़ अर्थ नहीं। जो डरा सकता है, उसे यहाँ ‘उज्ज्वल’ कहा गया है: माँ में उग्रता भी एक प्रकार का सौन्दर्य है, जो भक्त को डराती नहीं, उसकी रक्षा करती है।"
+  },
+  "story": {
+    "en": "The meditation verse he quotes calls Rākiṇī daṃṣṭriṇī, ‘tusked’, and the one for Lākinī of the navel lotus uses the same word. In the chanted verse this name runs into the next, daṃṣṭrojjvalā’kṣamālādidharā; the avagraha (ऽ) marks where the final ā and the initial a of akṣamālā have merged.",
+    "hi": "भास्करराय जो ध्यान-श्लोक उद्धृत करते हैं, उसमें राकिणी को ‘दंष्ट्रिणी’ कहा गया है, और नाभि-कमल की लाकिनी के श्लोक में भी यही शब्द है। श्लोक में यह नाम अगले नाम से जुड़कर ‘दंष्ट्रोज्ज्वलाऽक्षमालादिधरा’ बनता है; अवग्रह (ऽ) उस स्थान का चिह्न है जहाँ अन्तिम ‘आ’ और ‘अक्षमाला’ का आरम्भिक ‘अ’ मिल गए हैं।"
+  },
+  "commentary": {
+    "sanskrit": "दंष्ट्राभिर्वराहसमानदन्तैरुज्ज्वला शोभमाना ।",
+    "translation": {
+      "en": "Ujjvalā, shining and beautiful, with daṃṣṭrās, teeth like a boar’s.",
+      "hi": "दंष्ट्राओं से, अर्थात् वराह के समान दाँतों से, उज्ज्वल और शोभायमान।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 488 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the second sentence of the inner layer is a reflection. Syllables follow the cluster rule: daṃṣ-ṭroj-jva-lā." }
+}

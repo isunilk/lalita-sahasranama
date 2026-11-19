@@ -1,0 +1,43 @@
+{
+  "number": 725,
+  "verse": 140,
+  "slug": "dakshinamurti-rupini",
+  "devanagari": "दक्षिणामूर्तिरूपिणी",
+  "iastSplit": "Dakṣiṇāmūrti-rūpiṇī",
+  "archana": "ॐ दक्षिणामूर्तिरूपिण्यै नमः",
+  "syllables": ["dak", "ṣi", "ṇā", "mūr", "ti", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "दक्षिणामूर्ति", "meaning": { "en": "Dakṣiṇāmūrti, the south-facing form of Śiva as teacher", "hi": "दक्षिणामूर्ति, गुरु रूप में शिव का दक्षिणाभिमुख स्वरूप" } },
+    { "sa": "रूपिणी", "meaning": { "en": "having the form of", "hi": "रूप वाली, स्वरूपा" } }
+  ],
+  "meaning": {
+    "en": "She who takes the form of Dakṣiṇāmūrti, the supreme teacher",
+    "hi": "जो दक्षिणामूर्ति, परम गुरु, का रूप हैं"
+  },
+  "explanation": {
+    "en": "Dakṣiṇāmūrti is Śiva facing south, famed as the teacher of Brahmā, Nārāyaṇa and the other gods. Bhāskararāya says that this form, whose mantras are well known in the tantras, is her own form.",
+    "hi": "दक्षिणामूर्ति दक्षिण की ओर मुख किए शिव हैं, जो ब्रह्मा, नारायण आदि देवताओं के गुरु के रूप में प्रसिद्ध हैं। भास्करराय कहते हैं कि यह रूप, जिसके मन्त्र तन्त्रों में प्रसिद्ध हैं, स्वयं उन्हीं का रूप है।"
+  },
+  "inner": {
+    "en": "The supreme teacher is not someone other than the Mother. Śiva as guru and Śakti are one, so the knowledge that comes through the teacher is her own grace. Bhāskararāya gives no further hidden meaning here.",
+    "hi": "परम गुरु माँ से भिन्न कोई नहीं हैं। गुरु-रूप शिव और शक्ति एक हैं, इसलिए गुरु के द्वारा मिलने वाला ज्ञान उन्हीं की कृपा है। भास्करराय यहाँ इससे आगे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "Dakṣiṇāmūrti is shown seated beneath a banyan tree, facing south: a youthful teacher with aged disciples, whose doubts dissolve in his silence. The next name names those disciples, Sanaka and his brothers.",
+    "hi": "दक्षिणामूर्ति को वटवृक्ष के नीचे दक्षिणाभिमुख बैठे दिखाया जाता है: गुरु युवा हैं, शिष्य वृद्ध, और गुरु के मौन से ही शिष्यों के संशय मिट जाते हैं। अगला नाम उन्हीं शिष्यों का नाम लेता है: सनक और उनके भाई।"
+  },
+  "commentary": {
+    "sanskrit": "शिवस्य दक्षिणाभिमुखी मूर्तिर्ब्रह्मनारायणादेरध्यापकत्वेन प्रसिद्धा । यस्या मन्त्रास्तन्त्रेषु प्रसिद्धाः स एव रूपमस्याः ।",
+    "translation": {
+      "en": "Śiva’s south-facing form, renowned as the teacher of Brahmā, Nārāyaṇa and others, whose mantras are well known in the tantras: that itself is her form.",
+      "hi": "शिव की दक्षिणाभिमुख मूर्ति, जो ब्रह्मा, नारायण आदि के अध्यापक के रूप में प्रसिद्ध है और जिसके मन्त्र तन्त्रों में प्रसिद्ध हैं, वही इनका रूप है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 725 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The first two sentences of the inner layer are a reflection. The banyan-tree iconography in the story is general tradition, not from Bhāskararāya." }
+}

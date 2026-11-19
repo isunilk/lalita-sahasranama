@@ -1,0 +1,43 @@
+{
+  "number": 161,
+  "verse": 47,
+  "slug": "nir-ahankara",
+  "devanagari": "निरहङ्कारा",
+  "iastSplit": "Nir-ahaṅkārā",
+  "archana": "ॐ निरहङ्कारायै नमः",
+  "syllables": ["ni", "ra", "haṅ", "kā", "rā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free from", "hi": "रहित, बिना" } },
+    { "sa": "अहङ्कार", "meaning": { "en": "ego, the sense of ‘I’", "hi": "अहंकार, ‘मैं’ का भाव" } }
+  ],
+  "meaning": {
+    "en": "Free from ego",
+    "hi": "अहंकार से रहित"
+  },
+  "explanation": {
+    "en": "Ahaṅkāra is the ‘I-maker’, the sense that sets up a small, separate self. She has no such separate ‘I’; her self is the Self of all.",
+    "hi": "‘अहंकार’ है ‘मैं’ बनाने वाली वृत्ति, जो एक छोटे, अलग ‘मैं’ को खड़ा करती है। उनमें ऐसा कोई अलग ‘मैं’ नहीं; उनका स्वरूप ही सबकी आत्मा है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes the teaching that ahaṅkāra is threefold, vaikārika, taijasa and bhūtādi, and says she is free of all three. In the Purāṇic and Sāṃkhya accounts these are the forms of the I-sense from which the mind, the senses and the elements unfold. She stands before that unfolding, untouched by it.",
+    "hi": "भास्करराय यह वचन उद्धृत करते हैं कि अहंकार तीन प्रकार का है, वैकारिक, तैजस और भूतादि, और कहते हैं कि वे तीनों से रहित हैं। पुराणों और सांख्य के वर्णन में यही अहंकार के वे रूप हैं जिनसे मन, इन्द्रियाँ और भूत प्रकट होते हैं। वे उस प्रकटन से पहले हैं, उससे अछूती।"
+  },
+  "story": {
+    "en": "Ahaṅkāra is one of the inner knots named in verse 47: worry, ego, delusion and the sense of ‘mine’. Bhāskararāya treats them as movements of the inner instrument, which are not the self.",
+    "hi": "अहंकार श्लोक 47 में बताई गई भीतर की गाँठों में से एक है: चिन्ता, अहंकार, मोह और ‘मेरा’ का भाव। भास्करराय इन्हें अन्तःकरण की वृत्तियाँ मानते हैं, जो आत्मा नहीं हैं।"
+  },
+  "commentary": {
+    "sanskrit": "त्रिविधोऽहङ्कारस्तद्राहित्यान्निरहङ्कारा ।",
+    "translation": {
+      "en": "Ahaṅkāra is threefold; being without it, she is Nirahaṅkārā.",
+      "hi": "अहंकार तीन प्रकार का है; उससे रहित होने के कारण वे निरहङ्कारा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 161 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The quotation begins mid-sentence to leave out a misprint just before it (वचनान्त्रिविधो for वचनात्त्रिविधो). Bhāskararāya does not name the source of the line on threefold ahaṅkāra. The second and third sentences of the inner layer are the drafter’s gloss and reflection." }
+}

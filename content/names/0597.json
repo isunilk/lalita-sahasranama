@@ -1,0 +1,44 @@
+{
+  "number": 597,
+  "verse": 120,
+  "slug": "trikonantara-dipika",
+  "devanagari": "त्रिकोणान्तरदीपिका",
+  "iastSplit": "Trikoṇāntara-dīpikā",
+  "archana": "ॐ त्रिकोणान्तरदीपिकायै नमः",
+  "syllables": ["tri", "ko", "ṇān", "ta", "ra", "dī", "pi", "kā"],
+  "words": [
+    { "sa": "त्रिकोण", "meaning": { "en": "triangle", "hi": "त्रिकोण" } },
+    { "sa": "अन्तर", "meaning": { "en": "interior, within", "hi": "भीतर, मध्य" } },
+    { "sa": "दीपिका", "meaning": { "en": "lamp; she who illumines", "hi": "दीपिका, प्रकाशित करने वाली" } }
+  ],
+  "meaning": {
+    "en": "The lamp within the triangle",
+    "hi": "त्रिकोण के भीतर की दीपिका"
+  },
+  "explanation": {
+    "en": "She is a lamp burning inside the triangle. Bhāskararāya explains: in the centre of the pericarp of the mūlādhāra lotus there is a triangle, within it is the orb of fire, and she is that flame, one with it.",
+    "hi": "वे त्रिकोण के भीतर जलती दीपिका हैं। भास्करराय समझाते हैं: मूलाधार कमल की कर्णिका के मध्य एक त्रिकोण है, उसके भीतर अग्नि-मण्डल है, और वे वही ज्योति हैं, उससे अभिन्न।"
+  },
+  "inner": {
+    "en": "This fire, he says, is the first kūṭa of the vidyā. He quotes the Tantrarāja: in the mūlādhāra of all beings there is fire, in the heart the sun, and in the head below the brahmarandhra the moon; the first Nityā is made of these three and has three sections. So the three lights of names 592, 596 and 597 are the three kūṭas of her mantra within the body.",
+    "hi": "वे कहते हैं कि यह अग्नि विद्या का पहला कूट है। वे तन्त्रराज उद्धृत करते हैं: सभी प्राणियों के मूलाधार में अग्नि है, हृदय में सूर्य, और सिर में ब्रह्मरन्ध्र के नीचे चन्द्रमा; आद्या नित्या इन तीनों से बनी है और तीन खण्डों वाली है। इस प्रकार नाम 592, 596 और 597 के तीन प्रकाश शरीर में उनके मन्त्र के तीन कूट हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya also gives a second reading in which the phrase describes the sun as well. Following the Viṣṇu Purāṇa, he explains that the sun, circling Mount Meru, lights three of its corners at a time, so it too is a lamp of the triangle; in this she is like the sun of the previous name.",
+    "hi": "भास्करराय एक दूसरा अर्थ भी देते हैं जिसमें यह पद सूर्य का भी वर्णन करता है। विष्णु पुराण के आधार पर वे समझाते हैं कि मेरु पर्वत की परिक्रमा करता सूर्य एक समय में उसके तीन कोणों को प्रकाशित करता है, इसलिए वह भी ‘त्रिकोण का दीपक’ है; इस गुण में वे पिछले नाम के सूर्य के समान हैं।"
+  },
+  "commentary": {
+    "sanskrit": "मूलाधारपद्मकर्णिकामध्ये त्रिकोणमस्ति । तदन्तरग्निमण्डलम् । तच्च प्रथमकूटस्वरूपं तदेतदाह । त्रिकोणस्यान्तरे मध्ये दीपवद्दीपिका तदभिन्नेत्यर्थः ।",
+    "translation": {
+      "en": "In the middle of the pericarp of the mūlādhāra lotus there is a triangle; within it is the orb of fire, and that is the form of the first kūṭa. This is what the name says: within, in the middle of, the triangle, she is a lamp, like a flame; that is, she is one with it.",
+      "hi": "मूलाधार कमल की कर्णिका के मध्य त्रिकोण है; उसके भीतर अग्नि-मण्डल है, और वह पहले कूट का स्वरूप है। यही (नाम) कहता है: त्रिकोण के अन्तर, अर्थात् मध्य, में दीपक के समान दीपिका; अर्थात् उससे अभिन्न।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 597 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Cakra and mantra name: meaning only. Bhāskararāya’s second, astronomical reading (the sun lighting the corners of Meru, with its extension to five cities) is only summarised." }
+}

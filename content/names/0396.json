@@ -1,0 +1,36 @@
+{
+  "number": 396,
+  "verse": 86,
+  "slug": "parameshvari",
+  "devanagari": "परमेश्वरी",
+  "iastSplit": "Parameśvarī",
+  "archana": "ॐ परमेश्वर्यै नमः",
+  "syllables": ["pa", "ra", "meś", "va", "rī"],
+  "words": [
+    { "sa": "परम", "meaning": { "en": "supreme, highest", "hi": "परम, सर्वोच्च" } },
+    { "sa": "ईश्वरी", "meaning": { "en": "sovereign, ruler", "hi": "ईश्वरी, स्वामिनी" } }
+  ],
+  "meaning": {
+    "en": "The supreme sovereign Goddess",
+    "hi": "परम ईश्वरी, सर्वोच्च स्वामिनी"
+  },
+  "explanation": {
+    "en": "Parama means highest, and īśvarī the one who rules. She is the supreme ruler, above every other power.",
+    "hi": "‘परम’ का अर्थ है सर्वोच्च, और ‘ईश्वरी’ का अर्थ है शासन करने वाली। वे सर्वोच्च स्वामिनी हैं, हर अन्य शक्ति से ऊपर।"
+  },
+  "inner": {
+    "en": "Bhāskararāya glosses it plainly: highest, and the ruler and mistress. He gives no hidden meaning here. Every lordship in the worlds is a share of hers.",
+    "hi": "भास्करराय इसका सीधा अर्थ देते हैं: सर्वोच्च, और ईश्वरी अर्थात् स्वामिनी। यहाँ वे कोई गूढ़ अर्थ नहीं देते। लोकों में जो भी प्रभुत्व है, वह उन्हीं के प्रभुत्व का अंश है।"
+  },
+  "story": {
+    "en": "This closes the first line of verse 86. The second line turns to her as the root of creation.",
+    "hi": "यह श्लोक 86 की पहली पंक्ति को पूरा करता है। दूसरी पंक्ति उन्हें सृष्टि के मूल के रूप में देखती है।"
+  },
+  "commentary": null,
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s gloss is very brief and printed with a misprint (परमा उत्कृष्टा स सेश्वरी स्वामिनी च, evidently for सा चेश्वरी), so commentary is left null. The last sentence of the inner layer is a reflection." }
+}

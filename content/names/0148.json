@@ -1,0 +1,43 @@
+{
+  "number": 148,
+  "verse": 45,
+  "slug": "nitya-shuddha",
+  "devanagari": "नित्यशुद्धा",
+  "iastSplit": "Nitya-śuddhā",
+  "archana": "ॐ नित्यशुद्धायै नमः",
+  "syllables": ["nit", "ya", "śud", "dhā"],
+  "words": [
+    { "sa": "नित्य", "meaning": { "en": "ever, always", "hi": "सदा, नित्य" } },
+    { "sa": "शुद्ध", "meaning": { "en": "pure", "hi": "शुद्ध, पवित्र" } }
+  ],
+  "meaning": {
+    "en": "Ever pure",
+    "hi": "सदा शुद्ध"
+  },
+  "explanation": {
+    "en": "She is pure always, not made pure at some point. No impurity has touched her in the past, touches her now, or ever will.",
+    "hi": "वे सदा शुद्ध हैं, किसी समय शुद्ध की गई नहीं। कोई अशुद्धि न पहले उन्हें छू पाई, न अब छूती है, न कभी छुएगी।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says there is no impurity in her in any of the three times, and cites a śruti that calls the Self “untouched, great and pure.” He adds a smṛti that sets two things side by side: the body is utterly impure, the one who dwells in it utterly pure. The purity of that indweller is hers.",
+    "hi": "भास्करराय कहते हैं कि तीनों कालों में उनमें कोई मलिनता नहीं, और श्रुति का वह वचन देते हैं जो आत्मा को ‘अस्पर्श, महान और शुचि’ कहता है। वे एक स्मृति-वचन भी देते हैं जो दोनों को साथ रखता है: देह अत्यन्त मलिन है, और देही अत्यन्त निर्मल। देह में बसने वाले की वह पवित्रता उन्हीं की है।"
+  },
+  "story": {
+    "en": "Verse 45 holds all three parts of a well-known Vedānta phrase: Nityamuktā, Nityaśuddhā and Nityabuddhā. Advaita teachers, Śaṅkara among them, describe the Self as nitya-śuddha-buddha-mukta, by nature ever pure, awake and free.",
+    "hi": "श्लोक 45 में वेदान्त के एक प्रसिद्ध वाक्यांश के तीनों अंश आ जाते हैं: नित्यमुक्ता, नित्यशुद्धा और नित्यबुद्धा। शंकराचार्य आदि अद्वैत आचार्य आत्मा का स्वभाव ‘नित्य-शुद्ध-बुद्ध-मुक्त’ बताते हैं, अर्थात् सदा शुद्ध, सदा प्रबुद्ध और सदा मुक्त।"
+  },
+  "commentary": {
+    "sanskrit": "कालत्रयेऽपि मालिन्याभावान्नित्यशुद्धा ।",
+    "translation": {
+      "en": "Since there is no impurity in her in any of the three times, she is Nityaśuddhā.",
+      "hi": "तीनों कालों में मलिनता न होने के कारण वे नित्यशुद्धा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 148 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The last sentence of the inner layer is a reflection on the smṛti he quotes. The phrase nitya-śuddha-buddha-mukta in the story layer is from Advaita usage (for example Śaṅkara’s Brahmasūtra commentary), not from Bhāskararāya here." }
+}

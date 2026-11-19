@@ -1,0 +1,43 @@
+{
+  "number": 186,
+  "verse": 50,
+  "slug": "nirapaya",
+  "devanagari": "निरपाया",
+  "iastSplit": "Nir-apāyā",
+  "archana": "ॐ निरपायायै नमः",
+  "syllables": ["ni", "ra", "pā", "yā"],
+  "words": [
+    { "sa": "निर्", "meaning": { "en": "without, beyond", "hi": "रहित, परे" } },
+    { "sa": "अपाय", "meaning": { "en": "decline, loss, destruction", "hi": "क्षय, हानि, नाश" } }
+  ],
+  "meaning": {
+    "en": "Free of decay, loss or ruin",
+    "hi": "क्षय, हानि और नाश से रहित"
+  },
+  "explanation": {
+    "en": "Apāya means going away, and so loss, decay and ruin. Nothing in her ever wanes or is lost; she is nirapāyā.",
+    "hi": "अपाय का अर्थ है दूर चले जाना, और इसीलिए हानि, क्षय और नाश। उनमें कुछ भी कभी घटता या खोता नहीं; वे निरपाया हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya glosses apāya with atyaya, ‘destruction’, and says she is free of it. He gives no hidden meaning here. As a reflection: all that we hold slips away in time; she alone does not.",
+    "hi": "भास्करराय ‘अपाय’ का अर्थ ‘अत्यय’, अर्थात् नाश, बताते हैं और कहते हैं कि वे उससे रहित हैं। वे यहाँ कोई गूढ़ अर्थ नहीं देते। चिन्तन के रूप में: जो कुछ हम पकड़ते हैं, वह समय के साथ छूट जाता है; केवल वे नहीं छूटतीं।"
+  },
+  "story": {
+    "en": "Names 186 and 187 are near-synonyms. Bhāskararāya explains the first with the very word that forms the second, atyaya, and then, for name 187, takes that word in its other senses.",
+    "hi": "नाम 186 और 187 लगभग समानार्थी हैं। भास्करराय पहले नाम का अर्थ उसी शब्द, ‘अत्यय’, से बताते हैं जिससे दूसरा नाम बना है, और फिर नाम 187 के लिए उस शब्द के अन्य अर्थ लेते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "अपायोऽत्ययो नाशस्तद्रहिता ।",
+    "translation": {
+      "en": "Apāya means atyaya, destruction; she is free of it.",
+      "hi": "अपाय, अर्थात् अत्यय या नाश; वे उससे रहित हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 186 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the closing sentence of the inner layer is a reflection." }
+}

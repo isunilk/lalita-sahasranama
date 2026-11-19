@@ -1,0 +1,45 @@
+{
+  "number": 745,
+  "verse": 143,
+  "slug": "jara-dhvanta-ravi-prabha",
+  "devanagari": "जराध्वान्तरविप्रभा",
+  "iastSplit": "Jarā-dhvānta-ravi-prabhā",
+  "archana": "ॐ जराध्वान्तरविप्रभायै नमः",
+  "syllables": ["ja", "rādh", "vān", "ta", "ra", "vip", "ra", "bhā"],
+  "words": [
+    { "sa": "जरा", "meaning": { "en": "old age", "hi": "जरा, बुढ़ापा" } },
+    { "sa": "ध्वान्त", "meaning": { "en": "darkness", "hi": "अन्धकार" } },
+    { "sa": "रवि", "meaning": { "en": "the sun", "hi": "सूर्य" } },
+    { "sa": "प्रभा", "meaning": { "en": "light, radiance", "hi": "प्रकाश, प्रभा" } }
+  ],
+  "meaning": {
+    "en": "Sunlight that dispels the darkness of old age",
+    "hi": "बुढ़ापे के अन्धकार को मिटाने वाली सूर्य की प्रभा"
+  },
+  "explanation": {
+    "en": "Old age is darkness, and she is the light of the sun that destroys it. Bhāskararāya’s gloss is brief and keeps to the image.",
+    "hi": "बुढ़ापा अन्धकार है, और वे सूर्य की प्रभा हैं जो उसे मिटा देती है। भास्करराय की व्याख्या संक्षिप्त है और इसी चित्र तक सीमित है।"
+  },
+  "inner": {
+    "en": "He gives no hidden meaning here. In reflection, age dims the senses and the body, but the light she gives is the light of awareness, which does not grow old.",
+    "hi": "यहाँ वे कोई गूढ़ अर्थ नहीं देते। चिन्तन के रूप में: आयु इन्द्रियों और शरीर को मन्द कर देती है, पर जो प्रकाश वे देती हैं वह चेतना का प्रकाश है, जो कभी बूढ़ा नहीं होता।"
+  },
+  "story": {
+    "en": "This is the fourth of the eight metaphor names. Later the hymn calls her the giver of rest to people scorched by birth, death and old age (name 851).",
+    "hi": "यह रूपक वाले आठ नामों में चौथा है। आगे स्तोत्र उन्हें जन्म, मृत्यु और जरा से तप्त लोगों को विश्राम देने वाली कहता है (नाम 851)।"
+  },
+  "commentary": {
+    "sanskrit": "जरैव ध्वान्तमन्धकारं तस्य नाशकत्वाद्रवेः प्रभेव ।",
+    "translation": {
+      "en": "Old age itself is dhvānta, darkness; because she destroys it, she is like the light of the sun.",
+      "hi": "जरा ही ध्वान्त अर्थात् अन्धकार है; उसे नष्ट करने के कारण वे सूर्य की प्रभा के समान हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 745 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the inner layer is a reflection." }
+}

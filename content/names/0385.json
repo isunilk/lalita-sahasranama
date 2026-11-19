@@ -1,0 +1,43 @@
+{
+  "number": 385,
+  "verse": 84,
+  "slug": "sakshi-varjita",
+  "devanagari": "साक्षिवर्जिता",
+  "iastSplit": "Sākṣi-varjitā",
+  "archana": "ॐ साक्षिवर्जितायै नमः",
+  "syllables": ["sāk", "ṣi", "var", "ji", "tā"],
+  "words": [
+    { "sa": "साक्षिन्", "meaning": { "en": "witness", "hi": "साक्षी" } },
+    { "sa": "वर्जिता", "meaning": { "en": "without, free of", "hi": "रहित" } }
+  ],
+  "meaning": {
+    "en": "Who has no witness beyond herself",
+    "hi": "जिनका कोई साक्षी नहीं"
+  },
+  "explanation": {
+    "en": "Varjita means without. She has no witness, because there is nothing outside her that could look on her.",
+    "hi": "‘वर्जित’ का अर्थ है रहित। उनका कोई साक्षी नहीं, क्योंकि उनके बाहर ऐसा कुछ नहीं जो उन्हें देख सके।"
+  },
+  "inner": {
+    "en": "Bhāskararāya’s reason is simple: since she is the witness of all, no other witness can apply to her. He gives no further hidden meaning. The thought is that the seer cannot itself be made an object: awareness is never something seen, only that by which all is seen.",
+    "hi": "भास्करराय का कारण सीधा है: जब वे सबकी साक्षी हैं, तो उनके लिए किसी अन्य साक्षी का प्रश्न ही नहीं उठता। वे इससे आगे कोई गूढ़ अर्थ नहीं देते। भाव यह है कि देखने वाले को देखे जाने की वस्तु नहीं बनाया जा सकता: चेतना कभी दिखने वाली चीज़ नहीं, वह है जिससे सब कुछ दिखता है।"
+  },
+  "story": {
+    "en": "This name pairs with name 384: witness of the universe, and herself without a witness.",
+    "hi": "यह नाम 384 के साथ जोड़ी बनाता है: विश्व की साक्षी, और स्वयं साक्षी से रहित।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वसाक्षिण्याः साक्ष्यन्तरायोगात्साक्षिवर्जिता ।",
+    "translation": {
+      "en": "Since she is the witness of all, no other witness can apply to her; so she is without a witness.",
+      "hi": "सबकी साक्षी होने के कारण उनके लिए किसी दूसरे साक्षी का योग सम्भव नहीं; इसलिए वे साक्षिवर्जिता हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 385 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal reason; the last sentence of the inner layer is a reflection." }
+}

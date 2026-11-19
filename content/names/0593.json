@@ -1,0 +1,36 @@
+{
+  "number": 593,
+  "verse": 119,
+  "slug": "bhala-stha",
+  "devanagari": "भालस्था",
+  "iastSplit": "Bhāla-sthā",
+  "archana": "ॐ भालस्थायै नमः",
+  "syllables": ["bhā", "las", "thā"],
+  "words": [
+    { "sa": "भाल", "meaning": { "en": "forehead", "hi": "ललाट, भाल" } },
+    { "sa": "स्था", "meaning": { "en": "abiding", "hi": "स्थित" } }
+  ],
+  "meaning": {
+    "en": "Who abides in the forehead",
+    "hi": "ललाट में स्थित"
+  },
+  "explanation": {
+    "en": "She abides in the forehead. Bhāskararāya says she is present there in the form of the bindu, the point, of the syllable called hṛllekhā.",
+    "hi": "वे ललाट में स्थित हैं। भास्करराय कहते हैं कि वे वहाँ ‘हृल्लेखा’ नामक अक्षर के बिन्दु के रूप में विराजती हैं।"
+  },
+  "inner": {
+    "en": "In Śrīvidyā a mantra syllable is understood to have subtle parts above the written letter: the bindu, the point, and above it the half-moon. Bhāskararāya places the bindu in the forehead, and the next name places the half-moon above it. Here the body itself is read as the mantra.",
+    "hi": "श्रीविद्या में माना जाता है कि मन्त्र के अक्षर के ऊपर उसके सूक्ष्म अंश होते हैं: बिन्दु, और उसके ऊपर अर्धचन्द्र। भास्करराय बिन्दु को ललाट में रखते हैं, और अगला नाम उसके ऊपर अर्धचन्द्र को रखता है। यहाँ शरीर को ही मन्त्र के रूप में पढ़ा गया है।"
+  },
+  "story": {
+    "en": "In the verse this name is joined to the next by sandhi: bhālasthā and indradhanuḥprabhā become bhālasthendradhanuḥprabhā. Read together, they picture a point of light on the forehead with a bow of light above it.",
+    "hi": "श्लोक में यह नाम अगले नाम से सन्धि द्वारा जुड़ा है: भालस्था और इन्द्रधनुःप्रभा मिलकर भालस्थेन्द्रधनुःप्रभा बनते हैं। साथ पढ़ने पर ये ललाट पर प्रकाश के एक बिन्दु और उसके ऊपर प्रकाश के एक धनुष का चित्र बनाते हैं।"
+  },
+  "commentary": null,
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Cakra and mantra name: meaning only; the syllable called हृल्लेखा is named, not given. No commentary quote: the edition reads भालहृल्लेखा बिन्दुरूपेण निष्ठतीति भालस्था, evidently a misprint for तिष्ठतीति. The first sentence of the inner layer is general Śrīvidyā context supported by the Nityāhṛdaya verse quoted under name 594." }
+}

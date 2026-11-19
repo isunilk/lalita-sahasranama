@@ -1,0 +1,42 @@
+{
+  "number": 313,
+  "verse": 72,
+  "slug": "rama",
+  "devanagari": "रमा",
+  "iastSplit": "Ramā",
+  "archana": "ॐ रमायै नमः",
+  "syllables": ["ra", "mā"],
+  "words": [
+    { "sa": "रमा", "meaning": { "en": "Ramā, a name of Lakṣmī; she who gives delight", "hi": "रमा, लक्ष्मी का नाम; आनन्द देने वाली" } }
+  ],
+  "meaning": {
+    "en": "Ramā, Lakṣmī, goddess of fortune",
+    "hi": "रमा, अर्थात् लक्ष्मी-स्वरूपा"
+  },
+  "explanation": {
+    "en": "Ramā is a name of Lakṣmī, goddess of fortune and grace. Bhāskararāya cites the Sūta Saṃhitā, which speaks of the Devī shining like a dancer in the forms of Lakṣmī, Vāk and the others; since she is Lakṣmī, she is Ramā.",
+    "hi": "‘रमा’ लक्ष्मी का नाम है, जो सौभाग्य और कृपा की देवी हैं। भास्करराय सूतसंहिता का वचन देते हैं, जो कहता है कि देवी लक्ष्मी, वाणी आदि रूपों में नर्तकी की भाँति प्रकाशित होती हैं; लक्ष्मी-स्वरूपा होने से वे रमा हैं।"
+  },
+  "inner": {
+    "en": "The dancer is the key to the image. One dancer takes many roles and remains herself; so the one Devī appears as Lakṣmī, as Sarasvatī and as every goddess.",
+    "hi": "इस उपमा की कुंजी नर्तकी है। एक ही नर्तकी अनेक भूमिकाएँ निभाती है, फिर भी वही रहती है; वैसे ही एक ही देवी लक्ष्मी के रूप में, सरस्वती के रूप में और हर देवी के रूप में प्रकट होती हैं।"
+  },
+  "story": {
+    "en": "In the Purāṇas Lakṣmī rises from the churning of the ocean of milk and chooses Viṣṇu as her lord. Here, as Bhāskararāya reads it, she is not a separate goddess but one of the Devī’s own forms.",
+    "hi": "पुराणों में लक्ष्मी क्षीरसागर के मन्थन से प्रकट होती हैं और विष्णु का वरण करती हैं। भास्करराय के अनुसार यहाँ वे कोई अलग देवी नहीं, स्वयं देवी का ही एक रूप हैं।"
+  },
+  "commentary": {
+    "sanskrit": "लक्ष्मीस्वरूपत्वाद्रमा ।",
+    "translation": {
+      "en": "Because she is Lakṣmī herself, she is Ramā.",
+      "hi": "लक्ष्मी-स्वरूपा होने के कारण वे रमा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 313 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The inner layer is a reflection on the Sūta Saṃhitā image he quotes. Bhāskararāya also reads names 313–315 together as a coded description (uddhāra) of a seed-syllable; per the site’s rule it is mentioned on name 315 but not spelled out." }
+}

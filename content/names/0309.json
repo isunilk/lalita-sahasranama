@@ -1,0 +1,42 @@
+{
+  "number": 309,
+  "verse": 71,
+  "slug": "ranjani",
+  "devanagari": "रञ्जनी",
+  "iastSplit": "Rañjanī",
+  "archana": "ॐ रञ्जन्यै नमः",
+  "syllables": ["rañ", "ja", "nī"],
+  "words": [
+    { "sa": "रञ्जनी", "meaning": { "en": "she who delights; she who colours", "hi": "आनन्दित करने वाली; रंग देने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who delights devotees and colours all with her glow",
+    "hi": "भक्तों को आनन्दित करने वाली, अपनी आभा से सबको रँगने वाली"
+  },
+  "explanation": {
+    "en": "The root rañj means both to delight and to colour. Bhāskararāya gives both senses: she delights her devotees, and she colours Paramaśiva with her own hue.",
+    "hi": "‘रञ्ज्’ धातु के दो अर्थ हैं: प्रसन्न करना और रंग देना। भास्करराय दोनों अर्थ देते हैं: वे भक्तों को आनन्दित करती हैं, और परमशिव को अपने रंग में रँग देती हैं।"
+  },
+  "inner": {
+    "en": "His image is this: Paramaśiva in himself is like clear crystal, pure and colourless. The Devī is red like a japā (hibiscus) flower, and as crystal looks red simply because the flower is near, Śiva takes on her colour by her mere presence. The still light of consciousness shows colour only in her nearness.",
+    "hi": "उनका दिया हुआ चित्र यह है: परमशिव स्वयं शुद्ध स्फटिक के समान निर्मल और रंगहीन हैं। देवी जपाकुसुम (गुड़हल) की भाँति अरुण हैं; और जैसे स्फटिक फूल के पास होने मात्र से लाल दिखने लगता है, वैसे ही शिव उनकी सन्निधि मात्र से उनके रंग में रँग जाते हैं। निर्मल चेतना का स्थिर प्रकाश उन्हीं के सान्निध्य में रंग पाता है।"
+  },
+  "story": {
+    "en": "Red is the Devī’s colour throughout the hymn: her radiance is that of a thousand rising suns (name 6). Bhāskararāya’s image uses that colour to show how even Śiva is tinged by her.",
+    "hi": "पूरे स्तोत्र में देवी का रंग अरुण है: उनकी आभा हज़ार उगते सूर्यों जैसी है (नाम 6)। भास्करराय का यह चित्र उसी रंग से बताता है कि स्वयं शिव भी उनके रंग में रँग जाते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "भक्तान् रञ्जयतीति रञ्जनी । शुद्धस्फटिकसंकाशं परमशिवमरुणादेवीजपाकुसुमवत्सान्निध्यमात्रेण रञ्जयतीति वा ।",
+    "translation": {
+      "en": "She delights (rañjayati) her devotees, so she is Rañjanī. Or: the red Devī, like a japā flower, colours Paramaśiva, who is like pure crystal, by her mere presence.",
+      "hi": "वे भक्तों का रञ्जन करती हैं, इसलिए रञ्जनी हैं। अथवा, अरुण देवी जपाकुसुम की भाँति, शुद्ध स्फटिक जैसे परमशिव को अपनी सन्निधि मात्र से रँग देती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 309 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The last sentence of the inner layer is a reflection on his crystal-and-flower image." }
+}

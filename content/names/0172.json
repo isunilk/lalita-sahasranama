@@ -1,0 +1,43 @@
+{
+  "number": 172,
+  "verse": 48,
+  "slug": "ni-samshaya",
+  "devanagari": "निःसंशया",
+  "iastSplit": "Niḥ-saṃśayā",
+  "archana": "ॐ निःसंशयायै नमः",
+  "syllables": ["niḥ", "saṃ", "śa", "yā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free from", "hi": "रहित, बिना" } },
+    { "sa": "संशय", "meaning": { "en": "doubt", "hi": "संशय, सन्देह" } }
+  ],
+  "meaning": {
+    "en": "Free from all doubt",
+    "hi": "सब संशयों से रहित"
+  },
+  "explanation": {
+    "en": "Saṃśaya is doubt, the mind wavering between two possibilities. She knows the truth directly, so no doubt can arise in her.",
+    "hi": "‘संशय’ का अर्थ है सन्देह, दो सम्भावनाओं के बीच मन का डोलना। वे सत्य को सीधे जानती हैं, इसलिए उनमें कोई संशय नहीं उठ सकता।"
+  },
+  "inner": {
+    "en": "Bhāskararāya reads this name and the next as one pair, through the Tantrarāja’s description of the true guru: “without doubt, a cutter of doubt, free of dependence.” The Tantrarāja defines the first as one who knows the truth, and the second as one who cuts doubt by teaching it. Because she is one with such a guru, she bears both names.",
+    "hi": "भास्करराय इस नाम और अगले नाम को एक जोड़े के रूप में तन्त्रराज के सद्गुरु-वर्णन के प्रकाश में पढ़ते हैं: ‘गुरु संशयरहित, संशय का छेदन करने वाला और निरपेक्ष माना गया है।’ तन्त्रराज पहले का अर्थ बताता है ‘तत्त्व को जानने वाला’, और दूसरे का ‘तत्त्व का उपदेश देकर संशय काटने वाला’। ऐसे गुरु से अभिन्न होने के कारण उनके ये दोनों नाम हैं।"
+  },
+  "story": {
+    "en": "He closes with words found in both śruti and smṛti, “all doubts are cut,” said of one who has seen the Supreme. The Devī as guru is a constant theme of Śrīvidyā, and a later name calls her Gurumūrti, the guru in bodily form (name 603).",
+    "hi": "अन्त में वे श्रुति और स्मृति दोनों में आने वाला वचन देते हैं, ‘सब संशय कट जाते हैं’, जो परम तत्त्व के दर्शन करने वाले के लिए कहा गया है। देवी का गुरु-रूप श्रीविद्या का निरन्तर विषय है, और आगे का एक नाम उन्हें ‘गुरुमूर्ति’, अर्थात् साकार गुरु, कहता है (नाम 603)।"
+  },
+  "commentary": {
+    "sanskrit": "तादृशगुर्वभेदादिदं नामद्वयम् ।",
+    "translation": {
+      "en": "Because she is one with such a guru, there is this pair of names.",
+      "hi": "ऐसे गुरु से अभिन्न होने के कारण ये दो नाम हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 172 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Slug follows the brief’s rule that ḥ is dropped (ni-samshaya); a reviewer may prefer nih-samshaya. The quoted sentence comes right after his Tantrarāja quotation on the guru, which gives it its sense. The edition repeats the pair once as निःस्ंशया संशयघ्नीति, a misprint for निःसंशया. The words ‘all doubts are cut’ are from the Muṇḍaka Upaniṣad (2.2.8)." }
+}

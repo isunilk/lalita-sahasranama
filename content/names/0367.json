@@ -1,0 +1,44 @@
+{
+  "number": 367,
+  "verse": 81,
+  "slug": "pratyak-chiti-rupa",
+  "devanagari": "प्रत्यक्चितीरूपा",
+  "iastSplit": "Pratyak-citī-rūpā",
+  "archana": "ॐ प्रत्यक्चितीरूपायै नमः",
+  "syllables": ["prat", "yak", "ci", "tī", "rū", "pā"],
+  "words": [
+    { "sa": "प्रत्यक्", "meaning": { "en": "turned inward, facing one’s own Self", "hi": "अन्तर्मुख, अपनी आत्मा की ओर मुड़ा हुआ" } },
+    { "sa": "चिती", "meaning": { "en": "consciousness", "hi": "चेतना, चिति" } },
+    { "sa": "रूप", "meaning": { "en": "form, nature", "hi": "रूप, स्वरूप" } }
+  ],
+  "meaning": {
+    "en": "Whose form is consciousness turned inward",
+    "hi": "अन्तर्मुखी चेतना जिनका स्वरूप है"
+  },
+  "explanation": {
+    "en": "Pratyak means “turned back” or “inward”: facing not outward to objects but toward one’s own Self. Citī is consciousness. That inward-facing awareness is her form.",
+    "hi": "‘प्रत्यक्’ का अर्थ है पीछे की ओर, भीतर की ओर मुड़ा हुआ: विषयों की ओर बाहर नहीं, अपनी आत्मा की ओर। ‘चिती’ चेतना है। वही अन्तर्मुखी चेतना उनका रूप है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya explains pratīcī as that which moves against the current, toward one’s own Self, and he identifies this inward consciousness with the Brahman called avyakta, the Unmanifest. Ordinary awareness runs outward through the senses; when it turns back to its source, what it finds there is she. Set among the names of speech, the name points to the stillness from which speech arises.",
+    "hi": "भास्करराय ‘प्रतीची’ का अर्थ बताते हैं: जो धारा के विपरीत, अपनी आत्मा की ओर चलती है; और इस अन्तर्मुखी चेतना को वे ‘अव्यक्त’ नामक ब्रह्म बताते हैं। साधारण चेतना इन्द्रियों के द्वार से बाहर दौड़ती है; जब वह अपने स्रोत की ओर लौटती है, तो वहाँ वही मिलती हैं। वाणी के नामों के बीच रखा यह नाम उस मौन की ओर संकेत करता है जिससे वाणी जन्म लेती है।"
+  },
+  "story": {
+    "en": "The name stands between parā and paśyantī, the first two levels of speech. Bhāskararāya also explains the grammar: citi, formed from the root ci, takes the feminine ending ī, which is why the verse reads citī.",
+    "hi": "यह नाम वाणी के पहले दो स्तरों, परा और पश्यन्ती, के बीच आता है। भास्करराय व्याकरण भी समझाते हैं: ‘चि’ धातु से बने ‘चिति’ शब्द को स्त्रीलिंग का दीर्घ ‘ई’ प्रत्यय मिलता है, इसलिए श्लोक में ‘चिती’ है।"
+  },
+  "commentary": {
+    "sanskrit": "प्रतिकूलं स्वात्माभिमुखमञ्चतीति प्रतीची सा च सा चिती च प्रत्यक्चिती अव्यक्तसंज्ञं ब्रह्म सैव रूपं यस्यास्तथा ।",
+    "translation": {
+      "en": "What moves against the current, turned toward one’s own Self, is pratīcī; what is both this and citī, consciousness, is pratyakcitī: the Brahman known as the Unmanifest. She whose form is that.",
+      "hi": "जो प्रतिकूल दिशा में, अपनी आत्मा की ओर चलती है, वह प्रतीची है; जो प्रतीची भी है और चिती भी, वह प्रत्यक्चिती है, अर्थात् ‘अव्यक्त’ नामक ब्रह्म। वही जिनका रूप है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 367 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The last sentence of the inner layer is a reflection linking the name to the surrounding names of speech. The verse reads चिती with long ī, which Bhāskararāya derives grammatically (कृदिकारात् ङीष्)." }
+}

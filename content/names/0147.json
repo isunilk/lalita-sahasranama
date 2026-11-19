@@ -1,0 +1,43 @@
+{
+  "number": 147,
+  "verse": 45,
+  "slug": "nir-ashraya",
+  "devanagari": "निराश्रया",
+  "iastSplit": "Nir-āśrayā",
+  "archana": "ॐ निराश्रयायै नमः",
+  "syllables": ["ni", "rāś", "ra", "yā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free from", "hi": "रहित, बिना" } },
+    { "sa": "आश्रय", "meaning": { "en": "support, resting place, refuge", "hi": "आश्रय, आधार" } }
+  ],
+  "meaning": {
+    "en": "Resting on nothing, herself the support of all",
+    "hi": "जो किसी पर आश्रित नहीं, स्वयं सबका आश्रय"
+  },
+  "explanation": {
+    "en": "Āśraya is a support, something to lean on or rest in. Everything rests on her, and she rests on nothing outside herself.",
+    "hi": "‘आश्रय’ का अर्थ है सहारा या टिकने का स्थान। सब कुछ उन पर टिका है, और वे अपने से बाहर किसी पर नहीं टिकीं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya’s reasoning is simple: the support of all cannot have another support. He cites the words, “She in whom the universe is established, where is she established?” The question answers itself.",
+    "hi": "भास्करराय का तर्क सरल है: जो सबका आश्रय है, उसका कोई दूसरा आश्रय नहीं हो सकता। वे यह वचन उद्धृत करते हैं: ‘जिनमें विश्व प्रतिष्ठित है, वे स्वयं कहाँ प्रतिष्ठित हों?’ प्रश्न स्वयं अपना उत्तर है।"
+  },
+  "story": {
+    "en": "The name echoes Nirādhārā, ‘without support’ (name 132), which Bhāskararāya connects with the inner worship that needs no outward object. In the Vijñāna Bhairava verse he quotes under Niṣkalā, true meditation too is called nirāśrayā, resting on nothing.",
+    "hi": "यह नाम ‘निराधारा’ (नाम 132) की याद दिलाता है, जिसे भास्करराय बिना बाहरी आधार वाली आन्तरिक पूजा से जोड़ते हैं। ‘निष्कला’ नाम पर उद्धृत विज्ञान भैरव के श्लोक में सच्चे ध्यान को भी ‘निराश्रया’, किसी पर न टिका हुआ, कहा गया है।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वाश्रयस्याश्रयान्तरायोगान्निराश्रया ।",
+    "translation": {
+      "en": "Since the support of all can have no other support, she is Nirāśrayā.",
+      "hi": "जो सबका आश्रय है, उसका कोई अन्य आश्रय सम्भव नहीं, इसलिए वे निराश्रया हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 147 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. He gives no hidden meaning beyond this; the last sentence of the inner layer is a reflection. The source of the quoted line (विश्वं प्रतिष्ठितं यस्यां …) is not named." }
+}

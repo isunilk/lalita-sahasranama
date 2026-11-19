@@ -1,0 +1,44 @@
+{
+  "number": 748,
+  "verse": 144,
+  "slug": "roga-parvata-dambholi",
+  "devanagari": "रोगपर्वतदम्भोलिः",
+  "iastSplit": "Roga-parvata-dambholiḥ",
+  "archana": "ॐ रोगपर्वतदम्भोलये नमः",
+  "syllables": ["ro", "ga", "par", "va", "ta", "dam", "bho", "liḥ"],
+  "words": [
+    { "sa": "रोग", "meaning": { "en": "disease", "hi": "रोग" } },
+    { "sa": "पर्वत", "meaning": { "en": "mountain", "hi": "पर्वत" } },
+    { "sa": "दम्भोलि", "meaning": { "en": "thunderbolt, Indra’s vajra", "hi": "वज्र" } }
+  ],
+  "meaning": {
+    "en": "The thunderbolt that shatters the mountains of disease",
+    "hi": "रोग रूपी पर्वतों को तोड़ने वाला वज्र"
+  },
+  "explanation": {
+    "en": "Diseases are mountains, Bhāskararāya says, because they are massive, and she is the thunderbolt that breaks them. Dambholi is the vajra, the thunderbolt of Indra.",
+    "hi": "भास्करराय कहते हैं कि रोग पर्वत हैं, क्योंकि वे स्थूल और विशाल हैं, और वे उन्हें तोड़ने वाला वज्र हैं। ‘दम्भोलि’ इन्द्र का वज्र है।"
+  },
+  "inner": {
+    "en": "He supports it with the Vedic line ‘I hear of you as the best physician among physicians.’ In reflection, she heals not only the body’s diseases but the deeper sickness of worldly existence. Bhāskararāya gives no further hidden meaning.",
+    "hi": "इसके समर्थन में वे वैदिक वचन देते हैं: ‘मैं तुम्हें वैद्यों में सर्वश्रेष्ठ वैद्य सुनता हूँ।’ चिन्तन के रूप में: वे केवल शरीर के रोग ही नहीं, संसार के गहरे रोग को भी दूर करती हैं। भास्करराय इससे आगे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "This is the seventh of the eight metaphor names, and Bhāskararāya treats its grammar with care. Dambholi is masculine, so the archana is rogaparvatadambholaye namaḥ, not dambholyai; but he grants that by another usage, in which the word may be feminine, dambholyai is also possible.",
+    "hi": "यह रूपक वाले आठ नामों में सातवाँ है, और भास्करराय इसके व्याकरण पर विशेष ध्यान देते हैं। ‘दम्भोलि’ पुल्लिंग है, इसलिए अर्चना ‘रोगपर्वतदम्भोलये नमः’ है, ‘दम्भोल्यै’ नहीं; पर वे मानते हैं कि एक अन्य प्रयोग के अनुसार, जिसमें यह शब्द स्त्रीलिंग भी हो सकता है, ‘दम्भोल्यै’ भी सम्भव है।"
+  },
+  "commentary": {
+    "sanskrit": "रोगा एव पर्वताः स्थूलत्वात्तेषां दम्भोलिर्वज्र इव",
+    "translation": {
+      "en": "Diseases themselves are mountains, because they are massive; to them she is dambholi, like the thunderbolt.",
+      "hi": "रोग ही पर्वत हैं, क्योंकि वे स्थूल हैं; उनके लिए वे दम्भोलि, अर्थात् वज्र, के समान हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 748 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The archana रोगपर्वतदम्भोलये is Bhāskararāya’s first choice (पुंलिङ्ग एवायं शब्दः); he allows दम्भोल्यै only on an alternative view, citing the Agni Purāṇa lexicon. The Vedic line भिषक्तमं त्वा भिषजां शृणोमि appears to be Ṛgveda 2.33.4 (to Rudra); Bhāskararāya says only ‘śruti’. The second sentence of the inner layer is a reflection." }
+}

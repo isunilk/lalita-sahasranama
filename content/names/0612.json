@@ -1,0 +1,66 @@
+{
+  "number": 612,
+  "verse": 123,
+  "slug": "kala-natha",
+  "devanagari": "कलानाथा",
+  "iastSplit": "Kalā-nāthā",
+  "archana": "ॐ कलानाथायै नमः",
+  "syllables": [
+    "ka",
+    "lā",
+    "nā",
+    "thā"
+  ],
+  "words": [
+    {
+      "sa": "कला",
+      "meaning": {
+        "en": "digit, part; art",
+        "hi": "कला"
+      }
+    },
+    {
+      "sa": "नाथा",
+      "meaning": {
+        "en": "mistress, sovereign",
+        "hi": "स्वामिनी"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Mistress of the kalās; the moon herself",
+    "hi": "कलाओं की स्वामिनी; स्वयं चन्द्ररूपा"
+  },
+  "explanation": {
+    "en": "Nātha means lord or master. She rules over all the kalās named in the previous name. Kalānātha, “lord of the digits”, is also an ordinary name of the moon, so the name calls her the moon as well.",
+    "hi": "‘नाथ’ का अर्थ है स्वामी। वे पिछले नाम में कही गई सब कलाओं की स्वामिनी हैं। ‘कलानाथ’, अर्थात् कलाओं का स्वामी, चन्द्रमा का भी सामान्य नाम है, इसलिए यह नाम उन्हें चन्द्रमा भी कहता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives both senses: she is the mistress of these kalās, and, because the orb of the moon is the Śrīcakra itself, she is the moon. The moon gains and loses its digits yet is never less than itself; so she presides over every part and remains whole.",
+    "hi": "भास्करराय दोनों अर्थ देते हैं: वे इन कलाओं की स्वामिनी हैं, और क्योंकि चन्द्रमण्डल स्वयं श्रीचक्र है, वे चन्द्ररूपा हैं। चन्द्रमा की कलाएँ घटती-बढ़ती हैं, फिर भी वह स्वयं कभी कम नहीं होता; वैसे ही वे हर अंश की स्वामिनी होकर भी पूर्ण रहती हैं।"
+  },
+  "story": {
+    "en": "In Sanskrit kalānātha and kalānidhi are common names of the moon, the lord of the sixteen digits. In Bhāskararāya’s reading of name 610 the lunar days are the Nityās, so the moon’s digits and the goddesses around the Śrīcakra belong together.",
+    "hi": "संस्कृत में ‘कलानाथ’ और ‘कलानिधि’ चन्द्रमा के सामान्य नाम हैं, जो सोलह कलाओं का स्वामी है। नाम 610 की भास्करराय की व्याख्या में तिथियाँ ही नित्याएँ हैं, इसलिए चन्द्रमा की कलाएँ और श्रीचक्र की देवियाँ एक-दूसरे से जुड़ी हैं।"
+  },
+  "commentary": {
+    "sanskrit": "एतासां कलानां नाथा स्वामिनी च । चन्द्रमण्डलस्य श्रीचक्रस्वरूपत्वाच्चन्द्ररूपेत्यर्थो वा ।",
+    "translation": {
+      "en": "And she is the nāthā, the mistress, of these kalās. Or, since the orb of the moon is the Śrīcakra itself, the meaning is that she is the moon.",
+      "hi": "और वे इन कलाओं की नाथा अर्थात् स्वामिनी हैं। अथवा चन्द्रमण्डल श्रीचक्र-स्वरूप होने से अर्थ है कि वे चन्द्ररूपा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 612 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The last sentence of the inner layer is a reflection."
+  }
+}

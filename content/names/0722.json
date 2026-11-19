@@ -1,0 +1,43 @@
+{
+  "number": 722,
+  "verse": 139,
+  "slug": "guru-priya",
+  "devanagari": "गुरुप्रिया",
+  "iastSplit": "Guru-priyā",
+  "archana": "ॐ गुरुप्रियायै नमः",
+  "syllables": ["gu", "rup", "ri", "yā"],
+  "words": [
+    { "sa": "गुरु", "meaning": { "en": "teacher; also Śiva, the teacher of the world", "hi": "गुरु; जगद्गुरु शिव भी" } },
+    { "sa": "प्रिया", "meaning": { "en": "dear; beloved wife", "hi": "प्रिय; प्रियतमा, पत्नी" } }
+  ],
+  "meaning": {
+    "en": "She to whom the guru is dear",
+    "hi": "जिन्हें गुरु प्रिय हैं"
+  },
+  "explanation": {
+    "en": "Bhāskararāya gives three readings: she to whom the guru is dear; she who is one with the guru’s wife; or the beloved wife of Śiva, the teacher of the world.",
+    "hi": "भास्करराय तीन अर्थ देते हैं: जिन्हें गुरु प्रिय हैं; जो गुरु-पत्नी से अभिन्न हैं; अथवा जगद्गुरु शिव की प्रिय पत्नी।"
+  },
+  "inner": {
+    "en": "Name 713 has already called her the form of the circle of gurus, so the love between her and the guru is love within her own form. By Bhāskararāya’s second reading, the guru’s wife too is not different from her.",
+    "hi": "नाम 713 में उन्हें गुरुमण्डल का स्वरूप कहा जा चुका है, इसलिए उनके और गुरु के बीच का प्रेम उनके अपने ही स्वरूप के भीतर का प्रेम है। भास्करराय के दूसरे अर्थ के अनुसार गुरु-पत्नी भी उनसे भिन्न नहीं हैं।"
+  },
+  "story": {
+    "en": "The next names make the teacher’s role explicit: she takes the form of Dakṣiṇāmūrti, Śiva as the silent teacher, and is worshipped by the sage Sanaka and his brothers.",
+    "hi": "आगे के नाम गुरु-भाव को और स्पष्ट करते हैं: वे दक्षिणामूर्ति, अर्थात् मौन गुरु शिव, का रूप हैं, और सनक आदि ऋषि उनकी आराधना करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "गुरुः प्रियो यस्याः । गुरुपत्न्यभिन्ना वा । जगद्गुरोः शिवस्य पत्नी वा ।",
+    "translation": {
+      "en": "She to whom the guru is dear; or not different from the guru’s wife; or the wife of Śiva, the guru of the world.",
+      "hi": "जिन्हें गुरु प्रिय हैं; अथवा जो गुरु-पत्नी से अभिन्न हैं; अथवा जगद्गुरु शिव की पत्नी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 722 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The inner layer draws on Bhāskararāya’s readings and on name 713; its first sentence is a reflection." }
+}

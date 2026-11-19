@@ -1,0 +1,43 @@
+{
+  "number": 414,
+  "verse": 89,
+  "slug": "sva-prakasha",
+  "devanagari": "स्वप्रकाशा",
+  "iastSplit": "Sva-prakāśā",
+  "archana": "ॐ स्वप्रकाशायै नमः",
+  "syllables": ["svap", "ra", "kā", "śā"],
+  "words": [
+    { "sa": "स्व", "meaning": { "en": "own; the Self", "hi": "अपना; आत्मा" } },
+    { "sa": "प्रकाश", "meaning": { "en": "light", "hi": "प्रकाश" } }
+  ],
+  "meaning": {
+    "en": "Self-luminous, shining by her own light",
+    "hi": "स्वयं-प्रकाश, अपने ही प्रकाश से प्रकाशित"
+  },
+  "explanation": {
+    "en": "Everything else is seen by some light; she is the light itself. Her light is her own, borrowed from nothing.",
+    "hi": "बाकी सब किसी प्रकाश से दिखता है; वे स्वयं प्रकाश हैं। उनका प्रकाश उनका अपना है, किसी से लिया हुआ नहीं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says her light is one with the Self, and since she is never an object to be seen, nothing else can illumine her. He cites the Bṛhadāraṇyaka Upaniṣad: ‘here this person is his own light’. Awareness needs no second awareness to know that it is aware.",
+    "hi": "भास्करराय कहते हैं कि उनका प्रकाश आत्मा से अभिन्न है, और क्योंकि वे कभी देखी जाने वाली वस्तु नहीं हैं, कोई और उन्हें प्रकाशित नहीं कर सकता। वे बृहदारण्यक उपनिषद् का वचन देते हैं: ‘यहाँ यह पुरुष स्वयं ज्योति है।’ चेतना को स्वयं को जानने के लिए किसी दूसरी चेतना की आवश्यकता नहीं होती।"
+  },
+  "story": {
+    "en": "This is the middle name of the group on her transcendence. Bhāskararāya also offers a second reading, ‘whose light is well seen in the waters’, echoing his reading of the previous name.",
+    "hi": "अतीतता वाले समूह का यह बीच का नाम है। भास्करराय एक दूसरा अर्थ भी देते हैं, ‘जिनका प्रकाश जलों में भली-भाँति है’, जो पिछले नाम के उनके अर्थ से मेल खाता है।"
+  },
+  "commentary": {
+    "sanskrit": "स्वः आत्माभिन्नः प्रकाशो यस्याः । दृश्यत्वाभावेन पराप्रकाश्यत्वात् । अत्रायं पुरुषः स्वयंज्योतिरिति श्रुतेः ।",
+    "translation": {
+      "en": "She whose light is sva, her own, not different from the Self; for, not being an object of sight, she cannot be illumined by another. As the śruti says: ‘here this person is his own light’.",
+      "hi": "जिनका प्रकाश ‘स्व’ अर्थात् अपना, आत्मा से अभिन्न है; क्योंकि दृश्य न होने के कारण वे किसी अन्य से प्रकाशित नहीं होतीं। जैसा श्रुति कहती है: ‘यहाँ यह पुरुष स्वयं ज्योति है।’"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 414 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The last sentence of the inner layer is a reflection. His second reading (सुषु अप्सु प्रकाशो यस्या वा) is summarised loosely in the story; a scholar may refine it." }
+}

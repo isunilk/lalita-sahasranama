@@ -1,0 +1,43 @@
+{
+  "number": 369,
+  "verse": 81,
+  "slug": "para-devata",
+  "devanagari": "परदेवता",
+  "iastSplit": "Para-devatā",
+  "archana": "ॐ परदेवतायै नमः",
+  "syllables": ["pa", "ra", "de", "va", "tā"],
+  "words": [
+    { "sa": "पर", "meaning": { "en": "supreme, highest", "hi": "परम, सर्वोच्च" } },
+    { "sa": "देवता", "meaning": { "en": "deity", "hi": "देवता" } }
+  ],
+  "meaning": {
+    "en": "The supreme deity",
+    "hi": "परम देवता"
+  },
+  "explanation": {
+    "en": "Para means supreme, and devatā a deity. She is the highest of all deities, the one to whom every act of worship finally goes.",
+    "hi": "‘पर’ का अर्थ है सर्वोच्च, और ‘देवता’ का अर्थ है देव-शक्ति। वे सब देवताओं में सर्वोच्च हैं, जिन तक हर उपासना अन्ततः पहुँचती है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya glosses the name as the excellent deity, and adds that she is the very form of the Lord who is to be worshipped. He gives no hidden meaning here. Whatever form a devotee worships, the Lord behind that form is she.",
+    "hi": "भास्करराय इसका अर्थ उत्कृष्ट देवता बताते हैं, और जोड़ते हैं कि वे उपास्य ईश्वर का ही स्वरूप हैं। यहाँ वे कोई गूढ़ अर्थ नहीं देते। भक्त जिस भी रूप की उपासना करे, उस रूप के पीछे का ईश्वर वही हैं।"
+  },
+  "story": {
+    "en": "The name closes the first line of verse 81, between paśyantī and madhyamā, the second and third levels of speech.",
+    "hi": "यह नाम श्लोक 81 की पहली पंक्ति को पूरा करता है, और वाणी के दूसरे और तीसरे स्तर, पश्यन्ती और मध्यमा, के बीच आता है।"
+  },
+  "commentary": {
+    "sanskrit": "परा उत्कृष्टा चासौ देवता च परदेवता । उपास्येश्वरस्वरूपेत्यर्थः ।",
+    "translation": {
+      "en": "She is para, excellent, and a deity: the supreme deity. The meaning is: she whose form is the Lord to be worshipped.",
+      "hi": "जो पर, अर्थात् उत्कृष्ट, हैं और देवता भी हैं, वे परदेवता हैं। अर्थ यह है कि वे उपास्य ईश्वर का स्वरूप हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 369 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the last sentence of the inner layer is a reflection." }
+}

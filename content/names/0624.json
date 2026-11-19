@@ -1,0 +1,57 @@
+{
+  "number": 624,
+  "verse": 125,
+  "slug": "guhya",
+  "devanagari": "गुह्या",
+  "iastSplit": "Guhyā",
+  "archana": "ॐ गुह्यायै नमः",
+  "syllables": [
+    "guh",
+    "yā"
+  ],
+  "words": [
+    {
+      "sa": "गुह्या",
+      "meaning": {
+        "en": "secret, hidden",
+        "hi": "गुह्य, रहस्यमय"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "The secret one, hidden in the cave of the heart",
+    "hi": "हृदय की गुहा में छिपी रहस्यमयी"
+  },
+  "explanation": {
+    "en": "Guhya means secret, hidden. She is not found by the outward eye or by argument; she is known within.",
+    "hi": "‘गुह्य’ का अर्थ है रहस्यमय, छिपा हुआ। वे बाहरी आँख या तर्क से नहीं मिलतीं; वे भीतर जानी जाती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya takes guhyā as “she who has entered the guhā”, the cave, and adds that her meaning is supremely secret. He says this name and the next together state the point of the previous one: what is most hidden in her is what leads to final freedom.",
+    "hi": "भास्करराय ‘गुह्या’ का अर्थ करते हैं ‘जो गुहा में प्रविष्ट हैं’, और जोड़ते हैं कि उनका अर्थ अत्यन्त रहस्यमय है। वे कहते हैं कि यह नाम और अगला नाम मिलकर पिछले नाम की बात कहते हैं: उनमें जो सबसे गुप्त है, वही परम मुक्ति तक ले जाता है।"
+  },
+  "story": {
+    "en": "The Upaniṣads speak of the Self as hidden in the cave (guhā) of the heart; the Kaṭha Upaniṣad uses the very phrase “entered into the cave”.",
+    "hi": "उपनिषद् आत्मा को हृदय की गुहा में छिपा बताते हैं; कठ उपनिषद् ठीक यही शब्द प्रयोग करता है: ‘गुहां प्रविष्टौ’, अर्थात् गुहा में प्रविष्ट।"
+  },
+  "commentary": {
+    "sanskrit": "गुहां प्रविष्टा गुह्या । अतिरहस्यार्था इति यावत् ।",
+    "translation": {
+      "en": "Guhyā: she who has entered the guhā, the cave. That is, she whose meaning is supremely secret.",
+      "hi": "गुह्या: जो गुहा में प्रविष्ट हैं। तात्पर्य यह कि जिनका अर्थ अत्यन्त रहस्यमय है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 624 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The link to the Kaṭha Upaniṣad (‘guhāṃ praviṣṭau’) is mine, not Bhāskararāya’s."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "number": 292,
+  "verse": 69,
+  "slug": "purna",
+  "devanagari": "पूर्णा",
+  "iastSplit": "Pūrṇā",
+  "archana": "ॐ पूर्णायै नमः",
+  "syllables": ["pūr", "ṇā"],
+  "words": [
+    { "sa": "पूर्णा", "meaning": { "en": "full, complete, whole", "hi": "पूर्ण, परिपूर्ण" } }
+  ],
+  "meaning": {
+    "en": "The complete one, whole and without limit",
+    "hi": "परिपूर्ण, जिनकी कोई सीमा नहीं"
+  },
+  "explanation": {
+    "en": "Pūrṇā means full or complete. Bhāskararāya explains that she is full because nothing limits her: not place, not time, not any object. He cites the Upaniṣadic verse: “That is full, this is full; from the full the full arises; taking the full from the full, the full alone remains.”",
+    "hi": "‘पूर्णा’ का अर्थ है परिपूर्ण। भास्करराय बताते हैं कि वे पूर्ण इसलिए हैं कि देश, काल और वस्तु, इनमें से कोई भी उन्हें सीमित नहीं करता। वे उपनिषद् का प्रसिद्ध मन्त्र उद्धृत करते हैं: ‘वह पूर्ण है, यह पूर्ण है; पूर्ण से पूर्ण उदित होता है; पूर्ण में से पूर्ण निकाल लेने पर भी पूर्ण ही शेष रहता है।’"
+  },
+  "inner": {
+    "en": "Everything finite is cut off somewhere: it is here and not there, now and not then, this and not that. These are the three limits Bhāskararāya names, of place, time and object, and she has none of them. So nothing can be added to her and nothing taken away.",
+    "hi": "हर सीमित वस्तु कहीं न कहीं कटी हुई है: वह यहाँ है, वहाँ नहीं; अभी है, तब नहीं; यह है, वह नहीं। भास्करराय इन्हीं तीन सीमाओं के नाम लेते हैं, देश, काल और वस्तु की, और उनमें इनमें से कोई नहीं है। इसलिए उनमें न कुछ जोड़ा जा सकता है, न कुछ घटाया।"
+  },
+  "story": {
+    "en": "Bhāskararāya adds that Pūrṇā is also the name of the fifth, tenth and fifteenth days of the lunar fortnight, of the night of the bright fourteenth, and of a particular river, and that she is each of these.",
+    "hi": "भास्करराय यह भी बताते हैं कि ‘पूर्णा’ पक्ष की पञ्चमी, दशमी और पञ्चदशी तिथियों का, शुक्लपक्ष की चतुर्दशी की रात्रि का, और एक विशेष नदी का भी नाम है, और वे इन सबका स्वरूप हैं।"
+  },
+  "commentary": {
+    "sanskrit": "देशकालवस्तुकृतपरिच्छेदराहित्यात्पूर्णा ।",
+    "translation": {
+      "en": "She is Pūrṇā, full, because she is free of every limit made by place, time or object.",
+      "hi": "देश, काल और वस्तु से होने वाली हर सीमा से रहित होने के कारण वे पूर्णा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 292 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The first sentence and last sentence of the inner layer are a reflection on his gloss." }
+}

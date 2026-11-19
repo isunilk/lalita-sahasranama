@@ -1,0 +1,42 @@
+{
+  "number": 718,
+  "verse": 139,
+  "slug": "mahi",
+  "devanagari": "मही",
+  "iastSplit": "Mahī",
+  "archana": "ॐ मह्यै नमः",
+  "syllables": ["ma", "hī"],
+  "words": [
+    { "sa": "मही", "meaning": { "en": "the earth; the great, wide one", "hi": "पृथ्वी; महती, विस्तृत" } }
+  ],
+  "meaning": {
+    "en": "The Earth: as plainly present as the ground beneath us",
+    "hi": "पृथ्वी-रूपा, जो धरती की भाँति प्रत्यक्ष हैं"
+  },
+  "explanation": {
+    "en": "Mahī is the earth, the great and wide one. After four names on how hidden she is, the hymn turns around: Bhāskararāya says that though she is so secret, she is as fully manifest as the earth. He also notes that Mahī is the name of a river.",
+    "hi": "मही अर्थात् पृथ्वी, जो विशाल और विस्तृत है। उनके गुप्त स्वरूप पर चार नामों के बाद स्तोत्र मानो दिशा बदलता है: भास्करराय कहते हैं कि इतनी रहस्यमयी होकर भी वे पृथ्वी की भाँति अत्यन्त प्रकट हैं। वे यह भी बताते हैं कि ‘मही’ एक नदी का नाम भी है।"
+  },
+  "inner": {
+    "en": "The hidden and the obvious are not two goddesses. What the senses cannot reach is the same as what holds us up at every step, like the ground we never think about. The Devī Purāṇa, which Bhāskararāya cites, calls Prakṛti ‘Mahī’ because she abides pervading all things.",
+    "hi": "गुप्त और प्रकट, दो अलग देवियाँ नहीं हैं। जिस तक इन्द्रियाँ नहीं पहुँचतीं, वही हर कदम पर हमें धारण किए है, उस धरती की तरह जिसका हमें ध्यान भी नहीं आता। भास्करराय द्वारा उद्धृत देवीपुराण प्रकृति को ‘मही’ कहता है, क्योंकि वह सबमें व्याप्त होकर स्थित है।"
+  },
+  "story": {
+    "en": "This name closes the first line of the verse. Bhāskararāya reads both Madhumatī and Mahī also as names of rivers, in keeping with the old Indian reverence for rivers as forms of the Goddess.",
+    "hi": "इस नाम से श्लोक की पहली पंक्ति पूरी होती है। भास्करराय मधुमती और मही, दोनों को नदियों के नाम के रूप में भी पढ़ते हैं, जो नदियों को देवी का रूप मानने की प्राचीन भारतीय श्रद्धा के अनुरूप है।"
+  },
+  "commentary": {
+    "sanskrit": "ईदृशरहस्यरूपापि पृथ्वीवदतिप्रकटेत्याह ।",
+    "translation": {
+      "en": "Though her form is so secret, she is as fully manifest as the earth; this is what he says next.",
+      "hi": "ऐसे रहस्यमय रूप वाली होकर भी वे पृथ्वी की भाँति अत्यन्त प्रकट हैं; यही अगले नाम में कहा गया है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 718 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The first two sentences of the inner layer are a reflection; the Devī Purāṇa line (महद्व्याप्य स्थिता सर्वं महीति प्रकृतिर्मता) is paraphrased." }
+}

@@ -1,0 +1,42 @@
+{
+  "number": 717,
+  "verse": 139,
+  "slug": "madhumati",
+  "devanagari": "मधुमती",
+  "iastSplit": "Madhumatī",
+  "archana": "ॐ मधुमत्यै नमः",
+  "syllables": ["ma", "dhu", "ma", "tī"],
+  "words": [
+    { "sa": "मधुमती", "meaning": { "en": "rich in madhu: honey, nectar; also the name of a stage in yoga", "hi": "मधु से युक्त; योग की एक भूमिका का नाम भी" } }
+  ],
+  "meaning": {
+    "en": "She who is full of sweetness, the last stage of yoga",
+    "hi": "माधुर्य से परिपूर्ण, योग की अन्तिम भूमिका"
+  },
+  "explanation": {
+    "en": "Madhu means honey, the nectar of flowers, or wine, and Bhāskararāya first takes the name as she who has madhu at the time of her worship. He then gives deeper readings: she is the Upaniṣadic meditation on honey, in which the sun is called the honey of the gods; or she is Madhumatī, a stage reached in yoga.",
+    "hi": "‘मधु’ का अर्थ है शहद, फूलों का रस या मद्य; भास्करराय पहले इसका अर्थ करते हैं: जिनकी पूजा के समय मधु रहता है। फिर वे गहरे अर्थ देते हैं: वे उपनिषद् की मधुविद्या हैं, जिसमें सूर्य को देवताओं का मधु कहा गया है; अथवा वे ‘मधुमती’ हैं, योग में प्राप्त होने वाली एक भूमिका।"
+  },
+  "inner": {
+    "en": "In Bhāskararāya’s yogic reading, the highest of the four kinds of yogin still has seven stages to cross, and the last of them is called Madhumatī. Only the knowledge born at that stage carries one across saṃsāra, so she is the one who ferries beings to the far shore. This is the fourth of the four names on her hidden nature.",
+    "hi": "भास्करराय के योगपरक अर्थ में, चार प्रकार के योगियों में सबसे उत्तम योगी को भी सात भूमिकाएँ पार करनी होती हैं, और उनमें अन्तिम ‘मधुमती’ कहलाती है। उसी भूमिका में उत्पन्न ज्ञान तारक है, अर्थात् संसार से पार उतारता है; इसलिए वे संसार से तारने वाली हैं। उनके रहस्यमय स्वरूप पर चार नामों में यह चौथा है।"
+  },
+  "story": {
+    "en": "The honey-doctrine of the Chāndogya Upaniṣad opens with the words ‘the sun is the honey of the gods’, and Bhāskararāya also quotes the Vedic line that madhu is the very form of this great Goddess. He adds that Madhumatī may also be a river of that name.",
+    "hi": "छान्दोग्य उपनिषद् की मधुविद्या ‘सूर्य देवताओं का मधु है’ इन शब्दों से आरम्भ होती है; भास्करराय वह वैदिक वचन भी उद्धृत करते हैं कि मधु इस महान देवता का ही रूप है। वे जोड़ते हैं कि मधुमती इसी नाम की एक नदी भी हो सकती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "तासु चरमा भूमिका मधुमतीत्युच्यते तद्रूपेत्यर्थः । तादृशभूमिकायामुत्पन्नस्यैव ज्ञानस्य तारकत्वात्संसारतारिकेति यावत् ।",
+    "translation": {
+      "en": "Of those stages the last is called Madhumatī, and the meaning is that she has that form. Since only the knowledge born at such a stage carries one across, she is, in short, the one who ferries beings over saṃsāra.",
+      "hi": "उन भूमिकाओं में अन्तिम ‘मधुमती’ कहलाती है; अर्थ है कि वे उसी स्वरूप वाली हैं। चूँकि उसी भूमिका में उत्पन्न ज्ञान ही तारक है, इसलिए संक्षेप में वे संसार से तारने वाली हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 717 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition names the fourth yogin गतिक्रान्ताभाव, perhaps a misprint for अतिक्रान्तभावनीय (the fourth yogin of the Yoga-sūtra bhāṣya); Bhāskararāya’s account of the seven stages should be checked against that source. That sentence is not quoted. The Chāndogya attribution (3.1.1) is added; Bhāskararāya says only ‘śruti’." }
+}

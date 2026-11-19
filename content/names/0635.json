@@ -1,0 +1,57 @@
+{
+  "number": 635,
+  "verse": 126,
+  "slug": "gauri",
+  "devanagari": "गौरी",
+  "iastSplit": "Gaurī",
+  "archana": "ॐ गौर्यै नमः",
+  "syllables": [
+    "gau",
+    "rī"
+  ],
+  "words": [
+    {
+      "sa": "गौरी",
+      "meaning": {
+        "en": "the fair, shining one; Pārvatī",
+        "hi": "गौर वर्ण वाली; पार्वती"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "The fair, radiant one",
+    "hi": "गौरी, उज्ज्वल गौर वर्ण वाली"
+  },
+  "explanation": {
+    "en": "Gaura means fair, bright, shining. Gaurī is a name of Pārvatī for her radiant complexion.",
+    "hi": "‘गौर’ का अर्थ है गोरा, उज्ज्वल, दीप्तिमान। अपने उज्ज्वल वर्ण के कारण पार्वती गौरी कहलाती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya cites the Devī Purāṇa: she who was burnt in the fire of yoga and born again from Himālaya, white as the conch, the jasmine and the moon, is therefore called Gaurī. He notes that the word also names a river and a girl of ten years, and that Gaurī presides over the sacred seat of Kānyakubja. He gives no further hidden meaning.",
+    "hi": "भास्करराय देवीपुराण का वचन देते हैं: जो योगाग्नि में दग्ध होकर हिमालय से पुनः जन्मीं, शंख, कुन्द और चन्द्रमा जैसी श्वेत, वे इसीलिए गौरी कहलाती हैं। वे बताते हैं कि यह शब्द एक नदी और दस वर्ष की कन्या का भी नाम है, और गौरी कान्यकुब्ज पीठ की अधिष्ठात्री हैं। वे इससे आगे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "At Dakṣa’s sacrifice Satī gave up her body in the fire of yoga. The Devī Purāṇa verse that Bhāskararāya cites ties the name Gaurī to her return: she was born again from the mountain, shining white.",
+    "hi": "दक्ष के यज्ञ में सती ने योगाग्नि में अपनी देह त्याग दी थी। भास्करराय जिस देवीपुराण-वचन को उद्धृत करते हैं, वह ‘गौरी’ नाम को उनके पुनर्जन्म से जोड़ता है: वे पर्वत से उज्ज्वल श्वेत रूप में फिर जन्मीं।"
+  },
+  "commentary": {
+    "sanskrit": "गौरवर्णत्वाद्गौरी । गौरी गौराङ्गदेहत्वादिति महावासिष्ठात् ।",
+    "translation": {
+      "en": "Gaurī, because she is fair (gaura) in colour; as the Mahāvāsiṣṭha says, ‘Gaurī, because her limbs and body are fair’.",
+      "hi": "गौर वर्ण होने से गौरी; महावासिष्ठ के अनुसार, ‘गौर अंगों और देह वाली होने से गौरी’।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 635 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. Bhāskararāya also cites Pāṇini (षिद्गौरादिभ्यश्च) for the feminine ending and the Padma Purāṇa for Gaurī as the beloved of Varuṇa; these are not used."
+  }
+}

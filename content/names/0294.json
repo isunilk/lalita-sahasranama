@@ -1,0 +1,43 @@
+{
+  "number": 294,
+  "verse": 69,
+  "slug": "bhuvaneshvari",
+  "devanagari": "भुवनेश्वरी",
+  "iastSplit": "Bhuvaneśvarī",
+  "archana": "ॐ भुवनेश्वर्यै नमः",
+  "syllables": ["bhu", "va", "neś", "va", "rī"],
+  "words": [
+    { "sa": "भुवन", "meaning": { "en": "world; also water", "hi": "भुवन, लोक; जल भी" } },
+    { "sa": "ईश्वरी", "meaning": { "en": "sovereign, ruling lady", "hi": "स्वामिनी, अधीश्वरी" } }
+  ],
+  "meaning": {
+    "en": "Sovereign of all the worlds",
+    "hi": "समस्त भुवनों की स्वामिनी"
+  },
+  "explanation": {
+    "en": "Bhuvana means world, and īśvarī a sovereign: she is the ruler of the fourteen worlds. Bhāskararāya notes that bhuvana can also mean water, so she is also mistress of the waters.",
+    "hi": "‘भुवन’ का अर्थ है लोक और ‘ईश्वरी’ का स्वामिनी; वे चौदह लोकों की अधीश्वरी हैं। भास्करराय बताते हैं कि ‘भुवन’ का अर्थ जल भी होता है, इसलिए वे जल की भी स्वामिनी हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya also reads the name in a mantra sense: she is the presiding deity of the seed-syllable called hṛllekhā, or that syllable itself. He cites the Dakṣiṇāmūrti Saṃhitā, which finds whole worlds within each letter of that one syllable; she is Bhuvaneśvarī because she both holds those worlds and brings them forth.",
+    "hi": "भास्करराय इस नाम का एक मन्त्र-परक अर्थ भी देते हैं: वे ‘हृल्लेखा’ नामक बीजाक्षर की अधिष्ठात्री देवता हैं, या स्वयं वही अक्षर हैं। वे दक्षिणामूर्ति संहिता का प्रमाण देते हैं, जो उस एक ही बीज के प्रत्येक वर्ण में सम्पूर्ण लोकों का वास बताती है; वे भुवनेश्वरी हैं, क्योंकि वे उन लोकों को धारण भी करती हैं और उत्पन्न भी।"
+  },
+  "story": {
+    "en": "The Tripurā Siddhānta, as Bhāskararāya quotes it, gives the name another origin: she became Bhuvaneśvarī, renowned throughout the worlds, through her grace to Bhuvanānandanātha, a teacher of the human line of gurus (mānavaugha).",
+    "hi": "भास्करराय द्वारा उद्धृत त्रिपुरासिद्धान्त इस नाम का एक और कारण बताता है: मानवौघ गुरु-परम्परा के आचार्य भुवनानन्दनाथ पर प्रसन्न होने से वे भुवनों में विख्यात ‘भुवनेश्वरी’ कहलाईं।"
+  },
+  "commentary": {
+    "sanskrit": "भुवनानां चतुर्दशसंख्याकलोकानामीश्वरी स्वामिनी ।",
+    "translation": {
+      "en": "The īśvarī, the sovereign, of the bhuvanas, the fourteen worlds.",
+      "hi": "भुवनों, अर्थात् चौदह लोकों, की ईश्वरी अर्थात् स्वामिनी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 294 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The mantra reading (हृल्लेखा) is given as meaning only, with no practice detail; the Dakṣiṇāmūrti Saṃhitā passage on the letters is summarised, not quoted." }
+}

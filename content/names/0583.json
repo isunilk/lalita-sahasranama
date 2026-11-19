@@ -1,0 +1,43 @@
+{
+  "number": 583,
+  "verse": 118,
+  "slug": "atma-vidya",
+  "devanagari": "आत्मविद्या",
+  "iastSplit": "Ātma-vidyā",
+  "archana": "ॐ आत्मविद्यायै नमः",
+  "syllables": ["āt", "ma", "vid", "yā"],
+  "words": [
+    { "sa": "आत्मन्", "meaning": { "en": "the Self", "hi": "आत्मा" } },
+    { "sa": "विद्या", "meaning": { "en": "knowledge; a sacred mantra", "hi": "विद्या, ज्ञान; मन्त्र" } }
+  ],
+  "meaning": {
+    "en": "Knowledge of the Self",
+    "hi": "आत्मा का ज्ञान, आत्मविद्या"
+  },
+  "explanation": {
+    "en": "She is ātmavidyā, the knowledge of the Self, because her very nature is that knowledge. Bhāskararāya also reads the name as the mantra known as the eight-syllabled Ātma mantra.",
+    "hi": "वे आत्मविद्या हैं, क्योंकि उनका स्वरूप ही आत्मज्ञान है। भास्करराय इस नाम को ‘आत्म-अष्टाक्षर’ नामक मन्त्र के रूप में भी पढ़ते हैं।"
+  },
+  "inner": {
+    "en": "He quotes the Viṣṇu Purāṇa, where the Devī is praised as the knowledge of sacrifice, the great knowledge, the secret knowledge and the knowledge of the Self that grants liberation; she is also logic, the three Vedas, the practical arts and statecraft. Commentators, he says, take these four vidyās as the knowledge of rites, of worship such as meditation on the cosmic form, of mantra, and of Brahman.",
+    "hi": "वे विष्णु पुराण उद्धृत करते हैं, जहाँ देवी की स्तुति यज्ञविद्या, महाविद्या, गुह्यविद्या और मुक्ति देने वाली आत्मविद्या के रूप में की गई है; आन्वीक्षिकी (तर्क), त्रयी (वेद), वार्ता (शिल्प, आयुर्वेद आदि) और दण्डनीति (राजनीति) भी वे ही हैं। वे बताते हैं कि व्याख्याकार इन चार विद्याओं को कर्म की विद्या, विश्वरूप आदि की उपासना, मन्त्र-विद्या और ब्रह्मविद्या मानते हैं।"
+  },
+  "story": {
+    "en": "This verse gathers names of her as vidyā, sacred knowledge: Ātmavidyā, Mahāvidyā, Śrīvidyā, and then the sixteen-syllabled Śrīvidyā. In the Śrīvidyā tradition the word vidyā means both knowledge and the mantra that is the Devī herself.",
+    "hi": "यह श्लोक उनके विद्या-रूप के नाम एकत्र करता है: आत्मविद्या, महाविद्या, श्रीविद्या, और फिर षोडशाक्षरी श्रीविद्या। श्रीविद्या परम्परा में ‘विद्या’ का अर्थ ज्ञान भी है और वह मन्त्र भी जो स्वयं देवी हैं।"
+  },
+  "commentary": {
+    "sanskrit": "आत्मज्ञानरूपत्वादात्मविद्या ।",
+    "translation": {
+      "en": "Ātmavidyā, because she is of the nature of Self-knowledge.",
+      "hi": "आत्मज्ञान-स्वरूपा होने से आत्मविद्या।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 583 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Mantra name: the Ātma aṣṭākṣara mantra is named only, as in the commentary, and not given. Bhāskararāya quotes the Viṣṇu Purāṇa verse without a chapter reference." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 195,
+  "verse": 51,
+  "slug": "dosha-varjita",
+  "devanagari": "दोषवर्जिता",
+  "iastSplit": "Doṣa-varjitā",
+  "archana": "ॐ दोषवर्जितायै नमः",
+  "syllables": ["do", "ṣa", "var", "ji", "tā"],
+  "words": [
+    { "sa": "दोष", "meaning": { "en": "fault, flaw", "hi": "दोष, विकार" } },
+    { "sa": "वर्जिता", "meaning": { "en": "free of, devoid of", "hi": "रहित" } }
+  ],
+  "meaning": {
+    "en": "Free of every fault, such as attachment and aversion",
+    "hi": "राग-द्वेष आदि सभी दोषों से रहित"
+  },
+  "explanation": {
+    "en": "Doṣa means fault. She is free of every flaw, above all the faults that cloud the mind, such as attachment and aversion.",
+    "hi": "दोष का अर्थ है त्रुटि या विकार। वे हर दोष से रहित हैं, विशेषकर उन दोषों से जो मन को मलिन करते हैं, जैसे राग और द्वेष।"
+  },
+  "inner": {
+    "en": "Bhāskararāya glosses the faults as attachment, aversion and the like. He gives no hidden meaning here. As a reflection: the three names of this line move from those who have faults, to the faults themselves, to her who has none.",
+    "hi": "भास्करराय दोषों का अर्थ राग, द्वेष आदि बताते हैं। वे यहाँ कोई गूढ़ अर्थ नहीं देते। चिन्तन के रूप में: इस पंक्ति के तीन नाम दोषयुक्त लोगों से, स्वयं दोषों तक, और फिर उन तक पहुँचते हैं जिनमें कोई दोष नहीं।"
+  },
+  "story": {
+    "en": "Rāga and dveṣa, attachment and aversion, are counted in Patañjali’s Yoga Sūtra among the five afflictions (kleśas) that bind the mind. She is untouched by them.",
+    "hi": "पतञ्जलि के योगसूत्र में राग और द्वेष को उन पाँच क्लेशों में गिना गया है जो मन को बाँधते हैं। वे इनसे अछूती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "दोषै रागद्वेषादिभिर्वर्जिता ।",
+    "translation": {
+      "en": "Free of faults: attachment, aversion and the rest.",
+      "hi": "राग, द्वेष आदि दोषों से रहित।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 195 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense. The closing sentence of the inner layer and the Yoga Sūtra context (2.3) in the story layer are not from the commentary." }
+}

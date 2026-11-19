@@ -1,0 +1,44 @@
+{
+  "number": 496,
+  "verse": 102,
+  "slug": "vadana-traya-samyuta",
+  "devanagari": "वदनत्रयसम्युता",
+  "iastSplit": "Vadana-traya-samyutā",
+  "archana": "ॐ वदनत्रयसम्युतायै नमः",
+  "syllables": ["va", "da", "nat", "ra", "ya", "sam", "yu", "tā"],
+  "words": [
+    { "sa": "वदन", "meaning": { "en": "face", "hi": "मुख" } },
+    { "sa": "त्रय", "meaning": { "en": "triad, set of three", "hi": "त्रय, तीन का समूह" } },
+    { "sa": "सम्युता", "meaning": { "en": "endowed with", "hi": "युक्त" } }
+  ],
+  "meaning": {
+    "en": "Endowed with three faces",
+    "hi": "तीन मुखों से युक्त"
+  },
+  "explanation": {
+    "en": "Lākinī, the yoginī of the navel lotus, has three faces. In Bhāskararāya’s words, she is endowed with a triad of faces.",
+    "hi": "नाभि-कमल की योगिनी लाकिनी के तीन मुख हैं। भास्करराय के शब्दों में, वे मुखों के त्रय से युक्त हैं।"
+  },
+  "inner": {
+    "en": "He gives only the literal sense and no hidden meaning. Rākiṇī at the heart has two faces, Lākinī at the navel three: in these names the count rises by one from each centre to the next.",
+    "hi": "वे केवल शाब्दिक अर्थ देते हैं, कोई गूढ़ अर्थ नहीं। हृदय की राकिणी के दो मुख हैं, नाभि की लाकिनी के तीन: इन नामों में मुखों की संख्या हर अगले चक्र में एक बढ़ती है।"
+  },
+  "story": {
+    "en": "The meditation verse Bhāskararāya quotes calls Lākinī shining with three faces, tusked and very fierce. Yet the same verse ends by calling her the giver of every happiness, which name 502 repeats.",
+    "hi": "भास्करराय के उद्धृत ध्यान-श्लोक में लाकिनी को तीन मुखों से शोभित, दंष्ट्राओं वाली और अत्यन्त उग्र कहा गया है। फिर भी वही श्लोक अन्त में उन्हें सब सुख देने वाली कहता है, जिसे नाम 502 दोहराता है।"
+  },
+  "commentary": {
+    "sanskrit": "वदनानां त्रयेण संयुता ।",
+    "translation": {
+      "en": "Endowed with a triad of faces.",
+      "hi": "मुखों के त्रय से युक्त।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 496 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The master text spells सम्युता; Bhāskararāya’s text and the usual orthography have संयुता. Name and archana follow the master text, as the web nāmāvali does. Bhāskararāya gives only the literal sense." }
+}

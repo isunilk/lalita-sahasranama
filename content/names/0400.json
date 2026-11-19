@@ -1,0 +1,42 @@
+{
+  "number": 400,
+  "verse": 87,
+  "slug": "vyapini",
+  "devanagari": "व्यापिनी",
+  "iastSplit": "Vyāpinī",
+  "archana": "ॐ व्यापिन्यै नमः",
+  "syllables": ["vyā", "pi", "nī"],
+  "words": [
+    { "sa": "व्यापिनी", "meaning": { "en": "pervading", "hi": "व्याप्त करने वाली" } }
+  ],
+  "meaning": {
+    "en": "The all-pervading",
+    "hi": "सर्वव्यापिनी"
+  },
+  "explanation": {
+    "en": "Vyāpinī means she who pervades. There is no place and no thing that she does not fill.",
+    "hi": "‘व्यापिनी’ का अर्थ है व्याप्त करने वाली। ऐसा कोई स्थान या वस्तु नहीं जिसमें वे न हों।"
+  },
+  "inner": {
+    "en": "Continuing the order of creation, Bhāskararāya says she is Vyāpinī because she unfolds as the remaining three primary creations, the products of the threefold ahaṅkāra: the subtle elements, the senses and their presiding deities. Or, simply, she pervades the whole world. Having become everything, she is in everything.",
+    "hi": "सृष्टि के क्रम को आगे बढ़ाते हुए भास्करराय कहते हैं कि वे व्यापिनी हैं, क्योंकि वे तीन प्रकार के अहंकार से उत्पन्न शेष तीन प्राकृत सृष्टियों के रूप में परिणत होती हैं: तन्मात्राएँ, इन्द्रियाँ और उनके अधिष्ठाता देवता। अथवा, सीधे अर्थ में, वे सारे जगत को व्याप्त करती हैं। सब कुछ बनकर वे सब कुछ में हैं।"
+  },
+  "story": {
+    "en": "With this four-hundredth name Bhāskararāya closes the fourth hundred of his commentary, which he counts as its fifth kalā, named Jvālinī; the next hundred is the sixth kalā, Ruci. The Śakti Rahasya verse quoted under the previous name opens with this same word: the supreme power is vyāpinī, all-pervading.",
+    "hi": "इस चार सौवें नाम के साथ भास्करराय अपनी टीका का चौथा शतक पूरा करते हैं, जिसे वे उसकी पाँचवीं कला ‘ज्वालिनी’ कहते हैं; अगला शतक छठी कला ‘रुचि’ है। पिछले नाम के अन्तर्गत उद्धृत शक्तिरहस्य का श्लोक इसी शब्द से आरम्भ होता है: परमा शक्ति व्यापिनी है।"
+  },
+  "commentary": {
+    "sanskrit": "अहङ्कारत्रयकार्यरूपावशिष्टप्राकृतसर्गत्रितयात्मकतया परिणामाद्व्यापिनी । सर्वजगद्व्यापिका वा ।",
+    "translation": {
+      "en": "She is Vyāpinī because she transforms into the remaining three primary creations, which are the products of the three kinds of ahaṅkāra. Or: she pervades the whole world.",
+      "hi": "तीन प्रकार के अहंकार के कार्य रूप शेष तीन प्राकृत सृष्टियों के रूप में परिणत होने से वे व्यापिनी हैं। अथवा, वे सम्पूर्ण जगत को व्याप्त करने वाली हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 400 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The three remaining creations (tanmātras, senses, deities) are named from Bhāskararāya’s account of the six prākṛta creations under name 397. The last sentence of the inner layer is a reflection." }
+}

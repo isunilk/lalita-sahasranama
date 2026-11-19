@@ -1,0 +1,43 @@
+{
+  "number": 165,
+  "verse": 47,
+  "slug": "mamata-hantri",
+  "devanagari": "ममताहन्त्री",
+  "iastSplit": "Mamatā-hantrī",
+  "archana": "ॐ ममताहन्त्र्यै नमः",
+  "syllables": ["ma", "ma", "tā", "han", "trī"],
+  "words": [
+    { "sa": "ममता", "meaning": { "en": "possessiveness, the feeling of ‘mine’", "hi": "ममता, ‘मेरापन’" } },
+    { "sa": "हन्त्री", "meaning": { "en": "she who slays", "hi": "नाश करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Slayer of possessiveness in her devotees",
+    "hi": "भक्तों की ममता को नष्ट करने वाली"
+  },
+  "explanation": {
+    "en": "Mamatā is ‘mine-ness’, the clinging to people and things as one’s own. She slays it in those who turn to her and loosens the grip that binds them.",
+    "hi": "‘ममता’ है ‘मेरापन’: लोगों और वस्तुओं को अपना मानकर उनसे चिपके रहना। जो उनकी ओर मुड़ते हैं, उनकी इस ममता को वे नष्ट करती हैं और बाँधने वाली पकड़ को ढीला कर देती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says simply that she slays mamatā, the kind of thought described under the previous name, ‘this is mine’. Since that thought rests on difference, its removal is a step toward the oneness that is her own nature.",
+    "hi": "भास्करराय केवल इतना कहते हैं कि वे ममता का, अर्थात् पिछले नाम में बताई गई ‘यह मेरा है’ वाली बुद्धि का, नाश करती हैं। वह बुद्धि भेद पर टिकी है, इसलिए उसका मिटना उस एकत्व की ओर एक कदम है जो उनका अपना स्वरूप है।"
+  },
+  "story": {
+    "en": "In verse 47 the pairs come one after another: delusion, possessiveness, sin. In modern Hindi mamatā usually means a mother’s tender love, but in this hymn, as in philosophy, it is the grasping sense of ‘mine’.",
+    "hi": "श्लोक 47 में ये जोड़े एक के बाद एक आते हैं: मोह, ममता, पाप। आधुनिक हिन्दी में ‘ममता’ प्रायः माँ के कोमल स्नेह को कहते हैं, पर इस स्तोत्र में, दर्शन की भाँति, इसका अर्थ है ‘मेरा’ का पकड़ने वाला भाव।"
+  },
+  "commentary": {
+    "sanskrit": "ममतायास्तादृश्या बुद्ध्या हन्त्री ।",
+    "translation": {
+      "en": "The slayer of mamatā, that kind of thought.",
+      "hi": "ममता की, अर्थात् वैसी बुद्धि की, नाश करने वाली।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 165 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The second sentence of the inner layer is a reflection." }
+}

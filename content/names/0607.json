@@ -1,0 +1,65 @@
+{
+  "number": 607,
+  "verse": 122,
+  "slug": "deveshi",
+  "devanagari": "देवेशी",
+  "iastSplit": "Deveśī",
+  "archana": "ॐ देवेश्यै नमः",
+  "syllables": [
+    "de",
+    "ve",
+    "śī"
+  ],
+  "words": [
+    {
+      "sa": "देव",
+      "meaning": {
+        "en": "god",
+        "hi": "देवता"
+      }
+    },
+    {
+      "sa": "ईशी",
+      "meaning": {
+        "en": "sovereign, ruling queen",
+        "hi": "स्वामिनी, ईश्वरी"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Sovereign of the gods",
+    "hi": "देवताओं की स्वामिनी"
+  },
+  "explanation": {
+    "en": "Deva means god and īśī is a ruling queen. She rules the gods; even Brahmā, Viṣṇu and the other great gods act under her authority.",
+    "hi": "‘देव’ का अर्थ है देवता और ‘ईशी’ है स्वामिनी। वे देवताओं पर शासन करती हैं; ब्रह्मा, विष्णु और अन्य महान देवता भी उन्हीं के अधिकार से कार्य करते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the literal sense: she is the ruler of the gods, Brahmā, Viṣṇu and the rest. He gives no hidden meaning here. The powers that run the world, called gods, all work by her command.",
+    "hi": "भास्करराय केवल शब्दार्थ देते हैं: वे ब्रह्मा, विष्णु आदि देवताओं की ईश्वरी हैं। वे यहाँ कोई गूढ़ अर्थ नहीं देते। संसार को चलाने वाली जो शक्तियाँ देवता कहलाती हैं, वे सब उन्हीं की आज्ञा से काम करती हैं।"
+  },
+  "story": {
+    "en": "This verse moves from her beauty to her rule. She governs the gods, abides in the science of just government and is the small space within the heart; the second half then shows her worshipped through the cycle of lunar days.",
+    "hi": "यह श्लोक उनके सौन्दर्य से उनके शासन की ओर बढ़ता है। वे देवताओं पर शासन करती हैं, न्यायपूर्ण शासन के शास्त्र में स्थित हैं, और हृदय के भीतर का सूक्ष्म आकाश हैं; फिर उत्तरार्ध उन्हें तिथियों के चक्र द्वारा पूजित दिखाता है।"
+  },
+  "commentary": {
+    "sanskrit": "देवानां ब्रह्मविष्ण्वादीनामीशी ईश्वरी ।",
+    "translation": {
+      "en": "The īśī, that is, the īśvarī or sovereign, of the devas, Brahmā, Viṣṇu and the rest.",
+      "hi": "देवों अर्थात् ब्रह्मा, विष्णु आदि की ईशी, यानी ईश्वरी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 607 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the last sentence of the inner layer is a reflection."
+  }
+}

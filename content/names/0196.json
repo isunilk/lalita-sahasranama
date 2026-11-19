@@ -1,0 +1,43 @@
+{
+  "number": 196,
+  "verse": 51,
+  "slug": "sarvajna",
+  "devanagari": "सर्वज्ञा",
+  "iastSplit": "Sarva-jñā",
+  "archana": "ॐ सर्वज्ञायै नमः",
+  "syllables": ["sar", "vaj", "ñā"],
+  "words": [
+    { "sa": "सर्व", "meaning": { "en": "all", "hi": "सब, सम्पूर्ण" } },
+    { "sa": "ज्ञा", "meaning": { "en": "she who knows", "hi": "जानने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who knows all things",
+    "hi": "जो सब कुछ जानती हैं"
+  },
+  "explanation": {
+    "en": "She knows everything: past, present and future, the hidden and the open, every heart and every world. Nothing lies outside her knowledge.",
+    "hi": "वे सब कुछ जानती हैं: भूत, वर्तमान और भविष्य, प्रकट और गुप्त, हर हृदय और हर लोक। कुछ भी उनके ज्ञान से बाहर नहीं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya grounds the name in the Upaniṣadic words ‘he who is all-knowing, all-wise’, and in the Devī Purāṇa, which calls her sarvajñā because she knows everything. He gives no further hidden meaning. As a reflection: nothing in the heart is hidden from her, not even what we hide from ourselves.",
+    "hi": "भास्करराय इस नाम का आधार उपनिषद् के वचन ‘यः सर्वज्ञः सर्ववित्’, अर्थात् जो सब जानने वाला और सबका ज्ञाता है, और देवी पुराण को बताते हैं, जो कहता है कि सब कुछ जानने के कारण वे सर्वज्ञा हैं। वे इसके आगे कोई गूढ़ अर्थ नहीं देते। चिन्तन के रूप में: हृदय में कुछ भी उनसे छिपा नहीं, वह भी नहीं जिसे हम स्वयं से छिपाते हैं।"
+  },
+  "story": {
+    "en": "The second line of verse 51 sets three names side by side: all-knowing (196), dense with compassion (197), and without equal or superior (198). Her knowledge is at once joined to compassion.",
+    "hi": "श्लोक 51 की दूसरी पंक्ति तीन नामों को साथ रखती है: सर्वज्ञा (196), सान्द्रकरुणा (197), और समानाधिकवर्जिता (198)। उनका ज्ञान तुरन्त करुणा से जुड़ जाता है।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वं जानातीति सर्वज्ञा ।",
+    "translation": {
+      "en": "She knows all; hence sarvajñā.",
+      "hi": "वे सब कुछ जानती हैं, इसलिए सर्वज्ञा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 196 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya cites the śruti यः सर्वज्ञः सर्ववित् without naming it; it is Muṇḍaka Upaniṣad 1.1.9. The closing sentence of the inner layer is a reflection." }
+}

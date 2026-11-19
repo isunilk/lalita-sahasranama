@@ -1,0 +1,46 @@
+{
+  "number": 483,
+  "verse": 99,
+  "slug": "amritadi-maha-shakti-samvrita",
+  "devanagari": "अमृतादिमहाशक्तिसंवृता",
+  "iastSplit": "Amṛtādi-mahā-śakti-saṃvṛtā",
+  "archana": "ॐ अमृतादिमहाशक्तिसंवृतायै नमः",
+  "syllables": ["a", "mṛ", "tā", "di", "ma", "hā", "śak", "ti", "saṃ", "vṛ", "tā"],
+  "words": [
+    { "sa": "अमृता", "meaning": { "en": "Amṛtā (‘the immortal one’), name of a śakti", "hi": "अमृता, एक शक्ति का नाम" } },
+    { "sa": "आदि", "meaning": { "en": "beginning with", "hi": "आदि, इत्यादि" } },
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "शक्ति", "meaning": { "en": "power, a goddess as power", "hi": "शक्ति" } },
+    { "sa": "संवृता", "meaning": { "en": "surrounded", "hi": "घिरी हुई" } }
+  ],
+  "meaning": {
+    "en": "Surrounded by the great powers led by Amṛtā",
+    "hi": "अमृता आदि महाशक्तियों से घिरी हुई"
+  },
+  "explanation": {
+    "en": "The throat lotus has sixteen petals. Bhāskararāya says that on each petal stands one of sixteen great śaktis, the first of them named Amṛtā, and that Ḍākinī at the centre is surrounded by them.",
+    "hi": "कण्ठ-कमल में सोलह दल हैं। भास्करराय बताते हैं कि हर दल पर सोलह महाशक्तियों में से एक स्थित है, जिनमें पहली का नाम अमृता है, और केन्द्र में विराजमान डाकिनी उनसे घिरी हुई हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya supports this with the Svacchanda Tantra, which calls the viśuddha ‘sixteen-lettered’, places Ḍākinī in the middle and the powers beginning with Amṛtā on the outer petals, with the orb of the moon above. He gives no further hidden meaning. Each centre in these names is like a court: the yoginī at the heart of the lotus, her attendant powers on its petals.",
+    "hi": "भास्करराय इसके समर्थन में स्वच्छन्द तन्त्र का वचन देते हैं, जो विशुद्ध चक्र को ‘षोडशाक्षर’ कहता है, डाकिनी को मध्य में और अमृता आदि शक्तियों को बाहरी दलों पर बताता है, और उसके ऊपर चन्द्रबिम्ब। इसके आगे वे कोई गूढ़ अर्थ नहीं देते। इन नामों में हर चक्र एक दरबार के समान है: कमल के केन्द्र में योगिनी, और उसके दलों पर उनकी परिचारिका शक्तियाँ।"
+  },
+  "story": {
+    "en": "This is the ninth name describing Ḍākinī; the next gives her name and closes the group (475–484). The number of attendant powers changes from centre to centre: sixteen here, twelve at the heart, ten at the navel, six at the svādhiṣṭhāna and four at the mūlādhāra.",
+    "hi": "डाकिनी का वर्णन करने वाला यह नौवाँ नाम है; अगला नाम उनका नाम बताकर इस समूह (475–484) को पूरा करता है। परिचारिका शक्तियों की संख्या हर चक्र में अलग है: यहाँ सोलह, हृदय में बारह, नाभि में दस, स्वाधिष्ठान में छह और मूलाधार में चार।"
+  },
+  "commentary": {
+    "sanskrit": "अमृताख्या शक्तिरादिर्यासां ताभिः षोडशभिर्महाशक्तिभिः",
+    "translation": {
+      "en": "By the sixteen great powers, the first of whom is the śakti called Amṛtā…",
+      "hi": "सोलह महाशक्तियों से, जिनमें पहली अमृता नाम की शक्ति है…"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 483 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The quotation is the opening of Bhāskararāya’s sentence; the rest, which lists the powers (printed अमृतकर्षिणीन्द्राणीत्यादिभिरक्षरान्ताभिः) and says each stands on one petal, is paraphrased because the division of the printed list is uncertain. The ‘court’ image in the inner layer is a reflection." }
+}

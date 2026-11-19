@@ -1,0 +1,42 @@
+{
+  "number": 422,
+  "verse": 90,
+  "slug": "sandhya",
+  "devanagari": "सन्ध्या",
+  "iastSplit": "Sandhyā",
+  "archana": "ॐ सन्ध्यायै नमः",
+  "syllables": ["san", "dhyā"],
+  "words": [
+    { "sa": "सन्ध्या", "meaning": { "en": "the junction of night and day; the twilight worship; ‘that in which one meditates well’", "hi": "रात और दिन की सन्धि; सन्ध्या-उपासना; ‘जिसमें भली-भाँति ध्यान किया जाता है’" } }
+  ],
+  "meaning": {
+    "en": "Sandhyā, the twilight worship and the one meditated on in it",
+    "hi": "सन्ध्या, सन्धि-काल की उपासना और उसमें ध्येय देवी"
+  },
+  "explanation": {
+    "en": "Sandhyā is the meeting of night and day, and the worship the twice-born perform at these junctions. Bhāskararāya derives the word as ‘that in which one meditates well’ (samyag dhyāyanti), so she is the one meditated on.",
+    "hi": "सन्ध्या रात और दिन का मिलन है, और वह उपासना भी जो द्विज इन सन्धि-कालों में करते हैं। भास्करराय इस शब्द की व्युत्पत्ति ‘जिसमें भली-भाँति ध्यान किया जाता है’ से करते हैं, इसलिए वे ही ध्येय देवी हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says the real meaning of sandhyā is to contemplate oneself as one with the consciousness that shines in the sun. He quotes Vyāsa: one should not take the Gāyatrī as different from Brahman, but worship her as ‘I am she’. In the reading of names 421 to 423 as the three states, sandhyā, the junction, is dream, which arises between waking and deep sleep.",
+    "hi": "भास्करराय कहते हैं कि सन्ध्या का वास्तविक अर्थ है सूर्य में प्रकाशित चेतना के साथ अपनी एकता का भाव। वे व्यास का वचन देते हैं: गायत्री को ब्रह्म से भिन्न न समझे, ‘वह मैं हूँ’ इस भाव से उनकी उपासना करे। नाम 421 से 423 को तीन अवस्थाओं के रूप में पढ़ें तो सन्ध्या, अर्थात् सन्धि, स्वप्न है, जो जागरण और गहरी निद्रा के बीच उत्पन्न होता है।"
+  },
+  "story": {
+    "en": "Bhāskararāya also gives the story of Sandhyā, Brahmā’s mind-born daughter. From the Kālikā Upapurāṇa he quotes that she was born from Brahmā’s mind as he meditated, and was named for that; the Bhagavatī Purāṇa, he adds, says that after penance she gave up her body and became Arundhatī.",
+    "hi": "भास्करराय ब्रह्मा की मानस-पुत्री सन्ध्या की कथा भी देते हैं। कालिका उपपुराण के अनुसार वे ध्यान करते हुए ब्रह्मा के मन से उत्पन्न हुईं और इसी से उनका नाम पड़ा; भगवती पुराण के अनुसार, वे जोड़ते हैं, तपस्या के बाद उन्होंने देह त्याग दी और अरुन्धती बनीं।"
+  },
+  "commentary": {
+    "sanskrit": "आदित्यावच्छिन्नचैतन्यस्य स्वस्य चाभेदभावनं सन्ध्यापदार्थः । सम्यग्ध्यायन्त्यस्यामिति व्युत्पत्तेश्च ।",
+    "translation": {
+      "en": "The meaning of the word sandhyā is contemplating the oneness of oneself with the consciousness present in the sun; and it is derived as ‘that in which people meditate well’.",
+      "hi": "सूर्य में स्थित चैतन्य और अपने आप की अभेद-भावना ही ‘सन्ध्या’ शब्द का अर्थ है; और इसकी व्युत्पत्ति भी ‘जिसमें भली-भाँति ध्यान करते हैं’ है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 422 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. He also cites the Reṇukā Purāṇa (iḍā, piṅgalā and suṣumṇā as the three sandhyās) and Dhaumya (a girl of one year is called Sandhyā in kumārī worship); these are not used here. The dream reading rests on his use of Brahma Sūtra सन्ध्ये सृष्टिराह हि." }
+}

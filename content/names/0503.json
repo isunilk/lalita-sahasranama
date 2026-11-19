@@ -1,0 +1,44 @@
+{
+  "number": 503,
+  "verse": 103,
+  "slug": "lakinyamba-svarupini",
+  "devanagari": "लाकिन्यम्बास्वरूपिणी",
+  "iastSplit": "Lākinyambā-svarūpiṇī",
+  "archana": "ॐ लाकिन्यम्बास्वरूपिण्यै नमः",
+  "syllables": ["lā", "kin", "yam", "bās", "va", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "लाकिनी", "meaning": { "en": "Lākinī, the yoginī of the navel lotus", "hi": "लाकिनी, नाभि-कमल की योगिनी" } },
+    { "sa": "अम्बा", "meaning": { "en": "mother", "hi": "माता" } },
+    { "sa": "स्वरूपिणी", "meaning": { "en": "whose own form is", "hi": "जिनका स्वरूप है" } }
+  ],
+  "meaning": {
+    "en": "Whose very form is Mother Lākinī",
+    "hi": "लाकिनी अम्बा जिनका स्वरूप हैं"
+  },
+  "explanation": {
+    "en": "This name closes the nine names on the navel lotus. Bhāskararāya says that the form of the Mother named Lākinī is her own form.",
+    "hi": "यह नाम नाभि-कमल के नौ नामों को पूरा करता है। भास्करराय कहते हैं कि लाकिनी नाम की अम्बा का स्वरूप ही उनका स्वरूप है।"
+  },
+  "inner": {
+    "en": "He gives only the literal sense, with no hidden meaning. As with Rākiṇī (name 494), the yoginī of the navel is not another goddess beside Lalitā but Lalitā herself in that centre, called here by the tender name Ambā, Mother.",
+    "hi": "वे केवल शाब्दिक अर्थ देते हैं, कोई गूढ़ अर्थ नहीं। राकिणी (नाम 494) की भाँति, नाभि की योगिनी ललिता के पास खड़ी कोई अन्य देवी नहीं, उस चक्र में स्वयं ललिता हैं, जिन्हें यहाँ ‘अम्बा’, अर्थात् माँ, के कोमल नाम से पुकारा गया है।"
+  },
+  "story": {
+    "en": "Names 495–503 closely follow the meditation verse Bhāskararāya quotes for Lākinī: the ten-petalled lotus, three faces, the thunderbolt and other weapons, Ḍāmarī and her companions, the red colour, the flesh, jaggery-rice and the gift of happiness.",
+    "hi": "नाम 495–503 उस ध्यान-श्लोक का निकट से अनुसरण करते हैं जो भास्करराय लाकिनी के लिए उद्धृत करते हैं: दस दलों वाला कमल, तीन मुख, वज्र आदि आयुध, डामरी और उनकी सहचरियाँ, लाल वर्ण, मांस-धातु, गुड़ वाला अन्न और सुख का दान।"
+  },
+  "commentary": {
+    "sanskrit": "लाकिन्याख्याया अम्बायाः स्वरूपमस्याः ।।",
+    "translation": {
+      "en": "Hers is the very form of the Mother called Lākinī.",
+      "hi": "लाकिनी नाम की अम्बा का स्वरूप इन्हीं का है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 503 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the second sentence of the inner layer is a reflection. The meditation verse is described as iconography only." }
+}

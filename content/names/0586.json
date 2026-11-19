@@ -1,0 +1,43 @@
+{
+  "number": 586,
+  "verse": 118,
+  "slug": "kama-sevita",
+  "devanagari": "कामसेविता",
+  "iastSplit": "Kāma-sevitā",
+  "archana": "ॐ कामसेवितायै नमः",
+  "syllables": ["kā", "ma", "se", "vi", "tā"],
+  "words": [
+    { "sa": "काम", "meaning": { "en": "Kāma: Kāmeśvara; or Manmatha, the god of love", "hi": "काम: कामेश्वर; या प्रेम-देवता मन्मथ" } },
+    { "sa": "सेविता", "meaning": { "en": "served, worshipped", "hi": "सेवित, उपासित" } }
+  ],
+  "meaning": {
+    "en": "Worshipped by Kāma",
+    "hi": "काम द्वारा सेवित, उपासित"
+  },
+  "explanation": {
+    "en": "She is served and worshipped by Kāma. Bhāskararāya gives two readings of Kāma: Mahākāmeśa, her own lord, who worships her; or Anaṅga, the bodiless god of love, Manmatha. In the second reading sevitā can also mean ‘sewn’, as a thread is strung.",
+    "hi": "वे काम द्वारा सेवित, उपासित हैं। भास्करराय ‘काम’ के दो अर्थ देते हैं: उनके अपने स्वामी महाकामेश, जो उनकी उपासना करते हैं; या अनंग, अर्थात् शरीर-रहित प्रेम-देवता मन्मथ। दूसरे अर्थ में ‘सेविता’ का अर्थ ‘सिली हुई, पिरोई हुई’ भी हो सकता है, जैसे धागा पिरोया जाता है।"
+  },
+  "inner": {
+    "en": "He reads a passage of the Aruṇa Upaniṣad in this light. Bodiless Kāma, the son of Lakṣmī, though without eyes, fingers, neck or tongue, found the jewel, the gem of this vidyā; he strung it, wore it at his throat and tasted it, and so became the seer of the mantra. The teaching he draws from it is that worship bears its full fruit only when one understands the oneness, sāmarasya, of Śiva and Śakti.",
+    "hi": "वे अरुणोपनिषद् के एक अंश को इसी प्रकार पढ़ते हैं। लक्ष्मी के पुत्र, अनंग काम ने, नेत्र, अँगुलियाँ, ग्रीवा और जिह्वा न होने पर भी, वह मणि पाई, अर्थात् इस विद्या का रत्न; उन्होंने उसे पिरोया, कण्ठ में धारण किया और उसका आस्वाद लिया, और इस प्रकार वे इस मन्त्र के ऋषि बने। इससे वे यह शिक्षा निकालते हैं कि शिव और शक्ति के सामरस्य, अर्थात् एकरसता, को जाने बिना की गई पूजा वैसा फल नहीं देती।"
+  },
+  "story": {
+    "en": "In Bhāskararāya’s reading Kāma is a seer of this vidyā, which is why the name stands among the names of Śrīvidyā. Kāma owes her his life as well: name 84 calls her the herb that revived him after the fire of Śiva’s eye had burned him.",
+    "hi": "भास्करराय के अर्थ में काम इस विद्या के ऋषि हैं, इसलिए यह नाम श्रीविद्या के नामों के बीच आता है। काम का जीवन भी उन्हीं की देन है: नाम 84 उन्हें वह संजीवनी औषधि कहता है जिसने शिव के नेत्र की अग्नि से भस्म हुए काम को फिर जीवित किया।"
+  },
+  "commentary": {
+    "sanskrit": "कामो महाकामेशस्तेन सेवितोपासिता ।",
+    "translation": {
+      "en": "Kāma is Mahākāmeśa; she is sevitā, worshipped, by him.",
+      "hi": "काम अर्थात् महाकामेश; उनके द्वारा सेवित, अर्थात् उपासित।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 586 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Mantra name: meaning only. Bhāskararāya’s interpretation of the Aruṇa Upaniṣad passage (पुत्रो निरृत्या वैदेहः…) is summarised; its remarks on the manner of outer worship are not reproduced. The edition prints मन्त्रद्रष्ट्टत्वाद् (for मन्त्रद्रष्टृत्वाद्)." }
+}

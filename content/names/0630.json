@@ -1,0 +1,65 @@
+{
+  "number": 630,
+  "verse": 126,
+  "slug": "tryakshari",
+  "devanagari": "त्र्यक्षरी",
+  "iastSplit": "Tryakṣarī",
+  "archana": "ॐ त्र्यक्षर्यै नमः",
+  "syllables": [
+    "tryak",
+    "ṣa",
+    "rī"
+  ],
+  "words": [
+    {
+      "sa": "त्रि",
+      "meaning": {
+        "en": "three",
+        "hi": "तीन"
+      }
+    },
+    {
+      "sa": "अक्षर",
+      "meaning": {
+        "en": "syllable",
+        "hi": "अक्षर"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Whose form is the three syllables",
+    "hi": "तीन अक्षरों के स्वरूप वाली"
+  },
+  "explanation": {
+    "en": "Tryakṣarī means “she of three syllables”. She is a sacred group of three syllables taken together as one: three powers gathered in a single form.",
+    "hi": "‘त्र्यक्षरी’ का अर्थ है ‘तीन अक्षरों वाली’। वे तीन पवित्र अक्षरों का एक समूह हैं, जो मिलकर एक हैं: एक ही रूप में एकत्र तीन शक्तियाँ।"
+  },
+  "inner": {
+    "en": "Bhāskararāya names the three as the seed-syllables of speech, desire and power. He cites the Vāmakeśvara Tantra: in the first she is Vāgīśvarī, the power of knowledge; in the second Kāmeśī, the power of action; in the third the supreme power of will; and so the three-syllabled Devī is Mahātripurasundarī. He also cites the Bṛhadāraṇyaka Upaniṣad, where the heart (hṛ-da-yam) and truth (sa-tī-yam) are each called three-syllabled: she is the heart, and she is truth.",
+    "hi": "भास्करराय तीनों अक्षरों को वाणी, काम और शक्ति के बीज बताते हैं। वे वामकेश्वर तन्त्र का वचन देते हैं: पहले में वे वागीश्वरी, अर्थात् ज्ञानशक्ति, हैं; दूसरे में कामेशी, अर्थात् क्रियाशक्ति; तीसरे में परा शक्ति, अर्थात् इच्छा; इस प्रकार त्र्यक्षरी देवी महात्रिपुरसुन्दरी हैं। वे बृहदारण्यक उपनिषद् का भी वचन देते हैं, जहाँ ‘हृदयम्’ (हृ-द-यम्) और ‘सत्यम्’ (स-ती-यम्) दोनों को त्र्यक्षर कहा गया है: वे हृदय भी हैं और सत्य भी।"
+  },
+  "story": {
+    "en": "Bhāskararāya also cites Gauḍapāda’s sūtra naming the three-syllabled Śuddhavidyā, the Kumārī mantra. Mantras of this kind are traditionally received from a teacher, so this page gives only what the name means.",
+    "hi": "भास्करराय गौडपाद के सूत्र को भी उद्धृत करते हैं, जो त्र्यक्षरी शुद्धविद्या, अर्थात् कुमारी मन्त्र, का नाम लेता है। ऐसे मन्त्र परम्परा से गुरु से प्राप्त होते हैं, इसलिए यहाँ केवल नाम का अर्थ दिया गया है।"
+  },
+  "commentary": {
+    "sanskrit": "त्रयाणामक्षराणां वाक्कामशक्तिबीजात्मकानां समाहारः ।",
+    "translation": {
+      "en": "The gathering together of three syllables, which are the seed-syllables of speech, desire and power.",
+      "hi": "तीन अक्षरों का समाहार, जो वाक्, काम और शक्ति के बीज-स्वरूप हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 630 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. A mantra name: the three bījas are described only by the names the commentary gives them (speech, desire, power) and are not written out. Bhāskararāya’s last reading (आ ई पल्लवित…) is obscure and is not used."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 191,
+  "verse": 50,
+  "slug": "duhkha-hantri",
+  "devanagari": "दुःखहन्त्री",
+  "iastSplit": "Duḥkha-hantrī",
+  "archana": "ॐ दुःखहन्त्र्यै नमः",
+  "syllables": ["duḥ", "kha", "han", "trī"],
+  "words": [
+    { "sa": "दुःख", "meaning": { "en": "sorrow, suffering", "hi": "दुःख, पीड़ा" } },
+    { "sa": "हन्त्री", "meaning": { "en": "she who destroys, slays", "hi": "नाश करने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who destroys the sorrow of worldly life",
+    "hi": "सांसारिक दुःख का नाश करने वाली"
+  },
+  "explanation": {
+    "en": "She destroys sorrow, above all the sorrow of saṃsāra, the endless round of birth and death. When she removes it, it does not return.",
+    "hi": "वे दुःख का नाश करती हैं, विशेषकर संसार के दुःख का, अर्थात् जन्म और मृत्यु के अनन्त चक्र का। जब वे उसे हटाती हैं, तब वह लौटकर नहीं आता।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says the sorrow meant is that of worldly existence. He quotes Gautama’s Nyāya Sūtra, which defines liberation (apavarga) as absolute release from sorrow, and an Upaniṣadic phrase about one who moves about wholly freed from sorrow. So to call her the slayer of sorrow is to call her the giver of liberation.",
+    "hi": "भास्करराय कहते हैं कि यहाँ अभिप्रेत दुःख सांसारिक दुःख है। वे गौतम के न्यायसूत्र का वचन देते हैं, जो अपवर्ग (मोक्ष) को दुःख से आत्यन्तिक छुटकारा कहता है, और श्रुति का वह वाक्य भी जो दुःख से पूर्णतः मुक्त होकर विचरने वाले की बात करता है। अतः उन्हें दुःखहन्त्री कहना उन्हें मोक्षदायिनी कहना है।"
+  },
+  "story": {
+    "en": "Names 191 and 192 close verse 50 as a pair: she takes away sorrow and she gives happiness, two sides of one grace.",
+    "hi": "नाम 191 और 192 जोड़े के रूप में श्लोक 50 को पूरा करते हैं: वे दुःख हरती हैं और सुख देती हैं, एक ही कृपा के दो पक्ष।"
+  },
+  "commentary": {
+    "sanskrit": "दुःखस्य सांसारिकस्य हन्त्री ।",
+    "translation": {
+      "en": "Slayer of sorrow, the sorrow of worldly existence.",
+      "hi": "दुःख, अर्थात् सांसारिक दुःख, का नाश करने वाली।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 191 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The sūtra quoted is Nyāya Sūtra 1.1.22 (तदत्यन्तविमोक्षोऽपवर्गः); the edition prints विमोको. The Upaniṣadic phrase (दुःखेनात्यन्तविमुक्तश्चरति) is cited without its source." }
+}

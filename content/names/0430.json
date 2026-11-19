@@ -1,0 +1,43 @@
+{
+  "number": 430,
+  "verse": 91,
+  "slug": "nitya-yauvana",
+  "devanagari": "नित्ययौवना",
+  "iastSplit": "Nitya-yauvanā",
+  "archana": "ॐ नित्ययौवनायै नमः",
+  "syllables": ["nit", "ya", "yau", "va", "nā"],
+  "words": [
+    { "sa": "नित्य", "meaning": { "en": "eternal, ever", "hi": "नित्य, सदा" } },
+    { "sa": "यौवन", "meaning": { "en": "youth", "hi": "यौवन" } }
+  ],
+  "meaning": {
+    "en": "Ever young",
+    "hi": "चिर-यौवना, सदा युवा रहने वाली"
+  },
+  "explanation": {
+    "en": "Time touches everything but her. In past, present and future she remains in the fullness of youth.",
+    "hi": "काल सबको छूता है, पर उन्हें नहीं। भूत, वर्तमान और भविष्य, तीनों कालों में वे यौवन की पूर्णता में रहती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya’s gloss is brief: she is ever-young because rajas never leaves her at any of the three times. Rajas here is the mark of fertile womanhood; said of the Mother, it suggests that her power to bring forth worlds never fades. He says no more than this.",
+    "hi": "भास्करराय की व्याख्या संक्षिप्त है: तीनों कालों में ‘रजस्’ उनसे कभी अलग नहीं होता, इसलिए वे नित्ययौवना हैं। यहाँ ‘रजस्’ नारी के उर्वर यौवन का चिह्न है; माँ के लिए कहे जाने पर इसका संकेत है कि जगतों को जन्म देने की उनकी शक्ति कभी क्षीण नहीं होती। वे इससे अधिक कुछ नहीं कहते।"
+  },
+  "story": {
+    "en": "With this name the hymn begins a run on her youthful beauty and on mada, rapture, which continues through her rolling eyes and flushed cheeks (431–433).",
+    "hi": "इस नाम से स्तोत्र उनके यौवन-सौन्दर्य और ‘मद’ अर्थात् आनन्द-मत्तता पर नामों की एक शृंखला आरम्भ करता है, जो उनके घूमते नेत्रों और लाल कपोलों (431–433) तक चलती है।"
+  },
+  "commentary": {
+    "sanskrit": "कालत्रयेऽपि रजसोऽविरहान्नित्ययौवना ।",
+    "translation": {
+      "en": "She is Nityayauvanā because rajas never departs from her, in any of the three times.",
+      "hi": "तीनों कालों में भी रजस् का वियोग न होने से वे नित्ययौवना हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 430 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. रजस् in Bhāskararāya’s gloss most likely means the menstrual sign of youthful womanhood; it could also be heard as rajas the creative guṇa. The second sentence of the inner layer is an interpretation; a scholar should check it." }
+}

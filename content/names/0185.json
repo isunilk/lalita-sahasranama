@@ -1,0 +1,43 @@
+{
+  "number": 185,
+  "verse": 50,
+  "slug": "nila-chikura",
+  "devanagari": "नीलचिकुरा",
+  "iastSplit": "Nīla-cikurā",
+  "archana": "ॐ नीलचिकुरायै नमः",
+  "syllables": ["nī", "la", "ci", "ku", "rā"],
+  "words": [
+    { "sa": "नील", "meaning": { "en": "deep blue-black, dark", "hi": "गहरा नीला-काला, श्याम" } },
+    { "sa": "चिकुर", "meaning": { "en": "hair, locks", "hi": "केश, अलकें" } }
+  ],
+  "meaning": {
+    "en": "She whose locks of hair are dark",
+    "hi": "जिनके केश श्याम हैं"
+  },
+  "explanation": {
+    "en": "Nīla is a deep blue-black, and cikura means the locks of the hair. The name simply pictures her with dark hair.",
+    "hi": "नील का अर्थ है गहरा नीला-काला रंग, और चिकुर का अर्थ है केश या अलकें। यह नाम सीधे-सीधे उनके श्याम केशों का चित्र देता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the literal sense: she whose locks are dark. He gives no hidden meaning here. As a reflection: set among names that deny every attribute, this one name recalls her visible form, as if to say that the formless reality and the beautiful Mother are the same.",
+    "hi": "भास्करराय केवल शब्दार्थ देते हैं: जिनकी अलकें नीली-काली हैं। वे यहाँ कोई गूढ़ अर्थ नहीं देते। चिन्तन के रूप में: हर गुण का निषेध करने वाले नामों के बीच यह एक नाम उनके साकार रूप का स्मरण कराता है, मानो कहता हो कि निराकार तत्त्व और सुन्दर माँ एक ही हैं।"
+  },
+  "story": {
+    "en": "Her hair was praised earlier, in name 13, where it shines with campaka, aśoka, punnāga and saugandhika flowers.",
+    "hi": "उनके केशों की प्रशंसा पहले नाम 13 में हो चुकी है, जहाँ वे चम्पक, अशोक, पुन्नाग और सौगन्धिक के फूलों से शोभित हैं।"
+  },
+  "commentary": {
+    "sanskrit": "नीलाश्चिकुराः कुन्तला यस्याः ।",
+    "translation": {
+      "en": "She whose cikuras, her locks of hair, are dark.",
+      "hi": "जिनके चिकुर, अर्थात् केश, नीले (श्याम) हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 185 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the inner layer’s reading of the name’s place among the formless names is a reflection." }
+}

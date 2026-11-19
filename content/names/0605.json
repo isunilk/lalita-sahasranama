@@ -1,0 +1,65 @@
+{
+  "number": 605,
+  "verse": 121,
+  "slug": "go-mata",
+  "devanagari": "गोमाता",
+  "iastSplit": "Go-mātā",
+  "archana": "ॐ गोमात्रे नमः",
+  "syllables": [
+    "go",
+    "mā",
+    "tā"
+  ],
+  "words": [
+    {
+      "sa": "गो",
+      "meaning": {
+        "en": "cow; also speech, ray of light, earth",
+        "hi": "गाय; वाणी, किरण, पृथ्वी भी"
+      }
+    },
+    {
+      "sa": "माता",
+      "meaning": {
+        "en": "mother",
+        "hi": "माता"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Mother of cows, of speech and of light",
+    "hi": "गौओं की, वाणी की और प्रकाश की माता"
+  },
+  "explanation": {
+    "en": "Go means cow, and she is the mother of cows as Surabhi, the divine cow. But go has many meanings in Sanskrit: speech, a ray of light, the earth, the eye, water and heaven among them.",
+    "hi": "‘गो’ का अर्थ है गाय, और सुरभि के रूप में वे गौओं की माता हैं। पर संस्कृत में ‘गो’ के अनेक अर्थ हैं: वाणी, किरण, पृथ्वी, नेत्र, जल और स्वर्ग भी।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says the other possible meanings of go are also to be taken, and he quotes dictionaries that list them. So she is mother of speech, of the rays of light, of the earth and of sight. He gives no further hidden meaning; as a cow feeds her calf, she nourishes all that these words name.",
+    "hi": "भास्करराय कहते हैं कि ‘गो’ के अन्य सम्भव अर्थ भी ग्रहण करने चाहिए, और वे उन्हें गिनाने वाले कोशों को उद्धृत करते हैं। इस प्रकार वे वाणी की, प्रकाश की किरणों की, पृथ्वी की और दृष्टि की भी माता हैं। वे इससे आगे कोई गूढ़ अर्थ नहीं देते; जैसे गाय अपने बछड़े को पोसती है, वैसे ही वे इन सबका पोषण करती हैं।"
+  },
+  "story": {
+    "en": "In the Purāṇas Surabhi is the divine cow of plenty, regarded as the mother of all cattle. The cow is honoured in India as a mother because she feeds others with her milk.",
+    "hi": "पुराणों में सुरभि समृद्धि देने वाली दिव्य गाय है, जिसे सब गौओं की माता माना जाता है। भारत में गाय को माता के रूप में पूजा जाता है, क्योंकि वह अपने दूध से दूसरों का पोषण करती है।"
+  },
+  "commentary": {
+    "sanskrit": "गवां धेनूनां माता सुरभिरूपा । सम्भवन्तोऽन्येऽपि गोपदस्यार्था वागादयो ग्राह्याः ।",
+    "translation": {
+      "en": "Mother of the gāvaḥ, the cows, in the form of Surabhi. The other possible meanings of the word go, such as speech, are also to be taken.",
+      "hi": "गौओं अर्थात् धेनुओं की माता, सुरभि के रूप में। ‘गो’ शब्द के वाणी आदि अन्य सम्भव अर्थ भी ग्रहण करने योग्य हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 605 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The closing clause of the inner layer is a reflection."
+  }
+}

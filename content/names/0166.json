@@ -1,0 +1,43 @@
+{
+  "number": 166,
+  "verse": 47,
+  "slug": "nish-papa",
+  "devanagari": "निष्पापा",
+  "iastSplit": "Niṣ-pāpā",
+  "archana": "ॐ निष्पापायै नमः",
+  "syllables": ["niṣ", "pā", "pā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free from", "hi": "रहित, बिना" } },
+    { "sa": "पाप", "meaning": { "en": "sin, wrongdoing", "hi": "पाप" } }
+  ],
+  "meaning": {
+    "en": "Without any sin",
+    "hi": "पाप से सर्वथा रहित"
+  },
+  "explanation": {
+    "en": "Pāpa is sin, wrongdoing and the burden it leaves behind. She has none at all; no wrong can be found in her or cling to her.",
+    "hi": "‘पाप’ का अर्थ है दुष्कर्म और उससे बचा रहने वाला भार। उनमें पाप का लेश भी नहीं; कोई दोष न उनमें मिलता है, न उनसे चिपकता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says only that she is without sin; he gives no hidden meaning here. The name repeats in another key what Niṣkalaṅkā (name 153) said, and prepares for the next name, where her freedom from sin becomes the power to remove it.",
+    "hi": "भास्करराय केवल इतना कहते हैं कि वे पाप से रहित हैं; यहाँ वे कोई गूढ़ अर्थ नहीं देते। यह नाम ‘निष्कलङ्का’ (नाम 153) की बात को दूसरे ढंग से दोहराता है, और अगले नाम की भूमिका बनाता है, जहाँ पाप से उनकी मुक्ति पाप को मिटाने की शक्ति बन जाती है।"
+  },
+  "story": {
+    "en": "Bhāskararāya takes this pair together and gives his authorities under the next name: passages from the Upaniṣad, the Vasiṣṭha Smṛti, the Devī Bhāgavata and the Brahmāṇḍa Purāṇa on how sin is burnt away.",
+    "hi": "भास्करराय इस जोड़े को एक साथ लेते हैं और अपने प्रमाण अगले नाम पर देते हैं: उपनिषद्, वसिष्ठ स्मृति, देवी भागवत और ब्रह्माण्ड पुराण के वचन, जो बताते हैं कि पाप कैसे भस्म होता है।"
+  },
+  "commentary": {
+    "sanskrit": "पापराहित्यान्निष्पापा",
+    "translation": {
+      "en": "Being free of sin, she is Niṣpāpā.",
+      "hi": "पाप से रहित होने के कारण वे निष्पापा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 166 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The second sentence of the inner layer is a reflection. In the edition the gloss runs straight on into the next name’s gloss without a daṇḍa." }
+}

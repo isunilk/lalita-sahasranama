@@ -1,0 +1,43 @@
+{
+  "number": 431,
+  "verse": 91,
+  "slug": "mada-shalini",
+  "devanagari": "मदशालिनी",
+  "iastSplit": "Mada-śālinī",
+  "archana": "ॐ मदशालिन्यै नमः",
+  "syllables": ["ma", "da", "śā", "li", "nī"],
+  "words": [
+    { "sa": "मद", "meaning": { "en": "rapture, the intoxication of joy", "hi": "मद, आनन्द की मस्ती" } },
+    { "sa": "शालिन्", "meaning": { "en": "shining with, possessed of", "hi": "से सुशोभित, से युक्त" } }
+  ],
+  "meaning": {
+    "en": "Radiant with the rapture of bliss",
+    "hi": "आनन्द के मद से सुशोभित"
+  },
+  "explanation": {
+    "en": "Mada is rapture, the happy intoxication of one wholly absorbed. She is resplendent with it.",
+    "hi": "‘मद’ आनन्द की मस्ती है, पूर्णतः तल्लीन व्यक्ति की आनन्दमयी मत्तता। वे इससे सुशोभित हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya defines mada precisely: a state of mind that has no contact with any other object and whose only object is bliss. Her rapture is joy that needs nothing outside itself, and she shines with it.",
+    "hi": "भास्करराय ‘मद’ की सूक्ष्म परिभाषा देते हैं: मन की वह विशेष वृत्ति जिसका किसी अन्य विषय से सम्पर्क नहीं और जिसका एकमात्र विषय आनन्द है। उनका मद वह आनन्द है जिसे अपने से बाहर किसी वस्तु की आवश्यकता नहीं, और उसी से वे शोभित हैं।"
+  },
+  "story": {
+    "en": "This closes verse 91. The next verse carries the theme of mada on, to her eyes red and rolling with it and her cheeks flushed rosy.",
+    "hi": "यह श्लोक 91 को पूरा करता है। अगला श्लोक ‘मद’ के वर्णन को आगे बढ़ाता है: उससे लाल और घूमते नेत्र, और गुलाबी हुए कपोल।"
+  },
+  "commentary": {
+    "sanskrit": "विषयान्तरसम्पर्कशून्य आनन्दैकविषयको वृत्तिविशेषो मदस्तेन शालते शोभत इति तथा ।",
+    "translation": {
+      "en": "Mada is a particular state of mind, free of contact with any other object, whose one object is bliss; she śālate, shines, with it, and so she is Madaśālinī.",
+      "hi": "किसी अन्य विषय के सम्पर्क से रहित, केवल आनन्द को विषय बनाने वाली मन की विशेष वृत्ति ‘मद’ है; उससे वे ‘शालते’ अर्थात् शोभित होती हैं, इसलिए मदशालिनी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 431 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude." }
+}

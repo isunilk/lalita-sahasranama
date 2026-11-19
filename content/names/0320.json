@@ -1,0 +1,43 @@
+{
+  "number": 320,
+  "verse": 72,
+  "slug": "ramana-lampata",
+  "devanagari": "रमणलम्पटा",
+  "iastSplit": "Ramaṇa-lampaṭā",
+  "archana": "ॐ रमणलम्पटायै नमः",
+  "syllables": ["ra", "ma", "ṇa", "lam", "pa", "ṭā"],
+  "words": [
+    { "sa": "रमण", "meaning": { "en": "beloved, husband; delight, love’s play", "hi": "प्रियतम, पति; रमण, क्रीड़ा" } },
+    { "sa": "लम्पटा", "meaning": { "en": "eager, longing", "hi": "उत्सुक, लालायित" } }
+  ],
+  "meaning": {
+    "en": "Eager for her beloved and for love’s delight",
+    "hi": "अपने प्रियतम और प्रेम-क्रीड़ा के लिए उत्सुक"
+  },
+  "explanation": {
+    "en": "Lampaṭā means eager, full of longing. Bhāskararāya links the name to Rāmā: because she is present in every woman, she is the eagerness each woman feels for her own husband, for union with him or for loving play.",
+    "hi": "‘लम्पटा’ का अर्थ है उत्सुक, लालसा से भरी। भास्करराय इस नाम को ‘रामा’ से जोड़ते हैं: क्योंकि वे हर स्त्री में विद्यमान हैं, इसलिए हर स्त्री के मन में अपने पति के प्रति, उसके साथ मिलन या प्रेम-क्रीड़ा के लिए, जो उत्कण्ठा है, वह उन्हीं की है।"
+  },
+  "inner": {
+    "en": "He gives no further hidden sense. The name treats married love as holy: a wife’s longing for her husband is not set apart from the Devī but is one of the ways she lives in the world.",
+    "hi": "वे इससे आगे कोई गूढ़ अर्थ नहीं देते। यह नाम दाम्पत्य प्रेम को पवित्र मानता है: पत्नी की पति के प्रति उत्कण्ठा देवी से अलग नहीं, बल्कि संसार में उनके रहने का ही एक रूप है।"
+  },
+  "story": {
+    "en": "This name closes the run of sixteen names beginning with ra in verses 71 and 72. Read with Rāmā, the two names move from her presence in every woman to the love that presence brings.",
+    "hi": "यह नाम श्लोक 71 और 72 के ‘र’ से आरम्भ होने वाले सोलह नामों की माला को पूर्ण करता है। ‘रामा’ के साथ पढ़ने पर ये दोनों नाम हर स्त्री में उनकी उपस्थिति से उस प्रेम तक पहुँचते हैं जो उस उपस्थिति से जन्म लेता है।"
+  },
+  "commentary": {
+    "sanskrit": "निखिलस्त्रीरूपत्वादेव स्वस्वरमणेषु पतिषु रमणे सम्भोगे वा क्रीडायां वा लम्पटा लालसा सतृष्णा ।",
+    "translation": {
+      "en": "Precisely because she is the form of all women, she is lampaṭā, eager and longing, toward their own beloveds, their husbands, in ramaṇa, that is, in union or in play.",
+      "hi": "समस्त स्त्री-स्वरूपा होने के कारण ही वे अपने-अपने प्रियतम पतियों के प्रति रमण में, अर्थात् सम्भोग या क्रीड़ा में, लम्पटा अर्थात् लालायित और उत्कण्ठित हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 320 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the sense quoted; the second sentence of the inner layer is a reflection." }
+}

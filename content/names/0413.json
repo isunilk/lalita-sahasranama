@@ -1,0 +1,43 @@
+{
+  "number": 413,
+  "verse": 89,
+  "slug": "aprameya",
+  "devanagari": "अप्रमेया",
+  "iastSplit": "Aprameyā",
+  "archana": "ॐ अप्रमेयायै नमः",
+  "syllables": ["ap", "ra", "me", "yā"],
+  "words": [
+    { "sa": "अ", "meaning": { "en": "not", "hi": "नहीं" } },
+    { "sa": "प्रमेय", "meaning": { "en": "measurable, knowable by a means of knowledge", "hi": "प्रमाण से जानने योग्य" } }
+  ],
+  "meaning": {
+    "en": "Immeasurable, beyond every means of knowing",
+    "hi": "अप्रमेय, जिन्हें किसी प्रमाण से मापा नहीं जा सकता"
+  },
+  "explanation": {
+    "en": "Prameya is what can be known and measured by a pramāṇa, a valid means of knowledge such as perception or inference. She is not such an object; no instrument of knowing can take her measure.",
+    "hi": "‘प्रमेय’ वह है जिसे प्रत्यक्ष, अनुमान जैसे किसी प्रमाण से जाना और मापा जा सके। वे ऐसा कोई विषय नहीं हैं; ज्ञान का कोई साधन उन्हें माप नहीं सकता।"
+  },
+  "inner": {
+    "en": "Bhāskararāya also divides the name another way. Read as a-prameyā, she is known by ‘a’, that is, by Brahmā, Viṣṇu and the other gods whom the letter a signifies; or she is known in the waters (ap), as the Devī Sūkta says: ‘my source is in the waters, within the ocean’. The knower cannot measure what is the very light of his knowing.",
+    "hi": "भास्करराय इस नाम का एक और विभाजन भी करते हैं। ‘अ-प्रमेया’ पढ़ें तो वे ‘अ’ द्वारा, अर्थात् अकार जिनका वाचक है उन ब्रह्मा, विष्णु आदि देवताओं द्वारा, जानी जाती हैं; अथवा ‘अप्’ अर्थात् जल में जानी जाती हैं, जैसा देवीसूक्त कहता है: ‘मेरा उद्गम जलों में, समुद्र के भीतर है।’ जानने वाला उसे नहीं माप सकता जो स्वयं उसके जानने का प्रकाश है।"
+  },
+  "story": {
+    "en": "Names 413 to 415 form a group on her transcendence: she cannot be measured, she shines by her own light, and she is beyond mind and speech. For each, Bhāskararāya gives a Vedic text as proof.",
+    "hi": "नाम 413 से 415 उनकी अतीतता का एक समूह हैं: वे अप्रमेय हैं, अपने ही प्रकाश से प्रकाशित हैं, और मन तथा वाणी से परे हैं। भास्करराय हर नाम के लिए वेद का प्रमाण देते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "प्रमातुं योग्या प्रमेया प्रमेया न भवतीत्यप्रमेया ।",
+    "translation": {
+      "en": "Prameyā is what is fit to be known by valid means; she who is not such a prameyā is Aprameyā.",
+      "hi": "जो प्रमाण से जानने योग्य हो, वह प्रमेया है; जो प्रमेया नहीं हैं, वे अप्रमेया हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 413 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The last sentence of the inner layer is a reflection." }
+}

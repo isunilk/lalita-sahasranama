@@ -1,0 +1,43 @@
+{
+  "number": 720,
+  "verse": 139,
+  "slug": "guhyakaradhya",
+  "devanagari": "गुह्यकाराध्या",
+  "iastSplit": "Guhyakārādhyā",
+  "archana": "ॐ गुह्यकाराध्यायै नमः",
+  "syllables": ["guh", "ya", "kā", "rādh", "yā"],
+  "words": [
+    { "sa": "गुह्यक", "meaning": { "en": "guhyaka, a class of semi-divine beings; also, a secret place", "hi": "गुह्यक, एक देवयोनि; गुप्त स्थान भी" } },
+    { "sa": "आराध्या", "meaning": { "en": "to be worshipped", "hi": "आराधना के योग्य, उपास्या" } }
+  ],
+  "meaning": {
+    "en": "Worshipped by the guhyakas, and in secret places",
+    "hi": "गुह्यकों द्वारा, और गुप्त स्थानों में पूजित"
+  },
+  "explanation": {
+    "en": "Bhāskararāya gives two readings. She is worshipped by the guhyakas, a class of divine beings; or she is worshipped in a secret place that others do not know.",
+    "hi": "भास्करराय दो अर्थ देते हैं। गुह्यक नाम की देवयोनि उनकी आराधना करती है; अथवा उनकी आराधना ऐसे गुप्त स्थान में होती है जिसे दूसरे नहीं जानते।"
+  },
+  "inner": {
+    "en": "Guhya means secret, and the name carries on the theme of hiddenness from the first line of the verse. Bhāskararāya adds nothing beyond the two readings. In reflection, the most secret place of her worship is the heart, which no one else can enter.",
+    "hi": "‘गुह्य’ का अर्थ है गुप्त, और यह नाम श्लोक की पहली पंक्ति के रहस्य-भाव को आगे बढ़ाता है। भास्करराय इन दो अर्थों से आगे कुछ नहीं जोड़ते। चिन्तन के रूप में: उनकी आराधना का सबसे गुप्त स्थान हृदय है, जिसमें कोई दूसरा प्रवेश नहीं कर सकता।"
+  },
+  "story": {
+    "en": "The guhyakas are usually counted among the attendants of Kubera, lord of wealth, who guard hidden treasure. Even these keepers of what is hidden worship her.",
+    "hi": "गुह्यक प्रायः धन के स्वामी कुबेर के अनुचर माने जाते हैं, जो गुप्त निधियों की रक्षा करते हैं। छिपी वस्तुओं के ये रक्षक भी उनकी आराधना करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "गुह्यकैर्देवविशेषैरज्ञातरहस्यस्थले वा आराध्या ।",
+    "translation": {
+      "en": "To be worshipped by the guhyakas, a particular class of gods, or in a secret place unknown to others.",
+      "hi": "गुह्यक नामक विशेष देवों द्वारा आराध्या, अथवा अज्ञात रहस्य-स्थान में आराध्या।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 720 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the two literal readings; the last sentence of the inner layer is a reflection. The link with Kubera in the story is general tradition, not from Bhāskararāya." }
+}

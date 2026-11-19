@@ -1,0 +1,42 @@
+{
+  "number": 716,
+  "verse": 139,
+  "slug": "maya",
+  "devanagari": "माया",
+  "iastSplit": "Māyā",
+  "archana": "ॐ मायायै नमः",
+  "syllables": ["mā", "yā"],
+  "words": [
+    { "sa": "माया", "meaning": { "en": "the power that veils; wondrous creative power", "hi": "आवरण करने वाली शक्ति; अद्भुत सृजन-शक्ति" } }
+  ],
+  "meaning": {
+    "en": "The power that veils even what is plain to see",
+    "hi": "वह शक्ति जो प्रकट को भी ढक देती है"
+  },
+  "explanation": {
+    "en": "Bhāskararāya defines māyā as the power that keeps hidden even what is most evident. He also quotes the Devī Purāṇa: she does wondrous works and gives results no one foresaw, like a dream or a magic show in the world, and so she is called Māyā.",
+    "hi": "भास्करराय माया की परिभाषा देते हैं: वह शक्ति जो अत्यन्त प्रसिद्ध वस्तु को भी प्रकट नहीं होने देती। वे देवीपुराण भी उद्धृत करते हैं: वे विचित्र कार्य करती हैं और अकल्पित फल देती हैं, संसार में स्वप्न या इन्द्रजाल की भाँति; इसीलिए वे माया कहलाती हैं।"
+  },
+  "inner": {
+    "en": "This is the third of the four names on her hiddenness. Māyā here is not a fault to be blamed but the Lord’s own power: Bhāskararāya cites a bhakti sūtra that calls māyā his śakti. The same power that hides the truth also brings forth the whole wondrous world, and to see the world as her play is the beginning of seeing through it.",
+    "hi": "उनके रहस्यमय स्वरूप पर चार नामों में यह तीसरा है। यहाँ माया कोई दोष नहीं, स्वयं भगवान की शक्ति है: भास्करराय भक्ति-परम्परा का एक सूत्र उद्धृत करते हैं जो माया को उनकी शक्ति कहता है। जो शक्ति सत्य को ढकती है, वही यह सारा अद्भुत जगत भी रचती है; और जगत को उनकी लीला के रूप में देखना ही उसके पार देखने का आरम्भ है।"
+  },
+  "story": {
+    "en": "Bhāskararāya points to a long passage of the Varāha Purāṇa, thirty-seven verses in which Viṣṇu tells the Earth what his māyā does: rain falls and floods rise, yet the quarters run dry; the moon wanes and waxes; and by that power he rests upon the waters, creating and withdrawing Prajāpati and Rudra.",
+    "hi": "भास्करराय वराह पुराण के एक लम्बे प्रसंग की ओर संकेत करते हैं, जिसके सैंतीस श्लोकों में विष्णु पृथ्वी को अपनी माया के कार्य बताते हैं: वर्षा होती है, बाढ़ आती है, फिर भी दिशाएँ सूख जाती हैं; चन्द्रमा घटता-बढ़ता है; और उसी शक्ति से वे जल पर स्थित रहते हैं तथा प्रजापति और रुद्र को रचते और समेटते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "प्रसिद्धतरस्याप्यप्रकटीकरणानुकूला शक्तिर्माया ।",
+    "translation": {
+      "en": "Māyā is the power that serves to keep unrevealed even what is most well known.",
+      "hi": "माया वह शक्ति है जो अत्यन्त प्रसिद्ध वस्तु को भी अप्रकट रखने में समर्थ है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 716 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The bhakti sūtra is cited in the edition as from the भक्तितन्त्र (तच्छक्तिर्माया जडसामान्यात्). The last clause of the inner layer is a reflection." }
+}

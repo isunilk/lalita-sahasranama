@@ -1,0 +1,43 @@
+{
+  "number": 160,
+  "verse": 47,
+  "slug": "nish-chinta",
+  "devanagari": "निश्चिन्ता",
+  "iastSplit": "Niś-cintā",
+  "archana": "ॐ निश्चिन्तायै नमः",
+  "syllables": ["niś", "cin", "tā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free from", "hi": "रहित, बिना" } },
+    { "sa": "चिन्ता", "meaning": { "en": "anxious thought, worry", "hi": "चिन्ता, फ़िक्र" } }
+  ],
+  "meaning": {
+    "en": "Free from all worry and anxious thought",
+    "hi": "सब चिन्ताओं से रहित"
+  },
+  "explanation": {
+    "en": "Cintā in ordinary speech is worry, the anxious thinking that gnaws at the mind. She has none: nothing threatens her and nothing is lacking to her.",
+    "hi": "सामान्य बोलचाल में ‘चिन्ता’ का अर्थ है फ़िक्र, वह व्याकुल सोच जो मन को कुतरती रहती है। उनमें कोई चिन्ता नहीं: न उन्हें किसी बात का भय है, न किसी वस्तु का अभाव।"
+  },
+  "inner": {
+    "en": "Bhāskararāya notes that cintā can mean any remembering or thought, but by settled usage it means the kind of thinking that causes pain. From the Viśva lexicon he adds a second sense, deceit; she is free of both. He gives no further hidden meaning.",
+    "hi": "भास्करराय बताते हैं कि ‘चिन्ता’ का अर्थ सामान्य स्मरण या विचार भी हो सकता है, पर रूढ़ प्रयोग में इसका अर्थ दुःख देने वाला विशेष चिन्तन है। विश्वकोश से वे एक और अर्थ, छल, भी देते हैं; वे दोनों से रहित हैं। वे इससे आगे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "He quotes a well-known verse: worry is like the funeral pyre, with only a dot more; the pyre burns the dead, but worry burns the living. Written चिंता, the word differs from चिता, the pyre, by a single nasal dot.",
+    "hi": "वे एक प्रसिद्ध श्लोक उद्धृत करते हैं: चिन्ता को चिता के समान समझो, उसमें केवल एक बिन्दु अधिक है; चिता मृत को जलाती है, पर चिन्ता जीवित को। लिखने में ‘चिंता’ और ‘चिता’ में बस एक अनुस्वार-बिन्दु का अन्तर है।"
+  },
+  "commentary": {
+    "sanskrit": "चिन्ताशब्दः स्मृतिसामान्यवचनोऽपि दुःखजनकस्मृतिविशेषे निरूढलाक्षणिकः ।",
+    "translation": {
+      "en": "The word cintā, though it denotes thought in general, is by settled usage applied to the particular kind of thought that causes pain.",
+      "hi": "‘चिन्ता’ शब्द यद्यपि सामान्य स्मृति या विचार का वाचक है, फिर भी रूढ़ि से दुःख उत्पन्न करने वाले विशेष चिन्तन के लिए प्रयुक्त होता है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 160 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude." }
+}

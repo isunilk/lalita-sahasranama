@@ -1,0 +1,43 @@
+{
+  "number": 481,
+  "verse": 99,
+  "slug": "tvak-stha",
+  "devanagari": "त्वक्स्था",
+  "iastSplit": "Tvak-sthā",
+  "archana": "ॐ त्वक्स्थायै नमः",
+  "syllables": ["tvak", "sthā"],
+  "words": [
+    { "sa": "त्वच्", "meaning": { "en": "skin", "hi": "त्वचा" } },
+    { "sa": "स्था", "meaning": { "en": "abiding, dwelling in", "hi": "स्थित, निवास करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who dwells in the skin",
+    "hi": "जो त्वचा में निवास करती हैं"
+  },
+  "explanation": {
+    "en": "Tvak is the skin. Bhāskararāya takes it as one of the bodily tissues (dhātus) and says she dwells in it as its presiding deity. Ḍākinī rules the skin, as each of the yoginīs who follow rules one tissue of the body.",
+    "hi": "त्वक् का अर्थ है त्वचा। भास्करराय इसे शरीर की एक धातु मानते हैं और कहते हैं कि वे उसकी अधिष्ठात्री देवता के रूप में उसमें निवास करती हैं। जैसे आगे की हर योगिनी शरीर की एक-एक धातु की स्वामिनी है, वैसे ही डाकिनी त्वचा की स्वामिनी हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya’s word is abhimāninī: the deity who identifies with the skin and rules it. In these names the seven yoginīs hold the body’s tissues in turn: skin, blood, flesh, fat, bone, marrow and vital fluid, from the outermost to the innermost. So the Goddess is present not only in the subtle centres but in the very substance of the body.",
+    "hi": "भास्करराय यहाँ ‘अभिमानिनी’ शब्द का प्रयोग करते हैं: वह देवता जो त्वचा से तादात्म्य रखती है और उस पर शासन करती है। इन नामों में सात योगिनियाँ क्रम से शरीर की सात धातुओं की अधिष्ठात्री हैं: त्वचा, रक्त, मांस, मेद, अस्थि, मज्जा और वीर्य, अर्थात् सबसे बाहरी से सबसे भीतरी तक। इस प्रकार देवी केवल सूक्ष्म चक्रों में ही नहीं, शरीर के स्थूल तत्त्वों में भी विद्यमान हैं।"
+  },
+  "story": {
+    "en": "The meditation verse that Bhāskararāya quotes for Ḍākinī uses the same word, tvaksthā, in its last line, together with her circle of powers led by Amṛtā (name 483).",
+    "hi": "डाकिनी के लिए भास्करराय जो ध्यान-श्लोक उद्धृत करते हैं, उसकी अन्तिम पंक्ति में यही शब्द ‘त्वक्स्था’ आता है, साथ ही अमृता आदि शक्तियों से घिरे होने का वर्णन भी (नाम 483)।"
+  },
+  "commentary": {
+    "sanskrit": "त्वचि धातौ तिष्ठतीति त्वक्स्था । तदभिमानित्वात् ।",
+    "translation": {
+      "en": "She stays in the skin, the bodily tissue: hence tvaksthā, because she is its presiding deity.",
+      "hi": "वे त्वचा रूपी धातु में स्थित रहती हैं, इसलिए ‘त्वक्स्था’ हैं, क्योंकि वे उसकी अभिमानिनी देवता हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 481 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The verse text prints त्वक्‍स्था with a zero-width joiner between क् and स; the name and archana here are written without it. The list of seven tissues in the inner layer is drawn from names 481, 490, 500, 509, 516, 524 and 531 (Bhāskararāya glosses the last, शुक्ल, as the dhātu called वीर्य); the closing sentence is a reflection." }
+}

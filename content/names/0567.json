@@ -1,0 +1,43 @@
+{
+  "number": 567,
+  "verse": 115,
+  "slug": "bhakta-nidhi",
+  "devanagari": "भक्तनिधिः",
+  "iastSplit": "Bhakta-nidhiḥ",
+  "archana": "ॐ भक्तनिधये नमः",
+  "syllables": ["bhak", "ta", "ni", "dhiḥ"],
+  "words": [
+    { "sa": "भक्त", "meaning": { "en": "devotee", "hi": "भक्त" } },
+    { "sa": "निधि", "meaning": { "en": "treasure", "hi": "निधि, खजाना" } }
+  ],
+  "meaning": {
+    "en": "The treasure of her devotees",
+    "hi": "भक्तों की निधि"
+  },
+  "explanation": {
+    "en": "She is like a treasure to those devoted to her. Bhāskararāya gives the reason: as a treasure fulfils the wishes of the one who owns it, so does she.",
+    "hi": "अपने भक्तों के लिए वे निधि के समान हैं। भास्करराय इसका कारण बताते हैं: जैसे खजाना अपने स्वामी की इच्छाएँ पूरी करता है, वैसे ही वे भी करती हैं।"
+  },
+  "inner": {
+    "en": "He gives no hidden meaning beyond the simile. A treasure does not ask what its owner deserves; it simply gives. So is she to those who are hers.",
+    "hi": "वे उपमा के अतिरिक्त कोई गूढ़ अर्थ नहीं देते। खजाना यह नहीं पूछता कि उसका स्वामी कितना योग्य है; वह बस देता है। अपने भक्तों के लिए वे भी ऐसी ही हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya adds a note for worship: here the form nidhyai namaḥ is not used, not even as an option, so the archana is nidhaye namaḥ, since nidhi is masculine. He made the same kind of point for śevadhi in name 48.",
+    "hi": "भास्करराय पूजा के लिए एक टिप्पणी जोड़ते हैं: यहाँ ‘निध्यै नमः’ रूप का प्रयोग विकल्प से भी नहीं होता, इसलिए अर्चना में ‘निधये नमः’ कहा जाता है, क्योंकि ‘निधि’ पुल्लिंग है। ऐसी ही बात उन्होंने नाम 48 में ‘शेवधि’ के लिए कही थी।"
+  },
+  "commentary": {
+    "sanskrit": "भक्तानां निधिरिव । कामपूरकत्वात् । नात्र पाक्षिकोऽपि निध्यै नम इति प्रयोगः ।",
+    "translation": {
+      "en": "Like a treasure for her devotees, because she fulfils their desires. Here the form nidhyai namaḥ is not used, not even as an alternative.",
+      "hi": "भक्तों के लिए निधि के समान, क्योंकि वे कामनाएँ पूरी करती हैं। यहाँ ‘निध्यै नमः’ रूप का प्रयोग विकल्प से भी नहीं होता।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 567 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The archana भक्तनिधये is confirmed by Bhāskararāya, who rules out निध्यै. The second and third sentences of the inner layer are a reflection." }
+}

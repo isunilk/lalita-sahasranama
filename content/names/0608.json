@@ -1,0 +1,74 @@
+{
+  "number": 608,
+  "verse": 122,
+  "slug": "danda-niti-stha",
+  "devanagari": "दण्डनीतिस्था",
+  "iastSplit": "Daṇḍa-nīti-sthā",
+  "archana": "ॐ दण्डनीतिस्थायै नमः",
+  "syllables": [
+    "daṇ",
+    "ḍa",
+    "nī",
+    "tis",
+    "thā"
+  ],
+  "words": [
+    {
+      "sa": "दण्ड",
+      "meaning": {
+        "en": "rod; punishment, the power to restrain",
+        "hi": "दण्ड; दण्ड देने और संयम में रखने की शक्ति"
+      }
+    },
+    {
+      "sa": "नीति",
+      "meaning": {
+        "en": "guidance, policy, science of conduct",
+        "hi": "नीति, मार्गदर्शन"
+      }
+    },
+    {
+      "sa": "स्था",
+      "meaning": {
+        "en": "abiding in",
+        "hi": "स्थित"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Who abides in the science of just rule",
+    "hi": "जो दण्डनीति, अर्थात् न्यायपूर्ण शासन के शास्त्र, में स्थित हैं"
+  },
+  "explanation": {
+    "en": "Daṇḍanīti is the science of government, literally “the guidance of the rod”, the rod being the ruler’s power to punish and restrain. She abides in it: just rule, and the law that keeps society in order, are her own working.",
+    "hi": "‘दण्डनीति’ शासन का शास्त्र है; शब्दशः ‘दण्ड की नीति’, जहाँ दण्ड शासक की दण्ड देने और संयम में रखने की शक्ति है। वे उसी में स्थित हैं: न्यायपूर्ण शासन और समाज को व्यवस्थित रखने वाला विधान उन्हीं का कार्य है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya equates daṇḍanīti with arthaśāstra, the science of polity, and says she abides in it. He cites the Devī Purāṇa: it is called daṇḍanīti because it guides people between right and wrong conduct, and because it punishes and restrains. He gives no further hidden meaning; order kept by just restraint is also the Mother’s care.",
+    "hi": "भास्करराय दण्डनीति को अर्थशास्त्र, अर्थात् राजनीति-शास्त्र, मानते हैं और कहते हैं कि वे उसमें स्थित हैं। वे देवीपुराण का वचन देते हैं: यह लोगों को नय और अनय के बीच मार्ग दिखाती है, और दण्ड तथा दमन करती है, इसलिए दण्डनीति कहलाती है। वे इससे आगे कोई गूढ़ अर्थ नहीं देते; न्यायपूर्ण संयम से बनी व्यवस्था भी माँ की ही देखभाल है।"
+  },
+  "story": {
+    "en": "Classical Indian works on polity, such as Kauṭilya’s Arthaśāstra, count daṇḍanīti as one of the four branches of learning, beside philosophy, the Vedas and economics.",
+    "hi": "कौटिल्य के अर्थशास्त्र जैसे राजनीति के प्राचीन भारतीय ग्रन्थ दण्डनीति को चार विद्याओं में गिनते हैं; अन्य तीन हैं आन्वीक्षिकी (दर्शन), त्रयी (वेद) और वार्ता (अर्थव्यवस्था)।"
+  },
+  "commentary": {
+    "sanskrit": "दण्डनीतावर्थशास्त्रे तिष्ठति इति तथा ।",
+    "translation": {
+      "en": "She abides in daṇḍanīti, that is, in arthaśāstra, the science of polity; hence the name.",
+      "hi": "वे दण्डनीति अर्थात् अर्थशास्त्र में स्थित हैं, इसलिए ऐसा नाम है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 608 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The phrase ‘नीतिशास्त्रोक्तज्ञापि देव्येवेति यावत्’ in the edition is unclear (perhaps for ‘…उक्ताज्ञापि’) and is not used; the Devī Purāṇa verse is printed with a stray ‘/’. The closing clause of the inner layer is a reflection. The four branches of learning come from the Arthaśāstra, not from Bhāskararāya."
+  }
+}

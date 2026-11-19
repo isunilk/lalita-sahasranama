@@ -1,0 +1,42 @@
+{
+  "number": 436,
+  "verse": 93,
+  "slug": "kushala",
+  "devanagari": "कुशला",
+  "iastSplit": "Kuśalā",
+  "archana": "ॐ कुशलायै नमः",
+  "syllables": ["ku", "śa", "lā"],
+  "words": [
+    { "sa": "कुशल", "meaning": { "en": "skilful, expert", "hi": "कुशल, निपुण" } }
+  ],
+  "meaning": {
+    "en": "Skilful, perfect in her work of creation",
+    "hi": "कुशल, सृष्टि आदि कार्यों में निपुण"
+  },
+  "explanation": {
+    "en": "Kuśalā means skilful. Bhāskararāya says she is so called because of her skill in fashioning creation, preservation and the rest of the cosmic work.",
+    "hi": "‘कुशला’ का अर्थ है निपुण। भास्करराय कहते हैं कि सृष्टि, पालन आदि जगत के कार्यों को रचने की निपुणता के कारण वे कुशला हैं।"
+  },
+  "inner": {
+    "en": "He adds two plays on the word. Kuśa can mean water, so she is the one who takes up the waters. Or śala is the moon, and before her the moon is poor (ku-), since her radiance surpasses it. He gives no further hidden meaning.",
+    "hi": "वे इस शब्द पर दो और अर्थ देते हैं। ‘कुश’ का अर्थ जल भी है, अतः वे जल को ग्रहण करने वाली हैं। अथवा ‘शल’ चन्द्रमा है, और उनके सामने चन्द्रमा भी तुच्छ (‘कु’) है, क्योंकि उनकी कान्ति उससे अधिक है। वे कोई और गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "Verse 93 is built on the sounds ku, ko and kau: kuśalā, komalākārā, kurukullā, kuleśvarī, kulakuṇḍālayā, kaulamārga. Its names move from her skill and tender form to the goddess Kurukullā and the Kula path.",
+    "hi": "श्लोक 93 ‘कु’, ‘को’ और ‘कौ’ ध्वनियों पर रचा गया है: कुशला, कोमलाकारा, कुरुकुल्ला, कुलेश्वरी, कुलकुण्डालया, कौलमार्ग। इसके नाम उनकी निपुणता और कोमल रूप से देवी कुरुकुल्ला और कुल-मार्ग तक जाते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "सृष्ट्यादिनिर्माणकौशलवत्त्वात्कुशला । कुशं जलं लाति आदत्ते इति वा ।",
+    "translation": {
+      "en": "She is Kuśalā because she has skill in fashioning creation and the rest. Or because she takes (lāti) kuśa, water.",
+      "hi": "सृष्टि आदि के निर्माण की कुशलता से युक्त होने के कारण वे कुशला हैं। अथवा ‘कुश’ अर्थात् जल को ‘लाति’ यानी ग्रहण करती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 436 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only literal and verbal senses." }
+}

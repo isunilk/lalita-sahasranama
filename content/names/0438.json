@@ -1,0 +1,42 @@
+{
+  "number": 438,
+  "verse": 93,
+  "slug": "kurukulla",
+  "devanagari": "कुरुकुल्ला",
+  "iastSplit": "Kurukullā",
+  "archana": "ॐ कुरुकुल्लायै नमः",
+  "syllables": ["ku", "ru", "kul", "lā"],
+  "words": [
+    { "sa": "कुरुकुल्ला", "meaning": { "en": "Kurukullā, name of a goddess of Śrīpura", "hi": "कुरुकुल्ला, श्रीपुर की एक देवी का नाम" } }
+  ],
+  "meaning": {
+    "en": "Kurukullā, goddess of the tank of awareness in Śrīpura",
+    "hi": "कुरुकुल्ला, श्रीपुर में विमर्शमयी वापी की देवी"
+  },
+  "explanation": {
+    "en": "Kurukullā is a goddess of the Devī’s city, Śrīpura. Bhāskararāya places her between two of its ramparts, presiding over a tank, and the Devī is named here as one with her.",
+    "hi": "कुरुकुल्ला देवी के नगर श्रीपुर की एक देवी हैं। भास्करराय उन्हें उसके दो प्राकारों के बीच एक वापी (सरोवर) की अधिष्ठात्री बताते हैं, और यहाँ देवी को उनसे अभिन्न मानकर यह नाम दिया गया है।"
+  },
+  "inner": {
+    "en": "In Bhāskararāya’s description the walls on either side are made of ahaṅkāra, the sense of ‘I’, and citta, the mind, and the tank is made of vimarśa, consciousness aware of itself. The picture is of a city mapped on the inner life: between ego and mind lies a pool of self-awareness, and the Devī as Kurukullā presides there.",
+    "hi": "भास्करराय के वर्णन में दोनों ओर के प्राकार अहंकार और चित्त से बने हैं, और वापी विमर्श अर्थात् स्वयं को जानने वाली चेतना से बनी है। यह चित्र ऐसे नगर का है जो भीतरी जीवन का मानचित्र है: अहंकार और मन के बीच आत्म-बोध का सरोवर है, और कुरुकुल्ला के रूप में देवी वहाँ अधिष्ठित हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya quotes the Lalitāstavaratna’s verse on this tank, which pictures Kurukullā smeared with kuṅkuma and dwelling in a boat of ruby. He adds that the Tantrarāja describes her form in its twenty-second chapter.",
+    "hi": "भास्करराय इस वापी पर ललितास्तवरत्न का श्लोक उद्धृत करते हैं, जो कुरुकुल्ला को कुंकुम से लिप्त और माणिक की नौका में निवास करती हुई चित्रित करता है। वे यह भी बताते हैं कि तन्त्रराज के बाईसवें पटल में उनके रूप का वर्णन है।"
+  },
+  "commentary": {
+    "sanskrit": "कुरुकुल्लाख्यदेवी श्रीपुरेऽहङ्कारचित्तमयप्राकारयोर्मध्ये विमर्शमयवाप्यामधिकृता ।",
+    "translation": {
+      "en": "The goddess named Kurukullā presides, in Śrīpura, over the tank made of vimarśa that lies between the ramparts made of ahaṅkāra and citta.",
+      "hi": "कुरुकुल्ला नाम की देवी श्रीपुर में अहंकारमय और चित्तमय प्राकारों के बीच स्थित विमर्शमयी वापी की अधिष्ठात्री हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 438 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. In the Lalitāstavaratna verse, कुरुविन्दतरणिनिलयां is taken as ‘dwelling in a ruby boat’ (तरणि = boat); a scholar should confirm. The second sentence of the inner layer is a reflection." }
+}

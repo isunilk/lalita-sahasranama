@@ -1,0 +1,42 @@
+{
+  "number": 307,
+  "verse": 71,
+  "slug": "ramya",
+  "devanagari": "रम्या",
+  "iastSplit": "Ramyā",
+  "archana": "ॐ रम्यायै नमः",
+  "syllables": ["ram", "yā"],
+  "words": [
+    { "sa": "रम्या", "meaning": { "en": "lovely, delightful", "hi": "रमणीय, सुन्दर" } }
+  ],
+  "meaning": {
+    "en": "The lovely one, a delight to behold",
+    "hi": "रमणीय, जिन्हें देखकर मन आनन्दित हो"
+  },
+  "explanation": {
+    "en": "Ramyā means lovely, one in whom the mind delights. Bhāskararāya glosses it in a single word: she is possessed of beauty.",
+    "hi": "‘रम्या’ का अर्थ है रमणीय, जिसमें मन रम जाए। भास्करराय इसका अर्थ एक ही शब्द में देते हैं: सौन्दर्यवती।"
+  },
+  "inner": {
+    "en": "He gives no hidden meaning here. Her beauty is not only to be looked at; it is the kind in which the mind comes to rest and is content.",
+    "hi": "यहाँ वे कोई गूढ़ अर्थ नहीं देते। उनका सौन्दर्य केवल देखने भर का नहीं; वह ऐसा है जिसमें मन ठहरकर तृप्त हो जाता है।"
+  },
+  "story": {
+    "en": "Verses 71 and 72 are a run of sixteen names that all begin with ra, from Rājarājārcitā to Ramaṇalampaṭā. Several of them, Ramyā, Ramaṇī, Ramā and Rāmā, come from the one root ram, to delight.",
+    "hi": "श्लोक 71 और 72 सोलह नामों की एक माला हैं, जिनमें हर नाम ‘र’ से आरम्भ होता है: राजराजार्चिता से रमणलम्पटा तक। इनमें से रम्या, रमणी, रमा और रामा, ये सब ‘रम्’ धातु से बने हैं, जिसका अर्थ है आनन्दित होना।"
+  },
+  "commentary": {
+    "sanskrit": "रम्या सौन्दर्यवती ।",
+    "translation": {
+      "en": "Ramyā: possessed of beauty.",
+      "hi": "रम्या अर्थात् सौन्दर्यवती।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 307 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the second sentence of the inner layer is a reflection." }
+}

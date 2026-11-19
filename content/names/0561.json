@@ -1,0 +1,43 @@
+{
+  "number": 561,
+  "verse": 114,
+  "slug": "mrigakshi",
+  "devanagari": "मृगाक्षी",
+  "iastSplit": "Mṛgākṣī",
+  "archana": "ॐ मृगाक्ष्यै नमः",
+  "syllables": ["mṛ", "gāk", "ṣī"],
+  "words": [
+    { "sa": "मृग", "meaning": { "en": "deer", "hi": "हिरण, मृग" } },
+    { "sa": "अक्षि", "meaning": { "en": "eye", "hi": "नेत्र, आँख" } }
+  ],
+  "meaning": {
+    "en": "Doe-eyed, with eyes like a deer’s",
+    "hi": "हिरणी जैसे नेत्रों वाली"
+  },
+  "explanation": {
+    "en": "Her eyes are like a deer’s: large, dark and gentle. In Sanskrit poetry the deer’s eyes stand for beauty joined with innocence.",
+    "hi": "उनके नेत्र हिरण के नेत्रों जैसे हैं: बड़े, श्यामल और कोमल। संस्कृत काव्य में हिरण की आँखें सौन्दर्य और सरलता के मेल का प्रतीक हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the comparison, eyes like those of a deer, and adds no hidden meaning. The deer’s gaze is wide and wakeful yet harms no one; such is the gaze with which she watches over the world.",
+    "hi": "भास्करराय केवल उपमा देते हैं, हिरण जैसी आँखें, और कोई गूढ़ अर्थ नहीं जोड़ते। हिरण की दृष्टि खुली और सजग होकर भी किसी को हानि नहीं पहुँचाती; ऐसी ही दृष्टि से वे संसार की रक्षा करती हैं।"
+  },
+  "story": {
+    "en": "This name opens a line of five short names that all begin with m: Mṛgākṣī, Mohinī, Mukhyā, Mṛḍānī and Mitrarūpiṇī. Earlier, name 18 likened her eyes to fish darting in the stream of her face’s beauty; here the image is the deer.",
+    "hi": "यह नाम पाँच छोटे नामों की पंक्ति आरम्भ करता है, जो सभी ‘म’ से शुरू होते हैं: मृगाक्षी, मोहिनी, मुख्या, मृडानी और मित्ररूपिणी। पहले नाम 18 ने उनके नेत्रों की तुलना मुख-सौन्दर्य की धारा में चलती मछलियों से की थी; यहाँ उपमा हिरण की है।"
+  },
+  "commentary": {
+    "sanskrit": "मृगस्येवाक्षिणी यस्याः ।",
+    "translation": {
+      "en": "She whose eyes are like a deer’s.",
+      "hi": "जिनके नेत्र हिरण के नेत्रों जैसे हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 561 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the closing sentence of the inner layer is a reflection." }
+}

@@ -1,0 +1,44 @@
+{
+  "number": 296,
+  "verse": 69,
+  "slug": "anadi-nidhana",
+  "devanagari": "अनादिनिधना",
+  "iastSplit": "Anādi-nidhanā",
+  "archana": "ॐ अनादिनिधनायै नमः",
+  "syllables": ["a", "nā", "di", "ni", "dha", "nā"],
+  "words": [
+    { "sa": "अन्", "meaning": { "en": "not, without", "hi": "नहीं, रहित" } },
+    { "sa": "आदि", "meaning": { "en": "beginning, birth", "hi": "आदि, जन्म" } },
+    { "sa": "निधन", "meaning": { "en": "end, death", "hi": "अन्त, मृत्यु" } }
+  ],
+  "meaning": {
+    "en": "Without beginning or end",
+    "hi": "जिनका न आदि है, न अन्त"
+  },
+  "explanation": {
+    "en": "Ādi is beginning or birth, and nidhana is end or death. She has neither: she was never born and will never die.",
+    "hi": "‘आदि’ का अर्थ है आरम्भ या जन्म, और ‘निधन’ का अन्त या मृत्यु। उनमें ये दोनों नहीं हैं: न उनका कभी जन्म हुआ, न कभी मृत्यु होगी।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives a second, technical reading. By a convention he attributes to Vararuci, in which letters stand for numbers, ādi can mean eighty, and he counts eighty “deaths”, the bonds that block immortality: twenty-eight impairments (vadha) and fifty-two fetters (pāśa) named in the Liṅga Purāṇa. Through her worship, he says, none of these eighty remain.",
+    "hi": "भास्करराय एक दूसरा, शास्त्रीय अर्थ भी देते हैं। वररुचि की बताई उस परिपाटी से, जिसमें अक्षर संख्याओं के सूचक होते हैं, ‘आदि’ का अर्थ अस्सी हो सकता है; और वे अस्सी ‘निधन’ गिनाते हैं, अर्थात् अमृतत्व में बाधक बन्धन: अट्ठाईस वध और लिङ्ग पुराण में कहे गए बावन पाश। वे कहते हैं कि उनकी उपासना से इन अस्सी में से कोई शेष नहीं रहता।"
+  },
+  "story": {
+    "en": "He spells out the twenty-eight from the Sāṃkhya kārikās: eleven failings of the senses, such as blindness and deafness, and seventeen of the intellect, which are the reverse of the nine contentments and the eight attainments. In the chanted verse, the avagraha in “Ambikā’nādinidhanā” (ऽ) marks the a of anādi, merged by sandhi.",
+    "hi": "अट्ठाईस वधों को वे सांख्य की कारिकाओं से विस्तार से गिनाते हैं: इन्द्रियों की ग्यारह अशक्तियाँ, जैसे अन्धापन और बहरापन, और बुद्धि की सत्रह, जो नौ तुष्टियों और आठ सिद्धियों की विपरीत अवस्थाएँ हैं। श्लोक में ‘अम्बिकाऽनादिनिधना’ का अवग्रह (ऽ) बताता है कि ‘अनादि’ का आरम्भिक ‘अ’ सन्धि में मिल गया है।"
+  },
+  "commentary": {
+    "sanskrit": "आदिर्जननं निधनं मरणञ्च न विद्यते यस्याः साऽनादिनिधना ।",
+    "translation": {
+      "en": "She who has no ādi, birth, and no nidhana, death, is Anādinidhanā.",
+      "hi": "जिनका न आदि अर्थात् जन्म है, न निधन अर्थात् मृत्यु, वे अनादिनिधना हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 296 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya calls the number code वररुचिपरिभाषा (the kaṭapayādi system); the inner layer does not explain the arithmetic. He cites the Viṣṇu Purāṇa for the twenty-eight vadhas, describes them from Sāṃkhya, and cites the Liṅga Purāṇa for the fifty-two pāśas." }
+}

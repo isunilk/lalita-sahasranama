@@ -1,0 +1,43 @@
+{
+  "number": 591,
+  "verse": 119,
+  "slug": "shira-sthita",
+  "devanagari": "शिरःस्थिता",
+  "iastSplit": "Śiraḥ-sthitā",
+  "archana": "ॐ शिरःस्थितायै नमः",
+  "syllables": ["śi", "raḥ", "sthi", "tā"],
+  "words": [
+    { "sa": "शिरस्", "meaning": { "en": "head", "hi": "सिर, शिर" } },
+    { "sa": "स्थिता", "meaning": { "en": "abiding, dwelling", "hi": "स्थित" } }
+  ],
+  "meaning": {
+    "en": "Who dwells in the head",
+    "hi": "सिर में स्थित"
+  },
+  "explanation": {
+    "en": "She abides in the head. Bhāskararāya places her in the brahmarandhra, the aperture at the crown of the head, where she dwells in the form of the Guru.",
+    "hi": "वे सिर में निवास करती हैं। भास्करराय उन्हें ब्रह्मरन्ध्र में, सिर के शिखर के सूक्ष्म छिद्र में, स्थित बताते हैं, जहाँ वे गुरु-रूप में विराजती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives the place, the brahmarandhra, and the form, the Guru, and says no more here. The name places her not far from the seeker but at the summit of the seeker’s own being, in the form of the one who teaches.",
+    "hi": "भास्करराय स्थान, ब्रह्मरन्ध्र, और रूप, गुरु, बताते हैं, और यहाँ इससे अधिक नहीं कहते। यह नाम उन्हें साधक से दूर नहीं, बल्कि उसके अपने अस्तित्व के शिखर पर, सिखाने वाले गुरु के रूप में, रखता है।"
+  },
+  "story": {
+    "en": "Names 591–597 move from the crown of the head down to the mūlādhāra at the base of the body. Bhāskararāya connects several of them with the three kūṭas of the mantra (see name 588).",
+    "hi": "नाम 591 से 597 सिर के शिखर से शरीर के मूल, मूलाधार, तक उतरते हैं। भास्करराय इनमें से कई नामों को मन्त्र के तीन कूटों से जोड़ते हैं (देखें नाम 588)।"
+  },
+  "commentary": {
+    "sanskrit": "शिरसि ब्रह्मरन्ध्रे गुरुरूपतया स्थिता ।",
+    "translation": {
+      "en": "Dwelling in the head, in the brahmarandhra, in the form of the Guru.",
+      "hi": "शिर में, अर्थात् ब्रह्मरन्ध्र में, गुरु-रूप से स्थित।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 591 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Cakra name: meaning only. The second sentence of the inner layer is a reflection." }
+}

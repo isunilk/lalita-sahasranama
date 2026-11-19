@@ -1,0 +1,45 @@
+{
+  "number": 743,
+  "verse": 143,
+  "slug": "paparanya-davanala",
+  "devanagari": "पापारण्यदवानला",
+  "iastSplit": "Pāpāraṇya-davānalā",
+  "archana": "ॐ पापारण्यदवानलायै नमः",
+  "syllables": ["pā", "pā", "raṇ", "ya", "da", "vā", "na", "lā"],
+  "words": [
+    { "sa": "पाप", "meaning": { "en": "sin", "hi": "पाप" } },
+    { "sa": "अरण्य", "meaning": { "en": "forest", "hi": "वन, अरण्य" } },
+    { "sa": "दव", "meaning": { "en": "forest; forest fire", "hi": "वन; दावाग्नि" } },
+    { "sa": "अनल", "meaning": { "en": "fire", "hi": "अग्नि" } }
+  ],
+  "meaning": {
+    "en": "A forest fire to the forests of sin",
+    "hi": "पाप रूपी वनों के लिए दावानल"
+  },
+  "explanation": {
+    "en": "Sins are forests, Bhāskararāya says, because they breed suffering, and she is the forest fire that destroys them. He also reads it as ‘she whose name is a forest fire to the forests of sin’, recalling that the Bṛhannāradīya Purāṇa gives this very title to Gaṅgā.",
+    "hi": "भास्करराय कहते हैं कि पाप वन हैं, क्योंकि वे दुःख उपजाते हैं, और वे उन्हें नष्ट करने वाला दावानल हैं। वे इसे यों भी पढ़ते हैं: ‘जिनका नाम पाप रूपी वनों के लिए दावानल है’, और याद दिलाते हैं कि बृहन्नारदीय पुराण यही उपाधि गंगा को देता है।"
+  },
+  "inner": {
+    "en": "In a third reading, the fires that burn down sin are worship and the like, and she gives them their life-breath: she makes known the acts that remove sin. He quotes the Brahmāṇḍa Purāṇa: for every sin, committed knowingly or unknowingly, the supreme expiation is remembering the feet of Parāśakti.",
+    "hi": "तीसरे अर्थ में पापों को जलाने वाली अग्नियाँ उपासना आदि हैं, और वे उन्हें प्राण देती हैं: अर्थात् वे पाप मिटाने वाले कर्मों को प्रकट करती हैं। वे ब्रह्माण्ड पुराण उद्धृत करते हैं: जाने या अनजाने किए गए सब पापों का परम प्रायश्चित्त पराशक्ति के चरणों का स्मरण है।"
+  },
+  "story": {
+    "en": "This is the second of the eight metaphor names. A forest fire leaves nothing standing, and so it serves the hymn as a picture of how completely she clears away sin.",
+    "hi": "यह रूपक वाले आठ नामों में दूसरा है। दावानल कुछ भी शेष नहीं छोड़ता, इसलिए स्तोत्र उसे इस बात का चित्र बनाता है कि वे पापों को कितनी पूर्णता से मिटाती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "पापान्येवारण्यानि दुःखजनकत्वात् । तेषां दवानल इव नाशकत्वात् ।",
+    "translation": {
+      "en": "Sins themselves are forests, because they produce suffering. She is like a forest fire to them, because she destroys them.",
+      "hi": "पाप ही वन हैं, क्योंकि वे दुःख उत्पन्न करते हैं। उन्हें नष्ट करने के कारण वे उनके लिए दावानल के समान हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 743 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. After the Brahmāṇḍa verse Bhāskararāya quotes a further Brahmāṇḍa passage prescribing a japa of the pañcadaśākṣarī; as a practice instruction it is left out. The edition prints प्रायश्चितं for प्रायश्चित्तं in the quoted verse; not quoted." }
+}

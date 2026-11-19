@@ -1,0 +1,43 @@
+{
+  "number": 416,
+  "verse": 90,
+  "slug": "chich-chhakti",
+  "devanagari": "चिच्छक्तिः",
+  "iastSplit": "Cic-chaktiḥ",
+  "archana": "ॐ चिच्छक्त्यै नमः",
+  "syllables": ["cic", "chak", "tiḥ"],
+  "words": [
+    { "sa": "चित्", "meaning": { "en": "pure consciousness", "hi": "शुद्ध चेतना, चित्" } },
+    { "sa": "शक्ति", "meaning": { "en": "power", "hi": "शक्ति" } }
+  ],
+  "meaning": {
+    "en": "The power of consciousness",
+    "hi": "चित्-शक्ति, चेतना की शक्ति"
+  },
+  "explanation": {
+    "en": "Cit is pure consciousness and śakti is power. She is the power that belongs to consciousness, which Bhāskararāya describes as the power that removes ignorance, another name for awareness itself.",
+    "hi": "‘चित्’ शुद्ध चेतना है और ‘शक्ति’ सामर्थ्य। वे चेतना की शक्ति हैं, जिसे भास्करराय अविद्या को दूर करने वाली सामर्थ्य कहते हैं, जो चैतन्य का ही दूसरा नाम है।"
+  },
+  "inner": {
+    "en": "He quotes the Devī Bhāgavata: śakti dwells in every being; without it a creature is like a corpse; and the power of consciousness in all beings is her very form. What makes a living being alive and aware is not something she gives from outside; it is herself.",
+    "hi": "वे देवी भागवत का श्लोक उद्धृत करते हैं: शक्ति हर प्राणी में विद्यमान है; शक्ति के बिना प्राणी शव के समान हो जाता है; और सब प्राणियों में जो चित्-शक्ति है, वही उनका रूप है। जो किसी प्राणी को जीवित और सचेत बनाता है, वह उनकी बाहर से दी हुई वस्तु नहीं, स्वयं वे ही हैं।"
+  },
+  "story": {
+    "en": "Verse 90 opens with two pairs: the power of consciousness and the form of consciousness, then the power of inert matter and the nature of inert matter. Together they say that she is both spirit and the stuff of the world.",
+    "hi": "श्लोक 90 दो जोड़ियों से आरम्भ होता है: चेतना की शक्ति और चेतना का रूप, फिर जड़ की शक्ति और जड़ का स्वरूप। साथ मिलकर ये कहते हैं कि वे चेतन आत्मा भी हैं और जगत का उपादान भी।"
+  },
+  "commentary": {
+    "sanskrit": "वर्तते सर्वभूतेषु शक्तिः सर्वात्मना नृप । शववच्छक्तिहीनस्तु प्राणी भवति सर्वथा ।। चिच्छक्तिः सर्वभूतेषु रूपं तस्यास्तदेव हि ।",
+    "translation": {
+      "en": "Śakti dwells in all beings in every way, O king; a creature without śakti becomes wholly like a corpse. The power of consciousness in all beings: that indeed is her form.",
+      "hi": "हे राजन्, शक्ति सब प्राणियों में पूर्ण रूप से विद्यमान है; शक्ति से रहित प्राणी सर्वथा शव के समान हो जाता है। सब प्राणियों में जो चित्-शक्ति है, वही उनका रूप है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 416, quoting the Devī Bhāgavata (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The excerpt is a Devī Bhāgavata (Book 5) verse as quoted by Bhāskararāya. He first glosses चिच्छक्तिः as औपम्यशक्तिः, taking चित् as a particle of comparison (citing Yāska and Pāṇini), and then as the power that removes avidyā; that sentence is printed with misprints (समर्थ्यं, चैतन्यापरंपर्यायं), so it is paraphrased, not quoted." }
+}

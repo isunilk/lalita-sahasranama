@@ -1,0 +1,43 @@
+{
+  "number": 143,
+  "verse": 44,
+  "slug": "nir-upaplava",
+  "devanagari": "निरुपप्लवा",
+  "iastSplit": "Nir-upaplavā",
+  "archana": "ॐ निरुपप्लवायै नमः",
+  "syllables": ["ni", "ru", "pap", "la", "vā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free from", "hi": "रहित, बिना" } },
+    { "sa": "उपप्लव", "meaning": { "en": "calamity, disturbance; destruction", "hi": "उपद्रव, संकट; विनाश" } }
+  ],
+  "meaning": {
+    "en": "Beyond all calamity and destruction",
+    "hi": "सब उपद्रवों और विनाश से परे"
+  },
+  "explanation": {
+    "en": "Upaplava means a calamity, an affliction, a disturbance; Bhāskararāya glosses it as destruction. Nothing can befall her, and nothing can bring her to an end.",
+    "hi": "‘उपप्लव’ का अर्थ है संकट, उपद्रव या बाधा; भास्करराय इसका अर्थ ‘नाश’ बताते हैं। उन पर कोई विपत्ति नहीं आ सकती, और कुछ भी उनका अन्त नहीं कर सकता।"
+  },
+  "inner": {
+    "en": "Bhāskararāya also reads the name another way. Nir- can mean ‘fully, intensely’, as in nirbandha; upa means ‘near’, and plava is a flowing. So she is the one through whom the nectar flows fully and abundantly close at hand, within the body itself, the universe in small. He supports this with a line from the Aruṇa Upaniṣad that speaks of flowing forth.",
+    "hi": "भास्करराय इस नाम का एक और अर्थ भी करते हैं। ‘निर्’ का अर्थ ‘पूरी तरह, अतिशय’ भी होता है, जैसे ‘निर्बन्ध’ में; ‘उप’ का अर्थ है समीप, और ‘प्लव’ है बहना। तब वे वह हैं जिनके द्वारा अमृत पूर्ण रूप से, प्रचुरता से, समीप ही, इसी देह रूपी पिण्डाण्ड में बहता है। इसके समर्थन में वे अरुणोपनिषद् की वह पंक्ति देते हैं जो बह चलने की बात करती है।"
+  },
+  "story": {
+    "en": "Upaplava can also mean an eclipse, when the sun or moon seems swallowed by darkness. No such shadow ever falls on her.",
+    "hi": "‘उपप्लव’ का एक अर्थ ग्रहण भी है, जब सूर्य या चन्द्रमा अन्धकार से ग्रस्त दिखते हैं। उन पर ऐसी कोई छाया कभी नहीं पड़ती।"
+  },
+  "commentary": {
+    "sanskrit": "उपप्लवो नाशः स निर्गतो यस्याः ।",
+    "translation": {
+      "en": "Upaplava is destruction; she from whom it has gone.",
+      "hi": "उपप्लव का अर्थ है नाश; जिनसे वह दूर है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 143 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The nectar reading is Bhāskararāya’s second interpretation and is given as meaning only, with no practice. The sense ‘eclipse’ in the story layer is a dictionary sense of upaplava, not from the commentary." }
+}

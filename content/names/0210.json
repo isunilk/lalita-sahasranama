@@ -1,0 +1,43 @@
+{
+  "number": 210,
+  "verse": 53,
+  "slug": "maha-lakshmi",
+  "devanagari": "महालक्ष्मीः",
+  "iastSplit": "Mahā-lakṣmīḥ",
+  "archana": "ॐ महालक्ष्म्यै नमः",
+  "syllables": ["ma", "hā", "lak", "ṣmīḥ"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "लक्ष्मी", "meaning": { "en": "Lakṣmī, goddess of fortune; also used for Pārvatī", "hi": "लक्ष्मी, सौभाग्य की देवी; पार्वती के लिए भी प्रयुक्त" } }
+  ],
+  "meaning": {
+    "en": "Mahālakṣmī, the great goddess of fortune and grace",
+    "hi": "महालक्ष्मी, सौभाग्य और श्री की महान देवी"
+  },
+  "explanation": {
+    "en": "She is the great Lakṣmī: fortune, beauty and abundance in their highest form. The name is given to several forms of the one Devī, Śiva’s own Śakti among them.",
+    "hi": "वे महान लक्ष्मी हैं: सौभाग्य, सौन्दर्य और समृद्धि अपने परम रूप में। यह नाम एक ही देवी के कई रूपों को दिया जाता है, जिनमें शिव की अपनी शक्ति भी है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes the Mārkaṇḍeya Purāṇa: Mahālakṣmī is the first of all, and abides as possessing the three guṇas. He also cites the Śiva Purāṇa: seated on Śiva’s lap is the supreme Śakti, Māheśvarī, known as Mahālakṣmī, dark and enchanting to all. In this reading the name points to the primal Śakti, first of all.",
+    "hi": "भास्करराय मार्कण्डेय पुराण का वचन उद्धृत करते हैं: महालक्ष्मी सबकी आदि हैं, और त्रिगुणमयी होकर स्थित हैं। वे शिव पुराण का भी उल्लेख करते हैं: शिव की गोद में विराजमान परा शक्ति माहेश्वरी ही महालक्ष्मी नाम से प्रसिद्ध हैं, श्यामा और सबका मन हरने वाली। इस अर्थ में यह नाम उस आदि शक्ति की ओर संकेत करता है जो सबसे पहले है।"
+  },
+  "story": {
+    "en": "Bhāskararāya first takes the name from the Padma Purāṇa’s list of the Devī’s shrines, ‘at Karavīra, Mahālakṣmī’: the consort of Mahāviṣṇu, worshipped at Karavīra, known in this age as Kolhapur. He also cites the Mailāra Tantra, in which a portion of Ambikā is called Mahālasā and Mahālakṣmī because she destroyed the demon Mahāla, at the foot of the Sahyādri by the western sea, and adds that in the worship of young girls a girl of thirteen is called Mahālakṣmī.",
+    "hi": "भास्करराय पहले यह नाम पद्म पुराण की देवी-तीर्थों की सूची से लेते हैं, ‘करवीर में महालक्ष्मी’: महाविष्णु की पत्नी, जिनकी उपासना करवीर में होती है, जो इस युग में कोल्हापुर के नाम से प्रसिद्ध है। वे मैलार तन्त्र का भी उल्लेख करते हैं, जिसमें अम्बिका का एक अंश महाल नामक दैत्य का नाश करने के कारण महालसा और महालक्ष्मी कहलाता है, सह्याद्रि की तलहटी में पश्चिमी समुद्र के तट पर; और वे बताते हैं कि कन्या-पूजन में तेरह वर्ष की कन्या को महालक्ष्मी कहा जाता है।"
+  },
+  "commentary": {
+    "sanskrit": "परिगणितां देवीमाह महालक्ष्मीः । महती च सा लक्ष्मीश्च । महाविष्णोरियं पत्नी । करवीरं कलौ कोलापुरमिति प्रसिद्धम् ।",
+    "translation": {
+      "en": "The name speaks of the goddess listed there: Mahālakṣmī, she who is great and is Lakṣmī. She is the consort of Mahāviṣṇu. Karavīra is known in the Kali age as Kolhapur.",
+      "hi": "यह नाम वहाँ गिनाई गई देवी को कहता है: महालक्ष्मी, जो महती भी हैं और लक्ष्मी भी। वे महाविष्णु की पत्नी हैं। करवीर कलियुग में कोलापुर (कोल्हापुर) नाम से प्रसिद्ध है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 210 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya justifies the compound महत् + लक्ष्मी by Pāṇini’s सन्महत्परम… sūtra and notes that the Āyuṣya Sūkta uses लक्ष्मी for Pārvatī. The edition prints करवीरेः (for करवीरे), माकण्डेयपुराणञ्च (for मार्कण्डेय…) and धौम्यैन (for धौम्येन); none of these is in the quote." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 154,
+  "verse": 46,
+  "slug": "nir-upadhi",
+  "devanagari": "निरुपाधिः",
+  "iastSplit": "Nir-upādhiḥ",
+  "archana": "ॐ निरुपाधये नमः",
+  "syllables": ["ni", "ru", "pā", "dhiḥ"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free from", "hi": "रहित, बिना" } },
+    { "sa": "उपाधि", "meaning": { "en": "limiting adjunct: what lends its quality to a thing near it", "hi": "उपाधि: पास रहकर अपना गुण दूसरे पर आरोपित करने वाली वस्तु" } }
+  ],
+  "meaning": {
+    "en": "Free from every limiting adjunct",
+    "hi": "सब उपाधियों से रहित"
+  },
+  "explanation": {
+    "en": "An upādhi is something that, by being near, makes another thing seem to have its quality. A red hibiscus set beside a clear crystal makes the crystal look red, though the crystal itself has not changed. Nothing of this kind colours her.",
+    "hi": "‘उपाधि’ वह है जो पास रहकर दूसरी वस्तु में अपना गुण दिखा देती है। स्फटिक के पास रखा लाल जपा-पुष्प स्फटिक को लाल दिखाता है, यद्यपि स्फटिक स्वयं नहीं बदलता। उन्हें ऐसी कोई वस्तु नहीं रंगती।"
+  },
+  "inner": {
+    "en": "Bhāskararāya derives upādhi as ‘that which places its own property near’, and gives the classic example of the hibiscus and the crystal. In the same way, when consciousness appears divided, ignorance alone is the upādhi, and she is free of it. He adds a reading from logic, in which she is like a sound reason, free of the flaw that logicians call an upādhi, and a third: she has neither kind of property, divisible or indivisible.",
+    "hi": "भास्करराय ‘उपाधि’ की व्युत्पत्ति देते हैं, ‘जो पास रहकर अपना धर्म रख दे’, और जपा-पुष्प और स्फटिक का पारम्परिक उदाहरण देते हैं। उसी प्रकार जब चेतना भेद के साथ भासती है, तब अविद्या ही उपाधि है, और वे उससे रहित हैं। वे न्याय से एक अर्थ और देते हैं, जिसमें वे उस सद्धेतु के समान हैं जिसमें तर्कशास्त्र की ‘उपाधि’ नामक त्रुटि नहीं; और तीसरा अर्थ यह कि वे सखण्ड और अखण्ड, दोनों प्रकार की उपाधियों से शून्य हैं।"
+  },
+  "story": {
+    "en": "The hibiscus beside the crystal is a favourite image in Vedānta for how the unchanging Self seems coloured by body and mind. This is also the one name in verses 44 to 48 that does not end in -ā or -ī: nirupādhiḥ keeps its i-ending, and its archana is nirupādhaye namaḥ.",
+    "hi": "स्फटिक के पास जपा-पुष्प वेदान्त का प्रिय दृष्टान्त है, जो बताता है कि अविकारी आत्मा शरीर और मन के रंग में रंगी-सी कैसे दिखती है। श्लोक 44 से 48 में यही एक नाम है जो ‘आ’ या ‘ई’ पर समाप्त नहीं होता: ‘निरुपाधिः’ अपना इकारान्त रूप रखता है, और इसकी अर्चना ‘निरुपाधये नमः’ है।"
+  },
+  "commentary": {
+    "sanskrit": "स्वीयं लौहित्यं सामीप्यमात्रेण स्फटिके समर्पयज्जपाकुसुममुपाधिः । तद्वच्चितेर्भेदेन भानेऽविद्यैवोपाधिस्तद्रहिता निरुपाधिः ।",
+    "translation": {
+      "en": "The hibiscus flower that lends its redness to a crystal merely by being near is an upādhi. So too, when consciousness shines as divided, ignorance alone is the upādhi; free of it, she is Nirupādhi.",
+      "hi": "जो जपा-पुष्प केवल समीपता से स्फटिक में अपनी लालिमा रख देता है, वह उपाधि है। उसी प्रकार जब चेतना भेद के साथ भासती है, तब अविद्या ही उपाधि है; उससे रहित होने के कारण वे निरुपाधि हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 154 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Archana निरुपाधये kept from the web list: for a feminine i-stem both निरुपाधये and निरुपाध्यै are grammatical, and Bhāskararāya does not discuss the form here. The logic reading (व्याप्यत्वासिद्ध्यभावः सद्धेतुः) is summarized loosely." }
+}

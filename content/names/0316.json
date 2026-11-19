@@ -1,0 +1,43 @@
+{
+  "number": 316,
+  "verse": 72,
+  "slug": "rati-priya",
+  "devanagari": "रतिप्रिया",
+  "iastSplit": "Rati-priyā",
+  "archana": "ॐ रतिप्रियायै नमः",
+  "syllables": ["ra", "tip", "ri", "yā"],
+  "words": [
+    { "sa": "रति", "meaning": { "en": "Rati, wife of Kāma; love’s delight", "hi": "रति, कामदेव की पत्नी; प्रेम का आनन्द" } },
+    { "sa": "प्रिया", "meaning": { "en": "dear; fond of", "hi": "प्रिय, प्यारी" } }
+  ],
+  "meaning": {
+    "en": "To whom Rati is dear; who delights in love",
+    "hi": "जिन्हें रति प्रिय हैं; प्रेम में आनन्द लेने वाली"
+  },
+  "explanation": {
+    "en": "Bhāskararāya gives two readings. Rati, Kāma’s wife, is dear to her; or rata, love’s play, is dear to her.",
+    "hi": "भास्करराय दो अर्थ देते हैं: काम की पत्नी रति उन्हें प्रिय हैं; अथवा ‘रत’ अर्थात् प्रेम-क्रीड़ा उन्हें प्रिय है।"
+  },
+  "inner": {
+    "en": "He adds nothing further here. Beside Ratirūpā, the name keeps the two close: Rati is her form, and Rati is dear to her as one’s own likeness is dear. Love in this hymn is not set against the sacred; its source is the Devī herself.",
+    "hi": "यहाँ वे इससे अधिक कुछ नहीं कहते। ‘रतिरूपा’ के साथ यह नाम दोनों को निकट रखता है: रति उनका रूप हैं, और रति उन्हें वैसे ही प्रिय हैं जैसे अपना ही प्रतिरूप। इस स्तोत्र में प्रेम पवित्रता का विरोधी नहीं; उसका स्रोत स्वयं देवी हैं।"
+  },
+  "story": {
+    "en": "The bond between them is part of the story: in name 84 the Devī is the herb of life that restored Rati’s husband Kāma after Śiva’s eye had burnt him. This name completes the first line of verse 72.",
+    "hi": "दोनों का यह सम्बन्ध कथा में भी है: नाम 84 में देवी वह संजीवनी औषधि हैं जिसने शिव के नेत्र से भस्म हुए रति के पति काम को फिर से जीवन दिया। यह नाम श्लोक 72 की पहली पंक्ति को पूर्ण करता है।"
+  },
+  "commentary": {
+    "sanskrit": "रतिः कामपत्नी रतं वा प्रियं यस्याः ।",
+    "translation": {
+      "en": "She to whom Rati, Kāma’s wife, is dear; or to whom rata, love’s play, is dear.",
+      "hi": "जिन्हें काम की पत्नी रति प्रिय हैं, अथवा जिन्हें रत अर्थात् रति-क्रीड़ा प्रिय है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 316 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the two literal senses; the inner layer after its first sentence is a reflection, and the link to name 84 in the story is the drafter’s." }
+}

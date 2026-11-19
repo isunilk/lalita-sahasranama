@@ -1,0 +1,43 @@
+{
+  "number": 429,
+  "verse": 91,
+  "slug": "nisima-mahima",
+  "devanagari": "निःसीममहिमा",
+  "iastSplit": "Niḥsīma-mahimā",
+  "archana": "ॐ निःसीममहिम्ने नमः",
+  "syllables": ["niḥ", "sī", "ma", "ma", "hi", "mā"],
+  "words": [
+    { "sa": "निःसीम", "meaning": { "en": "boundless, without limit", "hi": "असीम, निःसीम" } },
+    { "sa": "महिमन्", "meaning": { "en": "greatness, glory", "hi": "महिमा" } }
+  ],
+  "meaning": {
+    "en": "Whose greatness has no limit",
+    "hi": "जिनकी महिमा की कोई सीमा नहीं"
+  },
+  "explanation": {
+    "en": "Her greatness has gone beyond every boundary. Whatever measure one sets, her glory goes past it.",
+    "hi": "उनकी महिमा हर सीमा को पार कर गई है। कोई भी माप रखें, उनकी महिमा उससे आगे निकल जाती है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives the literal sense, ‘whose greatness is without end’, and no further hidden meaning. The thought echoes Aprameyā (413): what cannot be measured cannot be bounded either.",
+    "hi": "भास्करराय शाब्दिक अर्थ देते हैं, ‘जिनकी महिमा अवधि-रहित है’, और कोई गूढ़ अर्थ नहीं देते। यह भाव ‘अप्रमेया’ (413) की प्रतिध्वनि है: जिसे मापा नहीं जा सकता, उसे सीमा में भी नहीं बाँधा जा सकता।"
+  },
+  "story": {
+    "en": "Bhāskararāya settles the archana. Because mahiman ends in -man, the feminine suffix -ī is not added, but -ā may be added optionally, so both niḥsīma-mahimne namaḥ and niḥsīma-mahimāyai namaḥ are correct. This site uses the first, as the nāmāvalī does.",
+    "hi": "भास्करराय अर्चना का रूप तय करते हैं। ‘महिमन्’ के ‘मन्’ में अन्त होने से स्त्रीलिंग ‘ई’ प्रत्यय नहीं लगता, पर ‘आ’ विकल्प से लग सकता है; इसलिए ‘निःसीममहिम्ने नमः’ और ‘निःसीममहिमायै नमः’ दोनों शुद्ध हैं। यहाँ नामावली के अनुसार पहला रूप लिया गया है।"
+  },
+  "commentary": {
+    "sanskrit": "निष्क्रान्तः सीमानं सीमां वा निःसीमा निःसीमो वा निरवधिको महिमा यस्याः ।",
+    "translation": {
+      "en": "She whose greatness has gone beyond (niṣkrānta) the boundary, the limit: whose glory is without end.",
+      "hi": "जिनकी महिमा सीमा को लाँघ गई है, अर्थात् अवधि-रहित है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 429 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Archana निःसीममहिम्ने as in the nāmāvalī; Bhāskararāya allows निःसीममहिमायै as well. The second sentence of the inner layer is a reflection." }
+}

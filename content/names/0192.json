@@ -1,0 +1,43 @@
+{
+  "number": 192,
+  "verse": 50,
+  "slug": "sukha-prada",
+  "devanagari": "सुखप्रदा",
+  "iastSplit": "Sukha-pradā",
+  "archana": "ॐ सुखप्रदायै नमः",
+  "syllables": ["su", "khap", "ra", "dā"],
+  "words": [
+    { "sa": "सुख", "meaning": { "en": "happiness, joy", "hi": "सुख, आनन्द" } },
+    { "sa": "प्रदा", "meaning": { "en": "she who gives abundantly", "hi": "भरपूर देने वाली" } }
+  ],
+  "meaning": {
+    "en": "Giver of happiness, here, hereafter and in liberation",
+    "hi": "इस लोक, परलोक और मोक्ष का सुख देने वाली"
+  },
+  "explanation": {
+    "en": "She gives happiness generously, and of every kind: the joys of this life, the joys of the worlds beyond, and the lasting bliss of liberation.",
+    "hi": "वे हर प्रकार का सुख उदारता से देती हैं: इस जीवन के सुख, परलोक के सुख, और मोक्ष का अक्षय आनन्द।"
+  },
+  "inner": {
+    "en": "Bhāskararāya takes the prefix pra- as ‘in abundance’ and names three kinds of happiness: of this world, of the next, and kaivalya, liberation. He supports it with the Taittirīya Upaniṣad’s words that on gaining the rasa, the essence, one becomes blissful. For the full account he refers the reader to six chapters near the end of the Puṣkara Khaṇḍa of the Padma Purāṇa.",
+    "hi": "भास्करराय ‘प्र’ उपसर्ग का अर्थ ‘प्रचुरता से’ लेते हैं और तीन प्रकार के सुख बताते हैं: इस लोक का, परलोक का, और कैवल्य अर्थात् मोक्ष का। इसके समर्थन में वे तैत्तिरीय उपनिषद् का वचन देते हैं कि रस, अर्थात् उस सार तत्त्व, को पाकर ही यह जीव आनन्दी होता है। विस्तार के लिए वे पद्म पुराण के पुष्कर खण्ड के अन्तिम भाग के छह अध्याय देखने को कहते हैं।"
+  },
+  "story": {
+    "en": "Verse 50 moves from her inaccessibility (durlabhā, durgamā) to her protection (Durgā), and ends with her gifts: the end of sorrow and the giving of joy.",
+    "hi": "श्लोक 50 उनकी दुर्गमता (दुर्लभा, दुर्गमा) से उनकी रक्षा (दुर्गा) तक जाता है, और उनके वरदानों पर समाप्त होता है: दुःख का अन्त और सुख का दान।"
+  },
+  "commentary": {
+    "sanskrit": "सुखान्यैहिकामुष्मिककैवल्यरूपाणि प्रकर्षेण दत्ते सुखप्रदा ।",
+    "translation": {
+      "en": "She gives in abundance the happiness of this world, of the next, and of kaivalya: hence sukhapradā.",
+      "hi": "इस लोक, परलोक और कैवल्य रूपी सुखों को वे प्रचुरता से देती हैं, इसलिए वे सुखप्रदा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 192 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Taittirīya passage (2.7) is printed in the edition as रस्ह्येवायं, a misprint for रसं ह्येवायं; it is paraphrased, not quoted. The reading of verse 50 in the story layer is an observation." }
+}

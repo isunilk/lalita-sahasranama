@@ -1,0 +1,43 @@
+{
+  "number": 171,
+  "verse": 48,
+  "slug": "lobha-nashini",
+  "devanagari": "लोभनाशिनी",
+  "iastSplit": "Lobha-nāśinī",
+  "archana": "ॐ लोभनाशिन्यै नमः",
+  "syllables": ["lo", "bha", "nā", "śi", "nī"],
+  "words": [
+    { "sa": "लोभ", "meaning": { "en": "greed", "hi": "लोभ, लालच" } },
+    { "sa": "नाशिनी", "meaning": { "en": "she who destroys", "hi": "नाश करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Destroyer of greed in her devotees",
+    "hi": "भक्तों के लोभ का नाश करने वाली"
+  },
+  "explanation": {
+    "en": "She destroys the greed of those who turn to her. The grasping hand learns to open.",
+    "hi": "जो उनकी ओर मुड़ते हैं, उनके लोभ का वे नाश करती हैं। पकड़ने वाला हाथ खुलना सीख जाता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya recalls the saying that greed kills all virtues, and says she destroys this condemned greed in her devotees. He gives no further hidden meaning. Greed is one of the six inner enemies, and in his reading giving them up is itself the means of reaching her.",
+    "hi": "भास्करराय यह कहावत याद दिलाते हैं कि लोभ सारे गुणों को नष्ट कर देता है, और कहते हैं कि वे भक्तों के इस निन्दित लोभ का नाश करती हैं। वे इससे आगे कोई गूढ़ अर्थ नहीं देते। लोभ छह आन्तरिक शत्रुओं में से एक है, और उनके अनुसार इनका त्याग ही देवी तक पहुँचने का साधन है।"
+  },
+  "story": {
+    "en": "With this the first half of verse 48 ends. The pattern holds: Nirlobhā, she has no greed; Lobhanāśinī, she removes it from others.",
+    "hi": "इसके साथ श्लोक 48 की पहली पंक्ति पूरी होती है। क्रम वही है: ‘निर्लोभा’, उनमें लोभ नहीं; ‘लोभनाशिनी’, वे दूसरों से उसे दूर करती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "लोभः सर्वगुणान्हन्तीति निन्दितं लोभं भक्तानां नाशयतीति तथा ।",
+    "translation": {
+      "en": "She destroys in her devotees greed, condemned in the words ‘greed kills all virtues’; hence so named.",
+      "hi": "‘लोभ सब गुणों को नष्ट कर देता है’, इस प्रकार निन्दित लोभ का वे भक्तों में नाश करती हैं, इसलिए लोभनाशिनी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 171 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude." }
+}

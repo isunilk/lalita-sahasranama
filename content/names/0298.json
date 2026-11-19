@@ -1,0 +1,42 @@
+{
+  "number": 298,
+  "verse": 70,
+  "slug": "narayani",
+  "devanagari": "नारायणी",
+  "iastSplit": "Nārāyaṇī",
+  "archana": "ॐ नारायण्यै नमः",
+  "syllables": ["nā", "rā", "ya", "ṇī"],
+  "words": [
+    { "sa": "नारायणी", "meaning": { "en": "Nārāyaṇī: she who belongs to Nārāyaṇa, as his sister or his consort", "hi": "नारायणी: नारायण से सम्बन्धित, उनकी भगिनी या उनकी शक्ति" } }
+  ],
+  "meaning": {
+    "en": "Nārāyaṇī, one with Nārāyaṇa",
+    "hi": "नारायणी, नारायण से अभिन्न"
+  },
+  "explanation": {
+    "en": "Nārāyaṇī is the feminine of Nārāyaṇa. Bhāskararāya notes that Nārāyaṇa can name Śiva as well as Viṣṇu, and in the end he prefers the sense “sister of Nārāyaṇa”, since the grammar that forms such feminines covers a woman’s relation to a brother as well as to a husband.",
+    "hi": "‘नारायणी’ ‘नारायण’ का स्त्रीलिंग रूप है। भास्करराय बताते हैं कि ‘नारायण’ शिव का भी नाम हो सकता है और विष्णु का भी; और अन्ततः वे ‘नारायण की भगिनी’ अर्थ को ही वास्तविक मानते हैं, क्योंकि ऐसे स्त्रीलिंग रूप बनाने वाला व्याकरण-नियम पति के साथ ही भाई के साथ सम्बन्ध पर भी लागू होता है।"
+  },
+  "inner": {
+    "en": "He gathers the meanings of Nārāyaṇa. Manu says the waters are called nārā, and he whose resting place (ayana) they are is Nārāyaṇa; a Mahābhārata verse calls the principles born of Nara nārāṇi and their abode Nārāyaṇa, whom Bhāskararāya takes as Paramaśiva, so that she is his consort. He also quotes the Kūrma Purāṇa, where the Lord says, “I am Nārāyaṇa, and Gaurī, the eternal mother of the world”, having divided himself into both.",
+    "hi": "वे ‘नारायण’ के अर्थ एकत्र करते हैं। मनु कहते हैं कि जल को ‘नारा’ कहते हैं, और जिनका अयन अर्थात् आश्रय जल है, वे नारायण हैं; महाभारत का एक श्लोक नर से उत्पन्न तत्त्वों को ‘नार’ और उनके आश्रय को नारायण कहता है, जिन्हें भास्करराय परमशिव मानते हैं, और देवी उनकी शक्ति हैं। वे कूर्म पुराण का वचन भी देते हैं, जिसमें परमेश्वर कहते हैं: ‘मैं ही नारायण हूँ और मैं ही सनातनी जगन्माता गौरी’, अपने को इन दोनों में विभक्त करके।"
+  },
+  "story": {
+    "en": "Bhāskararāya adds that she is worshipped as Nārāyaṇī at the holy place of Supārśva, citing the Padma Purāṇa’s chapter on the Devī’s shrines. Earlier the hymn told how the ten forms of Nārāyaṇa sprang from her fingernails in the war with Bhaṇḍāsura (name 80).",
+    "hi": "पद्म पुराण के देवी-क्षेत्रों वाले अध्याय का प्रमाण देकर भास्करराय बताते हैं कि सुपार्श्व क्षेत्र में वे नारायणी के नाम से प्रसिद्ध हैं। इससे पहले स्तोत्र बता चुका है कि भण्डासुर से युद्ध में नारायण के दस अवतार उनके नखों से प्रकट हुए थे (नाम 80)।"
+  },
+  "commentary": {
+    "sanskrit": "तेनेह भ्रातृभगिनीभावरूपे पुंयोगे ङीप् । नारायणभगिनीत्यर्थः ।",
+    "translation": {
+      "en": "So here the feminine suffix is used for a relation to a male that is that of brother and sister: the meaning is “sister of Nārāyaṇa”.",
+      "hi": "अतः यहाँ भाई-बहन के सम्बन्ध रूपी पुंयोग में स्त्रीप्रत्यय (ङीप्) हुआ है; अर्थ है ‘नारायण की भगिनी’।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 298 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives several readings (consort of Nārāyaṇa as Śiva or Viṣṇu, identity with Lakṣmī, identity of Nārāyaṇa with Gaurī) and marks “sister of Nārāyaṇa” as the real sense (वस्तुतस्तु); he says the phrase नारायणीसहचराय नमः शिवाय is explained the same way. The Devī Purāṇa verse he quotes is printed with a query (?) and is not used." }
+}

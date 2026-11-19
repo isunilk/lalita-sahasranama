@@ -1,0 +1,44 @@
+{
+  "number": 379,
+  "verse": 83,
+  "slug": "odyana-pitha-nilaya",
+  "devanagari": "ओड्याणपीठनिलया",
+  "iastSplit": "Oḍyāṇa-pīṭha-nilayā",
+  "archana": "ॐ ओड्याणपीठनिलयायै नमः",
+  "syllables": ["oḍ", "yā", "ṇa", "pī", "ṭha", "ni", "la", "yā"],
+  "words": [
+    { "sa": "ओड्याण", "meaning": { "en": "Oḍyāṇa, one of the four great seats", "hi": "ओड्याण, चार महापीठों में एक" } },
+    { "sa": "पीठ", "meaning": { "en": "sacred seat", "hi": "पीठ" } },
+    { "sa": "निलय", "meaning": { "en": "dwelling, abode", "hi": "निवास, आलय" } }
+  ],
+  "meaning": {
+    "en": "Whose dwelling is the sacred seat of Oḍyāṇa",
+    "hi": "ओड्याण पीठ जिनका निवास है"
+  },
+  "explanation": {
+    "en": "Oḍyāṇa is the fourth of the great seats of Śrīvidyā, and it is her home. With Jālandhara in the previous name, and Kāmarūpa and Pūrṇagiri hinted at before it, the four seats are complete.",
+    "hi": "ओड्याण श्रीविद्या के महापीठों में चौथा है, और वही उनका निवास है। पिछले नाम के जालन्धर और उससे पहले संकेतित कामरूप और पूर्णगिरि के साथ चारों पीठ पूरे होते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya glosses the name simply: the seat called Oḍyāṇa is her dwelling. In his account the tantras place the four seats in the body from the mūlādhāra up to the ājñā, so Oḍyāṇa, the last, is at the ājñā, between the brows. The next name rises beyond all four, to the bindu itself.",
+    "hi": "भास्करराय इस नाम का सीधा अर्थ देते हैं: ओड्याण नामक पीठ उनका निवास है। उनके वर्णन में तन्त्र शरीर में चारों पीठों को मूलाधार से आज्ञा तक रखते हैं, इसलिए अन्तिम, ओड्याण, आज्ञा में, भौंहों के बीच है। अगला नाम इन चारों से ऊपर, स्वयं बिन्दु तक जाता है।"
+  },
+  "story": {
+    "en": "Oḍyāṇa closes the list of the four great seats. Bhāskararāya, after the Nityāhṛdaya, sets the four seats beside the fourfold unfolding of sound: the causal bindu, the effect bindu, nāda and bīja.",
+    "hi": "ओड्याण चार महापीठों की सूची पूरी करता है। भास्करराय नित्याहृदय के आधार पर चारों पीठों को शब्द के प्रकट होने के चतुर्विध क्रम के साथ रखते हैं: कारण-बिन्दु, कार्य-बिन्दु, नाद और बीज।"
+  },
+  "commentary": {
+    "sanskrit": "ओड्याणाख्यं पीठमेव निलयो वासस्थानं यस्याः ।",
+    "translation": {
+      "en": "She whose nilaya, dwelling-place, is the seat called Oḍyāṇa.",
+      "hi": "ओड्याण नामक पीठ ही जिनका निलय, अर्थात् निवास-स्थान, है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 379 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense under this name; the placing at the ājñā follows the order of his list of bodily stations given under name 376 (see the note on name 378). Bindu, nāda and bīja here are stages of sound in his account, not mantras." }
+}

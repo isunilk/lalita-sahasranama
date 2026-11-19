@@ -1,0 +1,46 @@
+{
+  "number": 493,
+  "verse": 101,
+  "slug": "maha-virendra-varada",
+  "devanagari": "महावीरेन्द्रवरदा",
+  "iastSplit": "Mahā-vīrendra-varadā",
+  "archana": "ॐ महावीरेन्द्रवरदायै नमः",
+  "syllables": ["ma", "hā", "vī", "ren", "dra", "va", "ra", "dā"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "वीर", "meaning": { "en": "hero", "hi": "वीर" } },
+    { "sa": "इन्द्र", "meaning": { "en": "chief, lord", "hi": "इन्द्र, श्रेष्ठ, स्वामी" } },
+    { "sa": "वर", "meaning": { "en": "boon", "hi": "वर, वरदान" } },
+    { "sa": "दा", "meaning": { "en": "giver", "hi": "देने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who grants boons to the foremost of great heroes",
+    "hi": "महावीरों में श्रेष्ठ जनों को वर देने वाली"
+  },
+  "explanation": {
+    "en": "Vīra means hero, indra here means chief, and varadā is she who grants boons. Rākiṇī gives boons to the foremost among the great heroes, and the meditation verse Bhāskararāya quotes calls her revered by them. Who these heroes are, he answers in several ways.",
+    "hi": "‘वीर’ का अर्थ है वीर, ‘इन्द्र’ यहाँ श्रेष्ठ या स्वामी, और ‘वरदा’ वर देने वाली। राकिणी महावीरों में श्रेष्ठ जनों को वर देती हैं, और भास्करराय के उद्धृत ध्यान-श्लोक में उन्हें उनके द्वारा वन्दित कहा गया है। ये वीर कौन हैं, इसके वे कई उत्तर देते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya’s readings move inward. The vīras may be praisers gifted with wondrous speech; or, taking mahāvīra as a soma vessel of the Vedic rite, they are those who drink the nectar of Brahman, and their ‘indras’ are knowers of Brahman who see it directly as their own Self. Or, after the Śiva Sūtra’s ‘the enjoyer of the three is the lord of heroes’, they are those who stay attuned to the fourth state, turīya, through waking, dream and deep sleep; a verse of Varadarāja that he quotes makes the ‘heroes’ the senses that run outward and inward, and their lord the one who masters them.",
+    "hi": "भास्करराय के अर्थ क्रमशः भीतर की ओर ले जाते हैं। वीर वे स्तुतिकर्ता हो सकते हैं जिनकी वाणी अद्भुत है; या ‘महावीर’ को वैदिक यज्ञ का सोम-पात्र मानें, तो वीर वे हैं जो ब्रह्मरस रूपी अमृत का पान करते हैं, और उनमें ‘इन्द्र’ वे ब्रह्मवेत्ता हैं जो ब्रह्म को प्रत्यक्ष अपनी आत्मा के रूप में देखते हैं। या शिवसूत्र के वचन ‘तीनों का भोक्ता वीरेश है’ के अनुसार, वे हैं जो जाग्रत्, स्वप्न और सुषुप्ति तीनों में तुरीय अवस्था का अनुसन्धान बनाए रखते हैं; वरदराज का जो श्लोक वे उद्धृत करते हैं, उसमें ‘वीर’ भीतर-बाहर दौड़ने वाली इन्द्रियाँ हैं, और उनका स्वामी वह है जो उन्हें वश में रखता है।"
+  },
+  "story": {
+    "en": "His last reading recalls a story: mahāvīra is Prahlāda and indra is Śakra, king of the gods. In the fourth book of the Devī Bhāgavata, after Śakra and Prahlāda had fought for a hundred divine years, both praised the Goddess, and she granted boons to both.",
+    "hi": "उनका अन्तिम अर्थ एक कथा की याद दिलाता है: ‘महावीर’ प्रह्लाद हैं और ‘इन्द्र’ देवराज शक्र। देवीभागवत के चौथे स्कन्ध में शक्र और प्रह्लाद के बीच सौ दिव्य वर्षों तक युद्ध चलने के बाद दोनों ने भगवती की स्तुति की, और उन्होंने दोनों को वर दिया।"
+  },
+  "commentary": {
+    "sanskrit": "अथवा महावीरः प्रह्लाद इन्द्रः शक्रश्च । देवीभागवते चतुर्थस्कन्धे शक्रप्रह्लादयोर्दिव्यवर्षशतं युद्धे जाते पश्चादुभाभ्यां स्तुता भगवती द्वयोरपि वरमदादिति कथानकस्मरणात् तेभ्यो वरं ददातीति तथा ।।",
+    "translation": {
+      "en": "Or else: mahāvīra is Prahlāda, and indra is Śakra. Recalling the story in the fourth book of the Devī Bhāgavata, where after a war of a hundred divine years between Śakra and Prahlāda the Goddess, praised by both, gave a boon to each, she is the one who gives boons to them.",
+      "hi": "अथवा, ‘महावीर’ प्रह्लाद हैं और ‘इन्द्र’ शक्र। देवीभागवत के चौथे स्कन्ध की उस कथा के स्मरण से, जिसमें शक्र और प्रह्लाद के सौ दिव्य वर्षों के युद्ध के बाद दोनों से स्तुत भगवती ने दोनों को वर दिया, वे उन्हें वर देने वाली हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 493 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives four readings; the quotation is the last. The edition prints the stray words वक्त्रेणैकेन before this name’s heading, apparently a misprint; it also prints त्रितयाभोक्ता for the Śiva Sūtra’s त्रितयभोक्ता (1.11) and जागराद्यवस्थात्रऽयेपि with a stray avagraha. He cites the Vedic passages (on the महावीर vessel and on the name इन्द्र) without naming their source, so none is named here." }
+}

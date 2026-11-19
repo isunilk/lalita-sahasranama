@@ -1,0 +1,44 @@
+{
+  "number": 492,
+  "verse": 101,
+  "slug": "snigdhaudana-priya",
+  "devanagari": "स्निग्धौदनप्रिया",
+  "iastSplit": "Snigdhaudana-priyā",
+  "archana": "ॐ स्निग्धौदनप्रियायै नमः",
+  "syllables": ["snig", "dhau", "da", "nap", "ri", "yā"],
+  "words": [
+    { "sa": "स्निग्ध", "meaning": { "en": "glistening, rich with ghee", "hi": "स्निग्ध, घी से युक्त" } },
+    { "sa": "ओदन", "meaning": { "en": "cooked rice", "hi": "भात" } },
+    { "sa": "प्रिय", "meaning": { "en": "dear", "hi": "प्रिय" } }
+  ],
+  "meaning": {
+    "en": "Fond of rice glistening with ghee",
+    "hi": "जिन्हें घी से स्निग्ध भात प्रिय है"
+  },
+  "explanation": {
+    "en": "Snigdha means glossy or rich. Bhāskararāya explains it as rice steeped in ghee: that is the food Rākiṇī loves.",
+    "hi": "‘स्निग्ध’ का अर्थ है चिकना, घी से भरपूर। भास्करराय इसे घी में डूबा भात बताते हैं: यही अन्न राकिणी को प्रिय है।"
+  },
+  "inner": {
+    "en": "He gives only the literal sense here, and no hidden meaning. The word snigdha also means tender and affectionate, and it suits the yoginī of the heart that her food should be the rich and gentle one.",
+    "hi": "यहाँ वे केवल शाब्दिक अर्थ देते हैं, कोई गूढ़ अर्थ नहीं। ‘स्निग्ध’ का अर्थ स्नेहपूर्ण भी होता है, और हृदय की योगिनी के लिए यह उचित ही है कि उनका प्रिय अन्न स्नेह से भरा, कोमल अन्न हो।"
+  },
+  "story": {
+    "en": "Each yoginī has her favourite dish in these names: milk-rice for Ḍākinī, ghee-rice for Rākiṇī, jaggery-rice for Lākinī, curd-rice for Kākinī, rice with green gram for Sākinī, turmeric rice for Hākinī, and every kind of rice for Yākinī. The meditation verse Bhāskararāya quotes calls Rākiṇī snigdhabhaktaikasaktā, devoted to rich rice alone.",
+    "hi": "इन नामों में हर योगिनी का अपना प्रिय अन्न है: डाकिनी के लिए खीर, राकिणी के लिए घी वाला भात, लाकिनी के लिए गुड़ वाला भात, काकिनी के लिए दही-भात, साकिनी के लिए मूँग-भात, हाकिनी के लिए हल्दी वाला भात, और याकिनी के लिए हर प्रकार का भात। भास्करराय के उद्धृत ध्यान-श्लोक में राकिणी को ‘स्निग्धभक्तैकसक्ता’, अर्थात् केवल स्निग्ध भात में रुचि रखने वाली, कहा गया है।"
+  },
+  "commentary": {
+    "sanskrit": "स्निग्धो घृतप्लुत ओदनः प्रियो यस्याः ।",
+    "translation": {
+      "en": "She to whom snigdha odana, rice steeped in ghee, is dear.",
+      "hi": "जिन्हें स्निग्ध ओदन, अर्थात् घी में डूबा भात, प्रिय है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 492 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the second sentence of the inner layer is a reflection. The list of foods in the story comes from the names themselves (480, 492, 501, 512, 519, 526, 533)." }
+}

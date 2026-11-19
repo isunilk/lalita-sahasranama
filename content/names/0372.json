@@ -1,0 +1,44 @@
+{
+  "number": 372,
+  "verse": 81,
+  "slug": "bhakta-manasa-hamsika",
+  "devanagari": "भक्तमानसहंसिका",
+  "iastSplit": "Bhakta-mānasa-haṃsikā",
+  "archana": "ॐ भक्तमानसहंसिकायै नमः",
+  "syllables": ["bhak", "ta", "mā", "na", "sa", "haṃ", "si", "kā"],
+  "words": [
+    { "sa": "भक्त", "meaning": { "en": "devotee", "hi": "भक्त" } },
+    { "sa": "मानस", "meaning": { "en": "mind; also Lake Mānasa", "hi": "मन; मानसरोवर भी" } },
+    { "sa": "हंसिका", "meaning": { "en": "female swan", "hi": "हंसिनी" } }
+  ],
+  "meaning": {
+    "en": "The swan in the lake of her devotees’ minds",
+    "hi": "भक्तों के मन रूपी मानसरोवर की हंसिनी"
+  },
+  "explanation": {
+    "en": "Mānasa means the mind, and it is also the name of Lake Mānasa in the Himalaya, the home of swans in Indian poetry. She is the swan who lives and plays in the minds of her devotees.",
+    "hi": "‘मानस’ का अर्थ मन है, और यह हिमालय के मानसरोवर का भी नाम है, जिसे भारतीय काव्य में हंसों का निवास माना गया है। वे वह हंसिनी हैं जो अपने भक्तों के मन में निवास और विहार करती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya builds the name on a pun: the devotee’s mind and the lake are treated as one. He also explains the small suffix -ka in haṃsikā: it marks something unknown, for she is unknown to others. The swan is seen on the lake it loves; she is found in the minds of those devoted to her, and stays hidden from the rest.",
+    "hi": "भास्करराय यह नाम श्लेष पर रचा हुआ बताते हैं: भक्त का मन और मानसरोवर एक मान लिए गए हैं। वे ‘हंसिका’ के छोटे-से ‘क’ प्रत्यय का अर्थ भी बताते हैं: यह अज्ञात होने का सूचक है, क्योंकि दूसरे उन्हें नहीं जानते। हंस उसी सरोवर पर दिखता है जिससे उसे प्रेम है; वे भी भक्तों के मन में मिलती हैं, और बाकियों से छिपी रहती हैं।"
+  },
+  "story": {
+    "en": "The name closes verse 81. After the names of the levels of speech, the verse ends with an image from poetry: as swans come to Lake Mānasa, the goddess comes to a devoted mind.",
+    "hi": "यह नाम श्लोक 81 को पूरा करता है। वाणी के स्तरों के नामों के बाद श्लोक काव्य के एक चित्र पर समाप्त होता है: जैसे हंस मानसरोवर पर आते हैं, वैसे ही देवी भक्त के मन में आती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "भक्तानां मानसे चित्ते श्लेषभित्तिकाभेदाध्यवसायेन सरोविशेषे हंसीव हंसिका । परैरज्ञातत्वात्कप्रत्ययः ।",
+    "translation": {
+      "en": "In the mānasa, the mind, of devotees, which by a pun is taken as one with a certain lake, she is like a swan: haṃsikā. The suffix -ka is used because she is unknown to others.",
+      "hi": "भक्तों के मानस, अर्थात् चित्त, में, जिसे श्लेष के आधार पर एक विशेष सरोवर से अभिन्न माना गया है, वे हंसी के समान हैं, इसलिए ‘हंसिका’। दूसरों के द्वारा अज्ञात होने से ‘क’ प्रत्यय लगा है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 372 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya explains the -ka suffix as marking the unknown (ajñāte); the last sentence of the inner layer is a reflection on that." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 424,
+  "verse": 91,
+  "slug": "tattvasana",
+  "devanagari": "तत्त्वासना",
+  "iastSplit": "Tattvāsanā",
+  "archana": "ॐ तत्त्वासनायै नमः",
+  "syllables": ["tat", "tvā", "sa", "nā"],
+  "words": [
+    { "sa": "तत्त्व", "meaning": { "en": "principle of reality (the thirty-six tattvas)", "hi": "तत्त्व (छत्तीस तत्त्व)" } },
+    { "sa": "आसन", "meaning": { "en": "seat, throne", "hi": "आसन" } }
+  ],
+  "meaning": {
+    "en": "Whose seat is the tattvas, the principles of reality",
+    "hi": "तत्त्व ही जिनका आसन हैं"
+  },
+  "explanation": {
+    "en": "Tattvas are the principles from which the universe is built, thirty-six of them in the Śaiva and Śākta tradition, from Śiva down to earth. She sits upon them all as on a throne.",
+    "hi": "तत्त्व वे मूल सिद्धान्त हैं जिनसे ब्रह्माण्ड बना है; शैव और शाक्त परम्परा में ये छत्तीस हैं, शिव से लेकर पृथ्वी तक। वे इन सब पर सिंहासन की भाँति विराजती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya calls this seat the Yogapīṭha. He also reads the name as tattva + asanā, ‘she who casts off the tattvas’: the one who sits above all the principles of existence can also dissolve them. She rules the whole of manifestation and is not bound by it.",
+    "hi": "भास्करराय इस आसन को ‘योगपीठ’ कहते हैं। वे इस नाम को ‘तत्त्व + असना’ के रूप में भी पढ़ते हैं, ‘जो तत्त्वों को फेंक देती हैं’: जो अस्तित्व के सब तत्त्वों के ऊपर विराजती हैं, वही उन्हें विलीन भी कर सकती हैं। वे पूरी सृष्टि पर शासन करती हैं, पर उससे बँधी नहीं हैं।"
+  },
+  "story": {
+    "en": "In the chanted verse this name is followed by the word tattvamayī. Bhāskararāya, following the traditional count, takes that word as three names, tat, tvam and ayī (425–427), so verse 91 holds eight names, not six.",
+    "hi": "पाठ किए जाने वाले श्लोक में इस नाम के बाद ‘तत्त्वमयी’ शब्द आता है। परम्परागत गणना का अनुसरण करते हुए भास्करराय उस शब्द को तीन नाम मानते हैं, तत्, त्वम् और अयी (425–427), इसलिए श्लोक 91 में छह नहीं, आठ नाम हैं।"
+  },
+  "commentary": {
+    "sanskrit": "शिवादिक्षित्यन्तानि षट्त्रिंशत्तत्त्वान्येवासनं योगपीठाख्यमासनं यस्याः । तत्त्वान्यस्यति क्षिपतीति वा ।",
+    "translation": {
+      "en": "She whose seat, the seat called Yogapīṭha, is the thirty-six tattvas, from Śiva to earth. Or: she who throws off (asyati) the tattvas.",
+      "hi": "शिव से पृथ्वी तक के छत्तीस तत्त्व ही जिनका ‘योगपीठ’ नामक आसन हैं। अथवा, जो तत्त्वों को फेंकती (‘अस्यति’) हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 424 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The last two clauses of the inner layer (dissolving the tattvas; not bound by manifestation) are a reflection on his second reading." }
+}

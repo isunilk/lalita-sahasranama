@@ -1,0 +1,45 @@
+{
+  "number": 381,
+  "verse": 83,
+  "slug": "raho-yaga-kramaradhya",
+  "devanagari": "रहोयागक्रमाराध्या",
+  "iastSplit": "Raho-yāga-kramārādhyā",
+  "archana": "ॐ रहोयागक्रमाराध्यायै नमः",
+  "syllables": ["ra", "ho", "yā", "gak", "ra", "mā", "rādh", "yā"],
+  "words": [
+    { "sa": "रहस्", "meaning": { "en": "secret, solitude", "hi": "एकान्त, रहस्य" } },
+    { "sa": "याग", "meaning": { "en": "sacrifice, worship", "hi": "यज्ञ, याग" } },
+    { "sa": "क्रम", "meaning": { "en": "due order, step by step", "hi": "क्रम" } },
+    { "sa": "आराध्या", "meaning": { "en": "to be worshipped, to be reached", "hi": "आराधना के योग्य, प्राप्त करने योग्य" } }
+  ],
+  "meaning": {
+    "en": "Worshipped by the due order of the secret, inner sacrifice",
+    "hi": "एकान्त के आन्तरिक यज्ञ के क्रम से आराध्य"
+  },
+  "explanation": {
+    "en": "Rahoyāga is worship done in secret, in solitude. She is to be worshipped by the due order of that inner sacrifice, not by outward show.",
+    "hi": "‘रहोयाग’ एकान्त में, गुप्त रूप से की जाने वाली उपासना है। उनकी आराधना उसी आन्तरिक यज्ञ के क्रम से होती है, बाहरी दिखावे से नहीं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya describes the secret sacrifice as an offering made in the fire of consciousness, an eightfold oblation that begins with merit (puṇya). In a second reading he takes yāga from the root yaj in its sense of union: rahoyāga is communion in solitude, and in it she is reached step by step. He supports this with verses of Āpastamba: liberation is not for one who delights in the science of words, loves a fine dwelling, lives for food and clothing or seeks to please the world, but for one who keeps to solitude and firm vows.",
+    "hi": "भास्करराय इस गुप्त यज्ञ को चेतना की अग्नि में की गई आहुति बताते हैं, आठ प्रकार का होम जिसका आरम्भ पुण्य से होता है। दूसरे अर्थ में वे ‘याग’ को ‘यज्’ धातु के संगति, अर्थात् मिलन, वाले अर्थ से लेते हैं: रहोयाग एकान्त की संगति है, और उसमें वे क्रम से, पग-पग पर, प्राप्त होती हैं। इसके समर्थन में वे आपस्तम्ब के श्लोक देते हैं: मोक्ष उसके लिए नहीं जो शब्दशास्त्र में रमा हो, सुन्दर घर, भोजन-वस्त्र या लोगों को प्रसन्न करने में लगा हो, बल्कि उसके लिए है जो एकान्तप्रिय और दृढ़व्रती हो।"
+  },
+  "story": {
+    "en": "This name and the next describe the inner worship of Śrīvidyā, which tradition learns from a teacher. Bhāskararāya also cites the Aruṇopaniṣad, which he takes to mean that one should enter the path of Śrīvidyā only after securing seclusion.",
+    "hi": "यह नाम और अगला नाम श्रीविद्या की आन्तरिक उपासना का वर्णन करते हैं, जिसे परम्परा में गुरु से सीखा जाता है। भास्करराय अरुणोपनिषद् का वचन भी देते हैं, जिसका अर्थ वे यह बताते हैं कि श्रीविद्या-उपासना के मार्ग में एकान्त प्राप्त करके ही प्रवेश करना चाहिए।"
+  },
+  "commentary": {
+    "sanskrit": "यज देवपूजासङ्गतिकरण दानेष्विति धातुपाठादेकान्तसङ्गतिरेव वा रहोयागः तत्र क्रमेण पादविक्षेपेणाराध्या प्राप्या ।",
+    "translation": {
+      "en": "Or, since the Dhātupāṭha gives the root yaj in the senses of worship of the gods, union and giving, rahoyāga is simply communion in solitude; in it she is ārādhyā, to be reached, by krama, step by step.",
+      "hi": "अथवा, धातुपाठ में ‘यज्’ धातु के अर्थ देवपूजा, संगतिकरण और दान बताए गए हैं, इसलिए एकान्त की संगति ही रहोयाग है; उसमें क्रम से, अर्थात् पग-पग चलकर, वे आराध्य, अर्थात् प्राप्य, हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 381 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The quoted sentence is Bhāskararāya’s second reading. His first reading (the eightfold inner oblation in the fire of consciousness presided over by Kuṇḍalinī) is summarised without the mantra he cites; the edition prints कुण्डलन्यधिष्ठिते for कुण्डलिन्यधिष्ठिते there (not quoted)." }
+}

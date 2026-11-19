@@ -1,0 +1,43 @@
+{
+  "number": 135,
+  "verse": 44,
+  "slug": "nir-mala",
+  "devanagari": "निर्मला",
+  "iastSplit": "Nir-malā",
+  "archana": "ॐ निर्मलायै नमः",
+  "syllables": ["nir", "ma", "lā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free from", "hi": "रहित, बिना" } },
+    { "sa": "मल", "meaning": { "en": "impurity, dirt", "hi": "मल, मैल, अशुद्धि" } }
+  ],
+  "meaning": {
+    "en": "Free from every impurity",
+    "hi": "सब मलों से रहित, परम निर्मल"
+  },
+  "explanation": {
+    "en": "Mala is dirt or impurity. She is spotless: nothing that clouds or soils the mind has any place in her.",
+    "hi": "‘मल’ का अर्थ है मैल या अशुद्धि। वे सर्वथा निर्मल हैं: मन को धुँधला या मलिन करने वाली किसी भी वस्तु का उनमें स्थान नहीं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya first takes mala as the āṇava mala, the root impurity of taking what is not the self to be the self; she is without it. In another reading the impurity is avidyā, ignorance, which makes the ever-pure seem stained; since that stain is unreal, she is spotless by nature. He adds that a soul already liberated is itself what these names describe, or else that Nityamuktā, ‘ever free’ (name 144), sets it apart.",
+    "hi": "भास्करराय पहले ‘मल’ को आणव मल मानते हैं, वह मूल दोष जिसमें अनात्मा को आत्मा मान लिया जाता है; वे उससे रहित हैं। दूसरे अर्थ में मल है अविद्या, जो नित्य शुद्ध को भी मलिन-सा दिखाती है; वह मलिनता मिथ्या है, इसलिए वे स्वभाव से निर्मल हैं। वे यह भी कहते हैं कि मुक्त जीव तो स्वयं इन नामों का लक्ष्य ही है; अथवा ‘नित्यमुक्ता’ (नाम 144) उसे अलग कर देता है।"
+  },
+  "story": {
+    "en": "In Bhāskararāya’s sequence this is the third of the names that set her apart from the three kinds of bound soul. Nirmalā excludes the vijñānakevala, the soul free of māyā and karma but still marked by the root impurity.",
+    "hi": "भास्करराय के क्रम में यह उन नामों में तीसरा है जो उन्हें तीन प्रकार के बद्ध जीवों से अलग करते हैं। निर्मला ‘विज्ञानकेवल’ को अलग करता है, वह जीव जो माया और कर्म से तो मुक्त है, पर जिसमें मूल मल अभी शेष है।"
+  },
+  "commentary": {
+    "sanskrit": "नित्यशुचिनो मालिन्यभ्रमाधायकत्वादविद्यैव मलस्तदभावत्वान्निर्मला ।",
+    "translation": {
+      "en": "Since it makes the ever-pure seem impure, ignorance itself is the mala; being free of it, she is Nirmalā.",
+      "hi": "नित्य शुद्ध में मलिनता का भ्रम उत्पन्न करने के कारण अविद्या ही मल है; उससे रहित होने से वे निर्मला हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 135 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The phrase मलस्तदात्मा तदभाववती वा is obscure and is not rendered." }
+}

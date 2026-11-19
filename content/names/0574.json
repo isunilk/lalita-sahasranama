@@ -1,0 +1,44 @@
+{
+  "number": 574,
+  "verse": 116,
+  "slug": "prajnana-ghana-rupini",
+  "devanagari": "प्रज्ञानघनरूपिणी",
+  "iastSplit": "Prajñāna-ghana-rūpiṇī",
+  "archana": "ॐ प्रज्ञानघनरूपिण्यै नमः",
+  "syllables": ["praj", "ñā", "na", "gha", "na", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "प्रज्ञान", "meaning": { "en": "pure knowledge, consciousness", "hi": "प्रज्ञान, शुद्ध ज्ञान" } },
+    { "sa": "घन", "meaning": { "en": "dense, a solid mass", "hi": "घन, ठोस" } },
+    { "sa": "रूपिणी", "meaning": { "en": "whose form is", "hi": "रूप वाली, स्वरूपा" } }
+  ],
+  "meaning": {
+    "en": "Whose form is consciousness, dense and undivided",
+    "hi": "घनीभूत प्रज्ञान-स्वरूपा"
+  },
+  "explanation": {
+    "en": "Her form is prajñāna, pure knowledge, packed solid with nothing else mixed in. Bhāskararāya explains that this knowledge is eternal and different from the passing states of the mind, and that her form is so dense with it that not even a trace of ignorance touches it.",
+    "hi": "उनका स्वरूप प्रज्ञान, अर्थात् शुद्ध ज्ञान, है, जो इतना घना है कि उसमें और कुछ मिला नहीं। भास्करराय समझाते हैं कि यह ज्ञान नित्य है और मन की बदलती वृत्तियों से भिन्न है, और उनका स्वरूप इससे इतना घना है कि अविद्या का लेश भी उसे छू नहीं पाता।"
+  },
+  "inner": {
+    "en": "He quotes the Upaniṣad of the Kāṇva recension: as a lump of salt has no inside or outside but is all taste through and through, so this Self has no inside or outside and is wholly prajñānaghana, a mass of knowledge. The Devī is that consciousness: not knowing now and then, but knowing through and through.",
+    "hi": "वे काण्व शाखा का उपनिषद्-वचन उद्धृत करते हैं: जैसे नमक की डली का न भीतर होता है न बाहर, वह पूरी की पूरी रस ही होती है, वैसे ही यह आत्मा भीतर-बाहर के भेद से रहित, सम्पूर्ण प्रज्ञानघन ही है। देवी वही चेतना हैं: कभी-कभार जानने वाली नहीं, बल्कि पूरी की पूरी ज्ञान।"
+  },
+  "story": {
+    "en": "The word prajñānaghana comes from the Upaniṣad that Bhāskararāya quotes. With Parāśakti and Parāniṣṭhā, this name completes a line of three names on her supreme nature.",
+    "hi": "‘प्रज्ञानघन’ शब्द उसी उपनिषद् से आया है जिसे भास्करराय उद्धृत करते हैं। पराशक्ति और परानिष्ठा के साथ यह नाम उनके परम स्वरूप पर तीन नामों की पंक्ति पूरी करता है।"
+  },
+  "commentary": {
+    "sanskrit": "प्रकृष्टेन वृत्तिभिन्नेन नित्येन ज्ञानेन घनं निरन्तरमविद्यालेशेनाप्यस्पृष्टं रूपमस्याः ।",
+    "translation": {
+      "en": "Her form is ghana, dense, with supreme knowledge, eternal and distinct from the states of the mind: unbroken, untouched by even a trace of ignorance.",
+      "hi": "उनका स्वरूप प्रकृष्ट ज्ञान से घन है, ऐसे ज्ञान से जो नित्य है और वृत्तियों से भिन्न है; वह निरन्तर है और अविद्या के लेश से भी अछूता है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 574 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya says only that the passage is found among the Kāṇvas; it is the salt simile of the Bṛhadāraṇyaka Upaniṣad (4.5.13 in the Kāṇva text; please verify). The closing sentence of the inner layer is a reflection." }
+}

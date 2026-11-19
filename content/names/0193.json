@@ -1,0 +1,43 @@
+{
+  "number": 193,
+  "verse": 51,
+  "slug": "dushta-dura",
+  "devanagari": "दुष्टदूरा",
+  "iastSplit": "Duṣṭa-dūrā",
+  "archana": "ॐ दुष्टदूरायै नमः",
+  "syllables": ["duṣ", "ṭa", "dū", "rā"],
+  "words": [
+    { "sa": "दुष्ट", "meaning": { "en": "the wicked, those full of faults", "hi": "दुष्ट, दोषों से भरे लोग" } },
+    { "sa": "दूरा", "meaning": { "en": "far, out of reach", "hi": "दूर, अप्राप्य" } }
+  ],
+  "meaning": {
+    "en": "Far beyond the reach of the wicked",
+    "hi": "दुष्टों की पहुँच से बहुत दूर"
+  },
+  "explanation": {
+    "en": "She is far from the wicked: those who cling to their faults cannot reach her. Her nearness is for those who come with a clean heart.",
+    "hi": "वे दुष्टों से दूर हैं: जो अपने दोषों से चिपके रहते हैं, वे उन तक नहीं पहुँच पाते। उनकी निकटता निर्मल हृदय वालों के लिए है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya glosses duṣṭa as ‘those who have faults’ and dūrā as ‘unattainable’. He quotes the Devī Bhāgavata: those skilled only in false reasoning do not worship the Devī, the auspicious ruler of the universe. As a reflection: the distance is not on her side; it is a person’s own faults that keep them away.",
+    "hi": "भास्करराय ‘दुष्ट’ का अर्थ ‘दोषयुक्त लोग’ और ‘दूरा’ का अर्थ ‘अप्राप्य’ बताते हैं। वे देवी भागवत का वचन उद्धृत करते हैं: कुतर्क में निपुण लोग विश्वेश्वरी, मंगलमयी देवी का भजन नहीं करते। चिन्तन के रूप में: दूरी उनकी ओर से नहीं है; मनुष्य के अपने दोष ही उसे दूर रखते हैं।"
+  },
+  "story": {
+    "en": "The first line of verse 51 has three names about faults: she is far from the faulty (193), she calms wrong conduct (194), and she is herself free of every fault (195).",
+    "hi": "श्लोक 51 की पहली पंक्ति में दोषों से जुड़े तीन नाम हैं: वे दोषयुक्त लोगों से दूर हैं (193), दुराचार को शान्त करती हैं (194), और स्वयं हर दोष से रहित हैं (195)।"
+  },
+  "commentary": {
+    "sanskrit": "दुष्टानां दोषवतां दूरा अप्राप्या ।",
+    "translation": {
+      "en": "Far from the wicked, that is, those with faults: unattainable by them.",
+      "hi": "दुष्टों, अर्थात् दोषयुक्त लोगों, से दूर, अर्थात् उनके लिए अप्राप्य।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 193 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The last sentence of the inner layer is a reflection." }
+}

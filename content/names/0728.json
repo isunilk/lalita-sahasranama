@@ -1,0 +1,43 @@
+{
+  "number": 728,
+  "verse": 141,
+  "slug": "chit-kala",
+  "devanagari": "चित्कला",
+  "iastSplit": "Cit-kalā",
+  "archana": "ॐ चित्कलायै नमः",
+  "syllables": ["cit", "ka", "lā"],
+  "words": [
+    { "sa": "चित्", "meaning": { "en": "pure consciousness", "hi": "शुद्ध चेतना" } },
+    { "sa": "कला", "meaning": { "en": "a digit of the moon; a small part of a whole", "hi": "चन्द्रमा की कला; पूर्ण का अंश" } }
+  ],
+  "meaning": {
+    "en": "The spark of consciousness, a portion of Brahman",
+    "hi": "चेतना की कला, ब्रह्म का अंश"
+  },
+  "explanation": {
+    "en": "A kalā is a digit of the moon, a small part of a whole. Bhāskararāya says she is consciousness as a portion, as it were, of Brahman, whose nature is being, consciousness and bliss. In each mind, consciousness shaped by the inner faculties is such a portion of the unbounded consciousness.",
+    "hi": "‘कला’ चन्द्रमा की एक कला है, किसी पूर्ण का एक छोटा अंश। भास्करराय कहते हैं कि वे चेतना रूपी कला हैं, मानो सच्चिदानन्द ब्रह्म का एक अंश। हर मन में अन्तःकरण से सीमित चेतना उसी असीम चेतना का ऐसा ही एक अंश है।"
+  },
+  "inner": {
+    "en": "He quotes the Bhagavad Gītā: ‘an eternal portion of me has become the living being in the world of life.’ The Padma Purāṇa, he adds, names her Citkalā, the power that lives in the minds of all embodied beings. The awareness by which these words are read is that spark of her.",
+    "hi": "वे भगवद्गीता उद्धृत करते हैं: ‘मेरा ही सनातन अंश जीवलोक में जीव बना है।’ वे बताते हैं कि पद्म पुराण उन्हें चित्कला कहता है, वह शक्ति जो सब देहधारियों के चित्त में रहती है। जिस चेतना से ये शब्द पढ़े जा रहे हैं, वह उन्हीं की वह कला है।"
+  },
+  "story": {
+    "en": "Bhāskararāya reads this name and the next in the same way: cit and ānanda, consciousness and bliss, each a portion of the one Brahman. The Padma Purāṇa line comes from a passage that lists the forms of the Devī.",
+    "hi": "भास्करराय इस नाम और अगले नाम को एक ही ढंग से पढ़ते हैं: चित् और आनन्द, चेतना और आनन्द, दोनों एक ही ब्रह्म के अंश। पद्म पुराण की पंक्ति उस प्रसंग से है जिसमें देवी के रूपों की गणना की गई है।"
+  },
+  "commentary": {
+    "sanskrit": "चिदेव कला सच्चिदानन्दात्मनो ब्रह्मण एकदेश इव यस्यां सा ।",
+    "translation": {
+      "en": "She in whom consciousness itself is the kalā, a portion as it were of Brahman, whose nature is being, consciousness and bliss.",
+      "hi": "जिनमें चेतना ही कला है, मानो सच्चिदानन्दस्वरूप ब्रह्म का एक अंश।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 728 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The verse reads चित्कलाऽऽनन्दकलिका; the names are चित्कला and आनन्दकलिका (Bhāskararāya’s text prints चित्कलानन्दकलिका). The last sentence of the inner layer is a reflection." }
+}

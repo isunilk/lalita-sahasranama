@@ -1,0 +1,43 @@
+{
+  "number": 299,
+  "verse": 70,
+  "slug": "nada-rupa",
+  "devanagari": "नादरूपा",
+  "iastSplit": "Nāda-rūpā",
+  "archana": "ॐ नादरूपायै नमः",
+  "syllables": ["nā", "da", "rū", "pā"],
+  "words": [
+    { "sa": "नाद", "meaning": { "en": "nāda, subtle inner sound", "hi": "नाद, सूक्ष्म ध्वनि" } },
+    { "sa": "रूपा", "meaning": { "en": "having the form of", "hi": "स्वरूपा" } }
+  ],
+  "meaning": {
+    "en": "Whose form is nāda, the subtle primal sound",
+    "hi": "नाद, अर्थात् सूक्ष्म आदि-ध्वनि, जिनका स्वरूप है"
+  },
+  "explanation": {
+    "en": "Nāda is sound before it becomes words: a subtle, inner resonance. She is that resonance; Bhāskararāya says either that her form abides in nāda, or that nāda itself is her form.",
+    "hi": "नाद वह ध्वनि है जो शब्द बनने से पहले की है: एक सूक्ष्म, भीतरी गूँज। वे वही गूँज हैं; भास्करराय कहते हैं कि या तो उनका रूप नाद में स्थित है, या नाद ही उनका रूप है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya places nāda exactly. In a seed-syllable, beyond the bindu, sound passes through eight phases, each subtler than the last: ardhacandra, rodhinī, nāda, nādānta, śakti, vyāpikā, samanā and unmanī, and nāda is the third. He quotes the Mahāsvacchanda Tantra, which pictures it above rodhinī, like a lotus filament and bright as ten million suns, with the supreme Goddess abiding in it.",
+    "hi": "भास्करराय नाद का स्थान ठीक-ठीक बताते हैं। बीजाक्षर में बिन्दु के ऊपर ध्वनि आठ उत्तरोत्तर सूक्ष्म अवस्थाओं से होकर जाती है: अर्धचन्द्र, रोधिनी, नाद, नादान्त, शक्ति, व्यापिका, समना और उन्मनी; इनमें तीसरी अवस्था नाद है। वे महास्वच्छन्द तन्त्र का वर्णन उद्धृत करते हैं, जो नाद को रोधिनी के ऊपर, कमल-केसर के समान और करोड़ों सूर्यों जैसा दीप्त बताता है, और परमा देवी को उसी में स्थित देखता है।"
+  },
+  "story": {
+    "en": "The three names of this line all open with nā: Nārāyaṇī, Nādarūpā, Nāmarūpavivarjitā. Together they move from her as Nārāyaṇa’s own, to her as subtle sound, to her as beyond name and form altogether.",
+    "hi": "इस पंक्ति के तीनों नाम ‘ना’ से आरम्भ होते हैं: नारायणी, नादरूपा, नामरूपविवर्जिता। साथ पढ़ने पर ये उन्हें नारायण की अपनी शक्ति से, सूक्ष्म नाद के रूप में, और फिर नाम-रूप से सर्वथा परे दिखाते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "नाद एव रूपं यस्या इति वा ।",
+    "translation": {
+      "en": "Or: she whose very form is nāda.",
+      "hi": "अथवा, नाद ही जिनका रूप है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 299 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition prints the eight phases as अर्धचन्द्ररोधनीनादनादान्तशक्तिव्यापकासमनोन्मन्याख्याः; रोधनी and व्यापका are given here in the usual forms rodhinī and vyāpikā. The Tantra’s meditation verse is described only, not given as a practice. The story layer is a note on the line’s sound pattern." }
+}

@@ -1,0 +1,42 @@
+{
+  "number": 420,
+  "verse": 90,
+  "slug": "gayatri",
+  "devanagari": "गायत्री",
+  "iastSplit": "Gāyatrī",
+  "archana": "ॐ गायत्र्यै नमः",
+  "syllables": ["gā", "yat", "rī"],
+  "words": [
+    { "sa": "गायत्री", "meaning": { "en": "the Gāyatrī metre and prayer; ‘she who protects the one who chants’", "hi": "गायत्री छन्द और मन्त्र; ‘गाने वाले की रक्षा करने वाली’" } }
+  ],
+  "meaning": {
+    "en": "Gāyatrī, mother of the Vedas, who protects those who chant her",
+    "hi": "वेदमाता गायत्री, जो जप करने वालों की रक्षा करती हैं"
+  },
+  "explanation": {
+    "en": "Gāyatrī is the metre of twenty-four syllables and the most revered of Vedic prayers, called the mother of the Vedas. Its name is explained as ‘she who protects (trāyate) the one who chants (gāyantam)’. The Goddess is Gāyatrī, for the two are one.",
+    "hi": "गायत्री चौबीस अक्षरों का छन्द और सबसे पूज्य वैदिक प्रार्थना है, जिसे वेदमाता कहा जाता है। इसके नाम का अर्थ बताया जाता है: ‘जो गाने वाले (गायन्तम्) की रक्षा करती है (त्रायते)’। देवी स्वयं गायत्री हैं, क्योंकि दोनों अभिन्न हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gathers several readings. In the Gītā Kṛṣṇa says ‘among metres I am Gāyatrī’, and the Devī-stava of the Kūrma Purāṇa says the same of her. By the derivation in the Bharadvāja Smṛti, Gāyatrī protects the one who chants her, and since the mother of the Vedas is not different from the Devī, the word names her too. The prayer that protects is herself.",
+    "hi": "भास्करराय कई अर्थ एकत्र करते हैं। गीता में श्रीकृष्ण कहते हैं, ‘छन्दों में मैं गायत्री हूँ’, और कूर्म पुराण का देवी-स्तव देवी के लिए यही कहता है। भारद्वाज स्मृति की व्युत्पत्ति के अनुसार गायत्री जप करने वाले की रक्षा करती है, और क्योंकि वेदमाता देवी से भिन्न नहीं, यह शब्द उनका भी वाचक है। जो प्रार्थना रक्षा करती है, वह स्वयं वे ही हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya also tells a story from the Padma Purāṇa. When Brahmā was performing a sacrifice at Puṣkara, his wife Sāvitrī delayed, saying she would come with Lakṣmī and the other goddesses who had not yet arrived. Brahmā, angered, had a cowherd maiden named Gāyatrī brought; Viṣṇu gave her to him, and he married her by the gāndharva rite.",
+    "hi": "भास्करराय पद्म पुराण की एक कथा भी देते हैं। जब ब्रह्मा पुष्कर में यज्ञ कर रहे थे, उनकी पत्नी सावित्री ने देर की और कहा कि वे लक्ष्मी आदि उन देवियों के साथ आएँगी जो अभी नहीं आई थीं। क्रुद्ध होकर ब्रह्मा ने गायत्री नाम की एक गोप-कन्या को बुलवाया; विष्णु ने उसे ब्रह्मा को सौंपा, और ब्रह्मा ने गान्धर्व विधि से उससे विवाह किया।"
+  },
+  "commentary": {
+    "sanskrit": "अथवा गायन्तं त्रायते यस्माद्गायत्री तेन कथ्यत इति गायत्रीकल्पे भारद्वाजस्मृत्युक्तनिर्वचनाद्वेदमातरि प्रसिद्धो गायत्रीशब्दस्तदभेदादम्बाया अपि वाचकः ।",
+    "translation": {
+      "en": "Or: by the derivation given in the Bharadvāja Smṛti, in the Gāyatrī-kalpa, ‘because she protects the one who chants, she is called Gāyatrī’, the word Gāyatrī, well known for the mother of the Vedas, also names the Mother, since the two are not different.",
+      "hi": "अथवा, गायत्री-कल्प में भारद्वाज स्मृति की व्युत्पत्ति ‘जो गाने वाले की रक्षा करती है, इसलिए गायत्री कहलाती है’ के अनुसार, वेदमाता के लिए प्रसिद्ध ‘गायत्री’ शब्द अभेद के कारण अम्बा का भी वाचक है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 420 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Gāyatrī mantra itself is not quoted, by design. Bhāskararāya also cites the Devī Purāṇa, the Chāndogya and the Yoga-vāsiṣṭha for further derivations, and the Padma Purāṇa verse in which the Devī speaks of herself as the eight-syllabled Veda-mother at Puṣkara." }
+}

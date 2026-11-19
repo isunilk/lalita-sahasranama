@@ -1,0 +1,43 @@
+{
+  "number": 169,
+  "verse": 48,
+  "slug": "krodha-shamani",
+  "devanagari": "क्रोधशमनी",
+  "iastSplit": "Krodha-śamanī",
+  "archana": "ॐ क्रोधशमन्यै नमः",
+  "syllables": ["kro", "dha", "śa", "ma", "nī"],
+  "words": [
+    { "sa": "क्रोध", "meaning": { "en": "anger", "hi": "क्रोध, गुस्सा" } },
+    { "sa": "शमनी", "meaning": { "en": "she who calms, quenches", "hi": "शान्त करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who calms the anger of her devotees",
+    "hi": "भक्तों के क्रोध को शान्त करने वाली"
+  },
+  "explanation": {
+    "en": "Śamana is calming or quenching, as water puts out a fire. She quiets the anger that flares up in those who turn to her.",
+    "hi": "‘शमन’ का अर्थ है शान्त करना, बुझाना, जैसे जल आग को बुझाता है। जो उनकी ओर मुड़ते हैं, उनमें भड़कने वाले क्रोध को वे शान्त करती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says she calms, that is, destroys, the anger in her devotees, anger being one of the six inner enemies. He quotes Āpastamba on why anger is so harmful: whatever an angry man sacrifices, offers or worships, anger carries it all away, as an unbaked clay pot loses its water.",
+    "hi": "भास्करराय कहते हैं कि वे भक्तों के क्रोध को शान्त करती हैं, अर्थात् उसका नाश करती हैं; क्रोध छह आन्तरिक शत्रुओं में से एक है। क्रोध कितना हानिकारक है, यह बताने के लिए वे आपस्तम्ब का वचन देते हैं: क्रोधी मनुष्य जो यज्ञ, होम या पूजा करता है, क्रोध वह सब हर ले जाता है, जैसे कच्चे घड़े से पानी।"
+  },
+  "story": {
+    "en": "In this pair the word is gentler than in the others: śamanī, she who calms or quenches, where the neighbouring names say nāśinī, she who destroys. Bhāskararāya takes the two as one, glossing ‘calms’ as ‘destroys’.",
+    "hi": "इस जोड़े में शब्द अन्य जोड़ों से कोमल है: ‘शमनी’, अर्थात् शान्त करने वाली या बुझाने वाली, जबकि आसपास के नाम ‘नाशिनी’, नाश करने वाली, कहते हैं। भास्करराय दोनों को एक मानते हैं और ‘शमयति’ का अर्थ ‘नाशयति’ बताते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "भक्तानामरिषड्वर्गान्तर्गतं क्रोधं शमयति नाशयतीति क्रोधशमनी ।",
+    "translation": {
+      "en": "She calms, that is destroys, the anger of her devotees, which belongs to the group of six enemies; hence Krodhaśamanī.",
+      "hi": "वे भक्तों के उस क्रोध को शान्त करती हैं, अर्थात् नष्ट करती हैं, जो छह शत्रुओं के वर्ग में आता है; इसलिए क्रोधशमनी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 169 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude." }
+}

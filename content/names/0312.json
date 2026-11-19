@@ -1,0 +1,44 @@
+{
+  "number": 312,
+  "verse": 71,
+  "slug": "ranat-kinkini-mekhala",
+  "devanagari": "रणत्किङ्किणिमेखला",
+  "iastSplit": "Raṇat-kiṅkiṇi-mekhalā",
+  "archana": "ॐ रणत्किङ्किणिमेखलायै नमः",
+  "syllables": ["ra", "ṇat", "kiṅ", "ki", "ṇi", "me", "kha", "lā"],
+  "words": [
+    { "sa": "रणत्", "meaning": { "en": "ringing, tinkling", "hi": "झंकार करती हुई" } },
+    { "sa": "किङ्किणि", "meaning": { "en": "small bell", "hi": "घुँघरू, छोटी घण्टी" } },
+    { "sa": "मेखला", "meaning": { "en": "girdle, waistband", "hi": "करधनी, मेखला" } }
+  ],
+  "meaning": {
+    "en": "Whose girdle is hung with tinkling little bells",
+    "hi": "जिनकी करधनी में घुँघरू झंकार करते हैं"
+  },
+  "explanation": {
+    "en": "Her girdle is strung with small bells that ring as she moves. Bhāskararāya explains kiṅkiṇī as a little bell and mekhalā as the waist-belt, raśanā.",
+    "hi": "उनकी करधनी में छोटी-छोटी घण्टियाँ लगी हैं, जो उनके चलने पर बजती हैं। भास्करराय ‘किङ्किणी’ का अर्थ छोटी घण्टी और ‘मेखला’ का अर्थ रशना अर्थात् करधनी बताते हैं।"
+  },
+  "inner": {
+    "en": "He gives only the literal sense. After names of her beauty and delight, the hymn lets us hear her: the soft ringing of the bells tells of her nearness before she is seen.",
+    "hi": "वे केवल शाब्दिक अर्थ देते हैं। उनके सौन्दर्य और आनन्द के नामों के बाद स्तोत्र हमें उन्हें सुनने देता है: घुँघरुओं की मधुर झंकार उनके दिखने से पहले ही उनके निकट होने का संकेत देती है।"
+  },
+  "story": {
+    "en": "Name 38 earlier described her girdle made charming by little jewelled bells; here it returns as a sound. This name closes verse 71.",
+    "hi": "पहले नाम 38 में रत्नजटित घुँघरुओं से सुन्दर उनकी करधनी का वर्णन आया था; यहाँ वही करधनी एक मधुर ध्वनि बनकर लौटती है। यह नाम श्लोक 71 को पूर्ण करता है।"
+  },
+  "commentary": {
+    "sanskrit": "रणन्त्यः किङ्किणयः क्षुद्रघण्टिका यस्यां तादृशी मेखला रशना यस्याः सा ।",
+    "translation": {
+      "en": "She whose mekhalā, girdle, is one on which kiṅkiṇīs, little bells, are ringing.",
+      "hi": "जिनकी मेखला अर्थात् करधनी ऐसी है, जिसमें किङ्किणियाँ अर्थात् छोटी घण्टियाँ झंकार कर रही हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 312 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the second sentence of the inner layer is a reflection." }
+}

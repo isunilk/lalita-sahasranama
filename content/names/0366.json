@@ -1,0 +1,42 @@
+{
+  "number": 366,
+  "verse": 81,
+  "slug": "para",
+  "devanagari": "परा",
+  "iastSplit": "Parā",
+  "archana": "ॐ परायै नमः",
+  "syllables": ["pa", "rā"],
+  "words": [
+    { "sa": "परा", "meaning": { "en": "supreme, beyond; the first of the four levels of speech", "hi": "सर्वोच्च, परे; वाणी के चार स्तरों में पहला" } }
+  ],
+  "meaning": {
+    "en": "The Supreme: speech in its highest, subtlest state",
+    "hi": "परा: अपने सर्वोच्च, सूक्ष्मतम रूप में वाणी"
+  },
+  "explanation": {
+    "en": "Parā means “supreme” or “beyond”. Here it names the first and subtlest of the four levels of speech, which the following names go on to list. Bhāskararāya says she is Parā because she stands beyond the other three.",
+    "hi": "‘परा’ का अर्थ है सर्वोच्च, या सबसे परे। यहाँ यह वाणी के चार स्तरों में पहले और सबसे सूक्ष्म स्तर का नाम है, जिन्हें आगे के नाम गिनाते हैं। भास्करराय कहते हैं कि अन्य तीनों स्तरों से परे होने के कारण वे ‘परा’ हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya opens this verse with an account of how speech arises. Śabdabrahman, Brahman as sound, first becomes manifest at the mūlādhāra, the base of the body; resting in itself and without movement, it is parā vāk. Carried upward by the breath, the same sound becomes paśyantī at the navel, madhyamā at the heart, and vaikharī, audible letters, at the throat and mouth. Every word we speak begins in her, in silence, before there is any sound.",
+    "hi": "भास्करराय इस श्लोक का आरम्भ वाणी की उत्पत्ति के वर्णन से करते हैं। शब्दब्रह्म सबसे पहले शरीर के मूल, मूलाधार, में अभिव्यक्त होता है; अपने में ही स्थित और निःस्पन्द रहने पर वह ‘परा वाक्’ है। प्राणवायु से ऊपर उठकर वही नाभि में पश्यन्ती, हृदय में मध्यमा, और कण्ठ तथा मुख में सुनाई देने वाले वर्णों के रूप में वैखरी बनता है। हमारा बोला हर शब्द, किसी भी ध्वनि से पहले, मौन में उन्हीं से आरम्भ होता है।"
+  },
+  "story": {
+    "en": "Names 366 to 371 name the four levels of speech, with pratyakcitī and paradevatā set between them. Bhāskararāya notes that people of gross sight take vaikharī alone to be speech, and he quotes the Vedic verse that speech has four quarters: three are hidden in the cave, and humans speak only the fourth.",
+    "hi": "नाम 366 से 371 वाणी के चार स्तरों के नाम हैं, जिनके बीच प्रत्यक्चिती और परदेवता रखे गए हैं। भास्करराय कहते हैं कि स्थूल दृष्टि वाले लोग केवल वैखरी को ही वाणी मानते हैं, और वे वह वैदिक मन्त्र उद्धृत करते हैं जिसके अनुसार वाणी के चार पद हैं: तीन गुहा में छिपे हैं, और मनुष्य केवल चौथा बोलते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "मातृकाभेदेषु तिसृभ्यः परत्वात्परा ।",
+    "translation": {
+      "en": "Among the divisions of speech (mātṛkā), she is Parā because she is beyond the other three.",
+      "hi": "मातृका, अर्थात् वाणी, के भेदों में अन्य तीनों से परे होने के कारण वे ‘परा’ हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 366 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The inner layer summarises Bhāskararāya’s introduction to verse 81 on the four levels of speech; its last sentence is a reflection. The Nityā Tantra passage he quotes places paśyantī at the svādhiṣṭhāna, madhyamā at the anāhata and vaikharī at the throat, while his own prose says navel, heart and mouth. He also gives further derivations of parā from the Tripurāsiddhānta (not used)." }
+}

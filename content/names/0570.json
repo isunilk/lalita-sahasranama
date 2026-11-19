@@ -1,0 +1,45 @@
+{
+  "number": 570,
+  "verse": 115,
+  "slug": "maitryadi-vasana-labhya",
+  "devanagari": "मैत्र्यादिवासनालभ्या",
+  "iastSplit": "Maitryādi-vāsanā-labhyā",
+  "archana": "ॐ मैत्र्यादिवासनालभ्यायै नमः",
+  "syllables": ["mait", "ryā", "di", "vā", "sa", "nā", "labh", "yā"],
+  "words": [
+    { "sa": "मैत्री", "meaning": { "en": "friendliness", "hi": "मैत्री" } },
+    { "sa": "आदि", "meaning": { "en": "and the rest", "hi": "आदि" } },
+    { "sa": "वासना", "meaning": { "en": "cultivated attitude, disposition of mind", "hi": "वासना, भावना" } },
+    { "sa": "लभ्या", "meaning": { "en": "to be attained", "hi": "प्राप्त होने योग्य" } }
+  ],
+  "meaning": {
+    "en": "Attained through friendliness and the other three attitudes",
+    "hi": "मैत्री आदि भावनाओं से प्राप्त होने वाली"
+  },
+  "explanation": {
+    "en": "Bhāskararāya names the four attitudes: friendliness toward the happy, compassion toward the suffering, gladness toward the virtuous, and equanimity toward the wicked. These purify the mind, and through them she is reached.",
+    "hi": "भास्करराय चार भावनाएँ गिनाते हैं: सुखी लोगों के प्रति मैत्री, दुःखी लोगों के प्रति करुणा, पुण्यात्माओं के प्रति मुदिता (प्रसन्नता), और पापियों के प्रति उपेक्षा (तटस्थता)। ये चित्त को शुद्ध करती हैं, और इन्हीं से वे प्राप्त होती हैं।"
+  },
+  "inner": {
+    "en": "He cites the Yoga Sūtra: cultivating friendliness, compassion, gladness and equanimity toward the happy, the suffering, the virtuous and the unvirtuous makes the mind clear and calm. He also quotes a verse on yogis who refine the mind in this way, remove the afflictions, come to know the difference between the mind and the Self, and then seek to still even that knowledge. So she is reached not by ritual alone but by a heart made clear.",
+    "hi": "वे योगसूत्र उद्धृत करते हैं: सुखी, दुःखी, पुण्यवान और पापी के प्रति क्रमशः मैत्री, करुणा, मुदिता और उपेक्षा की भावना से चित्त निर्मल और प्रसन्न होता है। वे एक श्लोक भी देते हैं जिसमें योगी इस प्रकार चित्त को सँवारकर, क्लेशों को मिटाकर, बुद्धि और पुरुष के भेद का ज्ञान पाते हैं, और फिर उस ज्ञान का भी निरोध करना चाहते हैं। इस प्रकार वे केवल कर्मकाण्ड से नहीं, निर्मल हृदय से प्राप्त होती हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya says these four attitudes are well known from the Viṣṇu Bhāgavata. For the Yoga Sūtra he follows the Rājamārtaṇḍa commentary, which explains that ‘happiness’ and the other words there stand for the people who have them.",
+    "hi": "भास्करराय कहते हैं कि ये चार भावनाएँ विष्णुभागवत में प्रसिद्ध हैं। योगसूत्र के अर्थ में वे राजमार्तण्ड टीका का अनुसरण करते हैं, जो बताती है कि वहाँ ‘सुख’ आदि शब्दों का अर्थ सुखी आदि लोग हैं।"
+  },
+  "commentary": {
+    "sanskrit": "मैत्रीकरुणामुदितोपेक्षा चेति चतस्रो वासनाः । सुखिषु मैत्री दुःखिषु करुणा पुण्येषु मुदिता पापिषूपेक्षेति व्यवस्थिता इति विष्णुभागवते प्रसिद्धाः । एताश्चित्तस्य शोधिकाः ।",
+    "translation": {
+      "en": "Friendliness, compassion, gladness and equanimity: these are the four vāsanās. Friendliness toward the happy, compassion toward the suffering, gladness toward the virtuous, equanimity toward the sinful: so they are set out, as is well known from the Viṣṇu Bhāgavata. They purify the mind.",
+      "hi": "मैत्री, करुणा, मुदिता और उपेक्षा, ये चार वासनाएँ हैं। सुखियों के प्रति मैत्री, दुःखियों के प्रति करुणा, पुण्यात्माओं के प्रति मुदिता और पापियों के प्रति उपेक्षा: यह व्यवस्था विष्णुभागवत में प्रसिद्ध है। ये चित्त को शुद्ध करती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 570 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The verse beginning मैत्र्यादिचित्तपरिकर्मविदो is cited by Bhāskararāya only as ‘said by the learned’; its author is not named. The last sentence of the inner layer is a reflection." }
+}

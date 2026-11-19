@@ -1,0 +1,42 @@
+{
+  "number": 562,
+  "verse": 114,
+  "slug": "mohini",
+  "devanagari": "मोहिनी",
+  "iastSplit": "Mohinī",
+  "archana": "ॐ मोहिन्यै नमः",
+  "syllables": ["mo", "hi", "nī"],
+  "words": [
+    { "sa": "मोहिनी", "meaning": { "en": "enchantress, she who bewitches", "hi": "मोहित करने वाली" } }
+  ],
+  "meaning": {
+    "en": "The Enchantress, who bewitches the whole world",
+    "hi": "सारे जगत् को मोहित करने वाली"
+  },
+  "explanation": {
+    "en": "Mohinī is she who enchants. Bhāskararāya quotes the Laghu Nāradīya Purāṇa: because she has enchanted this whole world, her name Mohinī arises from her own nature.",
+    "hi": "मोहिनी का अर्थ है मोहित करने वाली। भास्करराय लघुनारदीय पुराण का वचन उद्धृत करते हैं: हे सुन्दरी, क्योंकि तुमने यह सारा जगत् मोहित कर दिया है, इसलिए तुम्हारा नाम ‘मोहिनी’ होगा, जो तुम्हारे अपने गुण से उत्पन्न है।"
+  },
+  "inner": {
+    "en": "His second reading turns on the Mohinī form that Viṣṇu took when the ocean was churned for nectar. He says that form was the Devī herself, made manifest because Viṣṇu meditated on his oneness with her. So the enchanting form that bewildered even Śiva was, in his reading, her own.",
+    "hi": "उनका दूसरा अर्थ उस मोहिनी रूप से जुड़ा है जो विष्णु ने अमृत के लिए समुद्र-मन्थन के समय धारण किया था। वे कहते हैं कि वह रूप स्वयं देवी ही थीं, जो विष्णु के उनके साथ अभेद-चिन्तन से प्रकट हुईं। इस प्रकार जिस मोहक रूप ने शिव तक को मोहित किया, वह उनके अनुसार देवी का अपना ही रूप था।"
+  },
+  "story": {
+    "en": "He quotes the Brahmāṇḍa Purāṇa: the first śakti, called Prakṛti, arose from Brahmā’s meditation; the second form appeared at the churning, enchanting all and beyond speech and mind, and on seeing it even the all-knowing Īśa was bewildered. He adds that this Mohinī dwells at Nivāsapura on the bank of the river Pravarā.",
+    "hi": "वे ब्रह्माण्ड पुराण उद्धृत करते हैं: पहली शक्ति, जो ‘प्रकृति’ कहलाई, ब्रह्मा के ध्यान से प्रकट हुई; दूसरा रूप अमृत-मन्थन के समय प्रकट हुआ, जो सबको मोहित करने वाला और वाणी तथा मन से परे था, और जिसे देखकर सर्वज्ञ ईश भी मोहित हो गए। वे यह भी बताते हैं कि यह मोहिनी प्रवरा नदी के तट पर निवासपुर में निवास करती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "मोहयतीति मोहिनी ।",
+    "translation": {
+      "en": "She enchants, and so she is Mohinī.",
+      "hi": "जो मोहित करती हैं, वे मोहिनी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 562 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya names his source लघुनारदीयपुराण. He does not identify Nivāsapura on the Pravarā further (it may be Nevasa in Maharashtra, known for its Mohinīrāja temple; check before adding)." }
+}

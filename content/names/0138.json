@@ -1,0 +1,43 @@
+{
+  "number": 138,
+  "verse": 44,
+  "slug": "nir-akula",
+  "devanagari": "निराकुला",
+  "iastSplit": "Nir-ākulā",
+  "archana": "ॐ निराकुलायै नमः",
+  "syllables": ["ni", "rā", "ku", "lā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free from", "hi": "रहित, बिना" } },
+    { "sa": "आकुल", "meaning": { "en": "agitated, troubled, confused", "hi": "व्याकुल, विचलित" } }
+  ],
+  "meaning": {
+    "en": "Never agitated or troubled",
+    "hi": "कभी व्याकुल न होने वाली"
+  },
+  "explanation": {
+    "en": "Ākula means agitated, flustered, thrown into confusion. Nothing disturbs her; she is unshaken calm.",
+    "hi": "‘आकुल’ का अर्थ है घबराया हुआ, विचलित, उलझन में पड़ा। उन्हें कुछ भी विचलित नहीं करता; वे अडिग शान्ति हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says that even in contact with ignorance she is never agitated. In another reading, those whose minds are agitated have gone far from her: she is distant from such people. A third reading takes ākula as utter absence, the void, so that the name rejects the school which holds that the final truth is emptiness.",
+    "hi": "भास्करराय कहते हैं कि अविद्या के सम्पर्क में भी वे कभी आकुल नहीं होतीं। दूसरे अर्थ में, व्याकुल चित्त वाले उनसे दूर चले गए हैं: वे ऐसे लोगों से दूर रहती हैं। तीसरा अर्थ ‘आकुलता’ को सर्वथा अभाव या शून्य मानता है, और तब यह नाम उस मत का खण्डन करता है जो परम सत्य को शून्य कहता है।"
+  },
+  "story": {
+    "en": "Here Bhāskararāya continues a run of names that answer rival schools one by one: Nityā answers the view of momentary awareness, Nirākārā that of consciousness with forms, and Nirākulā the doctrine of the void.",
+    "hi": "यहाँ भास्करराय उन नामों का क्रम आगे बढ़ाते हैं जो एक-एक कर विरोधी मतों का उत्तर देते हैं: नित्या क्षणिक विज्ञान के मत का, निराकारा आकार वाले विज्ञान के मत का, और निराकुला शून्यवाद का।"
+  },
+  "commentary": {
+    "sanskrit": "अविद्यासम्पर्केऽप्याकुलत्वाभावान्निराकुला ।",
+    "translation": {
+      "en": "Because she is not agitated even in contact with ignorance, she is Nirākulā.",
+      "hi": "अविद्या के सम्पर्क में भी आकुलता न होने के कारण वे निराकुला हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 138 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya names the refuted void-school ‘Gambhīra’ (शून्यवादिगम्भीराख्यबाह्य); that name is left out of the text layers." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 417,
+  "verse": 90,
+  "slug": "chetana-rupa",
+  "devanagari": "चेतनारूपा",
+  "iastSplit": "Cetanā-rūpā",
+  "archana": "ॐ चेतनारूपायै नमः",
+  "syllables": ["ce", "ta", "nā", "rū", "pā"],
+  "words": [
+    { "sa": "चेतना", "meaning": { "en": "consciousness, awareness", "hi": "चेतना" } },
+    { "sa": "रूप", "meaning": { "en": "form, nature", "hi": "रूप, स्वरूप" } }
+  ],
+  "meaning": {
+    "en": "Whose very form is consciousness",
+    "hi": "चेतना ही जिनका स्वरूप है"
+  },
+  "explanation": {
+    "en": "The previous name called her the power of consciousness; this one says that consciousness is what she is. Bhāskararāya links the two directly: the second name states what the first means.",
+    "hi": "पिछले नाम ने उन्हें चेतना की शक्ति कहा; यह नाम कहता है कि चेतना ही उनका स्वरूप है। भास्करराय दोनों को सीधे जोड़ते हैं: दूसरा नाम पहले का अर्थ बताता है।"
+  },
+  "inner": {
+    "en": "Here the power and its owner are not two. Bhāskararāya cites the author of the Saṃkṣepa-śārīraka, for whom the Lord’s cicchakti is pure consciousness itself, and a sūtra of Gauḍapāda: śakti is of the nature of consciousness. He adds that the opening verse of the Devī Bhāgavata, a Gāyatrī of three lines, meditates on her as the form of all consciousness.",
+    "hi": "यहाँ शक्ति और शक्तिमान दो नहीं हैं। भास्करराय संक्षेपशारीरक के आचार्य का मत देते हैं कि परमेश्वर की चित्-शक्ति स्वयं निर्मल चैतन्य है, और गौडपाद का सूत्र: शक्ति चैतन्य-स्वरूपा है। वे जोड़ते हैं कि देवी भागवत का पहला श्लोक, जो तीन चरणों वाली गायत्री है, उन्हें सर्व-चैतन्य-रूपा कहकर उनका ध्यान करता है।"
+  },
+  "story": {
+    "en": "With Cicchakti this forms the first pair of verse 90: power and form, both consciousness. The next pair names her as the power and the nature of inert matter.",
+    "hi": "‘चिच्छक्ति’ के साथ यह श्लोक 90 की पहली जोड़ी बनाता है: शक्ति और रूप, दोनों चेतना। अगली जोड़ी उन्हें जड़ की शक्ति और जड़ का स्वरूप कहती है।"
+  },
+  "commentary": {
+    "sanskrit": "चिच्छक्तिः परमेश्वरस्य विमला चैतन्यमेवोच्यत इति संक्षेपशारीरकाचार्याः । चैतन्यस्वरूपा शक्तिरिति गौडपादीयसूत्रञ्च ।",
+    "translation": {
+      "en": "The teacher of the Saṃkṣepa-śārīraka says: ‘the cicchakti of the Supreme Lord is called pure consciousness itself’; and the sūtra of Gauḍapāda says: ‘śakti is of the nature of consciousness’.",
+      "hi": "संक्षेपशारीरक के आचार्य कहते हैं: ‘परमेश्वर की चित्-शक्ति निर्मल चैतन्य ही कही जाती है’; और गौडपाद का सूत्र है: ‘शक्ति चैतन्य-स्वरूपा है’।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 417 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya introduces this name with तदेवाह चेतनारूपा (‘that is what Cetanārūpā says’). He also cites the Taittirīya सैषानन्दस्य मीमांसा भवति (printed मीमा/सा) as explained in the Vidyāratna; this is not used here." }
+}

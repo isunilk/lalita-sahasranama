@@ -1,0 +1,43 @@
+{
+  "number": 508,
+  "verse": 104,
+  "slug": "ati-garvita",
+  "devanagari": "अतिगर्विता",
+  "iastSplit": "Ati-garvitā",
+  "archana": "ॐ अतिगर्वितायै नमः",
+  "syllables": ["a", "ti", "gar", "vi", "tā"],
+  "words": [
+    { "sa": "अति", "meaning": { "en": "exceedingly", "hi": "अत्यन्त" } },
+    { "sa": "गर्विता", "meaning": { "en": "proud", "hi": "गर्व से युक्त" } }
+  ],
+  "meaning": {
+    "en": "Supremely proud, in the glory of her beauty",
+    "hi": "अपने सौन्दर्य आदि के कारण अत्यन्त गर्विता"
+  },
+  "explanation": {
+    "en": "Bhāskararāya says her pride (garva) is very great, and that it comes from her beauty and her other excellences. The meditation verse he quotes calls Kākinī āttagarvā, ‘who has taken on pride’.",
+    "hi": "भास्करराय कहते हैं कि उनका गर्व अत्यन्त महान है, और वह उनके सौन्दर्य तथा अन्य गुणों से उत्पन्न है। उनके उद्धृत ध्यान-श्लोक में काकिनी को ‘आत्तगर्वा’, अर्थात् गर्व धारण करने वाली, कहा गया है।"
+  },
+  "inner": {
+    "en": "He gives no hidden meaning, only the source of the pride and two ways of forming the word: from garva, as ‘one in whom pride has arisen’, or as the past participle of the verb garv, ‘to be proud’. In the Goddess pride is not the fault it is in us; it is the bearing of one who lacks nothing.",
+    "hi": "वे कोई गूढ़ अर्थ नहीं देते, केवल गर्व का कारण और शब्द बनने के दो प्रकार बताते हैं: ‘जिनमें गर्व उत्पन्न हुआ है’ इस अर्थ में ‘गर्व’ शब्द से, या ‘गर्व्’ धातु के निष्ठा अर्थात् भूतकृदन्त रूप से। देवी में गर्व वह दोष नहीं जो हममें होता है; वह उनकी गरिमा है, जिन्हें किसी वस्तु का अभाव नहीं।"
+  },
+  "story": {
+    "en": "Bhāskararāya’s gloss, pride born of beauty, matches a familiar figure of Sanskrit poetry, the woman proud of her beauty. Here that pride belongs to Kākinī of the svādhiṣṭhāna lotus.",
+    "hi": "भास्करराय की व्याख्या, सौन्दर्य से उत्पन्न गर्व, संस्कृत काव्य के एक परिचित चित्र से मेल खाती है: अपने रूप पर गर्व करने वाली नायिका। यहाँ वह गर्व स्वाधिष्ठान-कमल की काकिनी का है।"
+  },
+  "commentary": {
+    "sanskrit": "अतीव सौन्दर्यादिकृतो गर्वो यस्याः ।",
+    "translation": {
+      "en": "She whose pride (garva), born of her beauty and other excellences, is exceeding.",
+      "hi": "जिनका गर्व, सौन्दर्य आदि से उत्पन्न, अत्यन्त है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 508 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya also gives the derivation सञ्जातो गर्वधातोर्निष्ठया वातिगर्विता; reading सञ्जातो as the suffix इतच् in the sense ‘arisen in’ (तदस्य सञ्जातम्) is the drafter’s interpretation. The last sentence of the inner layer and the poetic parallel in the story are reflections." }
+}

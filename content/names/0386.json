@@ -1,0 +1,45 @@
+{
+  "number": 386,
+  "verse": 84,
+  "slug": "shad-anga-devata-yukta",
+  "devanagari": "षडङ्गदेवतायुक्ता",
+  "iastSplit": "Ṣaḍ-aṅga-devatā-yuktā",
+  "archana": "ॐ षडङ्गदेवतायुक्तायै नमः",
+  "syllables": ["ṣa", "ḍaṅ", "ga", "de", "va", "tā", "yuk", "tā"],
+  "words": [
+    { "sa": "षष्", "meaning": { "en": "six", "hi": "छह" } },
+    { "sa": "अङ्ग", "meaning": { "en": "limb", "hi": "अंग" } },
+    { "sa": "देवता", "meaning": { "en": "deity", "hi": "देवता" } },
+    { "sa": "युक्ता", "meaning": { "en": "joined with, attended by", "hi": "युक्त" } }
+  ],
+  "meaning": {
+    "en": "Attended by the deities of the six limbs",
+    "hi": "छह अंगों के देवताओं से युक्त"
+  },
+  "explanation": {
+    "en": "Bhāskararāya names the six limbs as the heart, head, crown-lock, eyes, armour and weapon, each with its deity, a śakti. She is joined with these six and surrounded by them, as a queen by her attendants.",
+    "hi": "भास्करराय छह अंग बताते हैं: हृदय, शिर, शिखा, नेत्र, कवच और अस्त्र, और प्रत्येक की एक अधिष्ठात्री शक्ति है। वे इन छहों से युक्त और घिरी हुई हैं, जैसे महारानी अपनी सहचरियों से।"
+  },
+  "inner": {
+    "en": "He gives two further readings. The deity presiding over six limbs is Maheśvara himself, and a verse he cites from the Devī Bhāgavata names those six: omniscience, contentment, beginningless awareness, freedom, ever-unfailing power and infinity; she is joined with him. Or the six are the limbs of the Veda, beginning with phonetics and ritual, so that she, attended by their deities, is the Veda itself.",
+    "hi": "वे दो और अर्थ देते हैं। छह अंगों के अधिष्ठाता देवता स्वयं महेश्वर हैं, और देवीभागवत से उद्धृत एक श्लोक उनके छह अंग बताता है: सर्वज्ञता, तृप्ति, अनादि बोध, स्वतन्त्रता, नित्य अलुप्त शक्ति और अनन्तता; वे उन्हीं से युक्त हैं। अथवा ये छह वेद के अंग हैं, शिक्षा, कल्प आदि, और उनके देवताओं से युक्त होने के कारण वे स्वयं वेदस्वरूपा हैं।"
+  },
+  "story": {
+    "en": "Citing the Jñānārṇava and similar texts, Bhāskararāya notes that the limb-deities are themselves an enclosure of the Śrīcakra, and that only with them is the count of nine enclosures complete.",
+    "hi": "ज्ञानार्णव आदि ग्रन्थों के आधार पर भास्करराय बताते हैं कि अंग-देवता स्वयं भी श्रीचक्र का एक आवरण हैं, और उन्हीं के साथ नौ आवरणों की संख्या पूरी होती है।"
+  },
+  "commentary": {
+    "sanskrit": "षडवयवकान्यङ्गानि हृदयशिरःशिखानेत्रकवचास्त्राणि तेषां देवताभिः शक्तिभिर्युक्ता आवृता ।",
+    "translation": {
+      "en": "The aṅgas, limbs, are sixfold: heart, head, crown-lock, eyes, armour and weapon. She is joined with, that is surrounded by, their deities, the śaktis.",
+      "hi": "अंग छह अवयवों वाले हैं: हृदय, शिर, शिखा, नेत्र, कवच और अस्त्र। वे उनके देवताओं, अर्थात् शक्तियों, से युक्त, यानी घिरी हुई हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 386 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. In the Wikisource edition this first gloss is printed before the half-verse heading षडङ्गदेवतायुक्ता…; the rest of the comment follows the heading. The six aṅgas are named only, with no practice detail. The comparison with a queen’s attendants is a reflection." }
+}

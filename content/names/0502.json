@@ -1,0 +1,45 @@
+{
+  "number": 502,
+  "verse": 103,
+  "slug": "samasta-bhakta-sukhada",
+  "devanagari": "समस्तभक्तसुखदा",
+  "iastSplit": "Samasta-bhakta-sukhadā",
+  "archana": "ॐ समस्तभक्तसुखदायै नमः",
+  "syllables": ["sa", "mas", "ta", "bhak", "ta", "su", "kha", "dā"],
+  "words": [
+    { "sa": "समस्त", "meaning": { "en": "all, every", "hi": "समस्त, सभी" } },
+    { "sa": "भक्त", "meaning": { "en": "devotee", "hi": "भक्त" } },
+    { "sa": "सुख", "meaning": { "en": "happiness", "hi": "सुख" } },
+    { "sa": "दा", "meaning": { "en": "giver", "hi": "देने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who gives happiness to all her devotees",
+    "hi": "सभी भक्तों को सुख देने वाली"
+  },
+  "explanation": {
+    "en": "She gives happiness to every devotee, without exception. Bhāskararāya explains it plainly: she gives happiness to all devotees. The meditation verse he quotes calls Lākinī sakalasukhakarī, the maker of all happiness.",
+    "hi": "वे बिना किसी भेद के हर भक्त को सुख देती हैं। भास्करराय इसे सीधे शब्दों में समझाते हैं: वे सभी भक्तों को सुख देती हैं। उनके उद्धृत ध्यान-श्लोक में लाकिनी को ‘सकलसुखकरी’, अर्थात् सब सुख करने वाली, कहा गया है।"
+  },
+  "inner": {
+    "en": "He gives only the literal sense, with no hidden meaning. The same yoginī whom the meditation verse calls very fierce and frightening to bound souls is here the giver of happiness to all who love her: fierceness and grace are two faces of one care.",
+    "hi": "वे केवल शाब्दिक अर्थ देते हैं, कोई गूढ़ अर्थ नहीं। जिस योगिनी को ध्यान-श्लोक अत्यन्त उग्र और बद्ध जीवों को भय देने वाली कहता है, वही यहाँ अपने सब भक्तों को सुख देने वाली है: उग्रता और कृपा एक ही वात्सल्य के दो रूप हैं।"
+  },
+  "story": {
+    "en": "This is the eighth of the nine names on Lākinī of the navel lotus (495–503). Where Rākiṇī grants boons to the great heroes (name 493), Lākinī gives happiness to all devotees.",
+    "hi": "यह नाभि-कमल की लाकिनी के नौ नामों (495–503) में आठवाँ है। जहाँ राकिणी महावीरों को वर देती हैं (नाम 493), वहाँ लाकिनी सभी भक्तों को सुख देती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "समस्तेभ्यो भक्तेभ्यः सुखं ददातीति तथा ।",
+    "translation": {
+      "en": "She gives happiness to all devotees.",
+      "hi": "वे सभी भक्तों को सुख देती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 502 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the last clause of the inner layer is a reflection." }
+}

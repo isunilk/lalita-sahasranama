@@ -1,0 +1,43 @@
+{
+  "number": 592,
+  "verse": 119,
+  "slug": "chandra-nibha",
+  "devanagari": "चन्द्रनिभा",
+  "iastSplit": "Candra-nibhā",
+  "archana": "ॐ चन्द्रनिभायै नमः",
+  "syllables": ["can", "dra", "ni", "bhā"],
+  "words": [
+    { "sa": "चन्द्र", "meaning": { "en": "moon", "hi": "चन्द्रमा" } },
+    { "sa": "निभ", "meaning": { "en": "like, resembling", "hi": "समान, सदृश" } }
+  ],
+  "meaning": {
+    "en": "Like the moon; one with the moon in the head",
+    "hi": "चन्द्रमा के समान; सिर के चन्द्रमा से अभिन्न"
+  },
+  "explanation": {
+    "en": "Nibhā means ‘like’, so the plain sense is that she shines like the moon. Bhāskararāya reads it with the previous name: below the brahmarandhra there is a moon, and she is that moon.",
+    "hi": "‘निभा’ का अर्थ है ‘समान’, इसलिए सीधा अर्थ है कि वे चन्द्रमा जैसी दीप्त हैं। भास्करराय इसे पिछले नाम के साथ पढ़ते हैं: ब्रह्मरन्ध्र के नीचे एक चन्द्रमा है, और वे वही चन्द्रमा हैं।"
+  },
+  "inner": {
+    "en": "He says this moon is the third kūṭa of the vidyā. The word nibha usually means ‘like’, but here, he explains, it expresses identity: she does not merely resemble the moon, she is it.",
+    "hi": "वे कहते हैं कि यह चन्द्रमा विद्या का तीसरा कूट है। ‘निभ’ शब्द सामान्यतः ‘समान’ का अर्थ देता है, परन्तु यहाँ, वे समझाते हैं, यह अभेद बताता है: वे चन्द्रमा जैसी ही नहीं, स्वयं चन्द्रमा हैं।"
+  },
+  "story": {
+    "en": "This is the first of three lights in the body that Bhāskararāya pairs with the three kūṭas: the moon in the head here, the sun in the heart at name 596, and fire in the triangle at name 597.",
+    "hi": "यह शरीर के उन तीन प्रकाशों में पहला है जिन्हें भास्करराय तीन कूटों से जोड़ते हैं: यहाँ सिर में चन्द्रमा, नाम 596 में हृदय में सूर्य, और नाम 597 में त्रिकोण में अग्नि।"
+  },
+  "commentary": {
+    "sanskrit": "ब्रह्मरन्ध्रस्याधोभागे चन्द्रोऽस्ति स च विद्यातृतीयकूटात्मक इत्याशयेनाह ।",
+    "translation": {
+      "en": "Below the brahmarandhra there is a moon, and it is the third kūṭa of the vidyā; with this in mind the name says ‘Candranibhā’.",
+      "hi": "ब्रह्मरन्ध्र के नीचे चन्द्रमा है, और वह विद्या के तीसरे कूट का स्वरूप है; इसी आशय से (नाम) ‘चन्द्रनिभा’ कहता है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 592 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Cakra and mantra name: meaning only. Bhāskararāya’s remark that निभ here expresses identity is made under name 596." }
+}

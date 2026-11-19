@@ -1,0 +1,44 @@
+{
+  "number": 323,
+  "verse": 73,
+  "slug": "kadamba-kusuma-priya",
+  "devanagari": "कदम्बकुसुमप्रिया",
+  "iastSplit": "Kadamba-kusuma-priyā",
+  "archana": "ॐ कदम्बकुसुमप्रियायै नमः",
+  "syllables": ["ka", "dam", "ba", "ku", "su", "map", "ri", "yā"],
+  "words": [
+    { "sa": "कदम्ब", "meaning": { "en": "kadamba tree", "hi": "कदम्ब वृक्ष" } },
+    { "sa": "कुसुम", "meaning": { "en": "flower", "hi": "पुष्प, फूल" } },
+    { "sa": "प्रिया", "meaning": { "en": "to whom something is dear; fond of", "hi": "जिन्हें प्रिय है" } }
+  ],
+  "meaning": {
+    "en": "Who loves the flowers of the kadamba tree",
+    "hi": "जिन्हें कदम्ब के फूल प्रिय हैं"
+  },
+  "explanation": {
+    "en": "Kadamba flowers, which Bhāskararāya also calls nīpa blossoms, are dear to her. The kadamba is a tree whose round, fragrant, golden flowers open in the rains.",
+    "hi": "कदम्ब के फूल, जिन्हें भास्करराय ‘नीप-पुष्प’ भी कहते हैं, उन्हें प्रिय हैं। कदम्ब वह वृक्ष है जिसके गोल, सुगन्धित, सुनहरे फूल वर्षा ऋतु में खिलते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the plain sense here. Her love for these flowers belongs to her home: as he explains on name 60, in her city the jewelled pavilion around her palace of wish-granting gems is itself ringed by a forest of kadamba trees.",
+    "hi": "भास्करराय यहाँ केवल सीधा अर्थ देते हैं। इन फूलों से उनका प्रेम उनके निवास से जुड़ा है: जैसा वे नाम 60 पर बताते हैं, उनके नगर में चिन्तामणि-गृह के चारों ओर मणिमण्डप है, और उसके चारों ओर कदम्ब का वन।"
+  },
+  "story": {
+    "en": "The hymn has met the kadamba before: in name 21 sprays of kadamba blossom adorn her ears, and name 60 calls her Kadambavanavāsinī, she who dwells in the kadamba forest.",
+    "hi": "स्तोत्र में कदम्ब पहले भी आया है: नाम 21 में कदम्ब-मञ्जरी से बने कर्णफूल उनकी शोभा बढ़ाते हैं, और नाम 60 उन्हें ‘कदम्बवनवासिनी’, अर्थात् कदम्ब-वन में रहने वाली, कहता है।"
+  },
+  "commentary": {
+    "sanskrit": "कदम्बकुसुमानि नीपपुष्पाणि प्रियाणि यस्याः सा ।",
+    "translation": {
+      "en": "She to whom kadamba flowers, nīpa blossoms, are dear.",
+      "hi": "जिन्हें कदम्ब-कुसुम अर्थात् नीप के फूल प्रिय हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 323 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the link to his comment on name 60 is the drafter’s." }
+}

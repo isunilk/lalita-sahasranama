@@ -1,0 +1,45 @@
+{
+  "number": 506,
+  "verse": 104,
+  "slug": "shuladyayudha-sampanna",
+  "devanagari": "शूलाद्यायुधसम्पन्ना",
+  "iastSplit": "Śūlādyāyudha-sampannā",
+  "archana": "ॐ शूलाद्यायुधसम्पन्नायै नमः",
+  "syllables": ["śū", "lād", "yā", "yu", "dha", "sam", "pan", "nā"],
+  "words": [
+    { "sa": "शूल", "meaning": { "en": "trident, spear", "hi": "शूल, त्रिशूल" } },
+    { "sa": "आदि", "meaning": { "en": "beginning with", "hi": "आदि" } },
+    { "sa": "आयुध", "meaning": { "en": "weapon", "hi": "आयुध" } },
+    { "sa": "सम्पन्ना", "meaning": { "en": "endowed with", "hi": "सम्पन्न, युक्त" } }
+  ],
+  "meaning": {
+    "en": "Equipped with the trident and other weapons",
+    "hi": "शूल आदि आयुधों से सम्पन्न"
+  },
+  "explanation": {
+    "en": "Bhāskararāya says she is equipped with weapons beginning with the trident, as many as the meditation verse states. That verse names a trident, a skull-bowl and the gesture of fearlessness among them.",
+    "hi": "भास्करराय बताते हैं कि वे शूल आदि उतने आयुधों से सम्पन्न हैं जितने ध्यान-श्लोक में कहे गए हैं। उस श्लोक में इनमें त्रिशूल, कपाल और अभय-मुद्रा का नाम आता है।"
+  },
+  "inner": {
+    "en": "He gives only the literal sense, with no hidden meaning; ‘as many as stated’ sends the reader to the meditation verse for the count. The trident is Śiva’s weapon, and the Goddess carries it in many of her forms.",
+    "hi": "वे केवल शाब्दिक अर्थ देते हैं, कोई गूढ़ अर्थ नहीं; ‘कही गई संख्या वाले’ कहकर वे गिनती के लिए पाठक को ध्यान-श्लोक की ओर भेजते हैं। त्रिशूल शिव का आयुध है, और देवी भी अपने अनेक रूपों में इसे धारण करती हैं।"
+  },
+  "story": {
+    "en": "Śūla can mean a spear as well as a trident; the meditation verse for Kākinī calls it triśikha, ‘three-pointed’, so a trident is meant here.",
+    "hi": "‘शूल’ भाला भी हो सकता है और त्रिशूल भी; काकिनी के ध्यान-श्लोक में इसे ‘त्रिशिख’, अर्थात् तीन नोकों वाला, कहा गया है, इसलिए यहाँ त्रिशूल अभिप्रेत है।"
+  },
+  "commentary": {
+    "sanskrit": "शूलादिभिरुक्तसंख्याकायुधैः सम्पन्ना ।",
+    "translation": {
+      "en": "Endowed with weapons, beginning with the trident, as many in number as stated.",
+      "hi": "शूल आदि, कही गई संख्या वाले, आयुधों से सम्पन्न।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 506 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense. The verse he quotes reads त्रिशिखगुणकपालाभयानि; only the trident, skull-bowl and gesture of fearlessness are named here, since the sense of गुण (cord or noose?) is uncertain. The second sentence of the inner layer is general context." }
+}

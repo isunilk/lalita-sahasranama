@@ -1,0 +1,44 @@
+{
+  "number": 380,
+  "verse": 83,
+  "slug": "bindu-mandala-vasini",
+  "devanagari": "बिन्दुमण्डलवासिनी",
+  "iastSplit": "Bindu-maṇḍala-vāsinī",
+  "archana": "ॐ बिन्दुमण्डलवासिन्यै नमः",
+  "syllables": ["bin", "du", "maṇ", "ḍa", "la", "vā", "si", "nī"],
+  "words": [
+    { "sa": "बिन्दु", "meaning": { "en": "point, drop; the central point of the Śrīcakra", "hi": "बिन्दु; श्रीचक्र का केन्द्र" } },
+    { "sa": "मण्डल", "meaning": { "en": "circle, sacred diagram", "hi": "मण्डल" } },
+    { "sa": "वासिनी", "meaning": { "en": "dwelling", "hi": "निवास करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who dwells in the circle of the bindu",
+    "hi": "बिन्दु-मण्डल में निवास करने वाली"
+  },
+  "explanation": {
+    "en": "The bindu is the point at the very centre of the Śrīcakra. She dwells in that point, the innermost place of the whole diagram.",
+    "hi": "बिन्दु श्रीचक्र के ठीक केन्द्र का बिन्दु है। वे उसी बिन्दु में, पूरे चक्र के सबसे भीतरी स्थान में, निवास करती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says the bindu itself is the maṇḍala, the circle made wholly of bliss, which Śrīvidyā calls sarvānandamaya, and she dwells there. Others, he notes, take bindu as the white drop and its circle as the brahmarandhra at the crown, citing Śaṅkarācārya’s line that in the thousand-petalled lotus she sports in secret with her Lord. After the four seats, the hymn comes to the centre that holds them all.",
+    "hi": "भास्करराय कहते हैं कि बिन्दु ही वह मण्डल है जो पूर्णतः आनन्दमय है, जिसे श्रीविद्या में ‘सर्वानन्दमय’ चक्र कहते हैं, और वे वहीं निवास करती हैं। वे बताते हैं कि कुछ लोग बिन्दु का अर्थ शुक्ल बिन्दु और उसके मण्डल का अर्थ सिर के शिखर पर ब्रह्मरन्ध्र लेते हैं, और शंकराचार्य की वह पंक्ति देते हैं कि सहस्रदल कमल में वे एकान्त में अपने पति के साथ विहार करती हैं। चार पीठों के बाद स्तोत्र उस केन्द्र पर आता है जो उन सबको धारण करता है।"
+  },
+  "story": {
+    "en": "The Śrīcakra is worshipped as nine enclosures, from the outer square inward to the bindu, the ninth, called Sarvānandamaya, “full of every bliss”. There Lalitā sits with Kāmeśvara.",
+    "hi": "श्रीचक्र की उपासना नौ आवरणों में होती है, बाहरी भूपुर से भीतर की ओर बिन्दु तक, जो नौवाँ है और ‘सर्वानन्दमय’, अर्थात् सब आनन्दों से भरा, कहलाता है। वहीं ललिता कामेश्वर के साथ विराजती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "बिन्दुरेव मण्डलं सर्वानन्दमयात्मकं चक्रवालं तत्र वसति ।",
+    "translation": {
+      "en": "The bindu itself is the maṇḍala, the circle whose nature is sarvānandamaya, full of every bliss; she dwells there.",
+      "hi": "बिन्दु ही मण्डल है, सर्वानन्दमय स्वरूप वाला चक्र; वे वहीं निवास करती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 380 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The last sentence of the inner layer is a reflection. The Śaṅkara line is Saundaryalaharī 9 (identification mine); the edition prints पद्ये for पद्मे there (not quoted)." }
+}

@@ -1,0 +1,44 @@
+{
+  "number": 482,
+  "verse": 99,
+  "slug": "pashu-loka-bhayankari",
+  "devanagari": "पशुलोकभयङ्करी",
+  "iastSplit": "Paśu-loka-bhayaṅkarī",
+  "archana": "ॐ पशुलोकभयङ्कर्यै नमः",
+  "syllables": ["pa", "śu", "lo", "ka", "bha", "yaṅ", "ka", "rī"],
+  "words": [
+    { "sa": "पशु", "meaning": { "en": "bound soul (literally, a tethered beast)", "hi": "पशु, बद्ध जीव" } },
+    { "sa": "लोक", "meaning": { "en": "people, world", "hi": "लोक, जन" } },
+    { "sa": "भयङ्करी", "meaning": { "en": "who causes fear, fearsome", "hi": "भय उत्पन्न करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Fearsome to the world of bound souls, the paśus",
+    "hi": "पशु-भाव में बँधे लोगों के लिए भयंकर"
+  },
+  "explanation": {
+    "en": "Paśu literally means a beast tethered by a rope. Bhāskararāya explains that the paśus are those who lack the knowledge of non-duality, and that to them she is fearsome.",
+    "hi": "‘पशु’ का शाब्दिक अर्थ है रस्सी से बँधा जानवर। भास्करराय बताते हैं कि जिनमें अद्वैत का ज्ञान नहीं है, वे ही पशु हैं, और उनके लिए वे भयंकर हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya grounds this in śruti: one who worships a deity thinking ‘he is one and I am another’ does not know, and is like a beast; and fear arises from a second. Fear belongs to the sense of separation. To one who still sees her as other, her power is terrifying; to one who knows her as the Self, nothing is left to fear.",
+    "hi": "भास्करराय इसे श्रुति पर आधारित करते हैं: जो किसी देवता की उपासना ‘वह अन्य है, मैं अन्य हूँ’ ऐसा मानकर करता है, वह नहीं जानता, वह पशु के समान है; और ‘दूसरे से ही भय होता है’। भय भेद-बुद्धि से जन्म लेता है। जो उन्हें स्वयं से भिन्न देखता है, उसके लिए उनकी शक्ति भयावह है; जो उन्हें अपनी आत्मा जानता है, उसके लिए भय का कोई कारण नहीं रहता।"
+  },
+  "story": {
+    "en": "The meditation verse for Ḍākinī that Bhāskararāya quotes calls her paśujanabhayadā, ‘who gives fear to bound folk’, and the verse he quotes for Lākinī of the navel lotus uses the same words. Fierce traits like this sit beside gentle ones throughout the yoginī names.",
+    "hi": "डाकिनी के लिए भास्करराय जो ध्यान-श्लोक उद्धृत करते हैं, उसमें उन्हें ‘पशुजनभयदा’, अर्थात् बद्ध जनों को भय देने वाली, कहा गया है; नाभि-कमल की लाकिनी के श्लोक में भी यही शब्द आते हैं। योगिनी-नामों में ऐसे उग्र लक्षण कोमल लक्षणों के साथ-साथ चलते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "अद्वैतविद्याविहीनाः पशवस्त एव लोकास्तेषां भयङ्करी ।",
+    "translation": {
+      "en": "Those who lack the knowledge of non-duality are the paśus; they are the ‘world’ (loka), and to them she is fearsome.",
+      "hi": "जो अद्वैत-विद्या से रहित हैं वे पशु हैं, वे ही ‘लोक’ हैं, और उनके लिए वे भयंकर हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 482 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya quotes two śruti passages without naming their source; the first appears to be Bṛhadāraṇyaka Upaniṣad 1.4.10 (योऽन्यां देवतामुपास्ते…), which a scholar may confirm. The last two sentences of the inner layer are a reflection drawn from those passages." }
+}

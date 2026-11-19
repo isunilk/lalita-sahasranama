@@ -1,0 +1,42 @@
+{
+  "number": 324,
+  "verse": 73,
+  "slug": "kalyani",
+  "devanagari": "कल्याणी",
+  "iastSplit": "Kalyāṇī",
+  "archana": "ॐ कल्याण्यै नमः",
+  "syllables": ["kal", "yā", "ṇī"],
+  "words": [
+    { "sa": "कल्याणी", "meaning": { "en": "auspicious, blessed, good", "hi": "मंगलमयी, शुभ, कल्याणकारिणी" } }
+  ],
+  "meaning": {
+    "en": "The auspicious one, who brings blessing to all",
+    "hi": "मंगलमयी, सबका कल्याण करने वाली"
+  },
+  "explanation": {
+    "en": "Kalyāṇī means auspicious, beautiful and good. Bhāskararāya says she is Kalyāṇī because her very nature is auspiciousness.",
+    "hi": "‘कल्याणी’ का अर्थ है मंगलमयी, सुन्दर और शुभ। भास्करराय कहते हैं कि वे कल्याणी इसलिए हैं कि उनका स्वरूप ही मंगल है।"
+  },
+  "inner": {
+    "en": "He also gives an etymology from sound: auspicious speech is called kalyā, and she who utters it is Kalyāṇī. The name joins her to sacred speech; every word of blessing is her voice.",
+    "hi": "वे इसकी एक ध्वनि-परक व्युत्पत्ति भी देते हैं: शुभ वाणी को ‘कल्या’ कहते हैं, और जो उसका उच्चारण करती हैं, वे कल्याणी हैं। यह नाम उन्हें पवित्र वाणी से जोड़ता है; हर मंगल वचन उन्हीं की वाणी है।"
+  },
+  "story": {
+    "en": "Bhāskararāya notes that the Padma Purāṇa and the Devī Purāṇa, in their lists of the Devī’s holy places, name her form on the Malaya mountain Kalyāṇī.",
+    "hi": "भास्करराय बताते हैं कि पद्म पुराण और देवी पुराण देवी के तीर्थों की सूची में मलय पर्वत पर उनके रूप को ‘कल्याणी’ कहते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "शुभात्मका वाणी कल्या तामेवाणति शब्दायतेऽसौ कल्याणी ।",
+    "translation": {
+      "en": "Auspicious speech is kalyā; because she utters it, she is Kalyāṇī.",
+      "hi": "शुभ वाणी ‘कल्या’ कहलाती है; उसी का वे उच्चारण करती हैं, इसलिए कल्याणी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 324 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The last clause of the inner layer is a reflection." }
+}

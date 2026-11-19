@@ -1,0 +1,44 @@
+{
+  "number": 517,
+  "verse": 106,
+  "slug": "ankushadi-praharana",
+  "devanagari": "अङ्कुशादिप्रहरणा",
+  "iastSplit": "Aṅkuśādi-praharaṇā",
+  "archana": "ॐ अङ्कुशादिप्रहरणायै नमः",
+  "syllables": ["aṅ", "ku", "śā", "dip", "ra", "ha", "ra", "ṇā"],
+  "words": [
+    { "sa": "अङ्कुश", "meaning": { "en": "goad (for an elephant)", "hi": "अङ्कुश" } },
+    { "sa": "आदि", "meaning": { "en": "and the others", "hi": "आदि" } },
+    { "sa": "प्रहरण", "meaning": { "en": "weapon", "hi": "प्रहरण, आयुध" } }
+  ],
+  "meaning": {
+    "en": "Who bears the goad and her other weapons",
+    "hi": "अङ्कुश आदि आयुध धारण करने वाली"
+  },
+  "explanation": {
+    "en": "Bhāskararāya says she has four weapons, the first of them the aṅkuśa, the elephant goad. The meditation verse he quotes names them as goad, lotus, book and the gesture of knowledge.",
+    "hi": "भास्करराय बताते हैं कि उनके चार आयुध हैं, जिनमें पहला अङ्कुश है। उनके उद्धृत ध्यान-श्लोक में ये अङ्कुश, कमल, पुस्तक और ज्ञान-मुद्रा बताए गए हैं।"
+  },
+  "inner": {
+    "en": "He gives only the literal sense, with no hidden meaning. It is worth noticing that her four ‘weapons’, as the meditation verse names them, include a lotus, a book and the gesture of knowledge: at the root of the body, Sākinī’s arms bear the signs of wisdom as much as of force.",
+    "hi": "वे केवल शाब्दिक अर्थ देते हैं, कोई गूढ़ अर्थ नहीं। ध्यान देने योग्य है कि ध्यान-श्लोक में बताए गए उनके चार ‘प्रहरणों’ में कमल, पुस्तक और ज्ञान-मुद्रा भी हैं: शरीर के मूल में साकिनी के हाथ बल के जितने चिह्न धारण करते हैं, उतने ही ज्ञान के भी।"
+  },
+  "story": {
+    "en": "The goad is also one of Lalitā’s own four emblems, with the noose, the sugarcane bow and the flower arrows (names 8–11). Sākinī carries it first among her weapons.",
+    "hi": "अङ्कुश स्वयं ललिता के चार आयुधों में से भी एक है, पाश, इक्षु-धनुष और पुष्प-बाणों के साथ (नाम 8–11)। साकिनी इसे अपने आयुधों में पहला धारण करती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "अङ्कुशादीनि चत्वारि प्रहरणानि यस्याः ।",
+    "translation": {
+      "en": "She whose four weapons begin with the goad.",
+      "hi": "जिनके अङ्कुश आदि चार आयुध हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 517 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the observation in the inner layer is a reflection." }
+}

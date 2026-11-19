@@ -1,0 +1,43 @@
+{
+  "number": 315,
+  "verse": 72,
+  "slug": "rati-rupa",
+  "devanagari": "रतिरूपा",
+  "iastSplit": "Rati-rūpā",
+  "archana": "ॐ रतिरूपायै नमः",
+  "syllables": ["ra", "ti", "rū", "pā"],
+  "words": [
+    { "sa": "रति", "meaning": { "en": "Rati, wife of Kāma; love’s delight", "hi": "रति, कामदेव की पत्नी; प्रेम का आनन्द" } },
+    { "sa": "रूपा", "meaning": { "en": "having the form of", "hi": "स्वरूपा" } }
+  ],
+  "meaning": {
+    "en": "Who takes the form of Rati, goddess of love’s delight",
+    "hi": "रति-स्वरूपा, प्रेम के आनन्द की देवी के रूप वाली"
+  },
+  "explanation": {
+    "en": "Rati, whose name means love’s delight, is the wife of Kāma, the god of love. Bhāskararāya says simply that Rati is the Devī’s own form, since she is Kāma’s wife.",
+    "hi": "रति, जिनके नाम का अर्थ ही प्रेम का आनन्द है, कामदेव की पत्नी हैं। भास्करराय सीधे कहते हैं कि रति ही देवी का रूप हैं, क्योंकि वे काम की पत्नी हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya also reads names 313 to 315 together as an uddhāra, a coded spelling of a sacred syllable: the first two names give its sounds, and the third, Ratirūpā, names the whole as kāmakalā, the subject of name 322. In keeping with this site’s practice the syllable itself is not given here; such things are learned from a teacher.",
+    "hi": "भास्करराय नाम 313 से 315 को एक साथ एक ‘उद्धार’ के रूप में भी पढ़ते हैं, अर्थात् एक पवित्र बीजाक्षर की सांकेतिक रचना: पहले दो नाम उसकी ध्वनियाँ बताते हैं, और तीसरा, रतिरूपा, उस पूरे को ‘कामकला’ कहता है, जो नाम 322 का विषय है। इस साइट की परम्परा के अनुसार वह बीज यहाँ नहीं दिया गया; ऐसी बातें गुरु से ही सीखी जाती हैं।"
+  },
+  "story": {
+    "en": "Rati’s husband Kāma was burnt to ashes by the fire of Śiva’s third eye. On name 84 Bhāskararāya recalls the Brahmāṇḍa Purāṇa story that after Bhaṇḍāsura was slain, Brahmā and the gods entreated Lalitā, and she brought Kāma back to life.",
+    "hi": "रति के पति कामदेव शिव के तृतीय नेत्र की अग्नि से भस्म हो गए थे। नाम 84 पर भास्करराय ब्रह्माण्ड पुराण की वह कथा स्मरण करते हैं कि भण्डासुर के वध के बाद ब्रह्मा आदि देवताओं की प्रार्थना पर ललिताम्बा ने काम को पुनः जीवित किया।"
+  },
+  "commentary": {
+    "sanskrit": "रतिरेव रूपं यस्याः कामपत्नीत्वात् ।",
+    "translation": {
+      "en": "She whose form is Rati herself, because she is Kāma’s wife.",
+      "hi": "रति ही जिनका रूप है, काम की पत्नी होने के कारण।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 315 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. In कामपत्नीत्वात् it is not said whether Kāma means the god of love or Kāmeśvara; the translation keeps the ambiguity. The uddhāra reading of 313–315 is described but its result is deliberately not given." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 178,
+  "verse": 49,
+  "slug": "nirbheda",
+  "devanagari": "निर्भेदा",
+  "iastSplit": "Nir-bhedā",
+  "archana": "ॐ निर्भेदायै नमः",
+  "syllables": ["nir", "bhe", "dā"],
+  "words": [
+    { "sa": "निर्", "meaning": { "en": "without, beyond", "hi": "रहित, परे" } },
+    { "sa": "भेद", "meaning": { "en": "difference, division", "hi": "भेद, अन्तर" } }
+  ],
+  "meaning": {
+    "en": "Free of all difference, one with everything",
+    "hi": "सब भेदों से रहित, सबसे अभिन्न"
+  },
+  "explanation": {
+    "en": "Bheda is difference: the sense that one thing is separate from another. Nothing is separate from her, and she is separate from nothing. She is nirbhedā, undivided.",
+    "hi": "भेद का अर्थ है अन्तर: यह भाव कि एक वस्तु दूसरी से अलग है। कुछ भी उनसे अलग नहीं, और वे किसी से अलग नहीं। वे निर्भेदा हैं, अखण्ड।"
+  },
+  "inner": {
+    "en": "Bhāskararāya puts it in the precise terms of Indian logic: difference needs something that differs and something it differs from, and she is neither. He quotes the Kūrma Purāṇa: she is the supreme, infinite Śakti, ‘free of all difference and the destroyer of all difference’. In another passage of the same Purāṇa, those who speak of a difference between Śakti and the one who holds Śakti do not speak from the highest truth; yogis who reflect on reality see the two as one.",
+    "hi": "भास्करराय इसे न्याय की सूक्ष्म भाषा में रखते हैं: भेद के लिए एक वस्तु चाहिए जो भिन्न हो और दूसरी जिससे वह भिन्न हो, और वे इनमें से कोई नहीं हैं। वे कूर्म पुराण का वचन उद्धृत करते हैं: वे परम, अनन्त शक्ति हैं, ‘सब भेदों से मुक्त और सब भेदों का नाश करने वाली’। उसी पुराण के एक अन्य स्थल के अनुसार, शक्ति और शक्तिमान में भेद बताने वाले परमार्थ की दृष्टि से नहीं बोलते; तत्त्व का चिन्तन करने वाले योगी दोनों को अभिन्न देखते हैं।"
+  },
+  "story": {
+    "en": "Names 178 and 179 form one of the pairs that run through verses 46 to 49: the first name says she is free of something, the second that she destroys it in others. Here that something is difference itself.",
+    "hi": "नाम 178 और 179 उन जोड़ों में से एक हैं जो श्लोक 46 से 49 तक चलते हैं: पहला नाम बताता है कि वे किसी वस्तु से रहित हैं, और दूसरा कि वे दूसरों में उसका नाश करती हैं। यहाँ वह वस्तु स्वयं भेद है।"
+  },
+  "commentary": {
+    "sanskrit": "अन्योऽन्याभावस्य प्रतियोगित्वसम्बन्धेनानुयोगित्वसम्बन्धेन चाभावान्निर्भेदा ।",
+    "translation": {
+      "en": "Because mutual absence, that is, difference, does not apply to her, neither with her as the thing it denies nor with her as the thing it resides in, she is nirbhedā.",
+      "hi": "अन्योन्याभाव, अर्थात् भेद, उन पर न प्रतियोगी के रूप में लागू होता है, न अनुयोगी के रूप में; इसलिए वे निर्भेदा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 178 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The two Kūrma Purāṇa passages are paraphrased from Bhāskararāya’s quotations; the commentary does not say where in the Purāṇa they occur." }
+}

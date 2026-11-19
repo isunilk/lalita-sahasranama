@@ -1,0 +1,44 @@
+{
+  "number": 504,
+  "verse": 104,
+  "slug": "svadhishthanambuja-gata",
+  "devanagari": "स्वाधिष्ठानाम्बुजगता",
+  "iastSplit": "Svādhiṣṭhānāmbuja-gatā",
+  "archana": "ॐ स्वाधिष्ठानाम्बुजगतायै नमः",
+  "syllables": ["svā", "dhiṣ", "ṭhā", "nām", "bu", "ja", "ga", "tā"],
+  "words": [
+    { "sa": "स्वाधिष्ठान", "meaning": { "en": "svādhiṣṭhāna, ‘one’s own seat’; the cakra above the mūlādhāra", "hi": "स्वाधिष्ठान, ‘अपना अधिष्ठान’; मूलाधार के ऊपर का चक्र" } },
+    { "sa": "अम्बुज", "meaning": { "en": "lotus (literally, water-born)", "hi": "कमल (जल में जन्मा)" } },
+    { "sa": "गता", "meaning": { "en": "gone to, residing in", "hi": "पहुँची हुई, स्थित" } }
+  ],
+  "meaning": {
+    "en": "Who resides in the svādhiṣṭhāna lotus",
+    "hi": "स्वाधिष्ठान कमल में स्थित"
+  },
+  "explanation": {
+    "en": "Svādhiṣṭhāna is a lotus of six petals. Bhāskararāya says the yoginī Kākinī dwells there; gatā means she has reached it and abides in it. This name and the nine after it describe her.",
+    "hi": "स्वाधिष्ठान छह दलों वाला कमल है। भास्करराय बताते हैं कि वहाँ काकिनी नाम की योगिनी निवास करती हैं; ‘गता’ का अर्थ है कि वे वहाँ पहुँचकर स्थित हैं। यह नाम और इसके बाद के नौ नाम उनका वर्णन करते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives the literal sense and no hidden meaning. The order of these names, throat, heart, navel and now svādhiṣṭhāna, follows the yoginīs downward; he says it is the order of the yoginī-nyāsa.",
+    "hi": "भास्करराय शाब्दिक अर्थ देते हैं, कोई गूढ़ अर्थ नहीं। इन नामों का क्रम, कण्ठ, हृदय, नाभि और अब स्वाधिष्ठान, योगिनियों के साथ नीचे की ओर चलता है; वे बताते हैं कि यह योगिनी-न्यास का क्रम है।"
+  },
+  "story": {
+    "en": "The meditation verse Bhāskararāya quotes for Kākinī places her in the six-petalled svādhiṣṭhāna: four-faced and three-eyed, holding a trident and other emblems with the gesture of fearlessness, proud, established in the fat, attended by Bandhinī and others, yellow, fond of curd-rice and granting desired fruits.",
+    "hi": "भास्करराय काकिनी के लिए जो ध्यान-श्लोक उद्धृत करते हैं, उसमें वे छह दलों वाले स्वाधिष्ठान में हैं: चार मुखों और तीन नेत्रों वाली, त्रिशूल आदि और अभय-मुद्रा धारण किए, गर्व से युक्त, मेद-धातु में प्रतिष्ठित, बन्धिनी आदि से युक्त, पीत वर्ण की, दही-भात की प्रेमी और मनचाहा फल देने वाली।"
+  },
+  "commentary": {
+    "sanskrit": "स्वाधिष्ठानाख्यमम्बुजं गता प्राप्ता ।",
+    "translation": {
+      "en": "Gatā: she has gone to, reached, the lotus called svādhiṣṭhāna.",
+      "hi": "स्वाधिष्ठान नाम के कमल को ‘गता’, अर्थात् प्राप्त।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 504 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense. The gloss ‘one’s own seat’ for svādhiṣṭhāna and its place above the mūlādhāra are general background, not from his comment. The meditation verse is described as iconography only; its अलिमदमुदिताम्, whose sense is uncertain, is left out of the story." }
+}

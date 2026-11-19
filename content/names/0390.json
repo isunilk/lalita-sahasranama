@@ -1,0 +1,44 @@
+{
+  "number": 390,
+  "verse": 85,
+  "slug": "nirvana-sukha-dayini",
+  "devanagari": "निर्वाणसुखदायिनी",
+  "iastSplit": "Nirvāṇa-sukha-dāyinī",
+  "archana": "ॐ निर्वाणसुखदायिन्यै नमः",
+  "syllables": ["nir", "vā", "ṇa", "su", "kha", "dā", "yi", "nī"],
+  "words": [
+    { "sa": "निर्वाण", "meaning": { "en": "liberation; for Bhāskararāya, the bodiless state", "hi": "निर्वाण, मोक्ष; भास्करराय के अनुसार अशरीर अवस्था" } },
+    { "sa": "सुख", "meaning": { "en": "happiness, bliss", "hi": "सुख, आनन्द" } },
+    { "sa": "दायिनी", "meaning": { "en": "giver", "hi": "देने वाली" } }
+  ],
+  "meaning": {
+    "en": "Giver of the bliss of liberation",
+    "hi": "निर्वाण का सुख देने वाली"
+  },
+  "explanation": {
+    "en": "Nirvāṇa is final liberation, and sukha its bliss. She grants that bliss, which no measure can limit.",
+    "hi": "निर्वाण अन्तिम मुक्ति है, और सुख उसका आनन्द। वे वह आनन्द देती हैं, जिसे कोई परिमाण सीमित नहीं कर सकता।"
+  },
+  "inner": {
+    "en": "Bhāskararāya reads nirvāṇa in an unusual way: bāṇa can mean the body, so nirvāṇa is that in which the body has gone, the bodiless state. He supports this sense of bāṇa from the usage of Vedānta and Mīmāṃsā and from a lexicon. The bliss she gives is not a pleasure felt by a body but the boundless joy of freedom itself.",
+    "hi": "भास्करराय ‘निर्वाण’ का एक असामान्य अर्थ देते हैं: ‘बाण’ का अर्थ शरीर भी है, इसलिए निर्वाण वह है जिसमें शरीर नहीं रहा, अर्थात् अशरीर अवस्था। इस अर्थ के लिए वे वेदान्त और मीमांसा के प्रयोग और एक कोश का प्रमाण देते हैं। जो आनन्द वे देती हैं, वह शरीर द्वारा अनुभव किया गया सुख नहीं, स्वयं मुक्ति का असीम आनन्द है।"
+  },
+  "story": {
+    "en": "Bhāskararāya quotes the Kūrma Purāṇa, where the Devī tells Himavān that the pure, supreme state of nirvāṇa is not reached without honouring her, and so he should take refuge in her.",
+    "hi": "भास्करराय कूर्मपुराण का वचन उद्धृत करते हैं, जहाँ देवी हिमवान से कहती हैं कि उनका आदर किए बिना परम निर्मल निर्वाण-पद प्राप्त नहीं होता, इसलिए वे उनकी शरण लें।"
+  },
+  "commentary": {
+    "sanskrit": "अशरीरं इयत्तानवच्छिन्नं सुखं मोक्षाख्यं ददातीति तथा ।",
+    "translation": {
+      "en": "She gives that bodiless happiness, not bounded by any measure, which is called mokṣa: hence the name.",
+      "hi": "वे वह अशरीर सुख देती हैं, जो किसी परिमाण से सीमित नहीं और जिसे मोक्ष कहते हैं; इसलिए यह नाम है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 390 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s derivation of nirvāṇa from बाण = body is summarised; his lexicon citation is printed with a misprint (बाणमुद्गला वित्य…) and is not quoted. The last sentence of the inner layer is a reflection." }
+}

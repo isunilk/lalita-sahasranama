@@ -1,0 +1,43 @@
+{
+  "number": 566,
+  "verse": 115,
+  "slug": "nitya-tripta",
+  "devanagari": "नित्यतृप्ता",
+  "iastSplit": "Nitya-tṛptā",
+  "archana": "ॐ नित्यतृप्तायै नमः",
+  "syllables": ["nit", "ya", "tṛp", "tā"],
+  "words": [
+    { "sa": "नित्य", "meaning": { "en": "eternal; always", "hi": "नित्य, सदा" } },
+    { "sa": "तृप्ता", "meaning": { "en": "content, fulfilled", "hi": "तृप्त, संतुष्ट" } }
+  ],
+  "meaning": {
+    "en": "Ever content, eternally fulfilled",
+    "hi": "सदा तृप्त रहने वाली"
+  },
+  "explanation": {
+    "en": "She is always satisfied. Bhāskararāya gives two readings: she is content at all times, or she is content with the eternal bliss of her own being.",
+    "hi": "वे सदा तृप्त हैं। भास्करराय दो अर्थ देते हैं: वे हर समय संतुष्ट रहती हैं, अथवा वे अपने ही नित्य स्वरूपानन्द से तृप्त हैं।"
+  },
+  "inner": {
+    "en": "The second reading goes deeper: her contentment does not depend on anything outside her, because it rests in svarūpānanda, the bliss that is her very self. Whatever we offer adds nothing to her; the offering is for our own sake.",
+    "hi": "दूसरा अर्थ अधिक गहरा है: उनकी तृप्ति किसी बाहरी वस्तु पर निर्भर नहीं, क्योंकि वह स्वरूपानन्द में, अर्थात् उनके अपने स्वरूप के आनन्द में, टिकी है। हम जो भी अर्पित करते हैं, उससे उनमें कुछ नहीं बढ़ता; अर्पण हमारे अपने हित के लिए है।"
+  },
+  "story": {
+    "en": "The first line of this verse gathers names of her fullness and rule: ever content, the treasure of devotees, the controller, and the sovereign of all.",
+    "hi": "इस श्लोक की पहली पंक्ति उनकी पूर्णता और ईश्वरत्व के नाम एकत्र करती है: सदा तृप्त, भक्तों की निधि, नियन्त्री, और सबकी स्वामिनी।"
+  },
+  "commentary": {
+    "sanskrit": "नित्यं सर्वकालं तृप्ता । नित्येन स्वरूपानन्देन वा तृप्ता ।",
+    "translation": {
+      "en": "Content always, at all times; or, content with the eternal bliss of her own nature.",
+      "hi": "नित्य, अर्थात् हर काल में, तृप्त; अथवा अपने नित्य स्वरूपानन्द से तृप्त।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 566 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The last sentence of the inner layer is a reflection." }
+}

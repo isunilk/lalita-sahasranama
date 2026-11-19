@@ -1,0 +1,42 @@
+{
+  "number": 368,
+  "verse": 81,
+  "slug": "pashyanti",
+  "devanagari": "पश्यन्ती",
+  "iastSplit": "Paśyantī",
+  "archana": "ॐ पश्यन्त्यै नमः",
+  "syllables": ["paś", "yan", "tī"],
+  "words": [
+    { "sa": "पश्यन्ती", "meaning": { "en": "she who sees; the second level of speech", "hi": "देखने वाली; वाणी का दूसरा स्तर" } }
+  ],
+  "meaning": {
+    "en": "She who sees: the second level of speech",
+    "hi": "जो देखती हैं: वाणी का दूसरा स्तर"
+  },
+  "explanation": {
+    "en": "Paśyantī means “she who sees”. It is the second level of speech, a single undivided stirring joined with the mind, not yet separated into words. Bhāskararāya adds that she is also called Uttīrṇā, “she who has crossed beyond”.",
+    "hi": "‘पश्यन्ती’ का अर्थ है देखने वाली। यह वाणी का दूसरा स्तर है: मन से जुड़ा एक अखण्ड स्पन्द, जो अभी शब्दों में नहीं बँटा। भास्करराय बताते हैं कि उनका एक नाम ‘उत्तीर्णा’, अर्थात् पार गई हुई, भी है।"
+  },
+  "inner": {
+    "en": "In Bhāskararāya’s account, the same sound-Brahman, carried by the breath up to the navel and joined with the reflective mind, becomes paśyantī: a general stirring that has not yet taken particular shape. A verse he quotes from the Saubhāgyasudhodaya explains the name: she sees everything within herself, and has crossed beyond the chain of causes, so she is called both Paśyantī and Uttīrṇā.",
+    "hi": "भास्करराय के वर्णन में वही शब्दब्रह्म प्राणवायु द्वारा नाभि तक लाया जाकर, विमर्श रूप मन से जुड़कर पश्यन्ती बनता है: एक सामान्य स्पन्द, जिसने अभी कोई विशेष रूप नहीं लिया। सौभाग्यसुधोदय से उद्धृत एक श्लोक नाम का अर्थ बताता है: वे सब कुछ अपने भीतर देखती हैं और कारणों की शृंखला से पार हैं, इसलिए ‘पश्यन्ती’ भी हैं और ‘उत्तीर्णा’ भी।"
+  },
+  "story": {
+    "en": "This is the second of the four levels of speech named in this verse: parā, paśyantī, madhyamā and vaikharī. The Nityā Tantra passage Bhāskararāya quotes places this level at the svādhiṣṭhāna, while his own account speaks of the navel.",
+    "hi": "यह इस श्लोक में गिनाए गए वाणी के चार स्तरों, परा, पश्यन्ती, मध्यमा और वैखरी, में दूसरा है। भास्करराय द्वारा उद्धृत नित्यातन्त्र का वचन इस स्तर को स्वाधिष्ठान में रखता है, जबकि उनका अपना वर्णन नाभि की बात करता है।"
+  },
+  "commentary": {
+    "sanskrit": "पश्यतीति पश्यन्ती । अस्या एवोत्तीर्णेत्यपि संज्ञा ।",
+    "translation": {
+      "en": "She sees, so she is Paśyantī. She is also given the name Uttīrṇā.",
+      "hi": "वे देखती हैं, इसलिए पश्यन्ती हैं। इन्हीं का एक नाम ‘उत्तीर्णा’ भी है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 368 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The explanation and inner layers follow Bhāskararāya’s introduction to verse 81 (sāmānya-spanda, vimarśa-rūpa manas) and the Saubhāgyasudhodaya verse he quotes under this name." }
+}

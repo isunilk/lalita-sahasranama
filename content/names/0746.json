@@ -1,0 +1,44 @@
+{
+  "number": 746,
+  "verse": 144,
+  "slug": "bhagyabdhi-chandrika",
+  "devanagari": "भाग्याब्धिचन्द्रिका",
+  "iastSplit": "Bhāgyābdhi-candrikā",
+  "archana": "ॐ भाग्याब्धिचन्द्रिकायै नमः",
+  "syllables": ["bhāg", "yāb", "dhi", "can", "dri", "kā"],
+  "words": [
+    { "sa": "भाग्य", "meaning": { "en": "good fortune", "hi": "सौभाग्य, भाग्य" } },
+    { "sa": "अब्धि", "meaning": { "en": "ocean", "hi": "समुद्र" } },
+    { "sa": "चन्द्रिका", "meaning": { "en": "moonlight", "hi": "चाँदनी" } }
+  ],
+  "meaning": {
+    "en": "Moonlight that makes the ocean of good fortune swell",
+    "hi": "सौभाग्य के सागर को उमगाने वाली चाँदनी"
+  },
+  "explanation": {
+    "en": "In Indian poetry the moon makes the ocean rise and swell with joy. Bhāskararāya says that because she makes the ocean of good fortune swell, she is moonlight.",
+    "hi": "भारतीय काव्य में चन्द्रमा समुद्र को उल्लास से उमगाता है। भास्करराय कहते हैं कि वे सौभाग्य के सागर को उमगाती हैं, इसलिए वे चाँदनी हैं।"
+  },
+  "inner": {
+    "en": "He gives no hidden meaning. In reflection, moonlight adds no water to the ocean; it only draws the ocean up. So her grace does not add fortune from outside but makes the good already in a life rise and overflow.",
+    "hi": "वे कोई गूढ़ अर्थ नहीं देते। चिन्तन के रूप में: चाँदनी समुद्र में पानी नहीं जोड़ती, केवल उसे ऊपर उठाती है। वैसे ही उनकी कृपा बाहर से भाग्य नहीं जोड़ती, जीवन में पहले से विद्यमान शुभ को उमगाकर छलका देती है।"
+  },
+  "story": {
+    "en": "This is the fifth of the eight metaphor names. The first four showed her destroying what harms; this one and the next show her bringing joy.",
+    "hi": "यह रूपक वाले आठ नामों में पाँचवाँ है। पहले चार नामों में वे हानिकारक को नष्ट करती हैं; यह और अगला नाम उन्हें आनन्द देती हुई दिखाते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "भाग्यलक्षणस्याब्धेरुल्लासकत्वाच्चन्द्रिका कौमुदीव ।",
+    "translation": {
+      "en": "Because she makes the ocean that is good fortune swell with joy, she is candrikā, like moonlight.",
+      "hi": "भाग्य रूपी सागर को उल्लसित करने के कारण वे चन्द्रिका, अर्थात् चाँदनी, के समान हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 746 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the inner layer is a reflection." }
+}

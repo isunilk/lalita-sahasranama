@@ -1,0 +1,65 @@
+{
+  "number": 626,
+  "verse": 125,
+  "slug": "tri-pura",
+  "devanagari": "त्रिपुरा",
+  "iastSplit": "Tri-purā",
+  "archana": "ॐ त्रिपुरायै नमः",
+  "syllables": [
+    "tri",
+    "pu",
+    "rā"
+  ],
+  "words": [
+    {
+      "sa": "त्रि",
+      "meaning": {
+        "en": "three",
+        "hi": "तीन"
+      }
+    },
+    {
+      "sa": "पुरा",
+      "meaning": {
+        "en": "ancient; also pura, city",
+        "hi": "पुरातन; पुर (नगर) भी"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Tripurā, elder than the three and present in every triad",
+    "hi": "त्रिपुरा, त्रिमूर्ति से भी पुरातन, हर त्रयी में विद्यमान"
+  },
+  "explanation": {
+    "en": "Tripurā is one of her chief names; Śrīvidyā worships her as Tripurasundarī. Tri is three and purā means ancient: she is older than the three great gods, and she is present in every group of three.",
+    "hi": "‘त्रिपुरा’ उनके प्रमुख नामों में से है; श्रीविद्या में उनकी उपासना त्रिपुरसुन्दरी के रूप में होती है। ‘त्रि’ का अर्थ है तीन और ‘पुरा’ का पुरातन: वे तीनों महान देवताओं से भी पुरातन हैं, और हर त्रयी में विद्यमान हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya’s first reason: she is more ancient than the three forms, Brahmā, Viṣṇu and Śiva. From the Tripurārṇava he cites that the three channels, iḍā, piṅgalā and suṣumṇā, and the three “cities” of mind, intellect and citta are where she dwells, and so she is Tripurā. The Laghustava adds that whatever in the world is threefold, the three gods, the three Vedas, the three fires, the three worlds, is named in her name.",
+    "hi": "भास्करराय का पहला कारण: वे तीनों मूर्तियों, ब्रह्मा, विष्णु और शिव, से भी पुरातन हैं। त्रिपुरार्णव से वे उद्धृत करते हैं कि तीन नाड़ियाँ, इडा, पिङ्गला और सुषुम्णा, और मन, बुद्धि तथा चित्त रूपी तीन पुर उनके निवास हैं, इसलिए वे त्रिपुरा हैं। लघुस्तव जोड़ता है कि संसार में जो कुछ भी त्रिविध है, तीन देव, तीन वेद, तीन अग्नियाँ, तीन लोक, वह सब उनके नाम में समाया है।"
+  },
+  "story": {
+    "en": "This half-verse is built on threes: Tripurā, Trijagadvandyā, Trimūrti and Tridaśeśvarī, and Tryakṣarī opens the next verse. Bhāskararāya says that the further derivations of the name given in the Pūrva-catuḥśatī will be explained in his commentary on that text.",
+    "hi": "यह अर्धश्लोक ‘त्रि’ पर रचा गया है: त्रिपुरा, त्रिजगद्वन्द्या, त्रिमूर्ति और त्रिदशेश्वरी, और अगला श्लोक त्र्यक्षरी से आरम्भ होता है। भास्करराय कहते हैं कि पूर्वचतुःशती में दिए गए इस नाम के अन्य निर्वचन वे उसी ग्रन्थ की टीका में समझाएँगे।"
+  },
+  "commentary": {
+    "sanskrit": "तिसृभ्यो मूर्तिभ्यः पुरातनत्वात् त्रिपुरा ।",
+    "translation": {
+      "en": "Tripurā: because she is more ancient (purātana) than the three (tri) forms.",
+      "hi": "त्रिपुरा: क्योंकि वे तीनों मूर्तियों से पुरातन हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 626 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The three nāḍīs are mentioned only as part of Bhāskararāya’s explanation of the name, with no practice."
+  }
+}

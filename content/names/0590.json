@@ -1,0 +1,47 @@
+{
+  "number": 590,
+  "verse": 119,
+  "slug": "kataksha-kinkari-bhuta-kamala-koti-sevita",
+  "devanagari": "कटाक्षकिङ्करीभूतकमलाकोटिसेविता",
+  "iastSplit": "Kaṭākṣa-kiṅkarī-bhūta-kamalā-koṭi-sevitā",
+  "archana": "ॐ कटाक्षकिङ्करीभूतकमलाकोटिसेवितायै नमः",
+  "syllables": ["ka", "ṭāk", "ṣa", "kiṅ", "ka", "rī", "bhū", "ta", "ka", "ma", "lā", "ko", "ṭi", "se", "vi", "tā"],
+  "words": [
+    { "sa": "कटाक्ष", "meaning": { "en": "side-glance, a look from the corner of the eye", "hi": "कटाक्ष, तिरछी चितवन" } },
+    { "sa": "किङ्करी", "meaning": { "en": "handmaid, servant", "hi": "दासी, सेविका" } },
+    { "sa": "भूत", "meaning": { "en": "become", "hi": "बनी हुई" } },
+    { "sa": "कमला", "meaning": { "en": "Kamalā, Lakṣmī", "hi": "कमला, लक्ष्मी" } },
+    { "sa": "कोटि", "meaning": { "en": "crore, ten million", "hi": "करोड़" } },
+    { "sa": "सेविता", "meaning": { "en": "served", "hi": "सेवित" } }
+  ],
+  "meaning": {
+    "en": "Served by millions of Lakṣmīs, handmaids of her glance",
+    "hi": "करोड़ों लक्ष्मियाँ जिनके कटाक्ष की दासी बनकर सेवा करती हैं"
+  },
+  "explanation": {
+    "en": "Kaṭākṣa is a glance from the corner of the eye. Millions of Lakṣmīs, goddesses of fortune, have become servants of that glance and wait upon her. Bhāskararāya gives the sense: whomever she glances at even a little, Lakṣmīs beyond counting choose.",
+    "hi": "‘कटाक्ष’ आँख के कोने से डाली गई दृष्टि है। करोड़ों लक्ष्मियाँ, सौभाग्य की देवियाँ, उस दृष्टि की दासी बनकर उनकी सेवा करती हैं। भास्करराय इसका तात्पर्य बताते हैं: जिस पर वे थोड़ी-सी भी दृष्टि डालती हैं, उसे अनगिनत लक्ष्मियाँ वरण करती हैं।"
+  },
+  "inner": {
+    "en": "He gives no hidden meaning beyond this. All fortune waits on her merest glance; the devotee who seeks her grace need not seek wealth separately.",
+    "hi": "वे इससे आगे कोई गूढ़ अर्थ नहीं देते। सारा सौभाग्य उनकी एक हल्की-सी दृष्टि की प्रतीक्षा करता है; जो भक्त उनकी कृपा चाहता है, उसे धन अलग से खोजने की आवश्यकता नहीं।"
+  },
+  "story": {
+    "en": "Lakṣmī is called Kamalā, ‘she of the lotus’. The hymn called the Devī the mother of Lakṣmī in its very first name, Śrīmātā; here countless Lakṣmīs are her attendants.",
+    "hi": "लक्ष्मी को ‘कमला’, अर्थात् कमल वाली, कहा जाता है। स्तोत्र ने अपने पहले ही नाम ‘श्रीमाता’ में देवी को लक्ष्मी की माता कहा था; यहाँ अनगिनत लक्ष्मियाँ उनकी सेविकाएँ हैं।"
+  },
+  "commentary": {
+    "sanskrit": "कटाक्षस्य दृगेकदेशपातस्य किङ्करीभूताभिः कमलानां लक्ष्मीणां कोटिभिः सेविता । यस्मिन्नीषदवलोकनं तं पारेपरार्धं लक्ष्म्यो वृणत इति तात्पर्यम् ।",
+    "translation": {
+      "en": "Served by crores of Kamalās, Lakṣmīs, who have become handmaids of her kaṭākṣa, the glance cast from one corner of the eye. The import is: on whomever her slightest look falls, him Lakṣmīs beyond a parārdha choose.",
+      "hi": "कटाक्ष, अर्थात् आँख के एक कोने से पड़ी दृष्टि, की दासी बनी करोड़ों कमलाओं, अर्थात् लक्ष्मियों, द्वारा सेवित। तात्पर्य यह है: जिस पर उनकी थोड़ी-सी भी दृष्टि पड़ती है, उसे परार्ध से भी अधिक लक्ष्मियाँ वरण करती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 590 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the second sentence of the inner layer is a reflection." }
+}

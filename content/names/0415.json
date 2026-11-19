@@ -1,0 +1,44 @@
+{
+  "number": 415,
+  "verse": 89,
+  "slug": "mano-vacham-agochara",
+  "devanagari": "मनोवाचामगोचरा",
+  "iastSplit": "Mano-vācām-agocarā",
+  "archana": "ॐ मनोवाचामगोचरायै नमः",
+  "syllables": ["ma", "no", "vā", "cā", "ma", "go", "ca", "rā"],
+  "words": [
+    { "sa": "मनस्", "meaning": { "en": "mind", "hi": "मन" } },
+    { "sa": "वाच्", "meaning": { "en": "speech, word", "hi": "वाणी" } },
+    { "sa": "अगोचर", "meaning": { "en": "beyond the range of, not an object of", "hi": "अगोचर, पहुँच से परे" } }
+  ],
+  "meaning": {
+    "en": "Beyond the reach of minds and words",
+    "hi": "मन और वाणी की पहुँच से परे"
+  },
+  "explanation": {
+    "en": "No thought can grasp her and no word can describe her. The name is unusual in form: two words in different cases, ‘of minds and words’ and ‘beyond the range’, taken together as a single name.",
+    "hi": "कोई विचार उन्हें पकड़ नहीं सकता, कोई शब्द उनका वर्णन नहीं कर सकता। इस नाम का रूप असामान्य है: दो भिन्न विभक्तियों वाले शब्द, ‘मनों और वाणियों का’ और ‘अगोचर’, मिलकर एक नाम बनाते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya cites the Taittirīya Upaniṣad: words turn back from it, together with the mind, not reaching it. He adds that not even one thing in her lies within the range of mind and speech, for even her qualities are endless. Yet the hymn goes on naming her: the names point to her, they do not contain her.",
+    "hi": "भास्करराय तैत्तिरीय उपनिषद् का वचन देते हैं: जहाँ से वाणी मन सहित, उसे पाए बिना, लौट आती है। वे जोड़ते हैं कि उनमें एक भी वस्तु मन और वाणी का विषय नहीं, क्योंकि उनके गुण भी अनन्त हैं। फिर भी स्तोत्र उनके नाम लेता रहता है: नाम उनकी ओर संकेत करते हैं, उन्हें समेट नहीं सकते।"
+  },
+  "story": {
+    "en": "Bhāskararāya discusses the form at length. The chalākṣara-sūtras, coded counting rules that fix where each name begins and ends, treat it as one name; by them it opens a group of fourteen names running to Pañcakośāntarasthitā (428), framed at both ends by names of eight syllables that begin with a labial letter.",
+    "hi": "भास्करराय इस नाम के रूप पर विस्तार से विचार करते हैं। छलाक्षर-सूत्र, जो सांकेतिक अक्षरों में बताते हैं कि हर नाम कहाँ आरम्भ और कहाँ समाप्त होता है, इसे एक ही नाम मानते हैं; उनके अनुसार यह पञ्चकोशान्तरस्थिता (428) तक चलने वाले चौदह नामों के समूह का आरम्भ करता है, जिसके दोनों छोरों पर पवर्ग के अक्षर से आरम्भ होने वाले आठ-आठ अक्षरों के नाम हैं।"
+  },
+  "commentary": {
+    "sanskrit": "मनांसि च वाचश्च मनोवाचस्तेषां तासां चागोचरा अविषयः । यतो वाचो निवर्तन्ते अप्राप्य मनसा सहेति श्रुतेः ।",
+    "translation": {
+      "en": "Minds and words together are manovācaḥ; for them she is agocarā, not an object, as the śruti says: ‘from which words turn back, together with the mind, not reaching it’.",
+      "hi": "मन और वाणियाँ मिलकर ‘मनोवाचः’ हैं; वे उनके लिए अगोचर अर्थात् अविषय हैं, जैसा श्रुति कहती है: ‘जहाँ से वाणी मन के साथ, उसे पाए बिना, लौट आती है।’"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 415 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya also weighs an analysis of the name as a single compound word; he notes it would upset the chalākṣara-sūtra count but allows it as valid. He also quotes Prahlāda’s praise from the Viṣṇu Purāṇa. The last sentence of the inner layer is a reflection." }
+}

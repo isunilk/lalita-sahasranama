@@ -1,0 +1,44 @@
+{
+  "number": 485,
+  "verse": 100,
+  "slug": "anahatabja-nilaya",
+  "devanagari": "अनाहताब्जनिलया",
+  "iastSplit": "Anāhatābja-nilayā",
+  "archana": "ॐ अनाहताब्जनिलयायै नमः",
+  "syllables": ["a", "nā", "ha", "tāb", "ja", "ni", "la", "yā"],
+  "words": [
+    { "sa": "अनाहत", "meaning": { "en": "anāhata, ‘unstruck’; the heart cakra", "hi": "अनाहत, ‘बिना आघात का’; हृदय-चक्र" } },
+    { "sa": "अब्ज", "meaning": { "en": "lotus (literally, water-born)", "hi": "कमल (जल में जन्मा)" } },
+    { "sa": "निलय", "meaning": { "en": "abode, dwelling", "hi": "निवास" } }
+  ],
+  "meaning": {
+    "en": "Who dwells in the anāhata lotus of the heart",
+    "hi": "हृदय के अनाहत कमल में निवास करने वाली"
+  },
+  "explanation": {
+    "en": "Anāhata, ‘unstruck’, is the twelve-petalled lotus in the heart. Bhāskararāya says that the yoginī Rākiṇī dwells there, and that the centre of that lotus is her home. This name and the nine after it describe her.",
+    "hi": "अनाहत, अर्थात् ‘बिना आघात का’, हृदय में स्थित बारह दलों वाला कमल है। भास्करराय बताते हैं कि वहाँ राकिणी नाम की योगिनी निवास करती हैं, और उस कमल की कर्णिका, अर्थात् मध्य भाग, उनका घर है। यह नाम और इसके बाद के नौ नाम उनका वर्णन करते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives the literal sense: the anāhata lotus, and within it the pericarp, is her abode. He gives no hidden meaning here. The heart is held to be the seat of feeling and devotion, and these names place one of the Mother’s own forms there.",
+    "hi": "भास्करराय सीधा अर्थ देते हैं: अनाहत कमल, और उसके भीतर उसकी कर्णिका, उनका निवास है। यहाँ वे कोई गूढ़ अर्थ नहीं देते। हृदय भाव और भक्ति का स्थान माना जाता है, और ये नाम वहाँ माँ के अपने ही एक रूप को विराजमान बताते हैं।"
+  },
+  "story": {
+    "en": "The meditation verse Bhāskararāya quotes for Rākiṇī places her in the heart lotus of twelve petals: two-faced, tusked, dark in colour, three-eyed, holding a rosary, a trident, a skull-bowl and a drum, abiding in the blood, surrounded by Kālarātri and other powers, fond of rice rich with ghee, and revered by great heroes. Names 486–493 take up these features one by one.",
+    "hi": "भास्करराय राकिणी के लिए जो ध्यान-श्लोक उद्धृत करते हैं, उसमें वे बारह दलों वाले हृदय-कमल में हैं: दो मुखों वाली, दंष्ट्राओं वाली, श्याम वर्ण की, तीन नेत्रों वाली, हाथों में अक्षमाला, त्रिशूल, कपाल और डमरु धारण किए, रक्त में स्थित, कालरात्रि आदि शक्तियों से घिरी, घी से स्निग्ध अन्न की प्रेमी, और महावीरों द्वारा वन्दित। नाम 486–493 इन लक्षणों को एक-एक करके लेते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "अनाहताब्जं तत्कर्णिका निलयो यस्याः ।",
+    "translation": {
+      "en": "The anāhata lotus, that is, its pericarp, is her abode.",
+      "hi": "अनाहत कमल, अर्थात् उसकी कर्णिका, उनका निवास है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 485 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the last sentence of the inner layer is a reflection. The meditation verse is described as iconography only." }
+}

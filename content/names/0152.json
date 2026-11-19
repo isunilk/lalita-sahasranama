@@ -1,0 +1,43 @@
+{
+  "number": 152,
+  "verse": 46,
+  "slug": "nish-karana",
+  "devanagari": "निष्कारणा",
+  "iastSplit": "Niṣ-kāraṇā",
+  "archana": "ॐ निष्कारणायै नमः",
+  "syllables": ["niṣ", "kā", "ra", "ṇā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free from", "hi": "रहित, बिना" } },
+    { "sa": "कारण", "meaning": { "en": "cause", "hi": "कारण" } }
+  ],
+  "meaning": {
+    "en": "Uncaused, herself the cause of all",
+    "hi": "जिनका कोई कारण नहीं, जो स्वयं सबका कारण हैं"
+  },
+  "explanation": {
+    "en": "Everything that comes into being has a cause. She has none, because she is the first cause of everything; nothing stands before her.",
+    "hi": "जो कुछ उत्पन्न होता है, उसका कोई कारण होता है। उनका कोई कारण नहीं, क्योंकि वे स्वयं सबका आदि कारण हैं; उनसे पहले कुछ भी नहीं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya reasons that the cause of all can have no further cause. He quotes the Upaniṣad: “He is the cause, lord of the lords of the senses; he has no begetter and no lord.” In a second reading he takes kāraṇa in its tantric sense and calls her full of the bliss it brings, citing a verse that pictures her within the great lotus forest, her body made of that bliss.",
+    "hi": "भास्करराय का तर्क है कि जो सबका कारण है, उसका कोई और कारण नहीं हो सकता। वे उपनिषद् का वचन देते हैं: ‘वह कारण है, इन्द्रियों के स्वामियों का भी स्वामी; उसका न कोई जनक है, न कोई स्वामी।’ दूसरे अर्थ में वे ‘कारण’ शब्द को तन्त्र के विशेष अर्थ में लेते हैं और उन्हें उससे उत्पन्न आनन्द से युक्त बताते हैं, उस वचन के आधार पर जो उन्हें महापद्मवन में स्थित ‘कारणानन्दविग्रहा’ कहता है।"
+  },
+  "story": {
+    "en": "Here the definition turns to causation: she is the cause without a cause. The next three names complete the first half of verse 46: spotless, free of limiting adjuncts, and with no lord above her.",
+    "hi": "यहाँ परिभाषा कारणता की ओर मुड़ती है: वे अकारण कारण हैं। अगले तीन नाम श्लोक 46 की पहली पंक्ति पूरी करते हैं: निष्कलंक, उपाधियों से रहित, और जिनके ऊपर कोई ईश्वर नहीं।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वकारणस्य कारणान्तराभावान्निष्कारणा ।",
+    "translation": {
+      "en": "Since the cause of all has no other cause, she is Niṣkāraṇā.",
+      "hi": "सबके कारण का कोई अन्य कारण नहीं होता, इसलिए वे निष्कारणा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 152 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Upaniṣad quoted is the Śvetāśvatara (6.9); the edition prints सकारणं for स कारणं. Bhāskararāya’s second reading uses kāraṇa in its Kaula ritual sense (कारणानन्दविग्रहा) and is given only in outline; the edition prints महापद्यवन for महापद्मवन." }
+}

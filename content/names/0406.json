@@ -1,0 +1,43 @@
+{
+  "number": 406,
+  "verse": 88,
+  "slug": "shivaradhya",
+  "devanagari": "शिवाराध्या",
+  "iastSplit": "Śivārādhyā",
+  "archana": "ॐ शिवाराध्यायै नमः",
+  "syllables": ["śi", "vā", "rādh", "yā"],
+  "words": [
+    { "sa": "शिव", "meaning": { "en": "Śiva", "hi": "शिव" } },
+    { "sa": "आराध्य", "meaning": { "en": "to be worshipped, worshipped", "hi": "आराधना के योग्य, उपास्य" } }
+  ],
+  "meaning": {
+    "en": "Worshipped by Śiva himself",
+    "hi": "स्वयं शिव द्वारा आराधित"
+  },
+  "explanation": {
+    "en": "Śivārādhyā is she who is worshipped by Śiva. The Lord whom gods and sages worship himself turns to her in worship.",
+    "hi": "शिवाराध्या वे हैं जिनकी आराधना शिव करते हैं। जिन प्रभु की आराधना देवता और ऋषि करते हैं, वे स्वयं उनकी उपासना करते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes the Brahmāṇḍa Purāṇa: by worshipping her through the strength of meditation and yoga, Śiva became lord of all siddhis and Ardhanārīśvara, the Lord whose other half is the Goddess. He gives a second sense as well: she is the form of the Vidyā, the sacred mantra, that Śaṅkara himself worships.",
+    "hi": "भास्करराय ब्रह्माण्ड पुराण का श्लोक उद्धृत करते हैं: ध्यान और योग के बल से उनकी आराधना करके ही शिव सब सिद्धियों के स्वामी और अर्धनारीश्वर बने, जिनका आधा अंग स्वयं देवी हैं। वे एक दूसरा अर्थ भी देते हैं: वे उस विद्या अर्थात् मन्त्र का स्वरूप हैं जिसकी उपासना स्वयं शंकर करते हैं।"
+  },
+  "story": {
+    "en": "Names 405 to 410 form a chain of six, each beginning with Śiva. Together they show the bond of the Goddess and Śiva from every side: he is her messenger, her worshipper, her very form and her beloved.",
+    "hi": "नाम 405 से 410 छह नामों की एक माला है, जिसमें हर नाम ‘शिव’ से आरम्भ होता है। ये मिलकर देवी और शिव के सम्बन्ध को हर ओर से दिखाते हैं: वे उनके दूत हैं, उपासक हैं, उनका स्वरूप हैं और उनके प्रिय हैं।"
+  },
+  "commentary": {
+    "sanskrit": "शिवोऽपि यां समाराध्य ध्यानयोगबलेन च । ईश्वरः सर्वसिद्धीनामर्धनारीश्वरोऽभवत् ।।",
+    "translation": {
+      "en": "Śiva too, worshipping her by the strength of meditation and yoga, became the lord of all siddhis and Ardhanārīśvara.",
+      "hi": "शिव ने भी ध्यान और योग के बल से जिनकी आराधना करके सब सिद्धियों का ईश्वरत्व पाया और अर्धनारीश्वर बने।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 406, quoting the Brahmāṇḍa Purāṇa (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The excerpt is a Brahmāṇḍa Purāṇa verse as quoted by Bhāskararāya. ‘Vidyā’ in the inner layer renders his शङ्करोपासितचतुष्कूटविद्यास्वरूपा (the four-kūṭa Vidyā worshipped by Śaṅkara); the mantra itself is not given, by design." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 510,
+  "verse": 105,
+  "slug": "madhu-prita",
+  "devanagari": "मधुप्रीता",
+  "iastSplit": "Madhu-prītā",
+  "archana": "ॐ मधुप्रीतायै नमः",
+  "syllables": ["ma", "dhup", "rī", "tā"],
+  "words": [
+    { "sa": "मधु", "meaning": { "en": "madhu: honey; also wine or mead", "hi": "मधु: शहद; मदिरा भी" } },
+    { "sa": "प्रीता", "meaning": { "en": "pleased", "hi": "प्रसन्न" } }
+  ],
+  "meaning": {
+    "en": "Who is pleased by madhu, honey or mead",
+    "hi": "मधु से प्रसन्न होने वाली"
+  },
+  "explanation": {
+    "en": "Madhu means honey, and also a sweet intoxicating drink. Bhāskararāya allows both: she is pleased by madhu, whether wine or honey.",
+    "hi": "‘मधु’ का अर्थ शहद है, और मीठा मादक पेय भी। भास्करराय दोनों अर्थ मानते हैं: वे मधु से प्रसन्न होती हैं, चाहे वह मदिरा हो या शहद।"
+  },
+  "inner": {
+    "en": "Bhāskararāya adds a Vedic passage: when one makes an offering with madhu, one pleases the great deity; he takes this to mean the Great Goddess. Beyond that he gives no hidden meaning.",
+    "hi": "भास्करराय एक वैदिक वचन जोड़ते हैं: जो मधु से आहुति देता है, वह महान देवता को प्रसन्न करता है; इसका अर्थ वे महादेवी को प्रसन्न करना बताते हैं। इससे आगे वे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "Madhu appears again in the meditation verse Bhāskararāya quotes for Sākinī of the mūlādhāra, who is called ‘delighted by madhu’. The Vedic passage he cites speaks of madhu as an oblation (juhoti, ‘offers into the fire’).",
+    "hi": "मूलाधार की साकिनी के लिए भास्करराय जो ध्यान-श्लोक उद्धृत करते हैं, उसमें भी मधु आता है: वहाँ उन्हें ‘मधुमदमुदिता’ कहा गया है। जो वैदिक वचन वे देते हैं, उसमें मधु को आहुति के रूप में बताया गया है (‘जुहोति’, अर्थात् अग्नि में अर्पित करता है)।"
+  },
+  "commentary": {
+    "sanskrit": "मधुना मद्येन क्षौद्रेण वा प्रीता ।",
+    "translation": {
+      "en": "Pleased by madhu: by wine, or by honey.",
+      "hi": "मधु से, अर्थात् मदिरा से या शहद से, प्रसन्न।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 510 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya glosses madhu as either मद्य (wine) or क्षौद्र (honey); both are given, without recommendation. The Vedic passage (यन्मधुना जुहोति…) is cited by him without a source, so none is named here." }
+}

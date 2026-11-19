@@ -1,0 +1,65 @@
+{
+  "number": 616,
+  "verse": 124,
+  "slug": "ameya",
+  "devanagari": "अमेया",
+  "iastSplit": "Ameyā",
+  "archana": "ॐ अमेयायै नमः",
+  "syllables": [
+    "a",
+    "me",
+    "yā"
+  ],
+  "words": [
+    {
+      "sa": "अ",
+      "meaning": {
+        "en": "not",
+        "hi": "नहीं"
+      }
+    },
+    {
+      "sa": "मेय",
+      "meaning": {
+        "en": "measurable",
+        "hi": "मापने योग्य"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "The immeasurable one",
+    "hi": "जिन्हें मापा नहीं जा सकता"
+  },
+  "explanation": {
+    "en": "Meya is what can be measured, and the prefix a- denies it. No measure, no proof and no mind can take her full measure.",
+    "hi": "‘मेय’ वह है जिसे मापा जा सके, और ‘अ’ उसका निषेध करता है। कोई माप, कोई प्रमाण और कोई मन उनकी पूरी थाह नहीं ले सकता।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives a second sense: there is nothing measurable apart from her. He cites the Liṅga Purāṇa: all that can be measured, through the worlds from heaven to the nether regions, is Umā’s form, and the one who measures is Maheśvara. So she cannot be measured because she is all that is measured.",
+    "hi": "भास्करराय दूसरा अर्थ भी देते हैं: उनके अतिरिक्त कुछ भी मापने योग्य नहीं है। वे लिङ्ग पुराण का वचन देते हैं: स्वर्ग से पाताल तक, ब्रह्माण्ड के आठों आवरणों में जो कुछ मापा जा सकता है, वह सब उमा का रूप है, और मापने वाले देव महेश्वर हैं। इसलिए उन्हें मापा नहीं जा सकता, क्योंकि जो कुछ मापा जाता है, वह सब वही हैं।"
+  },
+  "story": {
+    "en": "Indian philosophy speaks of pramāṇa, the means of valid knowing, and prameya, what is known through it. This name places her beyond every such measure.",
+    "hi": "भारतीय दर्शन में प्रमाण, अर्थात् सही ज्ञान के साधन, और प्रमेय, अर्थात् उनसे जाने जाने वाले विषय, की चर्चा होती है। यह नाम उन्हें ऐसे हर माप से परे रखता है।"
+  },
+  "commentary": {
+    "sanskrit": "मातुमशक्या अमेया । न विद्यते मेयं यस्या इति वा । यदपेक्षयाऽतिरिक्तं मेयं नास्तीत्यर्थः ।",
+    "translation": {
+      "en": "Ameyā: she who cannot be measured. Or: she for whom there is no meya, nothing to be measured; that is, nothing measurable exists apart from her.",
+      "hi": "अमेया: जिन्हें मापा नहीं जा सकता। अथवा जिनके लिए कोई मेय नहीं है; अर्थात् उनसे अलग कोई मापने योग्य वस्तु नहीं है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 616 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The story layer (pramāṇa and prameya) is general context, not from Bhāskararāya."
+  }
+}

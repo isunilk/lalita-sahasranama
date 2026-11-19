@@ -1,0 +1,42 @@
+{
+  "number": 568,
+  "verse": 115,
+  "slug": "niyantri",
+  "devanagari": "नियन्त्री",
+  "iastSplit": "Niyantrī",
+  "archana": "ॐ नियन्त्र्यै नमः",
+  "syllables": ["ni", "yan", "trī"],
+  "words": [
+    { "sa": "नियन्त्री", "meaning": { "en": "controller, she who governs", "hi": "नियमन करने वाली, नियामिका" } }
+  ],
+  "meaning": {
+    "en": "The Controller, who governs the world",
+    "hi": "जगत् का नियमन करने वाली"
+  },
+  "explanation": {
+    "en": "She restrains and directs all things. Bhāskararāya says she is called Niyantrī because she governs the world, holding everything to its law and course.",
+    "hi": "वे सब कुछ नियम में रखती और चलाती हैं। भास्करराय कहते हैं कि वे जगत् की नियामक हैं, इसलिए ‘नियन्त्री’ कहलाती हैं; वे हर वस्तु को उसके नियम और मार्ग पर रखती हैं।"
+  },
+  "inner": {
+    "en": "He gives only this plain sense. The word recalls the antaryāmin of the Upaniṣads, the inner controller who rules each thing from within; here that inner ruler is the Mother.",
+    "hi": "वे केवल यह सीधा अर्थ देते हैं। यह शब्द उपनिषदों के अन्तर्यामी की याद दिलाता है, जो हर वस्तु के भीतर रहकर उसका नियमन करता है; यहाँ वह भीतर का शासक स्वयं माँ हैं।"
+  },
+  "story": {
+    "en": "Niyantrī and the next name, Nikhileśvarī, belong together: she governs the world, and she is sovereign over the whole of it.",
+    "hi": "नियन्त्री और अगला नाम निखिलेश्वरी साथ-साथ चलते हैं: वे जगत् का नियमन करती हैं, और उसकी सम्पूर्ण स्वामिनी हैं।"
+  },
+  "commentary": {
+    "sanskrit": "जगन्नियामकत्वान्नियन्त्री ।",
+    "translation": {
+      "en": "Niyantrī, because she governs the world.",
+      "hi": "जगत् की नियामक होने से नियन्त्री।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 568 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the link with the Upaniṣadic antaryāmin in the inner layer is a reflection." }
+}

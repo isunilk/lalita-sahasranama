@@ -1,0 +1,45 @@
+{
+  "number": 489,
+  "verse": 100,
+  "slug": "aksha-maladi-dhara",
+  "devanagari": "अक्षमालादिधरा",
+  "iastSplit": "Akṣa-mālādi-dharā",
+  "archana": "ॐ अक्षमालादिधरायै नमः",
+  "syllables": ["ak", "ṣa", "mā", "lā", "di", "dha", "rā"],
+  "words": [
+    { "sa": "अक्ष", "meaning": { "en": "bead (as in a rosary); also a wheel or axle", "hi": "अक्ष, माला का मनका; पहिया या धुरी भी" } },
+    { "sa": "माला", "meaning": { "en": "string, garland", "hi": "माला" } },
+    { "sa": "आदि", "meaning": { "en": "and the rest", "hi": "आदि" } },
+    { "sa": "धरा", "meaning": { "en": "bearing, holding", "hi": "धारण करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who holds the rosary and her other emblems",
+    "hi": "अक्षमाला आदि धारण करने वाली"
+  },
+  "explanation": {
+    "en": "Bhāskararāya says she holds four weapons, the first of which is the akṣamālā, the rosary of beads. The meditation verse he quotes names them as rosary, trident, skull-bowl and drum.",
+    "hi": "भास्करराय बताते हैं कि वे चार आयुध धारण करती हैं, जिनमें पहला अक्षमाला है। उनके उद्धृत ध्यान-श्लोक में ये अक्षमाला, त्रिशूल, कपाल और डमरु बताए गए हैं।"
+  },
+  "inner": {
+    "en": "His notes here are about the text and its grammar, not a hidden meaning. Dharā, ‘holder’, is formed with the suffix ac; with the suffix aṇ the word would be dhārā. And if a copy of the meditation verse reads ‘discus and trident’ instead of ‘rosary and trident’, then akṣamāla must mean the discus: that which takes (lāti) the splendour (mā) of a wheel (akṣa).",
+    "hi": "यहाँ उनकी टिप्पणियाँ किसी गूढ़ अर्थ की नहीं, पाठ और व्याकरण की हैं। ‘धरा’, अर्थात् धारण करने वाली, ‘अच्’ प्रत्यय से बना है; ‘अण्’ प्रत्यय से यह ‘धारा’ होता। और यदि ध्यान-श्लोक की किसी प्रति में ‘अक्षं शूलम्’ के स्थान पर ‘चक्रं शूलम्’ पाठ हो, तो ‘अक्षमाल’ का अर्थ चक्र लेना चाहिए: जो अक्ष, अर्थात् रथ के पहिए, की मा, अर्थात् शोभा, को लाति, अर्थात् ग्रहण करता है।"
+  },
+  "story": {
+    "en": "The akṣamālā, a string of prayer beads, is one of the commonest emblems in images of deities and sages. Rākiṇī holds it together with the trident, the skull-bowl and the drum.",
+    "hi": "अक्षमाला, अर्थात् जप की माला, देवताओं और ऋषियों की मूर्तियों में सबसे सामान्य चिह्नों में से एक है। राकिणी इसे त्रिशूल, कपाल और डमरु के साथ धारण करती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "अक्षमाला आदिर्येषां तेषां चतुर्णामायुधानां धरा ।",
+    "translation": {
+      "en": "The holder of the four weapons of which the akṣamālā is the first.",
+      "hi": "उन चार आयुधों को धारण करने वाली, जिनमें अक्षमाला पहला है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 489 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The inner layer reports Bhāskararāya’s grammatical note (पचाद्यच्; with अण् the form would be धारा) and his alternative reading for a variant of the meditation verse (चक्रं शूलम्); he gives no hidden meaning." }
+}

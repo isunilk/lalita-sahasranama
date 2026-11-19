@@ -1,0 +1,43 @@
+{
+  "number": 599,
+  "verse": 120,
+  "slug": "daitya-hantri",
+  "devanagari": "दैत्यहन्त्री",
+  "iastSplit": "Daitya-hantrī",
+  "archana": "ॐ दैत्यहन्त्र्यै नमः",
+  "syllables": ["dait", "ya", "han", "trī"],
+  "words": [
+    { "sa": "दैत्य", "meaning": { "en": "demon, son of Diti", "hi": "दैत्य, असुर" } },
+    { "sa": "हन्त्री", "meaning": { "en": "slayer", "hi": "संहार करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Slayer of the demons",
+    "hi": "दैत्यों का संहार करने वाली"
+  },
+  "explanation": {
+    "en": "The Daityas are demons, the sons of Diti. Bhāskararāya names them as Bhaṇḍāsura and his followers, whom she destroyed.",
+    "hi": "दैत्य दिति के पुत्र, असुर हैं। भास्करराय उन्हें भण्डासुर और उसके साथी बताते हैं, जिनका उन्होंने संहार किया।"
+  },
+  "inner": {
+    "en": "He gives only this sense. The demons she slays are also the forces within that oppose the light; the war with Bhaṇḍa is fought in the heart as well as in the story.",
+    "hi": "वे केवल यही अर्थ देते हैं। जिन दैत्यों का वे संहार करती हैं, वे भीतर की वे शक्तियाँ भी हैं जो प्रकाश का विरोध करती हैं; भण्ड से युद्ध कथा में ही नहीं, हृदय में भी लड़ा जाता है।"
+  },
+  "story": {
+    "en": "The Lalitopākhyāna tells how the Devī arose from the gods’ sacrifice to destroy Bhaṇḍāsura, and how she and her śaktis defeated his armies, his sons and his brothers before she slew him. An early run of names in the hymn tells that war in detail.",
+    "hi": "ललितोपाख्यान बताता है कि देवी भण्डासुर के विनाश के लिए देवताओं के यज्ञ से प्रकट हुईं, और उन्होंने तथा उनकी शक्तियों ने उसकी सेनाओं, पुत्रों और भाइयों को पराजित किया, जिसके बाद उन्होंने स्वयं उसका वध किया। स्तोत्र के आरम्भिक नामों की एक लम्बी पंक्ति इस युद्ध का विस्तार से वर्णन करती है।"
+  },
+  "commentary": {
+    "sanskrit": "दैत्यानां भण्डासुरादीनां हन्त्री ।",
+    "translation": {
+      "en": "The slayer of the Daityas, Bhaṇḍāsura and the others.",
+      "hi": "दैत्यों, अर्थात् भण्डासुर आदि, का संहार करने वाली।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 599 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the inner layer is a reflection." }
+}

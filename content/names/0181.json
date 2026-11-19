@@ -1,0 +1,43 @@
+{
+  "number": 181,
+  "verse": 49,
+  "slug": "mrityu-mathani",
+  "devanagari": "मृत्युमथनी",
+  "iastSplit": "Mṛtyu-mathanī",
+  "archana": "ॐ मृत्युमथन्यै नमः",
+  "syllables": ["mṛt", "yu", "ma", "tha", "nī"],
+  "words": [
+    { "sa": "मृत्यु", "meaning": { "en": "death", "hi": "मृत्यु" } },
+    { "sa": "मथनी", "meaning": { "en": "she who churns, crushes", "hi": "मथने वाली, कुचल देने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who crushes death for her devotees",
+    "hi": "भक्तों की मृत्यु को मथ डालने वाली"
+  },
+  "explanation": {
+    "en": "Mathana is churning or crushing. For those who turn to her she crushes death itself, freeing them from the round of dying and being born again.",
+    "hi": "मथन का अर्थ है मथना या कुचल देना। जो उनकी शरण लेते हैं, उनके लिए वे स्वयं मृत्यु को मथ डालती हैं, और उन्हें बार-बार मरने और जन्म लेने के चक्र से मुक्त करती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says she crushes the death of her devotees. In support he quotes an Upaniṣad of the Tripurā tradition: the worshipper attains immortality, imperishability and the eternal, and becomes Rudra himself. As a reflection: the death she ends is not only the body’s, but the bondage of which death is the sign.",
+    "hi": "भास्करराय कहते हैं कि वे अपने भक्तों की मृत्यु को मथ डालती हैं। इसके समर्थन में वे त्रिपुरा परम्परा के एक उपनिषद् का वचन देते हैं: उपासक अमृतत्व, अक्षयत्व और नित्यता को पाता है, और स्वयं रुद्र हो जाता है। चिन्तन के रूप में: वे जिस मृत्यु का अन्त करती हैं, वह केवल शरीर की नहीं, उस बन्धन की भी है जिसका चिह्न मृत्यु है।"
+  },
+  "story": {
+    "en": "This name answers name 180: she who has no end brings death to an end for those who turn to her. The root math-, ‘to churn’, is the one used for the churning of the ocean for the nectar of immortality.",
+    "hi": "यह नाम 180 का उत्तर है: जिनका कोई अन्त नहीं, वे अपनी शरण में आए लोगों की मृत्यु का अन्त करती हैं। ‘मथ्’ धातु, अर्थात् मथना, वही है जिससे अमृत के लिए हुए समुद्र-मन्थन का वर्णन होता है।"
+  },
+  "commentary": {
+    "sanskrit": "भक्तानां मृत्युं मथ्नातीति तथा ।",
+    "translation": {
+      "en": "She crushes the death of her devotees; hence the name.",
+      "hi": "वे भक्तों की मृत्यु को मथ डालती हैं; इसलिए यह नाम है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 181 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya attributes his proof-text to the त्रैपुरोपनिषद्; its opening words in the edition (मामृतादित्य…) look corrupt, so only its clear part is paraphrased. The last sentence of the inner layer and the churning link in the story layer are reflections." }
+}

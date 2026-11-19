@@ -1,0 +1,43 @@
+{
+  "number": 515,
+  "verse": 106,
+  "slug": "pancha-vaktra",
+  "devanagari": "पञ्चवक्त्रा",
+  "iastSplit": "Pañca-vaktrā",
+  "archana": "ॐ पञ्चवक्त्रायै नमः",
+  "syllables": ["pañ", "ca", "vak", "trā"],
+  "words": [
+    { "sa": "पञ्च", "meaning": { "en": "five", "hi": "पाँच" } },
+    { "sa": "वक्त्र", "meaning": { "en": "face", "hi": "मुख" } }
+  ],
+  "meaning": {
+    "en": "Who has five faces",
+    "hi": "पाँच मुखों वाली"
+  },
+  "explanation": {
+    "en": "Sākinī, the yoginī of the mūlādhāra, has five faces. Bhāskararāya says simply: she whose faces are five in number.",
+    "hi": "मूलाधार की योगिनी साकिनी के पाँच मुख हैं। भास्करराय सीधे कहते हैं: जिनके मुख संख्या में पाँच हैं।"
+  },
+  "inner": {
+    "en": "He gives only the literal sense, with no hidden meaning. Five faces are also a mark of Śiva in many images, and the count continues the rise that began with one face at the throat.",
+    "hi": "वे केवल शाब्दिक अर्थ देते हैं, कोई गूढ़ अर्थ नहीं। पाँच मुख अनेक मूर्तियों में शिव का भी चिह्न हैं, और यह संख्या कण्ठ के एक मुख से आरम्भ हुई वृद्धि को आगे बढ़ाती है।"
+  },
+  "story": {
+    "en": "In the chanted verse this name runs into the next, pañcavaktrā’sthisaṃsthitā; the avagraha (ऽ) marks where the final ā and the initial a of asthi have merged. Bhāskararāya’s text divides the line into the same two names.",
+    "hi": "श्लोक में यह नाम अगले से जुड़कर ‘पञ्चवक्त्राऽस्थिसंस्थिता’ बनता है; अवग्रह (ऽ) उस स्थान का चिह्न है जहाँ अन्तिम ‘आ’ और ‘अस्थि’ का आरम्भिक ‘अ’ मिल गए हैं। भास्करराय के पाठ में भी यहाँ यही दो नाम हैं।"
+  },
+  "commentary": {
+    "sanskrit": "पञ्चसंख्यानि वक्त्राणि यस्याः ।",
+    "translation": {
+      "en": "She whose faces are five in number.",
+      "hi": "जिनके मुख संख्या में पाँच हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 515 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the remark on Śiva’s five faces is general context." }
+}

@@ -1,0 +1,45 @@
+{
+  "number": 501,
+  "verse": 103,
+  "slug": "gudanna-prita-manasa",
+  "devanagari": "गुडान्नप्रीतमानसा",
+  "iastSplit": "Guḍānna-prīta-mānasā",
+  "archana": "ॐ गुडान्नप्रीतमानसायै नमः",
+  "syllables": ["gu", "ḍān", "nap", "rī", "ta", "mā", "na", "sā"],
+  "words": [
+    { "sa": "गुड", "meaning": { "en": "jaggery, unrefined cane sugar", "hi": "गुड़" } },
+    { "sa": "अन्न", "meaning": { "en": "food; cooked rice", "hi": "अन्न" } },
+    { "sa": "प्रीत", "meaning": { "en": "pleased, delighted", "hi": "प्रसन्न" } },
+    { "sa": "मानस", "meaning": { "en": "mind, heart", "hi": "मन" } }
+  ],
+  "meaning": {
+    "en": "Whose mind delights in rice cooked with jaggery",
+    "hi": "गुड़ मिले अन्न से जिनका मन प्रसन्न होता है"
+  },
+  "explanation": {
+    "en": "Guḍānna is food mixed with jaggery. Bhāskararāya says her mind is pleased by it. It is Lākinī’s favourite food, as the meditation verse he quotes also says.",
+    "hi": "गुडान्न का अर्थ है गुड़ मिला अन्न। भास्करराय कहते हैं कि इससे उनका मन प्रसन्न होता है। यह लाकिनी का प्रिय अन्न है, जैसा उनका उद्धृत ध्यान-श्लोक भी कहता है।"
+  },
+  "inner": {
+    "en": "His comment is grammatical: guḍānna is formed by Pāṇini’s rule for compounds that express mixing with an eatable. He gives no hidden meaning. It is the mind (mānasa) that is pleased, not the tongue: what she accepts is the devotion with which the food is offered.",
+    "hi": "उनकी टिप्पणी व्याकरण की है: ‘गुडान्न’ पाणिनि के उस सूत्र से बना समास है जो किसी खाद्य से मिलाने का अर्थ बताता है। वे कोई गूढ़ अर्थ नहीं देते। प्रसन्न होता है उनका ‘मानस’, जिह्वा नहीं: वे अन्न के साथ अर्पित भक्ति को ग्रहण करती हैं।"
+  },
+  "story": {
+    "en": "With this name Bhāskararāya begins the next part of his commentary, on the sixth hundred names, which he calls the seventh kalā, named Suṣumṇā. The meditation verse he quotes calls Lākinī gauḍānnāsaktacittā, her mind set on jaggery-rice.",
+    "hi": "इसी नाम से भास्करराय अपने भाष्य का अगला भाग, छठे शतक पर, आरम्भ करते हैं, जिसे वे ‘सुषुम्णा’ नाम की सातवीं कला कहते हैं। उनके उद्धृत ध्यान-श्लोक में लाकिनी को ‘गौडान्नासक्तचित्ता’, अर्थात् गुड़ वाले अन्न में आसक्त चित्त वाली, कहा गया है।"
+  },
+  "commentary": {
+    "sanskrit": "गुडेन मिश्रमन्नं गुडान्नम् । भक्ष्येण मिश्रीकरणमिति समासः । तेन प्रीतं मानसं यस्याः ।",
+    "translation": {
+      "en": "Guḍānna is food mixed with jaggery; the compound is formed by the rule ‘mixing with an eatable’. She whose mind is pleased by it.",
+      "hi": "गुड़ से मिला अन्न गुडान्न है; यह समास ‘भक्ष्येण मिश्रीकरणम्’ सूत्र से बना है। जिनका मन उससे प्रसन्न है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 501 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The rule Bhāskararāya names, भक्ष्येण मिश्रीकरणम्, is Pāṇini 2.1.35. The last sentence of the inner layer is a reflection. The edition places the heading of the sixth śataka (the seventh kalā, Suṣumṇā) before this name." }
+}

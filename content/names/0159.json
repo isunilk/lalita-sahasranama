@@ -1,0 +1,43 @@
+{
+  "number": 159,
+  "verse": 46,
+  "slug": "mada-nashini",
+  "devanagari": "मदनाशिनी",
+  "iastSplit": "Mada-nāśinī",
+  "archana": "ॐ मदनाशिन्यै नमः",
+  "syllables": ["ma", "da", "nā", "śi", "nī"],
+  "words": [
+    { "sa": "मद", "meaning": { "en": "pride; intoxication", "hi": "मद, अभिमान" } },
+    { "sa": "नाशिनी", "meaning": { "en": "she who destroys", "hi": "नाश करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Destroyer of pride in her devotees",
+    "hi": "भक्तों के मद का नाश करने वाली"
+  },
+  "explanation": {
+    "en": "She who is free of pride also destroys pride in her devotees. The word mada covers both arrogance and intoxication, and she clears the mind of both.",
+    "hi": "जो स्वयं मद से रहित हैं, वे भक्तों का मद भी नष्ट करती हैं। ‘मद’ शब्द में घमण्ड और नशा दोनों आते हैं, और वे मन को दोनों से मुक्त करती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives two readings. In the first she destroys mada, pride. In the second he divides the name as madana-āśinī: madana is the thorn-apple (dhattūra), and she is the one who eats it. He does not explain the second reading further.",
+    "hi": "भास्करराय दो अर्थ देते हैं। पहले अर्थ में वे मद का नाश करती हैं। दूसरे अर्थ में वे नाम को ‘मदन-आशिनी’ के रूप में तोड़ते हैं: ‘मदन’ धतूरा है, और वे उसे खाने वाली हैं। वे इस दूसरे अर्थ की और व्याख्या नहीं करते।"
+  },
+  "story": {
+    "en": "Like the other names in these verses, Nirmadā and Madanāśinī form a pair: she is free of pride herself, and she removes it from those who turn to her.",
+    "hi": "इन श्लोकों के अन्य नामों की भाँति ‘निर्मदा’ और ‘मदनाशिनी’ एक जोड़ा बनाते हैं: वे स्वयं मद से रहित हैं, और जो उनकी ओर मुड़ते हैं, उनका मद दूर करती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "मदं नाशयति मदनं धत्तूरमश्नातीति वा मदनाशिनी ।",
+    "translation": {
+      "en": "She destroys mada; or she eats madana, the thorn-apple: hence Madanāśinī.",
+      "hi": "वे मद का नाश करती हैं, अथवा मदन अर्थात् धतूरे का भक्षण करती हैं, इसलिए मदनाशिनी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 159 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s second reading divides the name as मदन + आशिनी (‘eater of the thorn-apple’); the master text, the split and the archana follow मद + नाशिनी." }
+}

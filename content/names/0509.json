@@ -1,0 +1,43 @@
+{
+  "number": 509,
+  "verse": 105,
+  "slug": "medo-nishtha",
+  "devanagari": "मेदोनिष्ठा",
+  "iastSplit": "Medo-niṣṭhā",
+  "archana": "ॐ मेदोनिष्ठायै नमः",
+  "syllables": ["me", "do", "niṣ", "ṭhā"],
+  "words": [
+    { "sa": "मेदस्", "meaning": { "en": "fat, the fatty tissue", "hi": "मेद, चर्बी" } },
+    { "sa": "निष्ठा", "meaning": { "en": "abiding, established in", "hi": "स्थिति, स्थित" } }
+  ],
+  "meaning": {
+    "en": "Who abides in the fatty tissue (medas)",
+    "hi": "मेद-धातु में स्थित"
+  },
+  "explanation": {
+    "en": "Kākinī presides over medas, fat, the fourth of the bodily tissues given to the yoginīs. Bhāskararāya says she is the one whose abiding (niṣṭhā) is in medas, a particular tissue of the body.",
+    "hi": "काकिनी मेद, अर्थात् चर्बी, की अधिष्ठात्री हैं, जो योगिनियों को दी गई धातुओं में चौथी है। भास्करराय कहते हैं कि उनकी निष्ठा, अर्थात् स्थिति, मेद नाम की धातु में है।"
+  },
+  "inner": {
+    "en": "He gives only the literal sense, with no hidden meaning. Medas is the body’s store of nourishment, and the meditation verse he quotes calls Kākinī medodhātupratiṣṭhā, established in that tissue.",
+    "hi": "वे केवल शाब्दिक अर्थ देते हैं, कोई गूढ़ अर्थ नहीं। मेद शरीर का पोषण-भण्डार है, और उनके उद्धृत ध्यान-श्लोक में काकिनी को ‘मेदोधातुप्रतिष्ठा’, अर्थात् मेद-धातु में प्रतिष्ठित, कहा गया है।"
+  },
+  "story": {
+    "en": "In the chanted verse the name is medoniṣṭhā: medas becomes medo before n by sandhi. The tissues so far are skin (481), blood (490), flesh (500) and now fat; bone follows with Sākinī (516).",
+    "hi": "श्लोक में यह नाम ‘मेदोनिष्ठा’ है: सन्धि से ‘न’ से पहले ‘मेदस्’ ‘मेदो’ हो जाता है। अब तक की धातुएँ हैं: त्वचा (481), रक्त (490), मांस (500) और अब मेद; इसके बाद साकिनी के साथ अस्थि (516) आती है।"
+  },
+  "commentary": {
+    "sanskrit": "मेदसि धातुविशेषे निष्ठा स्थितिर्यस्याः ।",
+    "translation": {
+      "en": "She whose niṣṭhā, abiding, is in medas, a particular tissue of the body.",
+      "hi": "जिनकी निष्ठा, अर्थात् स्थिति, मेद नाम की विशेष धातु में है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 509 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; ‘the body’s store of nourishment’ in the inner layer is a reflection." }
+}

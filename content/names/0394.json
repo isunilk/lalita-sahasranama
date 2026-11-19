@@ -1,0 +1,43 @@
+{
+  "number": 394,
+  "verse": 86,
+  "slug": "prabha-rupa",
+  "devanagari": "प्रभारूपा",
+  "iastSplit": "Prabhā-rūpā",
+  "archana": "ॐ प्रभारूपायै नमः",
+  "syllables": ["pra", "bhā", "rū", "pā"],
+  "words": [
+    { "sa": "प्रभा", "meaning": { "en": "light, radiance", "hi": "प्रभा, ज्योति" } },
+    { "sa": "रूप", "meaning": { "en": "form", "hi": "रूप" } }
+  ],
+  "meaning": {
+    "en": "Whose very form is light",
+    "hi": "प्रभा ही जिनका स्वरूप है"
+  },
+  "explanation": {
+    "en": "In the previous name the rays are hers; here she is the rays. The light that surrounds her is her own form.",
+    "hi": "पिछले नाम में किरणें उनकी थीं; यहाँ वे स्वयं किरणें हैं। उन्हें घेरने वाली ज्योति उनका अपना स्वरूप है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya argues that rays are qualities of light, not separate things, and since a quality is not different from what has it, the deities Aṇimā and the rest are her very form. He cites the Upaniṣadic description of the Self as “made of mind, whose form is light”. What shines out from her is never other than she.",
+    "hi": "भास्करराय तर्क देते हैं कि किरणें प्रकाश का गुण हैं, अलग द्रव्य नहीं, और क्योंकि गुण अपने गुणी से भिन्न नहीं होता, अणिमा आदि देवियाँ उनका ही स्वरूप हैं। वे आत्मा के उपनिषद्-वर्णन ‘मनोमय, भारूप’, अर्थात् मनोमय और प्रकाश-रूप, का प्रमाण देते हैं। उनसे जो भी ज्योति फैलती है, वह कभी उनसे भिन्न नहीं।"
+  },
+  "story": {
+    "en": "Unusually, Bhāskararāya notes that this view of rays as qualities rather than substances is stated by Jain teachers such as Haribhadra, in works like the Dharmasaṃgrahaṇī, and he quotes their Prakrit line with its Sanskrit rendering.",
+    "hi": "असामान्य रूप से भास्करराय बताते हैं कि किरणें गुण हैं, द्रव्य नहीं, यह मत हरिभद्र आदि जैन आचार्यों ने धर्मसंग्रहिणी जैसे ग्रन्थों में भी कहा है, और वे उनकी प्राकृत पंक्ति उसके संस्कृत रूपान्तर के साथ उद्धृत करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "प्रभारूपा अणिमाद्या देवता स्वरूपमेव यस्याः । मनोमयो भारूप इति श्रुतेः ।",
+    "translation": {
+      "en": "Prabhārūpā: she whose very form is the deities, Aṇimā and the rest; as the śruti says, “made of mind, whose form is light.”",
+      "hi": "प्रभारूपा: अणिमा आदि देवियाँ ही जिनका स्वरूप हैं; जैसा श्रुति कहती है, ‘मनोमय, भारूप’।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 394 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The argument from the non-difference of quality and possessor is Bhāskararāya’s; the last sentence of the inner layer is a reflection." }
+}

@@ -1,0 +1,46 @@
+{
+  "number": 491,
+  "verse": 101,
+  "slug": "kalaratryadi-shaktyaugha-vrita",
+  "devanagari": "कालरात्र्यादिशक्त्यौघवृता",
+  "iastSplit": "Kālarātryādi-śaktyaugha-vṛtā",
+  "archana": "ॐ कालरात्र्यादिशक्त्यौघवृतायै नमः",
+  "syllables": ["kā", "la", "rāt", "ryā", "di", "śak", "tyau", "gha", "vṛ", "tā"],
+  "words": [
+    { "sa": "कालरात्रि", "meaning": { "en": "Kālarātri, ‘night of time’, name of a śakti", "hi": "कालरात्रि, एक शक्ति का नाम" } },
+    { "sa": "आदि", "meaning": { "en": "beginning with", "hi": "आदि" } },
+    { "sa": "शक्ति", "meaning": { "en": "power", "hi": "शक्ति" } },
+    { "sa": "औघ", "meaning": { "en": "host, multitude", "hi": "समूह" } },
+    { "sa": "वृता", "meaning": { "en": "surrounded", "hi": "घिरी हुई" } }
+  ],
+  "meaning": {
+    "en": "Encircled by the host of powers led by Kālarātri",
+    "hi": "कालरात्रि आदि शक्तियों के समूह से घिरी"
+  },
+  "explanation": {
+    "en": "On the twelve petals of the heart lotus stand twelve powers. Bhāskararāya says the first is Kālarātri and the last Ṭhaṃkārī, and that the whole host surrounds Rākiṇī, ranged on the petals.",
+    "hi": "हृदय-कमल के बारह दलों पर बारह शक्तियाँ स्थित हैं। भास्करराय बताते हैं कि इनमें पहली कालरात्रि और अन्तिम ठंकारी हैं, और यह पूरा समूह दलों पर फैलकर राकिणी को घेरे हुए है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya identifies Kālarātri through the Varāha Purāṇa: she is Raudrī, the tamasic power of the Goddess, known as the destroyer. He gives no further hidden meaning. Her name, ‘night of time’, suggests the night of dissolution in which all things come to rest.",
+    "hi": "भास्करराय वराह पुराण के आधार पर कालरात्रि की पहचान बताते हैं: वे देवी की तामसी शक्ति रौद्री हैं, जिन्हें संहार करने वाली कहा गया है। इससे आगे वे कोई गूढ़ अर्थ नहीं देते। उनका नाम, ‘काल की रात्रि’, उस प्रलय-रात्रि की ओर संकेत करता है जिसमें सब कुछ विश्राम पाता है।"
+  },
+  "story": {
+    "en": "The passage Bhāskararāya quotes from the Varāha Purāṇa comes from its account of the Goddess’s three forms. Raudrī, the power born of tamas, went to the Nīla mountain to perform austerities; she is the destroyer, and people know her by the name Kālarātri.",
+    "hi": "भास्करराय वराह पुराण से जो प्रसंग उद्धृत करते हैं, वह देवी के तीन रूपों के वर्णन का भाग है। तमोगुण से उत्पन्न रौद्री शक्ति तप के लिए नीलगिरि पर गईं; वे संहार करने वाली हैं, और लोग उन्हें कालरात्रि के नाम से जानते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "सा आदिर्यासां तासां ठंकार्यन्तद्वादशक्तीनामोघेन समूहेन वृता । पत्रेषु वेष्टिता ।",
+    "translation": {
+      "en": "Surrounded by the ogha, the host, of the twelve powers of whom she is the first and Ṭhaṃkārī the last; that is, encircled on the petals.",
+      "hi": "उन बारह शक्तियों के ओघ अर्थात् समूह से घिरी, जिनमें वे पहली हैं और ठंकारी अन्तिम; अर्थात् दलों पर चारों ओर से घिरी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 491 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The commentary quote is printed as in the edition: द्वादशक्तीनाम् is evidently a misprint for द्वादशशक्तीनाम्. The verse reads शक्त्यौघ, so the member is given as औघ; Bhāskararāya glosses it with ओघ, ‘host’. The last sentence of the inner layer is a reflection on the name Kālarātri." }
+}

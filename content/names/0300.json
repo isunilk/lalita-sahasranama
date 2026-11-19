@@ -1,0 +1,44 @@
+{
+  "number": 300,
+  "verse": 70,
+  "slug": "nama-rupa-vivarjita",
+  "devanagari": "नामरूपविवर्जिता",
+  "iastSplit": "Nāma-rūpa-vivarjitā",
+  "archana": "ॐ नामरूपविवर्जितायै नमः",
+  "syllables": ["nā", "ma", "rū", "pa", "vi", "var", "ji", "tā"],
+  "words": [
+    { "sa": "नामन्", "meaning": { "en": "name", "hi": "नाम" } },
+    { "sa": "रूप", "meaning": { "en": "form", "hi": "रूप" } },
+    { "sa": "विवर्जिता", "meaning": { "en": "wholly free of, without", "hi": "सर्वथा रहित" } }
+  ],
+  "meaning": {
+    "en": "Free of name and form",
+    "hi": "नाम और रूप से सर्वथा रहित"
+  },
+  "explanation": {
+    "en": "Everything in the world has a name and a form; that is how we know it. She has neither, because she is what remains when name and form are taken away.",
+    "hi": "संसार की हर वस्तु का एक नाम और एक रूप होता है; इसी से हम उसे पहचानते हैं। उनका न नाम है, न रूप, क्योंकि वे वह हैं जो नाम और रूप हटा देने पर शेष रहता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya cites the Vedāntic teaching that every thing shows five aspects: it is (asti), it shines (bhāti), it is dear (priya), and it has a name (nāma) and a form (rūpa). The first three are Brahman, the last two the world; since name and form are unreal, she is free of them, and even a relation between the real and the unreal is unreal. He quotes the Chāndogya Upaniṣad: space, which he takes as the power of consciousness, brings name and form about, and what remains as their ground when both are removed is Brahman.",
+    "hi": "भास्करराय वेदान्त की इस शिक्षा का प्रमाण देते हैं कि हर वस्तु के पाँच अंश हैं: वह है (अस्ति), भासती है (भाति), प्रिय है (प्रिय), और उसका नाम है और रूप है। पहले तीन ब्रह्म के स्वरूप हैं, अन्तिम दो जगत् के; नाम-रूप मिथ्या होने से वे उनसे रहित हैं, क्योंकि सत्य और असत्य का सम्बन्ध भी मिथ्या ही है। वे छान्दोग्य उपनिषद् का वचन देते हैं: आकाश, जिसे वे चिच्छक्ति मानते हैं, नाम और रूप का निर्वाह करता है, और इन दोनों के बिना जो अधिष्ठान मात्र शेष रहता है, वही ब्रह्म है।"
+  },
+  "story": {
+    "en": "With this name the third hundred ends. Bhāskararāya calls each part of his commentary a kalā: the third hundred names form the fourth, called Marīci (“ray of light”), and the fifth, Jvālinī (“the flaming”), begins with the next name.",
+    "hi": "इस नाम के साथ तीसरा शतक पूरा होता है। भास्करराय अपने भाष्य के प्रत्येक भाग को ‘कला’ कहते हैं: तीसरे सौ नाम चौथी कला बनाते हैं, जिसका नाम ‘मरीचि’ (प्रकाश की किरण) है, और अगले नाम से पाँचवीं कला ‘ज्वालिनी’ आरम्भ होती है।"
+  },
+  "commentary": {
+    "sanskrit": "तत्र जगद्रूपयोर्नामरूपयोर्मिथ्यात्वात्ताभ्यं विवर्जिता ।",
+    "translation": {
+      "en": "Of these, name and form are the world’s aspects; since they are unreal, she is free of them.",
+      "hi": "इनमें नाम और रूप जगत् के अंश हैं; वे मिथ्या हैं, इसलिए वे उनसे रहित हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 300 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The commentary excerpt is quoted exactly as printed, with the misprint ताभ्यं for ताभ्यां. The next sentence in the edition (…वास्तविकस्ताभ्यां सम्बन्धः सत्येन स भवतीति…) seems to have lost a negative; the inner layer gives its evident sense. The five-aspect verse (अस्ति भाति प्रियं…) is cited by him from “the learned” (अभियुक्तैः) without naming a work." }
+}

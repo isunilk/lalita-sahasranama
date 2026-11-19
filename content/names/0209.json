@@ -1,0 +1,43 @@
+{
+  "number": 209,
+  "verse": 53,
+  "slug": "maha-devi",
+  "devanagari": "महादेवी",
+  "iastSplit": "Mahā-devī",
+  "archana": "ॐ महादेव्यै नमः",
+  "syllables": ["ma", "hā", "de", "vī"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "देवी", "meaning": { "en": "goddess", "hi": "देवी" } }
+  ],
+  "meaning": {
+    "en": "The Great Goddess, whose body no measure can contain",
+    "hi": "महादेवी, जिनका शरीर किसी माप में नहीं समाता"
+  },
+  "explanation": {
+    "en": "She is mahatī, great, and devī, the Goddess: the Great Goddess. Her greatness is that her body is beyond every measure; no means of knowing can take its size.",
+    "hi": "वे महती हैं, अर्थात् महान, और देवी हैं: महादेवी। उनकी महानता यह है कि उनका शरीर हर माप से परे है; ज्ञान का कोई साधन उसकी सीमा नहीं नाप सकता।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes the Devī Purāṇa: her body is vast, beyond all measure, and since the root mah means worship, she is called Mahādevī. Her greatness is therefore both vastness and worthiness of worship. He gives no further hidden meaning.",
+    "hi": "भास्करराय देवी पुराण का वचन उद्धृत करते हैं: उनका शरीर विशाल है, प्रमाणों से अप्रमेय; और ‘मह्’ धातु पूजा के अर्थ में है, इसलिए वे महादेवी कहलाती हैं। अतः उनकी महानता में विशालता भी है और पूज्यता भी। वे इसके आगे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "In a second reading, Mahādeva is the name of Śiva in his form as the moon, the eighth of his forms, and his consort is Rohiṇī, mother of Budha (Mercury), as Bhāskararāya shows from the Liṅga Purāṇa and the Vāyavīya. He adds that the Padma Purāṇa’s list of the Devī’s shrines names Mahādevī at Śālagrāma, where she presides over the Cakratīrtha on the Gaṇḍakī river.",
+    "hi": "दूसरे अर्थ में महादेव चन्द्र रूप में शिव का नाम है, जो उनकी आठ मूर्तियों में आठवीं है; उनकी पत्नी रोहिणी हैं, बुध की माता, जैसा भास्करराय लिङ्ग पुराण और वायवीय से दिखाते हैं। वे यह भी बताते हैं कि पद्म पुराण की देवी-तीर्थों की सूची में शालग्राम में महादेवी का नाम है, जहाँ वे गण्डकी नदी पर चक्रतीर्थ की अधिष्ठात्री देवी हैं।"
+  },
+  "commentary": {
+    "sanskrit": "महती च सा देवी च महादेवी । महत्त्वं च प्रमाणागम्यशरीरकत्वम् ।",
+    "translation": {
+      "en": "She is great and she is the Goddess: Mahādevī. Her greatness is having a body that no means of knowledge can reach.",
+      "hi": "वे महती भी हैं और देवी भी, इसलिए महादेवी। उनकी महत्ता यह है कि उनका शरीर किसी प्रमाण से जाना नहीं जा सकता।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 209 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. ‘Vāyavīya’ is as the commentary names it (वायवीये), presumably the Vāyavīya Saṃhitā." }
+}

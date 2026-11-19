@@ -1,0 +1,43 @@
+{
+  "number": 140,
+  "verse": 44,
+  "slug": "nish-kala",
+  "devanagari": "निष्कला",
+  "iastSplit": "Niṣ-kalā",
+  "archana": "ॐ निष्कलायै नमः",
+  "syllables": ["niṣ", "ka", "lā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free from", "hi": "रहित, बिना" } },
+    { "sa": "कला", "meaning": { "en": "part, portion; digit of the moon", "hi": "अंश, भाग; चन्द्रमा की कला" } }
+  ],
+  "meaning": {
+    "en": "Without parts, whole and undivided",
+    "hi": "अंशों से रहित, अखण्ड"
+  },
+  "explanation": {
+    "en": "Kalā means a part or portion, like the digits of the moon. She cannot be divided into pieces; she is whole and entire wherever she is.",
+    "hi": "‘कला’ का अर्थ है अंश या भाग, जैसे चन्द्रमा की कलाएँ। उन्हें टुकड़ों में नहीं बाँटा जा सकता; वे जहाँ हैं, वहाँ पूर्ण और अखण्ड हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says she has no real parts, and so refutes the view that Brahman is made of parts. When the Brahma Sūtra and the Gītā (“a part of me”) call the soul a part of the Lord, the parts meant are imagined, not real. He also takes niṣkalā as meditation free of attributes, quoting the Vijñāna Bhairava: true meditation is thought without parts, without prop or support, not the picturing of a body with face and hands.",
+    "hi": "भास्करराय कहते हैं कि उनमें कोई वास्तविक अंश नहीं, और इस प्रकार वे उस मत का खण्डन करते हैं जो ब्रह्म को अंशों वाला मानता है। जब ब्रह्मसूत्र और गीता (‘मेरा ही अंश’) जीव को ईश्वर का अंश कहते हैं, तो वे अंश कल्पित हैं, वास्तविक नहीं। वे ‘निष्कला’ का अर्थ निर्गुण ध्यान भी करते हैं, और विज्ञान भैरव का वचन देते हैं: सच्चा ध्यान वह चिन्तन है जो कलारहित, निराधार और निराश्रय हो, मुख-हाथ वाले शरीर की कल्पना नहीं।"
+  },
+  "story": {
+    "en": "Under the next name Bhāskararāya cites an Upaniṣad phrase that gathers these words together: niṣkala, without parts; niṣkriya, without action; śānta, at peace.",
+    "hi": "अगले नाम पर भास्करराय उपनिषद् का एक वाक्यांश उद्धृत करते हैं जिसमें ये शब्द साथ आते हैं: निष्कल, अर्थात् अंशरहित; निष्क्रिय, अर्थात् कर्मरहित; और शान्त।"
+  },
+  "commentary": {
+    "sanskrit": "निर्गताः कला अंशा वास्तविका यस्याः ।",
+    "translation": {
+      "en": "She from whom kalās, real parts, are absent.",
+      "hi": "जिनमें कलाएँ, अर्थात् वास्तविक अंश, नहीं हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 140 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Vijñāna Bhairava verse is summarized as Bhāskararāya quotes it (ध्यानं या निष्कला चिन्ता निराधारा निराश्रया …); a reviewer may compare it with editions of that text, where the wording may differ. He also gives ‘beyond the kalās’ (कलातीता) as a further sense." }
+}

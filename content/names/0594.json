@@ -1,0 +1,44 @@
+{
+  "number": 594,
+  "verse": 119,
+  "slug": "indra-dhanu-prabha",
+  "devanagari": "इन्द्रधनुःप्रभा",
+  "iastSplit": "Indra-dhanuḥ-prabhā",
+  "archana": "ॐ इन्द्रधनुःप्रभायै नमः",
+  "syllables": ["in", "dra", "dha", "nuḥ", "pra", "bhā"],
+  "words": [
+    { "sa": "इन्द्र", "meaning": { "en": "Indra; with dhanus, the rainbow, ‘Indra’s bow’", "hi": "इन्द्र; ‘धनुस्’ के साथ इन्द्रधनुष" } },
+    { "sa": "धनुस्", "meaning": { "en": "bow", "hi": "धनुष" } },
+    { "sa": "प्रभा", "meaning": { "en": "radiance", "hi": "प्रभा, आभा" } }
+  ],
+  "meaning": {
+    "en": "Radiant as the rainbow",
+    "hi": "इन्द्रधनुष जैसी प्रभा वाली"
+  },
+  "explanation": {
+    "en": "The rainbow is called Indra’s bow, and her radiance is like it: an arc of many-coloured light. Bhāskararāya says the name shows that above the bindu in the forehead she dwells in the form of the half-moon.",
+    "hi": "इन्द्रधनुष को ‘इन्द्र का धनुष’ कहा जाता है, और उनकी प्रभा उसी जैसी है: बहुरंगी प्रकाश का एक चाप। भास्करराय कहते हैं कि यह नाम दिखाता है कि ललाट के बिन्दु के ऊपर वे अर्धचन्द्र के रूप में स्थित हैं।"
+  },
+  "inner": {
+    "en": "He quotes the Nityāhṛdaya: in the forehead the bindu is held to be round and lamp-like, measuring half a mātrā; above it is the half-moon, measuring a quarter mātrā. The bow-shaped arc of the half-moon is the rainbow of this name.",
+    "hi": "वे नित्याहृदय उद्धृत करते हैं: ललाट में बिन्दु गोल और दीपक के आकार का माना जाता है, जिसकी मात्रा आधी है; उसके ऊपर अर्धचन्द्र है, जिसकी मात्रा चौथाई है। अर्धचन्द्र का यह धनुषाकार चाप ही इस नाम का इन्द्रधनुष है।"
+  },
+  "story": {
+    "en": "Read with the previous name, this half-line pictures the forehead: the bindu as a point of light and, above it, the half-moon arching like a rainbow. Bhāskararāya’s text spells the name indradhanuṣprabhā; this site follows the master text, indradhanuḥprabhā.",
+    "hi": "पिछले नाम के साथ पढ़ने पर यह आधी पंक्ति ललाट का चित्र बनाती है: प्रकाश के बिन्दु के रूप में बिन्दु, और उसके ऊपर इन्द्रधनुष-सा झुका अर्धचन्द्र। भास्करराय के पाठ में नाम ‘इन्द्रधनुष्प्रभा’ लिखा है; यहाँ मूल पाठ ‘इन्द्रधनुःप्रभा’ का अनुसरण किया गया है।"
+  },
+  "commentary": {
+    "sanskrit": "तदुपर्यर्धचन्द्ररूपेण तिष्ठतीति द्योतनायाह । इन्द्रधनुष्प्रभा ।",
+    "translation": {
+      "en": "To show that above it she abides in the form of the half-moon, the name says: Indradhanuṣprabhā.",
+      "hi": "यह बताने के लिए कि उसके ऊपर वे अर्धचन्द्र-रूप से स्थित हैं, (नाम) कहता है: इन्द्रधनुष्प्रभा।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 594 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Cakra and mantra name: meaning only. Variant spelling: Bhāskararāya’s text reads इन्द्रधनुष्प्रभा (with ष्); the master text and the archana keep इन्द्रधनुःप्रभा. The last sentence of the inner layer draws out his point rather than quoting it." }
+}

@@ -1,0 +1,67 @@
+{
+  "number": 621,
+  "verse": 124,
+  "slug": "divya-vigraha",
+  "devanagari": "दिव्यविग्रहा",
+  "iastSplit": "Divya-vigrahā",
+  "archana": "ॐ दिव्यविग्रहायै नमः",
+  "syllables": [
+    "div",
+    "ya",
+    "vig",
+    "ra",
+    "hā"
+  ],
+  "words": [
+    {
+      "sa": "दिव्य",
+      "meaning": {
+        "en": "divine, heavenly; in the sky",
+        "hi": "दिव्य, अलौकिक"
+      }
+    },
+    {
+      "sa": "विग्रह",
+      "meaning": {
+        "en": "body, form; also battle",
+        "hi": "विग्रह, देह; युद्ध भी"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Whose form is divine",
+    "hi": "जिनका विग्रह दिव्य है"
+  },
+  "explanation": {
+    "en": "Vigraha is body or form, and divya means divine, heavenly and lovely. Her body is not made of earthly elements; it is radiant and beautiful.",
+    "hi": "‘विग्रह’ का अर्थ है देह या रूप, और ‘दिव्य’ है स्वर्गीय, अलौकिक और मनोहर। उनकी देह पार्थिव तत्त्वों से नहीं बनी; वह तेजोमय और सुन्दर है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya adds that vigraha also means battle, and divya then means “in the sky”: her battle was fought in the air. He cites the Mārkaṇḍeya Purāṇa, where Caṇḍikā fought the demon there without any support. From the dictionary Medinī he also gives the senses expansion and division.",
+    "hi": "भास्करराय जोड़ते हैं कि ‘विग्रह’ का अर्थ युद्ध भी है, और तब ‘दिव्य’ का अर्थ है आकाश में होने वाला: उनका युद्ध अन्तरिक्ष में हुआ। वे मार्कण्डेय पुराण का वचन देते हैं, जहाँ चण्डिका ने बिना किसी आधार के वहाँ असुर से युद्ध किया। मेदिनी कोश के आधार पर वे विस्तार और विभाग के अर्थ भी बताते हैं।"
+  },
+  "story": {
+    "en": "In the Devī Māhātmya, part of the Mārkaṇḍeya Purāṇa, the demon Śumbha rises into the sky to fight, and the Goddess battles him there, unsupported, before casting him down and slaying him.",
+    "hi": "मार्कण्डेय पुराण के अंग देवीमाहात्म्य में असुर शुम्भ युद्ध के लिए आकाश में उठता है, और देवी वहीं बिना किसी आधार के उससे लड़ती हैं, फिर उसे नीचे गिराकर उसका वध करती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "दिव्यो रमणीयो विग्रहो देहो यस्याः । दिव्यन्तरिक्षे भवो दिव्यो विग्रहो रणो यस्या वा ।",
+    "translation": {
+      "en": "She whose vigraha, body, is divya, lovely. Or she whose vigraha, battle, was divya, taking place in the sky.",
+      "hi": "जिनका विग्रह अर्थात् देह दिव्य अर्थात् रमणीय है। अथवा जिनका विग्रह अर्थात् युद्ध दिव्य, यानी अन्तरिक्ष में, हुआ।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 621 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The identification of the battle with Śumbha follows the Devī Māhātmya; Bhāskararāya quotes only the line ‘सा निराधारा युयुधे तेन चण्डिका’."
+  }
+}

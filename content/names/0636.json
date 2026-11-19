@@ -1,0 +1,68 @@
+{
+  "number": 636,
+  "verse": 126,
+  "slug": "gandharva-sevita",
+  "devanagari": "गन्धर्वसेविता",
+  "iastSplit": "Gandharva-sevitā",
+  "archana": "ॐ गन्धर्वसेवितायै नमः",
+  "syllables": [
+    "gan",
+    "dhar",
+    "va",
+    "se",
+    "vi",
+    "tā"
+  ],
+  "words": [
+    {
+      "sa": "गन्धर्व",
+      "meaning": {
+        "en": "gandharva, heavenly musician; also horse, divine song",
+        "hi": "गन्धर्व, स्वर्ग के गायक; अश्व और दिव्य गान भी"
+      }
+    },
+    {
+      "sa": "सेविता",
+      "meaning": {
+        "en": "served, attended",
+        "hi": "सेवित"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Served by the gandharvas, the heavenly musicians",
+    "hi": "गन्धर्वों, अर्थात् स्वर्ग के गायकों, द्वारा सेवित"
+  },
+  "explanation": {
+    "en": "The gandharvas are celestial musicians and singers, among whom Viśvāvasu is foremost. They attend her with their music.",
+    "hi": "गन्धर्व स्वर्ग के गायक और संगीतकार हैं, जिनमें विश्वावसु प्रमुख हैं। वे अपने संगीत से उनकी सेवा करते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya adds two readings. Gandharva also means horse, so she is the goddess Aśvārūḍhā, “mounted on a horse”, attended by horses. Or gandharva is divine music itself, and she is served by it.",
+    "hi": "भास्करराय दो अर्थ और देते हैं। ‘गन्धर्व’ का अर्थ घोड़ा भी है, इसलिए वे अश्वों से सेवित अश्वारूढा देवी हैं। अथवा ‘गन्धर्व’ स्वयं दिव्य गान है, और वे उससे सेवित हैं।"
+  },
+  "story": {
+    "en": "Aśvārūḍhā appears earlier in the hymn: name 67 shows Lalitā surrounded by countless horses commanded by Aśvārūḍhā as she marches against Bhaṇḍāsura. This name closes the verse that called her Umā, the mountain’s daughter, and Gaurī.",
+    "hi": "अश्वारूढा स्तोत्र में पहले भी आ चुकी हैं: नाम 67 भण्डासुर के विरुद्ध प्रयाण करती ललिता को अश्वारूढा के अधीन अनगिनत अश्वों से घिरा दिखाता है। यह नाम उस श्लोक को पूरा करता है जिसने उन्हें उमा, शैलेन्द्रतनया और गौरी कहा।"
+  },
+  "commentary": {
+    "sanskrit": "गन्धर्वैर्विश्वावसुप्रभृतिभिः सेविता । गन्धर्वैरश्वैर्वा सेविताऽश्वारूढाख्या देवी वा । दिव्यगानमेव वा गन्धर्वः ।",
+    "translation": {
+      "en": "Served by the gandharvas, Viśvāvasu and the others. Or served by gandharvas in the sense of horses: the goddess called Aśvārūḍhā. Or gandharva is divine song itself.",
+      "hi": "विश्वावसु आदि गन्धर्वों द्वारा सेवित। अथवा गन्धर्व, अर्थात् अश्वों, द्वारा सेवित, अश्वारूढा नाम की देवी। अथवा दिव्य गान ही गन्धर्व है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 636 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The link to name 67 is mine, not Bhāskararāya’s."
+  }
+}

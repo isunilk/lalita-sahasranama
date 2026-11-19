@@ -1,0 +1,44 @@
+{
+  "number": 749,
+  "verse": 144,
+  "slug": "mrityu-daru-kutharika",
+  "devanagari": "मृत्युदारुकुठारिका",
+  "iastSplit": "Mṛtyu-dāru-kuṭhārikā",
+  "archana": "ॐ मृत्युदारुकुठारिकायै नमः",
+  "syllables": ["mṛt", "yu", "dā", "ru", "ku", "ṭhā", "ri", "kā"],
+  "words": [
+    { "sa": "मृत्यु", "meaning": { "en": "death", "hi": "मृत्यु" } },
+    { "sa": "दारु", "meaning": { "en": "wood, a log", "hi": "लकड़ी" } },
+    { "sa": "कुठारिका", "meaning": { "en": "axe", "hi": "कुल्हाड़ी, कुठार" } }
+  ],
+  "meaning": {
+    "en": "The axe that cuts down the timber of death",
+    "hi": "मृत्यु रूपी लकड़ी को काटने वाली कुल्हाड़ी"
+  },
+  "explanation": {
+    "en": "Death is a log of wood, and she is the axe that cuts it. Bhāskararāya notes that kuṭhāra, axe, may be masculine or feminine, and that the suffix -ka here adds nothing to the meaning.",
+    "hi": "मृत्यु लकड़ी है, और वे उसे काटने वाली कुल्हाड़ी हैं। भास्करराय बताते हैं कि ‘कुठार’ (कुल्हाड़ी) पुल्लिंग और स्त्रीलिंग दोनों में आता है, और यहाँ ‘क’ प्रत्यय अर्थ में कुछ नहीं जोड़ता।"
+  },
+  "inner": {
+    "en": "He also reads dāru as a number. In Vararuci’s letter-number convention, which he used at name 296, dāru stands for twenty-eight, so the ‘logs of death’ are the twenty-eight vadhas, the impairments of the senses and the intellect that Sāṅkhya counts among the obstacles to liberation. She cuts through every one of them.",
+    "hi": "वे ‘दारु’ को एक संख्या के रूप में भी पढ़ते हैं। वररुचि की अक्षर-संख्या पद्धति में, जिसका प्रयोग वे नाम 296 पर कर चुके हैं, ‘दारु’ अट्ठाईस का बोधक है; इसलिए ‘मृत्यु की लकड़ियाँ’ वे अट्ठाईस वध हैं, इन्द्रियों और बुद्धि की वे असमर्थताएँ जिन्हें सांख्य मुक्ति के बाधकों में गिनता है। वे इन सबको काट देती हैं।"
+  },
+  "story": {
+    "en": "This is the last of the eight names in which, Bhāskararāya says, the figure is metaphor. He also cites the Upaniṣadic line about the Supreme ‘to whom death is a sauce’: for that Supreme, death itself is only a relish poured over the meal.",
+    "hi": "यह उन आठ नामों में अन्तिम है जिनमें, भास्करराय के अनुसार, रूपक अलंकार है। वे उपनिषद् का वचन भी उद्धृत करते हैं: ‘मृत्यु जिसका उपसेचन है’, अर्थात् जिस परम के लिए मृत्यु भी भोजन पर डाला गया व्यंजन-रस भर है।"
+  },
+  "commentary": {
+    "sanskrit": "श्लेषेण काष्ठान्यपि कथ्यन्ते । तेषां छेदकत्वात्कुठारेव स्वार्थे कः ।",
+    "translation": {
+      "en": "By a play on words, logs of wood are also meant. Because she cuts them, she is like an axe; the suffix -ka keeps the same sense.",
+      "hi": "श्लेष से लकड़ियाँ भी कही गई हैं। उन्हें काटने के कारण वे कुठार के समान हैं; ‘क’ प्रत्यय अपने ही अर्थ में है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 749 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The letter-number reading (दारु = 28 by the वररुचि convention Bhāskararāya uses at name 296, where he sets out the 28 vadhas from the Sāṅkhya-kārikā) is his; the account is summarised. The line मृत्युर्यस्योपसेचनम् is Kaṭha Upaniṣad 1.2.25 (Bhāskararāya says only ‘śruti’)." }
+}

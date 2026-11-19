@@ -1,0 +1,47 @@
+{
+  "number": 403,
+  "verse": 87,
+  "slug": "maha-kamesha-nayana-kumudahlada-kaumudi",
+  "devanagari": "महाकामेशनयनकुमुदाह्लादकौमुदी",
+  "iastSplit": "Mahā-kāmeśa-nayana-kumudāhlāda-kaumudī",
+  "archana": "ॐ महाकामेशनयनकुमुदाह्लादकौमुद्यै नमः",
+  "syllables": ["ma", "hā", "kā", "me", "śa", "na", "ya", "na", "ku", "mu", "dāh", "lā", "da", "kau", "mu", "dī"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "कामेश", "meaning": { "en": "Kāmeśa, Śiva, her consort", "hi": "कामेश, शिव" } },
+    { "sa": "नयन", "meaning": { "en": "eye", "hi": "नयन, नेत्र" } },
+    { "sa": "कुमुद", "meaning": { "en": "night-blooming water-lily", "hi": "कुमुद, कुमुदिनी" } },
+    { "sa": "आह्लाद", "meaning": { "en": "delight, gladdening", "hi": "आह्लाद, आनन्द" } },
+    { "sa": "कौमुदी", "meaning": { "en": "moonlight", "hi": "चाँदनी, कौमुदी" } }
+  ],
+  "meaning": {
+    "en": "Moonlight that gladdens the lily-eyes of Mahākāmeśa",
+    "hi": "महाकामेश के कुमुद-नयनों को आनन्दित करने वाली चाँदनी"
+  },
+  "explanation": {
+    "en": "The kumuda is the water-lily that opens to the moon. Śiva’s eyes are such lilies, and she is the moonlight that makes them open in delight.",
+    "hi": "कुमुद वह जलपुष्प है जो चन्द्रमा को देखकर खिलता है। शिव के नेत्र ऐसे ही कुमुद हैं, और वे वह चाँदनी हैं जिससे वे आनन्द से खिल उठते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya reads Mahākāmeśa as the great Kāmeśa, or as the Lord of great desire, that is, of great purpose. The lilies’ joy may be their opening, or their closing in excess of happiness. His second reading turns the name toward us: ku-mud are those whose joy is poor, worldly people whose pleasures pass and are mixed with sorrow; for them she is the light that reveals the highest bliss, which comes by leading them to Mahākāmeśa.",
+    "hi": "भास्करराय ‘महाकामेश’ को महान कामेश, अथवा महान काम, अर्थात् महान संकल्प, वाले ईश के रूप में पढ़ते हैं। कुमुदों का आह्लाद उनका खिलना हो सकता है, अथवा अत्यधिक सुख से उनका मुँद जाना। उनका दूसरा अर्थ इस नाम को हमारी ओर मोड़ता है: ‘कु-मुद्’ वे हैं जिनका आनन्द तुच्छ है, संसारी लोग, जिनके सुख नश्वर और दुःख से मिले हुए हैं; उनके लिए वे उस परम आनन्द को प्रकाशित करने वाली ज्योति हैं, जो उन्हें महाकामेश तक ले जाने से मिलता है।"
+  },
+  "story": {
+    "en": "Indian poets say the kumuda opens at moonrise as the lotus opens at sunrise; Bhāskararāya also takes kaumudī as the full-moon night of Kārttika. The name closes verse 87 with an image of the love between Śiva and Śakti.",
+    "hi": "भारतीय कवियों के अनुसार कुमुद चन्द्रोदय पर खिलता है, जैसे कमल सूर्योदय पर; भास्करराय ‘कौमुदी’ का एक अर्थ कार्तिक की पूर्णिमा भी बताते हैं। यह नाम श्लोक 87 को शिव और शक्ति के प्रेम के एक चित्र के साथ पूरा करता है।"
+  },
+  "commentary": {
+    "sanskrit": "महांश्चासौ कामेशश्चेति वा महाकामो महेच्छो महाशयश्चासावीशश्चेति वा महाकामेशस्तस्य नयने एव कुमुदे कैरवे रक्तपङ्कजे वा तयोराह्लादे विकासे सुखातिशयकृतनिमीलने वा कौमुदी चन्द्रिकेव ।",
+    "translation": {
+      "en": "Mahākāmeśa is either the great Kāmeśa, or the Lord (īśa) who is mahākāma, of great desire and great intent. His two eyes are kumudas, white water-lilies or red lotuses; for their āhlāda, their opening, or their closing from excess of joy, she is like kaumudī, moonlight.",
+      "hi": "‘महाकामेश’ का अर्थ है महान कामेश, अथवा वह ईश जो महाकाम, अर्थात् महान इच्छा और महान आशय वाले, हैं। उनके दोनों नेत्र ही कुमुद हैं, श्वेत कुमुदिनी अथवा लाल कमल; उनके आह्लाद के लिए, अर्थात् खिलने के लिए, अथवा अत्यधिक सुख से मुँदने के लिए, वे कौमुदी, अर्थात् चाँदनी, के समान हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 403 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s second reading (कुमुद् = those of poor joy; नयन = leading, an instrumental compound) is summarised in the inner layer. The Yādava lexicon verse he cites is garbled in the edition (कामुद.ः) and is not quoted." }
+}

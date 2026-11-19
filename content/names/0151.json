@@ -1,0 +1,43 @@
+{
+  "number": 151,
+  "verse": 45,
+  "slug": "nir-antara",
+  "devanagari": "निरन्तरा",
+  "iastSplit": "Nir-antarā",
+  "archana": "ॐ निरन्तरायै नमः",
+  "syllables": ["ni", "ran", "ta", "rā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free from", "hi": "रहित, बिना" } },
+    { "sa": "अन्तर", "meaning": { "en": "gap, interval, difference", "hi": "अन्तर, अन्तराल, भेद" } }
+  ],
+  "meaning": {
+    "en": "Without gap or division, unbroken everywhere",
+    "hi": "बिना अन्तराल या भेद के, सर्वत्र अखण्ड"
+  },
+  "explanation": {
+    "en": "Antara means a gap, an interval, a difference between things. In her there is no gap anywhere: she is continuous, unbroken, the same throughout.",
+    "hi": "‘अन्तर’ का अर्थ है अन्तराल, बीच की दूरी, दो वस्तुओं का भेद। उनमें कहीं कोई अन्तराल नहीं: वे निरन्तर, अखण्ड, सर्वत्र एक-सी हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives the senses of antara from the Amarakośa, space, limit, difference and hole, and says she is free of them all. He quotes the Upaniṣad: whoever makes even the smallest gap in this, for him there is fear. With this he rejects the view that Brahman has the three kinds of difference: from others of its kind, from things unlike it, and within itself.",
+    "hi": "भास्करराय अमरकोश से ‘अन्तर’ के अर्थ देते हैं: अवकाश, अवधि, भेद और छिद्र; और कहते हैं कि वे इन सबसे रहित हैं। वे उपनिषद् का वचन देते हैं: जो इसमें थोड़ा-सा भी अन्तर करता है, उसे भय होता है। इससे वे उस मत का खण्डन करते हैं जो ब्रह्म में तीन प्रकार के भेद मानता है: सजातीय, विजातीय और स्वगत।"
+  },
+  "story": {
+    "en": "In everyday Sanskrit and Hindi nirantara simply means ‘constantly, without a break’. The name holds both senses: she is undivided in space and unceasing in time.",
+    "hi": "रोज़मर्रा की संस्कृत और हिन्दी में ‘निरन्तर’ का अर्थ है ‘लगातार, बिना रुके’। यह नाम दोनों भाव रखता है: वे स्थान में अविभक्त हैं और काल में अविराम।"
+  },
+  "commentary": {
+    "sanskrit": "अवकाशावधिभेदच्छिद्राण्यन्तरपदार्थाः तैर्विरहिता निरन्तरा ।",
+    "translation": {
+      "en": "Space, limit, difference and hole are the meanings of the word antara; free of these, she is Nirantarā.",
+      "hi": "अवकाश, अवधि, भेद और छिद्र, ये ‘अन्तर’ शब्द के अर्थ हैं; इनसे रहित होने के कारण वे निरन्तरा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 151 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The second sentence of the story layer is a reflection." }
+}

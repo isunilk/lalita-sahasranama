@@ -1,0 +1,43 @@
+{
+  "number": 387,
+  "verse": 84,
+  "slug": "shadgunya-paripurita",
+  "devanagari": "षाड्गुण्यपरिपूरिता",
+  "iastSplit": "Ṣāḍguṇya-paripūritā",
+  "archana": "ॐ षाड्गुण्यपरिपूरितायै नमः",
+  "syllables": ["ṣāḍ", "guṇ", "ya", "pa", "ri", "pū", "ri", "tā"],
+  "words": [
+    { "sa": "षाड्गुण्य", "meaning": { "en": "the group of six qualities", "hi": "छह गुणों का समूह" } },
+    { "sa": "परिपूरिता", "meaning": { "en": "filled on every side", "hi": "सब ओर से भरी हुई" } }
+  ],
+  "meaning": {
+    "en": "Filled on every side with the six excellences",
+    "hi": "छह गुणों से सब ओर से परिपूर्ण"
+  },
+  "explanation": {
+    "en": "Ṣāḍguṇya means the group of six qualities, and she is filled with them on every side. Bhāskararāya names two sets of six: the six excellences known from the Purāṇas, sovereignty, dharma, fame, prosperity, knowledge and dispassion, and the six measures of statecraft taught by Kāmandaka.",
+    "hi": "‘षाड्गुण्य’ का अर्थ है छह गुणों का समूह, और वे सब ओर से इनसे परिपूर्ण हैं। भास्करराय छह-छह के दो समूह बताते हैं: पुराणों में प्रसिद्ध छह गुण, ऐश्वर्य, धर्म, यश, श्री, ज्ञान और वैराग्य; और कामन्दक द्वारा बताए राजनीति के छह उपाय।"
+  },
+  "inner": {
+    "en": "The Purāṇic six are the fullness that makes one Bhagavān or Bhagavatī, and she lacks none of them. The six measures of statecraft, peace, war, marching, halting, double policy and seeking shelter, show her as the queen who rules the worlds with perfect judgment. Bhāskararāya himself gives no hidden meaning beyond the two lists.",
+    "hi": "पुराणों के ये छह गुण वह पूर्णता हैं जो किसी को भगवान या भगवती बनाती है, और उनमें इनमें से कुछ भी कम नहीं। राजनीति के छह उपाय, सन्धि, विग्रह, यान, आसन, द्वैधीभाव और समाश्रय, उन्हें उस महारानी के रूप में दिखाते हैं जो पूर्ण विवेक से लोकों पर शासन करती हैं। भास्करराय स्वयं इन दो सूचियों से आगे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "In the Lalitopākhyāna she is a queen at war with Bhaṇḍāsura, so the royal six of statecraft suit her as well as the divine six.",
+    "hi": "ललितोपाख्यान में वे भण्डासुर से युद्ध करने वाली महारानी हैं, इसलिए राजनीति के छह गुण भी उन पर उतने ही सटीक बैठते हैं जितने दिव्य छह गुण।"
+  },
+  "commentary": {
+    "sanskrit": "सन्धिविग्रहयानासनद्वैधीभावसमाश्रयाणां कामन्दकोक्तानामैश्वर्यधर्मयशः श्रीज्ञानवैराग्याणां पुराणप्रसिद्धानां वा षण्णां गुणानां समूहः षाड्गुण्यं तेन परितः पूरिता ।",
+    "translation": {
+      "en": "The six qualities, either those stated by Kāmandaka, peace, war, marching, halting, double policy and seeking shelter, or those well known from the Purāṇas, sovereignty, dharma, fame, prosperity, knowledge and dispassion: their group is ṣāḍguṇya, and she is filled with it on every side.",
+      "hi": "कामन्दक द्वारा कहे गए सन्धि, विग्रह, यान, आसन, द्वैधीभाव और समाश्रय, अथवा पुराणों में प्रसिद्ध ऐश्वर्य, धर्म, यश, श्री, ज्ञान और वैराग्य, इन छह गुणों का समूह षाड्गुण्य है; उससे वे सब ओर से पूरित हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 387 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition’s half-verse heading prints षाङ्गुण्यपरिपूरिता, but its comment reads षाड्गुण्यं, agreeing with the master text. The remark that the Purāṇic six make one Bhagavān (the definition of bhaga) and the reading of the statecraft six are added context and reflection, not Bhāskararāya’s words." }
+}

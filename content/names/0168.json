@@ -1,0 +1,43 @@
+{
+  "number": 168,
+  "verse": 48,
+  "slug": "nish-krodha",
+  "devanagari": "निष्क्रोधा",
+  "iastSplit": "Niṣ-krodhā",
+  "archana": "ॐ निष्क्रोधायै नमः",
+  "syllables": ["niṣ", "kro", "dhā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free from", "hi": "रहित, बिना" } },
+    { "sa": "क्रोध", "meaning": { "en": "anger", "hi": "क्रोध, गुस्सा" } }
+  ],
+  "meaning": {
+    "en": "Free from anger",
+    "hi": "क्रोध से रहित"
+  },
+  "explanation": {
+    "en": "Krodha is anger. She has none, for anger needs someone to be against, and she holds no one as an enemy.",
+    "hi": "‘क्रोध’ का अर्थ है गुस्सा। उनमें क्रोध नहीं, क्योंकि क्रोध को किसी विरोधी की आवश्यकता होती है, और वे किसी को शत्रु नहीं मानतीं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says she is without anger because no one at all is hateful to her, and quotes the Lord’s words in the Gītā: “none is hateful to me, none dear.” Anger is cut here at its root, which is hatred.",
+    "hi": "भास्करराय कहते हैं कि वे क्रोध से रहित हैं क्योंकि उनके लिए कोई भी द्वेष का पात्र नहीं, और गीता में भगवान का वचन देते हैं: ‘न मेरा कोई द्वेष का पात्र है, न कोई प्रिय।’ यहाँ क्रोध अपनी जड़ से, अर्थात् द्वेष से ही, कटा हुआ है।"
+  },
+  "story": {
+    "en": "The Gītā calls desire, anger and greed the threefold gate to ruin. The hymn has already named her free of desire (names 142 and 156); verse 48 now takes up anger and greed.",
+    "hi": "गीता काम, क्रोध और लोभ को विनाश का त्रिविध द्वार कहती है। स्तोत्र पहले ही उन्हें कामना से रहित कह चुका है (नाम 142 और 156); श्लोक 48 अब क्रोध और लोभ को लेता है।"
+  },
+  "commentary": {
+    "sanskrit": "द्वेष्यस्यैवाभावान्निष्क्रोधा ।",
+    "translation": {
+      "en": "Because there is no one at all hateful to her, she is Niṣkrodhā.",
+      "hi": "उनके लिए कोई द्वेष का पात्र ही नहीं, इसलिए वे निष्क्रोधा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 168 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Gītā passages (9.29, quoted by Bhāskararāya; 16.21, in the story layer as context) are identified by the drafter." }
+}

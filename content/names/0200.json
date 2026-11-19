@@ -1,0 +1,43 @@
+{
+  "number": 200,
+  "verse": 52,
+  "slug": "sarva-mangala",
+  "devanagari": "सर्वमङ्गला",
+  "iastSplit": "Sarva-maṅgalā",
+  "archana": "ॐ सर्वमङ्गलायै नमः",
+  "syllables": ["sar", "va", "maṅ", "ga", "lā"],
+  "words": [
+    { "sa": "सर्व", "meaning": { "en": "all", "hi": "सब, सम्पूर्ण" } },
+    { "sa": "मङ्गला", "meaning": { "en": "auspicious; she to whom blessings belong", "hi": "मंगलमयी, जिनके सब मंगल हैं" } }
+  ],
+  "meaning": {
+    "en": "She who is all auspiciousness and grants every blessing",
+    "hi": "जो सम्पूर्ण मंगल हैं और हर मंगल देती हैं"
+  },
+  "explanation": {
+    "en": "All that is auspicious belongs to her. She is the source of every blessing, and she gives good fortune to those who turn to her.",
+    "hi": "जो कुछ मंगलमय है, वह सब उन्हीं का है। वे हर कल्याण का स्रोत हैं, और अपनी शरण में आए लोगों को सौभाग्य देती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya reads the name as ‘she to whom all auspicious things belong’. He quotes the Devī Purāṇa twice: she is Sarvamaṅgalā because she grants all the good and auspicious things that people hold dear in their hearts, and because she gives what is lovely and best and takes away the distress of her devotees.",
+    "hi": "भास्करराय इस नाम का अर्थ करते हैं: ‘जिनके सभी मंगल हैं’। वे देवी पुराण के दो वचन उद्धृत करते हैं: वे सर्वमंगला हैं, क्योंकि हृदय में संजोई हुई सभी शुभ और मंगल कामनाएँ वे पूरी करती हैं; और क्योंकि वे सुन्दर और श्रेष्ठ वस्तुएँ देती हैं तथा भक्तों का दुःख हरती हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya divides his commentary into twelve parts he calls kalās; this name ends the third, named Dhūmrikā, which covers the second hundred names. The name also echoes the Devī Māhātmya’s well-known prayer sarva-maṅgala-māṅgalye, ‘auspiciousness of all that is auspicious’.",
+    "hi": "भास्करराय अपनी टीका को बारह भागों में बाँटते हैं जिन्हें वे ‘कला’ कहते हैं; यह नाम तीसरी कला ‘धूम्रिका’ को पूरा करता है, जिसमें दूसरे सौ नाम आते हैं। यह नाम देवी माहात्म्य की प्रसिद्ध स्तुति ‘सर्वमङ्गलमाङ्गल्ये’ की भी याद दिलाता है।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वाणि मङ्गलानि यस्याः ।",
+    "translation": {
+      "en": "She to whom all auspicious things belong.",
+      "hi": "जिनके सभी मंगल हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 200 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. In the first Devī Purāṇa verse the edition prints इप्सितानि for ईप्सितानि; it is paraphrased, not quoted. The Devī Māhātmya reference in the story layer is context, not from the commentary." }
+}

@@ -1,0 +1,44 @@
+{
+  "number": 577,
+  "verse": 116,
+  "slug": "matrika-varna-rupini",
+  "devanagari": "मातृकावर्णरूपिणी",
+  "iastSplit": "Mātṛkā-varṇa-rūpiṇī",
+  "archana": "ॐ मातृकावर्णरूपिण्यै नमः",
+  "syllables": ["mā", "tṛ", "kā", "var", "ṇa", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "मातृका", "meaning": { "en": "the letters of the alphabet, from a to kṣa", "hi": "मातृका, ‘अ’ से ‘क्ष’ तक के अक्षर" } },
+    { "sa": "वर्ण", "meaning": { "en": "colour; letter", "hi": "वर्ण: रंग; अक्षर" } },
+    { "sa": "रूपिणी", "meaning": { "en": "whose form is", "hi": "रूप वाली, स्वरूपा" } }
+  ],
+  "meaning": {
+    "en": "Whose form is the letters of the alphabet and their colours",
+    "hi": "मातृका-वर्णों और उनके रंगों के रूप वाली"
+  },
+  "explanation": {
+    "en": "Mātṛkā is the alphabet, the letters from a to kṣa. Bhāskararāya first takes varṇa as colour: each letter has its own colour, white and the rest, and these colours are her form. He also reads it more simply: the fifty-one letters themselves are her form.",
+    "hi": "‘मातृका’ वर्णमाला है, ‘अ’ से ‘क्ष’ तक के अक्षर। भास्करराय पहले ‘वर्ण’ का अर्थ रंग लेते हैं: हर अक्षर का अपना रंग है, श्वेत आदि, और वही रंग उनका रूप हैं। वे इसे सरल रूप में भी पढ़ते हैं: इक्यावन मातृका-वर्ण ही उनका स्वरूप हैं।"
+  },
+  "inner": {
+    "en": "The letters are the root of all speech, and so of every mantra and every name. He gives several readings: the letters are her body; or they are the words that express her; or, as the Jñānārṇava says, she is the akṣamālā, the garland of letters from a to kṣa, of the nature of Śabdabrahman; or she brings the letters into being. He adds that the mātṛkā letters are one with the Śrīcakra, and that the Sanandana Saṃhitā calls this oneness the Kailāsa prastāra, which leads into the next name.",
+    "hi": "अक्षर सारी वाणी के मूल हैं, और इसलिए हर मन्त्र और हर नाम के भी। भास्करराय कई अर्थ देते हैं: अक्षर उनका शरीर हैं; या वे उनके वाचक हैं; या, जैसा ज्ञानार्णव कहता है, वे ‘अ’ से ‘क्ष’ तक के अक्षरों की माला, शब्दब्रह्म-स्वरूपा अक्षमाला हैं; या वे ही इन अक्षरों को जन्म देती हैं। वे यह भी कहते हैं कि मातृका-वर्ण श्रीचक्र से अभिन्न हैं, और सनन्दन संहिता इस अभेद को ‘कैलास प्रस्तार’ कहती है, जो अगले नाम की ओर ले जाता है।"
+  },
+  "story": {
+    "en": "He records how texts colour the letters. In the Sanatkumāra Saṃhitā the vowels are smoke-coloured, the consonants vermilion, fair, red and golden by groups, and ha and kṣa like lightning; another tantra makes the vowels crystal-clear and the stops coral-red. Some say all the letters are white.",
+    "hi": "वे बताते हैं कि ग्रन्थ अक्षरों के क्या रंग बताते हैं। सनत्कुमार संहिता में स्वर धूम्र वर्ण के हैं, व्यंजन वर्गों के अनुसार सिन्दूरी, गौर, अरुण और स्वर्णिम हैं, और ‘ह’ तथा ‘क्ष’ बिजली जैसे; एक अन्य तन्त्र में स्वर स्फटिक जैसे और स्पर्श-वर्ण मूँगे जैसे लाल हैं। कुछ के अनुसार सभी अक्षर श्वेत हैं।"
+  },
+  "commentary": {
+    "sanskrit": "मातृका अकारादिक्षकारान्तास्तासां वर्णाः शुक्लादिरूपाणि तान्येव रूपं स्वरूपमस्याः ।",
+    "translation": {
+      "en": "The mātṛkās are the letters from a to kṣa; their varṇas are their colours, white and the rest; and those are her rūpa, her very form.",
+      "hi": "मातृकाएँ ‘अ’ से ‘क्ष’ तक के अक्षर हैं; उनके वर्ण, अर्थात् श्वेत आदि रंग, ही इनका रूप, इनका स्वरूप हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 577 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya also allows the compound to be divided into two names, मातृका and अवर्णरूपिणी (‘she who has no colour’), if two later names (प्रचण्डा, आज्ञा) are taken as one; this file follows the master text. The colour lists are summarised, not given in full." }
+}

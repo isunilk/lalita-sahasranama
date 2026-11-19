@@ -1,0 +1,44 @@
+{
+  "number": 505,
+  "verse": 104,
+  "slug": "chatur-vaktra-manohara",
+  "devanagari": "चतुर्वक्त्रमनोहरा",
+  "iastSplit": "Catur-vaktra-manoharā",
+  "archana": "ॐ चतुर्वक्त्रमनोहरायै नमः",
+  "syllables": ["ca", "tur", "vak", "tra", "ma", "no", "ha", "rā"],
+  "words": [
+    { "sa": "चतुर्", "meaning": { "en": "four", "hi": "चार" } },
+    { "sa": "वक्त्र", "meaning": { "en": "face", "hi": "मुख" } },
+    { "sa": "मनोहरा", "meaning": { "en": "captivating, lovely", "hi": "मनोहर, मन हरने वाली" } }
+  ],
+  "meaning": {
+    "en": "Lovely with her four faces",
+    "hi": "चार मुखों से मनोहर"
+  },
+  "explanation": {
+    "en": "Kākinī has four faces, and they make her beautiful. Bhāskararāya glosses manoharā as rucirā, lovely. The meditation verse he quotes calls her vedavaktrā, with as many faces as the Vedas, that is, four.",
+    "hi": "काकिनी के चार मुख हैं, और वे उन्हें मनोहर बनाते हैं। भास्करराय ‘मनोहरा’ का अर्थ ‘रुचिरा’, अर्थात् सुन्दर, बताते हैं। उनके उद्धृत ध्यान-श्लोक में उन्हें ‘वेदवक्त्रा’, अर्थात् वेदों जितने, यानी चार, मुखों वाली कहा गया है।"
+  },
+  "inner": {
+    "en": "He gives only the literal sense, with no hidden meaning. The earlier names on faces only count them; this one adds that they are lovely, manohara, literally ‘stealing the mind’.",
+    "hi": "वे केवल शाब्दिक अर्थ देते हैं, कोई गूढ़ अर्थ नहीं। मुखों के पहले के नाम केवल उन्हें गिनते हैं; यह नाम यह भी कहता है कि वे सुन्दर हैं: ‘मनोहर’, अर्थात् मन को हर लेने वाले।"
+  },
+  "story": {
+    "en": "The meditation verses Bhāskararāya quotes count with symbolic number words: veda for four faces, and for the petals nṛpa (kings) for sixteen, bhānu (suns) for twelve, dik (directions) for ten, rasa (tastes) for six and śruti for four.",
+    "hi": "भास्करराय के उद्धृत ध्यान-श्लोक प्रतीकात्मक संख्या-शब्दों से गिनती करते हैं: चार मुखों के लिए ‘वेद’; और दलों की गिनती में सोलह के लिए ‘नृप’ (राजा), बारह के लिए ‘भानु’ (सूर्य), दस के लिए ‘दिक्’ (दिशाएँ), छह के लिए ‘रस’ और चार के लिए ‘श्रुति’।"
+  },
+  "commentary": {
+    "sanskrit": "चतुर्भिर्वक्त्रैर्मनोहरा रुचिरा ।",
+    "translation": {
+      "en": "Manoharā, that is, rucirā, lovely, with four faces.",
+      "hi": "चार मुखों से मनोहरा, अर्थात् रुचिरा, सुन्दर।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 505 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the last sentence of the inner layer is a reflection. The number words in the story are read from the meditation verses as printed (नृपदल, भानुपत्र, दिक्पत्र, रसदल, श्रुतिदल, वेदवक्त्रा)." }
+}

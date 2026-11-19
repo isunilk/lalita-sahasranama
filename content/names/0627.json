@@ -1,0 +1,74 @@
+{
+  "number": 627,
+  "verse": 125,
+  "slug": "tri-jagad-vandya",
+  "devanagari": "त्रिजगद्वन्द्या",
+  "iastSplit": "Tri-jagad-vandyā",
+  "archana": "ॐ त्रिजगद्वन्द्यायै नमः",
+  "syllables": [
+    "tri",
+    "ja",
+    "gad",
+    "van",
+    "dyā"
+  ],
+  "words": [
+    {
+      "sa": "त्रि",
+      "meaning": {
+        "en": "three",
+        "hi": "तीन"
+      }
+    },
+    {
+      "sa": "जगत्",
+      "meaning": {
+        "en": "world",
+        "hi": "जगत्, लोक"
+      }
+    },
+    {
+      "sa": "वन्द्या",
+      "meaning": {
+        "en": "to be adored, worshipped",
+        "hi": "वन्दनीय"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Adored by the three worlds",
+    "hi": "तीनों लोकों द्वारा वन्दित"
+  },
+  "explanation": {
+    "en": "The three worlds are earth, the middle region and heaven. The beings of all three bow before her.",
+    "hi": "तीन लोक हैं: पृथ्वी, अन्तरिक्ष और स्वर्ग। तीनों लोकों के प्राणी उनके आगे सिर झुकाते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives the plain sense, worshipped by the three worlds, and a second way of reading the compound: she whose three are worshipped by the world. He does not say which three; the natural sense is the three gods named in his comment on the previous name. He gives no further hidden meaning.",
+    "hi": "भास्करराय सीधा अर्थ देते हैं, तीनों लोकों द्वारा वन्दनीय, और समास का एक दूसरा अर्थ भी: जिनके ‘तीन’ जगत् द्वारा वन्दित हैं। वे यह नहीं बताते कि कौन-से तीन; स्वाभाविक अर्थ वे तीन देवता हैं जिनका उल्लेख पिछले नाम की उनकी व्याख्या में हुआ। वे इससे आगे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "The three worlds, bhūḥ, bhuvaḥ and svaḥ, earth, sky and heaven, stand in Sanskrit for the whole of creation. The gods of heaven, the beings of the middle air and the people of earth all honour her.",
+    "hi": "तीन लोक, भूः, भुवः और स्वः, अर्थात् पृथ्वी, अन्तरिक्ष और स्वर्ग, संस्कृत में समस्त सृष्टि के सूचक हैं। स्वर्ग के देवता, अन्तरिक्ष के प्राणी और पृथ्वी के मनुष्य, सभी उनका सम्मान करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "त्रिभिर्जगद्भिर्वन्द्या त्रयो जगद्वन्द्या यस्या वा ।",
+    "translation": {
+      "en": "Worshipped by the three worlds. Or: she whose three are worshipped by the world.",
+      "hi": "तीनों जगतों द्वारा वन्दनीय। अथवा जिनके तीन जगत् द्वारा वन्दनीय हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 627 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. Bhāskararāya’s second analysis (त्रयो जगद्वन्द्या यस्याः) does not say which three are meant; taking them as the three gods is my inference. The edition prints the verse heading as त्रिजगद्वद्या, a misprint for त्रिजगद्वन्द्या."
+  }
+}

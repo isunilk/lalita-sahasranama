@@ -1,0 +1,42 @@
+{
+  "number": 576,
+  "verse": 116,
+  "slug": "matta",
+  "devanagari": "मत्ता",
+  "iastSplit": "Mattā",
+  "archana": "ॐ मत्तायै नमः",
+  "syllables": ["mat", "tā"],
+  "words": [
+    { "sa": "मत्ता", "meaning": { "en": "as if intoxicated; also ‘I-ness’, from mat, ‘I’", "hi": "मत्त, मानो मदमस्त; ‘मत्’ (मैं) से ‘अहं-भाव’ भी" } }
+  ],
+  "meaning": {
+    "en": "Exhilarated, as if intoxicated; the supreme ‘I’",
+    "hi": "मानो मदमस्त; परम ‘अहं’-स्वरूपा"
+  },
+  "explanation": {
+    "en": "Following on the previous name, she is mattā, as though intoxicated. Bhāskararāya says she is called so because of that same inner absorption: she is ‘like one intoxicated’, not literally so.",
+    "hi": "पिछले नाम के क्रम में वे ‘मत्ता’ हैं, मानो मदमस्त। भास्करराय कहते हैं कि यह उसी अन्तर्मुख एकाग्रता के कारण है: वे ‘मत्त के समान’ हैं, शब्दशः नहीं।"
+  },
+  "inner": {
+    "en": "His second reading turns on the word itself. Mat means ‘I’, and mattā is ‘I-ness’: she is parāhantā, the supreme I-consciousness, resting in Paraśiva. In this reading the name is not about intoxication at all but about the supreme ‘I’ that rests in Śiva.",
+    "hi": "उनका दूसरा अर्थ शब्द पर ही आधारित है। ‘मत्’ का अर्थ है ‘मैं’, और ‘मत्ता’ का अर्थ है ‘मैं-पन’: वे परशिव में स्थित परा अहन्ता, अर्थात् परम ‘अहं’-चेतना, हैं। इस अर्थ में यह नाम मद का नहीं, शिव में टिके परम ‘मैं’ का है।"
+  },
+  "story": {
+    "en": "The name stands between Mādhvīpānālasā and Mātṛkāvarṇarūpiṇī. Bhāskararāya reads it first with the previous name, as the outward sign of her inward absorption, and then by itself, as the supreme ‘I’.",
+    "hi": "यह नाम माध्वीपानालसा और मातृकावर्णरूपिणी के बीच है। भास्करराय इसे पहले पिछले नाम के साथ, उनकी भीतरी एकाग्रता के बाहरी चिह्न के रूप में, पढ़ते हैं, और फिर स्वतन्त्र रूप से, परम ‘अहं’ के रूप में।"
+  },
+  "commentary": {
+    "sanskrit": "यद्वा मच्छब्दोऽहमर्थकस्तस्य भावो मत्ता । परशिवनिष्ठपराहन्तारूपेत्यर्थः ।",
+    "translation": {
+      "en": "Or: the word mat means ‘I’, and its state is mattā; the meaning is that she is the supreme I-ness resting in Paraśiva.",
+      "hi": "अथवा ‘मत्’ शब्द का अर्थ ‘मैं’ है, और उसका भाव ‘मत्ता’ है; अर्थात् वे परशिव में स्थित परा अहन्ता-रूपा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 576 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude." }
+}

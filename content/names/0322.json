@@ -1,0 +1,44 @@
+{
+  "number": 322,
+  "verse": 73,
+  "slug": "kama-kala-rupa",
+  "devanagari": "कामकलारूपा",
+  "iastSplit": "Kāma-kalā-rūpā",
+  "archana": "ॐ कामकलारूपायै नमः",
+  "syllables": ["kā", "ma", "ka", "lā", "rū", "pā"],
+  "words": [
+    { "sa": "काम", "meaning": { "en": "kāma: desire, the lovely; here the first bindu", "hi": "काम: इच्छा, कमनीय; यहाँ प्रथम बिन्दु" } },
+    { "sa": "कला", "meaning": { "en": "kalā: digit, subtle part", "hi": "कला, सूक्ष्म अंश" } },
+    { "sa": "रूपा", "meaning": { "en": "having the form of", "hi": "स्वरूपा" } }
+  ],
+  "meaning": {
+    "en": "Whose form is kāmakalā, the sprout of Śiva and Śakti’s union",
+    "hi": "कामकला-स्वरूपा, शिव-शक्ति के मिलन का अंकुर"
+  },
+  "explanation": {
+    "en": "Kāmakalā is a central idea of Śrīvidyā. Bhāskararāya explains it as a group of three bindus (points) and a half-digit: the first bindu is called kāma and the last part kalā, and, naming the whole by its first and last, the group is called kāmakalā. She is that.",
+    "hi": "कामकला श्रीविद्या का एक केन्द्रीय तत्त्व है। भास्करराय बताते हैं कि यह तीन बिन्दुओं और एक अर्धकला का समूह है: पहला बिन्दु ‘काम’ कहलाता है और अन्तिम अंश ‘कला’; आदि और अन्त से पूरे समूह का नाम रखने की रीति से यह ‘कामकला’ कहलाता है। वे वही हैं।"
+  },
+  "inner": {
+    "en": "For its full nature he refers to the Kāmakalāvilāsa, which describes the supreme Śakti as the sprout from the seed of Śiva and Śakti’s manifest union, and names its parts: kāma, so called for its loveliness, kalā, and the two bindus that are fire and moon. The Tripurā Siddhānta, which he also quotes, calls kāmakalā the playful power of Kāmeśvara and Kāmeśvarī together. Or, he says, she is Kāmā and also of the form of kalā.",
+    "hi": "इसके पूर्ण स्वरूप के लिए वे कामकलाविलास का प्रमाण देते हैं, जो पराशक्ति को शिव और शक्ति के स्पष्ट समागम रूपी बीज का अंकुर बताता है, और उसके अंगों के नाम देता है: कमनीय होने से ‘काम’, ‘कला’, और अग्नि तथा चन्द्र रूपी दो बिन्दु। त्रिपुरासिद्धान्त, जिसे वे उद्धृत करते हैं, कामेश्वर और कामेश्वरी की विलासमयी कला को ही कामकला कहता है। अथवा, वे कहते हैं, वे ‘कामा’ हैं और कला-रूपा भी।"
+  },
+  "story": {
+    "en": "For the name Kāmā he quotes the Kālikā Purāṇa, which tells how the Goddess came to the great mountain for love and, dwelling hidden on its Nīlakūṭa peak, is called Kāmākhyā; among her names in that passage is Kāmyā, the previous name.",
+    "hi": "‘कामा’ नाम के लिए वे कालिका पुराण का वचन देते हैं, जो बताता है कि देवी प्रेम के लिए महागिरि पर आईं और उसके नीलकूट शिखर पर गुप्त रूप से स्थित होकर कामाख्या कहलाईं; उसी वचन में उनके नामों में ‘काम्या’ भी है, जो पिछला नाम है।"
+  },
+  "commentary": {
+    "sanskrit": "बिन्दुत्रयं हार्धकला चेत्यत्र प्रथमो बिन्दुः कामाख्यश्चरमा कला चेति प्रत्याहारन्यायेन कामकलेत्युच्यते ।",
+    "translation": {
+      "en": "In the group “three bindus and the half-digit of ha”, the first bindu is named kāma and the last is kalā; so, by the rule of naming a group by its first and last members, the whole is called kāmakalā.",
+      "hi": "‘तीन बिन्दु और हार्धकला’ इस समूह में पहला बिन्दु ‘काम’ नाम का है और अन्तिम ‘कला’; इस प्रकार आदि और अन्त से समूह का नाम रखने की प्रत्याहार-रीति से यह ‘कामकला’ कहलाता है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 322 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Meaning only, no practice. Bhāskararāya’s further alternative कामो योनिः कमलेति वा alludes to a coded mantra verse and is deliberately not explained. The meaning line’s “sprout of Śiva and Śakti’s union” follows the Kāmakalāvilāsa phrase he quotes (स्फुटशिवशक्तिसमागमबीजाङ्कुररूपिणी)." }
+}

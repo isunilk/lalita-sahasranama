@@ -1,0 +1,58 @@
+{
+  "number": 623,
+  "verse": 125,
+  "slug": "kevala",
+  "devanagari": "केवला",
+  "iastSplit": "Kevalā",
+  "archana": "ॐ केवलायै नमः",
+  "syllables": [
+    "ke",
+    "va",
+    "lā"
+  ],
+  "words": [
+    {
+      "sa": "केवला",
+      "meaning": {
+        "en": "alone, sole, entire",
+        "hi": "केवल, एकमात्र, सम्पूर्ण"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "The Alone, free of every attribute",
+    "hi": "केवला, सब धर्मों से रहित अद्वितीय सत्ता"
+  },
+  "explanation": {
+    "en": "Kevala means alone, sole, unmixed and entire. She is the one reality, with nothing beside her and nothing added to her.",
+    "hi": "‘केवल’ का अर्थ है अकेला, एकमात्र, शुद्ध और सम्पूर्ण। वे एकमात्र सत्य हैं; न उनके साथ कुछ दूसरा है, न उनमें कुछ जोड़ा गया है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says she is alone because she is free of every attribute. Kevala also means the whole, and the knowledge of the liberated that the Śiva-sūtras call kevalī. Reading the name with the one before, he says the kāma-bīja, stripped of its outer letters, stands for kāma-kalā, the pure fourth state: the full seed grants the three aims of life, but this pure kalā grants liberation.",
+    "hi": "भास्करराय कहते हैं कि सब धर्मों से रहित होने के कारण वे एकाकी, अर्थात् केवला, हैं। ‘केवल’ का अर्थ सम्पूर्ण भी है, और वह मुक्त ज्ञान भी जिसे शिवसूत्र ‘केवली’ कहते हैं। इस नाम को पिछले नाम के साथ पढ़ते हुए वे कहते हैं कि बाहरी वर्णों से रहित कामबीज कामकला का, अर्थात् शुद्ध तुरीय अवस्था का, सूचक है: पूरा बीज तीन पुरुषार्थ देता है, पर यह शुद्ध कला मोक्ष देती है।"
+  },
+  "story": {
+    "en": "Kevala is the root of kaivalya, “aloneness”, the word the Yoga-sūtras use for final liberation, which appears two names later.",
+    "hi": "‘केवल’ से ही ‘कैवल्य’ शब्द बनता है, अर्थात् केवलता, जिसे योगसूत्र अन्तिम मुक्ति के लिए प्रयोग करते हैं; यह शब्द दो नाम बाद आता है।"
+  },
+  "commentary": {
+    "sanskrit": "निखिलधर्मराहित्येनैकाकित्वात्केवला ।",
+    "translation": {
+      "en": "Kevalā: because she is alone, being free of every attribute.",
+      "hi": "केवला: क्योंकि सब धर्मों से रहित होने के कारण वे एकाकी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 623 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. Bhāskararāya’s analysis of the kāma-bīja is summarised without naming its letters, in keeping with the rule on mantra names; ‘stripped of its outer letters’ renders his phrase about the bīja without its consonants."
+  }
+}

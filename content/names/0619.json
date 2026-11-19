@@ -1,0 +1,67 @@
+{
+  "number": 619,
+  "verse": 124,
+  "slug": "pavanakriti",
+  "devanagari": "पावनाकृतिः",
+  "iastSplit": "Pāvanākṛtiḥ",
+  "archana": "ॐ पावनाकृतये नमः",
+  "syllables": [
+    "pā",
+    "va",
+    "nā",
+    "kṛ",
+    "tiḥ"
+  ],
+  "words": [
+    {
+      "sa": "पावन",
+      "meaning": {
+        "en": "purifying",
+        "hi": "पवित्र करने वाला"
+      }
+    },
+    {
+      "sa": "आकृति",
+      "meaning": {
+        "en": "form, figure",
+        "hi": "आकृति, रूप"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Whose form is purifying",
+    "hi": "जिनका रूप पावन करने वाला है"
+  },
+  "explanation": {
+    "en": "Pāvana means purifying, and ākṛti is form. Her form makes pure whoever sees it, meditates on it or remembers it.",
+    "hi": "‘पावन’ का अर्थ है पवित्र करने वाला, और ‘आकृति’ है रूप। उनका रूप उसे पवित्र कर देता है जो उसे देखता है, उसका ध्यान करता है या उसका स्मरण करता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya widens the word ākṛti: it may mean her body, her conduct or her knowledge, and each of them purifies. He cites the Yājñavalkya Smṛti: austerity and learning purify the embodied self and knowledge purifies the intellect, but the knower is made wholly pure by knowledge of the Lord. To know her is that highest purification.",
+    "hi": "भास्करराय ‘आकृति’ शब्द का अर्थ विस्तृत करते हैं: इसका अर्थ उनकी देह, उनका चरित्र या उनका ज्ञान हो सकता है, और इनमें से प्रत्येक पवित्र करता है। वे याज्ञवल्क्य स्मृति का वचन देते हैं: तप और विद्या भूतात्मा को शुद्ध करते हैं, ज्ञान बुद्धि को, पर क्षेत्रज्ञ की परम शुद्धि ईश्वर के ज्ञान से होती है। उन्हें जानना ही वह परम शुद्धि है।"
+  },
+  "story": {
+    "en": "The Smṛti verse he cites ends with the word paramā, “highest”, the very word of the previous name. So the first half of the verse closes by calling her both supreme and purifying in form.",
+    "hi": "जिस स्मृति-वचन को वे उद्धृत करते हैं, वह ‘परमा’ शब्द पर समाप्त होता है, जो ठीक पिछले नाम का शब्द है। इस प्रकार श्लोक का पूर्वार्ध उन्हें परमा और पावन-रूपा, दोनों कहकर पूरा होता है।"
+  },
+  "commentary": {
+    "sanskrit": "पावनी पावयित्री आकृतिः शरीरं चरित्रं वा ज्ञानं वा यस्याः ।",
+    "translation": {
+      "en": "She whose ākṛti, whether her body, her conduct or her knowledge, is pāvanī, purifying.",
+      "hi": "जिनकी आकृति, चाहे उनकी देह हो, उनका चरित्र हो या उनका ज्ञान, पावनी अर्थात् पवित्र करने वाली है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 619 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. Archana kept as in the web list (पावनाकृतये); as a feminine i-stem, पावनाकृत्यै is also grammatically possible, and the same list uses -त्यै for मूर्ति and शक्ति (603, 615, 628). Check which form the tradition uses. The last sentence of the inner layer is a reflection."
+  }
+}

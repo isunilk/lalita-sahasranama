@@ -1,0 +1,44 @@
+{
+  "number": 435,
+  "verse": 92,
+  "slug": "champeya-kusuma-priya",
+  "devanagari": "चाम्पेयकुसुमप्रिया",
+  "iastSplit": "Cāmpeya-kusuma-priyā",
+  "archana": "ॐ चाम्पेयकुसुमप्रियायै नमः",
+  "syllables": ["cām", "pe", "ya", "ku", "su", "map", "ri", "yā"],
+  "words": [
+    { "sa": "चाम्पेय", "meaning": { "en": "the cāmpeya flower: nāgakesara, or a flower of the campaka", "hi": "चाम्पेय: नागकेसर, या चम्पा का पुष्प" } },
+    { "sa": "कुसुम", "meaning": { "en": "flower", "hi": "पुष्प" } },
+    { "sa": "प्रिय", "meaning": { "en": "dear, fond of", "hi": "प्रिय" } }
+  ],
+  "meaning": {
+    "en": "Fond of the cāmpeya flower",
+    "hi": "जिन्हें चाम्पेय पुष्प प्रिय है"
+  },
+  "explanation": {
+    "en": "Cāmpeya is a fragrant flower. Bhāskararāya identifies it as the nāgakesara blossom, or else as a flower of the campaka. She delights in it.",
+    "hi": "चाम्पेय एक सुगन्धित पुष्प है। भास्करराय इसे नागकेसर का पुष्प बताते हैं, अथवा चम्पा का पुष्प। वह उन्हें प्रिय है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the literal sense. Fragrant flowers are among the simplest offerings, and a name like this tells devotees what pleases her: no costly gift, only a flower she loves.",
+    "hi": "भास्करराय केवल शाब्दिक अर्थ देते हैं। सुगन्धित पुष्प सबसे सरल अर्पणों में हैं, और ऐसा नाम भक्तों को बताता है कि उन्हें क्या प्रिय है: कोई बहुमूल्य भेंट नहीं, बस एक प्रिय पुष्प।"
+  },
+  "story": {
+    "en": "Earlier in the hymn the campaka is among the flowers in her hair (name 13). This name closes verse 92.",
+    "hi": "स्तोत्र में पहले भी उनके केशों में सजे पुष्पों में चम्पक का उल्लेख है (नाम 13)। यह नाम श्लोक 92 को पूरा करता है।"
+  },
+  "commentary": {
+    "sanskrit": "चाम्पेयकुसुमं नागकेसरपुष्पं चम्पासम्बन्धिपुष्पं वा प्रियं यस्याः ।",
+    "translation": {
+      "en": "She to whom the cāmpeya flower, the nāgakesara blossom or a flower of the campā, is dear.",
+      "hi": "जिन्हें चाम्पेय पुष्प, अर्थात् नागकेसर का फूल या चम्पा से सम्बन्धित फूल, प्रिय है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 435 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the second sentence of the inner layer is a reflection. चम्पासम्बन्धि is taken as ‘of the campaka tree’; it could also mean ‘from Campā’, the city." }
+}

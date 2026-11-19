@@ -1,0 +1,43 @@
+{
+  "number": 371,
+  "verse": 81,
+  "slug": "vaikhari-rupa",
+  "devanagari": "वैखरीरूपा",
+  "iastSplit": "Vaikharī-rūpā",
+  "archana": "ॐ वैखरीरूपायै नमः",
+  "syllables": ["vai", "kha", "rī", "rū", "pā"],
+  "words": [
+    { "sa": "वैखरी", "meaning": { "en": "spoken, audible speech; the fourth level", "hi": "उच्चरित, सुनाई देने वाली वाणी; चौथा स्तर" } },
+    { "sa": "रूप", "meaning": { "en": "form", "hi": "रूप" } }
+  ],
+  "meaning": {
+    "en": "Whose form is vaikharī, audible spoken speech",
+    "hi": "जिनका रूप वैखरी, अर्थात् सुनाई देने वाली वाणी, है"
+  },
+  "explanation": {
+    "en": "Vaikharī is speech in its outermost form: the letters and words that leave the mouth and reach the ear. Even this, the speech of everyday life, is her form.",
+    "hi": "वैखरी वाणी का सबसे बाहरी रूप है: वे वर्ण और शब्द जो मुख से निकलकर कान तक पहुँचते हैं। रोज़मर्रा की यह वाणी भी उन्हीं का रूप है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives three derivations. Vikhara means especially hard or coarse, so vaikharī is speech grown dense; the Saubhāgyasudhodaya reads it as what surely (vai) goes to the hollow of the ear (kha); and a yoga text says it is driven by the breath called vikhara. In his account of the four levels, this is the same sound-Brahman reaching the mouth, shaped at the throat and the other places of utterance into the letters from a onward.",
+    "hi": "भास्करराय तीन व्युत्पत्तियाँ देते हैं। ‘विखर’ का अर्थ है विशेष रूप से कठोर या स्थूल, अतः वैखरी घनी हो चुकी वाणी है; सौभाग्यसुधोदय के अनुसार यह वह है जो निश्चय ही (वै) कान के छिद्र (ख) तक जाती है; और एक योगशास्त्र-वचन के अनुसार यह ‘विखर’ नामक प्राणवायु से प्रेरित होती है। चार स्तरों के उनके वर्णन में यही शब्दब्रह्म मुख तक पहुँचकर कण्ठ आदि स्थानों में ‘अ’ आदि वर्णों का रूप लेता है।"
+  },
+  "story": {
+    "en": "This completes the four levels of speech. Bhāskararāya observes that most people know only this outer level and miss the three within; the Nityā Tantra he quotes places it at the viśuddhi, the throat.",
+    "hi": "इससे वाणी के चार स्तर पूरे होते हैं। भास्करराय कहते हैं कि अधिकतर लोग केवल इसी बाहरी स्तर को जानते हैं और भीतर के तीन स्तरों को नहीं पहचानते; उनके द्वारा उद्धृत नित्यातन्त्र इसे विशुद्धि, अर्थात् कण्ठ, में रखता है।"
+  },
+  "commentary": {
+    "sanskrit": "विशेषेण खरः कठिनस्तस्येयं वैखरी सैव रूपं यस्याः । घनभावमापन्नेति यावत् ।",
+    "translation": {
+      "en": "Vikhara is what is especially hard, coarse; what belongs to it is vaikharī, and that is her form. That is, she who has taken on a dense state.",
+      "hi": "जो विशेष रूप से खर, अर्थात् कठोर, है, उससे सम्बन्धित वाणी वैखरी है; वही जिनका रूप है। अर्थात् जो घनभाव को प्राप्त हुई हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 371 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. All three derivations in the inner layer are Bhāskararāya’s." }
+}

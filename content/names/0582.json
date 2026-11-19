@@ -1,0 +1,44 @@
+{
+  "number": 582,
+  "verse": 117,
+  "slug": "maha-samrajya-shalini",
+  "devanagari": "महासाम्राज्यशालिनी",
+  "iastSplit": "Mahā-sāmrājya-śālinī",
+  "archana": "ॐ महासाम्राज्यशालिन्यै नमः",
+  "syllables": ["ma", "hā", "sām", "rāj", "ya", "śā", "li", "nī"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महा, महान" } },
+    { "sa": "साम्राज्य", "meaning": { "en": "empire, sovereignty", "hi": "साम्राज्य" } },
+    { "sa": "शालिनी", "meaning": { "en": "possessing, graced with", "hi": "से सम्पन्न, शोभित" } }
+  ],
+  "meaning": {
+    "en": "Who holds the great empire",
+    "hi": "महान साम्राज्य से सम्पन्न"
+  },
+  "explanation": {
+    "en": "She possesses the great empire. Bhāskararāya says this great sovereignty is her lordship over Mahākailāsa, the abode named in name 578.",
+    "hi": "वे महासाम्राज्य की स्वामिनी हैं। भास्करराय कहते हैं कि यह महासाम्राज्य महाकैलास का आधिपत्य है, जिस धाम का नाम नाम 578 में आया था।"
+  },
+  "inner": {
+    "en": "He gives no hidden meaning beyond this link. An empire, sāmrājya, is a realm over many kingdoms; hers takes in every world, and Mahākailāsa, the highest, is its seat.",
+    "hi": "इस सम्बन्ध के अतिरिक्त वे कोई गूढ़ अर्थ नहीं देते। साम्राज्य अनेक राज्यों पर फैला शासन है; उनका साम्राज्य सभी लोकों तक फैला है, और सबसे ऊँचा लोक महाकैलास उसकी राजधानी है।"
+  },
+  "story": {
+    "en": "The hymn opened by calling her Śrīmahārājñī, the great queen (name 2). Here, with Mahākailāsa as her seat, that royalty is given its widest measure.",
+    "hi": "स्तोत्र ने आरम्भ में उन्हें ‘श्रीमहाराज्ञी’ (नाम 2) कहा था। यहाँ, महाकैलास को उनका आसन बताकर, उस राजत्व को उसका पूर्ण विस्तार दिया गया है।"
+  },
+  "commentary": {
+    "sanskrit": "महाकैलासाधिपत्यं महासाम्राज्यं तच्छालिनी ।",
+    "translation": {
+      "en": "Lordship over Mahākailāsa is the great empire; she possesses it.",
+      "hi": "महाकैलास का आधिपत्य ही महासाम्राज्य है; वे उससे सम्पन्न हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 582 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the second sentence of the inner layer is a reflection." }
+}

@@ -1,0 +1,44 @@
+{
+  "number": 206,
+  "verse": 53,
+  "slug": "sarva-tantra-rupa",
+  "devanagari": "सर्वतन्त्ररूपा",
+  "iastSplit": "Sarva-tantra-rūpā",
+  "archana": "ॐ सर्वतन्त्ररूपायै नमः",
+  "syllables": ["sar", "va", "tan", "tra", "rū", "pā"],
+  "words": [
+    { "sa": "सर्व", "meaning": { "en": "all", "hi": "सब, सम्पूर्ण" } },
+    { "sa": "तन्त्र", "meaning": { "en": "tantra, a scripture of worship", "hi": "तन्त्र, उपासना-शास्त्र" } },
+    { "sa": "रूपा", "meaning": { "en": "whose form is", "hi": "जिनका रूप है" } }
+  ],
+  "meaning": {
+    "en": "She whose form is all the tantras",
+    "hi": "सभी तन्त्र जिनका रूप हैं"
+  },
+  "explanation": {
+    "en": "The tantras are the scriptures that teach worship and inner discipline. All of them together are her form: each tantra describes some part of her.",
+    "hi": "तन्त्र वे शास्त्र हैं जो उपासना और आन्तरिक साधना की शिक्षा देते हैं। वे सब मिलकर उनका रूप हैं: हर तन्त्र उनके किसी अंग का वर्णन करता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says all the tantras, beginning with the Vāmakeśvara, are her form, her very body; or she is the one whom all tantras describe. He quotes a verse: the many paths taught by the different āgamas, all means to attainment, flow into her as rivers flow into the ocean.",
+    "hi": "भास्करराय कहते हैं कि वामकेश्वर आदि सभी तन्त्र उनका रूप, उनका शरीर ही हैं; अथवा वे वह हैं जिनका निरूपण सभी तन्त्र करते हैं। वे एक श्लोक उद्धृत करते हैं: भिन्न-भिन्न आगमों द्वारा बताए गए अनेक मार्ग, जो सिद्धि के साधन हैं, उन्हीं में वैसे ही आ मिलते हैं जैसे नदियाँ समुद्र में।"
+  },
+  "story": {
+    "en": "For the reading of the tantras as her body, he quotes the Kāmika Āgama, which pictures the Śaiva Āgamas as the limbs of the Lord: the Kāmika as his lotus feet, the Svāyambhuva as his breasts, the Anala as his three eyes, the Lalita as his cheeks, and all other tantras as his limbs and hair.",
+    "hi": "तन्त्रों को उनका शरीर मानने के अर्थ के लिए वे कामिक आगम उद्धृत करते हैं, जो शैव आगमों को प्रभु के अंगों के रूप में चित्रित करता है: कामिक उनके चरण-कमल, स्वायम्भुव उनके दोनों स्तन, अनल उनके तीन नेत्र, ललित उनके दोनों कपोल, और शेष सभी तन्त्र उनके अंग-उपांग और रोम हैं।"
+  },
+  "commentary": {
+    "sanskrit": "वामकेश्वरादिसर्वतन्त्राण्येव रूपं शरीरमस्याः । सर्वतन्त्रैर्निरूप्या वा ।",
+    "translation": {
+      "en": "All the tantras, beginning with the Vāmakeśvara, are her form, her body. Or: she is the one to be described by all the tantras.",
+      "hi": "वामकेश्वर आदि सभी तन्त्र ही इनका रूप, अर्थात् शरीर, हैं। अथवा, वे सभी तन्त्रों द्वारा निरूपित होने योग्य हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 206 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. In the rivers verse the edition prints त्वययेव, a misprint for त्वय्येव; it is paraphrased, not quoted. The Kāmika verses describe the body of Śiva, which Bhāskararāya applies to her." }
+}

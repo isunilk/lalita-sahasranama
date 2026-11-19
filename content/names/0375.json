@@ -1,0 +1,43 @@
+{
+  "number": 375,
+  "verse": 82,
+  "slug": "kama-pujita",
+  "devanagari": "कामपूजिता",
+  "iastSplit": "Kāma-pūjitā",
+  "archana": "ॐ कामपूजितायै नमः",
+  "syllables": ["kā", "ma", "pū", "ji", "tā"],
+  "words": [
+    { "sa": "काम", "meaning": { "en": "Kāma, the god of love", "hi": "कामदेव" } },
+    { "sa": "पूजिता", "meaning": { "en": "worshipped", "hi": "पूजित" } }
+  ],
+  "meaning": {
+    "en": "Worshipped by Kāma, the god of love",
+    "hi": "कामदेव द्वारा पूजित"
+  },
+  "explanation": {
+    "en": "Kāma, the god of love, also called Manmatha, worships her. The god who stirs desire in all beings himself bows to her.",
+    "hi": "प्रेम के देवता काम, जिन्हें मन्मथ भी कहते हैं, उनकी पूजा करते हैं। जो देव सब प्राणियों में कामना जगाते हैं, वे स्वयं उनके आगे झुकते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya cites an Upaniṣad passage which, as he reads it, says that Anaṅga, the bodiless son of Lakṣmī, obtained the jewel of vidyā, her sacred knowledge. He also offers a second reading: since the verse goes on to name the seats Jālandhara and Oḍyāṇa, kāma here may stand, as part of the name, for Kāmarūpa, so that she is the one worshipped at the Kāmarūpa seat.",
+    "hi": "भास्करराय एक उपनिषद्-वचन उद्धृत करते हैं, जिसका अर्थ वे यह बताते हैं कि लक्ष्मी के पुत्र अनंग, अर्थात् बिना शरीर वाले काम, ने विद्या रूपी रत्न, उनका पवित्र ज्ञान, प्राप्त किया। वे एक दूसरा अर्थ भी देते हैं: क्योंकि आगे श्लोक जालन्धर और ओड्याण पीठों का नाम लेता है, इसलिए यहाँ ‘काम’ नाम के एक अंश के रूप में कामरूप का सूचक हो सकता है, यानी वे कामरूप पीठ में पूजित हैं।"
+  },
+  "story": {
+    "en": "Kāma was burnt by the fire of Śiva’s eye and revived by her, as name 84 recalls; since then he is Anaṅga, the bodiless. In Bhāskararāya’s second reading this name and name 376, with names 378 and 379, point to the four great seats of the goddess: Kāmarūpa, Pūrṇagiri, Jālandhara and Oḍyāṇa.",
+    "hi": "शिव के नेत्र की अग्नि से भस्म हुए काम को देवी ने पुनर्जीवित किया, जैसा नाम 84 बताता है; तब से वे अनंग, अर्थात् बिना शरीर वाले, कहलाते हैं। भास्करराय के दूसरे अर्थ में यह नाम और नाम 376, नाम 378 और 379 के साथ मिलकर देवी के चार महापीठों, कामरूप, पूर्णगिरि, जालन्धर और ओड्याण, की ओर संकेत करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "कामेन मन्मथेन पूजितोपासिता ।",
+    "translation": {
+      "en": "Pūjitā, worshipped, adored, by Kāma, that is, Manmatha.",
+      "hi": "काम, अर्थात् मन्मथ, के द्वारा पूजित, उपासित।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 375 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s reading of the Upaniṣad passage (he calls it the वारुणोपनिषद्) is summarised, not quoted. His alternative reading (Kāmarūpa pīṭha, by नामैकदेशन्याय) is printed under name 376 and applies to names 375 and 376 together." }
+}

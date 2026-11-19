@@ -1,0 +1,42 @@
+{
+  "number": 136,
+  "verse": 44,
+  "slug": "nitya",
+  "devanagari": "नित्या",
+  "iastSplit": "Nityā",
+  "archana": "ॐ नित्यायै नमः",
+  "syllables": ["nit", "yā"],
+  "words": [
+    { "sa": "नित्य", "meaning": { "en": "eternal, everlasting", "hi": "नित्य, शाश्वत" } }
+  ],
+  "meaning": {
+    "en": "The Eternal One",
+    "hi": "नित्य, सदा रहने वाली"
+  },
+  "explanation": {
+    "en": "Nitya means eternal: she has no beginning and no end. Everything else comes and goes in time; she remains through all of it.",
+    "hi": "‘नित्य’ का अर्थ है शाश्वत: उनका न कोई आरम्भ है, न अन्त। बाकी सब कुछ समय में आता-जाता है; वे सबके बीच बनी रहती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya has just called impurity unreal; now he adds that its ground is not so. She is nityā, never set aside in past, present or future. He cites the Upaniṣad, “this Self is imperishable,” and says the name answers the outside school that takes the self to be only momentary awareness.",
+    "hi": "भास्करराय ने अभी मल को मिथ्या कहा; अब वे जोड़ते हैं कि उसका अधिष्ठान वैसा नहीं है। वे नित्या हैं, भूत, वर्तमान और भविष्य, तीनों कालों में अबाध्य। वे उपनिषद् का वचन ‘यह आत्मा अविनाशी है’ उद्धृत करते हैं और कहते हैं कि यह नाम उस बाह्य मत का उत्तर है जो आत्मा को केवल क्षणिक विज्ञान मानता है।"
+  },
+  "story": {
+    "en": "Bhāskararāya also reads Nityā as the Nityā goddesses of the lunar days and of time, whose form is mantra. In Śrīvidyā the Nityās are the goddesses of the fifteen lunar days, and name 391 calls her Nityāṣoḍaśikārūpā, she whose form is the sixteen Nityās.",
+    "hi": "भास्करराय ‘नित्या’ को तिथि-नित्या और काल-नित्या देवियों के रूप में भी पढ़ते हैं, जिनका स्वरूप मन्त्र है। श्रीविद्या में नित्याएँ पन्द्रह चान्द्र तिथियों की देवियाँ हैं, और नाम 391 उन्हें ‘नित्याषोडशिकारूपा’, अर्थात् सोलह नित्याओं के रूप वाली, कहता है।"
+  },
+  "commentary": {
+    "sanskrit": "नित्या कालत्रयेऽप्यबाध्या ।",
+    "translation": {
+      "en": "Nityā: never negated, in any of the three times.",
+      "hi": "नित्या, अर्थात् तीनों कालों में भी अबाध्य।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 136 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition prints तदधिष्थानं for तदधिष्ठानं, and the word naming the refuted school is garbled (…त्यौ (त्तानि)त्पातिकबाह्य…); the inner layer gives only the plain sense ‘an outside school’." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 156,
+  "verse": 46,
+  "slug": "ni-raga",
+  "devanagari": "नीरागा",
+  "iastSplit": "Nī-rāgā",
+  "archana": "ॐ नीरागायै नमः",
+  "syllables": ["nī", "rā", "gā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free from", "hi": "रहित, बिना" } },
+    { "sa": "राग", "meaning": { "en": "passion, attachment, desire", "hi": "राग, आसक्ति" } }
+  ],
+  "meaning": {
+    "en": "Free from all passion and attachment",
+    "hi": "राग और आसक्ति से रहित"
+  },
+  "explanation": {
+    "en": "Rāga is passion, the pull of attachment toward what one likes. She already has every fulfilment, so nothing pulls at her.",
+    "hi": "‘राग’ का अर्थ है आसक्ति, प्रिय वस्तु की ओर खिंचाव। उन्हें हर पूर्णता पहले से प्राप्त है, इसलिए कुछ भी उन्हें नहीं खींचता।"
+  },
+  "inner": {
+    "en": "Bhāskararāya opens a new stage here: the names that follow show that the movements of the inner mind are not the self, and that giving up the six inner enemies is the means of reaching her. Rāga is desire, and she is without it, having attained every desire. He adds that the Śāṇḍilya Sūtra calls devotion itself rāga, so she is beyond even that; and he gives a reading as nīra and aga, water and mountain, she whose form is both.",
+    "hi": "भास्करराय यहाँ एक नया चरण आरम्भ करते हैं: आगे के नाम बताते हैं कि अन्तःकरण की वृत्तियाँ आत्मा नहीं हैं, और यह कि छह आन्तरिक शत्रुओं का त्याग ही उन तक पहुँचने का साधन है। राग का अर्थ है इच्छा, और सब कामनाएँ प्राप्त होने से वे उससे रहित हैं। वे यह भी कहते हैं कि शाण्डिल्य सूत्र भक्ति को भी ‘राग’ कहता है, इसलिए वे उससे भी परे हैं; और एक अर्थ ‘नीर-अग’, अर्थात् जल और पर्वत, भी देते हैं: वे दोनों के रूप में हैं।"
+  },
+  "story": {
+    "en": "From here the hymn moves mostly in pairs: she is free of a fault, and she destroys it in her devotees. Nīrāgā and Rāgamathanī begin the series, which runs through pride, delusion, possessiveness, sin, anger, greed, doubt and worldly becoming to the end of verse 48.",
+    "hi": "यहाँ से स्तोत्र अधिकतर जोड़ों में चलता है: वे किसी दोष से रहित हैं, और भक्तों में उसी दोष का नाश करती हैं। नीरागा और रागमथनी इस क्रम को आरम्भ करते हैं, जो मद, मोह, ममता, पाप, क्रोध, लोभ, संशय और भव से होता हुआ श्लोक 48 के अन्त तक चलता है।"
+  },
+  "commentary": {
+    "sanskrit": "राग इच्छा तदभावादवाप्तसकलकामत्वान्नीरागा ।",
+    "translation": {
+      "en": "Rāga is desire; she is Nīrāgā, being without it, since she has attained all desires.",
+      "hi": "राग अर्थात् इच्छा; सब कामनाएँ प्राप्त होने के कारण उसका अभाव होने से वे नीरागा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 156 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Slug and split follow the surface form nī- (nis + rāga: the r is dropped and the vowel lengthened)." }
+}

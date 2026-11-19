@@ -1,0 +1,42 @@
+{
+  "number": 293,
+  "verse": 69,
+  "slug": "bhogini",
+  "devanagari": "भोगिनी",
+  "iastSplit": "Bhoginī",
+  "archana": "ॐ भोगिन्यै नमः",
+  "syllables": ["bho", "gi", "nī"],
+  "words": [
+    { "sa": "भोगिनी", "meaning": { "en": "she who enjoys; also a serpent maiden", "hi": "भोग करने वाली; नाग-कन्या भी" } }
+  ],
+  "meaning": {
+    "en": "She who enjoys, the experiencer of bliss",
+    "hi": "भोग करने वाली, आनन्द का अनुभव करने वाली"
+  },
+  "explanation": {
+    "en": "Bhoga means enjoyment, and Bhāskararāya defines it as the direct experience of happiness; she who has it is Bhoginī. He adds a second sense: bhogin also means a serpent, so she is also a nāga maiden.",
+    "hi": "‘भोग’ का अर्थ है उपभोग, और भास्करराय इसकी परिभाषा देते हैं: सुख का साक्षात् अनुभव। जिनमें यह है, वे भोगिनी हैं। वे एक दूसरा अर्थ भी बताते हैं: ‘भोगी’ सर्प को भी कहते हैं, इसलिए वे नाग-कन्या के रूप में भी हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya keeps to these two senses. Read beside the previous name, it says that her fullness is not cold or empty: she who lacks nothing also tastes joy directly. Enjoyment here is not grasping but the plain knowing of happiness.",
+    "hi": "भास्करराय इन्हीं दो अर्थों तक सीमित रहते हैं। पिछले नाम के साथ पढ़ें तो यह बताता है कि उनकी पूर्णता रूखी या शून्य नहीं है: जिन्हें किसी वस्तु का अभाव नहीं, वे आनन्द का सीधा अनुभव भी करती हैं। यहाँ भोग का अर्थ पकड़ना नहीं, सुख को प्रत्यक्ष जानना है।"
+  },
+  "story": {
+    "en": "In Sanskrit a serpent is called bhogin because bhoga also means a snake’s coils or hood, and this gives the second reading. The Purāṇa verse quoted on name 291 pairs bhoga, enjoyment, with liberation; here she herself is the one who enjoys.",
+    "hi": "संस्कृत में सर्प को ‘भोगी’ कहते हैं, क्योंकि ‘भोग’ का एक अर्थ उसकी कुण्डली या फन भी है; इसी से दूसरा अर्थ निकलता है। नाम 291 पर उद्धृत पुराण-वचन भोग और मोक्ष को साथ रखता है; यहाँ वे स्वयं भोग करने वाली हैं।"
+  },
+  "commentary": {
+    "sanskrit": "भोगः सुखसाक्षात्कारस्तद्वती भोगिनी । नागकन्यात्मिका वा ।",
+    "translation": {
+      "en": "Bhoga is the direct experience of happiness; she who has it is Bhoginī. Or she is a nāga maiden.",
+      "hi": "भोग का अर्थ है सुख का साक्षात् अनुभव; उससे युक्त होने से वे भोगिनी हैं। अथवा वे नाग-कन्या-स्वरूपा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 293 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the two literal senses; the inner layer after its first sentence is a reflection." }
+}

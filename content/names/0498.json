@@ -1,0 +1,44 @@
+{
+  "number": 498,
+  "verse": 102,
+  "slug": "damaryadibhir-avrita",
+  "devanagari": "डामर्यादिभिरावृता",
+  "iastSplit": "Ḍāmaryādibhir-āvṛtā",
+  "archana": "ॐ डामर्यादिभिरावृतायै नमः",
+  "syllables": ["ḍā", "mar", "yā", "di", "bhi", "rā", "vṛ", "tā"],
+  "words": [
+    { "sa": "डामरी", "meaning": { "en": "Ḍāmarī, the first of Lākinī’s powers", "hi": "डामरी, लाकिनी की पहली शक्ति" } },
+    { "sa": "आदि", "meaning": { "en": "and the others (here in the instrumental, ādibhiḥ)", "hi": "आदि (यहाँ तृतीया विभक्ति में, ‘आदिभिः’)" } },
+    { "sa": "आवृता", "meaning": { "en": "surrounded", "hi": "घिरी हुई" } }
+  ],
+  "meaning": {
+    "en": "Surrounded by Ḍāmarī and the other powers",
+    "hi": "डामरी आदि शक्तियों से घिरी"
+  },
+  "explanation": {
+    "en": "On the ten petals of the navel lotus stand ten powers. Bhāskararāya names the first Ḍāmarī and the last Phaṭkāriṇī, and says Lākinī is surrounded by them.",
+    "hi": "नाभि-कमल के दस दलों पर दस शक्तियाँ स्थित हैं। भास्करराय पहली का नाम डामरी और अन्तिम का फट्कारिणी बताते हैं, और कहते हैं कि लाकिनी इनसे घिरी हैं।"
+  },
+  "inner": {
+    "en": "He gives only the literal sense, with no hidden meaning. As at the throat and the heart, the yoginī sits at the centre of the lotus and her attendant powers on its petals: ten petals, ten powers.",
+    "hi": "वे केवल शाब्दिक अर्थ देते हैं, कोई गूढ़ अर्थ नहीं। कण्ठ और हृदय की भाँति यहाँ भी योगिनी कमल के केन्द्र में हैं और उनकी परिचारिका शक्तियाँ दलों पर: दस दलों के लिए दस शक्तियाँ।"
+  },
+  "story": {
+    "en": "Unlike most names, this one is not a single compound: ḍāmaryādibhiḥ, ‘by Ḍāmarī and the others’, is a separate word in the instrumental, joined to āvṛtā by sandhi. The archana therefore changes only the last word.",
+    "hi": "अधिकांश नामों के विपरीत यह एक ही समस्त पद नहीं है: ‘डामर्यादिभिः’, अर्थात् ‘डामरी आदि के द्वारा’, तृतीया विभक्ति में अलग पद है, जो सन्धि से ‘आवृता’ के साथ जुड़ा है। इसलिए अर्चना में केवल अन्तिम पद बदलता है।"
+  },
+  "commentary": {
+    "sanskrit": "डामर्याद्याभिः फट्कारिण्यन्ताभिर्दशभिः शक्तिभिरावृता ।।",
+    "translation": {
+      "en": "Surrounded by ten powers, from Ḍāmarī to Phaṭkāriṇī.",
+      "hi": "डामरी से फट्कारिणी तक की दस शक्तियों से घिरी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 498 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense. The name is two words joined by sandhi (डामर्यादिभिः + आवृता); devanagari follows the verse, and the archana puts only आवृता in the dative. Slug and iastSplit keep a hyphen at the word break." }
+}

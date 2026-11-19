@@ -1,0 +1,43 @@
+{
+  "number": 596,
+  "verse": 120,
+  "slug": "ravi-prakhya",
+  "devanagari": "रविप्रख्या",
+  "iastSplit": "Ravi-prakhyā",
+  "archana": "ॐ रविप्रख्यायै नमः",
+  "syllables": ["ra", "vip", "rakh", "yā"],
+  "words": [
+    { "sa": "रवि", "meaning": { "en": "sun", "hi": "सूर्य" } },
+    { "sa": "प्रख्या", "meaning": { "en": "like, equal in brightness", "hi": "समान, सदृश दीप्ति वाली" } }
+  ],
+  "meaning": {
+    "en": "Bright as the sun; one with the sun in the heart",
+    "hi": "सूर्य के समान दीप्त; हृदय के सूर्य से अभिन्न"
+  },
+  "explanation": {
+    "en": "Prakhyā means ‘like, equal in appearance’, so the plain sense is that her splendour equals the sun’s. Bhāskararāya reads it with the previous name: there is an orb of the sun in the heart, and she is that sun.",
+    "hi": "‘प्रख्या’ का अर्थ है ‘समान, वैसी ही दीखने वाली’, इसलिए सीधा अर्थ है कि उनकी कान्ति सूर्य के समान है। भास्करराय इसे पिछले नाम के साथ पढ़ते हैं: हृदय में सूर्य-मण्डल है, और वे वही सूर्य हैं।"
+  },
+  "inner": {
+    "en": "He says the sun in the heart is the second kūṭa of the vidyā. Here and in name 592, he explains, nibha and prakhyā, words that usually express likeness, express identity, since she is one with the second and third kūṭas.",
+    "hi": "वे कहते हैं कि हृदय का यह सूर्य विद्या का दूसरा कूट है। वे समझाते हैं कि यहाँ और नाम 592 में ‘निभ’ और ‘प्रख्या’ शब्द, जो सामान्यतः समानता बताते हैं, अभेद बताते हैं, क्योंकि वे दूसरे और तीसरे कूट से अभिन्न हैं।"
+  },
+  "story": {
+    "en": "The sun in the heart answers the moon in the head (name 592), and the next name adds the fire below. Bhāskararāya’s source for the three lights is the Tantrarāja, which he quotes under name 597.",
+    "hi": "हृदय का सूर्य सिर के चन्द्रमा (नाम 592) का उत्तर है, और अगला नाम नीचे की अग्नि जोड़ता है। इन तीन प्रकाशों के लिए भास्करराय का स्रोत तन्त्रराज है, जिसे वे नाम 597 पर उद्धृत करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "हृदये तावत्सूर्यमण्डलमस्ति तच्च विद्याद्वितीयकूटमित्याशयेनाह- रविप्रख्या ।",
+    "translation": {
+      "en": "In the heart there is the orb of the sun, and that is the second kūṭa of the vidyā; with this in mind the name says: Raviprakhyā.",
+      "hi": "हृदय में सूर्य-मण्डल है, और वह विद्या का दूसरा कूट है; इसी आशय से (नाम) कहता है: रविप्रख्या।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 596 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Cakra and mantra name: meaning only. Bhāskararāya also allows the plain sense, ‘having a lustre like the sun’." }
+}

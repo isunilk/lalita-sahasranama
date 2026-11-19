@@ -1,0 +1,43 @@
+{
+  "number": 134,
+  "verse": 44,
+  "slug": "nir-lepa",
+  "devanagari": "निर्लेपा",
+  "iastSplit": "Nir-lepā",
+  "archana": "ॐ निर्लेपायै नमः",
+  "syllables": ["nir", "le", "pā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free from", "hi": "रहित, बिना" } },
+    { "sa": "लेप", "meaning": { "en": "smearing, stain; the clinging of karma", "hi": "लेप, दाग; कर्म का चिपकना" } }
+  ],
+  "meaning": {
+    "en": "Untouched by any stain of action",
+    "hi": "जिन्हें कर्म का कोई लेप नहीं छूता"
+  },
+  "explanation": {
+    "en": "Lepa is anything that smears or clings, and here it is the clinging of karma. Her actions leave no trace on her, as water rolls off a lotus leaf without wetting it.",
+    "hi": "‘लेप’ वह है जो लिपट जाए, और यहाँ अभिप्राय कर्म के लिपटने से है। उनके कर्म उन पर कोई छाप नहीं छोड़ते, जैसे कमल के पत्ते पर पानी ठहरता नहीं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives two readings. In the first, the stain that comes from contact with karma has been cast out of her, as Kṛṣṇa says in the Gītā: “actions do not stain me.” In the second, she is the one by knowing whom the stain of karma departs; he quotes the Yajñavaibhava section, which says the foremost knower of Brahman is stained by no action, as a lotus leaf is not wetted by water, and the Gītā’s use of the same image.",
+    "hi": "भास्करराय दो अर्थ देते हैं। पहले अर्थ में कर्म के सम्बन्ध से होने वाला लेप उनसे दूर कर दिया गया है, जैसा गीता में श्रीकृष्ण कहते हैं: ‘कर्म मुझे लिप्त नहीं करते।’ दूसरे अर्थ में वे वह हैं जिनके ज्ञान से कर्म का लेप छूट जाता है; इसके लिए वे यज्ञवैभव खण्ड का वचन देते हैं कि श्रेष्ठ ब्रह्मज्ञानी किसी भी कर्म से वैसे ही लिप्त नहीं होता जैसे कमल का पत्ता जल से, और गीता में आया यही दृष्टान्त भी।"
+  },
+  "story": {
+    "en": "Bhāskararāya reads the names from Nirañjanā (name 133) onward as a careful definition of the consciousness worshipped inwardly, without any outer support. He counts three kinds of bound soul, and each of these names rules one out: Nirañjanā the soul bound by māyā, the sense of difference; Nirlepā the soul still bound by karma, the force that brings about a body; and Nirmalā the soul left only with the root impurity of taking the non-self for the self.",
+    "hi": "भास्करराय निरञ्जना (नाम 133) से आरम्भ होने वाले नामों को उस चेतना की सावधान परिभाषा मानते हैं जिसकी उपासना भीतर, बिना किसी बाहरी आधार के, होती है। वे बद्ध जीव के तीन प्रकार गिनाते हैं, और ये नाम एक-एक को अलग करते हैं: निरञ्जना माया, अर्थात् भेद-बुद्धि, से बँधे जीव को; निर्लेपा उस जीव को जो अभी कर्म से, अर्थात् शरीर देने वाले अदृष्ट से, बँधा है; और निर्मला उस जीव को जिसमें केवल अनात्मा को आत्मा मानने वाला मूल मल शेष है।"
+  },
+  "commentary": {
+    "sanskrit": "यद्वा लेपः कर्मसम्बन्धः स निर्गतो यस्याः ज्ञानेन सा निर्लेपा ।",
+    "translation": {
+      "en": "Or: lepa is the bond of karma; she by the knowledge of whom it departs is Nirlepā.",
+      "hi": "अथवा, लेप है कर्म का सम्बन्ध; जिनके ज्ञान से वह छूट जाता है, वे निर्लेपा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 134 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition opens the comment with प्रलयकालेऽतिव्याप्तिं (‘at the time of dissolution’), where the sense requires प्रलयाकले, the pralayākala soul defined just before; the story layer follows the corrected sense. The Yajñavaibhava section is cited by that name only; its parent work is not named in the commentary. The split nir-lepā treats the prefix nis/nir as a member, as in the other nir- names of this batch." }
+}

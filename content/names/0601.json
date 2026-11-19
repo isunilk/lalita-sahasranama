@@ -1,0 +1,84 @@
+{
+  "number": 601,
+  "verse": 121,
+  "slug": "darandolita-dirghakshi",
+  "devanagari": "दरान्दोलितदीर्घाक्षी",
+  "iastSplit": "Darāndolita-dīrghākṣī",
+  "archana": "ॐ दरान्दोलितदीर्घाक्ष्यै नमः",
+  "syllables": [
+    "da",
+    "rān",
+    "do",
+    "li",
+    "ta",
+    "dīr",
+    "ghāk",
+    "ṣī"
+  ],
+  "words": [
+    {
+      "sa": "दर",
+      "meaning": {
+        "en": "slightly, a little; also fear",
+        "hi": "थोड़ा-सा; भय भी"
+      }
+    },
+    {
+      "sa": "आन्दोलित",
+      "meaning": {
+        "en": "moving to and fro, swaying",
+        "hi": "डोलते हुए, चंचल"
+      }
+    },
+    {
+      "sa": "दीर्घ",
+      "meaning": {
+        "en": "long",
+        "hi": "दीर्घ, लम्बे"
+      }
+    },
+    {
+      "sa": "अक्षि",
+      "meaning": {
+        "en": "eye",
+        "hi": "नेत्र"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Whose long eyes move gently to and fro",
+    "hi": "जिनके दीर्घ नेत्र हल्के-से चंचल हैं"
+  },
+  "explanation": {
+    "en": "The hymn turns again to her face. Her eyes are long, reaching almost to her ears, and they move a little, gently, as a calm gaze turns. Dara here means “slightly”.",
+    "hi": "स्तोत्र फिर से उनके मुख की ओर लौटता है। उनके नेत्र दीर्घ हैं, मानो कानों तक फैले हों, और वे हल्के-से, कोमलता से डोलते हैं, जैसे शान्त दृष्टि इधर-उधर मुड़ती है। यहाँ ‘दर’ का अर्थ है ‘थोड़ा-सा’।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives a second reading: dara also means fear. Her long eyes are those by which fear is shaken loose and destroyed; a single side-glance from her is enough to end the devotee’s fear.",
+    "hi": "भास्करराय एक दूसरा अर्थ भी देते हैं: ‘दर’ का अर्थ भय भी है। उनके दीर्घ नेत्र वे हैं जिनसे भय डगमगाकर नष्ट हो जाता है; उनका एक कटाक्ष ही भक्त का भय मिटाने के लिए पर्याप्त है।"
+  },
+  "story": {
+    "en": "This name opens the seventh hundred of the thousand names. Bhāskararāya calls his commentary on names 601 to 700 the eighth kalā, named Bhogadā. With the next name, the first half of the verse pictures her eyes and her smile.",
+    "hi": "यह नाम सहस्रनाम के सातवें शतक का आरम्भ करता है। भास्करराय नाम 601 से 700 तक की अपनी व्याख्या को आठवीं कला कहते हैं, जिसका नाम ‘भोगदा’ है। अगले नाम के साथ श्लोक का पूर्वार्ध उनके नेत्रों और मुस्कान का चित्र बनाता है।"
+  },
+  "commentary": {
+    "sanskrit": "यद्वा दरं भयमान्दोलितमस्थिरीकृतं नाशितं यैस्तादृशानि दीर्घाक्षीणि यस्याः । कटाक्षपातमात्रेण भयनाश इति यावत् ।",
+    "translation": {
+      "en": "Or: dara is fear; she whose long eyes are those by which fear is shaken, made unsteady and destroyed. That is, fear is destroyed by the mere fall of her side-glance.",
+      "hi": "अथवा ‘दर’ अर्थात् भय; जिनके दीर्घ नेत्र ऐसे हैं जिनसे भय डगमगाकर, अस्थिर होकर नष्ट हो जाता है। तात्पर्य यह कि उनके कटाक्ष के पड़ते ही भय का नाश हो जाता है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 601 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. Bhāskararāya gives two readings of दर (‘slightly’ and ‘fear’); the explanation follows the first and the inner layer the second. The edition heads names 601–700 ‘सप्तकशतकं नाम अष्टमी भोगदा कला’ (सप्तक- perhaps for सप्तम-)."
+  }
+}

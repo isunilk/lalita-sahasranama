@@ -1,0 +1,44 @@
+{
+  "number": 518,
+  "verse": 106,
+  "slug": "varadadi-nishevita",
+  "devanagari": "वरदादिनिषेविता",
+  "iastSplit": "Varadādi-niṣevitā",
+  "archana": "ॐ वरदादिनिषेवितायै नमः",
+  "syllables": ["va", "ra", "dā", "di", "ni", "ṣe", "vi", "tā"],
+  "words": [
+    { "sa": "वरदा", "meaning": { "en": "Varadā, ‘the boon-giver’, the first of Sākinī’s powers", "hi": "वरदा, ‘वर देने वाली’, साकिनी की पहली शक्ति" } },
+    { "sa": "आदि", "meaning": { "en": "and the others", "hi": "आदि" } },
+    { "sa": "निषेविता", "meaning": { "en": "attended, waited upon", "hi": "सेवित" } }
+  ],
+  "meaning": {
+    "en": "Attended by Varadā and the other powers",
+    "hi": "वरदा आदि शक्तियों से सेवित"
+  },
+  "explanation": {
+    "en": "The mūlādhāra has four petals, and four powers attend its yoginī. Bhāskararāya names the first Varadā and the last Sarasvatī, and says they wait upon Sākinī.",
+    "hi": "मूलाधार के चार दल हैं, और चार शक्तियाँ उसकी योगिनी की सेवा करती हैं। भास्करराय पहली का नाम वरदा और अन्तिम का सरस्वती बताते हैं, और कहते हैं कि वे साकिनी की सेवा में रहती हैं।"
+  },
+  "inner": {
+    "en": "He gives only the literal sense, with no hidden meaning. The circle that begins with Varadā, ‘the boon-giver’, ends with Sarasvatī, the goddess of learning, in keeping with the book and the gesture of knowledge that Sākinī holds.",
+    "hi": "वे केवल शाब्दिक अर्थ देते हैं, कोई गूढ़ अर्थ नहीं। ‘वर देने वाली’ वरदा से आरम्भ होने वाला यह परिवार विद्या की देवी सरस्वती पर समाप्त होता है, जो साकिनी के हाथों की पुस्तक और ज्ञान-मुद्रा से मेल खाता है।"
+  },
+  "story": {
+    "en": "The meditation verse Bhāskararāya quotes describes Sākinī as surrounded by the powers led by the graceful Varadā. With this name her description nears its end; her favourite food and her name follow in names 519 and 520.",
+    "hi": "भास्करराय के उद्धृत ध्यान-श्लोक में साकिनी को सुललित वरदा-प्रमुख शक्तियों से घिरी बताया गया है। इस नाम के साथ उनका वर्णन समाप्ति के निकट है; उनका प्रिय अन्न और उनका नाम, नाम 519 और 520 में आते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "वरदादिभिः सरस्वत्यन्ताभिश्चतसृभिः शक्तिभिर्निषेविता ।।",
+    "translation": {
+      "en": "Attended by four powers, from Varadā to Sarasvatī.",
+      "hi": "वरदा से सरस्वती तक चार शक्तियों से सेवित।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 518 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the last clause of the inner layer is a reflection." }
+}

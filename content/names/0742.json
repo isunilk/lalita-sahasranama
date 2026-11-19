@@ -1,0 +1,45 @@
+{
+  "number": 742,
+  "verse": 143,
+  "slug": "bhava-dava-sudha-vrishti",
+  "devanagari": "भवदावसुधावृष्टिः",
+  "iastSplit": "Bhava-dāva-sudhā-vṛṣṭiḥ",
+  "archana": "ॐ भवदावसुधावृष्ट्यै नमः",
+  "syllables": ["bha", "va", "dā", "va", "su", "dhā", "vṛṣ", "ṭiḥ"],
+  "words": [
+    { "sa": "भव", "meaning": { "en": "worldly existence, saṃsāra", "hi": "भव, संसार" } },
+    { "sa": "दाव", "meaning": { "en": "forest fire", "hi": "दावानल, वन की आग" } },
+    { "sa": "सुधा", "meaning": { "en": "nectar", "hi": "सुधा, अमृत" } },
+    { "sa": "वृष्टि", "meaning": { "en": "rain, shower", "hi": "वर्षा" } }
+  ],
+  "meaning": {
+    "en": "A rain of nectar on the forest fire of worldly life",
+    "hi": "संसार रूपी दावानल पर अमृत की वर्षा"
+  },
+  "explanation": {
+    "en": "Worldly existence is a forest fire that burns without end. Bhāskararāya says that because she quenches it, she is a shower of nectar. In a second reading, dāva means the forest itself, and she is the nectar-rain that revives it again and again.",
+    "hi": "सांसारिक जीवन एक दावानल है जो निरन्तर जलता रहता है। भास्करराय कहते हैं कि वे उसे शान्त करती हैं, इसलिए वे अमृत की वर्षा हैं। दूसरे अर्थ में ‘दाव’ वन ही है, और वे वह अमृत-वर्षा हैं जो उसे बार-बार जीवित करती है।"
+  },
+  "inner": {
+    "en": "He also reads the name as three words, bhavadā, vasudhā, vṛṣṭiḥ: a rain that gives Bhava, the supreme Śiva, and bears vasu, jewels and wealth; in short, she grants both enjoyment and liberation. He quotes the Maṅgalarāja hymn of the Rudrayāmala: where there is enjoyment there is no liberation, and where there is liberation no enjoyment, but for the true devotees of Śrī Sundarī both are in hand.",
+    "hi": "वे इस नाम को तीन पदों में भी पढ़ते हैं, भवदा, वसुधा, वृष्टिः: ऐसी वर्षा जो भव अर्थात् परशिव को देती है और वसु अर्थात् रत्न और धन धारण करती है; संक्षेप में, वे भोग और मोक्ष दोनों देती हैं। वे रुद्रयामल के मंगलराजस्तव से उद्धृत करते हैं: जहाँ भोग है वहाँ मोक्ष नहीं, जहाँ मोक्ष है वहाँ भोग नहीं; पर श्रीसुन्दरी के श्रेष्ठ साधकों के लिए भोग और मोक्ष दोनों हाथ में हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya notes that the eight names from this one to Mṛtyudārukuṭhārikā (name 749) all use rūpaka, metaphor. Each pictures some part of our life as a scene in nature, with her as the power at work in it: rain on fire, fire in a forest, wind on cotton, sunlight on darkness.",
+    "hi": "भास्करराय बताते हैं कि इस नाम से लेकर मृत्युदारुकुठारिका (नाम 749) तक के आठों नामों में रूपक अलंकार है। हर नाम हमारे जीवन के किसी पक्ष को प्रकृति के किसी दृश्य के रूप में दिखाता है, और उन्हें उसमें काम करती शक्ति के रूप में: आग पर वर्षा, वन में आग, रुई पर आँधी, अन्धकार पर सूर्य का प्रकाश।"
+  },
+  "commentary": {
+    "sanskrit": "भवः संसार एव दावो वनवह्निस्तस्य शामकत्वात्सुधावृष्टिः पीयूषवर्षमिव ।",
+    "translation": {
+      "en": "Bhava, worldly existence, is itself the dāva, the forest fire; because she quenches it, she is a rain of nectar, a shower of ambrosia as it were.",
+      "hi": "भव अर्थात् संसार ही दाव, यानी वन की आग, है; उसे शान्त करने के कारण वे सुधा-वृष्टि हैं, मानो अमृत की वर्षा।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 742 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The archana keeps वृष्ट्यै (feminine i-stem; वृष्टये would also be grammatical). Bhāskararāya also reads the name as three words, भवदा वसुधा वृष्टिः; the page follows the master text’s single name." }
+}

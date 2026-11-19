@@ -1,0 +1,44 @@
+{
+  "number": 575,
+  "verse": 116,
+  "slug": "madhvi-panalasa",
+  "devanagari": "माध्वीपानालसा",
+  "iastSplit": "Mādhvī-pānālasā",
+  "archana": "ॐ माध्वीपानालसायै नमः",
+  "syllables": ["mādh", "vī", "pā", "nā", "la", "sā"],
+  "words": [
+    { "sa": "माध्वी", "meaning": { "en": "mādhvī, a wine made from grapes", "hi": "माध्वी, द्राक्षा से बनी मदिरा" } },
+    { "sa": "पान", "meaning": { "en": "drinking", "hi": "पान, पीना" } },
+    { "sa": "अलसा", "meaning": { "en": "languid", "hi": "अलसाई हुई" } }
+  ],
+  "meaning": {
+    "en": "Languid from drinking mādhvī, the wine of grapes",
+    "hi": "माध्वी (द्राक्षा-मदिरा) के पान से अलसाई हुई"
+  },
+  "explanation": {
+    "en": "Mādhvī is a wine made from grapes, and the name pictures her languorous after drinking it. Bhāskararāya at once gives the sense: the languor is an inner coolness, because she rests one-pointed within herself.",
+    "hi": "माध्वी द्राक्षा से बनी मदिरा है, और यह नाम उन्हें उसके पान से अलसाई हुई दिखाता है। भास्करराय तुरन्त इसका भाव बताते हैं: यह आलस्य भीतर की शीतलता है, क्योंकि वे अन्तर्मुख होकर एक ही में स्थित हैं।"
+  },
+  "inner": {
+    "en": "He reads the languor as inner absorption: a mind gathered wholly into one point is cool and at rest, and to the outer world it looks drowsy. He gives no further hidden meaning for the wine itself.",
+    "hi": "वे इस आलस्य को भीतर की एकाग्रता के रूप में पढ़ते हैं: जो मन पूरी तरह एक बिन्दु में सिमट जाता है, वह शीतल और शान्त होता है, और बाहर से उनींदा-सा दिखता है। मदिरा के लिए वे इससे आगे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "Much of his note is grammar. Mādhvī is properly a Vedic form; to show that it is used in ordinary Sanskrit too, he quotes a verse that names mādhvī and gauḍī among the wines the good condemn because they destroy one’s own Brahman-nature.",
+    "hi": "भास्करराय की टिप्पणी का बड़ा भाग व्याकरण पर है। ‘माध्वी’ मूलतः वैदिक रूप है; यह दिखाने के लिए कि लौकिक संस्कृत में भी इसका प्रयोग होता है, वे एक श्लोक उद्धृत करते हैं जो माध्वी और गौडी को उन मदिराओं में गिनाता है जिनकी सज्जन निन्दा करते हैं, क्योंकि वे अपने ब्रह्मभाव को नष्ट करती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "माध्व्या द्राक्षाजन्यमदिरायाः पानेनालसा । अन्तरेकनिष्ठतया शीतला ।",
+    "translation": {
+      "en": "Languid from drinking mādhvī, the wine made from grapes; that is, cool through being one-pointed within.",
+      "hi": "माध्वी, अर्थात् द्राक्षा से बनी मदिरा, के पान से अलसाई हुई; अर्थात् भीतर एकनिष्ठ होने से शीतल।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 575 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s grammatical discussion of माध्वी (Vedic and classical usage, with the sūtra beginning ऋत्व्यवास्त्व्य…) is only summarised." }
+}

@@ -1,0 +1,42 @@
+{
+  "number": 580,
+  "verse": 117,
+  "slug": "mahaniya",
+  "devanagari": "महनीया",
+  "iastSplit": "Mahanīyā",
+  "archana": "ॐ महनीयायै नमः",
+  "syllables": ["ma", "ha", "nī", "yā"],
+  "words": [
+    { "sa": "महनीया", "meaning": { "en": "worthy of worship, to be honoured", "hi": "पूजनीय, आदरणीय" } }
+  ],
+  "meaning": {
+    "en": "Worthy of worship and honour",
+    "hi": "पूजनीय, आदर के योग्य"
+  },
+  "explanation": {
+    "en": "Mahanīyā means one who is to be honoured and worshipped. Bhāskararāya says just this: she is called so because she is worthy of worship.",
+    "hi": "‘महनीया’ का अर्थ है जिनका सम्मान और पूजन किया जाना चाहिए। भास्करराय इतना ही कहते हैं: पूजनीय होने से वे महनीया हैं।"
+  },
+  "inner": {
+    "en": "He gives no hidden meaning. Worship is due to her not because she needs it but because of what she is; to honour her is simply to see her truly.",
+    "hi": "वे कोई गूढ़ अर्थ नहीं देते। उन्हें पूजा इसलिए नहीं दी जाती कि उन्हें उसकी आवश्यकता है, बल्कि इसलिए कि वे जो हैं, वही हैं; उनका सम्मान करना उन्हें यथार्थ रूप में देखना ही है।"
+  },
+  "story": {
+    "en": "The word comes from the root mah, ‘to honour, to magnify’, the root of mahā and mahat, ‘great’. It opens the second line of verse 117, which ends with her great sovereignty.",
+    "hi": "यह शब्द ‘मह्’ धातु से बना है, जिसका अर्थ है पूजा करना, महिमा देना; ‘महा’ और ‘महत्’ भी इसी धातु से हैं। यह श्लोक 117 की दूसरी पंक्ति आरम्भ करता है, जो उनके महासाम्राज्य पर समाप्त होती है।"
+  },
+  "commentary": {
+    "sanskrit": "पूज्यत्वान्महनीया ।",
+    "translation": {
+      "en": "Mahanīyā, because she is worthy of worship.",
+      "hi": "पूज्य होने से महनीया।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 580 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the inner layer is a reflection." }
+}

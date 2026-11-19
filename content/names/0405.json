@@ -1,0 +1,43 @@
+{
+  "number": 405,
+  "verse": 88,
+  "slug": "shiva-duti",
+  "devanagari": "शिवदूती",
+  "iastSplit": "Śiva-dūtī",
+  "archana": "ॐ शिवदूत्यै नमः",
+  "syllables": ["śi", "va", "dū", "tī"],
+  "words": [
+    { "sa": "शिव", "meaning": { "en": "Śiva", "hi": "शिव" } },
+    { "sa": "दूत", "meaning": { "en": "messenger", "hi": "दूत, सन्देशवाहक" } }
+  ],
+  "meaning": {
+    "en": "She whose messenger was Śiva himself",
+    "hi": "जिनके दूत स्वयं शिव बने"
+  },
+  "explanation": {
+    "en": "The name means one whose messenger is Śiva. In the war against the demons the Goddess sent Śiva himself to carry her message, and from that she came to be known as Śivadūtī.",
+    "hi": "इस नाम का अर्थ है वे जिनके दूत शिव हैं। असुरों से युद्ध में देवी ने स्वयं शिव को अपना सन्देश ले जाने भेजा, और तभी से वे ‘शिवदूती’ नाम से प्रसिद्ध हुईं।"
+  },
+  "inner": {
+    "en": "That the Lord of all should carry her message shows her sovereignty: even Śiva acts at her word. Bhāskararāya gives no further hidden sense; he settles the grammar and, citing the Padma Purāṇa, notes that the goddess Śivadūtī abides at the tīrtha of Puṣkara.",
+    "hi": "सबके स्वामी शिव उनका सन्देश लेकर जाएँ, यह उनकी सार्वभौम सत्ता दिखाता है: स्वयं शिव भी उनके वचन पर चलते हैं। भास्करराय इसका कोई और गूढ़ अर्थ नहीं देते; वे व्याकरण स्पष्ट करते हैं और पद्म पुराण के आधार पर बताते हैं कि शिवदूती देवी पुष्कर तीर्थ में विराजमान हैं।"
+  },
+  "story": {
+    "en": "In the Devī Māhātmya of the Mārkaṇḍeya Purāṇa, during the battle with Śumbha and Niśumbha, a fierce power came forth from the Devī and sent Śiva as envoy to the demons: give the three worlds back to the gods and go down to Pātāla, or come and fight. Bhāskararāya quotes the verse that gives the name its origin.",
+    "hi": "मार्कण्डेय पुराण के देवी माहात्म्य में शुम्भ-निशुम्भ से युद्ध के समय देवी के शरीर से एक उग्र शक्ति प्रकट हुई और उसने शिव को दूत बनाकर असुरों के पास भेजा: तीनों लोक देवताओं को लौटा दो और पाताल चले जाओ, या फिर आकर युद्ध करो। भास्करराय वह श्लोक उद्धृत करते हैं जिससे यह नाम पड़ा।"
+  },
+  "commentary": {
+    "sanskrit": "यतो नियुक्तो दौत्येन तया देव्या शिवः स्वयम् । शिवदूतीति लोकेऽस्मिंस्ततः सा ख्यातिमागता ।।",
+    "translation": {
+      "en": "Because Śiva himself was appointed by that Devī to the office of messenger, she became known in this world as Śivadūtī.",
+      "hi": "क्योंकि उन देवी ने स्वयं शिव को दूत के कार्य पर नियुक्त किया, इसलिए वे इस लोक में ‘शिवदूती’ नाम से प्रसिद्ध हुईं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 405, quoting the Mārkaṇḍeya Purāṇa (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The commentary excerpt is a Mārkaṇḍeya Purāṇa (Devī Māhātmya) verse as quoted by Bhāskararāya. He also records another commentators’ reading, ‘she who sends her message through Śiva’, and questions its grammar. The first sentence of the inner layer is a reflection." }
+}

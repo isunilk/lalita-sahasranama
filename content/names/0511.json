@@ -1,0 +1,44 @@
+{
+  "number": 511,
+  "verse": 105,
+  "slug": "bandhinyadi-samanvita",
+  "devanagari": "बन्धिन्यादिसमन्विता",
+  "iastSplit": "Bandhinyādi-samanvitā",
+  "archana": "ॐ बन्धिन्यादिसमन्वितायै नमः",
+  "syllables": ["ban", "dhin", "yā", "di", "sa", "man", "vi", "tā"],
+  "words": [
+    { "sa": "बन्धिनी", "meaning": { "en": "Bandhinī, ‘she who binds’, the first of Kākinī’s powers", "hi": "बन्धिनी, ‘बाँधने वाली’, काकिनी की पहली शक्ति" } },
+    { "sa": "आदि", "meaning": { "en": "and the others", "hi": "आदि" } },
+    { "sa": "समन्विता", "meaning": { "en": "accompanied by", "hi": "युक्त, साथ" } }
+  ],
+  "meaning": {
+    "en": "Accompanied by Bandhinī and the other powers",
+    "hi": "बन्धिनी आदि शक्तियों से युक्त"
+  },
+  "explanation": {
+    "en": "On the six petals of the svādhiṣṭhāna lotus stand six powers. Bhāskararāya names the first Bandhinī and the last Lamboṣṭhī, and says Kākinī is accompanied by them.",
+    "hi": "स्वाधिष्ठान-कमल के छह दलों पर छह शक्तियाँ स्थित हैं। भास्करराय पहली का नाम बन्धिनी और अन्तिम का लम्बोष्ठी बताते हैं, और कहते हैं कि काकिनी इनके साथ हैं।"
+  },
+  "inner": {
+    "en": "He gives only the literal sense, with no hidden meaning. Six petals, six powers: in each of these centres the yoginī’s circle matches the petals of her lotus.",
+    "hi": "वे केवल शाब्दिक अर्थ देते हैं, कोई गूढ़ अर्थ नहीं। छह दल, छह शक्तियाँ: इन सभी चक्रों में योगिनी का परिवार उसके कमल के दलों के अनुरूप है।"
+  },
+  "story": {
+    "en": "The meditation verse Bhāskararāya quotes calls Kākinī bandhinīmukhyayuktā, ‘joined with the powers led by Bandhinī’. The name Bandhinī means ‘she who binds’.",
+    "hi": "भास्करराय के उद्धृत ध्यान-श्लोक में काकिनी को ‘बन्धिनीमुख्ययुक्ता’, अर्थात् बन्धिनी-प्रमुख शक्तियों से युक्त, कहा गया है। ‘बन्धिनी’ नाम का अर्थ है बाँधने वाली।"
+  },
+  "commentary": {
+    "sanskrit": "बन्धिन्यादिभिर्लम्बोष्ठ्यन्ताभिः षड्भिः समन्विता ।",
+    "translation": {
+      "en": "Accompanied by six, from Bandhinī to Lamboṣṭhī.",
+      "hi": "बन्धिनी से लम्बोष्ठी तक छह शक्तियों से युक्त।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 511 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the second sentence of the inner layer is a reflection." }
+}

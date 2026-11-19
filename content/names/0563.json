@@ -1,0 +1,42 @@
+{
+  "number": 563,
+  "verse": 114,
+  "slug": "mukhya",
+  "devanagari": "मुख्या",
+  "iastSplit": "Mukhyā",
+  "archana": "ॐ मुख्यायै नमः",
+  "syllables": ["mukh", "yā"],
+  "words": [
+    { "sa": "मुख्या", "meaning": { "en": "first, chief; she who is at the beginning", "hi": "प्रथम, प्रधान; जो आरम्भ में हैं" } }
+  ],
+  "meaning": {
+    "en": "The First, who was before all things",
+    "hi": "प्रथमा, जो सबसे पहले थीं"
+  },
+  "explanation": {
+    "en": "Mukhyā means the chief or the first. Bhāskararāya takes it as ‘she who was at the mukha, the beginning, of all’: the first of everything that exists.",
+    "hi": "‘मुख्या’ का अर्थ है प्रधान या प्रथम। भास्करराय इसे ‘जो सबके मुख, अर्थात् आरम्भ, में थीं’ के अर्थ में लेते हैं: जो कुछ भी है, उसमें सबसे पहली।"
+  },
+  "inner": {
+    "en": "He supports this with the Vedic words ‘I am the first-born of ṛta’, the cosmic order. Before any world, god or law, she already is; everything else comes after her.",
+    "hi": "इसके प्रमाण में वे श्रुति का वचन देते हैं: ‘अहमस्मि प्रथमजा ऋतस्य’, अर्थात् मैं ऋत, विश्व-व्यवस्था, की प्रथम-जात हूँ। किसी लोक, देवता या नियम से पहले वे विद्यमान हैं; बाकी सब उनके बाद आता है।"
+  },
+  "story": {
+    "en": "The name sits in a line of short names beginning with m (561–565). Bhāskararāya derives it from mukha in the sense of ‘beginning’, not ‘face’.",
+    "hi": "यह नाम ‘म’ से आरम्भ होने वाले छोटे नामों (561–565) की पंक्ति में है। भास्करराय इसे ‘मुख’ के ‘मुँह’ वाले अर्थ से नहीं, ‘आरम्भ’ वाले अर्थ से जोड़ते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "मुखे सर्वादौ भवा मुख्या । अहमस्मि प्रथमजा ऋतस्येति श्रुतेः ।",
+    "translation": {
+      "en": "Mukhyā: she who is at the mukha, the beginning of all; as the śruti says, ‘I am the first-born of ṛta.’",
+      "hi": "मुख्या, अर्थात् जो मुख में, सबके आदि में, विद्यमान हैं; जैसा श्रुति कहती है: ‘मैं ऋत की प्रथम-जात हूँ।’"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 563 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya cites अहमस्मि प्रथमजा ऋतस्य only as śruti and does not name the Vedic text; the closing sentence of the inner layer is a reflection." }
+}

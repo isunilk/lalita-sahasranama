@@ -1,0 +1,43 @@
+{
+  "number": 499,
+  "verse": 103,
+  "slug": "rakta-varna",
+  "devanagari": "रक्तवर्णा",
+  "iastSplit": "Rakta-varṇā",
+  "archana": "ॐ रक्तवर्णायै नमः",
+  "syllables": ["rak", "ta", "var", "ṇā"],
+  "words": [
+    { "sa": "रक्त", "meaning": { "en": "red", "hi": "लाल, रक्त" } },
+    { "sa": "वर्ण", "meaning": { "en": "colour, complexion", "hi": "वर्ण, रंग" } }
+  ],
+  "meaning": {
+    "en": "Red in complexion",
+    "hi": "रक्त वर्ण वाली"
+  },
+  "explanation": {
+    "en": "Lākinī, the yoginī of the navel lotus, is red. Bhāskararāya explains it simply: she whose colour is red.",
+    "hi": "नाभि-कमल की योगिनी लाकिनी रक्त वर्ण की हैं। भास्करराय इसे सरलता से समझाते हैं: जिनका वर्ण लाल है।"
+  },
+  "inner": {
+    "en": "He gives only the literal sense and no hidden meaning. Red is the colour the hymn gives Lalitā herself, who is called sarvāruṇā, red all over (name 49); here it marks the yoginī of the navel.",
+    "hi": "वे केवल शाब्दिक अर्थ देते हैं, कोई गूढ़ अर्थ नहीं। लाल वही रंग है जो स्तोत्र स्वयं ललिता को देता है, जिन्हें ‘सर्वारुणा’, अर्थात् सर्वांग अरुण, कहा गया है (नाम 49); यहाँ यही रंग नाभि की योगिनी का चिह्न है।"
+  },
+  "story": {
+    "en": "Bhāskararāya has this name in view when he explains Ḍākinī’s āraktavarṇā (name 476): he takes the prefix ā there as ‘slightly’, making Ḍākinī rose-pink like the pāṭalī flower, and notes that this also keeps that name from merely repeating Lākinī’s raktavarṇā.",
+    "hi": "डाकिनी के नाम ‘आरक्तवर्णा’ (476) की व्याख्या करते समय भास्करराय इसी नाम को ध्यान में रखते हैं: वहाँ वे ‘आ’ उपसर्ग को ‘थोड़ा’ के अर्थ में लेते हैं, जिससे डाकिनी पाटली-पुष्प के समान श्वेत-रक्त वर्ण की होती हैं, और बताते हैं कि इससे वह नाम लाकिनी के ‘रक्तवर्णा’ की पुनरुक्ति भी नहीं बनता।"
+  },
+  "commentary": {
+    "sanskrit": "रक्तो वर्णो यस्याः ।",
+    "translation": {
+      "en": "She whose colour is red.",
+      "hi": "जिनका वर्ण लाल है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 499 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the remark on Lalitā’s red colour in the inner layer is a reflection. The story draws on his comment on name 476." }
+}

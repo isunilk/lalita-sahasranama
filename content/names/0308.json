@@ -1,0 +1,43 @@
+{
+  "number": 308,
+  "verse": 71,
+  "slug": "rajiva-lochana",
+  "devanagari": "राजीवलोचना",
+  "iastSplit": "Rājīva-locanā",
+  "archana": "ॐ राजीवलोचनायै नमः",
+  "syllables": ["rā", "jī", "va", "lo", "ca", "nā"],
+  "words": [
+    { "sa": "राजीव", "meaning": { "en": "lotus; also deer, fish", "hi": "कमल; हरिण, मछली भी" } },
+    { "sa": "लोचना", "meaning": { "en": "having eyes", "hi": "नेत्रों वाली" } }
+  ],
+  "meaning": {
+    "en": "Whose eyes are like lotuses",
+    "hi": "कमल जैसे नेत्रों वाली"
+  },
+  "explanation": {
+    "en": "Rājīva usually means the lotus, and her eyes are lotus-like: long, soft and luminous. Bhāskararāya notes from the Viśva lexicon that rājīva also means a deer or a fish, so her eyes may also be likened to a doe’s or to a fish’s, both classic images of beautiful eyes.",
+    "hi": "‘राजीव’ का सामान्य अर्थ कमल है, और उनके नेत्र कमल जैसे हैं: लम्बे, कोमल और दीप्त। भास्करराय ‘विश्व’ कोश के आधार पर बताते हैं कि ‘राजीव’ का अर्थ हरिण और मछली भी है; इसलिए उनके नेत्रों की उपमा हरिणी के या मछली के नेत्रों से भी दी जा सकती है, जो काव्य में सुन्दर आँखों की प्रसिद्ध उपमाएँ हैं।"
+  },
+  "inner": {
+    "en": "The same lexicon gives rājīva one more sense: one who lives by serving a king. So Bhāskararāya adds a reading: she looks upon those who live in royal service. No servant falls outside her sight.",
+    "hi": "वही कोश ‘राजीव’ का एक और अर्थ देता है: राजा की सेवा से जीविका चलाने वाला। इसलिए भास्करराय एक और अर्थ जोड़ते हैं: वे राजसेवकों को देखती हैं। कोई सेवक उनकी दृष्टि से बाहर नहीं।"
+  },
+  "story": {
+    "en": "Name 18 compared her eyes to fish darting in the flowing stream of her face’s beauty; here the fish returns, beside the lotus and the deer.",
+    "hi": "नाम 18 में उनके नेत्रों की उपमा मुख-सौन्दर्य के प्रवाह में चंचल मछलियों से दी गई थी; यहाँ मछली फिर आती है, कमल और हरिण के साथ।"
+  },
+  "commentary": {
+    "sanskrit": "राजीवशब्देन पद्मं हरिणो मत्स्यो वा गृह्यते । तद्वल्लोचने यस्याः सा राजीवलोचना ।",
+    "translation": {
+      "en": "By the word rājīva a lotus, a deer or a fish is meant; she whose eyes are like these is Rājīvalocanā.",
+      "hi": "‘राजीव’ शब्द से कमल, हरिण या मछली का ग्रहण होता है; जिनके नेत्र उनके समान हैं, वे राजीवलोचना हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 308 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The last sentence of the inner layer is a reflection on his reading राजोपजीविनो लोचयति." }
+}

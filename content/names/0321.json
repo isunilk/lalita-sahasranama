@@ -1,0 +1,42 @@
+{
+  "number": 321,
+  "verse": 73,
+  "slug": "kamya",
+  "devanagari": "काम्या",
+  "iastSplit": "Kāmyā",
+  "archana": "ॐ काम्यायै नमः",
+  "syllables": ["kām", "yā"],
+  "words": [
+    { "sa": "काम्या", "meaning": { "en": "desirable, to be longed for", "hi": "कामना करने योग्य" } }
+  ],
+  "meaning": {
+    "en": "The one longed for by those who seek freedom",
+    "hi": "जिनकी कामना मोक्ष के इच्छुक करते हैं"
+  },
+  "explanation": {
+    "en": "Kāmyā means desirable, the one to be longed for. Bhāskararāya says those who seek liberation long for her, because she is to be reached through knowledge.",
+    "hi": "‘काम्या’ का अर्थ है कामना करने योग्य। भास्करराय कहते हैं कि मोक्ष चाहने वाले उनकी कामना करते हैं, क्योंकि वे ज्ञान से प्राप्त होने योग्य हैं।"
+  },
+  "inner": {
+    "en": "Because she is reached through knowledge, the longing for her is the seeker’s longing for truth. Every other desire is for something that passes; this one ends desiring itself, since to reach her is to be free.",
+    "hi": "क्योंकि वे ज्ञान से प्राप्त होती हैं, इसलिए उनकी कामना साधक की सत्य के लिए लालसा है। हर दूसरी कामना किसी नश्वर वस्तु की होती है; यह कामना स्वयं कामना का अन्त कर देती है, क्योंकि उन्हें पाना ही मुक्त होना है।"
+  },
+  "story": {
+    "en": "Bhāskararāya also reads Kāmyā as the night of the twelfth day of the dark fortnight. He gives such calendar senses to several names in these verses: Pūrṇā (292) as certain lunar days, and Ambikā (295) as night itself.",
+    "hi": "भास्करराय ‘काम्या’ का एक अर्थ कृष्णपक्ष की द्वादशी की रात्रि भी बताते हैं। इन श्लोकों के कई नामों को वे ऐसे तिथि-परक अर्थ देते हैं: ‘पूर्णा’ (292) को कुछ विशेष तिथियाँ, और ‘अम्बिका’ (295) को स्वयं रात्रि।"
+  },
+  "commentary": {
+    "sanskrit": "ज्ञानेन प्राप्तव्यत्वेन मुमुक्षुभिः काम्यामानत्वात्काम्या ।",
+    "translation": {
+      "en": "She is Kāmyā because, being reachable through knowledge, she is longed for by those who seek liberation.",
+      "hi": "ज्ञान से प्राप्त होने योग्य होने के कारण मुमुक्षु उनकी कामना करते हैं, इसलिए वे काम्या हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 321 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The commentary excerpt is quoted exactly as printed, with the misprint काम्यामान for काम्यमान. The second sentence of the inner layer is a reflection." }
+}

@@ -1,0 +1,45 @@
+{
+  "number": 297,
+  "verse": 69,
+  "slug": "hari-brahmendra-sevita",
+  "devanagari": "हरिब्रह्मेन्द्रसेविता",
+  "iastSplit": "Hari-brahmendra-sevitā",
+  "archana": "ॐ हरिब्रह्मेन्द्रसेवितायै नमः",
+  "syllables": ["ha", "rib", "rah", "men", "dra", "se", "vi", "tā"],
+  "words": [
+    { "sa": "हरि", "meaning": { "en": "Hari, Viṣṇu", "hi": "हरि, विष्णु" } },
+    { "sa": "ब्रह्मन्", "meaning": { "en": "Brahmā, the creator", "hi": "ब्रह्मा, सृष्टिकर्ता" } },
+    { "sa": "इन्द्र", "meaning": { "en": "Indra, king of the gods", "hi": "इन्द्र, देवराज" } },
+    { "sa": "सेविता", "meaning": { "en": "served, worshipped", "hi": "सेवित, उपासित" } }
+  ],
+  "meaning": {
+    "en": "Served by Viṣṇu, Brahmā and Indra",
+    "hi": "विष्णु, ब्रह्मा और इन्द्र द्वारा सेवित"
+  },
+  "explanation": {
+    "en": "The greatest of the gods, Viṣṇu, Brahmā and Indra, attend on her and worship her. Bhāskararāya quotes the Devī Bhāgavata: Brahmā, Viṣṇu, Śambhu, Indra and all the hosts of gods meditate on her, the cause of creation, preservation and dissolution.",
+    "hi": "देवताओं में श्रेष्ठ विष्णु, ब्रह्मा और इन्द्र उनकी सेवा और उपासना करते हैं। भास्करराय देवीभागवत का वचन देते हैं कि ब्रह्मा, विष्णु, शम्भु, इन्द्र और सारे देवगण उन्हीं देवी का ध्यान करते हैं, जो सृष्टि, स्थिति और लय की कारण हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya draws a lesson: those who know the Devī’s scriptures do not turn to Viṣṇu or Brahmā for boons, since these gods themselves worship her. He puts it as a maxim: a beggar should not beg from other beggars when there is one who is no beggar. A verse of his own hymn to Śiva, which he quotes, makes the same point.",
+    "hi": "भास्करराय यहाँ से एक शिक्षा निकालते हैं: जो देवी के आगमों को जानते हैं, वे वरदान के लिए विष्णु या ब्रह्मा के पास नहीं जाते, क्योंकि वे देवता स्वयं उनके उपासक हैं। इसे वे एक न्याय के रूप में कहते हैं: जब कोई ऐसा दाता हो जो स्वयं याचक नहीं, तब एक भिक्षुक को दूसरे भिक्षुकों से नहीं माँगना चाहिए। अपने रचे शिवस्तव का एक श्लोक भी वे इसी आशय से उद्धृत करते हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya places these gods in her city, Śrīnagara: Viṣṇu dwells between its eighteenth and seventeenth walls, Brahmā between the seventeenth and sixteenth, and Indra with the guardians of the directions between the fifteenth and fourteenth, all there to serve the Devī. Earlier, name 83 sang of Brahmā, Upendra (Viṣṇu) and Mahendra (Indra) praising her glory.",
+    "hi": "भास्करराय इन देवताओं को देवी के नगर श्रीनगर में स्थान देते हैं: अठारहवें और सत्रहवें प्राकार के बीच विष्णु, सत्रहवें और सोलहवें के बीच ब्रह्मा, और पन्द्रहवें और चौदहवें के बीच इन्द्र आदि लोकपाल निवास करते हैं, सब देवी की सेवा के लिए। इससे पहले नाम 83 में ब्रह्मा, उपेन्द्र और महेन्द्र द्वारा उनके वैभव की स्तुति का वर्णन आया था।"
+  },
+  "commentary": {
+    "sanskrit": "हरिब्रह्मेन्द्रैर्विष्णुविधिशक्रैः सेवितोपासिता ।",
+    "translation": {
+      "en": "Sevitā, worshipped, by Hari, Brahmā and Indra, that is, by Viṣṇu, Vidhi and Śakra.",
+      "hi": "हरि, ब्रह्मा और इन्द्र, अर्थात् विष्णु, विधि और शक्र, द्वारा सेवित अर्थात् उपासित।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 297 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The placement of the gods between the walls of Śrīnagara is Bhāskararāya’s, given as tradition (स्मरणात्) without naming a text." }
+}

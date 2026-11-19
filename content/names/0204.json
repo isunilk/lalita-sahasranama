@@ -1,0 +1,44 @@
+{
+  "number": 204,
+  "verse": 52,
+  "slug": "sarva-mantra-svarupini",
+  "devanagari": "सर्वमन्त्रस्वरूपिणी",
+  "iastSplit": "Sarva-mantra-svarūpiṇī",
+  "archana": "ॐ सर्वमन्त्रस्वरूपिण्यै नमः",
+  "syllables": ["sar", "va", "man", "tras", "va", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "सर्व", "meaning": { "en": "all", "hi": "सब, सम्पूर्ण" } },
+    { "sa": "मन्त्र", "meaning": { "en": "mantra, sacred formula", "hi": "मन्त्र" } },
+    { "sa": "स्वरूपिणी", "meaning": { "en": "she whose own form is", "hi": "जिनका स्वरूप है" } }
+  ],
+  "meaning": {
+    "en": "She whose very form is all mantras",
+    "hi": "सभी मन्त्र जिनका स्वरूप हैं"
+  },
+  "explanation": {
+    "en": "A mantra is a sacred sound or formula through which the divine is invoked. Every mantra, of every deity, is her own form; in every mantra it is she who is invoked.",
+    "hi": "मन्त्र वह पवित्र ध्वनि या वाक्य है जिसके द्वारा दिव्य शक्ति का आवाहन होता है। हर देवता का हर मन्त्र उन्हीं का स्वरूप है; हर मन्त्र में वे ही आवाहित होती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says that all the mantras, seven crores in number, are her own form. He cites the Sundarī Tāpinī Upaniṣad, which says that many mantras are fashioned from the earlier and later parts of her Vidyā, and the sūtras of Gauḍapāda, which in seven sūtras describe her as the essence of all mantras, a point worked out in their commentary.",
+    "hi": "भास्करराय कहते हैं कि सात करोड़ की संख्या वाले सभी मन्त्र उनका स्वरूप हैं। वे सुन्दरीतापिनी उपनिषद् का उल्लेख करते हैं, जो कहता है कि उनकी विद्या के पूर्व और उत्तर भागों से अनेक मन्त्र रचे गए हैं, और गौडपाद के सूत्रों का भी, जो सात सूत्रों में उन्हें सभी मन्त्रों का सार बताते हैं; इसका विस्तार उन सूत्रों के भाष्य में है।"
+  },
+  "story": {
+    "en": "Bhāskararāya notes that Gauḍapāda’s sūtras go on, ‘so too yantras and tantras’, and that the next two names state exactly this.",
+    "hi": "भास्करराय बताते हैं कि गौडपाद के सूत्र आगे कहते हैं, ‘उसी प्रकार यन्त्र और तन्त्र भी’, और अगले दो नाम ठीक यही बात कहते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वे सप्तकोटिसंख्यामन्त्राः स्वरूपमस्याः ।",
+    "translation": {
+      "en": "All mantras, seven crores in number, are her own form.",
+      "hi": "सात करोड़ संख्या वाले सभी मन्त्र इनका स्वरूप हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 204 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The name speaks of mantras in general; no mantra or bīja is given. Bhāskararāya does not name the work containing Gauḍapāda’s sūtras." }
+}

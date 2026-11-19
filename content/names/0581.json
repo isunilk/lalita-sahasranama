@@ -1,0 +1,43 @@
+{
+  "number": 581,
+  "verse": 117,
+  "slug": "daya-murti",
+  "devanagari": "दयामूर्तिः",
+  "iastSplit": "Dayā-mūrtiḥ",
+  "archana": "ॐ दयामूर्त्यै नमः",
+  "syllables": ["da", "yā", "mūr", "tiḥ"],
+  "words": [
+    { "sa": "दया", "meaning": { "en": "compassion", "hi": "दया, करुणा" } },
+    { "sa": "मूर्ति", "meaning": { "en": "form, embodiment", "hi": "मूर्ति, स्वरूप" } }
+  ],
+  "meaning": {
+    "en": "Compassion embodied",
+    "hi": "दया की साक्षात् मूर्ति"
+  },
+  "explanation": {
+    "en": "She is compassion in bodily form. Bhāskararāya puts it simply: compassion itself is her form, her very nature.",
+    "hi": "वे साकार दया हैं। भास्करराय सीधे कहते हैं: दया ही उनकी मूर्ति, उनका स्वरूप है।"
+  },
+  "inner": {
+    "en": "He gives no further hidden meaning. The name does not say that she has compassion, as one has a quality, but that she is compassion; whatever form she takes is made of it.",
+    "hi": "वे इससे आगे कोई गूढ़ अर्थ नहीं देते। यह नाम यह नहीं कहता कि उनमें दया है, जैसे किसी में कोई गुण होता है; यह कहता है कि वे स्वयं दया हैं, और वे जो भी रूप धारण करती हैं, वह दया से ही बना है।"
+  },
+  "story": {
+    "en": "Set between ‘worthy of worship’ and ‘ruling a great empire’, this name tells what kind of sovereign she is: one whose power is compassion.",
+    "hi": "‘महनीया’ और ‘महासाम्राज्यशालिनी’ के बीच रखा यह नाम बताता है कि वे कैसी सम्राज्ञी हैं: ऐसी, जिनकी शक्ति दया है।"
+  },
+  "commentary": {
+    "sanskrit": "दयैव मूर्तिः स्वरूपं यस्याः ।",
+    "translation": {
+      "en": "She whose mūrti, her very form, is compassion itself.",
+      "hi": "दया ही जिनकी मूर्ति, अर्थात् स्वरूप, है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 581 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the second sentence of the inner layer and the story layer are a short reflection." }
+}

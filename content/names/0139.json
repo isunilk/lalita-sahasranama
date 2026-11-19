@@ -1,0 +1,43 @@
+{
+  "number": 139,
+  "verse": 44,
+  "slug": "nir-guna",
+  "devanagari": "निर्गुणा",
+  "iastSplit": "Nir-guṇā",
+  "archana": "ॐ निर्गुणायै नमः",
+  "syllables": ["nir", "gu", "ṇā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free from", "hi": "रहित, बिना" } },
+    { "sa": "गुण", "meaning": { "en": "quality, attribute; the three strands of nature", "hi": "गुण; प्रकृति के तीन गुण" } }
+  ],
+  "meaning": {
+    "en": "Beyond all qualities",
+    "hi": "सब गुणों से परे"
+  },
+  "explanation": {
+    "en": "Guṇa means a quality or attribute, and also the three strands of nature: sattva, rajas and tamas. She is beyond them all; no quality can bind her or describe her fully.",
+    "hi": "‘गुण’ का अर्थ है विशेषता या लक्षण, और प्रकृति के तीन गुण भी: सत्त्व, रज और तम। वे इन सबसे परे हैं; कोई भी गुण न उन्हें बाँध सकता है, न पूरी तरह बता सकता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says she is empty of qualities, and quotes the Upaniṣad: “the witness, pure awareness, alone and without qualities.” Qualities belong to the body, not to consciousness. With this name he answers the logicians (Naiyāyikas), who hold that the self has qualities.",
+    "hi": "भास्करराय कहते हैं कि वे गुणों से शून्य हैं, और उपनिषद् का वचन देते हैं: ‘वह साक्षी है, चेतन है, केवल है और निर्गुण है।’ गुण शरीर के धर्म हैं, चेतना के नहीं। इस नाम से वे तार्किकों (नैयायिकों) का उत्तर देते हैं, जो आत्मा को गुणों वाला मानते हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya quotes the Matsya and Padma Purāṇas, where Nārada explains to Himavān why he had said that the Devī, his daughter, was without lakṣaṇas, bodily marks: a mark is a quality that rests on a body, and this Devī is nirguṇā, beyond the reach of marks.",
+    "hi": "भास्करराय मत्स्य और पद्म पुराण का प्रसंग उद्धृत करते हैं, जहाँ नारद हिमवान को समझाते हैं कि उन्होंने उनकी पुत्री देवी को ‘लक्षणों से रहित’ क्यों कहा था: लक्षण तो शरीर पर टिका हुआ गुण है, और यह देवी निर्गुणा हैं, लक्षणों की पहुँच से परे।"
+  },
+  "commentary": {
+    "sanskrit": "गुणानां शरीरधर्मत्वेन चिद्धर्मत्वाभावाच्च ।",
+    "translation": {
+      "en": "And because qualities are properties of the body, not properties of consciousness.",
+      "hi": "और इसलिए भी कि गुण शरीर के धर्म हैं, चेतना के धर्म नहीं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 139 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The quoted sentence is his second reason; the first is simply ‘void of qualities’. That the logicians hold the self to have qualities is the drafter’s gloss on तार्किकमतं निरस्यति. The Purāṇa verse he quotes ends नैव लक्षयितुं क्षम, apparently for क्षमा; it is not quoted here." }
+}

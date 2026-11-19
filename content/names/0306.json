@@ -1,0 +1,42 @@
+{
+  "number": 306,
+  "verse": 71,
+  "slug": "rajni",
+  "devanagari": "राज्ञी",
+  "iastSplit": "Rājñī",
+  "archana": "ॐ राज्ञ्यै नमः",
+  "syllables": ["rāj", "ñī"],
+  "words": [
+    { "sa": "राज्ञी", "meaning": { "en": "queen, consort of a king", "hi": "रानी, महारानी" } }
+  ],
+  "meaning": {
+    "en": "The Queen, consort of the King of kings",
+    "hi": "रानी, राजराजेश्वर की पटरानी"
+  },
+  "explanation": {
+    "en": "Rājñī means queen. Bhāskararāya says she is queen because she is the anointed chief consort of Rājarājeśvara, the Lord who is sovereign over all kings. The name follows straight on “worshipped by the king of kings”: the one whom Kubera worships is herself the queen of the highest king.",
+    "hi": "‘राज्ञी’ का अर्थ है रानी। भास्करराय कहते हैं कि वे रानी इसलिए हैं कि वे राजराजेश्वर की, अर्थात् सब राजाओं के अधिपति प्रभु की, अभिषिक्त पटरानी हैं। यह नाम ‘राजराज द्वारा पूजित’ के तुरन्त बाद आता है: जिनकी पूजा कुबेर करते हैं, वे स्वयं परम राजा की महारानी हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only this sense. A queen shares the king’s throne and his rule; so she does not stand beneath the Lord but rules with him, as the hymn’s second name, Śrī Mahārājñī, has already declared.",
+    "hi": "भास्करराय यहाँ यही अर्थ देते हैं। रानी राजा के सिंहासन और शासन की सहभागिनी होती है; इसलिए वे प्रभु से नीचे नहीं, उनके साथ शासन करती हैं, जैसा स्तोत्र का दूसरा नाम ‘श्रीमहाराज्ञी’ पहले ही कह चुका है।"
+  },
+  "story": {
+    "en": "Later the hymn calls her Rājarājeśvarī herself (name 684), and Rājyadāyinī, giver of kingdoms (name 685).",
+    "hi": "आगे स्तोत्र उन्हें स्वयं ‘राजराजेश्वरी’ (नाम 684) और राज्य देने वाली ‘राज्यदायिनी’ (नाम 685) कहता है।"
+  },
+  "commentary": {
+    "sanskrit": "राजराजेश्वरस्य पट्टमहिषीत्वाद्राज्ञी ।",
+    "translation": {
+      "en": "She is Rājñī, queen, because she is the anointed chief consort of Rājarājeśvara.",
+      "hi": "राजराजेश्वर की पटरानी होने के कारण वे राज्ञी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 306 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Archana corrected: the web list has राज्ञै; the dative of राज्ञी is राज्ञ्यै. The inner layer is a reflection beyond his plain gloss." }
+}

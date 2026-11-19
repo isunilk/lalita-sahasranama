@@ -1,0 +1,43 @@
+{
+  "number": 167,
+  "verse": 47,
+  "slug": "papa-nashini",
+  "devanagari": "पापनाशिनी",
+  "iastSplit": "Pāpa-nāśinī",
+  "archana": "ॐ पापनाशिन्यै नमः",
+  "syllables": ["pā", "pa", "nā", "śi", "nī"],
+  "words": [
+    { "sa": "पाप", "meaning": { "en": "sin, wrongdoing", "hi": "पाप" } },
+    { "sa": "नाशिनी", "meaning": { "en": "she who destroys", "hi": "नाश करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Destroyer of the sins of her devotees",
+    "hi": "भक्तों के पापों का नाश करने वाली"
+  },
+  "explanation": {
+    "en": "She destroys the sins of those who turn to her. However heavy the burden, it is lifted in her presence.",
+    "hi": "जो उनकी ओर मुड़ते हैं, वे उनके पापों का नाश करती हैं। भार कितना भी भारी हो, उनके सान्निध्य में उतर जाता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says she destroys the sins of her devotees through the japa and other practice of her own vidyā, her mantra. He quotes the Upaniṣad: as a tuft of reed-down laid on a fire is burnt up, so are all one’s sins. The Vasiṣṭha Smṛti adds that sins do not stay with those who recite, offer into the fire, meditate, or live at holy places.",
+    "hi": "भास्करराय कहते हैं कि वे अपनी विद्या, अर्थात् अपने मन्त्र, के जप आदि के द्वारा भक्तों के पापों का नाश करती हैं। वे उपनिषद् का वचन देते हैं: जैसे अग्नि में डाली गई सींक की रुई जल जाती है, वैसे ही उसके सारे पाप भस्म हो जाते हैं। वसिष्ठ स्मृति जोड़ती है कि जप, होम और ध्यान करने वालों तथा तीर्थ में वास करने वालों के साथ पाप नहीं टिकते।"
+  },
+  "story": {
+    "en": "He also quotes the Brahmāṇḍa Purāṇa, the Purāṇa in which this hymn itself is found: even for people outside every caste and stage of life, the most sinful, mere meditation on her form turns misdeeds into merit.",
+    "hi": "वे ब्रह्माण्ड पुराण का भी वचन देते हैं, जिस पुराण में यह स्तोत्र स्वयं आता है: वर्ण और आश्रम से बाहर के, अत्यन्त पापी मनुष्यों के लिए भी, उनके रूप के ध्यान मात्र से दुष्कृत सुकृत बन जाता है।"
+  },
+  "commentary": {
+    "sanskrit": "पापं नाशयति स्वीयविद्याया जपादिना भक्तानामिति तथा ।",
+    "translation": {
+      "en": "She destroys the sin of her devotees through the japa and other practice of her own vidyā; hence so named.",
+      "hi": "वे अपनी विद्या के जप आदि से भक्तों के पाप का नाश करती हैं, इसलिए पापनाशिनी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 167 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Upaniṣad simile is from the Chāndogya (5.24.3). The edition announces a quotation from the Padma Purāṇa (पाद्मे पुष्करखण्डे) but prints no verse after it." }
+}

@@ -1,0 +1,44 @@
+{
+  "number": 480,
+  "verse": 99,
+  "slug": "payasanna-priya",
+  "devanagari": "पायसान्नप्रिया",
+  "iastSplit": "Pāyasānna-priyā",
+  "archana": "ॐ पायसान्नप्रियायै नमः",
+  "syllables": ["pā", "ya", "sān", "nap", "ri", "yā"],
+  "words": [
+    { "sa": "पायस", "meaning": { "en": "pāyasa, rice cooked in milk", "hi": "पायस, खीर" } },
+    { "sa": "अन्न", "meaning": { "en": "food; cooked rice", "hi": "अन्न, भोजन" } },
+    { "sa": "प्रिय", "meaning": { "en": "dear, beloved", "hi": "प्रिय" } }
+  ],
+  "meaning": {
+    "en": "Fond of pāyasa, rice cooked in milk",
+    "hi": "जिन्हें पायस, अर्थात् दूध में पकी खीर, प्रिय है"
+  },
+  "explanation": {
+    "en": "Pāyasa is rice cooked in milk, a dish commonly offered in worship. Bhāskararāya calls it paramānna, the finest of foods, and says that this food is dear to her. The name belongs to the group that describes Ḍākinī, the yoginī of the throat lotus.",
+    "hi": "पायस दूध में पकाया गया चावल है, जो पूजा में प्रायः नैवेद्य के रूप में अर्पित होता है। भास्करराय इसे परमान्न, अर्थात् अन्नों में श्रेष्ठ, कहते हैं और बताते हैं कि यही अन्न उन्हें प्रिय है। यह नाम कण्ठ-कमल की योगिनी डाकिनी का वर्णन करने वाले नामों में आता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the plain sense: pāyasa is made from milk, and as paramānna it is dear to her. He gives no hidden meaning here. Across these names each yoginī of the cakras is given a favourite food, and the first, Ḍākinī, is pleased by milk-rice, the simplest of offerings.",
+    "hi": "भास्करराय केवल सीधा अर्थ बताते हैं: पायस दूध से बनता है, और परमान्न होने के कारण उन्हें प्रिय है। यहाँ वे कोई गूढ़ अर्थ नहीं देते। इन नामों में चक्रों की हर योगिनी के साथ उसका प्रिय अन्न बताया गया है, और पहली योगिनी डाकिनी सबसे सरल नैवेद्य, खीर, से प्रसन्न होती हैं।"
+  },
+  "story": {
+    "en": "From name 475 to name 534 the hymn praises the Goddess as the seven yoginīs who preside over the seven cakras, beginning with Ḍākinī at the throat; Bhāskararāya says the names follow the order of the yoginī-nyāsa. The meditation verse he quotes for Ḍākinī describes her as devoted to pāyasa alone.",
+    "hi": "नाम 475 से 534 तक स्तोत्र देवी की स्तुति उन सात योगिनियों के रूप में करता है जो सात चक्रों की अधिष्ठात्री हैं, कण्ठ की डाकिनी से आरम्भ करके; भास्करराय बताते हैं कि ये नाम योगिनी-न्यास के क्रम में हैं। डाकिनी के लिए वे जो ध्यान-श्लोक उद्धृत करते हैं, उसमें उन्हें केवल पायस में रुचि रखने वाली कहा गया है।"
+  },
+  "commentary": {
+    "sanskrit": "पयोविकारः पायसश्च तदन्नं च तत्परमान्नं प्रियं यस्याः ।",
+    "translation": {
+      "en": "Pāyasa is a preparation of milk; that food, the paramānna or finest of foods, is dear to her.",
+      "hi": "पायस दूध से बना पदार्थ है; वह अन्न, अर्थात् परमान्न, उन्हें प्रिय है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 480 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the closing sentence of the inner layer is a reflection. He introduces the yoginī names as sixty-two in his reading; in the master text they run from 475 to 534 (he reads हंसवती and मुख्यशक्तिसमन्विता as two names; the rest of the difference was not traced), so the story gives the range without his count." }
+}

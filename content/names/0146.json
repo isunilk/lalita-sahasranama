@@ -1,0 +1,43 @@
+{
+  "number": 146,
+  "verse": 45,
+  "slug": "nish-prapancha",
+  "devanagari": "निष्प्रपञ्चा",
+  "iastSplit": "Niṣ-prapañcā",
+  "archana": "ॐ निष्प्रपञ्चायै नमः",
+  "syllables": ["niṣ", "pra", "pañ", "cā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free from", "hi": "रहित, बिना" } },
+    { "sa": "प्रपञ्च", "meaning": { "en": "the spread-out world; expansion, diversity", "hi": "प्रपंच, जगत् का विस्तार" } }
+  ],
+  "meaning": {
+    "en": "Beyond the spread of the manifest world",
+    "hi": "जगत् के प्रपंच से परे"
+  },
+  "explanation": {
+    "en": "Prapañca is the world as it spreads out into many things: earth, water and the rest, heaped up and stretched out. She is beyond all this expansion, untouched by its multiplicity.",
+    "hi": "‘प्रपंच’ है अनेक वस्तुओं में फैला हुआ जगत्: पृथ्वी, जल आदि का संचय और विस्तार। वे इस सारे विस्तार से परे हैं, उसकी अनेकता से अछूती।"
+  },
+  "inner": {
+    "en": "Bhāskararāya explains prapañca as the gathering, spreading and expansion of earth and the other elements, citing the Viśva lexicon, which also gives the sense ‘deception’. He quotes the Māṇḍūkya Upaniṣad, which calls the Fourth, beyond waking, dream and deep sleep, “the stilling of the world, auspicious, non-dual.” The name also refutes the Cārvāka view that consciousness rests on the body.",
+    "hi": "भास्करराय ‘प्रपंच’ का अर्थ पृथ्वी आदि तत्त्वों का संचय, प्रसार और विस्तार बताते हैं, और विश्वकोश का प्रमाण देते हैं, जिसमें इसका एक अर्थ ‘छल’ भी है। वे माण्डूक्य उपनिषद् का वचन देते हैं, जो जाग्रत, स्वप्न और सुषुप्ति से परे ‘चतुर्थ’ को ‘प्रपंच का उपशम, शिव, अद्वैत’ कहता है। यह नाम चार्वाकों के इस मत का भी खण्डन करता है कि चेतना शरीर पर आश्रित है।"
+  },
+  "story": {
+    "en": "In Vedānta prapañca is the common word for the visible world of names and forms. The Māṇḍūkya’s Fourth, which Bhāskararāya cites here, is where all of it comes to rest.",
+    "hi": "वेदान्त में ‘प्रपंच’ नाम-रूप वाले दृश्य जगत् के लिए सामान्य शब्द है। माण्डूक्य का ‘चतुर्थ’, जिसे भास्करराय यहाँ उद्धृत करते हैं, वह अवस्था है जहाँ यह सब शान्त हो जाता है।"
+  },
+  "commentary": {
+    "sanskrit": "निर्गताः प्रपञ्चाः क्षित्यादिसञ्चयप्रसारणविस्तारा यस्याः सा निष्प्रपञ्चा ।",
+    "translation": {
+      "en": "She from whom the prapañcas, the gathering, spreading and expansion of earth and the other elements, have gone is Niṣprapañcā.",
+      "hi": "जिनसे प्रपंच, अर्थात् पृथ्वी आदि का संचय, प्रसार और विस्तार, दूर है, वे निष्प्रपञ्चा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 146 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude." }
+}

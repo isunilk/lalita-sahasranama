@@ -1,0 +1,43 @@
+{
+  "number": 317,
+  "verse": 72,
+  "slug": "raksha-kari",
+  "devanagari": "रक्षाकरी",
+  "iastSplit": "Rakṣā-karī",
+  "archana": "ॐ रक्षाकर्यै नमः",
+  "syllables": ["rak", "ṣā", "ka", "rī"],
+  "words": [
+    { "sa": "रक्षा", "meaning": { "en": "protection; also sacred ash", "hi": "रक्षा; भस्म भी" } },
+    { "sa": "करी", "meaning": { "en": "maker, she who does", "hi": "करने वाली" } }
+  ],
+  "meaning": {
+    "en": "The protector, maker of protection and of sacred ash",
+    "hi": "रक्षा करने वाली, रक्षा और भस्म की कर्त्री"
+  },
+  "explanation": {
+    "en": "Rakṣā means protection, and she is the one who protects. Bhāskararāya notes that rakṣā also means bhasma, sacred ash, and so he finds two of her cosmic acts in the name: protecting is preservation (sthiti), and turning all to ash is dissolution (saṃhāra).",
+    "hi": "‘रक्षा’ का अर्थ है रक्षण, और वे रक्षा करने वाली हैं। भास्करराय बताते हैं कि ‘रक्षा’ का अर्थ भस्म भी है, इसलिए वे इस नाम में उनके दो कार्य देखते हैं: रक्षा करना स्थिति (पालन) है, और सबको भस्म कर देना संहार।"
+  },
+  "inner": {
+    "en": "The two senses are not opposed. The hand that keeps the world also gathers it back into ash, and both are her care for it. To the devotee, even dissolution in her hands is a kind of protection.",
+    "hi": "ये दोनों अर्थ एक-दूसरे के विरोधी नहीं। जो हाथ जगत् को सँभालता है, वही उसे भस्म में समेट भी लेता है, और दोनों उसी की देखभाल हैं। भक्त के लिए उनके हाथों में लय भी रक्षा का ही एक रूप है।"
+  },
+  "story": {
+    "en": "Sacred ash is worn by Śiva and his devotees as the mark of what remains when everything else is burnt away. In the Lalitopākhyāna her protection of the gods takes the form of war: she rises from their sacrifice to destroy Bhaṇḍāsura.",
+    "hi": "भस्म शिव और उनके भक्तों का चिह्न है, उस तत्त्व का जो सब कुछ जल जाने के बाद शेष रहता है। ललितोपाख्यान में देवताओं की उनकी रक्षा युद्ध का रूप लेती है: वे उनके यज्ञ से प्रकट होकर भण्डासुर का नाश करती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "रक्षा रक्षणं भस्म वा तत्कर्तृत्वाद्रक्षाकरी स्थितिसंहारकर्त्री ।",
+    "translation": {
+      "en": "Rakṣā is protection, or ash; because she makes it, she is Rakṣākarī, the one who carries out preservation and dissolution.",
+      "hi": "रक्षा का अर्थ है रक्षण, अथवा भस्म; उसे करने के कारण वे रक्षाकरी हैं, अर्थात् स्थिति और संहार की कर्त्री।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 317 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The inner layer is a reflection on his double reading (protection = sthiti, ash = saṃhāra)." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 174,
+  "verse": 48,
+  "slug": "nir-bhava",
+  "devanagari": "निर्भवा",
+  "iastSplit": "Nir-bhavā",
+  "archana": "ॐ निर्भवायै नमः",
+  "syllables": ["nir", "bha", "vā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free from", "hi": "रहित, बिना" } },
+    { "sa": "भव", "meaning": { "en": "birth, coming into being; worldly existence", "hi": "भव, उत्पत्ति, संसार" } }
+  ],
+  "meaning": {
+    "en": "Unborn, beyond all coming into being",
+    "hi": "अजन्मा, उत्पत्ति से परे"
+  },
+  "explanation": {
+    "en": "Bhava means coming into being, birth, and so the whole round of worldly existence. She has no origin: she was never born and is not caught in the cycle of becoming.",
+    "hi": "‘भव’ का अर्थ है उत्पन्न होना, जन्म, और इसलिए जन्म-मरण का सारा संसार। उनकी कोई उत्पत्ति नहीं: वे कभी जन्मी नहीं, और भव के चक्र में बँधी नहीं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says she is Nirbhavā because she has no origin, and cites the words “the supreme Brahman, without beginning.” What has no beginning has no birth to undergo, and so is not bound to the round of becoming that the next name says she destroys.",
+    "hi": "भास्करराय कहते हैं कि उत्पत्ति न होने के कारण वे निर्भवा हैं, और यह वचन देते हैं: ‘अनादि परम ब्रह्म।’ जिसका आरम्भ नहीं, उसका जन्म भी नहीं, और वह भव के उस चक्र से नहीं बँधता जिसका नाश करने वाली उन्हें अगला नाम कहता है।"
+  },
+  "story": {
+    "en": "The hymn earlier tells how she rose from the fire-altar of the gods (name 4). Read with Bhāskararāya’s gloss, this name speaks of her own nature, which has no origin. Bhava is also a name of Śiva, but here the word means becoming.",
+    "hi": "स्तोत्र पहले बताता है कि वे देवताओं के यज्ञ-कुण्ड से प्रकट हुईं (नाम 4)। भास्करराय की व्याख्या के साथ पढ़ने पर यह नाम उनके अपने स्वरूप की बात करता है, जिसकी कोई उत्पत्ति नहीं। ‘भव’ शिव का भी नाम है, पर यहाँ इसका अर्थ है उत्पत्ति या संसार।"
+  },
+  "commentary": {
+    "sanskrit": "उत्पत्तिराहित्यान्निर्भवा ।",
+    "translation": {
+      "en": "Because she has no origin, she is Nirbhavā.",
+      "hi": "उत्पत्ति से रहित होने के कारण वे निर्भवा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 174 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya calls ‘anādimat paraṃ brahma’ a śruti; the words are found in the Bhagavad Gītā (13.12 in common numbering). The second sentence of the inner layer is a reflection." }
+}

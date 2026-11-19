@@ -1,0 +1,44 @@
+{
+  "number": 304,
+  "verse": 70,
+  "slug": "heyopadeya-varjita",
+  "devanagari": "हेयोपादेयवर्जिता",
+  "iastSplit": "Heyopādeya-varjitā",
+  "archana": "ॐ हेयोपादेयवर्जितायै नमः",
+  "syllables": ["he", "yo", "pā", "de", "ya", "var", "ji", "tā"],
+  "words": [
+    { "sa": "हेय", "meaning": { "en": "what is to be given up", "hi": "त्याज्य, छोड़ने योग्य" } },
+    { "sa": "उपादेय", "meaning": { "en": "what is to be taken up", "hi": "ग्राह्य, अपनाने योग्य" } },
+    { "sa": "वर्जिता", "meaning": { "en": "free of, beyond", "hi": "रहित" } }
+  ],
+  "meaning": {
+    "en": "Beyond what is to be rejected or accepted",
+    "hi": "त्याज्य और ग्राह्य, दोनों से परे"
+  },
+  "explanation": {
+    "en": "Heya is what one should give up, and upādeya what one should take up. Our lives are a constant sorting of the two, but she is beyond both: in her nothing needs to be dropped and nothing needs to be gained.",
+    "hi": "‘हेय’ वह है जिसे छोड़ना चाहिए, और ‘उपादेय’ वह जिसे अपनाना चाहिए। हमारा जीवन इन दोनों को अलग करने में ही बीतता है, पर वे दोनों से परे हैं: उनमें न कुछ छोड़ने योग्य है, न कुछ पाने योग्य।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives the reason: scriptures that tell us to engage in some acts and withdraw from others are addressed to those still in ignorance. Rules of do and do-not belong to the seeker’s path; they do not touch the one who is already whole.",
+    "hi": "भास्करराय इसका कारण बताते हैं: जो शास्त्र कुछ कर्मों में प्रवृत्ति और कुछ से निवृत्ति सिखाते हैं, वे अविद्या में स्थित लोगों के लिए हैं। ‘करो’ और ‘मत करो’ के नियम साधक के मार्ग के हैं; जो पहले से पूर्ण है, उसे वे स्पर्श नहीं करते।"
+  },
+  "story": {
+    "en": "With this name verse 70 closes. Coming soon after Nāmarūpavivarjitā (300), it adds a second “free of”: she is beyond name and form, and beyond choosing and refusing.",
+    "hi": "इस नाम के साथ श्लोक 70 पूर्ण होता है। ‘नामरूपविवर्जिता’ (300) के कुछ ही बाद आकर यह एक और ‘वर्जिता’ जोड़ता है: वे नाम-रूप से भी परे हैं, और ग्रहण-त्याग से भी।"
+  },
+  "commentary": {
+    "sanskrit": "हातुमुपादातुञ्च योग्ये हेयोपादेये ताभ्यां वर्जिता । प्रवृत्तिनिवृत्तिबोधकशास्त्राणामविद्यावद्विषयत्वात् ।",
+    "translation": {
+      "en": "Heya and upādeya are what is fit to be given up and to be taken up; she is free of both, because the scriptures that teach engagement and withdrawal concern only those who are in ignorance.",
+      "hi": "हेय और उपादेय वे हैं जो छोड़ने और ग्रहण करने योग्य हैं; वे इन दोनों से रहित हैं, क्योंकि प्रवृत्ति और निवृत्ति का उपदेश देने वाले शास्त्र अविद्या से युक्त लोगों के लिए ही हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 304 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition prints the name in its verse line as हेयोपादेववर्जिता, a misprint; his comment reads हेयोपादेये. The second sentence of the inner layer restates his reason in plain words." }
+}

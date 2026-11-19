@@ -1,0 +1,43 @@
+{
+  "number": 486,
+  "verse": 100,
+  "slug": "shyamabha",
+  "devanagari": "श्यामाभा",
+  "iastSplit": "Śyāmābhā",
+  "archana": "ॐ श्यामाभायै नमः",
+  "syllables": ["śyā", "mā", "bhā"],
+  "words": [
+    { "sa": "श्यामा", "meaning": { "en": "dark; also a young woman of sixteen", "hi": "श्यामा: साँवली; सोलह वर्ष की युवती भी" } },
+    { "sa": "आभा", "meaning": { "en": "lustre; likeness", "hi": "आभा, कान्ति; समानता" } }
+  ],
+  "meaning": {
+    "en": "Dark-hued; or, like a maiden of sixteen",
+    "hi": "श्याम कान्ति वाली, या सोलह वर्ष की युवती के समान"
+  },
+  "explanation": {
+    "en": "Bhāskararāya gives two readings. Śyāmā can mean a young woman of sixteen, and ābhā ‘resembling’, so she looks like a maiden of sixteen. Or ābhā is her lustre, and that lustre is dark (śyāma), as the meditation verse describes Rākiṇī.",
+    "hi": "भास्करराय दो अर्थ देते हैं। ‘श्यामा’ सोलह वर्ष की युवती को भी कहते हैं और ‘आभा’ का अर्थ समानता है, इसलिए वे सोलह वर्ष की युवती के समान हैं। या ‘आभा’ उनकी कान्ति है, और वह कान्ति श्याम है, जैसा ध्यान-श्लोक में राकिणी का वर्णन है।"
+  },
+  "inner": {
+    "en": "Both readings are literal, and he gives no hidden meaning. The first sees her as ever young; the second keeps to the dark colour that the meditation verse gives to the yoginī of the heart.",
+    "hi": "दोनों अर्थ शाब्दिक हैं, और वे कोई गूढ़ अर्थ नहीं देते। पहला अर्थ उन्हें सदा तरुणी के रूप में देखता है; दूसरा उस श्याम वर्ण को बनाए रखता है जो ध्यान-श्लोक हृदय की योगिनी को देता है।"
+  },
+  "story": {
+    "en": "The colours of the yoginīs differ from centre to centre: Ḍākinī at the throat is rose-red, Rākiṇī at the heart dark, Lākinī at the navel red and Kākinī at the svādhiṣṭhāna yellow. This name gives Rākiṇī’s colour.",
+    "hi": "योगिनियों के वर्ण हर चक्र में अलग हैं: कण्ठ की डाकिनी हल्की लाल (पाटल), हृदय की राकिणी श्याम, नाभि की लाकिनी रक्त वर्ण की और स्वाधिष्ठान की काकिनी पीत वर्ण की। यह नाम राकिणी का वर्ण बताता है।"
+  },
+  "commentary": {
+    "sanskrit": "श्यामा षोडशवार्षिकी तया तुल्या श्यामाभा । श्यामा आभा कान्तिर्यस्या इति वा ।",
+    "translation": {
+      "en": "Śyāmā is a girl of sixteen; she who resembles her is śyāmābhā. Or: she whose ābhā, lustre, is śyāma, dark.",
+      "hi": "श्यामा सोलह वर्ष की युवती है; उसके समान होने से वे श्यामाभा हैं। अथवा, जिनकी आभा अर्थात् कान्ति श्याम है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 486 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Both readings are Bhāskararāya’s; the second sentence of the inner layer is a short reflection. Ḍākinī’s rose-red follows his reading of आरक्तवर्णा (name 476) as पाटल." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 383,
+  "verse": 84,
+  "slug": "sadya-prasadini",
+  "devanagari": "सद्यःप्रसादिनी",
+  "iastSplit": "Sadyaḥ-prasādinī",
+  "archana": "ॐ सद्यःप्रसादिन्यै नमः",
+  "syllables": ["sad", "yaḥ", "pra", "sā", "di", "nī"],
+  "words": [
+    { "sa": "सद्यस्", "meaning": { "en": "at once, instantly", "hi": "तुरन्त, उसी क्षण" } },
+    { "sa": "प्रसादिनी", "meaning": { "en": "gracious; pleased and granting grace", "hi": "प्रसन्न होने वाली, कृपा करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who is pleased at once and grants her grace",
+    "hi": "जो तुरन्त प्रसन्न होकर कृपा करती हैं"
+  },
+  "explanation": {
+    "en": "Sadyaḥ means at once, and prasāda is grace and gladness. She does not make her devotee wait: she is pleased in that very moment.",
+    "hi": "‘सद्यः’ का अर्थ है तुरन्त, और ‘प्रसाद’ का अर्थ है कृपा और प्रसन्नता। वे अपने भक्त को प्रतीक्षा नहीं करातीं: उसी क्षण प्रसन्न हो जाती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya ties the name to the two before it: by such secret sacrifice and tarpaṇa she is pleased immediately, at that very time. He gives no further hidden meaning. Her grace does not wait for a reward in some later life; where the offering is inward and true, she answers at once.",
+    "hi": "भास्करराय इस नाम को पिछले दो नामों से जोड़ते हैं: ऐसे गुप्त यज्ञ और तर्पण से वे तत्काल, उसी समय प्रसन्न होती हैं। वे इससे आगे कोई गूढ़ अर्थ नहीं देते। उनकी कृपा किसी अगले जन्म के फल की प्रतीक्षा नहीं करती; जहाँ अर्पण भीतर से और सच्चा हो, वहाँ वे तुरन्त उत्तर देती हैं।"
+  },
+  "story": {
+    "en": "Names 381 to 383 form a sequence: the secret sacrifice, the secret tarpaṇa, and her immediate grace.",
+    "hi": "नाम 381 से 383 एक क्रम बनाते हैं: गुप्त यज्ञ, गुप्त तर्पण, और उनकी तत्काल कृपा।"
+  },
+  "commentary": {
+    "sanskrit": "तादृशयागतर्पणाभ्यां सद्यस्तदात्व एव प्रसीदतीति तथा ।",
+    "translation": {
+      "en": "By such sacrifice and tarpaṇa she is pleased sadyaḥ, at once, at that very time: hence the name.",
+      "hi": "ऐसे याग और तर्पण से वे सद्यः, अर्थात् उसी समय, प्रसन्न होती हैं; इसलिए यह नाम है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 383 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense, linked to names 381–382; the last sentence of the inner layer is a reflection. The slug drops the visarga (sadya-prasadini) per the slug convention." }
+}

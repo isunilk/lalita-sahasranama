@@ -1,0 +1,67 @@
+{
+  "number": 629,
+  "verse": 125,
+  "slug": "tridasheshvari",
+  "devanagari": "त्रिदशेश्वरी",
+  "iastSplit": "Tridaśeśvarī",
+  "archana": "ॐ त्रिदशेश्वर्यै नमः",
+  "syllables": [
+    "tri",
+    "da",
+    "śeś",
+    "va",
+    "rī"
+  ],
+  "words": [
+    {
+      "sa": "त्रिदश",
+      "meaning": {
+        "en": "the gods (literally ‘the thirty’)",
+        "hi": "त्रिदश, देवता"
+      }
+    },
+    {
+      "sa": "ईश्वरी",
+      "meaning": {
+        "en": "sovereign",
+        "hi": "ईश्वरी, स्वामिनी"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Sovereign of the Tridaśas, the gods of heaven",
+    "hi": "त्रिदशों, अर्थात् देवताओं, की ईश्वरी"
+  },
+  "explanation": {
+    "en": "Tridaśa, “the thirty”, is a common name for the gods, a round number for the thirty-three gods of the Veda. Īśvarī is sovereign; she rules them all.",
+    "hi": "‘त्रिदश’, अर्थात् ‘तीस’, देवताओं का सामान्य नाम है, जो वेद के तैंतीस देवताओं की पूर्णांक संख्या है। ‘ईश्वरी’ का अर्थ है स्वामिनी; वे उन सब पर शासन करती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya draws several senses from tridaśa: the gods; those who have three states; thirteen, that is, the Viśvedevas; or thirty, standing for the thirty-three groups of gods. Whichever is meant, she is their ruler. He gives no further hidden meaning.",
+    "hi": "भास्करराय ‘त्रिदश’ से कई अर्थ निकालते हैं: देवता; तीन अवस्थाओं वाले; तेरह, अर्थात् विश्वेदेव; या तीस, जो लक्षणा से तैंतीस देवगणों का सूचक है। जो भी अर्थ लें, वे उनकी स्वामिनी हैं। वे इससे आगे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "The Vedic count of thirty-three gods is eight Vasus, eleven Rudras, twelve Ādityas and two more, often given as Indra and Prajāpati. With this name the line of four names on “three” ends.",
+    "hi": "वेद के तैंतीस देवता हैं: आठ वसु, ग्यारह रुद्र, बारह आदित्य और दो अन्य, जिन्हें प्रायः इन्द्र और प्रजापति बताया जाता है। इस नाम के साथ ‘त्रि’ वाले चार नामों की पंक्ति पूरी होती है।"
+  },
+  "commentary": {
+    "sanskrit": "त्रिदशानां देवानां तिसृणां वा दशानामवस्थानां त्रियुक्तदशानां त्रयोदशानां विश्वेषां देवानां वा त्रिगुणितदशानां त्रिंशता लक्षणया त्रयस्त्रिंशद्गणानां चेश्वरी स्वामिनी ।",
+    "translation": {
+      "en": "Īśvarī, the mistress, of the tridaśas, the gods; or of those with three daśās, states; or of the thirteen, ten joined with three, the Viśvedevas; or of three times ten, thirty, which by implication means the thirty-three groups of gods.",
+      "hi": "त्रिदशों अर्थात् देवताओं की; अथवा तीन दशाओं, अर्थात् अवस्थाओं, वालों की; अथवा तीन से युक्त दस, अर्थात् तेरह, विश्वेदेवों की; अथवा तीन गुणा दस, अर्थात् तीस, जो लक्षणा से तैंतीस देवगणों का सूचक है, उनकी ईश्वरी, अर्थात् स्वामिनी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 629 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The list of the thirty-three gods in the story layer is general Vedic context, not from Bhāskararāya. His ‘तिसृणां वा दशानामवस्थानां’ is rendered ‘those who have three states’; check."
+  }
+}

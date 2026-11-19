@@ -1,0 +1,44 @@
+{
+  "number": 399,
+  "verse": 86,
+  "slug": "vyaktavyakta-svarupini",
+  "devanagari": "व्यक्ताव्यक्तस्वरूपिणी",
+  "iastSplit": "Vyaktāvyakta-svarūpiṇī",
+  "archana": "ॐ व्यक्ताव्यक्तस्वरूपिण्यै नमः",
+  "syllables": ["vyak", "tāv", "yak", "tas", "va", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "व्यक्त", "meaning": { "en": "manifest", "hi": "व्यक्त, प्रकट" } },
+    { "sa": "अव्यक्त", "meaning": { "en": "unmanifest", "hi": "अव्यक्त, अप्रकट" } },
+    { "sa": "स्वरूपिणी", "meaning": { "en": "having as her own form", "hi": "स्वरूप वाली" } }
+  ],
+  "meaning": {
+    "en": "Whose nature is both the manifest and the unmanifest",
+    "hi": "व्यक्त और अव्यक्त, दोनों जिनका स्वरूप हैं"
+  },
+  "explanation": {
+    "en": "She is both what is manifest, the visible world, and what is unmanifest, its hidden source. Nothing, seen or unseen, lies outside her.",
+    "hi": "वे व्यक्त, अर्थात् दिखने वाला जगत, भी हैं और अव्यक्त, अर्थात् उसका छिपा हुआ स्रोत, भी। दृश्य या अदृश्य, कुछ भी उनसे बाहर नहीं।"
+  },
+  "inner": {
+    "en": "Following the order of creation, Bhāskararāya first reads the name as vyakta, the great principle mahat, and āvyakta, the ahaṅkāra born of it: she is both. He then gives many pairs the name may mean: the perishable and the imperishable, the collective and the individual, the twenty-three principles and prakṛti, and the three kinds of liṅga. Finally he quotes the Śakti Rahasya: her all-pervading power is hidden in those still bound, and clearly manifest in those whose impurities have ripened.",
+    "hi": "सृष्टि के क्रम का अनुसरण करते हुए भास्करराय पहले इस नाम को व्यक्त, अर्थात् महत्तत्त्व, और आव्यक्त, अर्थात् उससे उत्पन्न अहंकार, के रूप में पढ़ते हैं: वे दोनों हैं। फिर वे अनेक जोड़ियाँ बताते हैं जिनका यह नाम सूचक हो सकता है: क्षर और अक्षर, समष्टि और व्यष्टि, तेईस तत्त्व और प्रकृति, तथा लिङ्ग के तीन प्रकार। अन्त में वे शक्तिरहस्य का वचन देते हैं: उनकी सर्वव्यापी शक्ति बँधे हुए जीवों में ढकी रहती है, और जिनके मल पक चुके हैं उनमें स्पष्ट प्रकट होती है।"
+  },
+  "story": {
+    "en": "The Śakti Rahasya verses explain śaktipāta, the “descent” of grace: a power that is everywhere cannot fall from above, so it is said to descend when it becomes manifest in a ripened soul. In the Brahmavaivarta passage he also cites, the svāyambhuva, bāṇa and stone liṅgas are the manifest, the unmanifest and the manifest-unmanifest, giving enjoyment, liberation, and both.",
+    "hi": "शक्तिरहस्य के ये श्लोक शक्तिपात, अर्थात् कृपा के ‘उतरने’, को समझाते हैं: जो शक्ति सर्वत्र है वह ऊपर से गिर नहीं सकती, इसलिए जब वह पके हुए जीव में प्रकट होती है, तब उसे उतरा हुआ कहा जाता है। ब्रह्मवैवर्तपुराण के जिस अंश को वे उद्धृत करते हैं, उसमें स्वायम्भुव, बाण और शैल लिङ्ग क्रम से व्यक्त, अव्यक्त और व्यक्ताव्यक्त हैं, जो भोग, मोक्ष, और दोनों देते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "व्यक्तं महत्तत्त्वं पूर्वस्मादभिव्यक्तत्वान्महत्वाच्च । आसमन्ताद्व्यक्त आव्यक्तस्तज्जन्योऽहङ्कारः तदुभयस्वरूपिणीत्येकं पदम् ।",
+    "translation": {
+      "en": "Vyakta is the principle mahat, so called because it has become manifest from what precedes it, and because of its greatness. Āvyakta, “manifest all round”, is the ahaṅkāra born of it. She whose own form is both: this is one word.",
+      "hi": "व्यक्त महत्तत्त्व है, क्योंकि वह अपने पूर्ववर्ती से अभिव्यक्त हुआ है और महान है। आसमन्तात्, अर्थात् सब ओर से, व्यक्त ‘आव्यक्त’ है, उससे उत्पन्न अहंकार। इन दोनों के स्वरूप वाली: यह एक ही पद है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 399 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s first reading divides व्यक्त + आव्यक्त (mahat and ahaṅkāra); the word meanings follow the plain reading व्यक्त + अव्यक्त, which he also gives. He treats the name as one word, as the master text does, while noting that taking व्यक्ता as a separate name (and joining two later names, ब्रह्म and जननी) would also be possible." }
+}

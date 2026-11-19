@@ -1,0 +1,66 @@
+{
+  "number": 604,
+  "verse": 121,
+  "slug": "guna-nidhi",
+  "devanagari": "गुणनिधिः",
+  "iastSplit": "Guṇa-nidhiḥ",
+  "archana": "ॐ गुणनिधये नमः",
+  "syllables": [
+    "gu",
+    "ṇa",
+    "ni",
+    "dhiḥ"
+  ],
+  "words": [
+    {
+      "sa": "गुण",
+      "meaning": {
+        "en": "quality; also array (vyūha), rope",
+        "hi": "गुण; व्यूह और रस्सी भी"
+      }
+    },
+    {
+      "sa": "निधि",
+      "meaning": {
+        "en": "treasure, store; also the number nine",
+        "hi": "निधि, भण्डार; नौ की संख्या भी"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "The treasure-house of all qualities",
+    "hi": "समस्त गुणों की निधि"
+  },
+  "explanation": {
+    "en": "Nidhi is a treasure or store. She holds every guṇa: the three qualities of nature, sattva, rajas and tamas, and every good quality besides.",
+    "hi": "‘निधि’ का अर्थ है खजाना या भण्डार। वे हर गुण की निधि हैं: प्रकृति के तीन गुण सत्त्व, रज और तम भी, और सभी सद्गुण भी।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives three readings. She is the store of the guṇas, which Sāṅkhya counts as three kinds but endless in their instances. Or guṇa means vyūha, an array, and nidhi stands for the number nine: she is made of the nine vyūhas, such as time, kula, name, knowledge, nāda and bindu. Or guṇa means a rope, as in the story below.",
+    "hi": "भास्करराय तीन अर्थ देते हैं। वे गुणों की निधि हैं; सांख्य के अनुसार गुण जाति से तीन हैं, पर व्यक्ति रूप में अनन्त। अथवा ‘गुण’ का अर्थ व्यूह है और ‘निधि’ नौ की संख्या का सूचक: वे काल, कुल, नाम, ज्ञान, नाद, बिन्दु आदि नौ व्यूहों से बनी हैं। अथवा ‘गुण’ का अर्थ रस्सी है, जैसा नीचे की कथा में है।"
+  },
+  "story": {
+    "en": "Bhāskararāya recalls a story from the Matsya and Kālikā Purāṇas. At the great deluge Manu placed all seeds and the sages in a boat, which was tied by a rope to the horn of Viṣṇu in his Fish form; the Mother presided over that rope, and it held firm. Read this way, she is the one in whom the rope is held fast.",
+    "hi": "भास्करराय मत्स्य और कालिका पुराण की एक कथा का स्मरण कराते हैं। महाप्रलय के समय मनु ने सब बीजों और ऋषियों को एक नौका में बिठाया, और वह नौका रस्सी से मत्स्यावतार भगवान विष्णु के सींग से बाँधी गई; माँ उस रस्सी की अधिष्ठात्री बनीं और वह दृढ़ रही। इस अर्थ में वे वह हैं जिनमें वह रस्सी दृढ़ता से टिकी है।"
+  },
+  "commentary": {
+    "sanskrit": "यद्वा गुणा व्यूहरूपा निधिसंख्या यस्याः । नवव्यूहात्मकत्वरूपगुणवतीति यावत् ।",
+    "translation": {
+      "en": "Or: she whose guṇas, which are vyūhas, are as many as the nidhis, that is, nine. In other words, she has the quality of being made of the nine vyūhas.",
+      "hi": "अथवा जिनके गुण, अर्थात् व्यूह, ‘निधि’ की संख्या, यानी नौ, के बराबर हैं। तात्पर्य यह कि वे नौ व्यूहों से युक्त होने के गुण वाली हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 604 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. Archana गुणनिधये kept (masculine), matching Bhāskararāya’s first reading as a tatpuruṣa, गुणानां निधिः; his bahuvrīhi readings would suit a feminine form. In his list of the nine vyūhas the edition prints कल्पाव्यूह, perhaps for कलाव्यूह; the list is given only in part."
+  }
+}

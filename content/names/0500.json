@@ -1,0 +1,43 @@
+{
+  "number": 500,
+  "verse": 103,
+  "slug": "mamsa-nishtha",
+  "devanagari": "मांसनिष्ठा",
+  "iastSplit": "Māṃsa-niṣṭhā",
+  "archana": "ॐ मांसनिष्ठायै नमः",
+  "syllables": ["māṃ", "sa", "niṣ", "ṭhā"],
+  "words": [
+    { "sa": "मांस", "meaning": { "en": "flesh", "hi": "मांस" } },
+    { "sa": "निष्ठा", "meaning": { "en": "firmly abiding", "hi": "दृढ़ता से स्थित" } }
+  ],
+  "meaning": {
+    "en": "Who abides firmly in the flesh",
+    "hi": "मांस-धातु में दृढ़ता से स्थित"
+  },
+  "explanation": {
+    "en": "Lākinī presides over the flesh, the third of the bodily tissues given to the yoginīs. Bhāskararāya reads niṣṭhā as ‘staying wholly’: she remains in the flesh as the deity of that tissue.",
+    "hi": "लाकिनी मांस की अधिष्ठात्री हैं, जो योगिनियों को दी गई धातुओं में तीसरी है। भास्करराय ‘निष्ठा’ को ‘पूरी तरह स्थित रहना’ के अर्थ में पढ़ते हैं: वे उस धातु की अधिष्ठात्री देवता के रूप में मांस में रहती हैं।"
+  },
+  "inner": {
+    "en": "He gives only the literal sense, with no hidden meaning. The skin, the blood and now the flesh: step by step these names place the Mother in every layer of the body, so that nothing in it is outside her.",
+    "hi": "वे केवल शाब्दिक अर्थ देते हैं, कोई गूढ़ अर्थ नहीं। त्वचा, रक्त और अब मांस: ये नाम क्रम से माँ को शरीर की हर परत में स्थित बताते हैं, जिससे उसमें कुछ भी उनसे बाहर नहीं रहता।"
+  },
+  "story": {
+    "en": "The meditation verse he quotes calls Lākinī māṃsadhātvekaniṣṭhā, ‘abiding in the flesh alone’. With this name Bhāskararāya closes the part of his commentary on the fifth hundred names, which he calls the sixth kalā, named Ruci.",
+    "hi": "उनके उद्धृत ध्यान-श्लोक में लाकिनी को ‘मांसधात्वेकनिष्ठा’, अर्थात् केवल मांस-धातु में स्थित, कहा गया है। इसी नाम पर भास्करराय अपने भाष्य का पाँचवें शतक वाला भाग पूरा करते हैं, जिसे वे ‘रुचि’ नाम की छठी कला कहते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "मांसे नितरां तिष्ठति तद्धात्वभिमानित्वेनेति तथा ।।",
+    "translation": {
+      "en": "She stays wholly (nitarām) in the flesh, as the deity who identifies with that tissue.",
+      "hi": "वे उस धातु की अभिमानिनी होने से मांस में पूर्णतः (नितराम्) स्थित रहती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 500 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the last sentence of the inner layer is a reflection. In the edition the colophon after this name closes the fifth śataka (the sixth kalā, Ruci)." }
+}

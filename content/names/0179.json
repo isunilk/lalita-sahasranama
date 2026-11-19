@@ -1,0 +1,43 @@
+{
+  "number": 179,
+  "verse": 49,
+  "slug": "bheda-nashini",
+  "devanagari": "भेदनाशिनी",
+  "iastSplit": "Bheda-nāśinī",
+  "archana": "ॐ भेदनाशिन्यै नमः",
+  "syllables": ["bhe", "da", "nā", "śi", "nī"],
+  "words": [
+    { "sa": "भेद", "meaning": { "en": "difference, the sense of separation", "hi": "भेद, अलगाव का भाव" } },
+    { "sa": "नाशिनी", "meaning": { "en": "she who destroys", "hi": "नाश करने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who destroys the sense of difference",
+    "hi": "भेद-बुद्धि का नाश करने वाली"
+  },
+  "explanation": {
+    "en": "Having said that she is free of difference, the hymn adds that she removes it from us. The feeling of being separate from her and from others is what she dissolves.",
+    "hi": "यह कहकर कि वे भेदरहित हैं, स्तोत्र आगे कहता है कि वे हमारे भीतर से भी भेद मिटा देती हैं। उनसे और दूसरों से अलग होने का जो भाव है, उसी को वे विलीन करती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says she destroys, through knowledge of reality, either the perception of difference or difference itself, which belongs only to everyday experience (vyavahāra). The Kūrma Purāṇa verse he quoted for the previous name calls her ‘the destroyer of all difference’. Difference is not false for daily life; it simply does not reach the highest truth.",
+    "hi": "भास्करराय कहते हैं कि वे तत्त्वज्ञान के द्वारा भेद-बुद्धि का, अथवा स्वयं उस भेद का नाश करती हैं जो केवल व्यवहार के स्तर पर है। पिछले नाम पर उद्धृत कूर्म पुराण का श्लोक उन्हें ‘सब भेदों का नाश करने वाली’ कहता है। दैनिक जीवन के लिए भेद असत्य नहीं है; बस वह परम सत्य तक नहीं पहुँचता।"
+  },
+  "story": {
+    "en": "This completes the pair begun by name 178. The same pattern runs through these verses: nīrāgā and rāgamathanī (156–157), nirmohā and mohanāśinī (162–163), nirbhavā and bhavanāśinī (174–175).",
+    "hi": "यह नाम 178 से आरम्भ हुए जोड़े को पूरा करता है। यही क्रम इन श्लोकों में चलता है: नीरागा और रागमथनी (156–157), निर्मोहा और मोहनाशिनी (162–163), निर्भवा और भवनाशिनी (174–175)।"
+  },
+  "commentary": {
+    "sanskrit": "भेदज्ञानं भेदमेव वा व्यावहारिकं तत्त्वज्ञानेन नाशयतीति तथा ।",
+    "translation": {
+      "en": "She destroys, by knowledge of reality, the perception of difference, or difference itself, which belongs to everyday experience; hence the name.",
+      "hi": "वे तत्त्वज्ञान से भेद-ज्ञान का, अथवा व्यावहारिक भेद का ही नाश करती हैं; इसलिए यह नाम है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 179 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The last sentence of the inner layer explains ‘vyāvahārika’ and is a reflection." }
+}

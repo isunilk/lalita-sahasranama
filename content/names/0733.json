@@ -1,0 +1,43 @@
+{
+  "number": 733,
+  "verse": 141,
+  "slug": "nandi-vidya",
+  "devanagari": "नन्दिविद्या",
+  "iastSplit": "Nandi-vidyā",
+  "archana": "ॐ नन्दिविद्यायै नमः",
+  "syllables": ["nan", "di", "vid", "yā"],
+  "words": [
+    { "sa": "नन्दिन्", "meaning": { "en": "Nandin (Nandikeśvara), Śiva’s chief attendant", "hi": "नन्दी (नन्दिकेश्वर), शिव के प्रमुख गण" } },
+    { "sa": "विद्या", "meaning": { "en": "sacred knowledge; a mantra of the Goddess", "hi": "विद्या; देवी का मन्त्र" } }
+  ],
+  "meaning": {
+    "en": "The sacred vidyā that Nandin worshipped",
+    "hi": "वह विद्या जिसकी उपासना नन्दी ने की"
+  },
+  "explanation": {
+    "en": "Vidyā here means a sacred mantra of the Goddess. Bhāskararāya says she is the vidyā of Nandin, that is, Nandikeśvara: the vidyā he worshipped.",
+    "hi": "यहाँ ‘विद्या’ का अर्थ है देवी का पवित्र मन्त्र। भास्करराय कहते हैं कि वे नन्दी, अर्थात् नन्दिकेश्वर, की विद्या हैं: वह विद्या जिसकी उन्होंने उपासना की।"
+  },
+  "inner": {
+    "en": "He gives no further hidden meaning. The name calls her not the giver of a mantra but the mantra itself: in this tradition the vidyā is her own form.",
+    "hi": "वे इससे आगे कोई गूढ़ अर्थ नहीं देते। यह नाम उन्हें मन्त्र देने वाली नहीं, स्वयं मन्त्र कहता है: इस परम्परा में विद्या उन्हीं का स्वरूप है।"
+  },
+  "story": {
+    "en": "Nandin, also called Nandikeśvara, is Śiva’s chief attendant and doorkeeper, often shown as the bull who carries him. Even he, the closest of Śiva’s companions, is a worshipper of her vidyā.",
+    "hi": "नन्दी, जिन्हें नन्दिकेश्वर भी कहते हैं, शिव के प्रमुख गण और द्वारपाल हैं, और प्रायः शिव के वाहन वृषभ के रूप में दिखाए जाते हैं। शिव के सबसे निकट साथी होकर भी वे उनकी विद्या के उपासक हैं।"
+  },
+  "commentary": {
+    "sanskrit": "नन्दिनो नन्दिकेश्वरस्य विद्या तदुपासितविद्या",
+    "translation": {
+      "en": "The vidyā of Nandin, Nandikeśvara: the vidyā worshipped by him.",
+      "hi": "नन्दी अर्थात् नन्दिकेश्वर की विद्या: उनके द्वारा उपासित विद्या।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 733 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the second sentence of the inner layer is a reflection. Which form of the vidyā Nandin worshipped is not stated and is not discussed on the page." }
+}

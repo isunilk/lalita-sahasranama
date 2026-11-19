@@ -1,0 +1,44 @@
+{
+  "number": 741,
+  "verse": 142,
+  "slug": "rambhadi-vandita",
+  "devanagari": "रम्भादिवन्दिता",
+  "iastSplit": "Rambhādi-vanditā",
+  "archana": "ॐ रम्भादिवन्दितायै नमः",
+  "syllables": ["ram", "bhā", "di", "van", "di", "tā"],
+  "words": [
+    { "sa": "रम्भा", "meaning": { "en": "Rambhā, a celestial dancer (apsaras)", "hi": "रम्भा, एक अप्सरा" } },
+    { "sa": "आदि", "meaning": { "en": "and the others", "hi": "आदि" } },
+    { "sa": "वन्दिता", "meaning": { "en": "saluted, adored", "hi": "वन्दित, नमस्कृत" } }
+  ],
+  "meaning": {
+    "en": "Adored by Rambhā and the other apsarases",
+    "hi": "रम्भा आदि अप्सराओं द्वारा वन्दित"
+  },
+  "explanation": {
+    "en": "Bhāskararāya says she is saluted by the apsarases, Rambhā, Urvaśī and the others. The apsarases are the dancers of Indra’s heaven, famed for their beauty.",
+    "hi": "भास्करराय के अनुसार रम्भा, उर्वशी आदि अप्सराएँ उनकी वन्दना करती हैं। अप्सराएँ इन्द्र के स्वर्ग की नर्तकियाँ हैं, जो अपने सौन्दर्य के लिए प्रसिद्ध हैं।"
+  },
+  "inner": {
+    "en": "He gives no hidden meaning here. In reflection, the most beautiful beings of heaven bow to her, for their beauty and art are only a little of hers.",
+    "hi": "यहाँ वे कोई गूढ़ अर्थ नहीं देते। चिन्तन के रूप में: स्वर्ग के सबसे सुन्दर प्राणी भी उन्हें नमन करते हैं, क्योंकि उनका सौन्दर्य और कला उन्हीं के सौन्दर्य का छोटा-सा अंश है।"
+  },
+  "story": {
+    "en": "The name closes a half-verse of dance and music: she loves the graceful dance, she makes its measure, and heaven’s own dancers bow to her.",
+    "hi": "यह नाम नृत्य और संगीत के अर्ध-श्लोक को पूरा करता है: उन्हें लास्य प्रिय है, वे उसकी लय रचती हैं, और स्वर्ग की नर्तकियाँ स्वयं उन्हें नमन करती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "रम्भोर्वश्यादिभिरप्सरोभिर्वन्दिता ।",
+    "translation": {
+      "en": "Saluted by the apsarases, Rambhā, Urvaśī and the others.",
+      "hi": "रम्भा, उर्वशी आदि अप्सराओं द्वारा वन्दित।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 741 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the inner layer is a reflection." }
+}

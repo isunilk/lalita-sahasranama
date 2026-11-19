@@ -1,0 +1,42 @@
+{
+  "number": 377,
+  "verse": 82,
+  "slug": "jaya",
+  "devanagari": "जया",
+  "iastSplit": "Jayā",
+  "archana": "ॐ जयायै नमः",
+  "syllables": ["ja", "yā"],
+  "words": [
+    { "sa": "जया", "meaning": { "en": "victorious; victory", "hi": "विजयिनी; विजय" } }
+  ],
+  "meaning": {
+    "en": "Victory itself",
+    "hi": "स्वयं विजय-स्वरूपा"
+  },
+  "explanation": {
+    "en": "Jayā means victorious. She is not only the one who wins; she is victory itself, and every victory of good is hers.",
+    "hi": "‘जया’ का अर्थ है विजयिनी। वे केवल जीतने वाली नहीं, स्वयं विजय हैं, और शुभ की हर विजय उन्हीं की है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says only that victory is her very nature, and gives no hidden meaning. For the devotee, the struggle with one’s own darkness is won not by effort alone but through her, who is victory.",
+    "hi": "भास्करराय इतना ही कहते हैं कि विजय उनका स्वरूप है; वे कोई गूढ़ अर्थ नहीं देते। साधक के लिए अपने भीतर के अन्धकार से संघर्ष केवल अपने प्रयत्न से नहीं, उन्हीं के द्वारा जीता जाता है, जो स्वयं विजय हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya notes that the Padma Purāṇa, in its list of the goddess’s sacred places, names her Jayā on the Varāha mountain. In the Lalitopākhyāna she is the victor over Bhaṇḍāsura.",
+    "hi": "भास्करराय बताते हैं कि पद्मपुराण देवी के पवित्र स्थानों की सूची में वराह पर्वत पर उन्हें ‘जया’ नाम से गिनाता है। ललितोपाख्यान में वे भण्डासुर पर विजय पाने वाली हैं।"
+  },
+  "commentary": {
+    "sanskrit": "जयस्वरूपत्वाज्जया । पाद्मे- जया वराहशैले त्विति परिगणिता ।",
+    "translation": {
+      "en": "She is Jayā because victory is her very form. In the Padma Purāṇa she is counted in the words “Jayā on the Varāha mountain”.",
+      "hi": "विजय-स्वरूप होने से वे जया हैं। पद्मपुराण में ‘वराह पर्वत पर जया’ कहकर उनकी गणना की गई है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 377 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense and the Padma Purāṇa place; the second sentence of the inner layer is a reflection." }
+}

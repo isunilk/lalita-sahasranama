@@ -1,0 +1,43 @@
+{
+  "number": 731,
+  "verse": 141,
+  "slug": "priyan-kari",
+  "devanagari": "प्रियङ्करी",
+  "iastSplit": "Priyaṅ-karī",
+  "archana": "ॐ प्रियङ्कर्यै नमः",
+  "syllables": ["pri", "yaṅ", "ka", "rī"],
+  "words": [
+    { "sa": "प्रिय", "meaning": { "en": "what is dear, pleasing", "hi": "प्रिय, मनचाहा" } },
+    { "sa": "करी", "meaning": { "en": "who does, maker", "hi": "करने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who does what is dear to her devotees",
+    "hi": "जो भक्तों का प्रिय करती हैं"
+  },
+  "explanation": {
+    "en": "Bhāskararāya’s gloss is one line: she does what is dear, and so she is Priyaṅkarī. For those who turn to her, she does what is pleasing and good.",
+    "hi": "भास्करराय का अर्थ एक पंक्ति का है: वे प्रिय करती हैं, इसलिए प्रियङ्करी हैं। जो उनकी शरण आते हैं, उनके लिए वे वही करती हैं जो सुखद और कल्याणकारी है।"
+  },
+  "inner": {
+    "en": "He gives no hidden meaning here. In reflection, what she does is dear in the deepest sense: not always what we ask for, but what is truly for our good.",
+    "hi": "यहाँ वे कोई गूढ़ अर्थ नहीं देते। चिन्तन के रूप में: वे जो करती हैं वह गहरे अर्थ में प्रिय है; सदा वह नहीं जो हम माँगते हैं, बल्कि वह जो सचमुच हमारे हित में है।"
+  },
+  "story": {
+    "en": "Following Premarūpā, she whose form is love, this name shows that love at work. Bhāskararāya treats both briefly before his long explanation of the next name.",
+    "hi": "प्रेमरूपा, अर्थात् प्रेम-स्वरूपा, के बाद यह नाम उसी प्रेम को कर्म में दिखाता है। अगले नाम की लम्बी व्याख्या से पहले भास्करराय इन दोनों को संक्षेप में समझाते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "प्रियं करोतीति प्रियङ्करी ।",
+    "translation": {
+      "en": "She does what is dear; hence Priyaṅkarī.",
+      "hi": "जो प्रिय करती हैं, वे प्रियङ्करी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 731 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the inner layer is a reflection." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 157,
+  "verse": 46,
+  "slug": "raga-mathani",
+  "devanagari": "रागमथनी",
+  "iastSplit": "Rāga-mathanī",
+  "archana": "ॐ रागमथन्यै नमः",
+  "syllables": ["rā", "ga", "ma", "tha", "nī"],
+  "words": [
+    { "sa": "राग", "meaning": { "en": "passion, attachment", "hi": "राग, आसक्ति" } },
+    { "sa": "मथनी", "meaning": { "en": "she who churns, crushes", "hi": "मथने वाली, नष्ट करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who churns away the attachments of her devotees",
+    "hi": "भक्तों की आसक्ति को मथकर मिटाने वाली"
+  },
+  "explanation": {
+    "en": "Mathana means churning or crushing. She churns attachment out of those who come to her, and gives them dispassion in its place.",
+    "hi": "‘मथन’ का अर्थ है मथना या कुचल देना। जो उनके पास आते हैं, उनकी आसक्ति को वे मथकर निकाल देती हैं, और उसके स्थान पर वैराग्य देती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says she crushes rāga in her devotees by granting them dispassion. He specifies that the rāga meant is the one the Yoga Sūtra lists among the afflictions, together with aversion and clinging to life. He also defends the grammar: the suffix in mathanī can denote the doer, as the Mahābhāṣya allows.",
+    "hi": "भास्करराय कहते हैं कि वे भक्तों को वैराग्य देकर उनके राग को मथ डालती हैं। वे स्पष्ट करते हैं कि यहाँ वह राग अभिप्रेत है जिसे योगसूत्र द्वेष और अभिनिवेश के साथ ‘क्लेश’ कहता है। वे व्याकरण का भी समर्थन करते हैं: ‘मथनी’ का प्रत्यय कर्ता का अर्थ दे सकता है, जैसा महाभाष्य स्वीकार करता है।"
+  },
+  "story": {
+    "en": "This is the first of the pairs that close verse 46 and fill verses 47 and 48. Nīrāgā says she is free of attachment; Rāgamathanī says she frees others from it.",
+    "hi": "यह उन जोड़ों में पहला है जो श्लोक 46 को पूरा करते हैं और श्लोक 47 और 48 को भरते हैं। ‘नीरागा’ कहता है कि वे राग से रहित हैं; ‘रागमथनी’ कहता है कि वे दूसरों को उससे मुक्त करती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "भक्तानां वैराग्यदानेन रागं मथ्नातीति रागमथनी ।",
+    "translation": {
+      "en": "She churns away the rāga of her devotees by giving them dispassion; hence Rāgamathanī.",
+      "hi": "भक्तों को वैराग्य देकर वे उनके राग को मथ देती हैं, इसलिए रागमथनी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 157 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Variant: the verse as printed at the head of this comment reads रागमथना, but Bhāskararāya’s own gloss (… रागमथनी) agrees with the master text, which is followed. The edition prints अभिनिवेषाः for अभिनिवेशाः in the Yoga Sūtra quotation." }
+}

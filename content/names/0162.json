@@ -1,0 +1,43 @@
+{
+  "number": 162,
+  "verse": 47,
+  "slug": "nir-moha",
+  "devanagari": "निर्मोहा",
+  "iastSplit": "Nir-mohā",
+  "archana": "ॐ निर्मोहायै नमः",
+  "syllables": ["nir", "mo", "hā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free from", "hi": "रहित, बिना" } },
+    { "sa": "मोह", "meaning": { "en": "delusion, bewilderment", "hi": "मोह, भ्रम" } }
+  ],
+  "meaning": {
+    "en": "Free from delusion",
+    "hi": "मोह से रहित"
+  },
+  "explanation": {
+    "en": "Moha is delusion, the clouding of judgment in which one cannot see things as they are, often through attachment. Her vision is never clouded.",
+    "hi": "‘मोह’ का अर्थ है भ्रम, बुद्धि का वह धुँधलापन जिसमें वस्तुएँ जैसी हैं वैसी नहीं दिखतीं, प्रायः आसक्ति के कारण। उनकी दृष्टि कभी धुँधली नहीं होती।"
+  },
+  "inner": {
+    "en": "Bhāskararāya glosses moha as vaicittya, the loss of a clear mind, and says she is without it. He gives no further hidden meaning. Delusion is one of the six inner enemies, and the next name shows how she removes it.",
+    "hi": "भास्करराय ‘मोह’ का अर्थ ‘वैचित्त्य’, अर्थात् चित्त की स्पष्टता का खो जाना, बताते हैं, और कहते हैं कि वे उससे रहित हैं। वे इससे आगे कोई गूढ़ अर्थ नहीं देते। मोह छह आन्तरिक शत्रुओं में से एक है, और अगला नाम बताता है कि वे उसे कैसे दूर करती हैं।"
+  },
+  "story": {
+    "en": "In the Gītā, Arjuna’s collapse on the battlefield is the classic picture of moha, and at the end he says, “my delusion is gone.” The next name, Mohanāśinī, speaks of the Devī as the one who answers that same need.",
+    "hi": "गीता में युद्धभूमि पर अर्जुन का विषाद मोह का प्रसिद्ध चित्र है, और अन्त में वे कहते हैं: ‘मेरा मोह नष्ट हो गया।’ अगला नाम ‘मोहनाशिनी’ देवी को उसी आवश्यकता को पूरा करने वाली बताता है।"
+  },
+  "commentary": {
+    "sanskrit": "मोहो वैचित्यं तदभावान्निर्मोहा ।",
+    "translation": {
+      "en": "Moha is vaicittya, bewilderment; being without it, she is Nirmohā.",
+      "hi": "मोह अर्थात् वैचित्त्य, चित्त की भ्रान्ति; उसका अभाव होने के कारण वे निर्मोहा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 162 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition prints वैचित्यं, probably for वैचित्त्यं (‘bewilderment’); the quote keeps the printed form. The Gītā reference (18.73) in the story layer is context, not from the commentary." }
+}

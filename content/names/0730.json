@@ -1,0 +1,43 @@
+{
+  "number": 730,
+  "verse": 141,
+  "slug": "prema-rupa",
+  "devanagari": "प्रेमरूपा",
+  "iastSplit": "Prema-rūpā",
+  "archana": "ॐ प्रेमरूपायै नमः",
+  "syllables": ["pre", "ma", "rū", "pā"],
+  "words": [
+    { "sa": "प्रेमन्", "meaning": { "en": "love, affection, devotion", "hi": "प्रेम, स्नेह, भक्ति" } },
+    { "sa": "रूपा", "meaning": { "en": "having the form of", "hi": "रूप वाली" } }
+  ],
+  "meaning": {
+    "en": "She whose very form is love",
+    "hi": "जिनका स्वरूप ही प्रेम है"
+  },
+  "explanation": {
+    "en": "Bhāskararāya says her very nature is prema: affection, which is devotion itself. He adds a note on the word rūpa: just as one says ‘ghee is life’ because ghee sustains life, she is called the form of love because she is what brings love into being.",
+    "hi": "भास्करराय कहते हैं कि उनका स्वरूप ही प्रेम है: स्नेह, जो स्वयं भक्ति है। वे ‘रूप’ शब्द पर भी टिप्पणी करते हैं: जैसे ‘घी ही आयु है’ कहा जाता है क्योंकि घी जीवन को पुष्ट करता है, वैसे ही वे प्रेम का रूप इसलिए कहलाती हैं कि प्रेम को वही प्रकट करती हैं।"
+  },
+  "inner": {
+    "en": "Taken together, his two readings say that she is love and also the source of love. The devotion a devotee feels for her is then her own presence stirring in the heart. He gives no further hidden meaning.",
+    "hi": "उनके दोनों अर्थ मिलकर कहते हैं कि वे प्रेम भी हैं और प्रेम का स्रोत भी। तब भक्त के मन में उनके प्रति जो भक्ति उठती है, वह हृदय में जागती उन्हीं की उपस्थिति है। वे इससे आगे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "‘Ghee is life’ is a standard Sanskrit example of naming a thing by what it brings about, and Bhāskararāya uses it more than once. This name and the next form a pair: she is love in form, and she does what is dear to her devotees.",
+    "hi": "‘घी ही आयु है’ संस्कृत में किसी वस्तु को उसके परिणाम के नाम से कहने का एक प्रसिद्ध उदाहरण है, और भास्करराय इसका प्रयोग एक से अधिक बार करते हैं। यह नाम और अगला नाम जोड़ी बनाते हैं: वे प्रेम का रूप हैं, और भक्तों का प्रिय करती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "प्रेम स्नेहो भक्तिरेव स्वरूपं यस्याः । आयुर्घृतमितिवद्रूपाभिव्यक्तिजनकेऽपि रूपपदप्रयोगः ।",
+    "translation": {
+      "en": "She whose very nature is prema, affection, that is, devotion. As in ‘ghee is life’, the word rūpa is used even for what brings a form into manifestation.",
+      "hi": "जिनका स्वरूप ही प्रेम, अर्थात् स्नेह या भक्ति, है। ‘आयुर्घृतम्’ (घी ही आयु है) की भाँति, जो रूप को प्रकट करता है उसके लिए भी ‘रूप’ शब्द का प्रयोग होता है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 730 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The second sentence of the inner layer is a reflection." }
+}

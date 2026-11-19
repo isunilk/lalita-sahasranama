@@ -1,0 +1,44 @@
+{
+  "number": 291,
+  "verse": 69,
+  "slug": "purushartha-prada",
+  "devanagari": "पुरुषार्थप्रदा",
+  "iastSplit": "Puruṣārtha-pradā",
+  "archana": "ॐ पुरुषार्थप्रदायै नमः",
+  "syllables": ["pu", "ru", "ṣār", "thap", "ra", "dā"],
+  "words": [
+    { "sa": "पुरुष", "meaning": { "en": "person, human being; in the second reading, Rudra", "hi": "पुरुष, मनुष्य; दूसरे अर्थ में रुद्र" } },
+    { "sa": "अर्थ", "meaning": { "en": "aim, goal", "hi": "लक्ष्य, प्रयोजन" } },
+    { "sa": "प्रदा", "meaning": { "en": "giver, bestower", "hi": "देने वाली" } }
+  ],
+  "meaning": {
+    "en": "Giver of the four aims of human life",
+    "hi": "मनुष्य जीवन के चारों पुरुषार्थों को देने वाली"
+  },
+  "explanation": {
+    "en": "The puruṣārthas are the four aims of a human life: dharma (right living), artha (wealth), kāma (fulfilled desire) and mokṣa (liberation). She grants all four. Bhāskararāya quotes the Brahmāṇḍa Purāṇa: without the worship of Tripurā, enjoyment and liberation are never found together.",
+    "hi": "पुरुषार्थ मनुष्य जीवन के चार लक्ष्य हैं: धर्म, अर्थ, काम और मोक्ष। देवी ये चारों प्रदान करती हैं। भास्करराय ब्रह्माण्ड पुराण का वचन देते हैं कि त्रिपुरा की आराधना के बिना भोग और मोक्ष एक साथ कहीं नहीं मिलते।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives a second reading. Taking puruṣa as Rudra, after the Vedic saying “puruṣa is Rudra”, he reads the name as “she through whom Rudra becomes the giver of these aims”. His point is that the formless Brahman can be worshipped, and can bear fruit for the worshipper, only through Śakti.",
+    "hi": "भास्करराय एक दूसरा अर्थ भी देते हैं। ‘पुरुषो वै रुद्रः’ इस वैदिक वचन के अनुसार पुरुष को रुद्र मानकर वे नाम को यों पढ़ते हैं: वे, जिनके द्वारा रुद्र पुरुषार्थों के दाता बनते हैं। उनका आशय यह है कि निराकार ब्रह्म की उपासना हो सकना और उसका फल देना, दोनों शक्ति पर ही आश्रित हैं।"
+  },
+  "story": {
+    "en": "The Purāṇa verses he quotes go further: those who worship Parāśakti, whether by the prescribed rite or not, are no longer bound to saṃsāra; they are free. This verse then moves from what she gives to what she is: full, enjoying, ruler of the worlds, mother, without beginning or end, served by the gods.",
+    "hi": "उनके द्वारा उद्धृत पुराण-श्लोक इससे भी आगे कहते हैं: जो पराशक्ति की उपासना करते हैं, विधि से हो या बिना विधि के, वे संसार में बँधे नहीं रहते; वे मुक्त ही हैं। इसके बाद यह श्लोक उनके दिए हुए से उनके स्वरूप की ओर मुड़ता है: वे पूर्ण हैं, भोगिनी हैं, भुवनों की स्वामिनी हैं, माता हैं, आदि-अन्त से रहित हैं, और देवताओं द्वारा सेवित हैं।"
+  },
+  "commentary": {
+    "sanskrit": "धर्मादींश्चतुरः पुरुषार्थान् प्रददातीति तथा",
+    "translation": {
+      "en": "She gives the four aims of life, dharma and the rest; hence she is so called.",
+      "hi": "वे धर्म आदि चारों पुरुषार्थ प्रदान करती हैं, इसलिए उनका यह नाम है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 291 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Brahmāṇḍa Purāṇa verse quoted by Bhāskararāya is printed with त्रिपुराधनं, evidently for त्रिपुराराधनं; it is paraphrased, not quoted. The second reading (पुरुष = रुद्र) is his." }
+}

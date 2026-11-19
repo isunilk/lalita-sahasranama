@@ -1,0 +1,44 @@
+{
+  "number": 495,
+  "verse": 102,
+  "slug": "manipurabja-nilaya",
+  "devanagari": "मणिपूराब्जनिलया",
+  "iastSplit": "Maṇipūrābja-nilayā",
+  "archana": "ॐ मणिपूराब्जनिलयायै नमः",
+  "syllables": ["ma", "ṇi", "pū", "rāb", "ja", "ni", "la", "yā"],
+  "words": [
+    { "sa": "मणिपूर", "meaning": { "en": "maṇipūra, ‘filled with jewels’; the navel cakra", "hi": "मणिपूर, ‘मणियों से भरा’; नाभि-चक्र" } },
+    { "sa": "अब्ज", "meaning": { "en": "lotus", "hi": "कमल" } },
+    { "sa": "निलय", "meaning": { "en": "abode", "hi": "निवास" } }
+  ],
+  "meaning": {
+    "en": "Who dwells in the maṇipūra lotus at the navel",
+    "hi": "नाभि के मणिपूर कमल में निवास करने वाली"
+  },
+  "explanation": {
+    "en": "Maṇipūra is the ten-petalled lotus at the navel. Bhāskararāya says the yoginī Lākinī dwells there; this name and the eight after it describe her.",
+    "hi": "मणिपूर नाभि में स्थित दस दलों वाला कमल है। भास्करराय बताते हैं कि वहाँ लाकिनी नाम की योगिनी निवास करती हैं; यह नाम और इसके बाद के आठ नाम उनका वर्णन करते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives the literal sense: the lotus called maṇipūra is her abode. He gives no hidden meaning here. The centre’s name, ‘filled with jewels’, suits the navel, the place from which the body is first nourished.",
+    "hi": "भास्करराय सीधा अर्थ देते हैं: मणिपूर नाम का कमल उनका निवास है। यहाँ वे कोई गूढ़ अर्थ नहीं देते। चक्र का नाम, ‘मणियों से भरा’, नाभि के लिए उचित है, जहाँ से शरीर को सबसे पहले पोषण मिलता है।"
+  },
+  "story": {
+    "en": "The meditation verse Bhāskararāya quotes for Lākinī places her in the ten-petalled navel lotus: three-faced, tusked, red, holding the thunderbolt, a staff and other weapons with the gesture of fearlessness, very fierce, surrounded by Ḍāmarī and other powers, frightening to bound souls, abiding in the flesh, fond of jaggery-rice and giving every happiness.",
+    "hi": "भास्करराय लाकिनी के लिए जो ध्यान-श्लोक उद्धृत करते हैं, उसमें वे नाभि के दस दलों वाले कमल में हैं: तीन मुखों और दंष्ट्राओं वाली, रक्त वर्ण की, हाथों में वज्र, दण्ड आदि आयुध और अभय-मुद्रा धारण किए, अत्यन्त उग्र, डामरी आदि शक्तियों से घिरी, बद्ध जीवों को भय देने वाली, मांस-धातु में स्थित, गुड़ वाले अन्न में रुचि रखने वाली और सब सुख देने वाली।"
+  },
+  "commentary": {
+    "sanskrit": "मणिपूराख्यमब्जं निलयो यस्याः ।",
+    "translation": {
+      "en": "The lotus called maṇipūra is her abode.",
+      "hi": "मणिपूर नाम का कमल उनका निवास है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 495 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The gloss ‘filled with jewels’ (मणि + पूर) and the last sentence of the inner layer are a reflection, not Bhāskararāya’s. The meditation verse is described as iconography only." }
+}

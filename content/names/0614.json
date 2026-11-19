@@ -1,0 +1,113 @@
+{
+  "number": 614,
+  "verse": 123,
+  "slug": "sa-chamara-rama-vani-savya-dakshina-sevita",
+  "devanagari": "सचामररमावाणीसव्यदक्षिणसेविता",
+  "iastSplit": "Sa-cāmara-ramā-vāṇī-savya-dakṣiṇa-sevitā",
+  "archana": "ॐ सचामररमावाणीसव्यदक्षिणसेवितायै नमः",
+  "syllables": [
+    "sa",
+    "cā",
+    "ma",
+    "ra",
+    "ra",
+    "mā",
+    "vā",
+    "ṇī",
+    "sav",
+    "ya",
+    "dak",
+    "ṣi",
+    "ṇa",
+    "se",
+    "vi",
+    "tā"
+  ],
+  "words": [
+    {
+      "sa": "स",
+      "meaning": {
+        "en": "with",
+        "hi": "सहित"
+      }
+    },
+    {
+      "sa": "चामर",
+      "meaning": {
+        "en": "fly-whisk, chowrie",
+        "hi": "चँवर"
+      }
+    },
+    {
+      "sa": "रमा",
+      "meaning": {
+        "en": "Ramā, Lakṣmī",
+        "hi": "रमा, लक्ष्मी"
+      }
+    },
+    {
+      "sa": "वाणी",
+      "meaning": {
+        "en": "Vāṇī, Sarasvatī",
+        "hi": "वाणी, सरस्वती"
+      }
+    },
+    {
+      "sa": "सव्य",
+      "meaning": {
+        "en": "left",
+        "hi": "बायाँ"
+      }
+    },
+    {
+      "sa": "दक्षिण",
+      "meaning": {
+        "en": "right",
+        "hi": "दायाँ"
+      }
+    },
+    {
+      "sa": "सेविता",
+      "meaning": {
+        "en": "served, attended",
+        "hi": "सेवित"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Fanned on left and right by Lakṣmī and Sarasvatī with chowries",
+    "hi": "जिनकी बाईं और दाईं ओर लक्ष्मी और सरस्वती चँवर डुलाती हैं"
+  },
+  "explanation": {
+    "en": "A cāmara is a royal fly-whisk of yak-tail hair. Ramā, that is Lakṣmī, stands at her left and Vāṇī, Sarasvatī, at her right, each waving a cāmara, as attendants do for an empress.",
+    "hi": "‘चामर’ याक की पूँछ के बालों से बना राजसी चँवर है। रमा अर्थात् लक्ष्मी उनकी बाईं ओर और वाणी अर्थात् सरस्वती दाईं ओर खड़ी होकर चँवर डुलाती हैं, जैसे सेविकाएँ किसी महारानी के लिए करती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives the plain sense: she is served, that is fanned, by Lakṣmī on the left and Sarasvatī on the right, in that order. He gives no hidden meaning. Wealth and learning, the gifts people most seek, here stand as her attendants.",
+    "hi": "भास्करराय सीधा अर्थ देते हैं: बाईं ओर लक्ष्मी और दाईं ओर सरस्वती, इसी क्रम से, उनकी सेवा करती हैं, अर्थात् चँवर डुलाती हैं। वे कोई गूढ़ अर्थ नहीं देते। धन और विद्या, जिन वरदानों को लोग सबसे अधिक चाहते हैं, यहाँ उनकी सेविकाएँ बनकर खड़े हैं।"
+  },
+  "story": {
+    "en": "In temple worship the cāmara is one of the royal honours offered to the deity. This name pictures two great goddesses performing that service for her.",
+    "hi": "मन्दिर की पूजा में चँवर देवता को अर्पित राजसी उपचारों में से एक है। यह नाम दो महान देवियों को उनके लिए यही सेवा करते हुए दिखाता है।"
+  },
+  "commentary": {
+    "sanskrit": "चामराभ्यां सहिते सचामरे तादृशीभ्यां रमावाणीभ्यां लक्ष्मीसरस्वतीभ्यां सव्ये दक्षिणे क्रमेण सेविता वीजिता ।",
+    "translation": {
+      "en": "Sacāmara means holding cāmaras. By Ramā and Vāṇī, that is Lakṣmī and Sarasvatī, holding such cāmaras, she is served, that is fanned, on the left and on the right respectively.",
+      "hi": "‘सचामर’ अर्थात् चँवर लिए हुए। ऐसी रमा और वाणी, यानी लक्ष्मी और सरस्वती, द्वारा क्रमशः बाईं और दाईं ओर वे सेवित, अर्थात् चँवर से वीजित, हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 614 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the last sentence of the inner layer is a reflection."
+  }
+}

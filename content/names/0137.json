@@ -1,0 +1,43 @@
+{
+  "number": 137,
+  "verse": 44,
+  "slug": "nir-akara",
+  "devanagari": "निराकारा",
+  "iastSplit": "Nir-ākārā",
+  "archana": "ॐ निराकारायै नमः",
+  "syllables": ["ni", "rā", "kā", "rā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free from", "hi": "रहित, बिना" } },
+    { "sa": "आकार", "meaning": { "en": "form, shape", "hi": "आकार, रूप" } }
+  ],
+  "meaning": {
+    "en": "Without any form",
+    "hi": "आकार से रहित, निराकार"
+  },
+  "explanation": {
+    "en": "Ākāra is shape or form. In her true nature she has none; the forms in which she is seen and worshipped are taken on, and none of them confines her.",
+    "hi": "‘आकार’ का अर्थ है रूप या आकृति। अपने वास्तविक स्वरूप में वे निराकार हैं; जिन रूपों में उनका दर्शन और पूजन होता है, वे धारण किए हुए रूप हैं, और कोई भी रूप उन्हें सीमित नहीं करता।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says form, the appearance with qualities, is imagined upon her, so she is formless. He quotes the Bhāgavata: the Supreme is neither god nor demon, human nor beast, woman nor man, neither quality nor action, neither being nor non-being; it is what remains when everything has been denied. With this name he sets aside the view, which he ascribes to the Mādhyamika Buddhists, that consciousness carries forms.",
+    "hi": "भास्करराय कहते हैं कि आकार, अर्थात् सगुण रूप, उन पर कल्पित है, इसलिए वे निराकारा हैं। वे भागवत का श्लोक उद्धृत करते हैं: वह परम तत्त्व न देवता है न असुर, न मनुष्य न पशु, न स्त्री न पुरुष, न गुण न कर्म, न सत् न असत्; सब कुछ नकार देने पर जो शेष रहता है, वही है। इस नाम से वे उस मत का खण्डन करते हैं, जिसे वे माध्यमिक बौद्धों का बताते हैं, कि विज्ञान स्वयं आकार वाला है।"
+  },
+  "story": {
+    "en": "The same hymn describes her body limb by limb from name 13 onward. The two are not at odds: those are forms she takes on, and this name speaks of her nature beyond them.",
+    "hi": "यही स्तोत्र नाम 13 से आगे उनके शरीर का अंग-अंग वर्णन करता है। दोनों में विरोध नहीं: वे उनके धारण किए हुए रूप हैं, और यह नाम उन रूपों से परे उनके स्वरूप की बात करता है।"
+  },
+  "commentary": {
+    "sanskrit": "आकारस्य सगुणरूपस्य कल्पितत्वान्निराकारा ।",
+    "translation": {
+      "en": "Because ākāra, the form with qualities, is imagined, she is Nirākārā.",
+      "hi": "आकार, अर्थात् सगुण रूप, कल्पित होने के कारण वे निराकारा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 137 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya names the refuted school as साकारविज्ञानवादिमाध्यमिक; the attribution to the Mādhyamikas is his and is given as such. The edition has a double space before the daṇḍa in the quoted sentence." }
+}

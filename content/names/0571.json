@@ -1,0 +1,44 @@
+{
+  "number": 571,
+  "verse": 115,
+  "slug": "maha-pralaya-sakshini",
+  "devanagari": "महाप्रलयसाक्षिणी",
+  "iastSplit": "Mahā-pralaya-sākṣiṇī",
+  "archana": "ॐ महाप्रलयसाक्षिण्यै नमः",
+  "syllables": ["ma", "hāp", "ra", "la", "ya", "sāk", "ṣi", "ṇī"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महा, महान" } },
+    { "sa": "प्रलय", "meaning": { "en": "dissolution of the worlds", "hi": "प्रलय" } },
+    { "sa": "साक्षिणी", "meaning": { "en": "witness", "hi": "साक्षी" } }
+  ],
+  "meaning": {
+    "en": "Witness of the great dissolution",
+    "hi": "महाप्रलय की साक्षी"
+  },
+  "explanation": {
+    "en": "At the great dissolution Paramaśiva dances the tāṇḍava, and even Brahmā, Viṣṇu and the other gods come to an end. Bhāskararāya says that she alone remains then, the witness of that dance.",
+    "hi": "महाप्रलय के समय परमशिव ताण्डव करते हैं, और ब्रह्मा, विष्णु आदि देवता भी लय को प्राप्त होते हैं। भास्करराय कहते हैं कि तब केवल वे ही रहती हैं, उस नृत्य की साक्षी बनकर।"
+  },
+  "inner": {
+    "en": "He quotes a verse in praise of her single form, holding noose, goad, sugarcane bow and flower arrows, as the witness of the dance with which Śiva, the axe-bearer, ends the aeon. The thought is that when everything else has dissolved, she remains as the seeing awareness in which the dissolution takes place.",
+    "hi": "वे एक श्लोक उद्धृत करते हैं जो उनके उस एकमात्र रूप की वन्दना करता है, जो पाश, अंकुश, इक्षु-धनुष और पुष्प-बाण धारण किए हुए है और कल्प के अन्त में परशुधारी शिव के ताण्डव की साक्षी है। भाव यह है कि जब सब कुछ लय हो जाता है, तब वे वह देखने वाली चेतना बनकर रहती हैं जिसमें यह लय घटित होता है।"
+  },
+  "story": {
+    "en": "A second verse he quotes makes the point through marriage. Indra, Rudra, Brahmā, Viṣṇu and the rest are subject to death, so their wives cannot remain suvāsinīs, wives whose husbands live; but she is the witness of Maheśvara, who devours death itself, and so she alone is the ever-auspicious bride.",
+    "hi": "वे एक और श्लोक उद्धृत करते हैं जो यही बात विवाह के रूपक से कहता है। इन्द्र, रुद्र, ब्रह्मा, विष्णु आदि मृत्यु के वश में हैं, इसलिए उनकी पत्नियाँ सदा सुवासिनी, अर्थात् सौभाग्यवती, नहीं रह सकतीं; परन्तु वे मृत्यु को भी निगल जाने वाले महेश्वर की साक्षी हैं, इसलिए केवल वे ही चिर-सौभाग्यवती वधू हैं।"
+  },
+  "commentary": {
+    "sanskrit": "परमशिवस्य महाप्रलयकालीने ताण्डवे ब्रह्मविष्ण्वादेरपि नाशात्तदैषैव तत्साक्षिणी ।",
+    "translation": {
+      "en": "In the tāṇḍava of Paramaśiva at the time of the great dissolution, since even Brahmā, Viṣṇu and the rest perish, she alone is then its witness.",
+      "hi": "महाप्रलय के समय परमशिव के ताण्डव में ब्रह्मा, विष्णु आदि का भी नाश हो जाने से, तब केवल वे ही उसकी साक्षी होती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 571 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya does not name the source of the first verse (कल्पोपसंहरणकल्पितताण्डवस्य…); the second he cites from a work he calls गुरुकला, and it ends with the Vedic wedding words सुमङ्गलीरियं वधूः. The last sentence of the inner layer is a reflection." }
+}

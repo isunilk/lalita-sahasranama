@@ -1,0 +1,43 @@
+{
+  "number": 411,
+  "verse": 89,
+  "slug": "shishteshta",
+  "devanagari": "शिष्टेष्टा",
+  "iastSplit": "Śiṣṭeṣṭā",
+  "archana": "ॐ शिष्टेष्टायै नमः",
+  "syllables": ["śiṣ", "ṭeṣ", "ṭā"],
+  "words": [
+    { "sa": "शिष्ट", "meaning": { "en": "what scripture enjoins; the cultured and learned", "hi": "शास्त्र-विहित; शिष्ट, सदाचारी जन" } },
+    { "sa": "इष्ट", "meaning": { "en": "dear, desired; also worshipped", "hi": "प्रिय, इच्छित; पूजित भी" } }
+  ],
+  "meaning": {
+    "en": "To whom right action and the good are dear",
+    "hi": "जिन्हें शास्त्र-विहित कर्म और शिष्ट जन प्रिय हैं"
+  },
+  "explanation": {
+    "en": "Śiṣṭa means what scripture has taught, and also the cultured people who live by it. Iṣṭā can mean ‘dear’ or ‘worshipped’. So she loves right action and those who practise it, and she is worshipped through right action.",
+    "hi": "‘शिष्ट’ का अर्थ है शास्त्र द्वारा सिखाया गया कर्म, और वे सज्जन भी जो उसके अनुसार जीते हैं। ‘इष्टा’ का अर्थ ‘प्रिय’ भी है और ‘पूजित’ भी। इसलिए उन्हें धर्मयुक्त कर्म और उसे करने वाले प्रिय हैं, और धर्मयुक्त कर्म से ही उनकी पूजा होती है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes a verse: the worship done through one’s own duties, rightly offered to the Lord, is not matched by any offering of perfume and garlands. He also gives the marks of a śiṣṭa: steady in hand, foot, eye and speech, and heir to the Veda with its supporting texts through an unbroken line.",
+    "hi": "भास्करराय एक श्लोक उद्धृत करते हैं: अपने वर्ण और आश्रम के धर्मों को भली-भाँति भगवान को अर्पित करके जो पूजा होती है, उसकी बराबरी गन्ध और माला चढ़ाने से नहीं होती। वे शिष्ट के लक्षण भी बताते हैं: जिसके हाथ, पैर, नेत्र और वाणी चंचल न हों, और जिसे वेद अपने सहायक ग्रन्थों सहित अविच्छिन्न परम्परा से मिला हो।"
+  },
+  "story": {
+    "en": "Names 411 and 412 are a pair. Bhāskararāya cites the Mahābhārata and the Bṛhannāradīya Purāṇa: dharma is born of good conduct, and the lord of dharma is Acyuta. He takes his definition of a śiṣṭa from the Vasiṣṭha sūtra.",
+    "hi": "नाम 411 और 412 एक जोड़ी हैं। भास्करराय महाभारत और बृहन्नारदीय पुराण का वचन देते हैं: धर्म आचार से उत्पन्न होता है, और धर्म के स्वामी अच्युत हैं। शिष्ट की परिभाषा वे वसिष्ठ-सूत्र से लेते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "शिष्टान्यनुशिष्टानि विहितकर्माणि इष्टानि इच्छाविषयाः प्रियाणि यस्याः सा शिष्टेष्टा ।",
+    "translation": {
+      "en": "She to whom the śiṣṭas, the actions taught and enjoined by scripture, are iṣṭa, objects of desire, dear: she is Śiṣṭeṣṭā.",
+      "hi": "जिन्हें शिष्ट अर्थात् शास्त्र द्वारा सिखाए गए विहित कर्म इष्ट अर्थात् इच्छा के विषय, प्रिय हैं, वे शिष्टेष्टा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 411 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives three readings: enjoined actions are dear to her; she is worshipped by enjoined actions; the śiṣṭas are dear to her." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 572,
+  "verse": 116,
+  "slug": "para-shakti",
+  "devanagari": "पराशक्तिः",
+  "iastSplit": "Parā-śaktiḥ",
+  "archana": "ॐ परायै शक्त्यै नमः",
+  "syllables": ["pa", "rā", "śak", "tiḥ"],
+  "words": [
+    { "sa": "परा", "meaning": { "en": "supreme, highest", "hi": "परा, सर्वोच्च" } },
+    { "sa": "शक्ति", "meaning": { "en": "power", "hi": "शक्ति" } }
+  ],
+  "meaning": {
+    "en": "The Supreme Power",
+    "hi": "परम शक्ति"
+  },
+  "explanation": {
+    "en": "She is the highest power, power itself. Bhāskararāya says her supremacy lies in this, that she is pure power and nothing else, and he cites the Upaniṣadic words ‘his supreme power is heard of as manifold’.",
+    "hi": "वे सर्वोच्च शक्ति हैं, स्वयं शक्ति। भास्करराय कहते हैं कि उनकी श्रेष्ठता इसी में है कि वे केवल शक्ति-स्वरूपा हैं, और वे श्रुति का वचन देते हैं: ‘परास्य शक्तिर्विविधैव श्रूयते’, अर्थात् उसकी परा शक्ति अनेक रूपों में सुनी जाती है।"
+  },
+  "inner": {
+    "en": "His first reading is about the body. The Kāmikāgama counts nine dhātus, the elements of the body: skin, blood, flesh, fat and bone are rooted in Śakti, and marrow, semen, prāṇa and jīva in Śiva. Beyond these nine is a tenth, and that tenth alone is called Parāśakti. He also quotes the Liṅga Purāṇa: whatever power any thing is said to have, that power is the Devī.",
+    "hi": "उनका पहला अर्थ शरीर से जुड़ा है। कामिकागम शरीर की नौ धातुएँ गिनाता है: त्वचा, रक्त, मांस, मेद और अस्थि शक्ति-मूलक हैं, और मज्जा, शुक्र, प्राण और जीव शिव-मूलक। इन नौ से परे एक दसवीं धातु है, और वही अकेली ‘पराशक्ति’ कहलाती है। वे लिंग पुराण भी उद्धृत करते हैं: जिस भी पदार्थ की जो भी शक्ति कही गई है, वह शक्ति स्वयं देवी हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya discusses how to say the name in worship. Taken as two words, both stand in the dative, as in the Vedic offering formula agnaye pavamānāya idam; but since Bhagavatpāda (Śaṅkara) uses parāśakti as a single word, he also allows parāśaktyai namaḥ.",
+    "hi": "भास्करराय बताते हैं कि अर्चना में इस नाम को कैसे कहें। दो पद मानने पर दोनों चतुर्थी विभक्ति में आते हैं, जैसे वैदिक वाक्य ‘अग्नये पवमानायेदम्’ में; परन्तु भगवत्पाद (शंकर) ने ‘पराशक्ति’ को एक पद के रूप में प्रयोग किया है, इसलिए वे ‘पराशक्त्यै नमः’ भी स्वीकार करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "देहे दशमधातुः पराशक्तिरित्युच्यते ।",
+    "translation": {
+      "en": "In the body, the tenth dhātu is called Parāśakti.",
+      "hi": "शरीर में दसवीं धातु ‘पराशक्ति’ कहलाती है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 572 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Archana follows the nāmāvali (परायै शक्त्यै नमः). Bhāskararāya also prefers two datives but prints परस्यै शक्त्यै (the pronominal form of पर); if the name is taken as one word he allows पराशक्त्यै नमः, citing Bhagavatpāda’s पराशक्तिमित्रं नुमः पञ्चवक्त्रम्. A reviewer should confirm the archana form." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 410,
+  "verse": 89,
+  "slug": "shiva-para",
+  "devanagari": "शिवपरा",
+  "iastSplit": "Śiva-parā",
+  "archana": "ॐ शिवपरायै नमः",
+  "syllables": ["śi", "va", "pa", "rā"],
+  "words": [
+    { "sa": "शिव", "meaning": { "en": "Śiva", "hi": "शिव" } },
+    { "sa": "पर", "meaning": { "en": "higher, beyond; devoted to, having as its aim", "hi": "श्रेष्ठ, परे; तत्पर" } }
+  ],
+  "meaning": {
+    "en": "Beyond Śiva, and wholly given to Śiva",
+    "hi": "शिव से भी परे, और शिव में तत्पर"
+  },
+  "explanation": {
+    "en": "Parā can mean ‘higher than’ or ‘devoted to’. So she is higher than Śiva; she is the one for whom Śiva is supreme; and she is the one who makes Śiva known.",
+    "hi": "‘परा’ का अर्थ ‘श्रेष्ठ’ भी है और ‘तत्पर’ भी। इसलिए वे शिव से भी परे हैं; वे हैं जिनके लिए शिव ही परम हैं; और वे हैं जो शिव का ज्ञान कराती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya explains why she can be called higher than Śiva: Śiva gains his very being in dependence on Śakti. His third sense, that she makes Śiva known, follows from this: Śiva is reached through his Śakti.",
+    "hi": "भास्करराय बताते हैं कि उन्हें शिव से परे क्यों कहा जा सकता है: शिव अपना स्वरूप भी शक्ति के अधीन होकर ही पाते हैं। उनका तीसरा अर्थ, कि वे शिव का ज्ञान कराती हैं, इसी से निकलता है: शिव तक पहुँच उनकी शक्ति के द्वारा ही होती है।"
+  },
+  "story": {
+    "en": "This name completes the chain of six that begin with Śiva. Read together, the chain moves from Śiva serving her, as messenger and worshipper, to their identity, and at last to her standing beyond him.",
+    "hi": "यह नाम ‘शिव’ से आरम्भ होने वाले छह नामों की माला पूरी करता है। साथ पढ़ें तो यह माला शिव द्वारा उनकी सेवा (दूत और उपासक के रूप में) से उनकी एकता तक, और अन्त में शिव से भी उनकी श्रेष्ठता तक पहुँचती है।"
+  },
+  "commentary": {
+    "sanskrit": "शिवात्परा शिवस्य शक्त्यधीनात्मलाभकत्वात् । शिवः परो यस्या इति वा । शिवप्रतिपादकत्वाद्वा शिवपरा ।",
+    "translation": {
+      "en": "Higher than Śiva, because Śiva attains his own being in dependence on Śakti. Or: she for whom Śiva is supreme. Or she is Śivaparā because she makes Śiva known.",
+      "hi": "शिव से परे, क्योंकि शिव अपना स्वरूप शक्ति के अधीन होकर पाते हैं। अथवा, जिनके लिए शिव परम हैं। अथवा शिव का प्रतिपादन करने के कारण वे शिवपरा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 410 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The second sentence of the inner layer is a reflection on his third sense." }
+}

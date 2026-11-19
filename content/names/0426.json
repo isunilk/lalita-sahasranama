@@ -1,0 +1,42 @@
+{
+  "number": 426,
+  "verse": 91,
+  "slug": "tvam",
+  "devanagari": "त्वम्",
+  "iastSplit": "Tvam",
+  "archana": "ॐ तुभ्यं नमः",
+  "syllables": ["tvam"],
+  "words": [
+    { "sa": "त्वम्", "meaning": { "en": "you, thou", "hi": "तुम, आप" } }
+  ],
+  "meaning": {
+    "en": "You: the one every prayer addresses",
+    "hi": "‘त्वम्’, तुम, जिन्हें हर प्रार्थना सम्बोधित करती है"
+  },
+  "explanation": {
+    "en": "Tvam, ‘you’, is the word of direct address. Bhāskararāya says that she is denoted by tvam just as by tat, so the archana is simply tubhyaṃ namaḥ, ‘salutation to you’.",
+    "hi": "‘त्वम्’ अर्थात् ‘तुम’, सीधे सम्बोधन का शब्द है। भास्करराय कहते हैं कि ‘तत्’ की भाँति ‘त्वम्’ पद की भी वाच्य वे ही हैं, इसलिए अर्चना केवल ‘तुभ्यं नमः’, ‘तुम्हें नमस्कार’, है।"
+  },
+  "inner": {
+    "en": "In tat tvam asi, tvam is the seeker, the ‘you’ who is told ‘you are That’. Read as names of the Goddess, That and you are both she: the Reality beyond and the self who is addressed. Bhāskararāya adds that tvam keeps its nature as a pronoun even when it points to the attributeless Brahman. Every prayer that says ‘you’ to the Divine is said to her.",
+    "hi": "‘तत्त्वमसि’ में ‘त्वम्’ साधक है, वह ‘तुम’ जिससे कहा जाता है ‘तुम वह हो’। देवी के नामों के रूप में पढ़ें तो ‘वह’ और ‘तुम’ दोनों वे ही हैं: परे स्थित सत्य भी और सम्बोधित आत्मा भी। भास्करराय जोड़ते हैं कि निर्गुण ब्रह्म का बोध कराते हुए भी ‘त्वम्’ सर्वनाम ही रहता है। ईश्वर को ‘तुम’ कहने वाली हर प्रार्थना उन्हीं से कही जाती है।"
+  },
+  "story": {
+    "en": "This is the second of the three names Bhāskararāya draws from tattvamayī. Grammar decides the archana: as a pronoun, tvam has the dative tubhyam, so the offering is tubhyaṃ namaḥ and not a feminine form.",
+    "hi": "‘तत्त्वमयी’ से भास्करराय जो तीन नाम निकालते हैं, उनमें यह दूसरा है। अर्चना व्याकरण से तय होती है: सर्वनाम होने के कारण ‘त्वम्’ का चतुर्थी रूप ‘तुभ्यम्’ है, इसलिए अर्पण ‘तुभ्यं नमः’ है, कोई स्त्रीलिंग रूप नहीं।"
+  },
+  "commentary": {
+    "sanskrit": "एवमेव त्वं पदेनापि भगवती वाच्येति तुभ्यं नम इत्येव प्रयोगः ।",
+    "translation": {
+      "en": "In the same way the Bhagavatī is denoted by the word tvam as well, so the form used is simply tubhyaṃ namaḥ.",
+      "hi": "इसी प्रकार ‘त्वम्’ पद से भी भगवती ही वाच्य हैं, इसलिए प्रयोग ‘तुभ्यं नमः’ ही है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 426 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Many chanters take तत्त्वमयी as a single name; this file follows the master text and Bhāskararāya, who count तत् (425), त्वम् (426) and अयी (427), and explains the division as made by the authors of the counting rules to avoid repeating तत्त्वमयी (907). Archana तुभ्यं नमः is the form Bhāskararāya prescribes. The last sentence of the inner layer is a reflection." }
+}

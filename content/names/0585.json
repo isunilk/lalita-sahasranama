@@ -1,0 +1,43 @@
+{
+  "number": 585,
+  "verse": 118,
+  "slug": "shri-vidya",
+  "devanagari": "श्रीविद्या",
+  "iastSplit": "Śrī-vidyā",
+  "archana": "ॐ श्रीविद्यायै नमः",
+  "syllables": ["śrī", "vid", "yā"],
+  "words": [
+    { "sa": "श्री", "meaning": { "en": "auspicious; Śrī, the Devī", "hi": "श्री, मंगलमय" } },
+    { "sa": "विद्या", "meaning": { "en": "knowledge; a sacred mantra", "hi": "विद्या, ज्ञान; मन्त्र" } }
+  ],
+  "meaning": {
+    "en": "Śrīvidyā, the sacred knowledge that is the Devī",
+    "hi": "श्रीविद्या, देवी-स्वरूपा पवित्र विद्या"
+  },
+  "explanation": {
+    "en": "Śrīvidyā is the name of her own mantra and of the tradition of worship built around it. Bhāskararāya says simply that she is Śrīvidyā in the form of the Pañcadaśī, the fifteen-syllabled mantra.",
+    "hi": "श्रीविद्या उनके अपने मन्त्र का और उसके चारों ओर विकसित उपासना-परम्परा का नाम है। भास्करराय सीधे कहते हैं कि वे पञ्चदशी, अर्थात् पन्द्रह अक्षरों के मन्त्र, के रूप में श्रीविद्या हैं।"
+  },
+  "inner": {
+    "en": "In this tradition the mantra is not only a means of reaching the Devī but the Devī herself in the form of sound. The hymn has already set out its three parts in names 85–89. As with those names, the mantra itself is traditionally received from a teacher and is not given here.",
+    "hi": "इस परम्परा में मन्त्र देवी तक पहुँचने का साधन मात्र नहीं, बल्कि शब्द-रूप में स्वयं देवी है। स्तोत्र नाम 85–89 में इसके तीन भागों का वर्णन कर चुका है। उन नामों की तरह, मन्त्र स्वयं परम्परा से गुरु से ही प्राप्त किया जाता है, और यहाँ नहीं दिया गया है।"
+  },
+  "story": {
+    "en": "This name and the next two belong together: Śrīvidyā, Kāmasevitā, and the sixteen-syllabled Śrīvidyā. Bhāskararāya explains Kāmasevitā through Kāma’s place as a seer of this vidyā.",
+    "hi": "यह नाम और अगले दो नाम एक साथ हैं: श्रीविद्या, कामसेविता और षोडशाक्षरी श्रीविद्या। भास्करराय कामसेविता को इस विद्या के ऋषि के रूप में काम के स्थान से समझाते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "श्रीविद्या पञ्चदशीस्वरूपा ।",
+    "translation": {
+      "en": "Śrīvidyā: she whose form is the Pañcadaśī.",
+      "hi": "श्रीविद्या, अर्थात् पञ्चदशी-स्वरूपा।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 585 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Mantra name: meaning only, no syllables of the mantra given." }
+}

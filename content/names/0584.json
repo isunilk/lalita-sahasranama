@@ -1,0 +1,43 @@
+{
+  "number": 584,
+  "verse": 118,
+  "slug": "maha-vidya",
+  "devanagari": "महाविद्या",
+  "iastSplit": "Mahā-vidyā",
+  "archana": "ॐ महाविद्यायै नमः",
+  "syllables": ["ma", "hā", "vid", "yā"],
+  "words": [
+    { "sa": "महत्", "meaning": { "en": "great", "hi": "महान" } },
+    { "sa": "विद्या", "meaning": { "en": "knowledge; a sacred mantra", "hi": "विद्या, ज्ञान; मन्त्र" } }
+  ],
+  "meaning": {
+    "en": "The Great Knowledge",
+    "hi": "महान विद्या"
+  },
+  "explanation": {
+    "en": "She is the great knowledge. Bhāskararāya says its greatness lies in this: it removes every kind of harm and misfortune.",
+    "hi": "वे महान विद्या हैं। भास्करराय कहते हैं कि इसकी महानता इसमें है कि यह हर प्रकार के अनर्थ को दूर करती है।"
+  },
+  "inner": {
+    "en": "He adds that Mahāvidyā is also the name of the Navadurgā vidyā, and that she is that too. In the Viṣṇu Purāṇa verse he cited for the previous name, mahāvidyā stands for worship such as meditation on the cosmic form.",
+    "hi": "वे यह भी बताते हैं कि नवदुर्गा-विद्या को भी ‘महाविद्या’ कहा जाता है, और वे उसी का रूप भी हैं। पिछले नाम के लिए उद्धृत विष्णु पुराण के श्लोक में ‘महाविद्या’ का अर्थ विश्वरूप आदि की उपासना है।"
+  },
+  "story": {
+    "en": "In later tradition ‘Mahāvidyā’ also names the ten great goddesses, Kālī, Tārā, Ṣoḍaśī and the rest; Bhāskararāya does not mention that grouping here.",
+    "hi": "बाद की परम्परा में ‘महाविद्या’ दस महादेवियों, जैसे काली, तारा, षोडशी आदि, का भी नाम है; भास्करराय यहाँ उस समूह का उल्लेख नहीं करते।"
+  },
+  "commentary": {
+    "sanskrit": "महती च सा विद्या च । सर्वानर्थनिवारकत्वान्महत्त्वम् ।",
+    "translation": {
+      "en": "She is great, and she is knowledge. Its greatness lies in warding off every evil.",
+      "hi": "वे महती हैं और विद्या भी हैं। सभी अनर्थों का निवारण करने से इसकी महत्ता है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 584 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Mantra name: meaning only. The story layer’s note on the ten Mahāvidyās is general context, not from the commentary." }
+}

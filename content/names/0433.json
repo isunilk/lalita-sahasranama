@@ -1,0 +1,45 @@
+{
+  "number": 433,
+  "verse": 92,
+  "slug": "mada-patala-ganda-bhu",
+  "devanagari": "मदपाटलगण्डभूः",
+  "iastSplit": "Mada-pāṭala-gaṇḍa-bhūḥ",
+  "archana": "ॐ मदपाटलगण्डभुवे नमः",
+  "syllables": ["ma", "da", "pā", "ṭa", "la", "gaṇ", "ḍa", "bhūḥ"],
+  "words": [
+    { "sa": "मद", "meaning": { "en": "rapture; also musk", "hi": "मद; कस्तूरी भी" } },
+    { "sa": "पाटल", "meaning": { "en": "rosy, pale red; also the pāṭala flower", "hi": "गुलाबी, श्वेत-रक्त; पाटल पुष्प भी" } },
+    { "sa": "गण्ड", "meaning": { "en": "cheek", "hi": "गाल, कपोल" } },
+    { "sa": "भू", "meaning": { "en": "expanse, surface", "hi": "भूमि, प्रदेश" } }
+  ],
+  "meaning": {
+    "en": "Whose cheeks are flushed rosy with rapture",
+    "hi": "जिनके कपोल मद से गुलाबी हो उठे हैं"
+  },
+  "explanation": {
+    "en": "Pāṭala is a pale red, white touched with red. Her broad cheeks are flushed that colour with mada, the glow of inner joy.",
+    "hi": "‘पाटल’ हल्का लाल रंग है, लालिमा लिए हुए श्वेत। उनके कपोल मद से, आन्तरिक आनन्द की आभा से, इसी रंग के हो उठे हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives several readings and no hidden meaning. Mada may be wine, meaning the drinking of it; or mada may be musk and pāṭala a flower, so that her cheeks are adorned with musk and touched by ear-ornaments of pāṭala blossoms. Read with the two names before it, the flush is the outward sign of the bliss within.",
+    "hi": "भास्करराय कई अर्थ देते हैं, कोई गूढ़ अर्थ नहीं। ‘मद’ मदिरा हो सकता है, अर्थात् उसका पान; अथवा ‘मद’ कस्तूरी है और ‘पाटल’ एक पुष्प, जिससे अर्थ होता है कि उनके कपोल कस्तूरी से सजे हैं और पाटल पुष्पों के कर्ण-आभूषणों से छुए हुए हैं। पिछले दो नामों के साथ पढ़ें तो यह लालिमा भीतर के आनन्द का बाहरी चिह्न है।"
+  },
+  "story": {
+    "en": "This completes the line on mada. Bhāskararāya cites the Viśva lexicon, which counts musk, pride, joy, an elephant’s ichor and wine among the meanings of mada; the poet’s word can carry more than one at once.",
+    "hi": "यह ‘मद’ वाली पंक्ति को पूरा करता है। भास्करराय विश्व-कोश का प्रमाण देते हैं, जो कस्तूरी, गर्व, हर्ष, हाथी का मद-जल और मदिरा को ‘मद’ के अर्थों में गिनाता है; कवि का यह शब्द एक साथ एक से अधिक अर्थ धारण कर सकता है।"
+  },
+  "commentary": {
+    "sanskrit": "मदेन पाटले श्वेतरक्ते गण्डभुवौ कपोलभित्ती यस्याः ।",
+    "translation": {
+      "en": "She whose gaṇḍa-bhūs, the broad surfaces of her cheeks, are pāṭala, white touched with red, through mada.",
+      "hi": "जिनकी गण्डभूमियाँ, अर्थात् कपोल-पटल, मद से पाटल यानी श्वेत-रक्त हो गई हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 433 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The musk-and-flower reading is printed partly corrupt in the Wikisource text (लक्षणत्व?, तद्वत्यात्मकारकाचित्रिते); the inner layer gives only its evident sense and should be checked. The Viśva list as printed also includes रेतस्, omitted here. The last sentence of the inner layer is a reflection. Archana भुवे, as in the nāmāvalī and in name 23." }
+}

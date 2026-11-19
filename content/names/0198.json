@@ -1,0 +1,44 @@
+{
+  "number": 198,
+  "verse": 51,
+  "slug": "samanadhika-varjita",
+  "devanagari": "समानाधिकवर्जिता",
+  "iastSplit": "Samānādhika-varjitā",
+  "archana": "ॐ समानाधिकवर्जितायै नमः",
+  "syllables": ["sa", "mā", "nā", "dhi", "ka", "var", "ji", "tā"],
+  "words": [
+    { "sa": "समान", "meaning": { "en": "equal", "hi": "समान, बराबर" } },
+    { "sa": "अधिक", "meaning": { "en": "greater, superior", "hi": "अधिक, श्रेष्ठ" } },
+    { "sa": "वर्जिता", "meaning": { "en": "free of, devoid of", "hi": "रहित" } }
+  ],
+  "meaning": {
+    "en": "She who has no equal and none greater",
+    "hi": "जिनके समान या जिनसे बड़ा कोई नहीं"
+  },
+  "explanation": {
+    "en": "No one is equal to her, and no one is above her. She stands alone, without peer and without superior.",
+    "hi": "कोई उनके समान नहीं, और कोई उनसे ऊपर नहीं। वे अद्वितीय हैं: न कोई उनकी बराबरी का है, न कोई उनसे श्रेष्ठ।"
+  },
+  "inner": {
+    "en": "Bhāskararāya takes the name from the Upaniṣad: ‘none is seen equal to it, nor greater’. He argues that when the śruti denies that such beings are seen, it denies that they exist at all, so she is truly without equal or superior. The name returns to the thought of nistulā (name 184).",
+    "hi": "भास्करराय इस नाम का आधार उपनिषद् का वचन मानते हैं: ‘न उसके समान कोई दिखता है, न उससे अधिक’। उनका तर्क है कि जब श्रुति ऐसे किसी के दिखने का निषेध करती है, तो वह उनके अस्तित्व का ही निषेध करती है; अतः वे सचमुच समान और अधिक दोनों से रहित हैं। यह नाम निस्तुला (नाम 184) के भाव को फिर से कहता है।"
+  },
+  "story": {
+    "en": "With this name Bhāskararāya ends the section, begun at nirañjanā (name 133), on her as pure consciousness worshipped without outer support. The next name, he says, turns to her form with attributes (saguṇa).",
+    "hi": "इस नाम के साथ भास्करराय उस खण्ड को समाप्त करते हैं जो निरञ्जना (नाम 133) से आरम्भ हुआ था, और जिसमें देवी का वर्णन बिना बाहरी आधार के उपासित शुद्ध चेतना के रूप में है। वे कहते हैं कि अगला नाम उनके सगुण रूप की ओर मुड़ता है।"
+  },
+  "commentary": {
+    "sanskrit": "श्रुतौ दर्शननिषेधेन तद्विषययोरेव निषेधात्समानाधिकाभ्यां वर्जिता",
+    "translation": {
+      "en": "Since in the śruti the denial that they are seen is a denial of the very things that would be seen, she is without equal or superior.",
+      "hi": "श्रुति में उनके दिखने के निषेध से उन दोनों विषयों का ही निषेध हो जाता है, इसलिए वे समान और अधिक, दोनों से रहित हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 198 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya cites न तत्समश्चाभ्यधिकश्च दृश्यते without naming the Upaniṣad; it is Śvetāśvatara Upaniṣad 6.8. The quote begins just after that citation." }
+}

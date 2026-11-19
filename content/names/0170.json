@@ -1,0 +1,43 @@
+{
+  "number": 170,
+  "verse": 48,
+  "slug": "nir-lobha",
+  "devanagari": "निर्लोभा",
+  "iastSplit": "Nir-lobhā",
+  "archana": "ॐ निर्लोभायै नमः",
+  "syllables": ["nir", "lo", "bhā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free from", "hi": "रहित, बिना" } },
+    { "sa": "लोभ", "meaning": { "en": "greed, avarice", "hi": "लोभ, लालच" } }
+  ],
+  "meaning": {
+    "en": "Free from greed, boundlessly generous",
+    "hi": "लोभ से रहित, असीम उदार"
+  },
+  "explanation": {
+    "en": "Lobha is greed, the wish to hold on to more and give away less. She is its opposite: she gives without measure.",
+    "hi": "‘लोभ’ का अर्थ है लालच, अधिक पकड़ने और कम देने की चाह। वे इसके ठीक विपरीत हैं: वे बिना माप के देती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says she is free of greed because of her utter generosity. Here he explains the absence of a fault by its opposite virtue: she is not merely without greed but overflowing in giving. He gives no further hidden meaning.",
+    "hi": "भास्करराय कहते हैं कि अत्यन्त उदारता के कारण वे लोभ से रहित हैं। यहाँ वे दोष के अभाव को उसके विपरीत गुण से समझाते हैं: वे केवल लोभहीन नहीं, देने में उमड़ती हुई हैं। वे इससे आगे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "Many of her names praise her giving: she grants wishes, the aims of life, even liberation. This name points to the root of that giving: there is no greed in her to hold anything back.",
+    "hi": "उनके बहुत-से नाम उनके दान की स्तुति करते हैं: वे इच्छाएँ, जीवन के पुरुषार्थ, यहाँ तक कि मोक्ष भी देती हैं। यह नाम उस दान की जड़ बताता है: उनमें कोई लोभ नहीं जो कुछ भी रोक रखे।"
+  },
+  "commentary": {
+    "sanskrit": "अत्यन्तमौदार्यान्निर्लोभा ।",
+    "translation": {
+      "en": "Because of her utter generosity, she is Nirlobhā.",
+      "hi": "अत्यन्त उदारता के कारण वे निर्लोभा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 170 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 437,
+  "verse": 93,
+  "slug": "komalakara",
+  "devanagari": "कोमलाकारा",
+  "iastSplit": "Komalākārā",
+  "archana": "ॐ कोमलाकारायै नमः",
+  "syllables": ["ko", "ma", "lā", "kā", "rā"],
+  "words": [
+    { "sa": "कोमल", "meaning": { "en": "tender, delicate", "hi": "कोमल, सुकुमार" } },
+    { "sa": "आकार", "meaning": { "en": "form, shape", "hi": "आकार, रूप" } }
+  ],
+  "meaning": {
+    "en": "Of tender, delicate form",
+    "hi": "कोमल आकार वाली"
+  },
+  "explanation": {
+    "en": "Her form, the shaping of her limbs, is soft and delicate. Bhāskararāya glosses komala as sukumāra, very tender.",
+    "hi": "उनका आकार, अर्थात् उनके अंगों की रचना, कोमल और सुकुमार है। भास्करराय ‘कोमल’ का अर्थ ‘सुकुमार’ बताते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the literal sense and no hidden meaning. Placed after Kuśalā, the name joins skill and tenderness: the one who fashions worlds comes to her children in a gentle form.",
+    "hi": "भास्करराय केवल शाब्दिक अर्थ देते हैं, कोई गूढ़ अर्थ नहीं। ‘कुशला’ के बाद आकर यह नाम निपुणता और कोमलता को जोड़ता है: जो संसारों को रचती हैं, वे अपनी सन्तानों के पास कोमल रूप में आती हैं।"
+  },
+  "story": {
+    "en": "This is the second name of verse 93. Like the many names on her limbs in the first part of the hymn, it dwells on her beauty, here in a single word.",
+    "hi": "यह श्लोक 93 का दूसरा नाम है। स्तोत्र के आरम्भिक भाग में उनके अंगों का वर्णन करने वाले अनेक नामों की भाँति यह भी उनके सौन्दर्य पर ठहरता है, यहाँ एक ही शब्द में।"
+  },
+  "commentary": {
+    "sanskrit": "कोमलः सुकुमार आकारोऽवयवविन्यासो यस्याः ।",
+    "translation": {
+      "en": "She whose ākāra, the arrangement of her limbs, is komala, tender and delicate.",
+      "hi": "जिनका आकार, अर्थात् अंगों का विन्यास, कोमल यानी सुकुमार है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 437 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the second sentence of the inner layer is a reflection." }
+}

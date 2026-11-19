@@ -1,0 +1,42 @@
+{
+  "number": 395,
+  "verse": 86,
+  "slug": "prasiddha",
+  "devanagari": "प्रसिद्धा",
+  "iastSplit": "Prasiddhā",
+  "archana": "ॐ प्रसिद्धायै नमः",
+  "syllables": ["pra", "sid", "dhā"],
+  "words": [
+    { "sa": "प्रसिद्धा", "meaning": { "en": "well known, renowned", "hi": "प्रसिद्ध, विख्यात" } }
+  ],
+  "meaning": {
+    "en": "The well-known one, known to all as “I”",
+    "hi": "सुप्रसिद्ध, जिन्हें सब ‘मैं’ के रूप में जानते हैं"
+  },
+  "explanation": {
+    "en": "Prasiddhā means well known, celebrated. Bhāskararāya gives the reason: everyone knows her, because everyone knows “I”.",
+    "hi": "‘प्रसिद्धा’ का अर्थ है सुविख्यात। भास्करराय इसका कारण बताते हैं: सब उन्हें जानते हैं, क्योंकि सब ‘मैं’ को जानते हैं।"
+  },
+  "inner": {
+    "en": "The sense of “I am”, present in every being, is she. Bhāskararāya quotes the Devī Bhāgavata: under the guise of the notion “I”, all creatures know her. No one needs to be taught that they exist; that plain awareness of being is the goddess, known to all even when she is not recognised.",
+    "hi": "हर प्राणी में उपस्थित ‘मैं हूँ’ का बोध वही हैं। भास्करराय देवीभागवत का वचन उद्धृत करते हैं: ‘मैं’ की प्रतीति के बहाने सब जीव उन्हें जानते हैं। किसी को यह नहीं सिखाना पड़ता कि वह है; अपने होने का यह सीधा बोध ही देवी हैं, जो पहचानी न जाने पर भी सबको ज्ञात हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya also cites the opening of the Devī Bhāgavata, which meditates on her as the primal vidyā whose form is all consciousness.",
+    "hi": "भास्करराय देवीभागवत के प्रथम स्कन्ध के आरम्भ का वचन भी देते हैं, जो उनका ध्यान सर्वचैतन्यरूपा आद्या विद्या के रूप में करता है।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वैरहमिति वेद्यत्वात्प्रसिद्धा । तथा च देवी भागवते तामहं प्रत्ययव्याजात्सर्वे जानन्ति जन्तव इति ।",
+    "translation": {
+      "en": "She is Prasiddhā, well known, because she is known by all as “I”. So the Devī Bhāgavata says: “Under the guise of the notion ‘I’, all creatures know her.”",
+      "hi": "सबके द्वारा ‘मैं’ के रूप में जानी जाने से वे प्रसिद्धा हैं। जैसा देवीभागवत कहता है: ‘अहं की प्रतीति के बहाने सब जीव उन्हें जानते हैं।’"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 395 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition prints देवी भागवते with a space; quoted as printed. The last sentence of the inner layer is a reflection on Bhāskararāya’s gloss." }
+}

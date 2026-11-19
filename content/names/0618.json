@@ -1,0 +1,58 @@
+{
+  "number": 618,
+  "verse": 124,
+  "slug": "parama",
+  "devanagari": "परमा",
+  "iastSplit": "Paramā",
+  "archana": "ॐ परमायै नमः",
+  "syllables": [
+    "pa",
+    "ra",
+    "mā"
+  ],
+  "words": [
+    {
+      "sa": "परमा",
+      "meaning": {
+        "en": "supreme, highest",
+        "hi": "परम, सर्वोच्च"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "The Supreme",
+    "hi": "परमा, सर्वोच्च"
+  },
+  "explanation": {
+    "en": "Paramā means highest, supreme. There is nothing above her and nothing beyond her.",
+    "hi": "‘परमा’ का अर्थ है सर्वोच्च, सर्वश्रेष्ठ। उनसे ऊपर कुछ नहीं, उनसे परे कुछ नहीं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya reads the syllables: she who measures out (mā) the supreme Brahman (para); or the mā, the glory or Lakṣmī, of Para, that is, Śiva. He also cites the Viṣṇu Purāṇa, where the supreme Brahman has four forms, spirit, the manifest, the unmanifest and time, and its highest state lies beyond them: she is that highest.",
+    "hi": "भास्करराय शब्द के अक्षरों से अर्थ निकालते हैं: जो पर, अर्थात् परब्रह्म, को मापती, उसकी सीमा बनाती हैं; अथवा पर, अर्थात् शिव, की ‘मा’, यानी लक्ष्मी या शोभा। वे विष्णुपुराण का वचन भी देते हैं, जहाँ परब्रह्म के चार रूप बताए गए हैं, पुरुष, व्यक्त, अव्यक्त और काल, और उसका परम पद इन चारों से परे है: वे वही परम हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya also lets ātmā from the previous name carry over, so that paramā with it means “the supreme Self”. The nāmāvali keeps paramā as a name on its own, and this site follows it.",
+    "hi": "भास्करराय पिछले नाम के ‘आत्मा’ को यहाँ भी जोड़ते हैं, ताकि ‘परमा’ के साथ उसका अर्थ ‘परमात्मा’ हो। नामावली ‘परमा’ को स्वतन्त्र नाम मानती है, और यह साइट उसी का अनुसरण करती है।"
+  },
+  "commentary": {
+    "sanskrit": "परं ब्रह्म माति परिच्छिनत्तीति परमा । परस्य शिवस्य मा लक्ष्मीर्वा ।",
+    "translation": {
+      "en": "Paramā: she who mā-s, that is, measures out or delimits, the param, the supreme Brahman. Or she is the mā, the Lakṣmī, of Para, Śiva.",
+      "hi": "परमा: जो पर ब्रह्म को ‘माति’, अर्थात् मापती या परिच्छिन्न करती हैं। अथवा पर, अर्थात् शिव, की मा, यानी लक्ष्मी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 618 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. In Bhāskararāya’s alternative reading आत्मा (617) carries over to this name, and he gives the archana ‘परमायात्मने नमः’; the master text and nāmāvali have परमा alone, archana परमायै नमः, which is followed here."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 588,
+  "verse": 118,
+  "slug": "trikuta",
+  "devanagari": "त्रिकूटा",
+  "iastSplit": "Tri-kūṭā",
+  "archana": "ॐ त्रिकूटायै नमः",
+  "syllables": ["tri", "kū", "ṭā"],
+  "words": [
+    { "sa": "त्रि", "meaning": { "en": "three", "hi": "तीन" } },
+    { "sa": "कूट", "meaning": { "en": "peak; group; a section of a mantra", "hi": "कूट: शिखर; समूह; मन्त्र का खण्ड" } }
+  ],
+  "meaning": {
+    "en": "She of the three kūṭas, in whom every triad gathers",
+    "hi": "तीन कूटों वाली, जिनमें हर त्रयी समाई है"
+  },
+  "explanation": {
+    "en": "Kūṭa means a peak, and also a group or cluster. Bhāskararāya says she holds within her the gathering of every triad: Brahmā, Viṣṇu and Rudra; the three states; the three pīṭhas; the three worlds; the three guṇas, and so on.",
+    "hi": "‘कूट’ का अर्थ शिखर भी है और समूह भी। भास्करराय कहते हैं कि उनमें हर त्रयी का समूह है: ब्रह्मा, विष्णु और रुद्र; तीन अवस्थाएँ; तीन पीठ; तीन लोक; तीन गुण, इत्यादि।"
+  },
+  "inner": {
+    "en": "His second reading is that she is one with the three kūṭas of the mantra, the first of which is the Vāgbhava kūṭa. These are the three sections of the Pañcadaśī, which names 85–87 identified with her face, with her body from neck to waist, and with the part below her waist.",
+    "hi": "उनका दूसरा अर्थ है कि वे मन्त्र के तीन कूटों से, जिनमें पहला वाग्भव कूट है, अभिन्न हैं। ये पञ्चदशी के तीन खण्ड हैं, जिन्हें नाम 85–87 में उनके मुख, कण्ठ से कटि तक के भाग, और कटि से नीचे के भाग से एक बताया गया था।"
+  },
+  "story": {
+    "en": "The three kūṭas return a few names later, where Bhāskararāya links them with the moon in the head, the sun in the heart and the fire in the triangle of the mūlādhāra (names 592, 596, 597).",
+    "hi": "तीन कूट कुछ नाम बाद फिर आते हैं, जहाँ भास्करराय उन्हें सिर में चन्द्रमा, हृदय में सूर्य और मूलाधार के त्रिकोण में अग्नि से जोड़ते हैं (नाम 592, 596, 597)।"
+  },
+  "commentary": {
+    "sanskrit": "त्रयाणां ब्रह्मादीनामवस्थापीठलोकगुणादीनां वा कूटं समूहो यस्याम् । वाग्भवादिकूटत्रयाभिन्ना वा ।",
+    "translation": {
+      "en": "She in whom is the kūṭa, the gathering, of the triads: Brahmā and the others, or the states, pīṭhas, worlds, guṇas and so on. Or, she is one with the three kūṭas beginning with Vāgbhava.",
+      "hi": "जिनमें त्रयियों का कूट, अर्थात् समूह, है: ब्रह्मा आदि का, या अवस्थाओं, पीठों, लोकों, गुणों आदि का। अथवा, वे वाग्भव आदि तीन कूटों से अभिन्न हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 588 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Mantra name: meaning only; the kūṭas are named, not given." }
+}

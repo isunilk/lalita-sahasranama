@@ -1,0 +1,44 @@
+{
+  "number": 578,
+  "verse": 117,
+  "slug": "maha-kailasa-nilaya",
+  "devanagari": "महाकैलासनिलया",
+  "iastSplit": "Mahā-kailāsa-nilayā",
+  "archana": "ॐ महाकैलासनिलयायै नमः",
+  "syllables": ["ma", "hā", "kai", "lā", "sa", "ni", "la", "yā"],
+  "words": [
+    { "sa": "महा", "meaning": { "en": "great", "hi": "महा, महान" } },
+    { "sa": "कैलास", "meaning": { "en": "Kailāsa, Śiva’s mountain", "hi": "कैलास" } },
+    { "sa": "निलय", "meaning": { "en": "abode, dwelling", "hi": "निवास, धाम" } }
+  ],
+  "meaning": {
+    "en": "Who dwells in Mahākailāsa, the Great Kailāsa",
+    "hi": "महाकैलास में निवास करने वाली"
+  },
+  "explanation": {
+    "en": "Her home is Mahākailāsa, the Great Kailāsa. Bhāskararāya says it is a world far beyond the Kailāsa we know, famed in the Śiva Purāṇa and other texts as the dwelling place of Paramaśiva.",
+    "hi": "उनका धाम महाकैलास है। भास्करराय कहते हैं कि यह हमारे जाने हुए कैलास से बहुत परे का लोक है, जो शिव पुराण आदि में परमशिव के निवास-स्थान के रूप में प्रसिद्ध है।"
+  },
+  "inner": {
+    "en": "He gives two inner readings. Kailāsa is the contemplation of oneness named under the previous name, the identity of the letters with the Śrīcakra; or it is the thousand-petalled lotus in the brahmarandhra, at the crown of the head, where, as the Tripurāsāra says, the god of gods abides as the bindu. It is ‘great’ because this way of contemplating the cakra ranks above the other prastāras.",
+    "hi": "वे दो आन्तरिक अर्थ देते हैं। पिछले नाम में कही गई अभेद-भावना, अर्थात् अक्षरों और श्रीचक्र का ऐक्य, ही कैलास है; अथवा, त्रिपुरासार के अनुसार, सिर के शिखर पर ब्रह्मरन्ध्र में स्थित सहस्रार कमल कैलास है, जहाँ देवाधिदेव बिन्दु-रूप में विराजते हैं। यह ‘महा’ इसलिए है क्योंकि श्रीचक्र की भावना की यह रीति अन्य प्रस्तारों से उत्तम है।"
+  },
+  "story": {
+    "en": "Kailāsa in the Himālaya is Śiva’s famous mountain home; the Great Kailāsa lies beyond it. The next names describe her there: her soft arms, her worthiness of worship, her compassion and her great sovereignty, which Bhāskararāya explains as lordship over Mahākailāsa.",
+    "hi": "हिमालय का कैलास शिव का प्रसिद्ध धाम है; महाकैलास उससे परे है। अगले नाम उनके वहाँ के स्वरूप का वर्णन करते हैं: कोमल भुजाएँ, पूजनीयता, करुणा और महासाम्राज्य, जिसे भास्करराय महाकैलास का आधिपत्य बताते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "महाकैलासो नाम कैलासादतीव परतो लोकः परमशिवावासस्थानत्वेन शिवपुराणादौ प्रसिद्धः ।",
+    "translation": {
+      "en": "Mahākailāsa is a world lying far beyond Kailāsa, famed in the Śiva Purāṇa and elsewhere as the dwelling place of Paramaśiva.",
+      "hi": "महाकैलास कैलास से बहुत परे का एक लोक है, जो शिव पुराण आदि में परमशिव के निवास-स्थान के रूप में प्रसिद्ध है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 578 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Cakra name: meaning only. The edition reads पूर्वनामोक्ताभेदभावनाविशेषो कैलासः (evidently for …विशेषः कैलासः) and सर्वाशन्यादि… in the list of prastāras; these passages are summarised, not quoted." }
+}

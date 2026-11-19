@@ -1,0 +1,43 @@
+{
+  "number": 163,
+  "verse": 47,
+  "slug": "moha-nashini",
+  "devanagari": "मोहनाशिनी",
+  "iastSplit": "Moha-nāśinī",
+  "archana": "ॐ मोहनाशिन्यै नमः",
+  "syllables": ["mo", "ha", "nā", "śi", "nī"],
+  "words": [
+    { "sa": "मोह", "meaning": { "en": "delusion", "hi": "मोह, भ्रम" } },
+    { "sa": "नाशिनी", "meaning": { "en": "she who destroys", "hi": "नाश करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Destroyer of delusion",
+    "hi": "मोह का नाश करने वाली"
+  },
+  "explanation": {
+    "en": "She destroys the delusion of her devotees. Where there was confusion, she brings clear sight.",
+    "hi": "वे अपने भक्तों के मोह का नाश करती हैं। जहाँ भ्रम था, वहाँ वे स्पष्ट दृष्टि लाती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says she destroys delusion by granting the knowledge of oneness. He quotes the Īśa Upaniṣad: “what delusion, what sorrow, for one who sees oneness?” Delusion lives in seeing many separate things; when only the one is seen, it has nowhere to stand.",
+    "hi": "भास्करराय कहते हैं कि वे एकत्व का ज्ञान देकर मोह का नाश करती हैं। वे ईश उपनिषद् का वचन देते हैं: ‘जो एकत्व को देखता है, उसके लिए कहाँ मोह, कहाँ शोक?’ मोह अनेक अलग वस्तुएँ देखने में ही टिका है; जब केवल एक दिखता है, तब उसके टिकने की जगह नहीं रहती।"
+  },
+  "story": {
+    "en": "With Nirmohā this makes one of the paired names of verse 47. The pattern is the same throughout: she is free of the fault herself, and so she can free others from it.",
+    "hi": "‘निर्मोहा’ के साथ यह श्लोक 47 का एक जोड़ा बनाता है। क्रम हर जगह एक ही है: वे स्वयं दोष से रहित हैं, इसलिए दूसरों को भी उससे मुक्त कर सकती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "मोहमेकत्वज्ञानदानेन नाशयतीति मोहनाशिनी ।",
+    "translation": {
+      "en": "She destroys delusion by granting the knowledge of oneness; hence Mohanāśinī.",
+      "hi": "वे एकत्व का ज्ञान देकर मोह का नाश करती हैं, इसलिए मोहनाशिनी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 163 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The last sentence of the inner layer is a reflection." }
+}

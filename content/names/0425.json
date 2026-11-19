@@ -1,0 +1,42 @@
+{
+  "number": 425,
+  "verse": 91,
+  "slug": "tat",
+  "devanagari": "तत्",
+  "iastSplit": "Tat",
+  "archana": "ॐ तस्मै नमः",
+  "syllables": ["tat"],
+  "words": [
+    { "sa": "तत्", "meaning": { "en": "that; the word for Brahman", "hi": "वह; ब्रह्म का वाचक" } }
+  ],
+  "meaning": {
+    "en": "That: the Reality ever present in every mind",
+    "hi": "‘तत्’, वह परम सत्य जो हर बुद्धि में सदा विद्यमान है"
+  },
+  "explanation": {
+    "en": "Tat, ‘that’, is the word the Upaniṣads use for Brahman, the Reality beyond name. Bhāskararāya explains that tat points to what is present in one’s mind, and the Goddess is always present in the minds of all, so ‘That’ names her.",
+    "hi": "‘तत्’ अर्थात् ‘वह’, उपनिषदों में ब्रह्म के लिए प्रयुक्त शब्द है, उस सत्य के लिए जो नाम से परे है। भास्करराय बताते हैं कि ‘तत्’ उस वस्तु का बोध कराता है जो बुद्धि में उपस्थित हो, और देवी सबकी बुद्धि में सदा उपस्थित रहती हैं, इसलिए ‘वह’ उन्हीं का नाम है।"
+  },
+  "inner": {
+    "en": "With the next two names this word recalls the great saying of the Upaniṣads, tat tvam asi, ‘That thou art’. Bhāskararāya notes that even when tat and tvam stand for the attributeless Brahman, as in that saying, they remain pronouns. Tat is the Mother as the Reality behind all things.",
+    "hi": "अगले दो नामों के साथ यह शब्द उपनिषद् के महावाक्य ‘तत्त्वमसि’, ‘वह तुम हो’, का स्मरण कराता है। भास्करराय बताते हैं कि जब ‘तत्’ और ‘त्वम्’ उस महावाक्य की भाँति निर्गुण ब्रह्म का बोध कराते हैं, तब भी वे सर्वनाम ही रहते हैं। ‘तत्’ सब वस्तुओं के पीछे स्थित परम सत्य के रूप में माँ हैं।"
+  },
+  "story": {
+    "en": "Many chant tattvamayī here as one name, ‘made of the tattvas’. Bhāskararāya divides it into tat, tvam and ayī, and explains that the authors of the counting rules made this division to avoid repeating Tattvamayī, which comes again among the last hundred names (907). The fourteen names he counts from Manovācāmagocarā (415) to Pañcakośāntarasthitā (428) include these three.",
+    "hi": "बहुत से लोग यहाँ ‘तत्त्वमयी’ को एक नाम, ‘तत्त्वों से बनी’, के रूप में पढ़ते हैं। भास्करराय इसे तत्, त्वम् और अयी में विभाजित करते हैं और बताते हैं कि गणना के नियम बनाने वालों ने यह विभाजन इसलिए किया कि अन्तिम सौ नामों में फिर आने वाले ‘तत्त्वमयी’ (907) की पुनरुक्ति न हो। मनोवाचामगोचरा (415) से पञ्चकोशान्तरस्थिता (428) तक वे जो चौदह नाम गिनते हैं, उनमें ये तीनों सम्मिलित हैं।"
+  },
+  "commentary": {
+    "sanskrit": "तत्पदस्य बुद्धिविपरिवृत्तिविषये शक्तिः । भगवत्यपि सर्वेषां बुद्धौ विपरिवर्तत एवेति भवति तत्पदवाच्या ।",
+    "translation": {
+      "en": "The word tat has its power of meaning in whatever is turning within the mind. The Bhagavatī too is ever turning within the minds of all, and so she is what the word tat denotes.",
+      "hi": "‘तत्’ पद का अर्थ-सामर्थ्य उस वस्तु में है जो बुद्धि में घूम रही हो। भगवती भी सबकी बुद्धि में सदा विद्यमान रहती हैं, इसलिए वे ‘तत्’ पद की वाच्य हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 425 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Many chanters take तत्त्वमयी as a single name; this file follows the master text and Bhāskararāya, who count तत् (425), त्वम् (426) and अयी (427), and explains the division as made by the authors of the counting rules to avoid repeating तत्त्वमयी (907). Archana तस्मै is the form Bhāskararāya prescribes: he rejects the forms यदे नमः / तदे नमः used by some, since तत् stays a pronoun, and takes it as neuter, qualifying Brahman. He cites Śaṅkara’s Viṣṇu Sahasranāma bhāṣya on यत्तत्पदमनुत्तमम्." }
+}

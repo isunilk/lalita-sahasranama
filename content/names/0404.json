@@ -1,0 +1,48 @@
+{
+  "number": 404,
+  "verse": 88,
+  "slug": "bhakta-harda-tamo-bheda-bhanumad-bhanu-santati",
+  "devanagari": "भक्तहार्दतमोभेदभानुमद्भानुसन्ततिः",
+  "iastSplit": "Bhakta-hārda-tamo-bheda-bhānumad-bhānu-santatiḥ",
+  "archana": "ॐ भक्तहार्दतमोभेदभानुमद्भानुसन्तत्यै नमः",
+  "syllables": ["bhak", "ta", "hār", "da", "ta", "mo", "bhe", "da", "bhā", "nu", "mad", "bhā", "nu", "san", "ta", "tiḥ"],
+  "words": [
+    { "sa": "भक्त", "meaning": { "en": "devotee", "hi": "भक्त" } },
+    { "sa": "हार्द", "meaning": { "en": "of the heart, dwelling in the heart", "hi": "हृदय में स्थित" } },
+    { "sa": "तमस्", "meaning": { "en": "darkness", "hi": "अन्धकार" } },
+    { "sa": "भेद", "meaning": { "en": "breaking, destroying", "hi": "भेदन, नाश" } },
+    { "sa": "भानुमत्", "meaning": { "en": "the sun, “possessor of rays”", "hi": "सूर्य" } },
+    { "sa": "भानु", "meaning": { "en": "ray of light", "hi": "किरण" } },
+    { "sa": "सन्तति", "meaning": { "en": "unbroken stream, succession", "hi": "अविरल धारा, परम्परा" } }
+  ],
+  "meaning": {
+    "en": "A stream of sunrays dispelling the darkness in devotees’ hearts",
+    "hi": "भक्तों के हृदय का अन्धकार मिटाने वाली सूर्य-किरणों की धारा"
+  },
+  "explanation": {
+    "en": "Darkness lodges in the hearts of devotees, and she breaks it as the sun’s rays break the night. She is not a single ray but a santati, an unbroken stream of them.",
+    "hi": "भक्तों के हृदय में अन्धकार बसा रहता है, और वे उसे वैसे ही भेद देती हैं जैसे सूर्य की किरणें रात को। वे एक किरण नहीं, किरणों की अविरल धारा (सन्तति) हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya explains the darkness as ajñāna, ignorance, the power that veils the truth; the plural tamāṃsi shows that there are many such veils in the heart. Her grace removes them as sunrise removes the night.",
+    "hi": "भास्करराय इस अन्धकार को अज्ञान बताते हैं, वह शक्ति जो सत्य को ढक देती है; बहुवचन ‘तमांसि’ बताता है कि हृदय में ऐसे अनेक आवरण हैं। उनकी कृपा इन्हें वैसे ही हटा देती है जैसे सूर्योदय रात को।"
+  },
+  "story": {
+    "en": "This long name fills the whole first line of verse 88. Just before it, in name 403, she was the moonlight that makes the lilies of Mahākāmeśvara’s eyes open; now she is sunlight for her devotees. Bhāskararāya notes that hārda, ‘of the heart’, is built on hṛd, the short form of hṛdaya.",
+    "hi": "यह लम्बा नाम श्लोक 88 की पूरी पहली पंक्ति है। इससे ठीक पहले, नाम 403 में, वे महाकामेश्वर के नेत्र-कुमुदों को खिलाने वाली चाँदनी थीं; अब वे भक्तों के लिए सूर्य का प्रकाश हैं। भास्करराय बताते हैं कि ‘हार्द’ (हृदय सम्बन्धी) शब्द ‘हृदय’ के लघु रूप ‘हृद्’ से बना है।"
+  },
+  "commentary": {
+    "sanskrit": "भक्तानां हृदि भावनी यानि तमांस्यावरणशक्तिमन्त्यज्ञानानि तेषां भेदे नाशने भानुमतः सूर्यस्य भानुसन्ततिः किरणपरम्परेव ।",
+    "translation": {
+      "en": "The darknesses in the hearts of devotees are the forms of ignorance that have the power of veiling; for their bheda, their destruction, she is like the bhānu-santati, the succession of rays, of the bhānumat, the sun.",
+      "hi": "भक्तों के हृदय में जो अन्धकार हैं, वे आवरण-शक्ति वाले अज्ञान हैं; उनके भेद अर्थात् नाश के लिए वे भानुमान् अर्थात् सूर्य की भानु-सन्तति, किरणों की परम्परा, के समान हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 404 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The quoted sentence is copied as printed; भावनी there is evidently a misprint for भवानि (‘which exist’), and the translation follows that sense." }
+}

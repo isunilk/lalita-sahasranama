@@ -1,0 +1,42 @@
+{
+  "number": 311,
+  "verse": 71,
+  "slug": "rasya",
+  "devanagari": "रस्या",
+  "iastSplit": "Rasyā",
+  "archana": "ॐ रस्यायै नमः",
+  "syllables": ["ras", "yā"],
+  "words": [
+    { "sa": "रस्या", "meaning": { "en": "to be tasted, to be relished", "hi": "आस्वाद्य, आस्वादन योग्य" } }
+  ],
+  "meaning": {
+    "en": "She who is to be relished, the essence of delight",
+    "hi": "आस्वादन योग्य, आनन्द का सार"
+  },
+  "explanation": {
+    "en": "Rasa is taste, flavour, essence. Bhāskararāya explains Rasyā as she who is fit to be tasted and relished.",
+    "hi": "‘रस’ का अर्थ है स्वाद, सार, आनन्द। भास्करराय ‘रस्या’ का अर्थ बताते हैं: जिनका आस्वादन किया जाए, जो आस्वादन के योग्य हैं।"
+  },
+  "inner": {
+    "en": "He grounds it in the Vedic words “raso vai saḥ”, “that, truly, is rasa”; the Taittirīya Upaniṣad, where they stand, goes on to say that one who gains this rasa becomes blissful. She is not only known as a fact; she is tasted, as sweetness is tasted.",
+    "hi": "वे इसका आधार श्रुति के वचन ‘रसो वै सः’ (वह निश्चय ही रस है) में देते हैं; तैत्तिरीय उपनिषद्, जहाँ यह वचन है, आगे कहता है कि इस रस को पाकर ही मनुष्य आनन्दित होता है। उन्हें केवल एक तथ्य की तरह जाना नहीं जाता; उनका वैसे ही आस्वाद लिया जाता है जैसे मधुरता का।"
+  },
+  "story": {
+    "en": "In Indian poetics rasa also names the flavour of feeling that a poem awakens in its hearer. Here the word reaches beyond art, to the Devī as the source of every delight.",
+    "hi": "भारतीय काव्यशास्त्र में ‘रस’ उस भाव-आस्वाद को भी कहते हैं जो काव्य सुनने वाले के भीतर जगाता है। यहाँ यह शब्द कला से भी आगे जाकर देवी को हर आनन्द के मूल के रूप में दिखाता है।"
+  },
+  "commentary": {
+    "sanskrit": "रसयितुमास्वादितुं योग्या रस्या ।",
+    "translation": {
+      "en": "Rasyā: she who is fit to be tasted, to be relished.",
+      "hi": "जो रसास्वादन के, अर्थात् आस्वादन के योग्य हैं, वे रस्या हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 311 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya cites रसो वै सः only as śruti; the reference to the Taittirīya Upaniṣad (2.7) and its continuation is the drafter’s. The last sentence of the inner layer is a reflection." }
+}

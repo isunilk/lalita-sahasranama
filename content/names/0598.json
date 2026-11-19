@@ -1,0 +1,42 @@
+{
+  "number": 598,
+  "verse": 120,
+  "slug": "dakshayani",
+  "devanagari": "दाक्षायणी",
+  "iastSplit": "Dākṣāyaṇī",
+  "archana": "ॐ दाक्षायण्यै नमः",
+  "syllables": ["dāk", "ṣā", "ya", "ṇī"],
+  "words": [
+    { "sa": "दाक्षायणी", "meaning": { "en": "daughter of Dakṣa", "hi": "दक्ष की पुत्री" } }
+  ],
+  "meaning": {
+    "en": "Daughter of Dakṣa",
+    "hi": "दक्ष की पुत्री"
+  },
+  "explanation": {
+    "en": "Dākṣāyaṇī is the daughter of Dakṣa the Prajāpati: Satī, Śiva’s first wife. Bhāskararāya notes that the lexicon Viśva gives Dākṣāyaṇī as a name of Aparṇā (Pārvatī), of Rohiṇī and of the stars, so she can also be read as Aśvinī and the other lunar mansions, who were likewise daughters of Dakṣa.",
+    "hi": "दाक्षायणी प्रजापति दक्ष की पुत्री, शिव की पहली पत्नी सती, हैं। भास्करराय बताते हैं कि ‘विश्व’ नामक कोश में ‘दाक्षायणी’ अपर्णा (पार्वती), रोहिणी और तारकाओं का नाम है, इसलिए उन्हें अश्विनी आदि नक्षत्रों के रूप में भी पढ़ा जा सकता है, जो दक्ष की ही पुत्रियाँ थीं।"
+  },
+  "inner": {
+    "en": "He adds a ritual reading: the repeated performance of the new-moon and full-moon sacrifices is called the Dākṣāyaṇa sacrifice, and she is its form. He gives no further hidden meaning.",
+    "hi": "वे एक याज्ञिक अर्थ भी जोड़ते हैं: दर्श और पूर्णमास यज्ञों की बार-बार की जाने वाली आवृत्ति ‘दाक्षायण यज्ञ’ कहलाती है, और वे उसी का रूप हैं। वे इससे आगे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "Satī, daughter of Dakṣa, was married to Śiva. When Dakṣa held a great sacrifice and dishonoured Śiva, Satī gave up her body, and she was later born again as Pārvatī, daughter of the Himālaya. The last name of this verse tells what became of Dakṣa’s sacrifice.",
+    "hi": "दक्ष की पुत्री सती का विवाह शिव से हुआ था। जब दक्ष ने एक महायज्ञ किया और उसमें शिव का अपमान किया, तब सती ने अपना शरीर त्याग दिया, और बाद में हिमालय की पुत्री पार्वती के रूप में फिर जन्म लिया। इस श्लोक का अन्तिम नाम बताता है कि दक्ष के यज्ञ का क्या हुआ।"
+  },
+  "commentary": {
+    "sanskrit": "दक्षस्य कन्या दाक्षायणी ।",
+    "translation": {
+      "en": "The daughter of Dakṣa is Dākṣāyaṇī.",
+      "hi": "दक्ष की कन्या दाक्षायणी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 598 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The story layer gives the familiar Purāṇic account of Satī; Bhāskararāya does not narrate it here." }
+}

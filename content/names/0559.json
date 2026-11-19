@@ -1,0 +1,44 @@
+{
+  "number": 559,
+  "verse": 114,
+  "slug": "tambula-purita-mukhi",
+  "devanagari": "ताम्बूलपूरितमुखी",
+  "iastSplit": "Tāmbūla-pūrita-mukhī",
+  "archana": "ॐ ताम्बूलपूरितमुख्यै नमः",
+  "syllables": ["tām", "bū", "la", "pū", "ri", "ta", "mu", "khī"],
+  "words": [
+    { "sa": "ताम्बूल", "meaning": { "en": "betel: the betel leaf with areca nut and spices", "hi": "ताम्बूल, पान" } },
+    { "sa": "पूरित", "meaning": { "en": "filled", "hi": "भरा हुआ" } },
+    { "sa": "मुख", "meaning": { "en": "mouth", "hi": "मुख" } }
+  ],
+  "meaning": {
+    "en": "Whose mouth is filled with betel",
+    "hi": "जिनका मुख ताम्बूल से भरा है"
+  },
+  "explanation": {
+    "en": "She is pictured with her mouth full of tāmbūla, the betel leaf prepared with areca nut and fragrant spices. Chewing betel was a mark of royal ease and festivity, and it reddens the lips and mouth.",
+    "hi": "उनका मुख ताम्बूल से भरा है, अर्थात् सुपारी और सुगन्धित मसालों के साथ तैयार किए गए पान से। ताम्बूल राजसी आनन्द और उत्सव का चिह्न माना जाता था, और उससे होंठ और मुख लाल हो उठते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the plain sense here. In worship, tāmbūla is offered after the food offering; a mouth full of betel shows the Mother content, having received what her devotees bring.",
+    "hi": "भास्करराय यहाँ केवल सीधा अर्थ देते हैं। पूजा में नैवेद्य के बाद ताम्बूल अर्पित किया जाता है; ताम्बूल से भरा मुख यह दिखाता है कि माँ भक्तों की भेंट स्वीकार करके प्रसन्न हैं।"
+  },
+  "story": {
+    "en": "Earlier, name 26 described the fragrance of her camphor-scented betel roll filling every direction. This name and the next again picture her form: the betel-reddened mouth and a glow like the pomegranate flower.",
+    "hi": "पहले नाम 26 में उनके कर्पूर-युक्त पान की सुगन्ध के सभी दिशाओं में फैलने का वर्णन आया था। यह नाम और अगला नाम फिर उनके रूप का चित्र खींचते हैं: ताम्बूल से रंगा मुख और अनार के फूल-सी आभा।"
+  },
+  "commentary": {
+    "sanskrit": "ताम्बूलेन पूरितं मुखं यस्याः ।",
+    "translation": {
+      "en": "She whose mouth is filled with betel.",
+      "hi": "जिनका मुख ताम्बूल से भरा है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 559 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the inner layer’s remark on tāmbūla as an offering in worship is a reflection." }
+}

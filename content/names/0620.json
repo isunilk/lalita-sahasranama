@@ -1,0 +1,87 @@
+{
+  "number": 620,
+  "verse": 124,
+  "slug": "aneka-koti-brahmanda-janani",
+  "devanagari": "अनेककोटिब्रह्माण्डजननी",
+  "iastSplit": "Aneka-koṭi-brahmāṇḍa-jananī",
+  "archana": "ॐ अनेककोटिब्रह्माण्डजनन्यै नमः",
+  "syllables": [
+    "a",
+    "ne",
+    "ka",
+    "ko",
+    "ṭib",
+    "rah",
+    "māṇ",
+    "ḍa",
+    "ja",
+    "na",
+    "nī"
+  ],
+  "words": [
+    {
+      "sa": "अनेक",
+      "meaning": {
+        "en": "many, countless",
+        "hi": "अनेक"
+      }
+    },
+    {
+      "sa": "कोटि",
+      "meaning": {
+        "en": "crore, ten million",
+        "hi": "करोड़"
+      }
+    },
+    {
+      "sa": "ब्रह्माण्ड",
+      "meaning": {
+        "en": "universe, the cosmic egg",
+        "hi": "ब्रह्माण्ड"
+      }
+    },
+    {
+      "sa": "जननी",
+      "meaning": {
+        "en": "mother, she who gives birth",
+        "hi": "जननी, माता"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Mother of countless millions of universes",
+    "hi": "अनेक करोड़ ब्रह्माण्डों की जननी"
+  },
+  "explanation": {
+    "en": "A koṭi is ten million, and aneka means many. A brahmāṇḍa, “egg of Brahmā”, is a whole universe. She gives birth not to one universe but to countless crores of them.",
+    "hi": "‘कोटि’ का अर्थ है करोड़, और ‘अनेक’ का अर्थ है बहुत। ‘ब्रह्माण्ड’, अर्थात् ब्रह्मा का अण्ड, एक सम्पूर्ण सृष्टि है। वे एक नहीं, अनगिनत करोड़ों ब्रह्माण्डों को जन्म देती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya also reads it as mother of the cosmic selves of these universes. Virāṭ identifies with the gross universe, Svarāṭ with the collective subtle body within it, and Samrāṭ with the unmanifest cause of both. She is the source even of these.",
+    "hi": "भास्करराय इसे इन ब्रह्माण्डों के अभिमानी देवताओं की जननी के रूप में भी पढ़ते हैं। विराट् स्थूल ब्रह्माण्ड का अभिमानी है, स्वराट् उसके भीतर के समष्टि सूक्ष्म शरीर का, और सम्राट् इन दोनों के अव्याकृत कारण का। वे इनकी भी जननी हैं।"
+  },
+  "story": {
+    "en": "Purāṇic cosmology speaks of countless universes, each with its own Brahmā, Viṣṇu and Śiva. This name makes her the mother of all of them at once.",
+    "hi": "पुराणों की सृष्टि-विद्या अनगिनत ब्रह्माण्डों की बात करती है, जिनमें से प्रत्येक के अपने ब्रह्मा, विष्णु और शिव हैं। यह नाम उन्हें इन सबकी एक साथ जननी बताता है।"
+  },
+  "commentary": {
+    "sanskrit": "अनेका अनन्ताः कोटयो ये ब्रह्माण्डास्तेषां जननी जनयित्री ।",
+    "translation": {
+      "en": "The jananī, the one who gives birth, to the brahmāṇḍas, which are aneka, endless, crores in number.",
+      "hi": "उन ब्रह्माण्डों की जननी, अर्थात् उत्पन्न करने वाली, जिनकी संख्या अनेक, अनन्त करोड़ है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 620 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The Purāṇic picture of many universes, each with its own trinity, is general context, not from Bhāskararāya; check."
+  }
+}

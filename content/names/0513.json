@@ -1,0 +1,44 @@
+{
+  "number": 513,
+  "verse": 105,
+  "slug": "kakini-rupa-dharini",
+  "devanagari": "काकिनीरूपधारिणी",
+  "iastSplit": "Kākinī-rūpa-dhāriṇī",
+  "archana": "ॐ काकिनीरूपधारिण्यै नमः",
+  "syllables": ["kā", "ki", "nī", "rū", "pa", "dhā", "ri", "ṇī"],
+  "words": [
+    { "sa": "काकिनी", "meaning": { "en": "Kākinī, the yoginī of the svādhiṣṭhāna lotus", "hi": "काकिनी, स्वाधिष्ठान-कमल की योगिनी" } },
+    { "sa": "रूप", "meaning": { "en": "form", "hi": "रूप" } },
+    { "sa": "धारिणी", "meaning": { "en": "bearing, assuming", "hi": "धारण करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who bears the form of Kākinī",
+    "hi": "काकिनी का रूप धारण करने वाली"
+  },
+  "explanation": {
+    "en": "This name closes the ten names on the svādhiṣṭhāna lotus (504–513). Bhāskararāya says she bears Kākinī’s form, and he glosses form (rūpa) as her own nature (svarūpa).",
+    "hi": "यह नाम स्वाधिष्ठान-कमल के दस नामों (504–513) को पूरा करता है। भास्करराय कहते हैं कि वे काकिनी का रूप धारण करती हैं, और ‘रूप’ का अर्थ वे ‘स्वरूप’ बताते हैं।"
+  },
+  "inner": {
+    "en": "He gives no hidden meaning, but his gloss is telling: rūpa here is svarūpa, ‘own nature’. The Goddess does not put on Kākinī’s form like a costume; Kākinī’s form is what she herself is in that centre.",
+    "hi": "वे कोई गूढ़ अर्थ नहीं देते, पर उनकी व्याख्या अर्थपूर्ण है: यहाँ ‘रूप’ का अर्थ ‘स्वरूप’, अर्थात् अपना स्वभाव, है। देवी काकिनी का रूप किसी वेश की तरह नहीं पहनतीं; उस चक्र में काकिनी का रूप ही उनका अपना स्वरूप है।"
+  },
+  "story": {
+    "en": "Names 504–513 draw Kākinī’s portrait: the six-petalled lotus, four faces, the trident and other weapons, the yellow colour, pride, the fat, madhu, Bandhinī and her companions, and curd-rice. The only other group to close with rūpadhāriṇī is Hākinī’s.",
+    "hi": "नाम 504–513 काकिनी का चित्र बनाते हैं: छह दलों वाला कमल, चार मुख, शूल आदि आयुध, पीला वर्ण, गर्व, मेद-धातु, मधु, बन्धिनी और उनकी सहचरियाँ, और दही-भात। ‘रूपधारिणी’ पर समाप्त होने वाला दूसरा समूह केवल हाकिनी का है।"
+  },
+  "commentary": {
+    "sanskrit": "काकिन्या रूपं स्वरूपं धारयतीति तथा ।।",
+    "translation": {
+      "en": "She bears the rūpa, that is, the very form (svarūpa), of Kākinī.",
+      "hi": "वे काकिनी का रूप, अर्थात् स्वरूप, धारण करती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 513 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya glosses rūpa as svarūpa; the inner layer adds a short reflection on that gloss. Hākinī’s closing name (527, हाकिनीरूपधारिणी) is cited from the master text." }
+}

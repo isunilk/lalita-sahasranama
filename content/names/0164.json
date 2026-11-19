@@ -1,0 +1,43 @@
+{
+  "number": 164,
+  "verse": 47,
+  "slug": "nir-mama",
+  "devanagari": "निर्ममा",
+  "iastSplit": "Nir-mamā",
+  "archana": "ॐ निर्ममायै नमः",
+  "syllables": ["nir", "ma", "mā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free from", "hi": "रहित, बिना" } },
+    { "sa": "मम", "meaning": { "en": "‘mine’, the sense of possession", "hi": "‘मेरा’, ममत्व" } }
+  ],
+  "meaning": {
+    "en": "Free from the sense of ‘mine’",
+    "hi": "‘मेरा’ के भाव से रहित"
+  },
+  "explanation": {
+    "en": "Mama means ‘mine’. She has no sense of possession, no ‘this is mine and that is yours’, because nothing stands apart from her to be owned.",
+    "hi": "‘मम’ का अर्थ है ‘मेरा’। उनमें स्वामित्व का कोई भाव नहीं, ‘यह मेरा, वह तेरा’ नहीं, क्योंकि उनसे अलग कुछ है ही नहीं जिसे अपना बनाया जाए।"
+  },
+  "inner": {
+    "en": "Bhāskararāya explains that mama here is an indeclinable standing for the thought ‘this is mine’. Such a thought by its nature grasps a relation that depends on difference: an owner, and something other that is owned. In what is not different from oneself there is no such thought, and nothing is different from her.",
+    "hi": "भास्करराय समझाते हैं कि यहाँ ‘मम’ एक अव्यय है, जो ‘यह मेरा है’ इस विचार का बोध कराता है। ऐसा विचार स्वभाव से भेद पर टिके सम्बन्ध को पकड़ता है: एक स्वामी, और उससे अलग कोई वस्तु जिस पर स्वामित्व हो। जो अपने से अभिन्न है, उसमें ऐसा विचार नहीं उठता, और उनसे भिन्न कुछ भी नहीं।"
+  },
+  "story": {
+    "en": "In the Gītā the sage of steady wisdom is called nirmama and nirahaṅkāra, free of ‘mine’ and of ‘I’. Verse 47 gives her both names, 161 and 164.",
+    "hi": "गीता में स्थितप्रज्ञ को ‘निर्मम’ और ‘निरहंकार’ कहा गया है, अर्थात् ‘मेरा’ और ‘मैं’ दोनों के भाव से रहित। श्लोक 47 में उन्हें ये दोनों नाम मिलते हैं, नाम 161 और 164।"
+  },
+  "commentary": {
+    "sanskrit": "ममशब्दो विभक्तिप्रतिरूपकमव्ययं ममेदमित्याकारकबुद्धिपरम् । सा च भेदघटितसम्बन्धं स्वरसतो विषयीकरोति । स्वाभिन्ने तदभावान्निर्ममा ।",
+    "translation": {
+      "en": "The word mama is an indeclinable resembling a case-form, standing for the thought ‘this is mine’. That thought by its nature takes as its object a relation built on difference. In what is not different from oneself it is absent; hence Nirmamā.",
+      "hi": "‘मम’ शब्द विभक्ति-रूप जैसा दिखने वाला अव्यय है, जो ‘यह मेरा है’ इस आकार की बुद्धि को बताता है। वह बुद्धि स्वभाव से भेद पर आधारित सम्बन्ध को विषय बनाती है। जो अपने से अभिन्न है, उसमें वह नहीं होती; इसलिए वे निर्ममा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 164 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Gītā reference (2.71) in the story layer is context, not from the commentary." }
+}

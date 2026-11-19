@@ -1,0 +1,43 @@
+{
+  "number": 153,
+  "verse": 46,
+  "slug": "nish-kalanka",
+  "devanagari": "निष्कलङ्का",
+  "iastSplit": "Niṣ-kalaṅkā",
+  "archana": "ॐ निष्कलङ्कायै नमः",
+  "syllables": ["niṣ", "ka", "laṅ", "kā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free from", "hi": "रहित, बिना" } },
+    { "sa": "कलङ्क", "meaning": { "en": "stain, blemish; sin", "hi": "कलंक, दाग; पाप" } }
+  ],
+  "meaning": {
+    "en": "Spotless, without stain or sin",
+    "hi": "निष्कलंक, हर दाग और पाप से रहित"
+  },
+  "explanation": {
+    "en": "Kalaṅka is a stain or blot, like the dark mark on the face of the moon. She has no such mark; Bhāskararāya takes the stain to be sin, and she is wholly free of it.",
+    "hi": "‘कलंक’ का अर्थ है दाग या धब्बा, जैसे चन्द्रमा के मुख पर काला चिह्न। उनमें ऐसा कोई चिह्न नहीं; भास्करराय इस दाग का अर्थ पाप बताते हैं, और वे उससे सर्वथा मुक्त हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says kalaṅka means sin, and she is free of it. He quotes the Īśa Upaniṣad, which calls the Self “pure, unpierced by evil.” He gives no further hidden meaning.",
+    "hi": "भास्करराय कहते हैं कि ‘कलंक’ का अर्थ पाप है, और वे उससे रहित हैं। वे ईश उपनिषद् का वचन देते हैं, जो आत्मा को ‘शुद्ध, पाप से अविद्ध’ कहता है। वे इससे आगे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "In Sanskrit poetry the moon is the standard image for a lovely face, but the moon carries a stain. Name 129 compares her face to the autumn moon; this name adds that she has none of its blemish.",
+    "hi": "संस्कृत काव्य में चन्द्रमा सुन्दर मुख का पारम्परिक उपमान है, पर चन्द्रमा में कलंक है। नाम 129 उनके मुख की उपमा शरद् के चन्द्रमा से देता है; यह नाम जोड़ता है कि उनमें उसका कोई दाग नहीं।"
+  },
+  "commentary": {
+    "sanskrit": "कलङ्कः पापं तदभावान्निष्कलङ्का ।",
+    "translation": {
+      "en": "Kalaṅka is sin; since it is absent in her, she is Niṣkalaṅkā.",
+      "hi": "कलंक का अर्थ है पाप; उसका अभाव होने के कारण वे निष्कलङ्का हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 153 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The moon comparison in the story layer is context from poetic convention, not from the commentary." }
+}

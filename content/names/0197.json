@@ -1,0 +1,43 @@
+{
+  "number": 197,
+  "verse": 51,
+  "slug": "sandra-karuna",
+  "devanagari": "सान्द्रकरुणा",
+  "iastSplit": "Sāndra-karuṇā",
+  "archana": "ॐ सान्द्रकरुणायै नमः",
+  "syllables": ["sān", "dra", "ka", "ru", "ṇā"],
+  "words": [
+    { "sa": "सान्द्र", "meaning": { "en": "dense, thick, intense", "hi": "घना, गाढ़ा" } },
+    { "sa": "करुणा", "meaning": { "en": "compassion", "hi": "करुणा, दया" } }
+  ],
+  "meaning": {
+    "en": "Whose compassion is deep and dense",
+    "hi": "जिनकी करुणा घनी और गहरी है"
+  },
+  "explanation": {
+    "en": "Sāndra means dense or thick, like a deep forest or a heavy rain-cloud. Her compassion is not thin or occasional; it is full, concentrated and always present.",
+    "hi": "सान्द्र का अर्थ है घना या गाढ़ा, जैसे घना वन या जल से भरा मेघ। उनकी करुणा पतली या कभी-कभार की नहीं; वह पूर्ण, गाढ़ी और सदा उपस्थित है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the literal sense: she whose compassion is dense. He gives no hidden meaning here. As a reflection: placed between all-knowing and without equal, the name shows that she who knows every fault and has no superior meets us first with compassion.",
+    "hi": "भास्करराय केवल शब्दार्थ देते हैं: जिनकी करुणा घनी है। वे यहाँ कोई गूढ़ अर्थ नहीं देते। चिन्तन के रूप में: सर्वज्ञा और समानाधिकवर्जिता के बीच रखा यह नाम बताता है कि जो हर दोष को जानती हैं और जिनसे बड़ा कोई नहीं, वे हमसे सबसे पहले करुणा के साथ मिलती हैं।"
+  },
+  "story": {
+    "en": "Her compassion is at the root of her story: in the Lalitopākhyāna she rises from the fire of the gods’ sacrifice in answer to their distress (see name 4).",
+    "hi": "करुणा उनकी कथा के मूल में है: ललितोपाख्यान में वे देवताओं के संकट के उत्तर में उनके यज्ञ की अग्नि से प्रकट होती हैं (देखें नाम 4)।"
+  },
+  "commentary": {
+    "sanskrit": "सान्द्रा घना करुणा यस्याः ।",
+    "translation": {
+      "en": "She whose compassion is sāndra, dense.",
+      "hi": "जिनकी करुणा सान्द्र, अर्थात् घनी, है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 197 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense. The closing sentence of the inner layer and the story link to name 4 are reflections." }
+}

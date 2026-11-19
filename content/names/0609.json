@@ -1,0 +1,77 @@
+{
+  "number": 609,
+  "verse": 122,
+  "slug": "daharakasha-rupini",
+  "devanagari": "दहराकाशरूपिणी",
+  "iastSplit": "Daharākāśa-rūpiṇī",
+  "archana": "ॐ दहराकाशरूपिण्यै नमः",
+  "syllables": [
+    "da",
+    "ha",
+    "rā",
+    "kā",
+    "śa",
+    "rū",
+    "pi",
+    "ṇī"
+  ],
+  "words": [
+    {
+      "sa": "दहर",
+      "meaning": {
+        "en": "small, subtle",
+        "hi": "छोटा, सूक्ष्म"
+      }
+    },
+    {
+      "sa": "आकाश",
+      "meaning": {
+        "en": "space",
+        "hi": "आकाश"
+      }
+    },
+    {
+      "sa": "रूपिणी",
+      "meaning": {
+        "en": "whose form is",
+        "hi": "रूप वाली"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Who is the subtle space within the heart",
+    "hi": "जो हृदय के भीतर का सूक्ष्म आकाश हैं"
+  },
+  "explanation": {
+    "en": "Dahara means small, and ākāśa is space. The Upaniṣads speak of a tiny space inside the lotus of the heart; she is that inner space.",
+    "hi": "‘दहर’ का अर्थ है छोटा, और ‘आकाश’ है अवकाश। उपनिषद् हृदय-कमल के भीतर एक सूक्ष्म आकाश की बात करते हैं; वे वही अन्तराकाश हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya points to the Chāndogya Upaniṣad: in this city of Brahman, the body, there is a small lotus, the heart, and within it a small inner space; what is inside it is to be sought. He adds that the Brahma-sūtras, in the section beginning “dahara uttarebhyaḥ”, establish that this small space is the supreme Brahman itself. The Absolute is not far away; it is found in the heart.",
+    "hi": "भास्करराय छान्दोग्य उपनिषद् की ओर संकेत करते हैं: इस ब्रह्मपुर, अर्थात् शरीर, में एक छोटा कमल, हृदय, है और उसके भीतर एक सूक्ष्म अन्तराकाश; उसके भीतर जो है, उसे खोजना चाहिए। वे जोड़ते हैं कि ब्रह्मसूत्र के ‘दहर उत्तरेभ्यः’ वाले अधिकरण में यही सिद्ध किया गया है कि यह दहराकाश स्वयं परब्रह्म है। परम सत्य कहीं दूर नहीं; वह हृदय में ही मिलता है।"
+  },
+  "story": {
+    "en": "Meditation on the space in the heart, the dahara-vidyā, is taught in the eighth chapter of the Chāndogya Upaniṣad. A few names earlier the hymn called her Hṛdayasthā, “dwelling in the heart” (name 595).",
+    "hi": "हृदय के आकाश की उपासना, जिसे दहरविद्या कहते हैं, छान्दोग्य उपनिषद् के आठवें अध्याय में सिखाई गई है। कुछ ही नाम पहले स्तोत्र ने उन्हें ‘हृदयस्था’, अर्थात् हृदय में निवास करने वाली, कहा था (नाम 595)।"
+  },
+  "commentary": {
+    "sanskrit": "दहरमल्पमाकाशं हृदयकुहरवर्ति तदेव रूपमस्याः ।",
+    "translation": {
+      "en": "Dahara means small: the small space that lies within the hollow of the heart. That itself is her form.",
+      "hi": "‘दहर’ अर्थात् छोटा: हृदय की गुहा में स्थित सूक्ष्म आकाश। वही उनका रूप है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 609 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The Chāndogya passage is paraphrased from Bhāskararāya’s citation; the reference to its eighth chapter is mine."
+  }
+}

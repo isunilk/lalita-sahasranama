@@ -1,0 +1,43 @@
+{
+  "number": 490,
+  "verse": 100,
+  "slug": "rudhira-samsthita",
+  "devanagari": "रुधिरसंस्थिता",
+  "iastSplit": "Rudhira-saṃsthitā",
+  "archana": "ॐ रुधिरसंस्थितायै नमः",
+  "syllables": ["ru", "dhi", "ra", "saṃs", "thi", "tā"],
+  "words": [
+    { "sa": "रुधिर", "meaning": { "en": "blood", "hi": "रक्त, रुधिर" } },
+    { "sa": "संस्थिता", "meaning": { "en": "firmly abiding", "hi": "भली-भाँति स्थित" } }
+  ],
+  "meaning": {
+    "en": "Who abides in the blood",
+    "hi": "रक्त में स्थित रहने वाली"
+  },
+  "explanation": {
+    "en": "As Ḍākinī abides in the skin, Rākiṇī abides in the blood. Bhāskararāya says she rests in it as the deity who presides over that tissue.",
+    "hi": "जैसे डाकिनी त्वचा में स्थित हैं, वैसे ही राकिणी रक्त में स्थित हैं। भास्करराय कहते हैं कि वे उस धातु की अधिष्ठात्री देवता के रूप में उसमें निवास करती हैं।"
+  },
+  "inner": {
+    "en": "He gives only this sense, with no further hidden meaning. Blood is the stream that carries life through the body, and the yoginī who guards it sits in the heart, from which that stream flows.",
+    "hi": "वे यही अर्थ देते हैं, इससे आगे कोई गूढ़ अर्थ नहीं। रक्त वह धारा है जो पूरे शरीर में जीवन पहुँचाती है, और उसकी रक्षा करने वाली योगिनी हृदय में विराजती हैं, जहाँ से वह धारा बहती है।"
+  },
+  "story": {
+    "en": "The meditation verse he quotes calls Rākiṇī raktasthā, ‘abiding in blood’. Blood is the second of the seven tissues given to the yoginīs, after the skin of name 481.",
+    "hi": "उनके उद्धृत ध्यान-श्लोक में राकिणी को ‘रक्तस्था’, अर्थात् रक्त में स्थित, कहा गया है। योगिनियों को दी गई सात धातुओं में रक्त दूसरी है, नाम 481 की त्वचा के बाद।"
+  },
+  "commentary": {
+    "sanskrit": "रुधिरे शोणिते संस्थिता तदभिमानित्वेन ।।",
+    "translation": {
+      "en": "Firmly abiding in rudhira, blood, as the deity who identifies with it.",
+      "hi": "रुधिर अर्थात् रक्त में, उसकी अभिमानिनी देवता के रूप में, स्थित।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 490 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the second sentence of the inner layer is a reflection." }
+}

@@ -1,0 +1,42 @@
+{
+  "number": 740,
+  "verse": 142,
+  "slug": "lajja",
+  "devanagari": "लज्जा",
+  "iastSplit": "Lajjā",
+  "archana": "ॐ लज्जायै नमः",
+  "syllables": ["laj", "jā"],
+  "words": [
+    { "sa": "लज्जा", "meaning": { "en": "modesty, bashfulness", "hi": "लज्जा, शील" } }
+  ],
+  "meaning": {
+    "en": "She who is modesty, dwelling in all beings",
+    "hi": "जो सब प्राणियों में लज्जा-रूप से स्थित हैं"
+  },
+  "explanation": {
+    "en": "Lajjā is modesty, the gentle restraint that holds one back from what is unworthy. Bhāskararāya grounds the name in the Devī Māhātmya: the Devī who abides in all beings in the form of modesty.",
+    "hi": "लज्जा वह शील है जो मनुष्य को अनुचित से रोकता है। भास्करराय इस नाम को देवी माहात्म्य पर आधारित करते हैं: वह देवी जो सब प्राणियों में लज्जा-रूप से स्थित है।"
+  },
+  "inner": {
+    "en": "His second reading is that she is the form of the hṛllekhā, a seed-syllable of the Devī. Such syllables are learned from a teacher and are not written out here. Both readings place her within: in the conscience of every being, and at the heart of the mantra.",
+    "hi": "उनका दूसरा अर्थ है कि वे हृल्लेखा नामक बीजाक्षर का स्वरूप हैं। ऐसे बीज गुरु से सीखे जाते हैं, इसलिए यहाँ लिखे नहीं गए। दोनों अर्थ उन्हें भीतर स्थापित करते हैं: हर प्राणी के अन्तःकरण में, और मन्त्र के हृदय में।"
+  },
+  "story": {
+    "en": "In the Devī Māhātmya the gods praise the Devī as present in all beings in many forms, as consciousness, hunger, sleep, peace, modesty and more, and bow to her again and again in each. Bhāskararāya reads this name in the light of that hymn.",
+    "hi": "देवी माहात्म्य में देवता देवी की स्तुति करते हैं कि वे सब प्राणियों में अनेक रूपों से स्थित हैं: चेतना, क्षुधा, निद्रा, शान्ति, लज्जा आदि; और हर रूप में वे उन्हें बार-बार नमन करते हैं। भास्करराय इस नाम को उसी स्तुति के प्रकाश में पढ़ते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "या देवी सर्वभूतेषु लज्जारूपेण संस्थितेति स्मरणाल्लज्जा ।",
+    "translation": {
+      "en": "Lajjā, because of the smṛti: ‘the Devī who abides in all beings in the form of modesty’.",
+      "hi": "लज्जा, स्मृति-वचन के कारण: ‘जो देवी सब प्राणियों में लज्जा-रूप से स्थित हैं’।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 740 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s second reading (हृल्लेखाबीजस्वरूपा वा) is given by name only; the bīja is not written, following the project rule. The last sentence of the inner layer is a reflection." }
+}

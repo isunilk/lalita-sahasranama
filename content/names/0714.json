@@ -1,0 +1,43 @@
+{
+  "number": 714,
+  "verse": 139,
+  "slug": "kulottirna",
+  "devanagari": "कुलोत्तीर्णा",
+  "iastSplit": "Kulottīrṇā",
+  "archana": "ॐ कुलोत्तीर्णायै नमः",
+  "syllables": ["ku", "lot", "tīr", "ṇā"],
+  "words": [
+    { "sa": "कुल", "meaning": { "en": "family, group; here the group of the senses", "hi": "कुल, समूह; यहाँ इन्द्रियों का समूह" } },
+    { "sa": "उत्तीर्णा", "meaning": { "en": "who has crossed over, gone beyond", "hi": "पार गई हुई, अतिक्रान्त" } }
+  ],
+  "meaning": {
+    "en": "She who has gone beyond the reach of the senses",
+    "hi": "जो इन्द्रियों की पहुँच से परे हैं"
+  },
+  "explanation": {
+    "en": "Kula means a family or group, and Bhāskararāya takes it here as the group of the senses. She has crossed beyond them all, so the eyes, the ears and the other senses cannot reach her as they reach their objects.",
+    "hi": "‘कुल’ का अर्थ है परिवार या समूह; भास्करराय यहाँ इसे इन्द्रियों का समूह मानते हैं। वे इन सबके पार हैं, इसलिए आँख, कान और अन्य इन्द्रियाँ उन तक वैसे नहीं पहुँच पातीं जैसे अपने विषयों तक पहुँचती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya makes this the first of four names on her secret nature: she cannot be reached by the senses. He gives no further hidden meaning here. In reflection, what the senses cannot grasp is found by turning within, not by looking outward.",
+    "hi": "भास्करराय इसे उनके रहस्यमय स्वरूप पर चार नामों में पहला मानते हैं: इन्द्रियाँ उन तक नहीं पहुँच सकतीं। यहाँ वे इससे आगे कोई गूढ़ अर्थ नहीं देते। चिन्तन के रूप में: जिसे इन्द्रियाँ नहीं पकड़ सकतीं, वह बाहर देखने से नहीं, भीतर मुड़ने से मिलता है।"
+  },
+  "story": {
+    "en": "The previous name calls her the form of the circle of gurus, and there Bhāskararāya says this secret comes down through an unbroken line of teachers and is not written in books. He then introduces this verse as stating her secret nature in four names.",
+    "hi": "पिछले नाम में उन्हें गुरुमण्डल का स्वरूप कहा गया है, और वहाँ भास्करराय कहते हैं कि यह रहस्य अविच्छिन्न गुरु-परम्परा से आता है, पुस्तकों में नहीं लिखा जाता। फिर वे इस श्लोक का परिचय यों देते हैं कि यह चार नामों में उनके रहस्यमय स्वरूप को बताता है।"
+  },
+  "commentary": {
+    "sanskrit": "कुलमिन्द्रियसमूहमुत्तीर्णा अतिक्रान्ता । तैरगम्यत्वात् ।",
+    "translation": {
+      "en": "Kula is the group of the senses; she has crossed it, gone beyond it, because she cannot be reached by them.",
+      "hi": "कुल अर्थात् इन्द्रियों का समूह; वे उसके पार हैं, उसका अतिक्रमण कर चुकी हैं, क्योंकि इन्द्रियाँ उन तक नहीं पहुँच सकतीं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 714 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the sense ‘beyond the senses’ here; the last sentence of the inner layer is a reflection. He introduces names 714–717 as four names on her secret nature (रहस्यत्वमेव चतुर्भिराह)." }
+}

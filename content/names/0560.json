@@ -1,0 +1,44 @@
+{
+  "number": 560,
+  "verse": 114,
+  "slug": "dadimi-kusuma-prabha",
+  "devanagari": "दाडिमीकुसुमप्रभा",
+  "iastSplit": "Dāḍimī-kusuma-prabhā",
+  "archana": "ॐ दाडिमीकुसुमप्रभायै नमः",
+  "syllables": ["dā", "ḍi", "mī", "ku", "su", "map", "ra", "bhā"],
+  "words": [
+    { "sa": "दाडिमी", "meaning": { "en": "pomegranate tree", "hi": "अनार का वृक्ष, दाडिमी" } },
+    { "sa": "कुसुम", "meaning": { "en": "flower", "hi": "फूल, पुष्प" } },
+    { "sa": "प्रभा", "meaning": { "en": "radiance, glow", "hi": "प्रभा, कान्ति" } }
+  ],
+  "meaning": {
+    "en": "Radiant like the pomegranate flower",
+    "hi": "अनार के फूल जैसी आभा वाली"
+  },
+  "explanation": {
+    "en": "Her complexion glows with the deep red of the pomegranate blossom. Bhāskararāya names the tree exactly: a kind of pomegranate that bears only flowers and no fruit, so the comparison is with the blossom alone.",
+    "hi": "उनके शरीर की कान्ति अनार के फूल के गहरे लाल रंग जैसी है। भास्करराय वृक्ष को ठीक-ठीक बताते हैं: यह अनार की एक ऐसी जाति है जिसमें केवल फूल आते हैं, फल नहीं; इसलिए तुलना केवल फूल से है।"
+  },
+  "inner": {
+    "en": "He gives no hidden meaning here. Red is her colour throughout the hymn, and name 49 calls her wholly red. A flower that never turns to fruit is a beauty complete in itself, needing nothing beyond.",
+    "hi": "वे यहाँ कोई गूढ़ अर्थ नहीं देते। पूरे स्तोत्र में लाल रंग उनका रंग है, और नाम 49 उन्हें ‘सर्वारुणा’, पूर्णतः अरुण, कहता है। जो फूल फल नहीं बनता, वह अपने आप में पूर्ण सौन्दर्य है, जिसे और कुछ नहीं चाहिए।"
+  },
+  "story": {
+    "en": "Read with the previous name, this completes a small portrait in red: the betel-reddened mouth and a body glowing like the pomegranate flower.",
+    "hi": "पिछले नाम के साथ पढ़ने पर यह नाम लाल रंग में रचा एक छोटा-सा चित्र पूरा करता है: ताम्बूल से रंगा मुख और अनार के फूल जैसी दमकती देह।"
+  },
+  "commentary": {
+    "sanskrit": "अस्ति फलविरहितः पुष्पमात्रशाली दाडिमीत्वव्याप्यजातिमान् वृक्षविशेषस्तस्य कुसुमस्येव प्रभा यस्याः ।",
+    "translation": {
+      "en": "There is a particular tree, a species within the pomegranate kind, that bears no fruit and has flowers only; she whose radiance is like that tree’s flower.",
+      "hi": "दाडिमी जाति के अन्तर्गत एक विशेष वृक्ष है जो फल से रहित है और जिसमें केवल फूल आते हैं; उसी वृक्ष के फूल जैसी जिनकी प्रभा है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 560 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the closing sentence of the inner layer is a reflection." }
+}

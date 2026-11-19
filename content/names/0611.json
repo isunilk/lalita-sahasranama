@@ -1,0 +1,66 @@
+{
+  "number": 611,
+  "verse": 123,
+  "slug": "kalatmika",
+  "devanagari": "कलात्मिका",
+  "iastSplit": "Kalātmikā",
+  "archana": "ॐ कलात्मिकायै नमः",
+  "syllables": [
+    "ka",
+    "lāt",
+    "mi",
+    "kā"
+  ],
+  "words": [
+    {
+      "sa": "कला",
+      "meaning": {
+        "en": "part, digit; art",
+        "hi": "कला, अंश"
+      }
+    },
+    {
+      "sa": "आत्मिका",
+      "meaning": {
+        "en": "whose self or nature is",
+        "hi": "स्वरूपा"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Whose very self is made of the kalās",
+    "hi": "जिनका स्वरूप ही समस्त कलाएँ हैं"
+  },
+  "explanation": {
+    "en": "Kalā means a part or digit, as the digits of the moon, and also an art. She is the self of all kalās: the digits of fire, sun and moon, and the sixty-four arts.",
+    "hi": "‘कला’ का अर्थ है अंश, जैसे चन्द्रमा की कलाएँ, और कला या विद्या भी। वे सब कलाओं का स्वरूप हैं: अग्नि, सूर्य और चन्द्र की कलाएँ भी, और चौंसठ कलाएँ भी।"
+  },
+  "inner": {
+    "en": "Bhāskararāya adds the kalās of consciousness, four in each state. Waking has four, such as arising and understanding; dream four, such as longing and confusion; deep sleep four, such as forgetting and sleep; and the fourth state, turīya, has dispassion, longing for freedom, a mind made clear by samādhi, and discernment of the real from the unreal. He adds the kalās named in the tantras, and says she is the form of them all.",
+    "hi": "भास्करराय चेतना की कलाएँ भी जोड़ते हैं, हर अवस्था में चार। जाग्रत् में उत्पत्ति, बोध आदि चार; स्वप्न में अभिलाषा, भ्रम आदि चार; सुषुप्ति में विस्मृति, निद्रा आदि चार; और चौथी अवस्था तुरीय में वैराग्य, मुमुक्षा, समाधि से निर्मल मन और सत्-असत् वस्तु का विवेक। वे तन्त्रों में वर्णित कलाओं को भी जोड़ते हैं और कहते हैं कि वे इन सबका स्वरूप हैं।"
+  },
+  "story": {
+    "en": "The first half of this verse joins three names on the kalās, their mistress and poetry. The second half then shows her attended by Lakṣmī and Sarasvatī with fly-whisks.",
+    "hi": "इस श्लोक का पूर्वार्ध कलाओं, उनकी स्वामिनी और काव्य पर तीन नामों को जोड़ता है। फिर उत्तरार्ध उन्हें चँवर डुलाती लक्ष्मी और सरस्वती से सेवित दिखाता है।"
+  },
+  "commentary": {
+    "sanskrit": "अत्र कलाशब्देन वह्नेर्दशकलाः सूर्यस्य द्वादशकलाश्चन्द्रस्य षोडशकलाश्चतुःषष्टिसंख्याकत्वादिना प्रसिद्धाः ।",
+    "translation": {
+      "en": "Here the word kalā means the ten kalās of fire, the twelve kalās of the sun and the sixteen of the moon, and those well known as sixty-four in number.",
+      "hi": "यहाँ ‘कला’ शब्द से अग्नि की दस कलाएँ, सूर्य की बारह कलाएँ, चन्द्रमा की सोलह कलाएँ, और जो चौंसठ की संख्या से प्रसिद्ध हैं, वे कलाएँ अभिप्रेत हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 611 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The kalās of the four states are named only in part."
+  }
+}

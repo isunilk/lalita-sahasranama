@@ -1,0 +1,74 @@
+{
+  "number": 606,
+  "verse": 121,
+  "slug": "guha-janma-bhu",
+  "devanagari": "गुहजन्मभूः",
+  "iastSplit": "Guha-janma-bhūḥ",
+  "archana": "ॐ गुहजन्मभुवे नमः",
+  "syllables": [
+    "gu",
+    "ha",
+    "jan",
+    "ma",
+    "bhūḥ"
+  ],
+  "words": [
+    {
+      "sa": "गुह",
+      "meaning": {
+        "en": "Guha, Skanda; also one who is hidden",
+        "hi": "गुह, स्कन्द; छिपा हुआ भी"
+      }
+    },
+    {
+      "sa": "जन्मन्",
+      "meaning": {
+        "en": "birth",
+        "hi": "जन्म"
+      }
+    },
+    {
+      "sa": "भू",
+      "meaning": {
+        "en": "ground, place",
+        "hi": "भूमि, स्थान"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Birthplace of Guha (Skanda) and of all embodied souls",
+    "hi": "गुह (स्कन्द) की, और सब जीवों की, जन्मभूमि"
+  },
+  "explanation": {
+    "en": "Guha is a name of Skanda, also called Kārttikeya, the son of Śiva and Pārvatī. Janma-bhū is “ground of birth”: she is the one from whom he was born, his mother.",
+    "hi": "‘गुह’ स्कन्द का नाम है, जिन्हें कार्त्तिकेय भी कहते हैं; वे शिव और पार्वती के पुत्र हैं। ‘जन्मभू’ का अर्थ है जन्म की भूमि: वे वह हैं जिनसे स्कन्द ने जन्म लिया, अर्थात् उनकी माता।"
+  },
+  "inner": {
+    "en": "Bhāskararāya also derives guha from the root guh, “to cover”. The guhas are individual souls, covered by ignorance, and she is the source they are born from. He cites the Upaniṣadic image: as small sparks fly out of a fire, so all selves come forth; and the Yājñavalkya Smṛti: as sparks from a heated ball of iron, so selves arise from the Self.",
+    "hi": "भास्करराय ‘गुह’ को ‘गुहू संवरणे’ धातु से भी निकालते हैं, जिसका अर्थ है ढकना। अविद्या से ढके जीव ही ‘गुह’ हैं, और वे उनकी जन्मभूमि हैं। वे उपनिषद् का दृष्टान्त देते हैं: जैसे अग्नि से छोटी-छोटी चिनगारियाँ निकलती हैं, वैसे ही सब आत्माएँ प्रकट होती हैं; और याज्ञवल्क्य स्मृति का: जैसे तपे हुए लोहे के गोले से चिनगारियाँ, वैसे ही परमात्मा से जीवात्माएँ उत्पन्न होती हैं।"
+  },
+  "story": {
+    "en": "Skanda, the commander of the gods’ army, was born to defeat the demon Tāraka. As Pārvatī, the Devī is his mother.",
+    "hi": "देवसेना के सेनापति स्कन्द का जन्म तारकासुर के वध के लिए हुआ था। पार्वती के रूप में देवी उनकी माता हैं।"
+  },
+  "commentary": {
+    "sanskrit": "गुहस्य स्कन्दस्य जन्मभूरुत्पत्तिस्थानम् । यद्वा गुहू संवरण इति धातोरविद्यासंवृता गुहा जीवाः तेषां जन्मस्थानम् ।",
+    "translation": {
+      "en": "The janmabhū, the place of origin, of Guha, Skanda. Or, from the root guh, ‘to cover’: the guhas are the jīvas, covered by ignorance, and she is their place of birth.",
+      "hi": "गुह अर्थात् स्कन्द की जन्मभूमि, उनका उत्पत्ति-स्थान। अथवा ‘गुहू संवरणे’ धातु से: अविद्या से ढके हुए जीव ‘गुह’ हैं, और वे उनका जन्म-स्थान हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 606 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. Archana kept as in the web list (गुहजन्मभुवे); भू is feminine, and गुहजन्मभुवै is also grammatically possible (as for name 23)."
+  }
+}

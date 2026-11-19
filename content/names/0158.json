@@ -1,0 +1,43 @@
+{
+  "number": 158,
+  "verse": 46,
+  "slug": "nir-mada",
+  "devanagari": "निर्मदा",
+  "iastSplit": "Nir-madā",
+  "archana": "ॐ निर्मदायै नमः",
+  "syllables": ["nir", "ma", "dā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free from", "hi": "रहित, बिना" } },
+    { "sa": "मद", "meaning": { "en": "pride, arrogance; intoxication", "hi": "मद, अभिमान; नशा" } }
+  ],
+  "meaning": {
+    "en": "Free from pride and arrogance",
+    "hi": "मद और अभिमान से रहित"
+  },
+  "explanation": {
+    "en": "Mada is pride, the swollen sense of one’s own power, and also intoxication. Though all power is hers, there is no pride in her.",
+    "hi": "‘मद’ का अर्थ है अभिमान, अपनी शक्ति का घमण्ड, और नशा भी। सारी शक्ति उनकी होते हुए भी उनमें कोई मद नहीं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya simply says she is without mada; he gives no hidden meaning here. Mada is one of the six inner enemies, and a fullness that has nothing left to gain leaves nothing to be proud of.",
+    "hi": "भास्करराय केवल इतना कहते हैं कि वे मद से रहित हैं; यहाँ वे कोई गूढ़ अर्थ नहीं देते। मद छह आन्तरिक शत्रुओं में से एक है, और जिस पूर्णता को कुछ पाना शेष नहीं, उसमें घमण्ड का कोई आधार नहीं रहता।"
+  },
+  "story": {
+    "en": "Mada is also the word for an elephant’s rut, when it is wild with its own strength, and poets use it for any pride that blinds. With Madanāśinī, the next name, this pair completes verse 46.",
+    "hi": "‘मद’ हाथी के उस मद के लिए भी आता है जब वह अपनी ही शक्ति से उन्मत्त हो जाता है, और कवि इसे हर अन्धा कर देने वाले अभिमान के लिए प्रयोग करते हैं। अगले नाम ‘मदनाशिनी’ के साथ यह जोड़ा श्लोक 46 पूरा करता है।"
+  },
+  "commentary": {
+    "sanskrit": "मदराहित्यान्निर्मदा ।",
+    "translation": {
+      "en": "Being without mada, she is Nirmadā.",
+      "hi": "मद से रहित होने के कारण वे निर्मदा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 158 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The second sentence of the inner layer is a reflection." }
+}

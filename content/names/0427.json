@@ -1,0 +1,42 @@
+{
+  "number": 427,
+  "verse": 91,
+  "slug": "ayi",
+  "devanagari": "अयी",
+  "iastSplit": "Ayī",
+  "archana": "ॐ अय्यै नमः",
+  "syllables": ["a", "yī"],
+  "words": [
+    { "sa": "अयी", "meaning": { "en": "‘O dear one’, from the tender particle of address ayi; also auspicious fortune", "hi": "‘अयि’ कोमल सम्बोधन से बना; शुभ विधान भी" } }
+  ],
+  "meaning": {
+    "en": "She whom all call tenderly, as children call their mother",
+    "hi": "जिन्हें सब कोमलता से पुकारते हैं, जैसे सन्तान माँ को"
+  },
+  "explanation": {
+    "en": "Ayi is a soft word of calling, like a loving ‘O’. Bhāskararāya explains ayī as formed from it: since she is the mother of all people, she is the one they call to tenderly. He also reads it as ‘auspicious fortune’, the good that providence brings.",
+    "hi": "‘अयि’ पुकार का एक कोमल शब्द है, जैसे स्नेह से कहा गया ‘हे’। भास्करराय बताते हैं कि ‘अयी’ इसी से बना है: क्योंकि वे सब लोगों की माता हैं, लोग उन्हें कोमलता से पुकारते हैं। वे इसका एक अर्थ ‘शुभ विधान’ भी देते हैं, अर्थात् वह मंगल जो भाग्य लाता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya’s third reading completes the great saying: ayī stands for asi, ‘are’, the word that states the identity of That and you. Read together, tat, tvam, ayī say: That thou art. The hymn places the Upaniṣad’s teaching of oneness inside the Mother’s names, and inside a tender word of calling.",
+    "hi": "भास्करराय का तीसरा अर्थ महावाक्य को पूरा करता है: ‘अयी’ ‘असि’ (हो) के स्थान पर है, वह शब्द जो ‘वह’ और ‘तुम’ की एकता बताता है। तत्, त्वम्, अयी को साथ पढ़ें तो अर्थ होता है: वह तुम हो। स्तोत्र उपनिषद् की एकता की शिक्षा को माँ के नामों में, और पुकार के एक कोमल शब्द में, रख देता है।"
+  },
+  "story": {
+    "en": "This is the last of the three names drawn from tattvamayī. Bhāskararāya treats ayī as a feminine word formed from the particle ayi, so its archana takes a feminine dative.",
+    "hi": "‘तत्त्वमयी’ से निकाले गए तीन नामों में यह अन्तिम है। भास्करराय ‘अयी’ को ‘अयि’ अव्यय से बना स्त्रीलिंग शब्द मानते हैं, इसलिए इसकी अर्चना स्त्रीलिंग चतुर्थी रूप में होती है।"
+  },
+  "commentary": {
+    "sanskrit": "अयीति कोमलामन्त्रणेऽव्ययम् । गौरादेराकृतिगणत्वात्ततो ङीषि रूपमिदम् । जनमातृत्वाज्जनैरामन्त्रणीयेत्यर्थः ।",
+    "translation": {
+      "en": "Ayi is an indeclinable word of tender address. Because the gaurādi group of words is open-ended, adding the suffix ṅīṣ to it gives this form, ayī. The sense is: being the mother of people, she is the one people call to.",
+      "hi": "‘अयि’ कोमल सम्बोधन का अव्यय है। गौरादि गण के आकृतिगण होने से उससे ङीष् प्रत्यय लगकर यह रूप ‘अयी’ बनता है। अर्थ यह है कि जन-माता होने के कारण लोग उन्हें पुकारते हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 427 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Many chanters take तत्त्वमयी as a single name; this file follows the master text and Bhāskararāya, who count तत् (425), त्वम् (426) and अयी (427), and explains the division as made by the authors of the counting rules to avoid repeating तत्त्वमयी (907). Archana: the nāmāvalī form अय्यै is kept, the regular dative of the ī-stem अयी. The Wikisource text of the commentary prints ‘अययै नम इति प्रयोगः’ at the end of his third reading; this looks like a misprint for अय्यै but should be checked against a printed edition. The last sentence of the inner layer is a reflection." }
+}

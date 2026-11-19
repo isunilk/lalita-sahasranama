@@ -1,0 +1,44 @@
+{
+  "number": 735,
+  "verse": 142,
+  "slug": "mithya-jagad-adhishthana",
+  "devanagari": "मिथ्याजगदधिष्ठाना",
+  "iastSplit": "Mithyā-jagad-adhiṣṭhānā",
+  "archana": "ॐ मिथ्याजगदधिष्ठानायै नमः",
+  "syllables": ["mith", "yā", "ja", "ga", "da", "dhiṣ", "ṭhā", "nā"],
+  "words": [
+    { "sa": "मिथ्या", "meaning": { "en": "unreal, illusory", "hi": "मिथ्या, असत्य" } },
+    { "sa": "जगत्", "meaning": { "en": "world", "hi": "जगत्, संसार" } },
+    { "sa": "अधिष्ठान", "meaning": { "en": "ground, substratum", "hi": "अधिष्ठान, आधार" } }
+  ],
+  "meaning": {
+    "en": "The real ground on which the unreal world appears",
+    "hi": "मिथ्या जगत् का अधिष्ठान, जिस पर वह भासता है"
+  },
+  "explanation": {
+    "en": "An adhiṣṭhāna is the ground on which something appears. Bhāskararāya uses the classic Vedānta example: when mother-of-pearl is mistaken for silver, the mother-of-pearl is the ground of the silver that is seen. In the same way she is the ground on which this world, unreal in itself, appears.",
+    "hi": "अधिष्ठान वह आधार है जिस पर कोई वस्तु भासती है। भास्करराय वेदान्त का प्रसिद्ध उदाहरण देते हैं: जब सीप को चाँदी समझ लिया जाता है, तब दिखने वाली चाँदी का आधार सीप होती है। उसी प्रकार वे वह आधार हैं जिस पर स्वयं में असत्य यह जगत् भासता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya then gives what he calls the true position, that of the Tāntrikas, who hold the world to be a transformation of Brahman, as a pot is of clay. For them the world is real, because it is not different from Brahman, which is real; only the sense of separation is false. So in her the world is not unreal; what is unreal is its division from Brahman.",
+    "hi": "फिर भास्करराय तान्त्रिकों के मत को वास्तविक मत बताते हैं: वे जगत् को ब्रह्म का परिणाम मानते हैं, जैसे घड़ा मिट्टी का। उनके लिए जगत् सत्य है, क्योंकि वह सत्य ब्रह्म से भिन्न नहीं; मिथ्या केवल भेद है। इस प्रकार उनमें जगत् मिथ्या नहीं; मिथ्या है जगत् का ब्रह्म से भेद।"
+  },
+  "story": {
+    "en": "Bhāskararāya refers to the Śāmbhavānandakalpalatā for this Tantric view, and notes that it accounts for all the Upaniṣadic texts on non-duality without needing to call the world unreal. He also explains why the neuter word adhiṣṭhāna appears here with a feminine ending.",
+    "hi": "इस तान्त्रिक मत के लिए भास्करराय ‘शाम्भवानन्दकल्पलता’ का उल्लेख करते हैं, और बताते हैं कि यह मत जगत् को मिथ्या कहे बिना ही अद्वैत की सभी श्रुतियों की संगति बिठा देता है। वे यह भी समझाते हैं कि नपुंसकलिंग शब्द ‘अधिष्ठान’ यहाँ स्त्रीलिंग रूप में क्यों आया है।"
+  },
+  "commentary": {
+    "sanskrit": "मिथ्यारूपस्य जगतोऽधिष्ठानं भानाधिकरणं रजतस्येव शुक्तिः ।",
+    "translation": {
+      "en": "The adhiṣṭhāna of the world, which is unreal: the ground on which it appears, as mother-of-pearl is of the silver.",
+      "hi": "मिथ्यारूप जगत् का अधिष्ठान, अर्थात् जिस पर वह भासता है, जैसे चाँदी का अधिष्ठान सीप।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 735 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya offers several analyses to account for the feminine ending (including अधिष्ठा + अन, ‘whose life-breath is Brahman, the ground of the world’); the page says only that he discusses it. He gives the Tantric view, from the Śāmbhavānandakalpalatā, as the real position (वस्तुतस्तु)." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 407,
+  "verse": 88,
+  "slug": "shiva-murti",
+  "devanagari": "शिवमूर्तिः",
+  "iastSplit": "Śiva-mūrtiḥ",
+  "archana": "ॐ शिवमूर्त्यै नमः",
+  "syllables": ["śi", "va", "mūr", "tiḥ"],
+  "words": [
+    { "sa": "शिव", "meaning": { "en": "Śiva; also auspicious, liberation", "hi": "शिव; मंगल, मोक्ष भी" } },
+    { "sa": "मूर्ति", "meaning": { "en": "form, embodiment", "hi": "मूर्ति, स्वरूप" } }
+  ],
+  "meaning": {
+    "en": "Whose very form is Śiva",
+    "hi": "शिव ही जिनका स्वरूप हैं"
+  },
+  "explanation": {
+    "en": "Her form is Śiva himself, for Śiva and Śakti are not two. Since śiva also means auspicious, the name can mean too that her form is auspicious.",
+    "hi": "उनका स्वरूप स्वयं शिव हैं, क्योंकि शिव और शक्ति दो नहीं हैं। ‘शिव’ का अर्थ मंगल भी है, इसलिए इस नाम का अर्थ यह भी है कि उनका रूप मंगलमय है।"
+  },
+  "inner": {
+    "en": "For the first sense Bhāskararāya quotes a verse: the one Rudra, hidden in all beings, with parts and without parts, is himself the Devī, and she is not different from him; knowing this, people reach immortality. He gives a third sense too: śiva is liberation, and liberation is nothing but the Self, so her form is liberation itself.",
+    "hi": "पहले अर्थ के लिए भास्करराय एक श्लोक देते हैं: सब प्राणियों में छिपा एक ही रुद्र, जो सकल भी है और निष्कल भी, स्वयं देवी है, और वे उससे भिन्न नहीं; यह जानकर ही मनुष्य अमृतत्व पाते हैं। वे एक तीसरा अर्थ भी देते हैं: ‘शिव’ का अर्थ मोक्ष है, और मोक्ष आत्मा के स्वरूप के अतिरिक्त कुछ नहीं, इसलिए उनका रूप स्वयं मुक्ति है।"
+  },
+  "story": {
+    "en": "This is the third of the six names that begin with Śiva. For the sense ‘liberation’ Bhāskararāya cites the fourteenth chapter of the Saura Saṃhitā, which teaches that liberation is the Self itself, hidden by ignorance and revealed by knowledge.",
+    "hi": "‘शिव’ से आरम्भ होने वाले छह नामों में यह तीसरा है। ‘मोक्ष’ वाले अर्थ के लिए भास्करराय सौरसंहिता के चौदहवें अध्याय का प्रमाण देते हैं, जो सिखाता है कि मुक्ति आत्मा का ही स्वरूप है, जो अविद्या से ढकी है और विद्या से प्रकट होती है।"
+  },
+  "commentary": {
+    "sanskrit": "शिव एव मूर्तिः स्वरूपं यस्याः शिवशक्त्ययोरभेदात् ।",
+    "translation": {
+      "en": "She whose mūrti, her own form, is Śiva himself, because Śiva and Śakti are not different.",
+      "hi": "जिनकी मूर्ति अर्थात् स्वरूप स्वयं शिव हैं, क्योंकि शिव और शक्ति में भेद नहीं है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 407 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The excerpt is copied as printed; शिवशक्त्ययोः there is evidently a misprint for शिवशक्त्योः. His second reading, ‘whose form is auspicious’, is printed मूर्तियस्या (for मूर्तिर्यस्या)." }
+}

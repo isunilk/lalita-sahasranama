@@ -1,0 +1,43 @@
+{
+  "number": 207,
+  "verse": 53,
+  "slug": "manonmani",
+  "devanagari": "मनोन्मनी",
+  "iastSplit": "Manonmanī",
+  "archana": "ॐ मनोन्मन्यै नमः",
+  "syllables": ["ma", "non", "ma", "nī"],
+  "words": [
+    { "sa": "मनस्", "meaning": { "en": "mind", "hi": "मन" } },
+    { "sa": "उन्मनी", "meaning": { "en": "beyond the mind; the state where the mind is transcended", "hi": "मन से परे की अवस्था" } }
+  ],
+  "meaning": {
+    "en": "She who is the state beyond the mind",
+    "hi": "जो मन से परे की अवस्था हैं"
+  },
+  "explanation": {
+    "en": "Unmanī is the state beyond the mind, where thought has fallen silent and only pure awareness remains. She is that state, and she is also the Śakti of Śiva known as Manonmana.",
+    "hi": "उन्मनी मन से परे की वह अवस्था है जहाँ विचार शान्त हो जाते हैं और केवल शुद्ध चेतना शेष रहती है। वे स्वयं वह अवस्था हैं, और ‘मनोन्मन’ नाम से प्रसिद्ध शिव की शक्ति भी।"
+  },
+  "inner": {
+    "en": "Bhāskararāya places manonmanī in the subtle body as the eighth station above the point between the brows, just below the brahmarandhra at the crown. Quoting the Svacchanda Saṅgraha, he says that there no time or measure remains, no tattva and no deity: it is supreme nirvāṇa, pure, known as Śiva-Śakti, beyond distinctions and stainless. An Upaniṣadic verse he cites adds that when the mind, freed from attachment to objects, reaches this state, that is the highest abode.",
+    "hi": "भास्करराय मनोन्मनी को सूक्ष्म शरीर में भ्रूमध्य से ऊपर आठवाँ स्थान बताते हैं, जो सिर के ब्रह्मरन्ध्र से ठीक नीचे है। स्वच्छन्द संग्रह को उद्धृत करते हुए वे कहते हैं कि वहाँ न काल का माप है, न कला का, न कोई तत्त्व, न कोई देवता: वह परम निर्वाण है, शुद्ध, ‘शिवशक्ति’ नाम से प्रसिद्ध, निर्विकल्प और निरञ्जन। वे एक उपनिषद् का श्लोक भी देते हैं कि जब विषयों की आसक्ति से मुक्त मन इस उन्मनी भाव को पाता है, तब वही परम पद है।"
+  },
+  "story": {
+    "en": "Bhāskararāya adds that she is the Śakti of Śiva as Manonmana, who is saluted in the Vedic passage that begins vāmadevāya namo jyeṣṭhāya namaḥ, and that in yoga texts manonmanī is also the name of a mudrā, a state of complete inner stillness. He gives a second derivation too, she who lifts minds into higher knowledge, and remarks that the sandhi in the name is ārṣa, the usage of the sages.",
+    "hi": "भास्करराय यह भी कहते हैं कि वे ‘मनोन्मन’ नामक शिव की शक्ति हैं, जिनका वन्दन ‘वामदेवाय नमो ज्येष्ठाय नमः’ से आरम्भ होने वाले वैदिक वचन में होता है; और योगशास्त्र में मनोन्मनी एक मुद्रा का नाम भी है, अर्थात् पूर्ण आन्तरिक स्थिरता की अवस्था। वे एक दूसरी व्युत्पत्ति भी देते हैं, ‘जो मनों को उत्कृष्ट ज्ञान से युक्त करती हैं’, और कहते हैं कि इस नाम की सन्धि आर्ष है, अर्थात् ऋषियों का प्रयोग।"
+  },
+  "commentary": {
+    "sanskrit": "भ्रूमध्यादष्टमं स्थानं ब्रह्मरन्ध्रादधस्तनम् । मनोन्मनीति कथितं तद्रूपा ।",
+    "translation": {
+      "en": "The eighth station from the point between the brows, just below the brahmarandhra, is called Manonmanī; she has that form.",
+      "hi": "भ्रूमध्य से आठवाँ स्थान, जो ब्रह्मरन्ध्र से नीचे है, मनोन्मनी कहलाता है; वे उसी रूप वाली हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 207 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. A name of the subtle body: meaning only, no practice. Bhāskararāya’s description of the yogic mudrā (eyes, breath and mind) is summarised as ‘a state of complete inner stillness’ and not given in detail. He attributes the verse निरस्तविषयासङ्गं… to the त्रिपुरोपनिषद्; a scholar may check whether it is the Amṛtabindu Upaniṣad verse. The half-verse on the eighth station is quoted by him without a source." }
+}

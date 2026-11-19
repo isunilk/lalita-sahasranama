@@ -1,0 +1,44 @@
+{
+  "number": 199,
+  "verse": 52,
+  "slug": "sarva-shakti-mayi",
+  "devanagari": "सर्वशक्तिमयी",
+  "iastSplit": "Sarva-śakti-mayī",
+  "archana": "ॐ सर्वशक्तिमय्यै नमः",
+  "syllables": ["sar", "va", "śak", "ti", "ma", "yī"],
+  "words": [
+    { "sa": "सर्व", "meaning": { "en": "all", "hi": "सब, सम्पूर्ण" } },
+    { "sa": "शक्ति", "meaning": { "en": "power, Śakti", "hi": "शक्ति" } },
+    { "sa": "मयी", "meaning": { "en": "made of, one with", "hi": "से बनी, से अभिन्न" } }
+  ],
+  "meaning": {
+    "en": "She who is all powers, one with every Śakti",
+    "hi": "जो सभी शक्तियों से अभिन्न हैं"
+  },
+  "explanation": {
+    "en": "She is made of all powers. Every Śakti, every goddess and every power in the gods is a form of her, and all of them together make up her being.",
+    "hi": "वे सभी शक्तियों से बनी हैं। हर शक्ति, हर देवी, और देवताओं में स्थित हर सामर्थ्य उन्हीं का रूप है; ये सब मिलकर उनका स्वरूप बनाती हैं।"
+  },
+  "inner": {
+    "en": "With this name, Bhāskararāya says, the hymn turns to her form with attributes. She is one with all the Śaktis, such as Bālā and Bagalā, and the suffix -mayī here means identity, as in the phrase ‘the world is made of Brahman’. He also quotes the Liṅga Purāṇa: whatever powers things have, the wise know them all as Gaurī.",
+    "hi": "भास्करराय कहते हैं कि इस नाम से स्तोत्र उनके सगुण रूप की ओर मुड़ता है। वे बाला, बगला आदि सभी शक्तियों से अभिन्न हैं, और यहाँ ‘मयी’ प्रत्यय अभेद का अर्थ देता है, जैसे ‘ब्रह्ममय जगत्’ में। वे लिङ्ग पुराण का वचन भी उद्धृत करते हैं: पदार्थों की जो-जो शक्तियाँ हैं, ज्ञानी उन सबको गौरी ही जानते हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya also reads the name as the gathered power of all the gods, and quotes the Devī speaking to Indra in the Pāñcarātra and the Lakṣmī Tantra: in the Svāyambhuva age she was born as Mahiṣamardinī for the good of the gods; the portions of her power in the gods’ bodies came together as her radiant form, and their weapons became her weapons. He adds that the Mārkaṇḍeya Purāṇa tells this at length.",
+    "hi": "भास्करराय इस नाम को सब देवताओं की एकत्रित शक्ति के रूप में भी पढ़ते हैं, और पाञ्चरात्र तथा लक्ष्मी तन्त्र से इन्द्र के प्रति देवी के वचन उद्धृत करते हैं: स्वायम्भुव मन्वन्तर में देवताओं के हित के लिए वे महिषमर्दिनी के रूप में प्रकट हुईं; देवताओं के शरीरों में स्थित उनकी शक्ति के अंश मिलकर उनका परम सुन्दर रूप बने, और देवताओं के आयुध उनके आयुध बने। वे बताते हैं कि मार्कण्डेय पुराण में यह कथा विस्तार से है।"
+  },
+  "commentary": {
+    "sanskrit": "अथ सगुणरूपमाश्रित्याह- बालाबगलादिनिखिलशक्त्यभेदात्सर्वशक्तिमयी ।",
+    "translation": {
+      "en": "Now it speaks with her form with attributes in view: because she is one with all the Śaktis, Bālā, Bagalā and the rest, she is sarvaśaktimayī.",
+      "hi": "अब सगुण रूप को आधार बनाकर कहते हैं: बाला, बगला आदि सभी शक्तियों से अभिन्न होने के कारण वे सर्वशक्तिमयी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 199 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya marks the turn from the nirguṇa to the saguṇa names here. The Lakṣmī Tantra verses are paraphrased from his quotation." }
+}

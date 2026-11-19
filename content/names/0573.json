@@ -1,0 +1,43 @@
+{
+  "number": 573,
+  "verse": 116,
+  "slug": "para-nishtha",
+  "devanagari": "परानिष्ठा",
+  "iastSplit": "Parā-niṣṭhā",
+  "archana": "ॐ परायै निष्ठायै नमः",
+  "syllables": ["pa", "rā", "niṣ", "ṭhā"],
+  "words": [
+    { "sa": "परा", "meaning": { "en": "supreme, highest", "hi": "परा, परम" } },
+    { "sa": "निष्ठा", "meaning": { "en": "culmination, final abiding", "hi": "निष्ठा, परम स्थिति" } }
+  ],
+  "meaning": {
+    "en": "The supreme culmination, the highest state of knowledge",
+    "hi": "परम निष्ठा, ज्ञान की सर्वोच्च स्थिति"
+  },
+  "explanation": {
+    "en": "Niṣṭhā is the end in which something comes to rest. Bhāskararāya calls her the supreme culmination, a particular kind of knowledge, because all actions and all worlds find their end in her. He quotes the Gītā: all action, without remainder, culminates in knowledge.",
+    "hi": "‘निष्ठा’ वह अन्तिम स्थिति है जिसमें कोई वस्तु विश्राम पाती है। भास्करराय उन्हें परम निष्ठा, एक विशेष ज्ञान-रूप, कहते हैं, क्योंकि सभी कर्म और सभी लोक उन्हीं में समाप्त होते हैं। वे गीता का वचन देते हैं: ‘सर्वं कर्माखिलं पार्थ ज्ञाने परिसमाप्यते’, अर्थात् सारे कर्म पूर्ण रूप से ज्ञान में समाप्त होते हैं।"
+  },
+  "inner": {
+    "en": "He describes this knowledge from the Sūta Gītā. Through scripture, the teacher’s instruction and reasoning that follows scripture, the sage knows himself as the witness of all; he sees all that seemed other than himself as only himself; he knows that Self, one without a second, as pure Brahman by his own experience; and then he lets even that certainty dissolve into pure consciousness and simply abides. This, the Sūta Gītā says, is the supreme niṣṭhā, taught by the Veda and known in one’s own experience.",
+    "hi": "वे सूतगीता से इस ज्ञान का वर्णन देते हैं। शास्त्र, आचार्य के उपदेश और शास्त्र-सम्मत तर्क से मुनि स्वयं को सबका साक्षी जानता है; जो कुछ अपने से भिन्न प्रतीत होता था, उसे अपना ही स्वरूप समझता है; उस अद्वय आत्मा को अपने अनुभव से शुद्ध ब्रह्म निश्चित करता है; और फिर उस निश्चय को भी शुद्ध चैतन्य में विलीन करके केवल स्थित रहता है। सूतगीता कहती है कि यही श्रुति-सम्मत, स्वानुभव-रूप परम निष्ठा है।"
+  },
+  "story": {
+    "en": "For worship, Bhāskararāya gives the form parāyai niṣṭhāyai namaḥ, with both words in the dative, as for the previous name. Together, Parāśakti and Parāniṣṭhā name the supreme power and the supreme end.",
+    "hi": "अर्चना के लिए भास्करराय ‘परायै निष्ठायै नमः’ रूप देते हैं, जिसमें पिछले नाम की तरह दोनों पद चतुर्थी में हैं। पराशक्ति और परानिष्ठा, ये दोनों नाम मिलकर परम शक्ति और परम लक्ष्य का नाम लेते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "परा निष्ठा उत्कृष्टा समाप्तिर्ज्ञानविशेषरूपा । सर्वकर्मणां सर्वजगतां चात्रैव समाप्तेः ।",
+    "translation": {
+      "en": "Parā niṣṭhā: the highest culmination, which is a particular knowledge; for all actions and all worlds come to their end here alone.",
+      "hi": "परा निष्ठा, अर्थात् उत्कृष्ट समाप्ति, जो विशेष ज्ञान-रूप है; क्योंकि सभी कर्मों और सभी लोकों की समाप्ति यहीं होती है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 573 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The archana परायै निष्ठायै is the form Bhāskararāya gives. The edition’s text of the Sūta Gītā verses has a misprint (अविशेषटः for अविशेषतः); those verses are paraphrased, not quoted." }
+}

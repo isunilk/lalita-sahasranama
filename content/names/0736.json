@@ -1,0 +1,43 @@
+{
+  "number": 736,
+  "verse": 142,
+  "slug": "mukti-da",
+  "devanagari": "मुक्तिदा",
+  "iastSplit": "Mukti-dā",
+  "archana": "ॐ मुक्तिदायै नमः",
+  "syllables": ["muk", "ti", "dā"],
+  "words": [
+    { "sa": "मुक्ति", "meaning": { "en": "liberation", "hi": "मुक्ति, मोक्ष" } },
+    { "sa": "दा", "meaning": { "en": "giver", "hi": "देने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who grants liberation",
+    "hi": "जो मुक्ति प्रदान करती हैं"
+  },
+  "explanation": {
+    "en": "She gives mukti, final freedom from the round of birth and death. Bhāskararāya quotes the Kūrma Purāṇa: one who seeks liberation should take refuge in Pārvatī, the supreme Goddess, the self of all beings.",
+    "hi": "वे मुक्ति देती हैं, अर्थात् जन्म-मृत्यु के चक्र से अन्तिम छुटकारा। भास्करराय कूर्म पुराण उद्धृत करते हैं: मुक्ति चाहने वाला परमेश्वरी पार्वती की शरण ले, जो सब प्राणियों की आत्मा हैं।"
+  },
+  "inner": {
+    "en": "His other citations stress how freely she gives it. The Śiva Purāṇa says Śiva grants liberation even to those who utter his names without understanding, and the Brahmāṇḍa Purāṇa says that those who worship the supreme Śakti, by the rules or even without them, are surely free. Liberation here is her gift, not a wage.",
+    "hi": "उनके दूसरे उद्धरण बताते हैं कि वे यह कितनी उदारता से देती हैं। शिव पुराण कहता है कि जो अनजाने में भी महेश के नाम लेते हैं, उन्हें भी शिव मुक्ति देते हैं; और ब्रह्माण्ड पुराण कहता है कि जो विधि से या बिना विधि के भी पराशक्ति की पूजा करते हैं, वे निश्चय ही मुक्त हैं। यहाँ मुक्ति उनका दान है, मज़दूरी नहीं।"
+  },
+  "story": {
+    "en": "The Brahmāṇḍa Purāṇa, which Bhāskararāya quotes here, is the Purāṇa in which this Sahasranāma itself is found. This name and the next form a pair: she gives liberation, and she is liberation.",
+    "hi": "भास्करराय यहाँ जिस ब्रह्माण्ड पुराण को उद्धृत करते हैं, उसी पुराण में यह सहस्रनाम भी है। यह नाम और अगला नाम जोड़ी हैं: वे मुक्ति देती हैं, और वे स्वयं मुक्ति हैं।"
+  },
+  "commentary": {
+    "sanskrit": "येऽर्चयन्ति परां शक्तिं विधिनाविधिनापि वा । न ते संसारिणो नूनं मुक्ता एव न संशयः ।।",
+    "translation": {
+      "en": "Those who worship the supreme Śakti, according to the rules or even without them, are surely no longer bound to saṃsāra; they are liberated, without doubt.",
+      "hi": "जो विधि से या बिना विधि के भी पराशक्ति की पूजा करते हैं, वे निश्चय ही संसारी नहीं रहते; वे मुक्त ही हैं, इसमें संशय नहीं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 736 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The commentary excerpt is a Brahmāṇḍa Purāṇa verse as cited by Bhāskararāya under this name (his own gloss is मुक्तिं मोक्षं ददातीति मुक्तिदा). The last sentence of the inner layer is a reflection." }
+}

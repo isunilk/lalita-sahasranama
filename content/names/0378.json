@@ -1,0 +1,43 @@
+{
+  "number": 378,
+  "verse": 82,
+  "slug": "jalandhara-sthita",
+  "devanagari": "जालन्धरस्थिता",
+  "iastSplit": "Jālandhara-sthitā",
+  "archana": "ॐ जालन्धरस्थितायै नमः",
+  "syllables": ["jā", "lan", "dha", "ras", "thi", "tā"],
+  "words": [
+    { "sa": "जालन्धर", "meaning": { "en": "Jālandhara, one of the four great seats (pīṭhas)", "hi": "जालन्धर, चार महापीठों में एक" } },
+    { "sa": "स्थिता", "meaning": { "en": "abiding, seated", "hi": "स्थित" } }
+  ],
+  "meaning": {
+    "en": "Who abides in the sacred seat of Jālandhara",
+    "hi": "जालन्धर पीठ में स्थित"
+  },
+  "explanation": {
+    "en": "Jālandhara is one of the four great seats, or pīṭhas, of the goddess in Śrīvidyā. She dwells there.",
+    "hi": "जालन्धर श्रीविद्या में देवी के चार महापीठों में से एक है। वे वहाँ निवास करती हैं।"
+  },
+  "inner": {
+    "en": "In his introduction to verse 81, Bhāskararāya says, following the Nityāhṛdaya, that the four seats Kāmarūpa, Pūrṇagiri, Jālandhara and Oḍyāṇa are the outer form of the four stages from which sound and the world unfold. Within the body, he says, the tantras place the four seats at the mūlādhāra, anāhata, viśuddhi and ājñā; in that order Jālandhara is at the throat. He adds that the Padma Purāṇa calls her Viṣṇumukhī at Jālandhara.",
+    "hi": "श्लोक 81 की भूमिका में भास्करराय, नित्याहृदय के आधार पर, बताते हैं कि कामरूप, पूर्णगिरि, जालन्धर और ओड्याण, ये चार पीठ उन चार अवस्थाओं के बाहरी रूप हैं जिनसे शब्द और जगत प्रकट होते हैं। शरीर में, वे कहते हैं, तन्त्र इन चार पीठों को मूलाधार, अनाहत, विशुद्धि और आज्ञा में रखते हैं; इस क्रम से जालन्धर कण्ठ में है। वे यह भी बताते हैं कि पद्मपुराण जालन्धर में उन्हें ‘विष्णुमुखी’ कहता है।"
+  },
+  "story": {
+    "en": "With Kāmarūpa and Pūrṇagiri, hinted at in names 375 and 376, and Oḍyāṇa in the next name, this completes the four great seats of Śrīvidyā.",
+    "hi": "नाम 375 और 376 में संकेतित कामरूप और पूर्णगिरि, तथा अगले नाम के ओड्याण, के साथ इससे श्रीविद्या के चार महापीठ पूरे होते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "जालन्धरे पीठविशेषे स्थिता ।",
+    "translation": {
+      "en": "Abiding in Jālandhara, a particular sacred seat.",
+      "hi": "जालन्धर नामक विशेष पीठ में स्थित।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 378 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The placing of Jālandhara at the viśuddhi pairs the order of Bhāskararāya’s list of bodily stations (मूलाधारानाहतविशुद्ध्याज्ञा, under name 376) with the order of the four pīṭhas; he states the match explicitly only for Pūrṇagiri (twelve petals). The edition prints पाद्ये for पाद्मे in the Padma Purāṇa reference (not quoted)." }
+}

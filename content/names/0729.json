@@ -1,0 +1,43 @@
+{
+  "number": 729,
+  "verse": 141,
+  "slug": "ananda-kalika",
+  "devanagari": "आनन्दकलिका",
+  "iastSplit": "Ānanda-kalikā",
+  "archana": "ॐ आनन्दकलिकायै नमः",
+  "syllables": ["ā", "nan", "da", "ka", "li", "kā"],
+  "words": [
+    { "sa": "आनन्द", "meaning": { "en": "bliss", "hi": "आनन्द" } },
+    { "sa": "कलिका", "meaning": { "en": "bud; also a small portion", "hi": "कली; छोटा अंश भी" } }
+  ],
+  "meaning": {
+    "en": "The bud of bliss, a portion of joy in every being",
+    "hi": "आनन्द की कली, हर प्राणी में आनन्द का अंश"
+  },
+  "explanation": {
+    "en": "As the previous name made consciousness her portion, this one makes bliss her portion. Bhāskararāya adds a second sense: kalikā is also a bud, so she is a bud made of bliss.",
+    "hi": "जैसे पिछले नाम में चेतना उनकी कला थी, वैसे ही यहाँ आनन्द उनकी कला है। भास्करराय एक दूसरा अर्थ भी देते हैं: ‘कलिका’ कली भी है, इसलिए वे आनन्दमयी कली हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya also reads her as the portion of bliss found in every living being, and cites the Upaniṣad: other beings live on a small measure of this very bliss. Every ordinary joy is a share of hers. A bud holds the whole flower folded within it, and so even a little joy holds the fullness of bliss.",
+    "hi": "भास्करराय उन्हें हर जीव में स्थित आनन्द का अंश भी मानते हैं, और उपनिषद् उद्धृत करते हैं: इसी आनन्द की थोड़ी-सी मात्रा पर दूसरे प्राणी जीते हैं। हर साधारण सुख उन्हीं का अंश है। जैसे कली में पूरा फूल समाया रहता है, वैसे ही थोड़े-से आनन्द में भी पूर्ण आनन्द छिपा है।"
+  },
+  "story": {
+    "en": "Together with Citkalā (name 728), this name gives two of the three aspects of Brahman as saccidānanda: consciousness and bliss. In the verse the two are joined as citkalā’nandakalikā.",
+    "hi": "चित्कला (नाम 728) के साथ यह नाम सच्चिदानन्द ब्रह्म के तीन पक्षों में से दो का नाम लेता है: चेतना और आनन्द। श्लोक में दोनों जुड़कर ‘चित्कलाऽऽनन्दकलिका’ के रूप में आते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "जीवगतानन्दैकदेशरूपा वा । स्वार्थे कः । एतस्यैवानन्दस्यान्यानि भूतानि मात्रामुपजीवन्तीति श्रुतेः ।",
+    "translation": {
+      "en": "Or she is the portion of bliss present in living beings; the suffix -ka keeps the same sense. For the śruti says: on a small measure of this very bliss other beings live.",
+      "hi": "अथवा वे जीवों में स्थित आनन्द का एक अंश हैं; ‘क’ प्रत्यय अपने ही अर्थ में है। क्योंकि श्रुति कहती है: इसी आनन्द की थोड़ी-सी मात्रा पर दूसरे प्राणी जीते हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 729 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The śruti is Bṛhadāraṇyaka Upaniṣad 4.3.32 (Bhāskararāya says only ‘śruti’). In the lexicon citation the edition prints कालिका कोरकः पुमान्, evidently for कलिका (Amarakośa); not quoted. The last two sentences of the inner layer are a reflection." }
+}

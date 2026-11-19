@@ -1,0 +1,43 @@
+{
+  "number": 715,
+  "verse": 139,
+  "slug": "bhagaradhya",
+  "devanagari": "भगाराध्या",
+  "iastSplit": "Bhagārādhyā",
+  "archana": "ॐ भगाराध्यायै नमः",
+  "syllables": ["bha", "gā", "rādh", "yā"],
+  "words": [
+    { "sa": "भग", "meaning": { "en": "the orb of the sun; also the sacred triangle", "hi": "सूर्यमण्डल; पवित्र त्रिकोण भी" } },
+    { "sa": "आराध्या", "meaning": { "en": "to be worshipped", "hi": "आराधना के योग्य, उपास्या" } }
+  ],
+  "meaning": {
+    "en": "She who is worshipped in the orb of the sun",
+    "hi": "जिनकी आराधना सूर्यमण्डल में होती है"
+  },
+  "explanation": {
+    "en": "Bhaga has many senses. Bhāskararāya reads it first as the orb of the sun, where she is to be worshipped, since that orb is the seat of secret worship. He also gives a second reading, in which bhaga is the sacred triangle through which she is worshipped.",
+    "hi": "‘भग’ शब्द के कई अर्थ हैं। भास्करराय पहले इसे सूर्यमण्डल मानते हैं, जहाँ उनकी आराधना होती है, क्योंकि वह मण्डल रहस्य-उपासना का स्थान है। वे एक दूसरा अर्थ भी देते हैं, जिसमें ‘भग’ वह पवित्र त्रिकोण है जिसके द्वारा उनकी उपासना होती है।"
+  },
+  "inner": {
+    "en": "This is the second of the four names on her hiddenness. The sun that everyone sees each day is, for the worshipper, the place where she is honoured in secret; the most visible light holds the most hidden presence. For the second reading Bhāskararāya only cites a line that calls the bhaga three-cornered, and says no more.",
+    "hi": "उनके रहस्यमय स्वरूप पर चार नामों में यह दूसरा है। जो सूर्य सबको प्रतिदिन दिखता है, वही उपासक के लिए उनकी गुप्त आराधना का स्थान है; सबसे प्रकट प्रकाश में सबसे गूढ़ उपस्थिति है। दूसरे अर्थ के लिए भास्करराय केवल एक पंक्ति उद्धृत करते हैं जो भग को त्रिकोणात्मक कहती है, और इससे आगे कुछ नहीं कहते।"
+  },
+  "story": {
+    "en": "The hymn has already called her Bhānumaṇḍalamadhyasthā, she who dwells at the centre of the sun’s orb (name 275). This name adds that the solar orb is where she is worshipped.",
+    "hi": "स्तोत्र पहले ही उन्हें ‘भानुमण्डलमध्यस्था’ कह चुका है, अर्थात् सूर्यमण्डल के मध्य में रहने वाली (नाम 275)। यह नाम जोड़ता है कि सूर्यमण्डल ही उनकी आराधना का स्थान है।"
+  },
+  "commentary": {
+    "sanskrit": "भगे सवितृमण्डले आराध्योपास्या । सवितृमण्डलस्य रहस्योपास्त्यधिकरणत्वात् ।",
+    "translation": {
+      "en": "To be worshipped in bhaga, the orb of the sun, because the solar orb is the seat of secret worship.",
+      "hi": "भग अर्थात् सूर्यमण्डल में आराध्या, उपास्या; क्योंकि सूर्यमण्डल रहस्य-उपासना का आधार है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 715 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Second reading in the edition: भगेन एकाकारेण वाराध्या, supported by यदेकादशमाधारं बीजं कोणत्रयात्मकम्. एकाकारेण is unclear (perhaps for एकाराकारेण, ‘in the shape of the letter e’), so the page calls it only ‘the sacred triangle’ and does not explain the line. The sentence on visible light and hidden presence is a reflection." }
+}

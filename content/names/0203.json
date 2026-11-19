@@ -1,0 +1,43 @@
+{
+  "number": 203,
+  "verse": 52,
+  "slug": "sarva-mayi",
+  "devanagari": "सर्वमयी",
+  "iastSplit": "Sarva-mayī",
+  "archana": "ॐ सर्वमय्यै नमः",
+  "syllables": ["sar", "va", "ma", "yī"],
+  "words": [
+    { "sa": "सर्व", "meaning": { "en": "all", "hi": "सब, सम्पूर्ण" } },
+    { "sa": "मयी", "meaning": { "en": "made of, one with", "hi": "से बनी, से अभिन्न" } }
+  ],
+  "meaning": {
+    "en": "She who is everything, one with all that exists",
+    "hi": "जो सर्वरूपा हैं, सब कुछ से अभिन्न"
+  },
+  "explanation": {
+    "en": "She is made of everything: all that exists is she, from the earth beneath our feet to Śiva himself. Nothing is outside her, because nothing is other than her.",
+    "hi": "वे सब कुछ से बनी हैं: पैरों के नीचे की पृथ्वी से लेकर स्वयं शिव तक, जो कुछ है वह वे ही हैं। कुछ भी उनसे बाहर नहीं, क्योंकि कुछ भी उनसे भिन्न नहीं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya explains that she is one with all the tattvas, the principles of reality, from earth up to Śiva. He quotes the Kāmika Āgama, which pictures the paths (adhvans) of the cosmos as the body of the Lord: the worlds as his hair, the letters as his skin, the words as his veins and flesh, and the tattvas as his marrow and bones.",
+    "hi": "भास्करराय बताते हैं कि वे पृथ्वी से लेकर शिव तक सभी तत्त्वों से अभिन्न हैं। वे कामिक आगम का वचन उद्धृत करते हैं, जो सृष्टि के अध्वाओं (मार्गों) को प्रभु का शरीर बताता है: भुवन उनके रोम हैं, वर्ण उनकी त्वचा, पद उनकी नसें और मांस, और तत्त्व उनकी मज्जा और अस्थियाँ।"
+  },
+  "story": {
+    "en": "Bhāskararāya says that the next three names restate this one part by part: she is all mantras (204), all yantras (205) and all tantras (206).",
+    "hi": "भास्करराय कहते हैं कि अगले तीन नाम इसी बात को अलग-अलग करके दोहराते हैं: वे सर्वमन्त्रस्वरूपिणी (204), सर्वयन्त्रात्मिका (205) और सर्वतन्त्ररूपा (206) हैं।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वमयी क्षित्यादिशिवान्ततत्त्वाभिन्ना ।",
+    "translation": {
+      "en": "Sarvamayī: one with the tattvas, from earth to Śiva.",
+      "hi": "सर्वमयी, अर्थात् पृथ्वी से लेकर शिव तक के तत्त्वों से अभिन्न।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 203 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. In the Kāmika Āgama verses the edition’s count of tattvas (षड्विंशत्) and the mantra line (मन्त्राध्वा सन्धिरात्माऽसौ) may contain misprints; the inner layer leaves out the details in doubt." }
+}

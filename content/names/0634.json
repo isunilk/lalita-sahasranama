@@ -1,0 +1,75 @@
+{
+  "number": 634,
+  "verse": 126,
+  "slug": "shailendra-tanaya",
+  "devanagari": "शैलेन्द्रतनया",
+  "iastSplit": "Śailendra-tanayā",
+  "archana": "ॐ शैलेन्द्रतनयायै नमः",
+  "syllables": [
+    "śai",
+    "len",
+    "dra",
+    "ta",
+    "na",
+    "yā"
+  ],
+  "words": [
+    {
+      "sa": "शैल",
+      "meaning": {
+        "en": "mountain",
+        "hi": "पर्वत"
+      }
+    },
+    {
+      "sa": "इन्द्र",
+      "meaning": {
+        "en": "king, chief",
+        "hi": "राजा, श्रेष्ठ"
+      }
+    },
+    {
+      "sa": "तनया",
+      "meaning": {
+        "en": "daughter",
+        "hi": "पुत्री"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Daughter of the king of mountains",
+    "hi": "पर्वतराज हिमवान की पुत्री"
+  },
+  "explanation": {
+    "en": "Śaila is mountain, indra here means king, and tanayā is daughter. She was born as Pārvatī, daughter of Himavat, lord of the Himālaya.",
+    "hi": "‘शैल’ है पर्वत, ‘इन्द्र’ यहाँ राजा के अर्थ में है, और ‘तनया’ है पुत्री। वे हिमालय के स्वामी हिमवान की पुत्री पार्वती के रूप में जन्मीं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the literal sense, citing the Devī Purāṇa: she was born in the house of the king of mountains, and so is called his daughter. He gives no hidden meaning here. The Mother who has no birth chose to be born as a daughter, and to win Śiva through love and austerity.",
+    "hi": "भास्करराय केवल शब्दार्थ देते हैं, देवीपुराण के आधार पर: वे पर्वतराज के घर जन्मीं, इसलिए उनकी पुत्री कहलाती हैं। वे यहाँ कोई गूढ़ अर्थ नहीं देते। जिस माँ का कोई जन्म नहीं, उन्होंने पुत्री बनकर जन्म लिया, और प्रेम तथा तप से शिव को पाया।"
+  },
+  "story": {
+    "en": "After Satī gave up her body at Dakṣa’s sacrifice (names 598–600), she was born again to Himavat and his queen Menā as Pārvatī, and through her austerity won Śiva once more as her husband.",
+    "hi": "दक्ष के यज्ञ में सती के देह-त्याग के बाद (नाम 598–600), वे हिमवान और उनकी रानी मेना के यहाँ पार्वती के रूप में फिर जन्मीं, और अपने तप से शिव को पुनः पति रूप में प्राप्त किया।"
+  },
+  "commentary": {
+    "sanskrit": "शैलेन्द्रस्य पर्वतराजस्य हिमवतस्तनया पुत्री ।",
+    "translation": {
+      "en": "The tanayā, daughter, of Śailendra, the king of mountains, Himavat.",
+      "hi": "शैलेन्द्र, अर्थात् पर्वतराज हिमवान, की तनया, यानी पुत्री।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 634 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the last sentence of the inner layer is a reflection."
+  }
+}

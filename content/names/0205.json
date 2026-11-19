@@ -1,0 +1,44 @@
+{
+  "number": 205,
+  "verse": 53,
+  "slug": "sarva-yantratmika",
+  "devanagari": "सर्वयन्त्रात्मिका",
+  "iastSplit": "Sarva-yantrātmikā",
+  "archana": "ॐ सर्वयन्त्रात्मिकायै नमः",
+  "syllables": ["sar", "va", "yan", "trāt", "mi", "kā"],
+  "words": [
+    { "sa": "सर्व", "meaning": { "en": "all", "hi": "सब, सम्पूर्ण" } },
+    { "sa": "यन्त्र", "meaning": { "en": "yantra, sacred diagram", "hi": "यन्त्र" } },
+    { "sa": "आत्मिका", "meaning": { "en": "whose self is; the very self of", "hi": "आत्मस्वरूपा" } }
+  ],
+  "meaning": {
+    "en": "She who is the very self of every yantra",
+    "hi": "जो सभी यन्त्रों की आत्मा हैं"
+  },
+  "explanation": {
+    "en": "A yantra is a sacred diagram used in worship as the seat of a deity. She is the self of every yantra: it is her presence that makes lines and petals a seat of the divine.",
+    "hi": "यन्त्र पूजा में प्रयुक्त पवित्र आकृति है, जिसमें देवता का आसन माना जाता है। वे हर यन्त्र की आत्मा हैं: उन्हीं की उपस्थिति रेखाओं और दलों को दिव्य आसन बनाती है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says she is the very self, the essential nature, of all yantras, such as the Ghaṭārgala yantra. He gives no further hidden meaning here. As a reflection: in Śrīvidyā her own yantra is the Śrīcakra, but this name says that every yantra, of whatever deity, has her as its self.",
+    "hi": "भास्करराय कहते हैं कि वे घटार्गल आदि सभी यन्त्रों की आत्मा, अर्थात् मूल स्वरूप, हैं। वे यहाँ इसके आगे कोई गूढ़ अर्थ नहीं देते। चिन्तन के रूप में: श्रीविद्या में उनका अपना यन्त्र श्रीचक्र है, पर यह नाम कहता है कि किसी भी देवता का हर यन्त्र उन्हीं को अपनी आत्मा के रूप में धारण करता है।"
+  },
+  "story": {
+    "en": "Names 204 to 206 follow one another as in the sūtras Bhāskararāya cites: after all mantras come all yantras and all tantras. Mantra, yantra and tantra (sacred sound, sacred diagram and the scriptures of ritual) are often named together as the supports of Tantric worship.",
+    "hi": "नाम 204 से 206 उसी क्रम में आते हैं जैसे भास्करराय द्वारा उद्धृत सूत्रों में: सभी मन्त्रों के बाद सभी यन्त्र और सभी तन्त्र। मन्त्र, यन्त्र और तन्त्र (पवित्र ध्वनि, पवित्र आकृति और उपासना के शास्त्र) प्रायः तान्त्रिक उपासना के तीन आधारों के रूप में साथ गिने जाते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वेषां घटार्गलादीनां यन्त्राणामात्मस्वरूपमेवात्मिका ।",
+    "translation": {
+      "en": "Ātmikā: she is the very self of all yantras, the Ghaṭārgala and the rest.",
+      "hi": "घटार्गल आदि सभी यन्त्रों की आत्मा, अर्थात् स्वरूप, ही वे हैं; यही ‘आत्मिका’ का अर्थ है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 205 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The mention of the Śrīcakra in the inner layer is context, not from the commentary; no yantra is described for practice. Bhāskararāya adds a grammatical note (प्रत्ययस्थात् इतीत्वम्) on the form आत्मिका." }
+}

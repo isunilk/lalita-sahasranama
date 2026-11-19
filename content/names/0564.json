@@ -1,0 +1,35 @@
+{
+  "number": 564,
+  "verse": 114,
+  "slug": "mridani",
+  "devanagari": "मृडानी",
+  "iastSplit": "Mṛḍānī",
+  "archana": "ॐ मृडान्यै नमः",
+  "syllables": ["mṛ", "ḍā", "nī"],
+  "words": [
+    { "sa": "मृडानी", "meaning": { "en": "wife of Mṛḍa, Śiva the gracious, the giver of joy", "hi": "मृड, अर्थात् सुख देने वाले शिव, की पत्नी" } }
+  ],
+  "meaning": {
+    "en": "Consort of Mṛḍa, Śiva the giver of joy",
+    "hi": "सुख देने वाले शिव (मृड) की पत्नी"
+  },
+  "explanation": {
+    "en": "Mṛḍa, ‘the gracious one’, is a name of Śiva, from the root mṛḍ, to make happy. Mṛḍānī is his wife, as Indrāṇī is Indra’s and Bhavānī is Bhava’s.",
+    "hi": "‘मृड’ शिव का नाम है, जिसका अर्थ है कृपा करने वाले, सुख देने वाले; यह ‘मृड्’ धातु से बना है, जिसका अर्थ है सुखी करना। जैसे इन्द्र की पत्नी इन्द्राणी और भव की भवानी हैं, वैसे ही मृड की पत्नी मृडानी हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes the Śivarahasya, which salutes Mṛḍa as Śiva in whom sattva prevails, working for people’s happiness. Mṛḍānī is the wife of Paramaśiva, the giver of happiness. He gives no further hidden meaning; the grace of Śiva named here is not apart from her.",
+    "hi": "भास्करराय शिवरहस्य का वचन उद्धृत करते हैं, जो सत्त्व की प्रधानता में लोगों के सुख के लिए कार्य करने वाले मृड को नमन करता है। मृडानी सुख देने वाले परमशिव की पत्नी हैं। वे इससे आगे कोई गूढ़ अर्थ नहीं देते; इस नाम में शिव का जो अनुग्रह है, वह उनसे अलग नहीं है।"
+  },
+  "story": {
+    "en": "Mṛḍānī is an old name of Pārvatī. Bhāskararāya explains the form by Pāṇini’s grammar: the feminine suffix with the augment ān gives ‘wife of Mṛḍa’, by the same rule that forms Indrāṇī and Bhavānī.",
+    "hi": "मृडानी पार्वती का प्राचीन नाम है। भास्करराय इस रूप को पाणिनि के व्याकरण से समझाते हैं: ‘आनुक्’ आगम के साथ स्त्रीलिंग प्रत्यय लगकर ‘मृड की पत्नी’ अर्थ बनता है, उसी नियम से जिससे इन्द्राणी और भवानी बनते हैं।"
+  },
+  "commentary": null,
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. No commentary quote: the edition prints मृदाय and मृदस्य, evidently misprints for मृडाय and मृडस्य. The line Bhāskararāya cites from the Śivarahasya (जनसुखकृते सत्त्वोद्रिक्तौ मृडाय नमो नमः) is also found in the Śivamahimnaḥ stotra. The comparison with Indrāṇī and Bhavānī comes from Pāṇini 4.1.49, the rule behind the suffix he names; the closing sentence of the inner layer is a reflection." }
+}

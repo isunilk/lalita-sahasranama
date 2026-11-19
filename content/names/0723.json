@@ -1,0 +1,43 @@
+{
+  "number": 723,
+  "verse": 140,
+  "slug": "sva-tantra",
+  "devanagari": "स्वतन्त्रा",
+  "iastSplit": "Sva-tantrā",
+  "archana": "ॐ स्वतन्त्रायै नमः",
+  "syllables": ["sva", "tan", "trā"],
+  "words": [
+    { "sa": "स्व", "meaning": { "en": "own, self", "hi": "स्व, अपना" } },
+    { "sa": "तन्त्र", "meaning": { "en": "rule, dependence; also a sacred text", "hi": "अधीनता, नियन्त्रण; शास्त्र भी" } }
+  ],
+  "meaning": {
+    "en": "She who is independent, relying on nothing outside herself",
+    "hi": "जो स्वतन्त्र हैं, किसी बाहरी सहारे पर निर्भर नहीं"
+  },
+  "explanation": {
+    "en": "Svatantra means self-ruled. Bhāskararāya explains that she does everything without depending on any means or helper. He also plays on tantra as ‘sacred text’: all the tantras, Śaiva, Vaiṣṇava, Gāṇapatya and others, are her own, because they all describe her glories.",
+    "hi": "‘स्वतन्त्र’ का अर्थ है जो अपने ही अधीन हो। भास्करराय बताते हैं कि वे किसी साधन या सहायक पर निर्भर हुए बिना सब कुछ करती हैं। वे ‘तन्त्र’ के ‘शास्त्र’ अर्थ से भी खेलते हैं: शैव, वैष्णव, गाणपत्य आदि सभी तन्त्र उनके अपने हैं, क्योंकि सब उन्हीं की विभूतियों का वर्णन करते हैं।"
+  },
+  "inner": {
+    "en": "His most striking reading takes sva as ‘her own’, Paraśiva, who depends on her while she depends on him: they are each other’s support. Neither Śiva nor Śakti rules alone. Her independence is not distance from Śiva but the freedom of a love that needs no outside cause.",
+    "hi": "उनका सबसे सुन्दर अर्थ ‘स्व’ को ‘अपना’ मानता है, अर्थात् परशिव, जो उनके अधीन हैं और जिनके अधीन वे हैं: दोनों एक-दूसरे का आधार हैं। न शिव अकेले शासन करते हैं, न शक्ति। उनकी स्वतन्त्रता शिव से दूरी नहीं, बल्कि उस प्रेम की स्वतन्त्रता है जिसे किसी बाहरी कारण की आवश्यकता नहीं।"
+  },
+  "story": {
+    "en": "For this mutual dependence Bhāskararāya quotes the Kālikā Purāṇa on the holy land of Kāmarūpa: in the Devī’s house at its centre Śaṅkara depends on her, while on the Nāṭaka hill to the north-east, Śiva’s abode, Pārvatī depends on him.",
+    "hi": "इस परस्पर अधीनता के लिए भास्करराय कालिका पुराण से कामरूप क्षेत्र का वर्णन उद्धृत करते हैं: उसके मध्य देवी के गृह में शंकर उनके अधीन हैं, और ईशान दिशा में नाटक पर्वत पर, जो शिव का निवास है, पार्वती उनके अधीन हैं।"
+  },
+  "commentary": {
+    "sanskrit": "कारकपारतन्त्र्यमन्तरेणैव सर्वकर्तृत्वात्स्वतन्त्रा",
+    "translation": {
+      "en": "Svatantrā, independent, because she is the doer of everything without depending on any means of action.",
+      "hi": "स्वतन्त्रा, क्योंकि वे किसी कारक (साधन) की अधीनता के बिना ही सबकी कर्त्री हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 723 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya also reads the name as the form of the Nityā tantra called Svatantra (स्वतन्त्राख्यनित्यातन्त्ररूपा वा); not explained on the page. The last sentence of the inner layer is a reflection." }
+}

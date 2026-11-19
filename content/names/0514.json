@@ -1,0 +1,45 @@
+{
+  "number": 514,
+  "verse": 106,
+  "slug": "muladharambujarudha",
+  "devanagari": "मूलाधाराम्बुजारूढा",
+  "iastSplit": "Mūlādhārāmbujārūḍhā",
+  "archana": "ॐ मूलाधाराम्बुजारूढायै नमः",
+  "syllables": ["mū", "lā", "dhā", "rām", "bu", "jā", "rū", "ḍhā"],
+  "words": [
+    { "sa": "मूल", "meaning": { "en": "root", "hi": "मूल" } },
+    { "sa": "आधार", "meaning": { "en": "support, base", "hi": "आधार" } },
+    { "sa": "अम्बुज", "meaning": { "en": "lotus", "hi": "कमल" } },
+    { "sa": "आरूढा", "meaning": { "en": "seated upon", "hi": "आरूढ़, विराजमान" } }
+  ],
+  "meaning": {
+    "en": "Seated in the mūlādhāra lotus",
+    "hi": "मूलाधार कमल पर आरूढ़"
+  },
+  "explanation": {
+    "en": "Mūlādhāra, the ‘root support’, is the four-petalled lotus, lowest of the centres. Bhāskararāya says the yoginī Sākinī dwells there, seated in the centre of the lotus. This name and the six after it describe her.",
+    "hi": "मूलाधार, अर्थात् ‘मूल आधार’, चार दलों वाला कमल है, जो चक्रों में सबसे नीचे है। भास्करराय बताते हैं कि वहाँ साकिनी नाम की योगिनी कमल के मध्य में विराजमान हैं। यह नाम और इसके बाद के छह नाम उनका वर्णन करते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives the literal sense: ārūḍhā means she is seated in the pericarp of the mūlādhāra lotus. He gives no hidden meaning here. After the throat, heart, navel and svādhiṣṭhāna the names have reached the root; the two yoginīs that remain belong to the brow and the crown.",
+    "hi": "भास्करराय शाब्दिक अर्थ देते हैं: ‘आरूढा’ का अर्थ है कि वे मूलाधार कमल की कर्णिका में स्थित हैं। यहाँ वे कोई गूढ़ अर्थ नहीं देते। कण्ठ, हृदय, नाभि और स्वाधिष्ठान के बाद ये नाम अब मूल तक पहुँच गए हैं; शेष दो योगिनियाँ भ्रूमध्य और सहस्रदल कमल की हैं।"
+  },
+  "story": {
+    "en": "The meditation verse Bhāskararāya quotes for Sākinī places her in the four-petalled mūlādhāra: five-faced and three-eyed, smoky in colour, abiding in the bones, holding a goad, a lotus, a book and the gesture of knowledge, surrounded by the powers led by Varadā, fond of rice with green gram and delighted by madhu.",
+    "hi": "भास्करराय साकिनी के लिए जो ध्यान-श्लोक उद्धृत करते हैं, उसमें वे चार दलों वाले मूलाधार में हैं: पाँच मुखों और तीन नेत्रों वाली, धूम्र वर्ण की, अस्थियों में स्थित, हाथों में अङ्कुश, कमल, पुस्तक और ज्ञान-मुद्रा धारण किए, वरदा आदि शक्तियों से घिरी, मूँग वाले भात की प्रेमी और मधु से प्रसन्न।"
+  },
+  "commentary": {
+    "sanskrit": "मूलाधाराख्येऽम्बुजे आरूढा तत्कर्णिकायां स्थिता ।",
+    "translation": {
+      "en": "Ārūḍhā, seated, in the lotus called mūlādhāra: that is, abiding in its pericarp.",
+      "hi": "मूलाधार नाम के कमल पर आरूढ़, अर्थात् उसकी कर्णिका में स्थित।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 514 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense. In the meditation verse the edition prints मुद्रान्नासक्तचित्ताम्, evidently for मुद्गान्न- (compare name 519, मुद्गौदनासक्तचित्ता); the story follows the name. The meditation verse is described as iconography only." }
+}

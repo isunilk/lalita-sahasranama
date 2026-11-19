@@ -1,0 +1,43 @@
+{
+  "number": 182,
+  "verse": 49,
+  "slug": "nishkriya",
+  "devanagari": "निष्क्रिया",
+  "iastSplit": "Niṣ-kriyā",
+  "archana": "ॐ निष्क्रियायै नमः",
+  "syllables": ["niṣ", "kri", "yā"],
+  "words": [
+    { "sa": "निस्", "meaning": { "en": "without, free of", "hi": "रहित" } },
+    { "sa": "क्रिया", "meaning": { "en": "action, activity", "hi": "क्रिया, कर्म" } }
+  ],
+  "meaning": {
+    "en": "Free of all action, untouched by any deed",
+    "hi": "सब क्रियाओं से रहित, किसी कर्म से अछूती"
+  },
+  "explanation": {
+    "en": "Kriyā is action. She is not bound by action of any kind, neither what scripture commands nor what it forbids, and so no merit or sin can cling to her.",
+    "hi": "क्रिया का अर्थ है कर्म। वे किसी भी प्रकार के कर्म से बँधी नहीं हैं, न शास्त्र के विहित कर्म से, न निषिद्ध कर्म से; इसलिए कोई पुण्य या पाप उनसे चिपक नहीं सकता।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says she is free of action, whether enjoined or forbidden, and quotes the Upaniṣad: pleasure and pain do not touch one who is bodiless. He also gives a subtler reading: without entering into action, she takes on the role of the doer and every other part of an action. As the Viṣṇu Purāṇa puts it, a fragrance stirs the mind by its mere nearness, without doing anything; so too the Supreme.",
+    "hi": "भास्करराय कहते हैं कि वे विहित और निषिद्ध, दोनों प्रकार के कर्मों से रहित हैं, और उपनिषद् का वचन उद्धृत करते हैं: जो अशरीरी है, उसे प्रिय और अप्रिय छू नहीं पाते। वे एक और सूक्ष्म अर्थ भी देते हैं: क्रिया में उतरे बिना ही वे कर्ता और क्रिया के अन्य सभी कारकों का भाव धारण कर लेती हैं। जैसा विष्णु पुराण कहता है, सुगन्ध केवल निकट होने से मन को हिला देती है, स्वयं कुछ किए बिना; वैसे ही परमेश्वर भी।"
+  },
+  "story": {
+    "en": "In Sāṅkhya and Vedānta the Self is the witness: present to every action, never its doer. Bhāskararāya’s second reading applies this to her, with the Viṣṇu Purāṇa’s image of a fragrance that moves the mind just by being near.",
+    "hi": "सांख्य और वेदान्त में आत्मा को साक्षी कहा गया है: हर कर्म के समय उपस्थित, पर कभी उसका कर्ता नहीं। भास्करराय का दूसरा अर्थ यही बात देवी पर लागू करता है, विष्णु पुराण के उस उदाहरण के साथ जिसमें सुगन्ध केवल निकट होने से मन को हिला देती है।"
+  },
+  "commentary": {
+    "sanskrit": "विहितनिषिद्धरूपक्रियाराहित्यान्निष्क्रिया ।",
+    "translation": {
+      "en": "Because she is free of action, whether enjoined or forbidden, she is niṣkriyā.",
+      "hi": "विहित और निषिद्ध रूप वाली क्रिया से रहित होने के कारण वे निष्क्रिया हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 182 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya cites the śruti अशरीरं वाव सन्तं न प्रियाप्रिये स्पृशतः without naming it; it is Chāndogya Upaniṣad 8.12.1. The Sāṅkhya and Vedānta framing in the story layer is general context, not from the commentary." }
+}

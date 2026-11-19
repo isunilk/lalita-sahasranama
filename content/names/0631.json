@@ -1,0 +1,74 @@
+{
+  "number": 631,
+  "verse": 126,
+  "slug": "divya-gandhadhya",
+  "devanagari": "दिव्यगन्धाढ्या",
+  "iastSplit": "Divya-gandhāḍhyā",
+  "archana": "ॐ दिव्यगन्धाढ्यायै नमः",
+  "syllables": [
+    "div",
+    "ya",
+    "gan",
+    "dhāḍh",
+    "yā"
+  ],
+  "words": [
+    {
+      "sa": "दिव्य",
+      "meaning": {
+        "en": "divine, heavenly",
+        "hi": "दिव्य"
+      }
+    },
+    {
+      "sa": "गन्ध",
+      "meaning": {
+        "en": "fragrance; also connection",
+        "hi": "गन्ध, सुगन्ध; सम्बन्ध भी"
+      }
+    },
+    {
+      "sa": "आढ्या",
+      "meaning": {
+        "en": "rich in, endowed with",
+        "hi": "समृद्ध, परिपूर्ण"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Rich with divine fragrance",
+    "hi": "दिव्य सुगन्ध से परिपूर्ण"
+  },
+  "explanation": {
+    "en": "Divya is heavenly, gandha is fragrance, and āḍhyā means richly endowed. A heavenly fragrance, like that of celestial sandal, surrounds her.",
+    "hi": "‘दिव्य’ है स्वर्गीय, ‘गन्ध’ है सुगन्ध, और ‘आढ्या’ का अर्थ है समृद्ध, भरपूर। स्वर्गीय चन्दन जैसी दिव्य सुगन्ध उन्हें घेरे रहती है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives three readings. Gandha can mean connection: she is surrounded by heavenly beings, not by earthly things as a king is. Or it is fragrance, and he cites the Vedic verse that calls the Goddess one whose doorway is fragrance. Or, following the Yoga-sūtras, where mastery gives the yogi divine hearing, by her grace the senses become divine and perceive divine fragrance.",
+    "hi": "भास्करराय तीन अर्थ देते हैं। ‘गन्ध’ का अर्थ सम्बन्ध भी हो सकता है: वे दिव्य प्राणियों से घिरी हैं, राजा की तरह पार्थिव वस्तुओं से नहीं। अथवा यह सुगन्ध है, और वे उस वैदिक मन्त्र को उद्धृत करते हैं जो देवी को ‘गन्धद्वारा’, अर्थात् सुगन्ध जिनका द्वार है, कहता है। अथवा, जैसे योगसूत्र के अनुसार संयम से योगी को दिव्य श्रवण प्राप्त होता है, वैसे ही उनकी कृपा से इन्द्रियाँ दिव्य होकर दिव्य गन्ध का अनुभव करती हैं।"
+  },
+  "story": {
+    "en": "The Vedic phrase “gandhadvārāṃ durādharṣām” comes from the Śrī Sūkta, the hymn to Śrī, Lakṣmī. This verse of the Sahasranāma turns to her fragrance and her vermilion mark before naming her as Umā.",
+    "hi": "‘गन्धद्वारां दुराधर्षाम्’ यह वैदिक वाक्य श्रीसूक्त से है, जो श्री, अर्थात् लक्ष्मी, की स्तुति है। सहस्रनाम का यह श्लोक उमा के रूप में उनका नाम लेने से पहले उनकी सुगन्ध और सिन्दूर-तिलक की ओर मुड़ता है।"
+  },
+  "commentary": {
+    "sanskrit": "दिव्यगन्धो हरिचन्दनादिपरिमलो वा तेनाढ्या गन्धद्वारां दुराधर्षामिति श्रुतेः ।",
+    "translation": {
+      "en": "Or divyagandha is the fragrance of heavenly sandal and the like, and she is rich with it, as the Veda says: ‘whose doorway is fragrance, unassailable’.",
+      "hi": "अथवा दिव्यगन्ध हरिचन्दन आदि की सुगन्ध है, उससे वे समृद्ध हैं, क्योंकि श्रुति कहती है: ‘गन्धद्वारां दुराधर्षाम्’, अर्थात् सुगन्ध जिनका द्वार है और जिन्हें कोई पराजित नहीं कर सकता।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 631 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. Bhāskararāya cites ‘गन्धद्वारां दुराधर्षाम्’ only as śruti; naming the Śrī Sūkta is mine. His third reading is described without practice detail."
+  }
+}

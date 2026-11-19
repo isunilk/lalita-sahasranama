@@ -1,0 +1,43 @@
+{
+  "number": 439,
+  "verse": 93,
+  "slug": "kuleshvari",
+  "devanagari": "कुलेश्वरी",
+  "iastSplit": "Kuleśvarī",
+  "archana": "ॐ कुलेश्वर्यै नमः",
+  "syllables": ["ku", "leś", "va", "rī"],
+  "words": [
+    { "sa": "कुल", "meaning": { "en": "kula: family, group; the triad of knower, knowing and known", "hi": "कुल: परिवार, समूह; ज्ञाता, ज्ञान और ज्ञेय की त्रिपुटी" } },
+    { "sa": "ईश्वरी", "meaning": { "en": "sovereign goddess", "hi": "ईश्वरी, स्वामिनी" } }
+  ],
+  "meaning": {
+    "en": "Sovereign of the kula: knower, knowing and known",
+    "hi": "कुल की ईश्वरी: ज्ञाता, ज्ञान और ज्ञेय की स्वामिनी"
+  },
+  "explanation": {
+    "en": "Kula means a family, a group of things of one kind. Bhāskararāya takes it as the triad of knower, means of knowing and object known, which belong together in every act of knowledge. She is their sovereign.",
+    "hi": "‘कुल’ का अर्थ है परिवार, एक ही जाति की वस्तुओं का समूह। भास्करराय इसे ज्ञाता, ज्ञान के साधन और ज्ञेय की त्रिपुटी मानते हैं, जो ज्ञान के हर कार्य में साथ रहते हैं। वे इनकी ईश्वरी हैं।"
+  },
+  "inner": {
+    "en": "Whenever anything is known, three appear together: the one who knows, the knowing, and what is known. She rules all three, so she is not one more object within experience but the power that governs every experience.",
+    "hi": "जब भी कुछ जाना जाता है, तीन साथ प्रकट होते हैं: जानने वाला, जानना, और जो जाना गया। वे तीनों की स्वामिनी हैं, इसलिए वे अनुभव के भीतर कोई और वस्तु नहीं, बल्कि हर अनुभव को चलाने वाली शक्ति हैं।"
+  },
+  "story": {
+    "en": "Kula is a key word of Śrīvidyā, and earlier names (90–96) are built on it. Here it is read through the triad that runs through all knowing.",
+    "hi": "‘कुल’ श्रीविद्या का एक प्रमुख शब्द है, और पहले के नाम (90–96) भी इसी पर आधारित हैं। यहाँ इसे उस त्रिपुटी के रूप में पढ़ा गया है जो हर ज्ञान में विद्यमान है।"
+  },
+  "commentary": {
+    "sanskrit": "सजातीयानां मातृमानमेयानां समूहः कुलं तस्येश्वरी ।",
+    "translation": {
+      "en": "Kula is the group of things of one kind, the knower, the means of knowing and the known; she is its sovereign.",
+      "hi": "एक ही जाति के ज्ञाता, ज्ञान-साधन और ज्ञेय का समूह ‘कुल’ है; वे उसकी ईश्वरी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 439 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The second sentence of the inner layer is a reflection." }
+}

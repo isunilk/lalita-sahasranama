@@ -1,0 +1,42 @@
+{
+  "number": 208,
+  "verse": 53,
+  "slug": "maheshvari",
+  "devanagari": "माहेश्वरी",
+  "iastSplit": "Māheśvarī",
+  "archana": "ॐ माहेश्वर्यै नमः",
+  "syllables": ["mā", "heś", "va", "rī"],
+  "words": [
+    { "sa": "माहेश्वरी", "meaning": { "en": "belonging to Maheśvara, the Great Lord; his Śakti and consort", "hi": "महेश्वर से सम्बन्धित; उनकी शक्ति और पत्नी" } }
+  ],
+  "meaning": {
+    "en": "Consort and power of Maheśvara, the Great Lord",
+    "hi": "महेश्वर की पत्नी और शक्ति"
+  },
+  "explanation": {
+    "en": "Maheśvara, the Great Lord, is Śiva. She is Māheśvarī, his own: his consort, and the power through which he acts.",
+    "hi": "महेश्वर, अर्थात् महान ईश्वर, शिव हैं। वे माहेश्वरी हैं, उन्हीं की: उनकी पत्नी, और वह शक्ति जिसके द्वारा वे कार्य करते हैं।"
+  },
+  "inner": {
+    "en": "For Bhāskararāya, the defining mark of the word Maheśvara is being beyond the three guṇas. He quotes a śruti verse that calls Maheśvara the one beyond even the sound declared at the beginning of the Veda and established at its end, and the Liṅga Purāṇa: through tamas the Lord is Kālarudra, through rajas Brahmā, through sattva Viṣṇu, and beyond the guṇas, Maheśvara. She is the Śakti of that Lord beyond all qualities.",
+    "hi": "भास्करराय के अनुसार ‘महेश्वर’ शब्द का मूल लक्षण तीनों गुणों से परे होना है। वे श्रुति का एक श्लोक उद्धृत करते हैं जो वेद के आरम्भ में कहे गए और वेदान्त में प्रतिष्ठित स्वर से भी परे को महेश्वर कहता है, और लिङ्ग पुराण का भी: तमोगुण से प्रभु कालरुद्र हैं, रजोगुण से ब्रह्मा, सत्त्वगुण से विष्णु, और गुणातीत रूप में महेश्वर। वे उसी गुणातीत प्रभु की शक्ति हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya gathers several accounts of the name Maheśvara: the Mahābhārata calls him lord of beings and of the great ones, and another verse says he is called Maheśvara because people worship his liṅga with truth and celibacy. Three of the four names in this half-verse tie her to Śiva under different titles: Maheśvara (208), Mahādeva (209) and Mṛḍa (211).",
+    "hi": "भास्करराय ‘महेश्वर’ नाम के कई अर्थ एकत्र करते हैं: महाभारत उन्हें प्राणियों और महान सत्ताओं का स्वामी कहता है, और एक अन्य श्लोक कहता है कि लोग सत्य और ब्रह्मचर्य के साथ उनके लिङ्ग की पूजा करते हैं, इसलिए वे महेश्वर कहलाते हैं। इस अर्धश्लोक के चार में से तीन नाम उन्हें शिव से अलग-अलग नामों द्वारा जोड़ते हैं: महेश्वर (208), महादेव (209) और मृड (211)।"
+  },
+  "commentary": {
+    "sanskrit": "तमसा कालरुद्राख्यो रजसा कनकाण्डजः । सत्त्वेन सर्वगो विष्णुर्नैर्गुण्येन महेश्वरः ।।",
+    "translation": {
+      "en": "Through tamas he is named Kālarudra, through rajas he is the one born of the golden egg, through sattva the all-pervading Viṣṇu, and through being beyond the guṇas, Maheśvara.",
+      "hi": "तमोगुण से वे कालरुद्र कहलाते हैं, रजोगुण से स्वर्ण-अण्ड से उत्पन्न (ब्रह्मा), सत्त्वगुण से सर्वव्यापी विष्णु, और निर्गुणता से महेश्वर।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 208 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The commentary quote is a Liṅga Purāṇa verse that Bhāskararāya cites for the meaning of Maheśvara. He also mentions the Maheśvara whose twenty-five-fold vyūha is taught in the Vātula-śuddha; not covered here. The words list gives the whole name, since माहेश्वरी is a derivative of महेश्वर rather than a compound." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 419,
+  "verse": 90,
+  "slug": "jadatmika",
+  "devanagari": "जडात्मिका",
+  "iastSplit": "Jaḍātmikā",
+  "archana": "ॐ जडात्मिकायै नमः",
+  "syllables": ["ja", "ḍāt", "mi", "kā"],
+  "words": [
+    { "sa": "जड", "meaning": { "en": "inert; all that is seen", "hi": "जड; जो कुछ दृश्य है" } },
+    { "sa": "आत्मन्", "meaning": { "en": "self, own nature", "hi": "आत्मा, स्वरूप" } }
+  ],
+  "meaning": {
+    "en": "Whose nature is the inert, visible world",
+    "hi": "जड़ और दृश्य जगत ही जिनका स्वरूप है"
+  },
+  "explanation": {
+    "en": "As māyā, she has for her own nature all that is jaḍa, everything that can be seen. The visible world is not apart from her.",
+    "hi": "माया के रूप में जो कुछ जड़ है, जो कुछ भी देखा जा सकता है, वही उनका स्वरूप है। दृश्य जगत उनसे अलग नहीं है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya defines jaḍa simply as ‘all that is seen’, the whole field of objects, and says this is the nature of māyā, which she is. He gives no further hidden meaning. The seen world, then, is not something she looks at from outside; it is she, in the form of māyā.",
+    "hi": "भास्करराय ‘जड’ की परिभाषा सरलता से देते हैं: जो कुछ भी दृश्य है, वस्तुओं का सारा क्षेत्र; और कहते हैं कि यही उस माया का स्वरूप है जो वे स्वयं हैं। वे कोई और गूढ़ अर्थ नहीं देते। अर्थात् दृश्य जगत कोई ऐसी वस्तु नहीं जिसे वे बाहर से देखती हों; वह माया के रूप में वे ही हैं।"
+  },
+  "story": {
+    "en": "This completes the first line of verse 90. The next line turns to the Vedic daily rite: the Gāyatrī, the vyāhṛtis, the sandhyā, and the twice-born who keep it.",
+    "hi": "यह श्लोक 90 की पहली पंक्ति पूरी करता है। अगली पंक्ति वैदिक नित्य-कर्म की ओर मुड़ती है: गायत्री, व्याहृतियाँ, सन्ध्या, और उसका पालन करने वाले द्विज।"
+  },
+  "commentary": {
+    "sanskrit": "जडं दृश्यमात्रमात्मा स्वरूपं यस्या मायायाः सा जडात्मिका ।",
+    "translation": {
+      "en": "Jaḍa is everything that is seen; she, the māyā whose ātman, own nature, it is, is Jaḍātmikā.",
+      "hi": "जो कुछ दृश्य है, वह जड है; वह जिस माया का आत्मा अर्थात् स्वरूप है, वे जडात्मिका हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 419 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the last sentence of the inner layer is a reflection." }
+}

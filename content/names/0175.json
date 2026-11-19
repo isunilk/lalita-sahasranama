@@ -1,0 +1,43 @@
+{
+  "number": 175,
+  "verse": 48,
+  "slug": "bhava-nashini",
+  "devanagari": "भवनाशिनी",
+  "iastSplit": "Bhava-nāśinī",
+  "archana": "ॐ भवनाशिन्यै नमः",
+  "syllables": ["bha", "va", "nā", "śi", "nī"],
+  "words": [
+    { "sa": "भव", "meaning": { "en": "worldly existence, the cycle of birth and death", "hi": "संसार, जन्म-मरण का चक्र" } },
+    { "sa": "नाशिनी", "meaning": { "en": "she who destroys", "hi": "नाश करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Destroyer of the cycle of birth and death",
+    "hi": "जन्म-मरण के संसार का नाश करने वाली"
+  },
+  "explanation": {
+    "en": "Bhava here is saṃsāra, the round of birth and death. She, who was never born, brings that round to an end for her devotees.",
+    "hi": "यहाँ ‘भव’ का अर्थ है संसार, जन्म और मृत्यु का चक्र। जो स्वयं कभी जन्मी नहीं, वे अपने भक्तों के लिए इस चक्र का अन्त कर देती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya glosses bhava as saṃsāra and quotes several Purāṇas. In the Kūrma Purāṇa she is the sustainer and creator who ends all the torments of saṃsāra for those who seek supreme bliss. In the Devī Bhāgavata the Goddess herself says: those devoted to me, who have taken up the yoga of the Lord, I swiftly lift out of this ocean of saṃsāra.",
+    "hi": "भास्करराय ‘भव’ का अर्थ संसार बताते हैं और कई पुराणों के वचन देते हैं। कूर्म पुराण में वे परम आनन्द चाहने वालों के लिए धात्री और विधात्री हैं, जो संसार के सारे तापों को नष्ट करती हैं। देवी भागवत में स्वयं देवी कहती हैं: जो भक्त मुझमें लगे हैं और ऐश्वर योग का आश्रय लेते हैं, उन्हें मैं इस संसार-सागर से शीघ्र उबार लेती हूँ।"
+  },
+  "story": {
+    "en": "Bhāskararāya also quotes the Śakti Rahasya: whoever duly bathes Caṇḍikā with ghee on the ninth day of the bright fortnight lifts himself and ten generations before and after out of the ocean of becoming. In another reading he takes Bhavanāśinī as the river of that name, known from the Bṛhajjābāla Upaniṣad in the words ‘went to Nṛsiṃha on the bank of the Bhavanāśinī’.",
+    "hi": "भास्करराय शक्तिरहस्य का भी वचन देते हैं: जो शुक्ल पक्ष की नवमी को विधिपूर्वक चण्डिका को घी से स्नान कराता है, वह अपने साथ दस पिछली और दस अगली पीढ़ियों को भवसागर से पार ले जाता है। एक और अर्थ में वे ‘भवनाशिनी’ को इसी नाम की नदी मानते हैं, जो बृहज्जाबाल उपनिषद् के इस वचन से प्रसिद्ध है: ‘भवनाशिनी के तट पर नृसिंह के पास गया।’"
+  },
+  "commentary": {
+    "sanskrit": "भवं संसारं नाशयतीति तथा ।",
+    "translation": {
+      "en": "She destroys bhava, saṃsāra; hence so named.",
+      "hi": "वे भव, अर्थात् संसार, का नाश करती हैं, इसलिए भवनाशिनी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 175 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition prints स्नापनेद्यस्तु (for स्नापयेद्यस्तु) in the Śakti Rahasya verse, which is summarized, not quoted." }
+}

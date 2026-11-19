@@ -1,0 +1,44 @@
+{
+  "number": 600,
+  "verse": 120,
+  "slug": "daksha-yajna-vinashini",
+  "devanagari": "दक्षयज्ञविनाशिनी",
+  "iastSplit": "Dakṣa-yajña-vināśinī",
+  "archana": "ॐ दक्षयज्ञविनाशिन्यै नमः",
+  "syllables": ["dak", "ṣa", "yaj", "ña", "vi", "nā", "śi", "nī"],
+  "words": [
+    { "sa": "दक्ष", "meaning": { "en": "Dakṣa", "hi": "दक्ष प्रजापति" } },
+    { "sa": "यज्ञ", "meaning": { "en": "sacrifice", "hi": "यज्ञ" } },
+    { "sa": "विनाशिनी", "meaning": { "en": "destroyer", "hi": "विनाश करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Destroyer of Dakṣa’s sacrifice",
+    "hi": "दक्ष के यज्ञ का विनाश करने वाली"
+  },
+  "explanation": {
+    "en": "She destroyed the sacrifice of Dakṣa. Bhāskararāya notes that it was Śiva who wrecked the sacrifice, yet she is called its destroyer because she was its cause.",
+    "hi": "उन्होंने दक्ष के यज्ञ का विनाश किया। भास्करराय बताते हैं कि यज्ञ का नाश शिव ने किया था, फिर भी वे उसकी विनाशिनी कहलाती हैं, क्योंकि उसका निमित्त वे ही थीं।"
+  },
+  "inner": {
+    "en": "He speaks of two Dakṣas: the famous Prajāpati, and a human king who was a later incarnation of the same Dakṣa. It is her nature to destroy the sacrifice of both. A sacrifice offered in pride, which leaves out Śiva, cannot stand.",
+    "hi": "वे दो दक्षों की बात करते हैं: एक प्रसिद्ध प्रजापति, और दूसरा एक मानव राजा, जो उसी दक्ष का एक विशेष अवतार था। दोनों के यज्ञ का विनाश करना उनका स्वभाव है। अहंकार से किया गया यज्ञ, जिसमें शिव को छोड़ दिया जाए, टिक नहीं सकता।"
+  },
+  "story": {
+    "en": "He quotes the Brahma and Vāyu Purāṇas: Śiva cursed Dakṣa to be born again as a human king, also named Dakṣa, son of the Pracetases and grandson of Prācīnabarhis, born of Māriṣā in the Cākṣuṣa age; ‘there too,’ Śiva says, ‘I will destroy your sacrifice, to please the Devī.’ With this name Bhāskararāya closes the sixth hundred of his commentary, which he calls the seventh kalā, Suṣumṇā.",
+    "hi": "वे ब्रह्म पुराण और वायु पुराण उद्धृत करते हैं: शिव ने दक्ष को शाप दिया कि वह फिर मानव राजा के रूप में जन्म लेगा, दक्ष नाम से ही, प्रचेताओं का पुत्र और प्राचीनबर्हि का पौत्र, चाक्षुष मन्वन्तर में मारिषा से; और शिव कहते हैं, ‘वहाँ भी मैं देवी को प्रसन्न करने के लिए तुम्हारा यज्ञ नष्ट करूँगा।’ इस नाम के साथ भास्करराय अपनी टीका का छठा शतक पूरा करते हैं, जिसे वे सातवीं कला, ‘सुषुम्णा’, कहते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "दक्षो द्विविधः- एकः प्रजापतित्वेन प्रसिद्धः, अन्यो मानुषो राजा तस्यैवावतारविशेषः । उभयोरपि यज्ञं विनाशयितुं शीलमस्याः ।",
+    "translation": {
+      "en": "Dakṣa is of two kinds: one famed as the Prajāpati, the other a human king, a particular incarnation of the same. It is her nature to destroy the sacrifice of both.",
+      "hi": "दक्ष दो हैं: एक प्रजापति के रूप में प्रसिद्ध, दूसरा मानव राजा, जो उसी का एक विशेष अवतार है। दोनों के ही यज्ञ का विनाश करना इनका स्वभाव है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 600 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Variant: Bhāskararāya notes that if the penultimate vowel is read as अ the form is विनाशनी; the master text has विनाशिनी. The last sentence of the inner layer is a reflection." }
+}

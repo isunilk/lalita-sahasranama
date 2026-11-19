@@ -1,0 +1,45 @@
+{
+  "number": 587,
+  "verse": 118,
+  "slug": "shri-shodashakshari-vidya",
+  "devanagari": "श्रीषोडशाक्षरीविद्या",
+  "iastSplit": "Śrī-ṣoḍaśākṣarī-vidyā",
+  "archana": "ॐ श्रीषोडशाक्षरीविद्यायै नमः",
+  "syllables": ["śrī", "ṣo", "ḍa", "śāk", "ṣa", "rī", "vid", "yā"],
+  "words": [
+    { "sa": "श्री", "meaning": { "en": "auspicious; Śrī", "hi": "श्री, मंगलमय" } },
+    { "sa": "षोडश", "meaning": { "en": "sixteen", "hi": "सोलह" } },
+    { "sa": "अक्षर", "meaning": { "en": "syllable", "hi": "अक्षर" } },
+    { "sa": "विद्या", "meaning": { "en": "knowledge; a sacred mantra", "hi": "विद्या; मन्त्र" } }
+  ],
+  "meaning": {
+    "en": "The sacred sixteen-syllabled Śrīvidyā",
+    "hi": "श्री से युक्त षोडशाक्षरी विद्या"
+  },
+  "explanation": {
+    "en": "Ṣoḍaśākṣarī means a group of sixteen syllables. Bhāskararāya reads the name as the vidyā that is auspicious (śrī) and has sixteen syllables; or as the vidyā whose sixteenth syllable is śrī.",
+    "hi": "‘षोडशाक्षरी’ का अर्थ है सोलह अक्षरों का समूह। भास्करराय इस नाम को ‘श्री से युक्त, सोलह अक्षरों वाली विद्या’ के रूप में पढ़ते हैं; या उस विद्या के रूप में जिसका सोलहवाँ अक्षर ‘श्री’ है।"
+  },
+  "inner": {
+    "en": "He resolves an apparent conflict. A sūtra of Gauḍapāda speaks of the vidyā as having twenty-eight letters; he explains that the difference comes only from how the letters of the three kūṭas are divided and counted, so there is no real disagreement. The mantra itself is traditionally received from a teacher and is not given here.",
+    "hi": "वे एक प्रतीत होने वाले विरोध का समाधान करते हैं। गौडपाद के एक सूत्र में इस विद्या को अट्ठाईस वर्णों वाली कहा गया है; वे बताते हैं कि यह अन्तर केवल तीन कूटों के अक्षरों को बाँटकर गिनने के ढंग से आता है, इसलिए कोई वास्तविक विरोध नहीं है। मन्त्र स्वयं परम्परा से गुरु से ही प्राप्त किया जाता है, और यहाँ नहीं दिया गया है।"
+  },
+  "story": {
+    "en": "Name 585 named the fifteen-syllabled Pañcadaśī; this name names the sixteen-syllabled form, the Ṣoḍaśī. In Bhāskararāya’s second reading the sixteenth syllable is the one called śrī, and the śrī at the head of the name points to it.",
+    "hi": "नाम 585 में पन्द्रह अक्षरों की पञ्चदशी का नाम आया; यह नाम सोलह अक्षरों वाले रूप, षोडशी, का नाम लेता है। भास्करराय के दूसरे अर्थ में सोलहवाँ अक्षर ‘श्री’ है, और नाम के आरम्भ का ‘श्री’ उसी की ओर संकेत करता है।"
+  },
+  "commentary": {
+    "sanskrit": "षोडशानामक्षराणां समाहारः षोडशाक्षरी । श्रीयुक्ता च सा षोडशाक्षरी च सा विद्या चेति तथा ।",
+    "translation": {
+      "en": "Ṣoḍaśākṣarī is the collection of sixteen syllables. She is endowed with śrī, she is the sixteen-syllabled one, and she is the vidyā: hence the name.",
+      "hi": "सोलह अक्षरों का समाहार षोडशाक्षरी है। वे श्री से युक्त हैं, वे षोडशाक्षरी हैं और वे विद्या हैं; इसलिए यह नाम।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 587 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Mantra name: meaning only, no syllables of the mantra given. The edition’s गौडपादीयसूत्रमप्यविद्याष्टाविंशति… looks corrupt (perhaps …अपि विद्या…); the Gauḍapāda point is paraphrased loosely and should be checked." }
+}

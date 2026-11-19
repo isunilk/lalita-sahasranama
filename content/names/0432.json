@@ -1,0 +1,45 @@
+{
+  "number": 432,
+  "verse": 92,
+  "slug": "mada-ghurnita-raktakshi",
+  "devanagari": "मदघूर्णितरक्ताक्षी",
+  "iastSplit": "Mada-ghūrṇita-raktākṣī",
+  "archana": "ॐ मदघूर्णितरक्ताक्ष्यै नमः",
+  "syllables": ["ma", "da", "ghūr", "ṇi", "ta", "rak", "tāk", "ṣī"],
+  "words": [
+    { "sa": "मद", "meaning": { "en": "rapture", "hi": "मद" } },
+    { "sa": "घूर्णित", "meaning": { "en": "rolling", "hi": "घूमते हुए" } },
+    { "sa": "रक्त", "meaning": { "en": "red", "hi": "लाल" } },
+    { "sa": "अक्षि", "meaning": { "en": "eye", "hi": "नेत्र" } }
+  ],
+  "meaning": {
+    "en": "Whose eyes are red and rolling with rapture",
+    "hi": "जिनके नेत्र मद से लाल और घूमते हुए हैं"
+  },
+  "explanation": {
+    "en": "Her eyes are reddened and roll gently, as the eyes of one lost in rapture do. The image is of deep inner joy showing in the eyes.",
+    "hi": "उनके नेत्र लाल हैं और धीरे-धीरे घूमते हैं, जैसे आनन्द में डूबे व्यक्ति के नेत्र। यह चित्र नेत्रों में झलकते गहरे आन्तरिक आनन्द का है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives the key: the rolling of her eyes is their turning away from outer objects. Eyes that roll in rapture fix on nothing outside; her gaze rests inward, in bliss.",
+    "hi": "भास्करराय इसकी कुंजी देते हैं: नेत्रों का घूमना बाहरी विषयों से उनका विमुख होना है। मद में घूमते नेत्र बाहर किसी वस्तु पर नहीं टिकते; उनकी दृष्टि भीतर, आनन्द में, स्थित है।"
+  },
+  "story": {
+    "en": "Eyes reddened and rolling with mada are a familiar picture of rapture in Sanskrit poetry. Bhāskararāya’s printed text reads madāghūrṇita, with ā; the sense is the same.",
+    "hi": "मद से लाल और घूमते नेत्र संस्कृत काव्य में आनन्द-मत्तता का परिचित चित्र हैं। भास्करराय के मुद्रित पाठ में ‘मदाघूर्णित’ (आ सहित) है; अर्थ वही है।"
+  },
+  "commentary": {
+    "sanskrit": "मदेन घूर्णितानि रक्तानि चाक्षीणि यस्याः । बाह्यविषयवैमुख्यं घूर्णनम् ।",
+    "translation": {
+      "en": "She whose eyes are rolling with mada, and red. The rolling is the turning away from outer objects.",
+      "hi": "जिनके नेत्र मद से घूमते हुए और लाल हैं। बाहरी विषयों से विमुख होना ही घूमना है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 432 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The commentary’s verse-line prints मदाघूर्णितरक्ताक्षी; the master text reads मदघूर्णितरक्ताक्षी, which his gloss (मदेन घूर्णितानि) also supports. The last clause of the inner layer is a reflection." }
+}

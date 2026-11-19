@@ -1,0 +1,44 @@
+{
+  "number": 732,
+  "verse": 141,
+  "slug": "nama-parayana-prita",
+  "devanagari": "नामपारायणप्रीता",
+  "iastSplit": "Nāma-pārāyaṇa-prītā",
+  "archana": "ॐ नामपारायणप्रीतायै नमः",
+  "syllables": ["nā", "ma", "pā", "rā", "ya", "ṇap", "rī", "tā"],
+  "words": [
+    { "sa": "नामन्", "meaning": { "en": "name", "hi": "नाम" } },
+    { "sa": "पारायण", "meaning": { "en": "recitation through from beginning to end", "hi": "आदि से अन्त तक पाठ" } },
+    { "sa": "प्रीता", "meaning": { "en": "pleased, delighted", "hi": "प्रसन्न" } }
+  ],
+  "meaning": {
+    "en": "She who is pleased by the full recitation of her names",
+    "hi": "जो अपने नामों के पारायण से प्रसन्न होती हैं"
+  },
+  "explanation": {
+    "en": "Pārāyaṇa is reciting a text through from start to finish. Bhāskararāya first explains nāma-pārāyaṇa as a rite of the Kādi school, in which her secret names, formed from the letters of the alphabet and numbering more than twenty thousand, are recited over set periods. He adds that the recitation of this Sahasranāma is meant too, and she delights in both.",
+    "hi": "पारायण का अर्थ है किसी ग्रन्थ का आदि से अन्त तक पाठ। भास्करराय पहले ‘नामपारायण’ को कादि-मत की एक विधि बताते हैं, जिसमें वर्णमाला के अक्षरों से बने उनके गुप्त नाम, जिनकी संख्या बीस हज़ार से अधिक है, निश्चित अवधियों में पढ़े जाते हैं। वे जोड़ते हैं कि इस सहस्रनाम का पाठ भी अभिप्रेत है, और वे दोनों से प्रसन्न होती हैं।"
+  },
+  "inner": {
+    "en": "He quotes a verse in which the Devī herself speaks: whether one worships me or not, whether one repeats the vidyā or not, one should always sing this thousand-name hymn for my pleasure. The name is thus an assurance to everyone who chants: even when nothing else is offered, the chanting itself pleases her.",
+    "hi": "वे एक श्लोक उद्धृत करते हैं जिसमें स्वयं देवी कहती हैं: कोई मेरी पूजा करे या न करे, विद्या का जप करे या न करे, मेरी प्रसन्नता के लिए इस सहस्रनाम का सदा कीर्तन करे। इस प्रकार यह नाम हर पाठ करने वाले के लिए एक आश्वासन है: और कुछ अर्पित न भी हो, तो भी नाम-पाठ ही उन्हें प्रसन्न करता है।"
+  },
+  "story": {
+    "en": "Bhāskararāya also cites the Devī Bhāgavata, where countless names are said to arise from joining the vowels and consonants from a to kṣa. For those who chant this hymn daily, the name speaks of their own practice.",
+    "hi": "भास्करराय देवीभागवत भी उद्धृत करते हैं, जहाँ कहा गया है कि ‘अ’ से ‘क्ष’ तक के स्वरों और व्यंजनों के मेल से असंख्य नाम बनते हैं। जो इस स्तोत्र का प्रतिदिन पाठ करते हैं, उनके लिए यह नाम उन्हीं की साधना की बात करता है।"
+  },
+  "commentary": {
+    "sanskrit": "मामर्चयतु वा मा वा विद्यां जपतु वा न वा । कीर्तयेन्नामसाहस्रमिदं मत्प्रीतये सदा ।।",
+    "translation": {
+      "en": "Let one worship me or not, let one repeat the vidyā or not; one should always sing this thousand-name hymn for my pleasure.",
+      "hi": "कोई मेरी पूजा करे या न करे, विद्या का जप करे या न करे; मेरी प्रसन्नता के लिए इस सहस्रनाम का सदा कीर्तन करे।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 732 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya cites the verse मामर्चयतु वा मा वा with इति वचनात्, without naming its source. The page describes the Kādi-school nāma-pārāyaṇa only in outline (letters of the alphabet, 20,736 names, recitation over set periods) and leaves out the method of forming the names." }
+}

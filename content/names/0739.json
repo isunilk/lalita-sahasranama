@@ -1,0 +1,43 @@
+{
+  "number": 739,
+  "verse": 142,
+  "slug": "laya-kari",
+  "devanagari": "लयकरी",
+  "iastSplit": "Laya-karī",
+  "archana": "ॐ लयकर्यै नमः",
+  "syllables": ["la", "ya", "ka", "rī"],
+  "words": [
+    { "sa": "लय", "meaning": { "en": "absorption of the mind; also the measure of music", "hi": "चित्त का लय; संगीत की लय भी" } },
+    { "sa": "करी", "meaning": { "en": "who brings about", "hi": "करने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who brings about laya, the mind’s absorption",
+    "hi": "जो लय, अर्थात् चित्त की तल्लीनता, कराती हैं"
+  },
+  "explanation": {
+    "en": "Bhāskararāya gives two senses of laya. It is a particular state of the mind, of which it is said that one laya equals ten meditations; or it is the keeping of dance and song to one measure by the beats of tāla. She is the maker of both.",
+    "hi": "भास्करराय ‘लय’ के दो अर्थ देते हैं। यह चित्त की एक विशेष अवस्था है, जिसके विषय में कहा गया है कि एक लय दस ध्यानों के समान है; अथवा ताल के द्वारा नृत्य और गीत को एक ही काल-माप में बाँधना लय है। वे दोनों की कर्त्री हैं।"
+  },
+  "inner": {
+    "en": "The two senses meet: as song and dance become one in rhythm, so in laya the mind becomes one with what it dwells on and its restless movement dissolves. The word can also mean the dissolution of the world, but Bhāskararāya does not give that sense here.",
+    "hi": "दोनों अर्थ आपस में मिलते हैं: जैसे लय में गीत और नृत्य एक हो जाते हैं, वैसे ही चित्त-लय में मन अपने ध्येय में एक होकर अपनी चंचलता खो देता है। ‘लय’ का अर्थ जगत् का प्रलय भी हो सकता है, पर भास्करराय यहाँ वह अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "Standing beside Lāsyapriyā, the name joins the stillness of the mind and the measure of music in a single word.",
+    "hi": "लास्यप्रिया के साथ रखा यह नाम मन की स्थिरता और संगीत की ताल को एक ही शब्द में जोड़ता है।"
+  },
+  "commentary": {
+    "sanskrit": "लयश्चित्तावस्थाविशेषः । दशध्यानसमो लय इति वचनात् । तालैर्नृत्यगीतयोः समकालपरिच्छेदो वा लयः तस्य करी कर्त्री ।",
+    "translation": {
+      "en": "Laya is a particular state of the mind, by the saying ‘laya is equal to ten meditations’. Or laya is the measuring out of dance and song to the same time by the tālas; she is its maker.",
+      "hi": "लय चित्त की एक विशेष अवस्था है, जैसा कहा गया है: ‘लय दस ध्यानों के समान है’। अथवा तालों के द्वारा नृत्य और गीत का समान काल में परिच्छेद लय है; वे उसकी कर्त्री हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 739 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya does not give the common sense ‘dissolution (pralaya)’ here. The first sentence of the inner layer is a reflection." }
+}

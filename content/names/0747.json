@@ -1,0 +1,45 @@
+{
+  "number": 747,
+  "verse": 144,
+  "slug": "bhakta-chitta-keki-ghanaghana",
+  "devanagari": "भक्तचित्तकेकिघनाघना",
+  "iastSplit": "Bhakta-citta-keki-ghanāghanā",
+  "archana": "ॐ भक्तचित्तकेकिघनाघनायै नमः",
+  "syllables": ["bhak", "ta", "cit", "ta", "ke", "ki", "gha", "nā", "gha", "nā"],
+  "words": [
+    { "sa": "भक्त", "meaning": { "en": "devotee", "hi": "भक्त" } },
+    { "sa": "चित्त", "meaning": { "en": "mind, heart", "hi": "चित्त, मन" } },
+    { "sa": "केकिन्", "meaning": { "en": "peacock", "hi": "मोर" } },
+    { "sa": "घनाघन", "meaning": { "en": "dense rain cloud", "hi": "घना मेघ" } }
+  ],
+  "meaning": {
+    "en": "A rain cloud to the peacock-minds of her devotees",
+    "hi": "भक्तों के मन रूपी मोरों के लिए घना मेघ"
+  },
+  "explanation": {
+    "en": "Peacocks dance with joy when dark rain clouds gather. Bhāskararāya says the minds of devotees are peacocks, and because she gladdens them, she is the dense rain cloud.",
+    "hi": "घने काले बादल घिरते ही मोर आनन्द से नाच उठते हैं। भास्करराय कहते हैं कि भक्तों के मन मोर हैं, और उन्हें उल्लसित करने के कारण वे घना मेघ हैं।"
+  },
+  "inner": {
+    "en": "His second reading takes the clouds to be her deeds, the stories of what the Devī has done, which delight her devotees’ minds as clouds delight peacocks; with these she is dense on every side, without a gap. Hearing her stories is itself the rain the heart waits for.",
+    "hi": "उनका दूसरा अर्थ: ये मेघ देवी के चरित्र हैं, उनकी लीलाओं की कथाएँ, जो भक्तों के मन को वैसे ही आनन्दित करती हैं जैसे मेघ मोरों को; इनसे वे चारों ओर निरन्तर घनी हैं। उनकी कथा सुनना ही वह वर्षा है जिसकी हृदय प्रतीक्षा करता है।"
+  },
+  "story": {
+    "en": "This is the sixth of the eight metaphor names. The peacock dancing at the sight of rain clouds is one of the best-loved images of Indian poetry, above all in descriptions of the monsoon.",
+    "hi": "यह रूपक वाले आठ नामों में छठा है। बादल देखकर नाचता मोर भारतीय काव्य का, विशेषकर वर्षा-ऋतु के वर्णन का, अत्यन्त प्रिय चित्र है।"
+  },
+  "commentary": {
+    "sanskrit": "भक्तानां चित्तान्येव केकिनो मयूरास्तेषामुल्लासकत्वाद्घनाघना मेघस्वरूपा ।",
+    "translation": {
+      "en": "The minds of devotees are themselves kekins, peacocks; because she gladdens them, she is ghanāghana, of the nature of a rain cloud.",
+      "hi": "भक्तों के चित्त ही केकी अर्थात् मोर हैं; उन्हें उल्लसित करने के कारण वे घनाघना, अर्थात् मेघ-स्वरूपा, हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 747 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s second reading divides the end as घन + आ + घना (‘dense all around’); the page follows the master text’s single name. The last sentence of the inner layer is a reflection." }
+}

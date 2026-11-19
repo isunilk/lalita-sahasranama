@@ -1,0 +1,42 @@
+{
+  "number": 370,
+  "verse": 81,
+  "slug": "madhyama",
+  "devanagari": "मध्यमा",
+  "iastSplit": "Madhyamā",
+  "archana": "ॐ मध्यमायै नमः",
+  "syllables": ["madh", "ya", "mā"],
+  "words": [
+    { "sa": "मध्यमा", "meaning": { "en": "the middle one; the third level of speech", "hi": "बीच वाली; वाणी का तीसरा स्तर" } }
+  ],
+  "meaning": {
+    "en": "The middle one: the third level of speech",
+    "hi": "मध्यमा: वाणी का तीसरा, बीच का स्तर"
+  },
+  "explanation": {
+    "en": "Madhyamā means “the one in the middle”. It is the third level of speech, between paśyantī and spoken vaikharī: words already formed in the mind but not yet sounded.",
+    "hi": "‘मध्यमा’ का अर्थ है बीच वाली। यह वाणी का तीसरा स्तर है, पश्यन्ती और बोली जाने वाली वैखरी के बीच: मन में बन चुके शब्द, जो अभी उच्चरित नहीं हुए।"
+  },
+  "inner": {
+    "en": "Bhāskararāya describes it as the same sound-Brahman, carried by the breath to the heart and joined with the intellect that decides, now a particular stirring whose parts are distinct. The verse he quotes says it is not merely transcendent like paśyantī, nor outward like vaikharī. It is the inner speech of thought, and that too is she.",
+    "hi": "भास्करराय के अनुसार यह वही शब्दब्रह्म है, जो प्राणवायु द्वारा हृदय तक लाया जाकर निश्चय करने वाली बुद्धि से जुड़ता है और अब विशेष स्पन्द बन जाता है, जिसके अवयव स्पष्ट हैं। उनका उद्धृत श्लोक कहता है कि यह न तो पश्यन्ती की तरह केवल परे है, न वैखरी की तरह बाहर। यह विचार की भीतरी वाणी है, और वह भी वही हैं।"
+  },
+  "story": {
+    "en": "This is the third of the four levels of speech in this verse. In the Nityā Tantra passage that Bhāskararāya quotes, it is placed at the anāhata, the heart.",
+    "hi": "इस श्लोक में गिनाए गए वाणी के चार स्तरों में यह तीसरा है। भास्करराय द्वारा उद्धृत नित्यातन्त्र के वचन में यह स्तर अनाहत, अर्थात् हृदय, में रखा गया है।"
+  },
+  "commentary": {
+    "sanskrit": "मध्ये स्थिता मध्यमा । तदुक्तम् - पश्यन्तीव न केवलमुत्तीर्णा नापि वैखरीव बहिः । स्फुटतरनिखिलावयवा वाग्रूपा मध्यमा तयोरस्मात् ।।",
+    "translation": {
+      "en": "She who stands in the middle is Madhyamā. As it is said: “Not merely transcendent like paśyantī, nor outward like vaikharī, it is speech whose every part is clearer; lying between the two, it is madhyamā.”",
+      "hi": "बीच में स्थित होने से वे मध्यमा हैं। जैसा कहा गया है: ‘यह पश्यन्ती की तरह केवल उत्तीर्ण नहीं, न वैखरी की तरह बाहर है; इसके सब अवयव अधिक स्पष्ट हैं; दोनों के बीच होने से यह वाणी मध्यमा है।’"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 370 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The last sentence of the inner layer is a reflection. Bhāskararāya does not name the source of the verse he quotes here." }
+}

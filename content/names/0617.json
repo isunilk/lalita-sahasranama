@@ -1,0 +1,57 @@
+{
+  "number": 617,
+  "verse": 124,
+  "slug": "atma",
+  "devanagari": "आत्मा",
+  "iastSplit": "Ātmā",
+  "archana": "ॐ आत्मने नमः",
+  "syllables": [
+    "āt",
+    "mā"
+  ],
+  "words": [
+    {
+      "sa": "आत्मन्",
+      "meaning": {
+        "en": "self, soul",
+        "hi": "आत्मा"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "The Self of all",
+    "hi": "सबकी आत्मा"
+  },
+  "explanation": {
+    "en": "Ātman is the self, the innermost “I” of every being. She is that Self, the awareness that lives in each creature.",
+    "hi": "‘आत्मा’ है स्व, हर प्राणी का अन्तरतम ‘मैं’। वे वही आत्मा हैं, वह चेतना जो हर जीव में बसती है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya first takes ātmā as the individual self, and lets the word carry over to the next name to give paramātmā, the supreme Self; she is both. He cites the Śiva Purāṇa, where the self is the eighth form of Śiva, his highest body, so that the whole world is of Śiva’s nature. Other senses of ātman, such as body, mind and intellect, also apply, as the Devī Māhātmya praises the goddess who dwells in all beings as intellect.",
+    "hi": "भास्करराय पहले ‘आत्मा’ को जीवात्मा मानते हैं, और इस शब्द को अगले नाम के साथ जोड़कर ‘परमात्मा’ भी पाते हैं; वे दोनों हैं। वे शिवपुराण का वचन देते हैं, जहाँ आत्मा शिव की आठवीं मूर्ति, उनकी परम देह, है, इसलिए सारा विश्व शिवमय है। ‘आत्मा’ के देह, मन, बुद्धि आदि अन्य अर्थ भी यहाँ लागू होते हैं, जैसे देवीमाहात्म्य उस देवी की स्तुति करता है जो सब प्राणियों में बुद्धि रूप से स्थित हैं।"
+  },
+  "story": {
+    "en": "Śiva is worshipped in eight forms: earth, water, fire, wind, space, sun, moon and the self, called the sacrificer. Because ātman is masculine, the archana is ātmane namaḥ, the form Bhāskararāya himself gives.",
+    "hi": "शिव की आठ मूर्तियों की उपासना होती है: पृथ्वी, जल, अग्नि, वायु, आकाश, सूर्य, चन्द्र और आत्मा, जिसे यजमान कहा जाता है। ‘आत्मन्’ पुल्लिंग है, इसलिए अर्चना में ‘आत्मने नमः’ कहा जाता है, और यही रूप भास्करराय स्वयं देते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "आत्मशब्देन जीवः परमशब्दोत्तरं चात्मानुषङ्गात्परमात्मा चेति नामद्वयेन कथ्यते ।",
+    "translation": {
+      "en": "By the word ātmā the individual self is meant; and, by carrying ātmā over after the word paramā, the supreme Self. So the two names speak of both.",
+      "hi": "‘आत्मा’ शब्द से जीव अभिप्रेत है; और ‘परमा’ शब्द के बाद ‘आत्मा’ का अनुषङ्ग करने से परमात्मा। इस प्रकार दो नामों से दोनों कहे गए हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 617 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. Bhāskararāya treats आत्मा as a name of its own and also lets it carry over (anuṣaṅga) to the next name, giving परमात्मा; in that view he gives the archana forms ‘आत्मने नमः, परमायात्मने नमः’. He also allows ātman to mean Brahman and the body. The list of Śiva’s eight forms in the story layer is general context."
+  }
+}

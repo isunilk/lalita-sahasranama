@@ -1,0 +1,43 @@
+{
+  "number": 180,
+  "verse": 49,
+  "slug": "nirnasha",
+  "devanagari": "निर्नाशा",
+  "iastSplit": "Nir-nāśā",
+  "archana": "ॐ निर्नाशायै नमः",
+  "syllables": ["nir", "nā", "śā"],
+  "words": [
+    { "sa": "निर्", "meaning": { "en": "without, beyond", "hi": "रहित, परे" } },
+    { "sa": "नाश", "meaning": { "en": "destruction, end", "hi": "नाश, अन्त" } }
+  ],
+  "meaning": {
+    "en": "Indestructible, she who has no end",
+    "hi": "अविनाशी, जिनका कोई अन्त नहीं"
+  },
+  "explanation": {
+    "en": "Nāśa means destruction or end. All that is made must one day perish, but she has no end. She is nirnāśā, imperishable.",
+    "hi": "नाश का अर्थ है विनाश या अन्त। जो कुछ बना है वह एक दिन नष्ट होता है, पर उनका कोई अन्त नहीं। वे निर्नाशा हैं, अविनाशी।"
+  },
+  "inner": {
+    "en": "Bhāskararāya glosses nāśa as ‘end’ and grounds the name in the Upaniṣadic definition of Brahman: satyaṃ jñānam anantam, ‘truth, knowledge, the infinite’. What is infinite cannot come to an end. He gives no further hidden meaning.",
+    "hi": "भास्करराय ‘नाश’ का अर्थ ‘अन्त’ बताते हैं और इस नाम का आधार उपनिषद् में दिया ब्रह्म का लक्षण मानते हैं: ‘सत्यं ज्ञानमनन्तम्’, अर्थात् सत्य, ज्ञान और अनन्त। जो अनन्त है, उसका अन्त हो ही नहीं सकता। वे इसके आगे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "Names 180 and 181 form the last of the paired names in this part of the hymn, and here the pairing is looser: she herself has no end, and she puts an end to death for others.",
+    "hi": "नाम 180 और 181 इस भाग के जोड़ीदार नामों में अन्तिम हैं, और यहाँ जोड़ा कुछ ढीला है: उनका स्वयं कोई अन्त नहीं, और वे दूसरों के लिए मृत्यु का अन्त कर देती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "नाशोऽन्तस्तदभावान्निर्नाशा ।",
+    "translation": {
+      "en": "Nāśa is an end; since she has none, she is nirnāśā.",
+      "hi": "नाश का अर्थ अन्त है; उसके अभाव के कारण वे निर्नाशा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 180 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya cites the śruti सत्यं ज्ञानमनन्तम् without naming the Upaniṣad; it is Taittirīya Upaniṣad 2.1. The pairing with name 181 is an observation from the verse, not from the commentary." }
+}

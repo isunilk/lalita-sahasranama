@@ -1,0 +1,43 @@
+{
+  "number": 719,
+  "verse": 139,
+  "slug": "ganamba",
+  "devanagari": "गणाम्बा",
+  "iastSplit": "Gaṇāmbā",
+  "archana": "ॐ गणाम्बायै नमः",
+  "syllables": ["ga", "ṇām", "bā"],
+  "words": [
+    { "sa": "गण", "meaning": { "en": "host, troop; Śiva’s attendants", "hi": "गण, समूह; शिव के अनुचर" } },
+    { "sa": "अम्बा", "meaning": { "en": "mother", "hi": "माता" } }
+  ],
+  "meaning": {
+    "en": "Mother of Śiva’s hosts, and of Gaṇeśa",
+    "hi": "शिव के गणों की, और गणेश की माता"
+  },
+  "explanation": {
+    "en": "Bhāskararāya gives two readings. She is the mother of the gaṇas, the hosts of Śiva’s attendants such as the pramathas; or she is the mother of the elephant-faced Gaṇeśa.",
+    "hi": "भास्करराय दो अर्थ देते हैं। वे गणों की माता हैं, अर्थात् प्रमथ आदि शिव के अनुचरों की; अथवा वे गजानन गणेश की माता हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the literal sense here. In reflection, Śiva’s attendants are wild, strange and countless, yet she is mother to every one of them; no being stands outside her care.",
+    "hi": "यहाँ भास्करराय केवल शाब्दिक अर्थ देते हैं। चिन्तन के रूप में: शिव के गण विचित्र, उग्र और असंख्य हैं, फिर भी वे उन सबकी माता हैं; कोई भी प्राणी उनकी ममता से बाहर नहीं।"
+  },
+  "story": {
+    "en": "In the Lalitopākhyāna, Lalitā’s glance at Kāmeśvara’s face brings forth Mahāgaṇeśa, who shatters the obstacle-yantra set up by Bhaṇḍa’s side (names 77 and 78). Gaṇeśa’s own name means lord of the gaṇas.",
+    "hi": "ललितोपाख्यान में कामेश्वर के मुख की ओर ललिता के देखने से महागणेश प्रकट होते हैं, जो भण्डासुर के पक्ष द्वारा रचे विघ्नयन्त्र को तोड़ देते हैं (नाम 77 और 78)। ‘गणेश’ नाम का अर्थ ही है गणों के स्वामी।"
+  },
+  "commentary": {
+    "sanskrit": "गणस्य प्रमथादेर्गजाननस्य वाम्बा ।",
+    "translation": {
+      "en": "Mother of the gaṇa: of the pramathas and the other hosts, or of the elephant-faced one.",
+      "hi": "गण की माता: प्रमथ आदि गणों की, अथवा गजानन की।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 719 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the inner layer is a reflection." }
+}

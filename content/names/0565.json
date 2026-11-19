@@ -1,0 +1,43 @@
+{
+  "number": 565,
+  "verse": 114,
+  "slug": "mitra-rupini",
+  "devanagari": "मित्ररूपिणी",
+  "iastSplit": "Mitra-rūpiṇī",
+  "archana": "ॐ मित्ररूपिण्यै नमः",
+  "syllables": ["mit", "ra", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "मित्र", "meaning": { "en": "the sun (Mitra); a friend", "hi": "सूर्य (मित्र); सखा, सुहृद्" } },
+    { "sa": "रूपिणी", "meaning": { "en": "having the form of", "hi": "रूप वाली, स्वरूपा" } }
+  ],
+  "meaning": {
+    "en": "Whose form is like the suns; who is a friend",
+    "hi": "सूर्यों जैसे रूप वाली; मित्र-स्वरूपा"
+  },
+  "explanation": {
+    "en": "Mitra means both the sun and a friend, and Bhāskararāya reads the name both ways. Her form shines like that of the suns; or she is a true friend to all beings.",
+    "hi": "‘मित्र’ का अर्थ सूर्य भी है और सखा भी, और भास्करराय दोनों अर्थ लेते हैं। उनका रूप सूर्यों के समान दीप्त है; अथवा वे सभी प्राणियों की सच्ची सुहृद हैं।"
+  },
+  "inner": {
+    "en": "He gives only these two plain senses. They belong together: the sun gives light and warmth to all without asking anything back, and that is how a true friend gives.",
+    "hi": "वे केवल ये दो सीधे अर्थ देते हैं। दोनों एक-दूसरे से जुड़े हैं: सूर्य बिना कुछ माँगे सबको प्रकाश और ताप देता है, और सच्चा मित्र भी ऐसे ही देता है।"
+  },
+  "story": {
+    "en": "This name closes the line of five names beginning with m, and verse 114. Mitra is one of the Ādityas, the sun-gods of the Veda, and in later usage simply a name for the sun.",
+    "hi": "यह नाम ‘म’ से आरम्भ होने वाले पाँच नामों की पंक्ति को और श्लोक 114 को पूरा करता है। मित्र वेद के आदित्यों, अर्थात् सूर्य-देवताओं, में से एक हैं, और बाद में यह शब्द सूर्य का ही नाम बन गया।"
+  },
+  "commentary": {
+    "sanskrit": "मित्राणां सूर्याणामिव रूपमस्याः । सुहृत्स्वरूपेति वा ।",
+    "translation": {
+      "en": "Her form is like that of the Mitras, the suns; or, she is in essence a friend.",
+      "hi": "जिनका रूप मित्रों, अर्थात् सूर्यों, के समान है; अथवा वे सुहृत्-स्वरूपा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 565 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the two literal senses; the second sentence of the inner layer is a reflection." }
+}

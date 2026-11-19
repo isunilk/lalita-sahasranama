@@ -1,0 +1,43 @@
+{
+  "number": 516,
+  "verse": 106,
+  "slug": "asthi-samsthita",
+  "devanagari": "अस्थिसंस्थिता",
+  "iastSplit": "Asthi-saṃsthitā",
+  "archana": "ॐ अस्थिसंस्थितायै नमः",
+  "syllables": ["as", "thi", "saṃs", "thi", "tā"],
+  "words": [
+    { "sa": "अस्थि", "meaning": { "en": "bone", "hi": "अस्थि, हड्डी" } },
+    { "sa": "संस्थिता", "meaning": { "en": "firmly abiding", "hi": "भली-भाँति स्थित" } }
+  ],
+  "meaning": {
+    "en": "Who abides in the bones",
+    "hi": "अस्थियों में स्थित"
+  },
+  "explanation": {
+    "en": "Sākinī presides over the bones, the fifth of the bodily tissues given to the yoginīs. Bhāskararāya says she abides in bone, or in the bones.",
+    "hi": "साकिनी अस्थियों की अधिष्ठात्री हैं, जो योगिनियों को दी गई धातुओं में पाँचवीं है। भास्करराय कहते हैं कि वे अस्थि में, अथवा अस्थियों में, स्थित हैं।"
+  },
+  "inner": {
+    "en": "He gives only the literal sense, with no hidden meaning. Bone is the body’s frame, and it is fitting that the yoginī of the mūlādhāra, the ‘root support’, should preside over what holds the body up.",
+    "hi": "वे केवल शाब्दिक अर्थ देते हैं, कोई गूढ़ अर्थ नहीं। अस्थि शरीर का ढाँचा है, और यह उचित ही है कि मूलाधार, अर्थात् ‘मूल आधार’, की योगिनी उस धातु की अधिष्ठात्री हों जो शरीर को थामे रखती है।"
+  },
+  "story": {
+    "en": "The meditation verse he quotes calls Sākinī asthisaṃsthā, ‘abiding in bone’. After bone come marrow for Hākinī at the brow (name 524) and vital fluid for Yākinī in the thousand-petalled lotus (name 531).",
+    "hi": "उनके उद्धृत ध्यान-श्लोक में साकिनी को ‘अस्थिसंस्था’, अर्थात् अस्थि में स्थित, कहा गया है। अस्थि के बाद भ्रूमध्य की हाकिनी के लिए मज्जा (नाम 524) और सहस्रदल कमल की याकिनी के लिए वीर्य (नाम 531) आते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "अस्थि अस्थिषु वा संस्थिता ।",
+    "translation": {
+      "en": "Established in bone, or in the bones.",
+      "hi": "अस्थि में, अथवा अस्थियों में, स्थित।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 516 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the last sentence of the inner layer is a reflection." }
+}

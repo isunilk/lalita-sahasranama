@@ -1,0 +1,43 @@
+{
+  "number": 144,
+  "verse": 45,
+  "slug": "nitya-mukta",
+  "devanagari": "नित्यमुक्ता",
+  "iastSplit": "Nitya-muktā",
+  "archana": "ॐ नित्यमुक्तायै नमः",
+  "syllables": ["nit", "ya", "muk", "tā"],
+  "words": [
+    { "sa": "नित्य", "meaning": { "en": "ever, eternally", "hi": "सदा, नित्य" } },
+    { "sa": "मुक्त", "meaning": { "en": "free, liberated", "hi": "मुक्त" } }
+  ],
+  "meaning": {
+    "en": "Ever free, never bound",
+    "hi": "सदा मुक्त, जो कभी बँधी ही नहीं"
+  },
+  "explanation": {
+    "en": "She is free always. Others become free after long effort, but she was never bound, so her freedom has no beginning.",
+    "hi": "वे सदा मुक्त हैं। दूसरे लम्बी साधना के बाद मुक्त होते हैं, पर वे कभी बँधी ही नहीं, इसलिए उनकी मुक्ति का कोई आरम्भ नहीं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya begins with the devotee: she is the one whose devotees are ever free. Then he takes it of her: she is free at all times, she ever sets free, or she is the very state of the ever-free, that is, liberation itself. Under Nirmalā (name 135) he has already noted that this word can set her apart from a soul that has become free.",
+    "hi": "भास्करराय भक्त से आरम्भ करते हैं: वे वह हैं जिनके भक्त सदा मुक्त हैं। फिर वे यह अर्थ उन्हीं पर लगाते हैं: वे हर समय मुक्त हैं, वे सदा मुक्त करती हैं, या वे स्वयं नित्यमुक्त की अवस्था, अर्थात् मोक्ष ही हैं। ‘निर्मला’ (नाम 135) पर वे पहले ही कह चुके हैं कि यही शब्द उन्हें उस जीव से अलग कर सकता है जो मुक्त हुआ है।"
+  },
+  "story": {
+    "en": "Verse 45 opens here, and its names go on defining the same consciousness: ever free, changeless, beyond the spread of the world, resting on nothing, then ever pure, ever awake, faultless and without any gap.",
+    "hi": "यहाँ श्लोक 45 आरम्भ होता है, और इसके नाम उसी चेतना की परिभाषा आगे बढ़ाते हैं: नित्य मुक्त, निर्विकार, प्रपंच से परे, निराश्रय, और फिर नित्य शुद्ध, नित्य बुद्ध, निर्दोष और अन्तराल से रहित।"
+  },
+  "commentary": {
+    "sanskrit": "नित्यं मुक्ता यस्या भक्ताः सा ।",
+    "translation": {
+      "en": "She whose devotees are ever free.",
+      "hi": "वे, जिनके भक्त सदा मुक्त हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 144 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude." }
+}

@@ -1,0 +1,42 @@
+{
+  "number": 302,
+  "verse": 70,
+  "slug": "hrimati",
+  "devanagari": "ह्रीमती",
+  "iastSplit": "Hrīmatī",
+  "archana": "ॐ ह्रीमत्यै नमः",
+  "syllables": ["hrī", "ma", "tī"],
+  "words": [
+    { "sa": "ह्रीमती", "meaning": { "en": "possessed of hrī, modesty", "hi": "ह्री अर्थात् लज्जा से युक्त" } }
+  ],
+  "meaning": {
+    "en": "She who is endowed with modesty",
+    "hi": "लज्जा अर्थात् शील से सम्पन्न"
+  },
+  "explanation": {
+    "en": "Hrī is modesty, the gentle reserve that holds back from what is unworthy. She who has it is Hrīmatī. Bhāskararāya supports this with a scriptural line that calls her lajjāmatī, “possessed of modesty”.",
+    "hi": "‘ह्री’ का अर्थ है लज्जा, वह कोमल संकोच जो अनुचित से दूर रखता है। जो इससे युक्त हैं, वे ह्रीमती हैं। भास्करराय इसके समर्थन में एक श्रुति-वचन देते हैं, जिसमें उन्हें ‘लज्जामती’ अर्थात् लज्जा से युक्त कहा गया है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only this plain sense. Placed beside Hrīṅkārī, the name joins the sacred syllable to the virtue it also means: the power behind creation is also the grace of modesty.",
+    "hi": "भास्करराय यहाँ केवल यही सीधा अर्थ देते हैं। ‘ह्रीङ्कारी’ के साथ पढ़ने पर यह नाम पवित्र अक्षर को उस गुण से जोड़ता है जो उसका अर्थ भी है: जो शक्ति सृष्टि के पीछे है, वही शील की कोमलता भी है।"
+  },
+  "story": {
+    "en": "In his first reading of the previous name, Hrīṅkārī is she who brings about hrī, modesty; here she is the one who has it. Side by side, the two names show her both giving a virtue and possessing it.",
+    "hi": "पिछले नाम के पहले अर्थ में ह्रीङ्कारी वे हैं जो ‘ह्री’ अर्थात् लज्जा को उत्पन्न करती हैं; यहाँ वे स्वयं उससे सम्पन्न हैं। साथ-साथ पढ़ने पर ये दोनों नाम उन्हें एक गुण की दात्री भी और उसकी धारिणी भी दिखाते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "ह्रीरस्या अस्तीति ह्रीमती ।",
+    "translation": {
+      "en": "She has hrī, modesty; so she is Hrīmatī.",
+      "hi": "उनमें ह्री अर्थात् लज्जा है, इसलिए वे ह्रीमती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 302 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the second sentence of the inner layer is a reflection. The scriptural line he cites is printed as लज्जामती तुष्टिरिष्टा च पुष्टा; only its first word is used." }
+}

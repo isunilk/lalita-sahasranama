@@ -1,0 +1,44 @@
+{
+  "number": 326,
+  "verse": 73,
+  "slug": "karuna-rasa-sagara",
+  "devanagari": "करुणारससागरा",
+  "iastSplit": "Karuṇā-rasa-sāgarā",
+  "archana": "ॐ करुणारससागरायै नमः",
+  "syllables": ["ka", "ru", "ṇā", "ra", "sa", "sā", "ga", "rā"],
+  "words": [
+    { "sa": "करुणा", "meaning": { "en": "compassion", "hi": "करुणा, दया" } },
+    { "sa": "रस", "meaning": { "en": "liquid, essence, flavour", "hi": "रस, सार" } },
+    { "sa": "सागर", "meaning": { "en": "ocean", "hi": "सागर, समुद्र" } }
+  ],
+  "meaning": {
+    "en": "An ocean whose waters are compassion",
+    "hi": "करुणा-रस का सागर"
+  },
+  "explanation": {
+    "en": "Her compassion is an ocean, and its water is karuṇā-rasa, the very taste of mercy. Bhāskararāya puts it more strongly: she holds oceans whose water is compassion itself, that is, her compassion is far greater even than the oceans.",
+    "hi": "उनकी करुणा एक सागर है, और उसका जल करुणा-रस है, दया का स्वाद ही। भास्करराय इसे और बल देकर कहते हैं: उनमें ऐसे सागर हैं जिनका जल स्वयं करुणा है; अर्थात् उनकी करुणा सागरों से भी कहीं अधिक है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the sense of the image. An ocean takes in every river without refusing one, and is never filled; so her compassion turns no one away and is never used up. The word rasa recalls Rasyā (311): what one tastes in her is mercy.",
+    "hi": "भास्करराय केवल इस चित्र का अर्थ देते हैं। सागर हर नदी को बिना मना किए ग्रहण करता है और फिर भी कभी भरता नहीं; वैसे ही उनकी करुणा किसी को लौटाती नहीं और कभी चुकती नहीं। ‘रस’ शब्द ‘रस्या’ (311) की याद दिलाता है: उनमें जो आस्वाद मिलता है, वह करुणा का है।"
+  },
+  "story": {
+    "en": "As with the previous name, Bhāskararāya reads this as a bahuvrīhi, since as a tatpuruṣa (“ocean of compassion”) the masculine sāgara would make the name masculine; the feminine archana karuṇārasasāgarāyai namaḥ follows from his reading. With this name verse 73 closes.",
+    "hi": "पिछले नाम की तरह भास्करराय इसे भी बहुव्रीहि मानते हैं, क्योंकि तत्पुरुष (‘करुणा का सागर’) में पुल्लिंग ‘सागर’ के कारण नाम पुल्लिंग हो जाता; स्त्रीलिंग अर्चना ‘करुणारससागरायै नमः’ उनके इसी पाठ से सिद्ध होती है। इस नाम के साथ श्लोक 73 पूर्ण होता है।"
+  },
+  "commentary": {
+    "sanskrit": "करुणैव रसो येषु तादृशाः सागराः यस्यां सा । सागरेभ्योऽप्यधिकतमकरुणाशीलेति यावत् ।",
+    "translation": {
+      "en": "She in whom are oceans whose water is compassion itself; that is, she whose compassion is far greater even than the oceans.",
+      "hi": "जिनमें ऐसे सागर हैं जिनका रस स्वयं करुणा है; अर्थात् वे सागरों से भी कहीं अधिक करुणाशील हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 326 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The inner layer after its first sentence is a reflection." }
+}
