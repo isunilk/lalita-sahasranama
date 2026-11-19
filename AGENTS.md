@@ -38,6 +38,9 @@ Use `content/names/0004.json` as the model. Fields:
 
 - `number` (1–1000) and `verse` (1–183). The file name is the number padded to four digits.
 - `slug`: the common English spelling people type, lowercase, words joined by hyphens (`chidagni-kunda-sambhuta`).
+  Write ś and ṣ as `sh`, c as `ch` and ch as `chh`. A prefix joins the word after it (`nirguna`, `nishkala`,
+  `tripura`, `svatantra`). Two names may share a slug when only a long vowel tells them apart (Māheśvarī 208,
+  Maheśvarī 750): page addresses also carry the number (`/name/208-maheshvari/`, `/name/750-maheshvari/`).
 - `devanagari`: the name exactly as it appears in the stotra.
 - `iastSplit`: IAST with hyphens between the parts of the compound.
 - `archana`: the archana form, `ॐ <name in the dative case> नमः`.

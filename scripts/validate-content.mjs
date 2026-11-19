@@ -36,7 +36,6 @@ function checkMulti(file, field, value, { required = true } = {}) {
 const files = fs.readdirSync(namesDir).filter((f) => f.endsWith('.json')).sort();
 const names = [];
 const seenNumbers = new Map();
-const seenSlugs = new Map();
 
 for (const file of files) {
   let data;
@@ -52,8 +51,7 @@ for (const file of files) {
   if (seenNumbers.has(data.number)) err(file, `number ${data.number} is also used by ${seenNumbers.get(data.number)}`);
   seenNumbers.set(data.number, file);
   if (!/^[a-z0-9]+(-[a-z0-9]+)*$/.test(data.slug || '')) err(file, 'slug must be lowercase ASCII words joined by hyphens');
-  if (seenSlugs.has(data.slug)) err(file, `slug "${data.slug}" is also used by ${seenSlugs.get(data.slug)}`);
-  seenSlugs.set(data.slug, file);
+  // Slugs may repeat (रमा 313 and रामा 319 are both "rama"): page addresses are number + slug.
   if (!Number.isInteger(data.verse) || data.verse < 1 || data.verse > SITE.totalVerses) err(file, 'verse must be 1–183');
   if (!DEVANAGARI_TEXT.test(data.devanagari || '')) err(file, 'devanagari must contain only Devanagari letters');
   if (!/^ॐ .+ नमः$/.test(data.archana || '')) err(file, 'archana must look like "ॐ … नमः"');
