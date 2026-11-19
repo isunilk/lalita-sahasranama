@@ -1,0 +1,45 @@
+{
+  "number": 853,
+  "verse": 159,
+  "slug": "shantyatita-kalatmika",
+  "devanagari": "शान्त्यतीतकलात्मिका",
+  "iastSplit": "Śāntyatīta-kalātmikā",
+  "archana": "ॐ शान्त्यतीतकलात्मिकायै नमः",
+  "syllables": ["śān", "tya", "tī", "ta", "ka", "lāt", "mi", "kā"],
+  "words": [
+    { "sa": "शान्ति", "meaning": { "en": "peace; the kalā named Śānti", "hi": "शान्ति; शान्ति नाम की कला" } },
+    { "sa": "अतीत", "meaning": { "en": "beyond", "hi": "परे, अतीत" } },
+    { "sa": "कला", "meaning": { "en": "kalā, a phase or power of manifestation", "hi": "कला, अभिव्यक्ति की शक्ति" } },
+    { "sa": "आत्मिका", "meaning": { "en": "whose nature is", "hi": "स्वरूपा" } }
+  ],
+  "meaning": {
+    "en": "One with the kalā that lies beyond peace",
+    "hi": "शान्ति से भी परे की कला-स्वरूपा"
+  },
+  "explanation": {
+    "en": "In the Śaiva scriptures, all that exists is ordered in five kalās, powers or layers, from the grossest to the most subtle. The subtlest is called Śāntyatītā, ‘beyond peace’, and she is one with it.",
+    "hi": "शैव आगमों में समस्त अस्तित्व को पाँच कलाओं में व्यवस्थित किया गया है, जो शक्तियाँ या स्तर हैं, सबसे स्थूल से लेकर सबसे सूक्ष्म तक। सबसे सूक्ष्म कला ‘शान्त्यतीता’ कहलाती है, अर्थात् शान्ति से भी परे, और वे उसी से अभिन्न हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says this kalā rests in space, the subtlest element, and cites a Śaiva āgama that praises it as the giver of non-dual nirvāṇa, bliss and awakening. To be one with it is to be beyond even peace, for peace is still a state that can come and go.",
+    "hi": "भास्करराय कहते हैं कि यह कला आकाश में, जो सबसे सूक्ष्म भूत है, प्रतिष्ठित है, और एक शैव आगम का वचन देते हैं जो इसे अद्वैत निर्वाण, आनन्द और बोध देने वाली बताता है। इससे एक होना शान्ति से भी परे होना है, क्योंकि शान्ति भी एक अवस्था है जो आती-जाती है।"
+  },
+  "story": {
+    "en": "The five kalās, in the usual Śaiva list, are Nivṛtti, Pratiṣṭhā, Vidyā, Śānti and Śāntyatītā, rising from earth to space. Under name 829, Pratiṣṭhā, Bhāskararāya described the kalā of that name, which rests in water; here he names the highest.",
+    "hi": "सामान्य शैव क्रम में पाँच कलाएँ हैं: निवृत्ति, प्रतिष्ठा, विद्या, शान्ति और शान्त्यतीता, जो पृथ्वी से आकाश तक ऊपर उठती हैं। नाम 829, प्रतिष्ठा, पर भास्करराय ने उस नाम की कला बताई थी, जो जल में प्रतिष्ठित है; यहाँ वे सबसे ऊँची कला का नाम लेते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "आकाशनिष्ठा कला शान्त्यतीतेत्युच्यते ।",
+    "translation": {
+      "en": "The kalā that rests in space is called Śāntyatītā.",
+      "hi": "आकाश में प्रतिष्ठित कला शान्त्यतीता कहलाती है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 853 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition’s heading prints शान्त्यतीताकलात्मिका; the gloss and the āgama phrase it quotes (शान्त्यतीतकलाद्वैतनिर्वाणानन्दबोधदा) both read शान्त्यतीत-, as the master text does. The list of five kalās and their elements is the usual Śaiva one, not given by Bhāskararāya here. The last sentence of the inner layer is a reflection." }
+}

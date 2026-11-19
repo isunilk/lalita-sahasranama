@@ -1,0 +1,43 @@
+{
+  "number": 857,
+  "verse": 160,
+  "slug": "gana-lolupa",
+  "devanagari": "गानलोलुपा",
+  "iastSplit": "Gāna-lolupā",
+  "archana": "ॐ गानलोलुपायै नमः",
+  "syllables": ["gā", "na", "lo", "lu", "pā"],
+  "words": [
+    { "sa": "गान", "meaning": { "en": "song, music", "hi": "गान, संगीत" } },
+    { "sa": "लोलुपा", "meaning": { "en": "eager for, longing", "hi": "लालायित, रसिक" } }
+  ],
+  "meaning": {
+    "en": "Who delights eagerly in music",
+    "hi": "संगीत की रसिक, गान के लिए लालायित"
+  },
+  "explanation": {
+    "en": "Gāna is song and music, and lolupā means eager, longing: she delights in music of every kind. Bhāskararāya names the four classes of instruments, strings, drums, wind and solid instruments such as cymbals, and also song and the Sāman chant of the Veda.",
+    "hi": "गान संगीत है, और लोलुपा का अर्थ है उत्सुक, लालायित: वे हर प्रकार के संगीत से आनन्दित होती हैं। भास्करराय वाद्यों के चार वर्ग गिनाते हैं: तत (तार वाले), आनद्ध (चमड़े से मढ़े), सुषिर (फूँक वाले) और घन (मँजीरे जैसे ठोस), और साथ ही गायन तथा वेद का सामगान।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives no hidden meaning here; the name speaks of her delight. Music offered with love reaches her directly, and later the hymn calls her Sāmagānapriyā, fond of the chanting of the Sāman (name 909).",
+    "hi": "भास्करराय यहाँ कोई गूढ़ अर्थ नहीं देते; नाम उनके आनन्द की बात करता है। प्रेम से अर्पित संगीत सीधे उन तक पहुँचता है; आगे स्तोत्र उन्हें सामगानप्रिया, सामवेद के गान को प्रिय मानने वाली (नाम 909), भी कहता है।"
+  },
+  "story": {
+    "en": "In Śrīvidyā her minister Mantriṇī, also called Śyāmalā, is the goddess of music and is pictured holding a vīṇā.",
+    "hi": "श्रीविद्या में उनकी मन्त्रिणी, जिन्हें श्यामला भी कहते हैं, संगीत की देवी हैं और वीणा धारण किए हुए दिखाई जाती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "गानं ततानद्धसुषिरघनचतुष्टयसमुच्चयात्मकम्, वादित्रादिकं वा, शरीरं गान्धर्वं वा, साम वा तयोर्लोलुपा सतृष्णा ।",
+    "translation": {
+      "en": "Gāna is music made of the four together, strings, drums, wind and solid instruments; or instrumental music; or the gāndharva of the voice; or the Sāman chant: she is lolupā, eager, for these.",
+      "hi": "गान है तत, आनद्ध, सुषिर और घन, इन चारों का समुच्चय; अथवा वाद्य आदि; अथवा शरीर से उत्पन्न (कण्ठ का) गान्धर्व; अथवा साम; वे इनकी लोलुपा, अर्थात् तृष्णा वाली, हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 857 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. In the quoted sentence शरीरं गान्धर्वं is taken as vocal music (śārīra, music of the body); the edition may intend शारीरं, and the dual तयोः is unclear. The story layer (Śyāmalā as goddess of music) is tradition context, not from Bhāskararāya’s note. The second sentence of the inner layer is a reflection." }
+}

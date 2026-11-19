@@ -1,0 +1,48 @@
+{
+  "number": 851,
+  "verse": 159,
+  "slug": "janma-mrityu-jara-tapta-jana-vishranti-dayini",
+  "devanagari": "जन्ममृत्युजरातप्तजनविश्रान्तिदायिनी",
+  "iastSplit": "Janma-mṛtyu-jarā-tapta-jana-viśrānti-dāyinī",
+  "archana": "ॐ जन्ममृत्युजरातप्तजनविश्रान्तिदायिन्यै नमः",
+  "syllables": ["jan", "ma", "mṛt", "yu", "ja", "rā", "tap", "ta", "ja", "na", "viś", "rān", "ti", "dā", "yi", "nī"],
+  "words": [
+    { "sa": "जन्मन्", "meaning": { "en": "birth", "hi": "जन्म" } },
+    { "sa": "मृत्यु", "meaning": { "en": "death", "hi": "मृत्यु" } },
+    { "sa": "जरा", "meaning": { "en": "old age", "hi": "बुढ़ापा, जरा" } },
+    { "sa": "तप्त", "meaning": { "en": "scorched, afflicted", "hi": "तपे हुए, सन्तप्त" } },
+    { "sa": "जन", "meaning": { "en": "people", "hi": "जन, लोग" } },
+    { "sa": "विश्रान्ति", "meaning": { "en": "rest, repose", "hi": "विश्राम" } },
+    { "sa": "दायिनी", "meaning": { "en": "who gives", "hi": "देने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who gives rest to people scorched by birth, death and old age",
+    "hi": "जन्म, मृत्यु और जरा से तपे लोगों को विश्राम देने वाली"
+  },
+  "explanation": {
+    "en": "Birth, death and old age are three fires that scorch every living being. To those burnt by them she gives viśrānti, rest. The name fills the whole first line of the verse.",
+    "hi": "जन्म, मृत्यु और बुढ़ापा तीन अग्नियाँ हैं जो हर प्राणी को झुलसाती हैं। इनसे तपे हुए लोगों को वे विश्रान्ति, अर्थात् विश्राम, देती हैं। यह नाम श्लोक की पूरी पहली पंक्ति भर देता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says the rest she gives is not a mere pause: it takes sorrow away and makes plain the bliss of the Self. The heat of saṃsāra cools only when one rests in what was never born and never ages. He gives no other hidden meaning.",
+    "hi": "भास्करराय कहते हैं कि उनका दिया विश्राम केवल थोड़ी देर का ठहराव नहीं: वह दुःख को हर लेता है और आत्मा के आनन्द को प्रकट कर देता है। संसार का ताप तभी शान्त होता है जब मन उसमें विश्राम पाए जो न कभी जन्मा, न कभी बूढ़ा होता है। इसके अतिरिक्त वे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "The image of worldly life as a scorching heat runs through these names: earlier the hymn called her a rain of nectar on the forest fire of existence, and the sunlight that drives away the darkness of old age (names 742, 745).",
+    "hi": "संसार को झुलसाने वाले ताप के रूप में देखने का चित्र इन नामों में बार-बार आता है: पहले स्तोत्र ने उन्हें भव रूपी दावानल पर अमृत की वर्षा, और जरा रूपी अन्धकार को मिटाने वाली सूर्य-प्रभा (नाम 742, 745) कहा था।"
+  },
+  "commentary": {
+    "sanskrit": "जन्मादित्रितयेन तप्तेभ्यो जनेभ्यो विश्रान्तिभिर्दुःखापहारिभिर्व्यक्तं स्वात्मसुखं दत्ते ।",
+    "translation": {
+      "en": "To people scorched by the three, birth and the others, she gives, through restings that take away sorrow, the bliss of the Self, made plain.",
+      "hi": "जन्म आदि तीनों से तपे हुए जनों को वे दुःख हरने वाले विश्रामों के द्वारा आत्मा का सुख प्रकट रूप में देती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 851 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition’s heading prints the name as जन्ममृत्युजरातपतजनविश्रान्तिदायिनी, a misprint for -तप्त-. The second sentence of the inner layer is a reflection." }
+}

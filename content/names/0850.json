@@ -1,0 +1,43 @@
+{
+  "number": 850,
+  "verse": 158,
+  "slug": "varna-rupini",
+  "devanagari": "वर्णरूपिणी",
+  "iastSplit": "Varṇa-rūpiṇī",
+  "archana": "ॐ वर्णरूपिण्यै नमः",
+  "syllables": ["var", "ṇa", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "वर्ण", "meaning": { "en": "letter, sound of speech", "hi": "वर्ण, अक्षर" } },
+    { "sa": "रूपिणी", "meaning": { "en": "having the form of", "hi": "स्वरूपा" } }
+  ],
+  "meaning": {
+    "en": "Whose form is the letters of speech",
+    "hi": "वर्ण, अर्थात् अक्षर, ही जिनका रूप हैं"
+  },
+  "explanation": {
+    "en": "Varṇa means a letter, a single sound of speech, and all the letters are her form. Bhāskararāya counts them, with the Pāṇinīya Śikṣā, as sixty-four.",
+    "hi": "वर्ण का अर्थ है अक्षर, वाणी की एक इकाई ध्वनि, और सारे वर्ण उनका रूप हैं। भास्करराय पाणिनीय शिक्षा के अनुसार इनकी संख्या चौंसठ बताते हैं।"
+  },
+  "inner": {
+    "en": "Every word anyone speaks is built from these letters, so all speech is woven of her. The hymn has called her Mātṛkāvarṇarūpiṇī, whose form is the letters of the alphabet (name 577); here the same truth is stated in its plainest form. Bhāskararāya gives no further hidden meaning.",
+    "hi": "कोई भी जो भी शब्द बोलता है, वह इन्हीं वर्णों से बनता है; इसलिए सारी वाणी उन्हीं से बुनी है। स्तोत्र उन्हें मातृकावर्णरूपिणी, वर्णमाला के अक्षरों के रूप वाली (नाम 577), कह चुका है; यहाँ वही सत्य सबसे सरल रूप में कहा गया है। भास्करराय इससे आगे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "He quotes the Pāṇinīya Śikṣā: in Śambhu’s teaching the letters number sixty-three or sixty-four, in Prākṛt and in Sanskrit alike, as declared by the Self-born himself. This phoneticians’ count differs from the fifty or fifty-one letters of name 833.",
+    "hi": "वे पाणिनीय शिक्षा का श्लोक उद्धृत करते हैं: शम्भु के मत में वर्ण तिरसठ या चौंसठ हैं, प्राकृत में भी और संस्कृत में भी, जैसा स्वयम्भू ने स्वयं कहा है। शिक्षा-शास्त्र की यह गणना नाम 833 के पचास या इक्यावन वर्णों से भिन्न है।"
+  },
+  "commentary": {
+    "sanskrit": "वर्णाश्चतुःषष्टिसंख्याका रूपमस्याः ।",
+    "translation": {
+      "en": "The letters, sixty-four in number, are her form.",
+      "hi": "चौंसठ संख्या वाले वर्ण इनका रूप हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 850 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The first sentence of the inner layer is a reflection." }
+}

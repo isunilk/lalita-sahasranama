@@ -1,0 +1,42 @@
+{
+  "number": 838,
+  "verse": 157,
+  "slug": "mukunda",
+  "devanagari": "मुकुन्दा",
+  "iastSplit": "Mukundā",
+  "archana": "ॐ मुकुन्दायै नमः",
+  "syllables": ["mu", "kun", "dā"],
+  "words": [
+    { "sa": "मुकुन्दा", "meaning": { "en": "giver of liberation; feminine of Mukunda, a name of Viṣṇu", "hi": "मुक्ति देने वाली; विष्णु के नाम ‘मुकुन्द’ का स्त्रीलिंग" } }
+  ],
+  "meaning": {
+    "en": "Giver of liberation, one with Viṣṇu",
+    "hi": "मुक्ति देने वाली, विष्णु-स्वरूपा"
+  },
+  "explanation": {
+    "en": "Mukunda is a name of Viṣṇu, and here it is given to her. Bhāskararāya explains it as ‘she who gives mukti, liberation’, an irregular formation of the kind grammarians allow for words like pṛṣodara. Or she is Mukundā because she is Viṣṇu in form.",
+    "hi": "मुकुन्द विष्णु का नाम है, और यहाँ वह देवी को दिया गया है। भास्करराय इसका अर्थ बताते हैं ‘मुक्ति देने वाली’; व्याकरण में ‘पृषोदर’ जैसे शब्दों के लिए जिस अनियमित रचना की छूट है, यह शब्द उसी प्रकार बना है। अथवा, विष्णु-स्वरूपा होने के कारण वे मुकुन्दा हैं।"
+  },
+  "inner": {
+    "en": "The two readings meet: the one who frees is the one who sustains. In the passage Bhāskararāya quotes, Kṛṣṇa is not another god beside her but Lalitā herself in male form, so the names of Viṣṇu are hers by right.",
+    "hi": "दोनों अर्थ एक जगह मिलते हैं: जो मुक्त करता है, वही पालन भी करता है। भास्करराय जो प्रसंग उद्धृत करते हैं उसमें कृष्ण उनके अतिरिक्त कोई दूसरे देवता नहीं, स्वयं ललिता का पुरुष रूप हैं; इसलिए विष्णु के नाम उनके अपने ही नाम हैं।"
+  },
+  "story": {
+    "en": "He quotes the Tantrarāja, at the opening of its section on the Gopāla mantras: once the primal Lalitā took a male form, the form of Kṛṣṇa, and with the music of her flute held the whole world spellbound. Surrounded then by her own powers as the gopīs, she divided her body sixfold for play.",
+    "hi": "वे तन्त्रराज के गोपाल-मन्त्र प्रकरण के आरम्भ से उद्धरण देते हैं: एक बार आदि ललिता ने पुरुष रूप, कृष्ण का विग्रह, धारण किया और अपनी बाँसुरी की तान से सारे जगत् को विवश कर दिया। तब गोपी नाम वाली अपनी ही शक्तियों से घिरकर उन्होंने विनोद के लिए अपने शरीर को छह रूपों में बाँट लिया।"
+  },
+  "commentary": {
+    "sanskrit": "मुक्तिं ददातीति मुकुन्दा । पृषोदरादिः । विष्णुरूपत्वाद्वा ।",
+    "translation": {
+      "en": "Mukundā, because she gives mukti, liberation; the word belongs to the pṛṣodara group of irregular formations. Or because she is Viṣṇu in form.",
+      "hi": "मुक्ति देती हैं, इसलिए मुकुन्दा; यह शब्द पृषोदर आदि अनियमित शब्दों के वर्ग का है। अथवा विष्णु-स्वरूपा होने से।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 838 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya also gives, from the Viśva lexicon, the senses ‘a kind of gem’ and ‘mercury’ for मुकुन्द; not reproduced. The inner layer is a reflection on his two readings and the Tantrarāja passage." }
+}

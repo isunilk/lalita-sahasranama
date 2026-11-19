@@ -1,0 +1,43 @@
+{
+  "number": 837,
+  "verse": 156,
+  "slug": "viyat-prasu",
+  "devanagari": "वियत्प्रसूः",
+  "iastSplit": "Viyat-prasūḥ",
+  "archana": "ॐ वियत्प्रसुवे नमः",
+  "syllables": ["vi", "yat", "pra", "sūḥ"],
+  "words": [
+    { "sa": "वियत्", "meaning": { "en": "sky, space", "hi": "आकाश" } },
+    { "sa": "प्रसू", "meaning": { "en": "she who brings forth, mother", "hi": "जन्म देने वाली, जननी" } }
+  ],
+  "meaning": {
+    "en": "Mother of space",
+    "hi": "आकाश की जननी"
+  },
+  "explanation": {
+    "en": "Viyat is space, the first of the five elements, and prasū is she who brings forth. She is the mother of space itself, the room in which everything else comes to be.",
+    "hi": "वियत् आकाश है, पाँच महाभूतों में पहला, और प्रसू वह है जो जन्म देती है। वे स्वयं आकाश की जननी हैं, उस विस्तार की जिसमें बाकी सब कुछ उत्पन्न होता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya supports this with the Upaniṣad’s account of creation: from the Self, space arose. If she gives birth even to space, she is before all space, and nothing that appears in space can contain her. He adds no further hidden meaning.",
+    "hi": "भास्करराय इसके लिए उपनिषद् के सृष्टि-वर्णन का प्रमाण देते हैं: आत्मा से आकाश उत्पन्न हुआ। यदि वे आकाश को भी जन्म देती हैं, तो वे सारे आकाश से पहले हैं, और आकाश में प्रकट होने वाली कोई वस्तु उन्हें अपने भीतर समेट नहीं सकती। इससे आगे वे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "The line he cites is from the Taittirīya Upaniṣad, where the account goes on: from space came air, from air fire, from fire water, and from water earth. With this name verse 156 ends.",
+    "hi": "वे जो वचन उद्धृत करते हैं वह तैत्तिरीय उपनिषद् का है, जहाँ वर्णन आगे चलता है: आकाश से वायु, वायु से अग्नि, अग्नि से जल, और जल से पृथ्वी उत्पन्न हुई। इस नाम के साथ श्लोक 156 पूरा होता है।"
+  },
+  "commentary": {
+    "sanskrit": "वियत आकाशस्य प्रसूर्जनिका ।",
+    "translation": {
+      "en": "Prasū, the begetter, of viyat, space.",
+      "hi": "वियत् अर्थात् आकाश की प्रसू, अर्थात् जननी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 837 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The archana keeps the nāmāvali form वियत्प्रसुवे (declined like the -भू names, -भुवे); a grammarian should confirm it, since प्रसू with the prefix प्र might instead take yaṇ under ओः सुपि (giving -प्रस्वै), and the optional feminine -प्रसुवै also exists. The śruti Bhāskararāya cites is Taittirīya Upaniṣad 2.1, printed in the edition as आत्मन आकाशः सभूत, evidently for सम्भूतः. The second sentence of the inner layer is a reflection." }
+}

@@ -1,0 +1,36 @@
+{
+  "number": 846,
+  "verse": 158,
+  "slug": "mantra-sara",
+  "devanagari": "मन्त्रसारा",
+  "iastSplit": "Mantra-sārā",
+  "archana": "ॐ मन्त्रसारायै नमः",
+  "syllables": ["man", "tra", "sā", "rā"],
+  "words": [
+    { "sa": "मन्त्र", "meaning": { "en": "mantra; also the Veda", "hi": "मन्त्र; वेद भी" } },
+    { "sa": "सार", "meaning": { "en": "essence", "hi": "सार" } }
+  ],
+  "meaning": {
+    "en": "The essence of all mantras",
+    "hi": "समस्त मन्त्रों का सार"
+  },
+  "explanation": {
+    "en": "Mantra here first means the Veda, as grammarians use the word, then the mantras of the Tantras, and the sixty-four Tantras that teach them. She is the essence of them all.",
+    "hi": "यहाँ मन्त्र का पहला अर्थ वेद है, जैसा व्याकरण में इस शब्द का प्रयोग होता है; फिर तन्त्रों के मन्त्र, और वे चौंसठ तन्त्र जो उन्हें सिखाते हैं। वे इन सबका सार हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya treats this name like the two before it and gives no further hidden meaning. A mantra has power because she is its substance; without her it would be only sound.",
+    "hi": "भास्करराय इस नाम को पिछले दो नामों की तरह ही समझाते हैं और कोई और गूढ़ अर्थ नहीं देते। मन्त्र में शक्ति इसलिए है कि उसका सार वे ही हैं; उनके बिना वह केवल ध्वनि होता।"
+  },
+  "story": {
+    "en": "This completes the three names on essence: of the Veda, of the scriptures, and of the mantras. The sixty-four Tantras are the traditional count of the tantric scriptures.",
+    "hi": "इससे सार वाले तीन नाम पूरे होते हैं: वेद का, शास्त्रों का और मन्त्रों का। चौंसठ तन्त्र तान्त्रिक ग्रन्थों की पारम्परिक गणना है।"
+  },
+  "commentary": null,
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. No commentary excerpt: the relevant sentence is broken by a line-wrap in the edition (चतुःषष्टितन्त्र् / अपरो). The grammatical usage Bhāskararāya cites is Pāṇini 3.1.35 (कास्प्रत्ययादाममन्त्रे लिटि), where अमन्त्रे means ‘outside the Veda’. The second sentence of the inner layer is a reflection." }
+}

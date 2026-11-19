@@ -1,0 +1,44 @@
+{
+  "number": 863,
+  "verse": 161,
+  "slug": "kama-keli-tarangita",
+  "devanagari": "कामकेलितरङ्गिता",
+  "iastSplit": "Kāma-keli-taraṅgitā",
+  "archana": "ॐ कामकेलितरङ्गितायै नमः",
+  "syllables": ["kā", "ma", "ke", "li", "ta", "raṅ", "gi", "tā"],
+  "words": [
+    { "sa": "काम", "meaning": { "en": "Kāma, here Kāmeśvara", "hi": "काम, यहाँ कामेश्वर" } },
+    { "sa": "केलि", "meaning": { "en": "play, love-play", "hi": "केलि, क्रीड़ा" } },
+    { "sa": "तरङ्गिता", "meaning": { "en": "rippling with waves", "hi": "तरंगित, लहराती" } }
+  ],
+  "meaning": {
+    "en": "Rippling with waves of play with Kāmeśvara",
+    "hi": "कामेश्वर के साथ क्रीड़ा की लहरों से तरंगित"
+  },
+  "explanation": {
+    "en": "Kāma here is Kāmeśvara, her consort, and keli is play. Waves of their play rise in her one after another, in an unbroken stream.",
+    "hi": "यहाँ काम का अर्थ कामेश्वर है, उनके स्वामी, और केलि का अर्थ है क्रीड़ा। उनकी क्रीड़ा की लहरें उनमें एक के बाद एक, अविरल धारा में उठती रहती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the literal sense. Placed right after the name that sets her beyond cause and effect, this name shows the other side: free of all causation, she still overflows in play with Śiva, and that play is the coming and going of the world.",
+    "hi": "भास्करराय केवल शब्दार्थ देते हैं। कार्य-कारण से परे बताने वाले नाम के ठीक बाद आकर यह नाम दूसरा पक्ष दिखाता है: समस्त कारण-भाव से मुक्त होकर भी वे शिव के साथ क्रीड़ा में उमड़ती रहती हैं, और वही क्रीड़ा जगत् का आना-जाना है।"
+  },
+  "story": {
+    "en": "Taraṅgita means ‘made into waves’, like the surface of a lake stirred by the wind. The hymn often speaks of her bond with Kāmeśvara in the language of love, as when it calls her the life-current of Kāmeśvara (name 373).",
+    "hi": "तरंगित का अर्थ है ‘लहरों से भरा’, जैसे हवा से हिलता सरोवर का जल। स्तोत्र कामेश्वर के साथ उनके सम्बन्ध को प्रायः प्रेम की भाषा में कहता है, जैसे जब वह उन्हें कामेश्वर की प्राण-नाड़ी कहता है (नाम 373)।"
+  },
+  "commentary": {
+    "sanskrit": "कामस्य कामेश्वरस्य केलीनां क्रीडाविलासानां तरङ्गाः परम्पराः सञ्जाता अस्याः ।",
+    "translation": {
+      "en": "Waves, unbroken successions, of the kelis, the playful delights, of Kāma, that is Kāmeśvara, have arisen in her.",
+      "hi": "काम, अर्थात् कामेश्वर, की केलियों, अर्थात् क्रीड़ा-विलासों, की तरंगें, अर्थात् परम्पराएँ, इनमें उत्पन्न हुई हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 863 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The second sentence of the inner layer is a reflection." }
+}

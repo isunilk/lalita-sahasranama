@@ -1,0 +1,44 @@
+{
+  "number": 870,
+  "verse": 162,
+  "slug": "antar-mukha-samaradhya",
+  "devanagari": "अन्तर्मुखसमाराध्या",
+  "iastSplit": "Antar-mukha-samārādhyā",
+  "archana": "ॐ अन्तर्मुखसमाराध्यायै नमः",
+  "syllables": ["an", "tar", "mu", "kha", "sa", "mā", "rādh", "yā"],
+  "words": [
+    { "sa": "अन्तर्", "meaning": { "en": "inward, within", "hi": "भीतर" } },
+    { "sa": "मुख", "meaning": { "en": "face; the way one faces", "hi": "मुख; रुख" } },
+    { "sa": "समाराध्या", "meaning": { "en": "to be fully worshipped", "hi": "भली-भाँति आराधनीय" } }
+  ],
+  "meaning": {
+    "en": "Truly worshipped by those whose minds turn inward",
+    "hi": "अन्तर्मुखी साधकों द्वारा भली-भाँति आराधित"
+  },
+  "explanation": {
+    "en": "Mukha is face, and so the direction one faces. Those whose minds are turned within, toward the Self, worship her truly: for them she is samārādhyā, worshipped in full.",
+    "hi": "मुख का अर्थ है चेहरा, और इसलिए वह दिशा जिसकी ओर कोई मुँह किए है। जिनका मन भीतर, आत्मा की ओर मुड़ा है, वे ही उनकी सच्ची आराधना करते हैं: उनके लिए वे समाराध्या हैं, पूर्ण रूप से आराधित।"
+  },
+  "inner": {
+    "en": "Bhāskararāya explains mukha as cittavṛtti, the movement of the mind. Worship is measured not by outer ritual alone but by where the mind is facing. He gives no further hidden meaning.",
+    "hi": "भास्करराय ‘मुख’ का अर्थ चित्तवृत्ति, अर्थात् मन की गति, बताते हैं। आराधना केवल बाहरी विधि से नहीं, इससे भी मापी जाती है कि मन किस ओर मुँह किए है। इससे आगे वे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "This name and the next are a pair that closes verse 162: the same Goddess is fully won by the inward-turned and very hard to reach for the outward-turned.",
+    "hi": "यह नाम और अगला नाम एक जोड़ी हैं जो श्लोक 162 को पूरा करती है: वही देवी अन्तर्मुखों को पूर्णतः प्राप्त होती हैं और बहिर्मुखों के लिए अत्यन्त दुर्लभ हैं।"
+  },
+  "commentary": {
+    "sanskrit": "अन्तःस्वात्मप्रणवं मुखं चित्तवृत्तिर्येषां तैः सम्यगाराध्या ।",
+    "translation": {
+      "en": "She is to be worshipped fully by those whose mukha, the movement of the mind, is turned within toward their own Self.",
+      "hi": "जिनका मुख, अर्थात् चित्तवृत्ति, भीतर अपनी आत्मा की ओर प्रवण है, उनके द्वारा वे भली-भाँति आराधनीय हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 870 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The quotation is copied as printed; प्रणवं there is evidently a misprint for प्रवणं (‘inclined toward’), the word used in the parallel gloss on name 871, and the translation follows प्रवणं. The second sentence of the inner layer is a reflection." }
+}

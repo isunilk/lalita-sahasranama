@@ -1,0 +1,43 @@
+{
+  "number": 834,
+  "verse": 156,
+  "slug": "vishrinkhala",
+  "devanagari": "विशृङ्खला",
+  "iastSplit": "Vi-śṛṅkhalā",
+  "archana": "ॐ विशृङ्खलायै नमः",
+  "syllables": ["vi", "śṛṅ", "kha", "lā"],
+  "words": [
+    { "sa": "वि", "meaning": { "en": "without, free from", "hi": "रहित, बिना" } },
+    { "sa": "शृङ्खला", "meaning": { "en": "chain, fetter", "hi": "ज़ंजीर, बेड़ी" } }
+  ],
+  "meaning": {
+    "en": "Unfettered, bound by no chain",
+    "hi": "बन्धन-मुक्त, जिन पर कोई ज़ंजीर नहीं"
+  },
+  "explanation": {
+    "en": "A śṛṅkhalā is a chain or fetter, and she is the one from whom every chain has fallen away. Bhāskararāya takes the chain to be karma and its compulsion, which binds as surely as an iron fetter on the feet.",
+    "hi": "शृङ्खला ज़ंजीर या बेड़ी को कहते हैं, और वे वह हैं जिनसे हर बन्धन छूट चुका है। भास्करराय इस ज़ंजीर को कर्म और उसका बन्धन मानते हैं, जो पैरों की लोहे की बेड़ी की तरह ही बाँधता है।"
+  },
+  "inner": {
+    "en": "He quotes a devotee’s prayer: ‘Cut away my heap of merit too, Lord, as you cut my heap of sin; whether the chain is of gold or of iron, on the feet it is the same.’ Good deeds bind as well as bad, and she is free of both, because rules of what to do and what not to do apply only where there is ignorance.",
+    "hi": "वे एक भक्त की प्रार्थना उद्धृत करते हैं: ‘हे नाथ, जैसे मेरे पापों का ढेर काटते हो, वैसे ही मेरे पुण्यों का ढेर भी काट दो; ज़ंजीर सोने की हो या लोहे की, पैरों में तो दोनों एक-सी हैं।’ अच्छे कर्म भी बुरे कर्मों की तरह बाँधते हैं, और वे दोनों से मुक्त हैं, क्योंकि ‘करो’ और ‘मत करो’ के नियम वहीं लागू होते हैं जहाँ अविद्या है।"
+  },
+  "story": {
+    "en": "Bhāskararāya also records a second sense: śṛṅkhalā can mean the band of a waist-cloth, so the name can mean unclothed, as the Devī is shown in some shrines such as Alampura. This half-verse begins a run of names that start with vi and vī.",
+    "hi": "भास्करराय एक दूसरा अर्थ भी देते हैं: ‘शृङ्खला’ कमर के वस्त्र की करधनी को भी कहते हैं, इसलिए नाम का अर्थ ‘निर्वस्त्रा’ भी हो सकता है, जैसा अलम्पुर आदि कुछ पीठों में देवी की मूर्तियाँ दिखाती हैं। श्लोक की यह पंक्ति ‘वि’ और ‘वी’ से आरम्भ होने वाले नामों की लड़ी शुरू करती है।"
+  },
+  "commentary": {
+    "sanskrit": "विगता शृङ्खला यस्याः विधिनिषेधानामविद्यावद्विषयत्वात् ।",
+    "translation": {
+      "en": "She from whom the chain has gone; for injunctions and prohibitions have as their sphere only those who are in ignorance.",
+      "hi": "जिनसे शृङ्खला दूर हो गई है; क्योंकि विधि और निषेध का क्षेत्र केवल अविद्याग्रस्त जन हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 834 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The prayer verse (पातकप्रचयवन्मम …) is quoted by Bhāskararāya from ‘the learned’ (अभियुक्तैः), without a name. His second reading (नग्ना, with the Viśva lexicon’s sense ‘waist-band’ and a Tiraskariṇī dhyāna he cites) is summarised in the story layer." }
+}

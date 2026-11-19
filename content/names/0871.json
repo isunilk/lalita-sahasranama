@@ -1,0 +1,45 @@
+{
+  "number": 871,
+  "verse": 162,
+  "slug": "bahir-mukha-sudurlabha",
+  "devanagari": "बहिर्मुखसुदुर्लभा",
+  "iastSplit": "Bahir-mukha-su-durlabhā",
+  "archana": "ॐ बहिर्मुखसुदुर्लभायै नमः",
+  "syllables": ["ba", "hir", "mu", "kha", "su", "dur", "la", "bhā"],
+  "words": [
+    { "sa": "बहिस्", "meaning": { "en": "outward", "hi": "बाहर" } },
+    { "sa": "मुख", "meaning": { "en": "face; the way one faces", "hi": "मुख; रुख" } },
+    { "sa": "सु", "meaning": { "en": "very", "hi": "अत्यन्त" } },
+    { "sa": "दुर्लभा", "meaning": { "en": "hard to attain", "hi": "दुर्लभ" } }
+  ],
+  "meaning": {
+    "en": "Very hard to reach for those whose minds turn outward",
+    "hi": "बहिर्मुखी लोगों के लिए अत्यन्त दुर्लभ"
+  },
+  "explanation": {
+    "en": "Those whose minds run only outward, toward the objects of the senses, find her very hard to reach. Su-durlabhā means extremely difficult to attain.",
+    "hi": "जिनका मन केवल बाहर, इन्द्रियों के विषयों की ओर, दौड़ता है, उनके लिए वे अत्यन्त दुर्लभ हैं। सुदुर्लभा का अर्थ है बहुत कठिनाई से प्राप्त होने वाली।"
+  },
+  "inner": {
+    "en": "The two names describe one Goddess from two sides; what changes is the seeker’s direction. She is not far from the outward-turned; they are simply facing away. Bhāskararāya adds only a phrase from the Ānandalaharī: she is not easily won by those whose senses are restless.",
+    "hi": "ये दो नाम एक ही देवी का दो ओर से वर्णन करते हैं; बदलती है केवल साधक की दिशा। वे बहिर्मुखों से दूर नहीं हैं; बस वे दूसरी ओर मुँह किए हैं। भास्करराय केवल आनन्दलहरी का एक वाक्यांश जोड़ते हैं: चंचल इन्द्रियों वालों के लिए वे सुलभ नहीं।"
+  },
+  "story": {
+    "en": "With this name verse 162 ends, and with it the pair on the inward- and outward-turned mind. The thought is as old as the Upaniṣads: the Kaṭha says the Self-born made the senses open outward, so one looks outward and not at the Self within.",
+    "hi": "इस नाम से श्लोक 162 पूरा होता है, और उसके साथ अन्तर्मुख-बहिर्मुख मन वाली जोड़ी भी। यह विचार उपनिषदों जितना पुराना है: कठोपनिषद् कहता है कि स्वयम्भू ने इन्द्रियों को बाहर की ओर खुलने वाला बनाया, इसलिए मनुष्य बाहर देखता है, भीतर की आत्मा को नहीं।"
+  },
+  "commentary": {
+    "sanskrit": "बहिर्विषयैकप्रवणं मुखं येषां तेषां सुष्ठु दुर्लभा । तरलकरणानामसुलभेत्यानन्दलहर्याम् ।",
+    "translation": {
+      "en": "For those whose face is turned solely toward outer objects, she is very hard to reach. ‘Not easily won by those of restless senses,’ says the Ānandalaharī.",
+      "hi": "जिनका मुख केवल बाहरी विषयों की ओर प्रवण है, उनके लिए वे अत्यन्त दुर्लभ हैं। आनन्दलहरी में कहा है: ‘चंचल इन्द्रियों वालों के लिए असुलभ’।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 871 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Ānandalaharī phrase is Saundaryalaharī 95. The Kaṭha Upaniṣad line in the story layer (2.1.1) is context, not cited by Bhāskararāya. The first two sentences of the inner layer are a reflection." }
+}

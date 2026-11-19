@@ -1,0 +1,42 @@
+{
+  "number": 859,
+  "verse": 160,
+  "slug": "kashtha",
+  "devanagari": "काष्ठा",
+  "iastSplit": "Kāṣṭhā",
+  "archana": "ॐ काष्ठायै नमः",
+  "syllables": ["kāṣ", "ṭhā"],
+  "words": [
+    { "sa": "काष्ठा", "meaning": { "en": "limit, goal; a quarter of the sky; a measure of time", "hi": "सीमा, लक्ष्य; दिशा; काल का एक माप" } }
+  ],
+  "meaning": {
+    "en": "The final goal, the furthest limit",
+    "hi": "परम लक्ष्य, अन्तिम सीमा"
+  },
+  "explanation": {
+    "en": "Kāṣṭhā has several senses: a small measure of time, eighteen blinks of the eye; a quarter of the sky; and the furthest limit, the goal. Bhāskararāya shows how each applies to her.",
+    "hi": "काष्ठा के कई अर्थ हैं: काल का एक छोटा माप, अठारह निमेष; आकाश की एक दिशा; और अन्तिम सीमा, लक्ष्य। भास्करराय दिखाते हैं कि प्रत्येक अर्थ उन पर कैसे घटता है।"
+  },
+  "inner": {
+    "en": "The deepest sense is the last. Kāṣṭhā is the final conclusion of all the Vedānta’s teaching, which the Sūta Saṃhitā gives as this: whether perceived or not, being and non-being, all is Paraśiva. He cites the Upaniṣad, ‘that is the limit, that is the highest goal’, and the etymologists’ explanation of kāṣṭhā as ‘that which stands having passed beyond’.",
+    "hi": "सबसे गहरा अर्थ अन्तिम है। काष्ठा सम्पूर्ण वेदान्त-उपदेश का अन्तिम निष्कर्ष है, जिसे सूतसंहिता इस प्रकार कहती है: प्रतीत हो या न हो, सत् हो या असत्, सब परशिव है। वे उपनिषद् का वचन देते हैं, ‘वही सीमा है, वही परम गति है’, और निरुक्तकारों की यह व्याख्या भी कि काष्ठा वह है जो सबको लाँघकर स्थित है।"
+  },
+  "story": {
+    "en": "He also gives a Purāṇic reading from the Liṅga and Vāyu Purāṇas: Śiva in his form as space is called Bhīma, his wife is the ten directions and his son is Svarga, heaven. As that wife, the directions themselves, she is Kāṣṭhā.",
+    "hi": "वे लिंग और वायु पुराण से एक पौराणिक अर्थ भी देते हैं: आकाश रूप में शिव ‘भीम’ कहलाते हैं, दसों दिशाएँ उनकी पत्नी हैं और स्वर्ग उनका पुत्र। वही पत्नी, स्वयं दिशाएँ होने के कारण, वे काष्ठा हैं।"
+  },
+  "commentary": {
+    "sanskrit": "वेदान्तवाक्यार्थतत्त्वनिष्कर्षोऽपि काष्ठा ।",
+    "translation": {
+      "en": "Kāṣṭhā is also the distilled truth of the meaning of the Vedānta’s statements.",
+      "hi": "वेदान्त-वाक्यों के अर्थ का तत्त्व-निष्कर्ष भी काष्ठा है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 859 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. सा काष्ठा सा परा गतिः is Kaṭha Upaniṣad 1.3.11. Bhāskararāya also gives kāṣṭhā as the plant dāruharidrā, with a story from the Mairāla Tantra, and cites the Puruṣa Sūkta and the Gītā for the etymology; these are summarised or left out." }
+}

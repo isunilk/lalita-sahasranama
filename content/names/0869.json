@@ -1,0 +1,43 @@
+{
+  "number": 869,
+  "verse": 162,
+  "slug": "kshipra-prasadini",
+  "devanagari": "क्षिप्रप्रसादिनी",
+  "iastSplit": "Kṣipra-prasādinī",
+  "archana": "ॐ क्षिप्रप्रसादिन्यै नमः",
+  "syllables": ["kṣip", "rap", "ra", "sā", "di", "nī"],
+  "words": [
+    { "sa": "क्षिप्र", "meaning": { "en": "quick, quickly", "hi": "शीघ्र" } },
+    { "sa": "प्रसादिनी", "meaning": { "en": "who is gracious, pleased", "hi": "प्रसन्न होने वाली, कृपा करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who is quickly pleased and swift to grant grace",
+    "hi": "शीघ्र प्रसन्न होकर कृपा करने वाली"
+  },
+  "explanation": {
+    "en": "Kṣipra is quick, and prasāda is grace, the favour of one who is pleased. She is pleased quickly, Bhāskararāya says, within a very few days.",
+    "hi": "क्षिप्र का अर्थ है शीघ्र, और प्रसाद है कृपा, प्रसन्न हुए का अनुग्रह। भास्करराय कहते हैं कि वे शीघ्र, बहुत थोड़े दिनों में ही, प्रसन्न हो जाती हैं।"
+  },
+  "inner": {
+    "en": "He is careful about how quick. He quotes the Saura Purāṇa: worship of others brings liberation by degrees, but by worship of the Lord of Umā one is freed in that very life; this, he says, holds for the foremost devotees of the most intense devotion. For others the Śiva Purāṇa promises that even one of slight devotion will not suffer the pain of the womb again after three lives, and the Tantrarāja adds that japa, homa and worship done in another tradition in an earlier life ripen into the true tradition.",
+    "hi": "वे इस शीघ्रता के विषय में सावधान हैं। वे सौर पुराण का वचन देते हैं: दूसरों की आराधना से मुक्ति क्रमशः मिलती है, पर उमापति की आराधना से उसी जन्म में मुक्ति हो जाती है; यह, वे कहते हैं, अत्यन्त तीव्र भक्ति वाले श्रेष्ठ भक्तों के लिए है। दूसरों के लिए शिव पुराण आश्वासन देता है कि थोड़े भाव वाला मनुष्य भी तीन जन्मों के बाद फिर गर्भ की पीड़ा नहीं भोगेगा, और तन्त्रराज जोड़ता है कि पिछले जन्म में किसी अन्य सम्प्रदाय से किया गया जप, होम और पूजन सही सम्प्रदाय की प्राप्ति का साधन बन जाता है।"
+  },
+  "story": {
+    "en": "From here the verse turns from her nature to her relation with devotees: quick to grace, fully won by those who turn within, very hard to reach for those who look outward.",
+    "hi": "यहाँ से श्लोक उनके स्वरूप से हटकर भक्तों के साथ उनके सम्बन्ध की ओर मुड़ता है: शीघ्र कृपा करने वाली, अन्तर्मुखों द्वारा भली-भाँति आराधित, और बहिर्मुखों के लिए अत्यन्त दुर्लभ।"
+  },
+  "commentary": {
+    "sanskrit": "क्षिप्रं स्वल्पदिनैरेव प्रसीदतीति तथा ।",
+    "translation": {
+      "en": "She is so called because she is pleased kṣipram, quickly, within very few days.",
+      "hi": "वे क्षिप्र, अर्थात् थोड़े ही दिनों में, प्रसन्न हो जाती हैं, इसलिए क्षिप्रप्रसादिनी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 869 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The three verses (Saura Purāṇa, Śiva Purāṇa, Tantrarāja) are summarised from Bhāskararāya’s quotations." }
+}

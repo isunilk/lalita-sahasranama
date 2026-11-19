@@ -1,0 +1,43 @@
+{
+  "number": 831,
+  "verse": 156,
+  "slug": "praneshvari",
+  "devanagari": "प्राणेश्वरी",
+  "iastSplit": "Prāṇeśvarī",
+  "archana": "ॐ प्राणेश्वर्यै नमः",
+  "syllables": ["prā", "ṇeś", "va", "rī"],
+  "words": [
+    { "sa": "प्राण", "meaning": { "en": "life-breath; also the senses", "hi": "प्राण; इन्द्रियाँ भी" } },
+    { "sa": "ईश्वरी", "meaning": { "en": "sovereign lady, ruler", "hi": "अधीश्वरी, स्वामिनी" } }
+  ],
+  "meaning": {
+    "en": "Sovereign of the life-breaths and the senses",
+    "hi": "प्राणों और इन्द्रियों की अधीश्वरी"
+  },
+  "explanation": {
+    "en": "Prāṇa is the breath of life, and in the Upaniṣads the same word names the senses, which live by it. She is their Īśvarī, the one who presides over them and sets them to work.",
+    "hi": "प्राण जीवन की श्वास है, और उपनिषदों में यही शब्द इन्द्रियों के लिए भी आता है, जो प्राण के सहारे ही जीवित हैं। वे इनकी ईश्वरी हैं: इनकी अधिष्ठात्री, जो इन्हें अपने-अपने कार्य में लगाती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives three readings. She presides over the senses, for the Brahmasūtras establish a presiding deity for each; or she rules prāṇa itself with its five functions, the ‘breath of the breath’ of the Upaniṣad; or, taking pra-aṇa as the highest sound, the Veda, she is the Lady whom all the Vedas declare. Every breath drawn without thought is already in her keeping.",
+    "hi": "भास्करराय तीन अर्थ देते हैं। वे इन्द्रियों की अधिष्ठात्री हैं, क्योंकि ब्रह्मसूत्र प्रत्येक इन्द्रिय का एक अधिष्ठाता देवता स्थापित करते हैं; अथवा वे पाँच वृत्तियों वाले प्राण की स्वामिनी हैं, जिसे उपनिषद् ‘प्राण का प्राण’ कहता है; अथवा ‘प्र-अण’ को श्रेष्ठ शब्द, अर्थात् वेद, मानें तो वे वह देवी हैं जिनका प्रतिपादन सारे वेद करते हैं। बिना सोचे ली गई हर श्वास पहले से ही उनके हाथ में है।"
+  },
+  "story": {
+    "en": "This verse opens with two names on prāṇa: in this one she rules it, and in the next she gives it. The hymn has already called her Prāṇadā and Prāṇarūpiṇī (names 783–784), and the theme now returns.",
+    "hi": "यह श्लोक प्राण पर दो नामों से आरम्भ होता है: इस नाम में वे उसकी स्वामिनी हैं, और अगले नाम में उसे देने वाली। स्तोत्र उन्हें पहले ही प्राणदा और प्राणरूपिणी (नाम 783–784) कह चुका है; वही भाव यहाँ फिर लौटता है।"
+  },
+  "commentary": {
+    "sanskrit": "प्राणानामिन्द्रियाणामधिष्ठातृत्वादीश्वरी ।",
+    "translation": {
+      "en": "She is Īśvarī because she presides over the prāṇas, that is, the senses.",
+      "hi": "प्राणों, अर्थात् इन्द्रियों, की अधिष्ठात्री होने से वे ईश्वरी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 831 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The ‘breath of the breath’ (प्राणस्य प्राणः) is in the Kena Upaniṣad, and सर्वे वेदा यत्पदमामनन्ति is Kaṭha Upaniṣad 1.2.15; Bhāskararāya says only ‘śruti’. The Brahmasūtra section he cites is the one beginning ज्योतिराद्यधिष्ठानं तु तदामननात् (2.4.14). The last sentence of the inner layer is a reflection." }
+}

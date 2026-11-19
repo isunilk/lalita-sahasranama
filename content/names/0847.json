@@ -1,0 +1,43 @@
+{
+  "number": 847,
+  "verse": 158,
+  "slug": "talodari",
+  "devanagari": "तलोदरी",
+  "iastSplit": "Talodarī",
+  "archana": "ॐ तलोदर्यै नमः",
+  "syllables": ["ta", "lo", "da", "rī"],
+  "words": [
+    { "sa": "तल", "meaning": { "en": "palm of the hand, flat surface; also the nether world Atala", "hi": "हथेली, समतल; अतल लोक भी" } },
+    { "sa": "उदर", "meaning": { "en": "belly, waist", "hi": "उदर, पेट" } }
+  ],
+  "meaning": {
+    "en": "Whose waist is slender and smooth as a palm",
+    "hi": "जिनका उदर हथेली-सा पतला और समतल है"
+  },
+  "explanation": {
+    "en": "Tala is the palm of the hand or any flat surface. Her waist is slender and smooth like a palm, Bhāskararāya says, not rounded and swollen like a drum.",
+    "hi": "तल हथेली या किसी भी समतल सतह को कहते हैं। भास्करराय कहते हैं कि उनका उदर हथेली की तरह पतला और समतल है, नगाड़े की तरह उभरा और फूला हुआ नहीं।"
+  },
+  "inner": {
+    "en": "With a hidden a read into the name, it becomes Atala-udarī: Atala, one of the worlds below the earth, is the belly of her cosmic form, the virāṭ. So the slender waist of the poet’s picture also holds a whole world.",
+    "hi": "नाम में एक छिपा हुआ ‘अ’ पढ़ने पर यह ‘अतलोदरी’ बन जाता है: पृथ्वी के नीचे के लोकों में से एक, अतल, उनके विराट् रूप का उदर है। इस प्रकार कवि के चित्र की पतली कमर में एक पूरा लोक भी समाया है।"
+  },
+  "story": {
+    "en": "The hymn dwelt on her waist earlier, in the names of her form (names 35–36), as so slender it can only be inferred. Here the image returns among names on scripture and mantra.",
+    "hi": "स्तोत्र ने पहले उनके रूप-वर्णन वाले नामों (नाम 35–36) में उनकी कमर का वर्णन किया था, इतनी पतली कि उसका केवल अनुमान लगाया जा सके। यहाँ शास्त्र और मन्त्र के नामों के बीच वही चित्र लौट आता है।"
+  },
+  "commentary": {
+    "sanskrit": "तलं करतलादि तद्वत्कृशं समं चोदरं न तु न्युब्जं भेर्यादिवदुच्छूनं यस्याः ।",
+    "translation": {
+      "en": "Tala is the palm of the hand and the like; she whose belly is slender and level like it, not curved and puffed out like a kettle-drum.",
+      "hi": "तल हथेली आदि है; जिनका उदर उसी की तरह पतला और समतल है, भेरी (नगाड़े) आदि की तरह उभरा और फूला हुआ नहीं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 847 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The second reading (अतल with a hidden अ, which Bhāskararāya calls ‘easily stated’) is his; he names only Atala, and its place among the lower worlds is the standard Purāṇic list. The last sentence of the inner layer is a reflection." }
+}

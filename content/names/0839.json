@@ -1,0 +1,43 @@
+{
+  "number": 839,
+  "verse": 157,
+  "slug": "mukti-nilaya",
+  "devanagari": "मुक्तिनिलया",
+  "iastSplit": "Mukti-nilayā",
+  "archana": "ॐ मुक्तिनिलयायै नमः",
+  "syllables": ["muk", "ti", "ni", "la", "yā"],
+  "words": [
+    { "sa": "मुक्ति", "meaning": { "en": "liberation", "hi": "मुक्ति, मोक्ष" } },
+    { "sa": "निलय", "meaning": { "en": "abode, storehouse", "hi": "निवास, आगार" } }
+  ],
+  "meaning": {
+    "en": "The abode of every kind of liberation",
+    "hi": "सभी प्रकार की मुक्तियों का धाम"
+  },
+  "explanation": {
+    "en": "Nilaya is a dwelling or a storehouse. The source of liberation is in her: Bhāskararāya says she is the mine from which the five kinds of mokṣa come.",
+    "hi": "निलय का अर्थ है निवास या भण्डार। मुक्ति का स्रोत उन्हीं में है: भास्करराय कहते हैं कि वे वह खान हैं जिससे पाँचों प्रकार के मोक्ष निकलते हैं।"
+  },
+  "inner": {
+    "en": "Whatever form of freedom a seeker longs for, whether nearness to the deity or complete union, it is already stored in her and is drawn from her alone. Bhāskararāya gives only this sense, without naming the five.",
+    "hi": "साधक जिस भी प्रकार की मुक्ति की कामना करे, इष्ट का सामीप्य हो या पूर्ण सायुज्य, वह पहले से उन्हीं में संचित है और उन्हीं से मिलती है। भास्करराय केवल इतना अर्थ देते हैं; वे पाँचों के नाम नहीं गिनाते।"
+  },
+  "story": {
+    "en": "The five kinds of liberation are commonly listed as living in the deity’s world, living near the deity, taking the deity’s form, sharing the deity’s powers, and union with the deity. The name follows Muktidā and Muktirūpiṇī (names 736–737): she gives liberation, is liberation, and is its home.",
+    "hi": "पाँच प्रकार की मुक्तियाँ प्रायः इस प्रकार गिनाई जाती हैं: इष्ट के लोक में वास (सालोक्य), इष्ट के समीप वास (सामीप्य), इष्ट का रूप पाना (सारूप्य), इष्ट के ऐश्वर्य में भागी होना (सार्ष्टि), और इष्ट से एकत्व (सायुज्य)। यह नाम मुक्तिदा और मुक्तिरूपिणी (नाम 736–737) के बाद आता है: वे मुक्ति देती हैं, स्वयं मुक्ति हैं, और मुक्ति का धाम भी हैं।"
+  },
+  "commentary": {
+    "sanskrit": "मुक्तीनां पञ्चविधमोक्षाणां निलय आकरो यस्याम् ।",
+    "translation": {
+      "en": "In her is the nilaya, the mine, of the muktis, the five kinds of liberation.",
+      "hi": "मुक्तियों, अर्थात् पाँच प्रकार के मोक्षों, का निलय अर्थात् आकर (खान) उनमें है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 839 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya does not list the five kinds of mokṣa; the list in the story layer is the common one (as in the Bhāgavata Purāṇa) and should be checked. The first sentence of the inner layer is a reflection." }
+}

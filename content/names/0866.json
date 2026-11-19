@@ -1,0 +1,42 @@
+{
+  "number": 866,
+  "verse": 162,
+  "slug": "aja",
+  "devanagari": "अजा",
+  "iastSplit": "Ajā",
+  "archana": "ॐ अजायै नमः",
+  "syllables": ["a", "jā"],
+  "words": [
+    { "sa": "अजा", "meaning": { "en": "unborn", "hi": "अजन्मा" } }
+  ],
+  "meaning": {
+    "en": "The unborn one",
+    "hi": "अजन्मा"
+  },
+  "explanation": {
+    "en": "Ajā means unborn: she was never born and never will be. Bhāskararāya cites the Upaniṣadic ‘the one unborn’, ajām ekām, and a Mahābhārata verse in which the Lord says he is called Aja because he was not born, is not born and will never be born.",
+    "hi": "अजा का अर्थ है अजन्मा: उनका न कभी जन्म हुआ, न कभी होगा। भास्करराय उपनिषद् का वचन ‘अजामेकाम्’ (एक अजन्मा) देते हैं, और महाभारत का वह श्लोक भी जिसमें भगवान कहते हैं कि वे ‘अज’ इसलिए कहलाते हैं कि न वे जन्मे, न जन्म लेते हैं, न कभी जन्म लेंगे।"
+  },
+  "inner": {
+    "en": "He draws out a link to the next name: whatever is born must die, as the saying goes, ‘for the born, death is certain’. So what has no birth is free of death and decay, which is what the next name says. The Self in each of us, too, was never born.",
+    "hi": "वे अगले नाम से इसका सम्बन्ध दिखाते हैं: जो जन्मा है उसकी मृत्यु निश्चित है, जैसा कहा गया है, ‘जन्मे हुए की मृत्यु ध्रुव है’। इसलिए जिसका जन्म नहीं, वह मृत्यु और क्षय से मुक्त है, और अगला नाम यही कहता है। हममें से प्रत्येक के भीतर की आत्मा भी कभी नहीं जन्मी।"
+  },
+  "story": {
+    "en": "The words ajām ekām come from the Śvetāśvatara Upaniṣad, where the one unborn, red, white and black, brings forth many creatures like herself.",
+    "hi": "‘अजामेकाम्’ शब्द श्वेताश्वतर उपनिषद् के हैं, जहाँ वह एक अजन्मा, लाल, श्वेत और कृष्ण वर्ण वाली, अपने ही समान अनेक प्राणियों को जन्म देती है।"
+  },
+  "commentary": {
+    "sanskrit": "जन्मराहित्यादजा । अजामेकामिति श्रुतेः, न जातो न जनिष्यत इति श्रुतेश्च",
+    "translation": {
+      "en": "Ajā, because she is without birth: as the śruti says, ‘the one unborn’, and again, ‘not born, nor will be born’.",
+      "hi": "जन्म से रहित होने के कारण अजा; जैसा श्रुति कहती है, ‘एक अजन्मा’, और यह भी, ‘न जन्मा, न जन्म लेगा’।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 866 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. अजामेकाम् is Śvetāśvatara Upaniṣad 4.5, and जातस्य हि ध्रुवो मृत्युः is Bhagavad Gītā 2.27; Bhāskararāya names neither. The last sentence of the inner layer is a reflection." }
+}

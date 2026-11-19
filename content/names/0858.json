@@ -1,0 +1,43 @@
+{
+  "number": 858,
+  "verse": 160,
+  "slug": "kalpana-rahita",
+  "devanagari": "कल्पनारहिता",
+  "iastSplit": "Kalpanā-rahitā",
+  "archana": "ॐ कल्पनारहितायै नमः",
+  "syllables": ["kal", "pa", "nā", "ra", "hi", "tā"],
+  "words": [
+    { "sa": "कल्पना", "meaning": { "en": "imagining, mental construction", "hi": "कल्पना" } },
+    { "sa": "रहिता", "meaning": { "en": "free from, without", "hi": "रहित" } }
+  ],
+  "meaning": {
+    "en": "Free from every mental construction",
+    "hi": "सभी कल्पनाओं से रहित"
+  },
+  "explanation": {
+    "en": "Kalpanā is the mind’s work of imagining and constructing. Bhāskararāya calls these constructions waves of the seen, made of latent impressions, and she is free of them simply because they are only imagined.",
+    "hi": "कल्पना मन का वह काम है जिससे वह रचता और गढ़ता है। भास्करराय इन कल्पनाओं को वासनाओं से बनी ‘दृश्य की लहरें’ कहते हैं, और वे इनसे रहित हैं, सीधे इसलिए कि ये केवल कल्पित हैं।"
+  },
+  "inner": {
+    "en": "His second reading divides the letters differently, as kalpa-nāra-hitā: kind to souls even at the kalpa, the dissolution of the world. Even then she keeps all beings safe within her as latent impressions, and all the more in creation and preservation. He quotes the Aṣṭāvakra Gītā: in me, the endless ocean of consciousness, the waves that are souls rise, clash, play and sink back by their own nature.",
+    "hi": "उनका दूसरा अर्थ अक्षरों को भिन्न रूप से बाँटता है, ‘कल्प-नार-हिता’: कल्प, अर्थात् प्रलय, में भी जीवों का हित करने वाली। तब भी वे सब जीवों को वासना रूप में अपने भीतर सुरक्षित रखती हैं, और सृष्टि तथा पालन के समय तो और भी। वे अष्टावक्र गीता उद्धृत करते हैं: मुझ अनन्त चेतना-सागर में जीव रूपी लहरें अपने स्वभाव से उठती हैं, टकराती हैं, खेलती हैं और लौट जाती हैं।"
+  },
+  "story": {
+    "en": "Nāra, he explains, comes from nara, the Supreme as the one who leads, so the nāras are the souls who belong to him. From here the verse turns to names of her transcendence: beyond imagining, the final goal, the end of sorrow.",
+    "hi": "वे समझाते हैं कि ‘नार’ शब्द ‘नर’ से बना है, और ‘नर’ वह परमात्मा है जो सबको ले चलता है; इसलिए ‘नार’ उसके अपने जीव हैं। यहाँ से श्लोक उनकी अतीतता के नामों की ओर मुड़ता है: कल्पना से परे, परम लक्ष्य, दुःख का अन्त।"
+  },
+  "commentary": {
+    "sanskrit": "कल्पना वासनामययो दृश्यवीचयस्ताभी रहिता । तासां कल्पितत्वादेव ।",
+    "translation": {
+      "en": "Kalpanās are the waves of the seen, made of latent impressions; she is free of them, simply because they are imagined.",
+      "hi": "कल्पनाएँ वासनामयी दृश्य-लहरें हैं; वे उनसे रहित हैं, क्योंकि वे केवल कल्पित हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 858 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The quotation is copied as printed; वासनामययो is evidently a misprint for वासनामय्यो. Bhāskararāya’s second reading divides the name as कल्प + नार + हिता (‘कल्पेऽपि नाराणां हिता’); the page keeps the master text’s single name and gives his reading in the inner layer. The Aṣṭāvakra Gītā verse is printed with मययनन्ते, evidently for मय्यनन्ते." }
+}

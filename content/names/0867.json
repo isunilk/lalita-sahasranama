@@ -1,0 +1,43 @@
+{
+  "number": 867,
+  "verse": 162,
+  "slug": "kshaya-vinirmukta",
+  "devanagari": "क्षयविनिर्मुक्ता",
+  "iastSplit": "Kṣaya-vinirmuktā",
+  "archana": "ॐ क्षयविनिर्मुक्तायै नमः",
+  "syllables": ["kṣa", "ya", "vi", "nir", "muk", "tā"],
+  "words": [
+    { "sa": "क्षय", "meaning": { "en": "decay, death; also house", "hi": "क्षय, नाश, मृत्यु; घर भी" } },
+    { "sa": "विनिर्मुक्ता", "meaning": { "en": "wholly free", "hi": "सर्वथा मुक्त" } }
+  ],
+  "meaning": {
+    "en": "Wholly free from decay and death",
+    "hi": "क्षय और मृत्यु से सर्वथा मुक्त"
+  },
+  "explanation": {
+    "en": "Kṣaya means wasting away, decay and death. Being unborn, she is wholly free of it, since only what is born can die.",
+    "hi": "क्षय का अर्थ है घटते जाना, नाश और मृत्यु। अजन्मा होने के कारण वे इससे सर्वथा मुक्त हैं, क्योंकि मृत्यु केवल उसी की होती है जो जन्मा हो।"
+  },
+  "inner": {
+    "en": "His second reading takes kṣaya in its other sense, ‘house’: through her, people are set free while still at home. Those who seek liberation often leave home for fear of the senses, he says, but the worshippers of Sundarī reach liberation in the house itself. He quotes his own verse in praise of Śiva: if you seek the highest abode, do not give up your own abode; hold in your heart the name of Śiva, the enemy of Kāma.",
+    "hi": "उनका दूसरा अर्थ ‘क्षय’ को उसके दूसरे अर्थ ‘घर’ में लेता है: उनके द्वारा लोग घर में रहते हुए ही मुक्त हो जाते हैं। वे कहते हैं कि मुमुक्षु प्रायः विषयों के भय से घर त्याग देते हैं, किन्तु सुन्दरी के उपासक घर में ही मोक्ष पाते हैं। वे शिव की स्तुति में अपना ही एक श्लोक उद्धृत करते हैं: यदि परम धाम चाहते हो तो अपना धाम मत छोड़ो; कामदेव के शत्रु शिव का नाम हृदय में स्मरण करो।"
+  },
+  "story": {
+    "en": "With the name before it, this makes a pair: unborn, and so free of death. Bhāskararāya adds that Durvāsas says the same, a reference the edition identifies as his Śaktimahimnaḥ Stotra.",
+    "hi": "पिछले नाम के साथ यह एक जोड़ी बनाता है: अजन्मा, और इसलिए मृत्यु से मुक्त। भास्करराय जोड़ते हैं कि दुर्वासा भी यही कहते हैं; सम्पादित पाठ इस उल्लेख को उनके शक्तिमहिम्नःस्तोत्र का बताता है।"
+  },
+  "commentary": {
+    "sanskrit": "क्षयेण मरणेन विनिर्मुक्ता । क्षये गृह एव विशिष्य निर्मुक्ता ययेति वा ।",
+    "translation": {
+      "en": "Free from kṣaya, that is, death. Or: she by whom people are set free right in their kṣaya, their house.",
+      "hi": "क्षय, अर्थात् मरण, से विनिर्मुक्त। अथवा: जिनके द्वारा लोग क्षय, अर्थात् घर, में ही विशेष रूप से मुक्त हो जाते हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 867 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The verse यदि परमिच्छसि धाम … is from Bhāskararāya’s own Śivastuti, as he says; the bracketed title [शक्तिमहिम्नस्तोत्रे] after Durvāsas’s name is in the edition, and Durvāsas’s words are not quoted there." }
+}

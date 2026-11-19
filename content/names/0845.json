@@ -1,0 +1,43 @@
+{
+  "number": 845,
+  "verse": 158,
+  "slug": "shastra-sara",
+  "devanagari": "शास्त्रसारा",
+  "iastSplit": "Śāstra-sārā",
+  "archana": "ॐ शास्त्रसारायै नमः",
+  "syllables": ["śās", "tra", "sā", "rā"],
+  "words": [
+    { "sa": "शास्त्र", "meaning": { "en": "scripture, authoritative teaching", "hi": "शास्त्र, प्रामाणिक उपदेश" } },
+    { "sa": "सार", "meaning": { "en": "essence", "hi": "सार" } }
+  ],
+  "meaning": {
+    "en": "The essence of all the scriptures",
+    "hi": "समस्त शास्त्रों का सार"
+  },
+  "explanation": {
+    "en": "Śāstra is authoritative teaching: the Veda, and the disciplines such as Mīmāṃsā that follow it. She is their essence, the one truth they all teach, because, in the words of the Brahmasūtra, she is their source.",
+    "hi": "शास्त्र प्रामाणिक उपदेश है: वेद, और मीमांसा आदि वे विद्याएँ जो वेद का अनुसरण करती हैं। वे इन सबका सार हैं, वह एक सत्य जिसे सब सिखाते हैं; क्योंकि ब्रह्मसूत्र के शब्दों में, वे ही शास्त्र का उद्गम हैं।"
+  },
+  "inner": {
+    "en": "He defines śāstra with a verse from the Bhāmatī: śāstra is that which teaches people to act or to refrain, whether through the eternal Veda or through works composed by men. Every such teaching draws its authority from her, and in each of them she is the part that does not change.",
+    "hi": "वे भामती के एक श्लोक से शास्त्र की परिभाषा देते हैं: शास्त्र वह है जो मनुष्यों को किसी कर्म में प्रवृत्त होने या उससे निवृत्त होने का उपदेश दे, चाहे नित्य वेद के द्वारा या मनुष्यों द्वारा रचित ग्रन्थों के द्वारा। ऐसा हर उपदेश अपना प्रमाण उन्हीं से पाता है, और हर एक में वे ही वह अंश हैं जो कभी नहीं बदलता।"
+  },
+  "story": {
+    "en": "The second of the three names on essence. The phrase śāstrayonitvāt, ‘because she is the source of scripture’, is the wording of the third Brahmasūtra, where it is said of Brahman.",
+    "hi": "सार वाले तीन नामों में यह दूसरा है। ‘शास्त्रयोनित्वात्’, अर्थात् ‘शास्त्र का उद्गम होने से’, ब्रह्मसूत्र के तीसरे सूत्र के शब्द हैं, जहाँ यह बात ब्रह्म के विषय में कही गई है।"
+  },
+  "commentary": {
+    "sanskrit": "प्रवृत्तिर्वा निवृत्तिर्वा नित्येन कृतकेन वा । पुंसां येनोपदिश्येत तच्छास्त्रमभिधीयते ।।",
+    "translation": {
+      "en": "That by which people are taught to act or to refrain, whether through the eternal or through what is made, is called śāstra.",
+      "hi": "जिसके द्वारा मनुष्यों को प्रवृत्ति या निवृत्ति का उपदेश दिया जाए, नित्य (वेद) से या कृतक (रचित ग्रन्थ) से, उसे शास्त्र कहते हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 845 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The quoted verse is one Bhāskararāya cites from the Bhāmatī. The edition punctuates एवमुत्तरनामद्वयेऽपि शास्त्रयोनित्वादिति as one sentence; the page takes शास्त्रयोनित्वात् (Brahmasūtra 1.1.3) as the gloss on this name. The last sentence of the inner layer is a reflection." }
+}

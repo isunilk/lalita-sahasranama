@@ -1,0 +1,43 @@
+{
+  "number": 841,
+  "verse": 157,
+  "slug": "bhava-jna",
+  "devanagari": "भावज्ञा",
+  "iastSplit": "Bhāva-jñā",
+  "archana": "ॐ भावज्ञायै नमः",
+  "syllables": ["bhā", "vaj", "ñā"],
+  "words": [
+    { "sa": "भाव", "meaning": { "en": "being, nature, intention, feeling", "hi": "भाव: सत्ता, स्वभाव, अभिप्राय, भावना" } },
+    { "sa": "ज्ञा", "meaning": { "en": "knowing", "hi": "जानने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who knows every feeling and intention",
+    "hi": "सभी भावों को जानने वाली"
+  },
+  "explanation": {
+    "en": "Bhāva is a word of many meanings: being, nature, intention, gesture, feeling. She is the one who knows them all. Nothing in us is hidden from her, not even the intention behind an act.",
+    "hi": "भाव शब्द के अनेक अर्थ हैं: सत्ता, स्वभाव, अभिप्राय, चेष्टा, भावना। वे इन सबको जानती हैं। हमारे भीतर कुछ भी उनसे छिपा नहीं, किसी कर्म के पीछे का अभिप्राय भी नहीं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya runs through more than a dozen senses of the word: the six changes of all things that Yāska counts, beginning with ‘exists’ and ‘is born’; the six categories of the logicians; the things of worldly life; devotion; and, in the Yoginīhṛdaya, the first of the six meanings of a mantra. She knows each of these, from the outermost to the innermost. For the devotee the plainest sense is the dearest: she knows the feeling with which one comes to her.",
+    "hi": "भास्करराय इस शब्द के एक दर्जन से अधिक अर्थ गिनाते हैं: यास्क द्वारा गिनाए गए वस्तुओं के छह विकार, जो ‘है’ और ‘जन्मता है’ से आरम्भ होते हैं; नैयायिकों के छह पदार्थ; सांसारिक जीवन की वस्तुएँ; भक्ति; और योगिनीहृदय में मन्त्र के छह अर्थों में पहला। वे इनमें से प्रत्येक को जानती हैं, सबसे बाहरी से लेकर सबसे भीतरी तक। भक्त के लिए सबसे सरल अर्थ ही सबसे प्रिय है: जिस भाव से कोई उनके पास आता है, वे उसे जानती हैं।"
+  },
+  "story": {
+    "en": "This half-verse plays on bhāva and bhava: she knows every bhāva, she cures the disease of bhava, worldly existence, and she turns the wheel of bhava.",
+    "hi": "श्लोक की यह पंक्ति ‘भाव’ और ‘भव’ शब्दों से खेलती है: वे हर भाव को जानती हैं, भव अर्थात् संसार के रोग को मिटाती हैं, और भव के चक्र को चलाती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "भावाञ्जानातीति भावज्ञा । भावः सत्तास्वभावाभिप्रायचेष्टात्मजन्मसु इत्यमरः ।",
+    "translation": {
+      "en": "Bhāvajñā, because she knows the bhāvas. ‘Bhāva means being, nature, intention, gesture, self and birth,’ says the Amarakośa.",
+      "hi": "भावों को जानती हैं, इसलिए भावज्ञा। अमरकोश कहता है: ‘भाव’ का अर्थ है सत्ता, स्वभाव, अभिप्राय, चेष्टा, आत्मा और जन्म।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 841 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s long list of the senses of भाव is summarised, not given in full. The last sentence of the inner layer is a reflection." }
+}

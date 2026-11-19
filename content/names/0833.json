@@ -1,0 +1,44 @@
+{
+  "number": 833,
+  "verse": 156,
+  "slug": "panchashat-pitha-rupini",
+  "devanagari": "पञ्चाशत्पीठरूपिणी",
+  "iastSplit": "Pañcāśat-pīṭha-rūpiṇī",
+  "archana": "ॐ पञ्चाशत्पीठरूपिण्यै नमः",
+  "syllables": ["pañ", "cā", "śat", "pī", "ṭha", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "पञ्चाशत्", "meaning": { "en": "fifty", "hi": "पचास" } },
+    { "sa": "पीठ", "meaning": { "en": "seat of the Goddess, sacred centre", "hi": "पीठ, देवी का पावन आसन" } },
+    { "sa": "रूपिणी", "meaning": { "en": "having the form of", "hi": "स्वरूपा" } }
+  ],
+  "meaning": {
+    "en": "Whose form is the fifty sacred seats",
+    "hi": "पचास पीठ ही जिनका स्वरूप हैं"
+  },
+  "explanation": {
+    "en": "Pīṭhas are seats of the Goddess, sacred centres where she is worshipped, and these seats are her very form. Bhāskararāya argues that fifty here stands for fifty-one, as round numbers often do: the pīṭhas from Kāmarūpa to Chāyāchatra.",
+    "hi": "पीठ देवी के आसन हैं, वे पावन स्थान जहाँ उनकी उपासना होती है, और ये पीठ ही उनका स्वरूप हैं। भास्करराय का मत है कि यहाँ ‘पचास’ इक्यावन के लिए है, जैसे पूर्णांक संख्याएँ प्रायः मोटे तौर पर बोली जाती हैं: ये कामरूप से छायाछत्र तक के पीठ हैं।"
+  },
+  "inner": {
+    "en": "For Bhāskararāya the pīṭhas belong with the mātṛkās, the letters from a to kṣa. In pīṭha-nyāsa, part of the ṣoḍhā-nyāsa, the fifty-one seats are placed at the stations of the fifty-one letters on the body, so the sacred map of the land and the sound-body of the alphabet are one map of her. He rejects the view of the author of the Sundarīmahodaya that the station of kṣa is left out to make fifty.",
+    "hi": "भास्करराय के लिए पीठ मातृकाओं, अर्थात् ‘अ’ से ‘क्ष’ तक के वर्णों, के साथ जुड़े हैं। षोढान्यास के अन्तर्गत पीठन्यास में इक्यावन पीठ शरीर पर इक्यावन वर्णों के स्थानों पर रखे जाते हैं; इस प्रकार धरती का पावन मानचित्र और वर्णमाला का नाद-शरीर, दोनों उनका एक ही मानचित्र हैं। सुन्दरीमहोदय के रचयिता का यह मत कि पचास की संख्या पूरी करने के लिए ‘क्ष’ का स्थान छोड़ दिया जाता है, वे अस्वीकार करते हैं।"
+  },
+  "story": {
+    "en": "He cites the Brahmāṇḍa Purāṇa, the Yoginīhṛdaya and the Jñānārṇava for the fifty-one pīṭhas, and notes that poets and tantras alike speak of ‘the fifty letters’ while meaning fifty-one. If anyone insists that the name itself must say fifty-one, he adds, rūpa can be read as the number one.",
+    "hi": "इक्यावन पीठों के लिए वे ब्रह्माण्ड पुराण, योगिनीहृदय और ज्ञानार्णव का प्रमाण देते हैं, और बताते हैं कि कवि और तन्त्र दोनों ‘पचास वर्ण’ कहकर इक्यावन का ही अर्थ लेते हैं। वे यह भी जोड़ते हैं कि यदि कोई आग्रह करे कि नाम में ही इक्यावन होना चाहिए, तो ‘रूप’ शब्द को संख्या एक के अर्थ में पढ़ा जा सकता है।"
+  },
+  "commentary": {
+    "sanskrit": "तेन कामरूपादिच्छायाछत्रान्तैकपञ्चाशत्पीठानि रूपमस्या इत्यर्थः ।",
+    "translation": {
+      "en": "So the meaning is: the fifty-one pīṭhas, from Kāmarūpa to Chāyāchatra, are her form.",
+      "hi": "अतः अर्थ यह है: कामरूप से छायाछत्र तक के इक्यावन पीठ इनका रूप हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 833 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s long note, arguing that पञ्चाशत् means fifty-one here (by lakṣaṇā) and settling disputed readings in the list of pīṭhas, is summarised; he does not give the full list at this point. The reading of रूप as ‘one’ rests on Halāyudha’s comment on Piṅgala’s sūtra रूपे शून्यम्, which he cites. The pīṭha-nyāsa is described only as he describes it, not as instruction." }
+}

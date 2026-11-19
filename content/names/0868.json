@@ -1,0 +1,42 @@
+{
+  "number": 868,
+  "verse": 162,
+  "slug": "mugdha",
+  "devanagari": "मुग्धा",
+  "iastSplit": "Mugdhā",
+  "archana": "ॐ मुग्धायै नमः",
+  "syllables": ["mug", "dhā"],
+  "words": [
+    { "sa": "मुग्धा", "meaning": { "en": "charming, lovely; also artless, bewildered", "hi": "मनोहर, सुन्दर; भोली, मोहित भी" } }
+  ],
+  "meaning": {
+    "en": "Enchantingly lovely, with an innocent grace",
+    "hi": "मनोहर, सहज सौन्दर्य वाली"
+  },
+  "explanation": {
+    "en": "Mugdhā means charming and lovely, with an artless grace. The word can also mean bewildered, and Bhāskararāya shows how both senses can be turned toward her.",
+    "hi": "मुग्धा का अर्थ है मनोहर, सुन्दर, सहज भोलेपन वाली। इस शब्द का अर्थ ‘मोहित’ या ‘मूढ़’ भी होता है, और भास्करराय दिखाते हैं कि दोनों अर्थ उन पर कैसे घटते हैं।"
+  },
+  "inner": {
+    "en": "First he takes her as beauty itself, linking the word with release: she frees one from attachment. Then, reading a hidden a into the name, he takes it as ‘she near whom no one remains deluded’. The word for bewilderment becomes a name for the one who ends it.",
+    "hi": "पहले वे उन्हें स्वयं सौन्दर्य मानते हैं, और शब्द को ‘मुक्त करने’ से जोड़ते हैं: वे आसक्ति से छुड़ाती हैं। फिर नाम में एक छिपा ‘अ’ पढ़कर वे इसका अर्थ लेते हैं ‘जिनके पास कोई मूढ़ नहीं रहता’। मोह का बोधक शब्द ही मोह मिटाने वाली का नाम बन जाता है।"
+  },
+  "story": {
+    "en": "In Sanskrit poetics mugdhā is also the name for a young heroine, fresh and artless in love.",
+    "hi": "संस्कृत काव्यशास्त्र में ‘मुग्धा’ उस नवयौवना नायिका का भी नाम है जो प्रेम में नई और सरल है।"
+  },
+  "commentary": {
+    "sanskrit": "मुग्धः सुन्दरमूढयोरिति विश्वः ।",
+    "translation": {
+      "en": "‘Mugdha means beautiful and bewildered,’ says the Viśva lexicon.",
+      "hi": "विश्वकोश कहता है: ‘मुग्ध’ का अर्थ सुन्दर भी है और मूढ़ भी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 868 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s derivation सङ्गं मोमोक्षतीति मुग्धा (from √muc, ‘to release’) is unusual and its rendering here should be checked; the edition prints इत्यापि, evidently for इत्यपि, in the sentence on the hidden अ. The last sentence of the inner layer is a reflection." }
+}

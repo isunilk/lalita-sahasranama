@@ -1,0 +1,44 @@
+{
+  "number": 865,
+  "verse": 161,
+  "slug": "lila-vigraha-dharini",
+  "devanagari": "लीलाविग्रहधारिणी",
+  "iastSplit": "Līlā-vigraha-dhāriṇī",
+  "archana": "ॐ लीलाविग्रहधारिण्यै नमः",
+  "syllables": ["lī", "lā", "vig", "ra", "ha", "dhā", "ri", "ṇī"],
+  "words": [
+    { "sa": "लीला", "meaning": { "en": "play; ease", "hi": "लीला, क्रीड़ा" } },
+    { "sa": "विग्रह", "meaning": { "en": "form, body; incarnation", "hi": "विग्रह, शरीर, अवतार" } },
+    { "sa": "धारिणी", "meaning": { "en": "who assumes, bears", "hi": "धारण करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who takes on forms in play",
+    "hi": "लीला से अनेक रूप धारण करने वाली"
+  },
+  "explanation": {
+    "en": "Līlā is play, and Bhāskararāya glosses it as ease: what is done without effort. She takes on bodies and incarnations as easily as in play.",
+    "hi": "लीला क्रीड़ा है, और भास्करराय इसका अर्थ ‘अनायास’ बताते हैं: जो बिना प्रयास के हो। वे शरीर और अवतार वैसे ही सहज रूप से धारण करती हैं जैसे खेल में।"
+  },
+  "inner": {
+    "en": "Our bodies come to us bound by karma; hers are taken up freely, for joy and for the good of the world. Every form of the Goddess, gentle or fierce, is līlā in this sense. Bhāskararāya adds no hidden meaning beyond ‘without effort’.",
+    "hi": "हमारे शरीर कर्म के बन्धन से मिलते हैं; उनके रूप स्वतन्त्रता से, आनन्द के लिए और जगत् के हित के लिए, धारण किए जाते हैं। देवी का हर रूप, सौम्य हो या उग्र, इसी अर्थ में लीला है। ‘अनायास’ के अतिरिक्त भास्करराय कोई गूढ़ अर्थ नहीं जोड़ते।"
+  },
+  "story": {
+    "en": "His second reading points to the Yogavāsiṣṭha: she bears the form of Līlā, the devoted queen of King Padma, whose story he cites from its opening lines.",
+    "hi": "उनका दूसरा अर्थ योगवासिष्ठ की ओर संकेत करता है: वे लीला का रूप धारण करती हैं, राजा पद्म की पतिव्रता रानी, जिनकी कथा के आरम्भिक वचन वे उद्धृत करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "लीलयाऽनायासेन विग्रहानवतारविशेषान्धारयति",
+    "translation": {
+      "en": "By līlā, that is, without effort, she assumes vigrahas, particular incarnations.",
+      "hi": "लीला से, अर्थात् अनायास, वे विग्रहों, अर्थात् विशेष अवतारों, को धारण करती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 865 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya quotes only the opening of the Līlā story (Līlopākhyāna) of the Yogavāsiṣṭha. The first two sentences of the inner layer are a reflection." }
+}

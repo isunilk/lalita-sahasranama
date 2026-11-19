@@ -1,0 +1,42 @@
+{
+  "number": 856,
+  "verse": 160,
+  "slug": "garvita",
+  "devanagari": "गर्विता",
+  "iastSplit": "Garvitā",
+  "archana": "ॐ गर्वितायै नमः",
+  "syllables": ["gar", "vi", "tā"],
+  "words": [
+    { "sa": "गर्विता", "meaning": { "en": "proud; filled with majesty", "hi": "गर्विता, गौरव से युक्त" } }
+  ],
+  "meaning": {
+    "en": "Filled with the majesty of the supreme ‘I’",
+    "hi": "परम अहंता के गौरव से युक्त"
+  },
+  "explanation": {
+    "en": "Garvitā means proud. This is not vanity: Bhāskararāya explains the pride as her supreme sense of ‘I’, the sovereign will by which she sets out to make the universe.",
+    "hi": "गर्विता का अर्थ है गर्व से युक्त। यह अहंकार नहीं है: भास्करराय इस गर्व को उनकी परा अहंता बताते हैं, वह स्वतन्त्र संकल्प जिससे वे विश्व की रचना में प्रवृत्त होती हैं।"
+  },
+  "inner": {
+    "en": "He calls it parāhantā, the supreme I-ness, and two names earlier he quoted verses calling the full I-awareness the power of mantra. Her garva is that I-ness turned toward making a world. The pride of the ego is a small, borrowed copy of it.",
+    "hi": "वे इसे परा अहंता कहते हैं, और दो नाम पहले उन्होंने ऐसे श्लोक उद्धृत किए थे जो पूर्ण अहंता के बोध को मन्त्र-वीर्य बताते हैं। उनका गर्व वही अहंता है जो विश्व-रचना की ओर उन्मुख है। अहंकार का गर्व उसकी एक छोटी, उधार ली हुई प्रतिकृति भर है।"
+  },
+  "story": {
+    "en": "In the cakra names the hymn called her Atigarvitā, exceedingly proud (name 508). Bhāskararāya also explains the grammar: garvita means ‘in whom garva has arisen’, with the suffix -ita that is taught for words like tārakā.",
+    "hi": "चक्र वाले नामों में स्तोत्र ने उन्हें अतिगर्विता, अत्यन्त गर्व से युक्त (नाम 508), कहा था। भास्करराय यहाँ व्याकरण भी बताते हैं: ‘गर्वित’ का अर्थ है ‘जिसमें गर्व उत्पन्न हुआ हो’, और इसमें ‘इतच्’ प्रत्यय है, जो ‘तारका’ आदि शब्दों के लिए विहित है।"
+  },
+  "commentary": {
+    "sanskrit": "गर्वो विश्वनिर्माणविषयिणी पराहन्ता सास्याः सञ्जाता ।",
+    "translation": {
+      "en": "Garva is the supreme I-ness whose object is the making of the universe; it has arisen in her.",
+      "hi": "गर्व है विश्व-निर्माण को विषय बनाने वाली परा अहंता; वह इनमें उत्पन्न हुई है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 856 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The suffix rule is Pāṇini 5.2.36 (तदस्य सञ्जातं तारकादिभ्य इतच्); Bhāskararāya cites only ‘tārakādi’. The last sentence of the inner layer is a reflection." }
+}

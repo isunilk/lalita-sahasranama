@@ -1,0 +1,44 @@
+{
+  "number": 861,
+  "verse": 160,
+  "slug": "kantardha-vigraha",
+  "devanagari": "कान्तार्धविग्रहा",
+  "iastSplit": "Kāntārdha-vigrahā",
+  "archana": "ॐ कान्तार्धविग्रहायै नमः",
+  "syllables": ["kān", "tār", "dha", "vig", "ra", "hā"],
+  "words": [
+    { "sa": "कान्त", "meaning": { "en": "beloved, husband; here Śiva", "hi": "प्रियतम, पति; यहाँ शिव" } },
+    { "sa": "अर्ध", "meaning": { "en": "half", "hi": "आधा" } },
+    { "sa": "विग्रह", "meaning": { "en": "body, form", "hi": "शरीर, विग्रह" } }
+  ],
+  "meaning": {
+    "en": "Whose other half is her beloved Śiva",
+    "hi": "जिनका आधा शरीर स्वयं प्रियतम शिव हैं"
+  },
+  "explanation": {
+    "en": "Kānta is the beloved, here Paraśiva. Half of her body is her beloved himself; or, read the other way, her body is half of his. Both describe the one form in which Śiva and the Devī share a single body.",
+    "hi": "कान्त प्रियतम है, यहाँ परशिव। उनके शरीर का आधा भाग स्वयं उनके प्रियतम हैं; या दूसरी ओर से पढ़ें तो उनका शरीर प्रियतम का आधा भाग है। दोनों उसी एक रूप का वर्णन करते हैं जिसमें शिव और देवी एक ही शरीर साझा करते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya also gives a letter reading: the ‘end of ka’ is kha, which signifies the sky, and ardha means simply a part, so heaven is one part of her body. He supports it from the Puruṣa Sūkta: all beings are a quarter of him, and three quarters are immortal in heaven. Read either way, nothing lies outside her body, neither Śiva nor heaven.",
+    "hi": "भास्करराय एक अक्षर-आधारित अर्थ भी देते हैं: ‘क का अन्त’ ‘ख’ है, जो आकाश (द्युलोक) का बोधक है, और ‘अर्ध’ का अर्थ केवल एक भाग है; अतः द्युलोक उनके शरीर का एक भाग है। इसके समर्थन में वे पुरुषसूक्त देते हैं: सारे प्राणी उसका एक पाद हैं, और तीन पाद द्युलोक में अमृत हैं। किसी भी प्रकार पढ़ें, उनके शरीर से बाहर कुछ नहीं: न शिव, न द्युलोक।"
+  },
+  "story": {
+    "en": "This is the Ardhanārīśvara form, in which Śiva and Śakti appear as the right and left halves of one body. Bhāskararāya spends most of his note on grammar, arguing from Patañjali’s Mahābhāṣya and Kaiyaṭa that ardha here means an exact half.",
+    "hi": "यह अर्धनारीश्वर रूप है, जिसमें शिव और शक्ति एक ही शरीर के दाएँ और बाएँ आधे भाग के रूप में दिखाई देते हैं। भास्करराय अपनी टीका का अधिकांश भाग व्याकरण को देते हैं, और पतञ्जलि के महाभाष्य तथा कैयट के आधार पर सिद्ध करते हैं कि यहाँ ‘अर्ध’ का अर्थ ठीक आधा है।"
+  },
+  "commentary": {
+    "sanskrit": "कान्तः परशिव एवार्धविग्रहो यस्याः । कान्तस्यार्धं कान्तार्धम्, कान्तार्धं विग्रहो यस्या इति वा ।",
+    "translation": {
+      "en": "She whose half-body is her beloved, Paraśiva himself. Or: kāntārdha is the half of the beloved, and she is the one whose body is that half.",
+      "hi": "जिनका अर्धविग्रह (आधा शरीर) स्वयं कान्त, परशिव, हैं। अथवा: कान्त का आधा ‘कान्तार्ध’ है, और जिनका शरीर वही आधा है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 861 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s grammatical argument (on the position and gender of अर्ध in the compound, with Pāṇini’s अर्धं नपुंसकम्, the Mahābhāṣya, Kaiyaṭa and Piṅgala) is summarised. The Puruṣa Sūkta line is पादोऽस्य सर्वा भूतानि त्रिपादस्यामृतं दिवि. The right–left iconography in the story layer is the standard one, not stated by him. The last sentence of the inner layer is a reflection." }
+}

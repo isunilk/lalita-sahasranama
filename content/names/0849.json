@@ -1,0 +1,43 @@
+{
+  "number": 849,
+  "verse": 158,
+  "slug": "uddama-vaibhava",
+  "devanagari": "उद्दामवैभवा",
+  "iastSplit": "Uddāma-vaibhavā",
+  "archana": "ॐ उद्दामवैभवायै नमः",
+  "syllables": ["ud", "dā", "ma", "vai", "bha", "vā"],
+  "words": [
+    { "sa": "उद्दाम", "meaning": { "en": "unbounded; literally, beyond the rope", "hi": "उद्दाम, बन्धन-रहित" } },
+    { "sa": "वैभव", "meaning": { "en": "glory, might, splendour", "hi": "वैभव, ऐश्वर्य" } }
+  ],
+  "meaning": {
+    "en": "Whose glory knows no bounds",
+    "hi": "जिनका वैभव असीम है"
+  },
+  "explanation": {
+    "en": "Dāma is a rope that ties, and ud-dāma is what has slipped beyond it. Her vaibhava, her glory and might, has no tether: no measure can say ‘this much and no more’.",
+    "hi": "दाम बाँधने वाली रस्सी है, और उद्दाम वह है जो उससे परे निकल गया हो। उनके वैभव, अर्थात् महिमा और सामर्थ्य, की कोई रस्सी नहीं: कोई माप यह नहीं कह सकता कि ‘बस इतना, इससे अधिक नहीं’।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only this sense; he offers no hidden meaning. Every measure is itself a kind of rope, and her glory is beyond every rope.",
+    "hi": "भास्करराय केवल यही अर्थ देते हैं; कोई गूढ़ अर्थ नहीं बताते। हर माप अपने आप में एक प्रकार की रस्सी है, और उनका वैभव हर रस्सी से परे है।"
+  },
+  "story": {
+    "en": "With the name before it, this half-line praises her fame and her glory together. In the verse the two are joined by sandhi: udārakīrtir uddāmavaibhavā.",
+    "hi": "पिछले नाम के साथ यह पंक्ति उनकी कीर्ति और वैभव की एक साथ स्तुति करती है। श्लोक में दोनों सन्धि से जुड़े हैं: उदारकीर्तिरुद्दामवैभवा।"
+  },
+  "commentary": {
+    "sanskrit": "दाम बन्धनरज्जुः परिच्छेत्री तदुत्क्रान्तमुद्दामेयत्तानवच्छिन्नं वैभवं यस्याः ।",
+    "translation": {
+      "en": "Dāma is a binding rope, that which sets limits; she whose glory has gone beyond it, uddāma, not bounded by any ‘this much’.",
+      "hi": "दाम बाँधने वाली रस्सी है, जो सीमा बाँधती है; जिनका वैभव उसे लाँघ गया है, उद्दाम है, किसी इयत्ता (‘इतनेपन’) से सीमित नहीं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 849 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The second sentence of the inner layer is a reflection." }
+}

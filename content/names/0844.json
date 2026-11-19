@@ -1,0 +1,43 @@
+{
+  "number": 844,
+  "verse": 158,
+  "slug": "chhanda-sara",
+  "devanagari": "छन्दःसारा",
+  "iastSplit": "Chandaḥ-sārā",
+  "archana": "ॐ छन्दःसारायै नमः",
+  "syllables": ["chan", "daḥ", "sā", "rā"],
+  "words": [
+    { "sa": "छन्दस्", "meaning": { "en": "the Veda; metre", "hi": "वेद; छन्द" } },
+    { "sa": "सार", "meaning": { "en": "essence", "hi": "सार, निचोड़" } }
+  ],
+  "meaning": {
+    "en": "The essence of the Vedas and their metres",
+    "hi": "वेदों और छन्दों का सार"
+  },
+  "explanation": {
+    "en": "Chandas means the Veda, and also the metres in which it is composed. Sāra is essence, what remains when all else is pressed out. Bhāskararāya says the Upaniṣads are the part of the Veda that distils her nature.",
+    "hi": "छन्दस् का अर्थ है वेद, और वे छन्द भी जिनमें वेद रचे गए हैं। सार वह है जो बाकी सब निचोड़ देने पर बचता है। भास्करराय कहते हैं कि वेद का उपनिषद्-भाग ही उनके स्वरूप का सार है।"
+  },
+  "inner": {
+    "en": "Among the metres the Gāyatrī stands first; its essence is the Gāyatrī mantra, and the essence of that, he says, is the Pañcadaśī, her fifteen-syllabled mantra. He quotes his own Varivasyārahasya, that the Veda speaks of this vidyā only in veiled words. He also reads chandas as ‘wish’: her essence is will, for she is icchā-śakti, the power of will.",
+    "hi": "छन्दों में गायत्री प्रथम है; उसका सार गायत्री मन्त्र है, और उसका भी सार, वे कहते हैं, पञ्चदशी है, उनका पन्द्रह अक्षरों वाला मन्त्र। वे अपने ही ग्रन्थ वरिवस्यारहस्य का उद्धरण देते हैं कि वेद इस विद्या की बात केवल सांकेतिक शब्दों में करता है। वे ‘छन्दस्’ को ‘अभिलाषा’ के अर्थ में भी पढ़ते हैं: उनका सार इच्छा है, क्योंकि वे इच्छाशक्ति-स्वरूपा हैं।"
+  },
+  "story": {
+    "en": "This verse opens with three names on essence: of chandas, of śāstra and of mantra. Bhāskararāya notes that sāra is not only masculine, and that as an adjective meaning ‘best’ it takes the gender of what it describes, so the feminine sārā is correct in all three.",
+    "hi": "यह श्लोक सार पर तीन नामों से आरम्भ होता है: छन्दस् का, शास्त्र का और मन्त्र का। भास्करराय बताते हैं कि ‘सार’ शब्द केवल पुल्लिंग नहीं है, और ‘श्रेष्ठ’ के अर्थ में विशेषण होने पर वह विशेष्य का लिंग ले लेता है; इसलिए तीनों नामों में स्त्रीलिंग ‘सारा’ ठीक है।"
+  },
+  "commentary": {
+    "sanskrit": "गायत्र्यादिछन्दसु निष्कृष्टं रूपं गायत्रीमन्त्रस्तस्यापि निष्कर्षः पञ्चदशी ।",
+    "translation": {
+      "en": "Among metres such as the Gāyatrī, the distilled form is the Gāyatrī mantra; and the distillate of that is the Pañcadaśī.",
+      "hi": "गायत्री आदि छन्दों का निचोड़ा हुआ रूप गायत्री मन्त्र है, और उसका भी निचोड़ पञ्चदशी है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 844 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. This name touches the Pañcadaśī: meaning only is given, and the coded Atharvaveda verse Bhāskararāya quotes (कामो योनिः …) is not reproduced. His further readings (chandas as Piṅgala’s prosody, and as स्वैराचार, the free conduct of the perfected) are summarised or left out. The edition prints गायत्र्यादिछन्दसु (for -छन्दःसु); the quotation keeps it as printed." }
+}

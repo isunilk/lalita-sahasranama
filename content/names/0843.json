@@ -1,0 +1,44 @@
+{
+  "number": 843,
+  "verse": 157,
+  "slug": "bhava-chakra-pravartini",
+  "devanagari": "भवचक्रप्रवर्तिनी",
+  "iastSplit": "Bhava-cakra-pravartinī",
+  "archana": "ॐ भवचक्रप्रवर्तिन्यै नमः",
+  "syllables": ["bha", "va", "cak", "rap", "ra", "var", "ti", "nī"],
+  "words": [
+    { "sa": "भव", "meaning": { "en": "worldly existence", "hi": "भव, संसार" } },
+    { "sa": "चक्र", "meaning": { "en": "wheel, circle", "hi": "चक्र, पहिया" } },
+    { "sa": "प्रवर्तिनी", "meaning": { "en": "who sets in motion", "hi": "चलाने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who turns the wheel of worldly existence",
+    "hi": "संसार-चक्र को चलाने वाली"
+  },
+  "explanation": {
+    "en": "Bhava-cakra is the wheel of worldly existence, the round of birth, growth and decay, and she sets it turning. Bhāskararāya quotes the Manusmṛti: pervading all beings with five forms, she keeps them ever revolving like a wheel through birth, growth and decay.",
+    "hi": "भवचक्र संसार का पहिया है, जन्म, वृद्धि और क्षय का घेरा, और वे इसे घुमाती हैं। भास्करराय मनुस्मृति का श्लोक उद्धृत करते हैं: पाँच रूपों से सब प्राणियों में व्याप्त होकर वे उन्हें जन्म, वृद्धि और क्षय के द्वारा निरन्तर चक्र की तरह घुमाती रहती हैं।"
+  },
+  "inner": {
+    "en": "He then gives inward readings. The wheel may be the anāhata, the heart centre, because Bhava, Śiva, dwells there; or the circuits of the Śrīcakra, from the bindu out to the three outer squares; or the mind, the wheel of Bhava, as the Viṣṇu Purāṇa calls the restless mind the discus in Viṣṇu’s hand. The power that binds by turning the wheel is the same power that turns the mind back toward her.",
+    "hi": "फिर वे भीतरी अर्थ देते हैं। यह चक्र अनाहत, अर्थात् हृदय-चक्र, हो सकता है, क्योंकि वहाँ भव अर्थात् शिव का निवास है; या श्रीचक्र के घेरे, बिन्दु से लेकर बाहर के तीन भूपुरों तक; या स्वयं मन, भव का चक्र, क्योंकि विष्णु पुराण चंचल मन को विष्णु के हाथ में स्थित चक्र कहता है। जो शक्ति चक्र घुमाकर बाँधती है, वही मन को उनकी ओर वापस भी मोड़ती है।"
+  },
+  "story": {
+    "en": "With the two names before it, this completes the half-verse’s play on bhāva and bhava: she knows every state, she heals the sickness of existence, and she keeps its wheel turning.",
+    "hi": "पिछले दो नामों के साथ यह पंक्ति का ‘भाव’ और ‘भव’ वाला खेल पूरा करता है: वे हर भाव को जानती हैं, संसार के रोग को मिटाती हैं, और उसके चक्र को चलाती भी हैं।"
+  },
+  "commentary": {
+    "sanskrit": "भवचक्रं संसारमण्डलं प्रवर्तयति, भवचक्रवत्प्रवर्तयतीति वा ।",
+    "translation": {
+      "en": "She sets in motion the bhava-cakra, the circle of worldly existence; or she makes all things turn as the wheel of existence turns.",
+      "hi": "वे भवचक्र, अर्थात् संसार-मण्डल, को चलाती हैं; अथवा सबको भवचक्र की भाँति घुमाती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 843 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Manusmṛti verse is 12.124 in standard editions, where it reads एष (masculine); the edition prints एषा. Bhāskararāya’s discussion of why the anāhata, which has petals but no angles, may be called a cakra is summarised. This is a cakra reading; meaning only is given. The last sentence of the inner layer is a reflection." }
+}

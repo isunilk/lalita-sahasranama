@@ -1,0 +1,44 @@
+{
+  "number": 862,
+  "verse": 161,
+  "slug": "karya-karana-nirmukta",
+  "devanagari": "कार्यकारणनिर्मुक्ता",
+  "iastSplit": "Kārya-kāraṇa-nirmuktā",
+  "archana": "ॐ कार्यकारणनिर्मुक्तायै नमः",
+  "syllables": ["kār", "ya", "kā", "ra", "ṇa", "nir", "muk", "tā"],
+  "words": [
+    { "sa": "कार्य", "meaning": { "en": "effect", "hi": "कार्य" } },
+    { "sa": "कारण", "meaning": { "en": "cause", "hi": "कारण" } },
+    { "sa": "निर्मुक्ता", "meaning": { "en": "wholly free", "hi": "पूर्णतः मुक्त" } }
+  ],
+  "meaning": {
+    "en": "Free from both effect and cause",
+    "hi": "कार्य और कारण दोनों से मुक्त"
+  },
+  "explanation": {
+    "en": "Kārya is effect and kāraṇa is cause. Bhāskararāya names them in Sāṅkhya terms: the cause is mūlaprakṛti, primal nature, and the effects are mahat and the other principles that unfold from it. She is free of both.",
+    "hi": "कार्य परिणाम है और कारण उसका हेतु। भास्करराय इन्हें सांख्य की भाषा में बताते हैं: कारण है मूलप्रकृति, और कार्य हैं महत् आदि तत्त्व जो उससे विकसित होते हैं। वे दोनों से मुक्त हैं।"
+  },
+  "inner": {
+    "en": "His reason: in pure consciousness, cause and effect have no ultimate reality. He cites the Upaniṣad, ‘for him there is neither effect nor instrument’. The whole chain of causes belongs to what appears; she is the consciousness in which it appears, untouched by it.",
+    "hi": "उनका तर्क: शुद्ध चैतन्य में कार्य और कारण का परमार्थतः अस्तित्व ही नहीं है। वे उपनिषद् का वचन देते हैं, ‘उसका न कोई कार्य है, न कोई करण’। कारणों की पूरी शृंखला दृश्य की है; वे वह चेतना हैं जिसमें यह दृश्य प्रकट होता है, और उससे अछूती रहती हैं।"
+  },
+  "story": {
+    "en": "Earlier the hymn called her Mūlaprakṛti, primal nature itself (name 397); here she is declared free even of that, the cause of all. Both are true: she appears as the world’s cause, and in truth she is beyond causing.",
+    "hi": "पहले स्तोत्र ने उन्हें मूलप्रकृति, स्वयं आदि प्रकृति, कहा था (नाम 397); यहाँ उन्हें उससे भी, सबके कारण से भी, मुक्त कहा गया है। दोनों सत्य हैं: वे जगत् के कारण रूप में प्रकट होती हैं, और तत्त्वतः कारण-भाव से परे हैं।"
+  },
+  "commentary": {
+    "sanskrit": "कार्याणि महत्त्वादीनि कारणं मूलप्रकृतिः तैर्विनिर्मुक्ता । चैतन्ये तेषां परमार्थतोऽभावात् ।",
+    "translation": {
+      "en": "The effects are mahat and the other principles, the cause is mūlaprakṛti, primal nature; she is wholly free of them, because in consciousness they do not exist in ultimate truth.",
+      "hi": "कार्य हैं महत् आदि तत्त्व, कारण है मूलप्रकृति; वे इनसे पूर्णतः मुक्त हैं, क्योंकि चैतन्य में परमार्थ रूप से इनका अभाव है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 862 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Upaniṣad line न तस्य कार्यं करणं च विद्यते is Śvetāśvatara 6.8 (there करणम्, ‘instrument’, not कारणम्). The last sentence of the inner layer and the closing sentence of the story are reflections." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 832,
+  "verse": 156,
+  "slug": "prana-datri",
+  "devanagari": "प्राणदात्री",
+  "iastSplit": "Prāṇa-dātrī",
+  "archana": "ॐ प्राणदात्र्यै नमः",
+  "syllables": ["prā", "ṇa", "dāt", "rī"],
+  "words": [
+    { "sa": "प्राण", "meaning": { "en": "life; also the senses", "hi": "प्राण; इन्द्रियाँ भी" } },
+    { "sa": "दात्री", "meaning": { "en": "giver", "hi": "देने वाली" } }
+  ],
+  "meaning": {
+    "en": "Giver of life to the whole world",
+    "hi": "सम्पूर्ण जगत् को प्राण देने वाली"
+  },
+  "explanation": {
+    "en": "She gives prāṇa, life, and so keeps the whole world alive. Bhāskararāya’s first gloss is simply this: she is the one who makes all the world live.",
+    "hi": "वे प्राण, अर्थात् जीवन, देती हैं और इस प्रकार सारे जगत् को जीवित रखती हैं। भास्करराय का पहला अर्थ यही है: वे सम्पूर्ण जगत् को जिलाने वाली हैं।"
+  },
+  "inner": {
+    "en": "His second reading again takes prāṇa as the senses: she gives the eleven, the five of knowing, the five of action and the mind. He supports it from the Upaniṣad line ‘when the chief breath departs, all the prāṇas depart after it’, where prāṇas plainly means the senses, and from the Brahmasūtra discussion of their number. Every power to see, hear, move and think is her gift, given afresh in each moment.",
+    "hi": "उनका दूसरा अर्थ फिर प्राण को इन्द्रिय मानता है: वे ग्यारह इन्द्रियाँ देती हैं, पाँच ज्ञानेन्द्रियाँ, पाँच कर्मेन्द्रियाँ और मन। इसके समर्थन में वे उपनिषद् का वचन देते हैं, ‘मुख्य प्राण के निकलने पर सारे प्राण उसके पीछे निकल जाते हैं’, जहाँ ‘प्राण’ स्पष्ट ही इन्द्रियों के लिए है, और ब्रह्मसूत्र का वह प्रसंग भी जो इनकी संख्या का निर्णय करता है। देखने, सुनने, चलने और सोचने की हर शक्ति उनका दान है, जो हर क्षण नया मिलता है।"
+  },
+  "story": {
+    "en": "Paired with the name before it: she rules the breaths and she gives them. Bhāskararāya’s gloss, ‘she who makes all the world live’, recalls the earlier name Prāṇadā (name 783).",
+    "hi": "यह पिछले नाम के साथ जोड़ी बनाता है: वे प्राणों की स्वामिनी भी हैं और उन्हें देने वाली भी। भास्करराय का अर्थ, ‘सम्पूर्ण जगत् को जिलाने वाली’, पहले आए नाम प्राणदा (नाम 783) की याद दिलाता है।"
+  },
+  "commentary": {
+    "sanskrit": "प्राणानां दात्री सर्वजगज्जीवयित्री एकादशेन्द्रियाणां दात्री वा ।",
+    "translation": {
+      "en": "Giver of the prāṇas: she who makes the whole world live; or the giver of the eleven senses.",
+      "hi": "प्राणों की दात्री: सम्पूर्ण जगत् को जिलाने वाली; अथवा ग्यारह इन्द्रियों को देने वाली।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 832 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Upaniṣad line प्राणमनूत्क्रामन्तं सर्वे प्राणा अनूत्क्रामन्ति is Bṛhadāraṇyaka Upaniṣad 4.4.2 (Bhāskararāya says only ‘śruti’); the Brahmasūtra reference (सप्तगतेर्विशेषितत्वाच्च, in the second adhyāya) is summarised. The list of the eleven senses is the standard one; he gives only the number. The last sentence of the inner layer is a reflection." }
+}

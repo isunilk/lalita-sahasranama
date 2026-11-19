@@ -1,0 +1,43 @@
+{
+  "number": 836,
+  "verse": 156,
+  "slug": "vira-mata",
+  "devanagari": "वीरमाता",
+  "iastSplit": "Vīra-mātā",
+  "archana": "ॐ वीरमात्रे नमः",
+  "syllables": ["vī", "ra", "mā", "tā"],
+  "words": [
+    { "sa": "वीर", "meaning": { "en": "hero; a foremost worshipper", "hi": "वीर; श्रेष्ठ उपासक" } },
+    { "sa": "मातृ", "meaning": { "en": "mother", "hi": "माता" } }
+  ],
+  "meaning": {
+    "en": "Mother of heroes",
+    "hi": "वीरों की माता"
+  },
+  "explanation": {
+    "en": "She is the mother of vīras, heroes. Bhāskararāya names two kinds: the foremost among her worshippers, and warriors who fell in battle facing the enemy. She is their mother because she works their good.",
+    "hi": "वे वीरों की माता हैं। भास्करराय दो प्रकार के वीर बताते हैं: उनके उपासकों में अग्रणी, और वे योद्धा जो शत्रु के सामने लड़ते हुए रण में गिरे। उनका हित करने के कारण वे उनकी माता हैं।"
+  },
+  "inner": {
+    "en": "The first gloss is the inward one: the hero is the worshipper who bears the yoke of her worship, a dhurandhara, to the end. Courage on the inner path, as on the battlefield, is born of her and kept by her.",
+    "hi": "पहला अर्थ ही आन्तरिक अर्थ है: वीर वह उपासक है जो उनकी उपासना का जुआ अन्त तक उठाता है, अर्थात् धुरन्धर। भीतर के मार्ग पर भी, रणभूमि की तरह, साहस उन्हीं से जन्म लेता है और उन्हीं से पलता है।"
+  },
+  "story": {
+    "en": "Bhāskararāya also tells a Padma Purāṇa episode. Śiva praises his attendant Vīraka as dear to his heart; the Devī longs for such a son; Śiva gives Vīraka to her as her son, and the mountain’s daughter, full of joy, sends her friend Vijayā to bring him at once.",
+    "hi": "भास्करराय पद्म पुराण का एक प्रसंग भी सुनाते हैं। शिव अपने गण वीरक की प्रशंसा करते हैं कि वह उनके हृदय को प्रिय है; देवी ऐसे पुत्र की लालसा प्रकट करती हैं; शिव कहते हैं कि यही तुम्हारा पुत्र हो, और गिरिराज-कन्या आनन्द से उत्सुक होकर अपनी सखी विजया को तुरन्त वीरक को लाने भेजती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "वीरा उपासकधुरन्धरा, रणे अभिमुखे हता वा । तेषां माता जननी हितकर्तृत्वात्",
+    "translation": {
+      "en": "Vīras are the foremost of her worshippers, or those slain in battle while facing the foe; she is their mother, their begetter, because she works their good.",
+      "hi": "वीर हैं उपासकों में धुरन्धर, अथवा वे जो रण में सम्मुख लड़ते हुए मारे गए; उनका हित करने के कारण वे उनकी माता, जननी, हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 836 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya also gives a reading from the Viśva lexicon, वीर = a vessel for wine (‘she who measures it’), not reproduced here. The Vīraka episode is summarised from the Padma Purāṇa verses he quotes. The second sentence of the inner layer is a reflection." }
+}

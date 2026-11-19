@@ -1,0 +1,44 @@
+{
+  "number": 855,
+  "verse": 160,
+  "slug": "gagananta-stha",
+  "devanagari": "गगनान्तस्था",
+  "iastSplit": "Gaganānta-sthā",
+  "archana": "ॐ गगनान्तस्थायै नमः",
+  "syllables": ["ga", "ga", "nān", "tas", "thā"],
+  "words": [
+    { "sa": "गगन", "meaning": { "en": "sky, space", "hi": "गगन, आकाश" } },
+    { "sa": "अन्त", "meaning": { "en": "within; also the end", "hi": "भीतर; अन्त भी" } },
+    { "sa": "स्था", "meaning": { "en": "abiding", "hi": "स्थित" } }
+  ],
+  "meaning": {
+    "en": "Who abides within space, and remains at its end",
+    "hi": "आकाश के भीतर, और उसके अन्त में भी, स्थित"
+  },
+  "explanation": {
+    "en": "Gagana is the sky, space. She abides within it, Bhāskararāya says, and he names three spaces: the small space in the heart, the space of the elements, and the supreme space.",
+    "hi": "गगन आकाश है। भास्करराय कहते हैं कि वे उसके भीतर स्थित हैं, और वे तीन आकाश गिनाते हैं: हृदय का सूक्ष्म आकाश (दहराकाश), भूतों का आकाश, और परम आकाश।"
+  },
+  "inner": {
+    "en": "The small space in the heart is where the Upaniṣads place the Self, and the supreme space is Brahman; she stands within all three, as the Upaniṣad says the One stands in heaven, still as a tree. And since space itself ends at dissolution, he adds a second sense: she remains even at the end of space.",
+    "hi": "हृदय का दहराकाश वह स्थान है जहाँ उपनिषद् आत्मा को बताते हैं, और परम आकाश ब्रह्म है; वे तीनों के भीतर स्थित हैं, जैसे उपनिषद् कहता है कि वह एक, वृक्ष की भाँति अचल, द्युलोक में स्थित है। और क्योंकि प्रलय में आकाश का भी अन्त होता है, वे दूसरा अर्थ जोड़ते हैं: आकाश के अन्त में भी वे बनी रहती हैं।"
+  },
+  "story": {
+    "en": "Some nāmāvalis write the archana as gaganāntaḥsthā, keeping the visarga of antaḥ, ‘within’. The verse reads gaganāntasthā, and Bhāskararāya takes it both as ‘within space’ and as ‘at the end of space’.",
+    "hi": "कुछ नामावलियों में अर्चना ‘गगनान्तःस्था’ लिखी मिलती है, जिसमें ‘अन्तः’ (भीतर) का विसर्ग बना रहता है। श्लोक में ‘गगनान्तस्था’ है, और भास्करराय इसे ‘आकाश के भीतर’ और ‘आकाश के अन्त में’, दोनों अर्थों में पढ़ते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "गगनस्य दहराकाशस्य भूताकाशस्य पराकाशस्य वान्तर्मध्ये तिष्ठतीति ।",
+    "translation": {
+      "en": "She abides antar, in the midst, of gagana: the small space of the heart, the space of the elements, or the supreme space.",
+      "hi": "वे गगन के, अर्थात् दहराकाश, भूताकाश या पराकाश के, अन्तर् अर्थात् मध्य में स्थित हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 855 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Archana corrected from the web list’s गगनान्तःस्थायै to गगनान्तस्थायै, to match the verse; both spellings are possible for antaḥ + sthā (the visarga may drop before s + consonant). The word list gives अन्त to cover both of Bhāskararāya’s senses. The Upaniṣad line वृक्ष इव स्तब्धो दिवि तिष्ठत्येकः is Śvetāśvatara 3.9. He also reads the name as a code for the seed-syllables of the five elements; not reproduced." }
+}

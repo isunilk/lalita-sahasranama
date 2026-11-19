@@ -1,0 +1,44 @@
+{
+  "number": 840,
+  "verse": 157,
+  "slug": "mula-vigraha-rupini",
+  "devanagari": "मूलविग्रहरूपिणी",
+  "iastSplit": "Mūla-vigraha-rūpiṇī",
+  "archana": "ॐ मूलविग्रहरूपिण्यै नमः",
+  "syllables": ["mū", "la", "vig", "ra", "ha", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "मूल", "meaning": { "en": "root, source", "hi": "मूल, जड़" } },
+    { "sa": "विग्रह", "meaning": { "en": "form, embodied form", "hi": "विग्रह, साकार रूप" } },
+    { "sa": "रूपिणी", "meaning": { "en": "having the form of", "hi": "स्वरूपा" } }
+  ],
+  "meaning": {
+    "en": "Whose form is the root form of all the goddesses",
+    "hi": "समस्त शक्तियों के मूल विग्रह-स्वरूपा"
+  },
+  "explanation": {
+    "en": "Mūla is root and vigraha is an embodied form. Bhāskararāya says the root form is that of Rājarājeśvarī, from which goddesses such as Bālā and Bagalā arise, and that root form is her own.",
+    "hi": "मूल का अर्थ है जड़, और विग्रह का साकार रूप। भास्करराय कहते हैं कि वह मूल रूप राजराजेश्वरी का है, जिससे बाला, बगला आदि शक्तियाँ उत्पन्न होती हैं, और वही मूल रूप उनका अपना है।"
+  },
+  "inner": {
+    "en": "He cites the ten sūtras ascribed to Gauḍapāda, which show the one vidyā as threefold, Śāmbhavī, Vidyā and Śyāmā, and each of these as the source of many śaktis. The many goddesses of the tantras are branches; Lalitā as Rājarājeśvarī is the root from which they grow.",
+    "hi": "वे गौडपाद के नाम से प्रसिद्ध दस सूत्रों का प्रमाण देते हैं, जो एक ही विद्या को शाम्भवी, विद्या और श्यामा, इन तीन रूपों में दिखाते हैं, और यह भी कि इनमें से प्रत्येक अनेक शक्तियों को जन्म देती है। तन्त्रों की अनेक देवियाँ शाखाएँ हैं; राजराजेश्वरी के रूप में ललिता वह मूल हैं जिससे वे सब उगती हैं।"
+  },
+  "story": {
+    "en": "Rājarājeśvarī, sovereign over the kings of kings, is Lalitā in her ruling form, and the hymn has already called her by this name (name 684). Bālā, the goddess in the form of a girl, and Bagalā, one of the Mahāvidyās, are among the goddesses Bhāskararāya sees growing from that root.",
+    "hi": "राजराजेश्वरी, राजाओं के राजाओं की भी ईश्वरी, अपने शासक रूप में ललिता ही हैं, और स्तोत्र उन्हें पहले भी इसी नाम से पुकार चुका है (नाम 684)। कन्या रूप वाली देवी बाला, और महाविद्याओं में से एक बगला, उन देवियों में हैं जिन्हें भास्करराय उसी मूल से उगता हुआ देखते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "बालाबगलादिशक्तीनां मूलभूतो यो राजराजेश्वरीविग्रहः स एव रूपमस्याः ।",
+    "translation": {
+      "en": "The form of Rājarājeśvarī, which is the root of śaktis such as Bālā and Bagalā, is itself her form.",
+      "hi": "बाला, बगला आदि शक्तियों का मूल जो राजराजेश्वरी-विग्रह है, वही इनका रूप है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 840 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The ten sūtras (beginning सैव विद्या and ending स्वयमूर्ध्वाकारेण) are cited by Bhāskararāya as Gauḍapāda’s; their content is summarised. The last sentence of the inner layer is a reflection." }
+}

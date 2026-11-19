@@ -1,0 +1,43 @@
+{
+  "number": 835,
+  "verse": 156,
+  "slug": "vivikta-stha",
+  "devanagari": "विविक्तस्था",
+  "iastSplit": "Vivikta-sthā",
+  "archana": "ॐ विविक्तस्थायै नमः",
+  "syllables": ["vi", "vik", "tas", "thā"],
+  "words": [
+    { "sa": "विविक्त", "meaning": { "en": "secluded and pure; also discerning", "hi": "एकान्त और पवित्र; विवेकी भी" } },
+    { "sa": "स्था", "meaning": { "en": "dwelling, abiding", "hi": "स्थित, रहने वाली" } }
+  ],
+  "meaning": {
+    "en": "Dwelling in places pure and solitary",
+    "hi": "पवित्र और एकान्त स्थान में निवास करने वाली"
+  },
+  "explanation": {
+    "en": "Vivikta means set apart: a place that is solitary, and also one that is pure. Bhāskararāya cites the Amarakośa for both senses and says that here they go together: solitude in a clean place. She is felt most where the crowd falls away.",
+    "hi": "विविक्त का अर्थ है अलग किया हुआ: ऐसा स्थान जो एकान्त हो, और पवित्र भी। भास्करराय अमरकोश से दोनों अर्थ बताते हैं और कहते हैं कि यहाँ दोनों साथ अभिप्रेत हैं: पवित्र स्थान में एकान्त। जहाँ भीड़ छँट जाती है, वहीं उनका अनुभव सबसे गहरा होता है।"
+  },
+  "inner": {
+    "en": "His second reading turns inward: she dwells in those whose habit is viveka, discerning the Self from the not-Self. The quiet, clean place she lives in is finally the discerning mind.",
+    "hi": "उनका दूसरा अर्थ भीतर की ओर मुड़ता है: वे उन लोगों में निवास करती हैं जिनका स्वभाव विवेक है, अर्थात् आत्मा और अनात्मा का भेद पहचानना। अन्ततः वह शान्त, पवित्र स्थान जहाँ वे रहती हैं, विवेकशील मन ही है।"
+  },
+  "story": {
+    "en": "Bhāskararāya cites the Hārīta Smṛti: wherever people are not seen, the earth is pure everywhere. He adds that her presence is felt where the press of impure crowds has been kept away.",
+    "hi": "भास्करराय हारीत स्मृति का वचन देते हैं: जहाँ लोग दिखाई न दें, वहाँ धरती सर्वत्र पवित्र है। वे यह भी कहते हैं कि अपवित्र भीड़ का जमघट जहाँ दूर रहता है, वहीं उनके प्रकट होने का अनुभव होता है।"
+  },
+  "commentary": {
+    "sanskrit": "आत्मानात्मविवेकशीलेषु तिष्ठतीति वा ।",
+    "translation": {
+      "en": "Or: she dwells in those whose habit is to discern the Self from the not-Self.",
+      "hi": "अथवा: वे उनमें निवास करती हैं जिनका स्वभाव आत्मा और अनात्मा का विवेक करना है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 835 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The last sentence of the explanation and of the inner layer are reflections." }
+}

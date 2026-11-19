@@ -1,0 +1,44 @@
+{
+  "number": 864,
+  "verse": 161,
+  "slug": "kanat-kanaka-tatanka",
+  "devanagari": "कनत्कनकताटङ्का",
+  "iastSplit": "Kanat-kanaka-tāṭaṅkā",
+  "archana": "ॐ कनत्कनकताटङ्कायै नमः",
+  "syllables": ["ka", "nat", "ka", "na", "ka", "tā", "ṭaṅ", "kā"],
+  "words": [
+    { "sa": "कनत्", "meaning": { "en": "shining", "hi": "दमकता" } },
+    { "sa": "कनक", "meaning": { "en": "gold", "hi": "सोना, कनक" } },
+    { "sa": "ताटङ्क", "meaning": { "en": "large round ear-ornament", "hi": "ताटंक, कर्णाभूषण" } }
+  ],
+  "meaning": {
+    "en": "Wearing shining golden earrings",
+    "hi": "दमकते स्वर्ण-ताटंक धारण करने वाली"
+  },
+  "explanation": {
+    "en": "Tāṭaṅkas are large round ornaments worn in the ears. Hers are of gold, and they shine; the sound of the name, kanat-kanaka, itself glitters.",
+    "hi": "ताटंक कानों में पहने जाने वाले बड़े गोल आभूषण हैं। उनके ताटंक सोने के हैं, और दमकते हैं; नाम की ध्वनि, ‘कनत्कनक’, स्वयं चमकती-सी लगती है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the literal sense here, and the name is a picture of her beauty. Earlier the hymn described her earrings as the orbs of the sun and moon (name 22); here they are simply gold, catching the light.",
+    "hi": "भास्करराय यहाँ केवल शब्दार्थ देते हैं, और यह नाम उनके सौन्दर्य का एक चित्र है। पहले स्तोत्र ने उनके ताटंकों को सूर्य और चन्द्रमा के मण्डल बताया था (नाम 22); यहाँ वे केवल सोने के हैं, जो प्रकाश में दमक उठते हैं।"
+  },
+  "story": {
+    "en": "The Saundaryalaharī (verse 28) says that Śiva did not die from the poison he swallowed because of the greatness of her tāṭaṅkas, her ornaments of married good fortune.",
+    "hi": "सौन्दर्यलहरी (श्लोक 28) कहती है कि विषपान करने वाले शिव पर काल का वश इसलिए नहीं चला कि उनके ताटंकों की महिमा थी, जो उनके सौभाग्य (सुहाग) के आभूषण हैं।"
+  },
+  "commentary": {
+    "sanskrit": "कनती दीप्यमाने कनकस्य सुवर्णमये ताटङ्के कर्णाभरणविशेषौ यस्याः ।",
+    "translation": {
+      "en": "She whose two tāṭaṅkas, a kind of ear-ornament, are kanatī, shining, and of kanaka, made of gold.",
+      "hi": "जिनके दोनों ताटंक, जो विशेष प्रकार के कर्णाभूषण हैं, कनत् अर्थात् दमकते हुए, और कनक अर्थात् सुवर्ण से बने हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 864 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense. The Saundaryalaharī reference in the story layer is context, not cited by him here; the reading of the tāṭaṅkas as the sign of saubhāgya follows the usual explanation of that verse and should be checked." }
+}

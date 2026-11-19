@@ -1,0 +1,44 @@
+{
+  "number": 842,
+  "verse": 157,
+  "slug": "bhava-roga-ghni",
+  "devanagari": "भवरोगघ्नी",
+  "iastSplit": "Bhava-roga-ghnī",
+  "archana": "ॐ भवरोगघ्न्यै नमः",
+  "syllables": ["bha", "va", "ro", "gagh", "nī"],
+  "words": [
+    { "sa": "भव", "meaning": { "en": "worldly existence, the round of birth and death", "hi": "भव, संसार" } },
+    { "sa": "रोग", "meaning": { "en": "disease", "hi": "रोग" } },
+    { "sa": "घ्नी", "meaning": { "en": "destroying", "hi": "नाश करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who destroys the disease of worldly existence",
+    "hi": "संसार रूपी रोग का नाश करने वाली"
+  },
+  "explanation": {
+    "en": "Bhava is worldly existence, the round of birth and death, and here it is called a disease. She destroys it, not by easing its pain for a while but by ending it.",
+    "hi": "भव संसार है, जन्म और मृत्यु का चक्र, और यहाँ उसे रोग कहा गया है। वे इसका नाश करती हैं, कुछ समय के लिए पीड़ा कम करके नहीं, बल्कि उसे समाप्त करके।"
+  },
+  "inner": {
+    "en": "Bhāskararāya cites two verses that call Śiva the only remedy: a Rāmāyaṇa line, ‘I see no medicine but the bull-bannered Lord’, and a Śiva Purāṇa verse, that as a medicine overcomes illness by its contrary nature, so the Lord of Śivā is the counter to the diseases of saṃsāra. A cure works through its opposite: bondage is undone only by what was never bound.",
+    "hi": "भास्करराय दो वचन उद्धृत करते हैं जो शिव को एकमात्र औषधि बताते हैं: रामायण की पंक्ति, ‘वृषध्वज के सिवा मैं कोई दूसरी औषधि नहीं देखता’, और शिव पुराण का श्लोक, कि जैसे औषधि अपने विपरीत स्वभाव से रोग को जीतती है, वैसे ही शिवा के स्वामी संसार के रोगों के प्रतिपक्षी हैं। औषधि अपने विपरीत से काम करती है: बन्धन को वही खोल सकता है जो कभी बँधा ही नहीं।"
+  },
+  "story": {
+    "en": "The picture of saṃsāra as a sickness and the Lord as its physician is common in devotional writing. Earlier the hymn called her the thunderbolt that shatters the mountain of disease (name 748).",
+    "hi": "संसार को रोग और भगवान को उसका वैद्य मानने का चित्र भक्ति-साहित्य में बहुत मिलता है। पहले स्तोत्र ने उन्हें रोग रूपी पर्वत को चूर करने वाला वज्र (नाम 748) कहा था।"
+  },
+  "commentary": {
+    "sanskrit": "भवः संसार एव रोगस्तं हन्ति",
+    "translation": {
+      "en": "Bhava, worldly existence itself, is the disease; she destroys it.",
+      "hi": "भव, अर्थात् संसार, ही रोग है; वे उसका नाश करती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 842 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya quotes the two verses about Śiva without applying them to the Devī in so many words. The last sentence of the inner layer is a reflection." }
+}

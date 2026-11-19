@@ -1,0 +1,43 @@
+{
+  "number": 848,
+  "verse": 158,
+  "slug": "udara-kirti",
+  "devanagari": "उदारकीर्तिः",
+  "iastSplit": "Udāra-kīrtiḥ",
+  "archana": "ॐ उदारकीर्तये नमः",
+  "syllables": ["u", "dā", "ra", "kīr", "tiḥ"],
+  "words": [
+    { "sa": "उदार", "meaning": { "en": "great, noble, exalted", "hi": "उदार, महान" } },
+    { "sa": "कीर्ति", "meaning": { "en": "fame, glory", "hi": "कीर्ति, यश" } }
+  ],
+  "meaning": {
+    "en": "Whose fame is vast and noble",
+    "hi": "जिनकी कीर्ति महान और उदार है"
+  },
+  "explanation": {
+    "en": "Udāra means great, noble, generous, and kīrti is fame. Her renown is greater than any other. In the verse the name runs into the next by sandhi: udārakīrtir uddāmavaibhavā.",
+    "hi": "उदार का अर्थ है महान, श्रेष्ठ, दानशील; और कीर्ति यश है। उनका यश सबसे बढ़कर है। श्लोक में सन्धि से यह नाम अगले नाम से जुड़ जाता है: उदारकीर्तिरुद्दामवैभवा।"
+  },
+  "inner": {
+    "en": "Bhāskararāya’s second reading splits the word into ut, ā and arā: by worshipping her, a fame comes that is excellent, spreads on every side, and comes quickly. He adds further plays on the syllables, among them one taking ara as the lake of nectar that the Upaniṣads place in the world of Brahman, so that her fame is vast as that lake. Her glory is not only praised; it is shared with those who praise her.",
+    "hi": "भास्करराय का दूसरा अर्थ शब्द को ‘उत्’, ‘आ’ और ‘अरा’ में बाँटता है: उनकी उपासना से ऐसी कीर्ति मिलती है जो उत्कृष्ट है, चारों ओर फैलती है, और शीघ्र प्राप्त होती है। वे अक्षरों पर और भी श्लेष करते हैं, जिनमें एक ‘अर’ को उस अमृत-सरोवर के अर्थ में लेता है जिसे उपनिषद् ब्रह्मलोक में बताते हैं; उनकी कीर्ति उस सरोवर-सी विशाल है। उनकी महिमा केवल गाई ही नहीं जाती, गाने वालों में बँट भी जाती है।"
+  },
+  "story": {
+    "en": "For the lakes, Bhāskararāya refers to Śaṅkara’s commentary on the Brahmasūtra anāvṛttiḥ śabdāt: in Aparājitā, the city of Brahman reached by worshippers of the qualified Brahman, are two ocean-like lakes of nectar named Ara and Ṇya.",
+    "hi": "इन सरोवरों के लिए भास्करराय ब्रह्मसूत्र ‘अनावृत्तिः शब्दात्’ पर शंकराचार्य के भाष्य का उल्लेख करते हैं: सगुण ब्रह्म के उपासकों को प्राप्त होने वाले ब्रह्म के नगर अपराजिता में ‘अर’ और ‘ण्य’ नाम के समुद्र-जैसे दो अमृत-सरोवर हैं।"
+  },
+  "commentary": {
+    "sanskrit": "उदारा महत्तरा कीर्तिर्यस्याः । उत्कृष्टा आसमन्ताद्व्याप्ता च अरा शीघ्रसाध्या च कीर्तिर्यदुपासनयेति वा ।",
+    "translation": {
+      "en": "She whose kīrti, fame, is udāra, very great. Or: she by whose worship fame becomes ut, excellent, ā, spread on every side, and arā, quickly won.",
+      "hi": "जिनकी कीर्ति उदार अर्थात् अत्यन्त महान है। अथवा: जिनकी उपासना से कीर्ति उत् (उत्कृष्ट), आ (चारों ओर व्याप्त) और अरा (शीघ्र प्राप्य) होती है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 848 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The archana उदारकीर्तये follows the nāmāvali; as a feminine i-stem the dative उदारकीर्त्यै would also be grammatical. Bhāskararāya’s further syllable-readings are summarised or left out. The two lakes are those of Chāndogya Upaniṣad 8.5.3; Śaṅkara’s remark is on Brahmasūtra 4.4.22. The last sentence of the inner layer is a reflection." }
+}

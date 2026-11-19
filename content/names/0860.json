@@ -1,0 +1,43 @@
+{
+  "number": 860,
+  "verse": 160,
+  "slug": "akanta",
+  "devanagari": "अकान्ता",
+  "iastSplit": "Akāntā",
+  "archana": "ॐ अकान्तायै नमः",
+  "syllables": ["a", "kān", "tā"],
+  "words": [
+    { "sa": "अक", "meaning": { "en": "sin; sorrow", "hi": "पाप; दुःख" } },
+    { "sa": "अन्त", "meaning": { "en": "end, destruction", "hi": "अन्त, नाश" } }
+  ],
+  "meaning": {
+    "en": "Who puts an end to sin and sorrow",
+    "hi": "पाप और दुःख का अन्त करने वाली"
+  },
+  "explanation": {
+    "en": "In the verse kāṣṭhā and akāntā are joined, and the avagraha sign (ऽ) marks the a that sandhi hides; Bhāskararāya confirms that this is a separate name of three syllables. Aka means sin and also sorrow, and anta is end: she is the end of both.",
+    "hi": "श्लोक में काष्ठा और अकान्ता जुड़े हुए हैं, और अवग्रह चिह्न (ऽ) उस ‘अ’ को दिखाता है जिसे सन्धि छिपा देती है; भास्करराय पुष्टि करते हैं कि यह तीन अक्षरों का एक अलग नाम है। ‘अक’ का अर्थ पाप भी है और दुःख भी, और ‘अन्त’ का अर्थ है समाप्ति: वे दोनों का अन्त हैं।"
+  },
+  "inner": {
+    "en": "Sin and sorrow are named together because one follows the other: what is done in error returns as pain. She ends the pair together, at the root. Bhāskararāya gives no further hidden meaning.",
+    "hi": "पाप और दुःख का नाम एक साथ लिया गया है, क्योंकि एक के पीछे दूसरा आता है: भूल में किया गया कर्म पीड़ा बनकर लौटता है। वे दोनों का एक साथ, जड़ से, अन्त करती हैं। भास्करराय इससे आगे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "The line plays on sound: kāṣṭhā’kāntā kāntārdhavigrahā. Kānta appears twice in different senses: here as aka + antā, the end of sin, and in the next name as kānta, the beloved.",
+    "hi": "यह पंक्ति ध्वनि से खेलती है: काष्ठाऽकान्ता कान्तार्धविग्रहा। ‘कान्त’ दो बार आता है, भिन्न अर्थों में: यहाँ अक + अन्ता, पाप का अन्त, के रूप में, और अगले नाम में ‘कान्त’, अर्थात् प्रियतम, के रूप में।"
+  },
+  "commentary": {
+    "sanskrit": "अकान्तेति त्र्यक्षरं नाम । अकं पापे च दुःखे च तयोरन्तो नाशो यया सा ।",
+    "translation": {
+      "en": "Akāntā is a name of three syllables. Aka means sin and sorrow; she by whom their anta, end, that is destruction, comes about.",
+      "hi": "अकान्ता तीन अक्षरों का नाम है। ‘अक’ पाप और दुःख के अर्थ में है; जिनके द्वारा उन दोनों का अन्त, अर्थात् नाश, होता है, वे अकान्ता हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 860 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The first two sentences of the inner layer are a reflection." }
+}

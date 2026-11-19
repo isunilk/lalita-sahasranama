@@ -1,0 +1,44 @@
+{
+  "number": 852,
+  "verse": 159,
+  "slug": "sarvopanishad-udghushta",
+  "devanagari": "सर्वोपनिषदुद्घुष्टा",
+  "iastSplit": "Sarvopaniṣad-udghuṣṭā",
+  "archana": "ॐ सर्वोपनिषदुद्घुष्टायै नमः",
+  "syllables": ["sar", "vo", "pa", "ni", "ṣa", "dud", "ghuṣ", "ṭā"],
+  "words": [
+    { "sa": "सर्व", "meaning": { "en": "all", "hi": "सब" } },
+    { "sa": "उपनिषद्", "meaning": { "en": "Upaniṣad; secret teaching", "hi": "उपनिषद्; रहस्य-विद्या" } },
+    { "sa": "उद्घुष्टा", "meaning": { "en": "proclaimed aloud", "hi": "उच्च स्वर से घोषित" } }
+  ],
+  "meaning": {
+    "en": "Proclaimed aloud by all the Upaniṣads",
+    "hi": "सभी उपनिषदों द्वारा उच्च स्वर से घोषित"
+  },
+  "explanation": {
+    "en": "The Upaniṣads are the crown of the Veda, its secret teaching. All of them, from the Aitareya on, proclaim her: Bhāskararāya says she is what they teach.",
+    "hi": "उपनिषद् वेद के शिरोभाग हैं, उसकी रहस्य-विद्या। ऐतरेय से लेकर सभी उपनिषद् उन्हीं की घोषणा करते हैं: भास्करराय कहते हैं कि उनका प्रतिपाद्य वे ही हैं।"
+  },
+  "inner": {
+    "en": "He reads the ut of udghuṣṭā in a particular way: since loudness is already in the verb ghuṣ, ‘to proclaim’, the prefix here means sameness. All the Upaniṣads, however they teach, proclaim one and the same reality, and he points to the Brahmasūtra section showing that the meditations taught in the different Upaniṣads are not different. He also cites a verse explaining upaniṣad as the teaching that leads the self to Brahman and destroys ignorance.",
+    "hi": "वे ‘उद्घुष्टा’ के ‘उत्’ को एक विशेष अर्थ में पढ़ते हैं: ऊँचे स्वर का भाव तो ‘घुष्’ (घोषणा करना) धातु में ही है, इसलिए यहाँ उपसर्ग का अर्थ है एकरूपता। सारे उपनिषद्, चाहे जिस ढंग से सिखाएँ, एक ही सत्य की घोषणा करते हैं; इसके लिए वे ब्रह्मसूत्र के उस प्रसंग की ओर संकेत करते हैं जो दिखाता है कि विभिन्न उपनिषदों में बताई गई उपासनाएँ भिन्न नहीं हैं। वे एक श्लोक भी उद्धृत करते हैं जो उपनिषद् का अर्थ बताता है: वह विद्या जो इस आत्मा को ब्रह्म तक ले जाती है और अविद्या का नाश करती है।"
+  },
+  "story": {
+    "en": "Upaniṣad also means a secret, and Bhāskararāya shows this from the Upaniṣadic line that what is done with knowledge, with faith and with upaniṣad becomes more powerful. He credits the verse on the word’s meaning to the ācāryas, the teachers.",
+    "hi": "उपनिषद् का अर्थ रहस्य भी है, और भास्करराय इसे उपनिषद् के उस वचन से दिखाते हैं कि जो कर्म विद्या, श्रद्धा और उपनिषद् के साथ किया जाए, वह अधिक वीर्यवान होता है। शब्द के अर्थ वाले श्लोक को वे आचार्यों का बताते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वास्वैतरेयादिषूपनिषत्सु रहस्यभूतासु श्रुतिशिरोभूतवाक्तन्तिषूत्कर्षेण घुष्टा प्रतिपाद्या ।",
+    "translation": {
+      "en": "In all the Upaniṣads, beginning with the Aitareya, which are secret teachings, strands of speech that form the head of the Veda, she is proclaimed with emphasis: she is what they teach.",
+      "hi": "ऐतरेय आदि सभी उपनिषदों में, जो रहस्यरूप हैं और श्रुति के शिरोभाग रूपी वाणी के तन्तु हैं, वे उत्कर्ष से घोषित हैं, अर्थात् उन्हीं का प्रतिपादन है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 852 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The line यदेव विद्यया करोति श्रद्धयोपनिषदा तदेव वीर्यवत्तरं भवति is Chāndogya Upaniṣad 1.1.10, and the Brahmasūtra section is the one beginning सर्ववेदान्तप्रत्ययं चोदनाद्यविशेषात् (3.3.1); Bhāskararāya names neither by number." }
+}
