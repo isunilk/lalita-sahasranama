@@ -15,7 +15,25 @@ For the scholar who reviews this site. Everything here is about the Sanskrit tex
 
 ## Known typos in the web nāmāvali (corrected on the site)
 
-- 42 गूढगूल्फा → गूढगुल्फा · 82 सभाण्डासुर → सभण्डासुर · 603 गुरूमूर्ति → गुरुमूर्ति · 680 भावाभावविर्जिता → भावाभावविवर्जिता · 697 सर्वलोकवंशकरी → सर्वलोकवशङ्करी. Writers record any further corrections in each name file's `review.notes`.
+Spelling mistakes in the web list:
+
+- 42 गूढगूल्फायै → गूढगुल्फायै
+- 82 सभाण्डासुर… → सभण्डासुर…
+- 603 गुरूमूर्त्यै → गुरुमूर्त्यै
+- 680 भावाभावविर्जितायै → भावाभावविवर्जितायै
+- 697 सर्वलोकवंशकर्यै → सर्वलोकवशङ्कर्यै
+- 933 मङ्गलाकृत्ये → मङ्गलाकृत्यै
+- 963 शामात्मिकायै → शमात्मिकायै (the verse and Bhāskararāya read शम)
+
+Grammar of the dative form (please confirm):
+
+- 306 राज्ञै → राज्ञ्यै
+- 550 वियदादिजगत्प्रसवे → वियदादिजगत्प्रसुवे; 837 वियत्प्रसुवे uses the same form. Both are declined like the -भू names, and -प्रस्वै may be the better form.
+- 779 विरजायै → विरजसे: Bhāskararāya reads the name as विरजाः (an s-stem).
+- 795 कामदुघे → कामदुहे
+- 855 गगनान्तःस्थायै → गगनान्तस्थायै, to match the verse spelling.
+
+Each name file's `review.notes` records why its form was changed, along with the other points a scholar should check.
 
 ## Half-verses spelled differently in the Saubhāgya Bhāskara edition (66 of 365)
 

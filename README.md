@@ -26,13 +26,19 @@ npm run preview    # serves dist/ locally
 - A name gets a page in a language only when **every layer** is written in that language,
   so thin, half-translated pages never reach Google.
 
-## Adding the remaining names
+## Content status
 
-`AGENTS.md` is a complete brief for a coding agent such as Codex or Claude Code: where the files
-go, the rules for researching a sacred text, and the checks to run. Give it one verse or a
-small batch at a time, then have a Sanskrit scholar review the drafts and set
-`"review": { "status": "reviewed", "reviewedBy": "…" }`.
+All 1000 names are written in English and Hindi, every layer, as **drafts**. Claude wrote them
+from the master text (stotranidhi.com) and Bhāskararāya's *Saubhāgya Bhāskara* (Sanskrit
+Wikisource edition). Each commentary quote was checked by machine, word for word, against that
+edition. No scholar has reviewed them yet, so every page shows a draft notice.
 
+- `content/TEXT-NOTES.md` lists the sources, variant readings and corrected archana forms.
+- Each name file's `review.notes` lists what a scholar should check for that name.
+- After review, set `"review": { "status": "reviewed", "reviewedBy": "…" }`.
+
+`AGENTS.md` is the brief for a coding agent (Claude Code, Codex or others). Use it to add
+other languages or correct names, one verse or a small batch at a time.
 `npm run validate` prints how many names exist and how complete each language is.
 
 ## Audio
