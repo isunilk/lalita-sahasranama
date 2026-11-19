@@ -1,0 +1,43 @@
+{
+  "number": 328,
+  "verse": 74,
+  "slug": "kalalapa",
+  "devanagari": "कलालापा",
+  "iastSplit": "Kalālāpā",
+  "archana": "ॐ कलालापायै नमः",
+  "syllables": ["ka", "lā", "lā", "pā"],
+  "words": [
+    { "sa": "कल", "meaning": { "en": "soft and sweet, gently indistinct (of sound)", "hi": "मधुर और कोमल (ध्वनि)" } },
+    { "sa": "आलाप", "meaning": { "en": "speech, talk", "hi": "वाणी, बोलना" } }
+  ],
+  "meaning": {
+    "en": "Whose speech is soft and sweet",
+    "hi": "जिनकी वाणी मधुर और कोमल है"
+  },
+  "explanation": {
+    "en": "Kala is a sound that is sweet and soft, and ālāpa is speech. Her words fall gently, like a low, sweet melody. Bhāskararāya cites the Amarakośa, which defines kala as a sound that is sweet and not sharply distinct.",
+    "hi": "‘कल’ वह ध्वनि है जो मधुर और कोमल हो, और ‘आलाप’ का अर्थ है बोलना। उनकी वाणी धीमे, मीठे सुर की तरह झरती है। भास्करराय अमरकोश का प्रमाण देते हैं, जहाँ ‘कल’ को मधुर और अस्फुट ध्वनि कहा गया है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya also reads the name another way: ka is Brahman, and through her, reaching Brahman becomes as easy as the saliva (lālā) in one’s own mouth. What seems far away is, by her grace, nearer than anything. The sweetness of her speech and the nearness of Brahman meet in one name.",
+    "hi": "भास्करराय इस नाम को दूसरे ढंग से भी पढ़ते हैं: ‘क’ ब्रह्म है, और उनकी कृपा से ब्रह्म की प्राप्ति अपने ही मुख की लार (लाला) जितनी सुलभ हो जाती है। जो दूर लगता है, वह उनकी कृपा से सबसे निकट हो जाता है। उनकी वाणी की मधुरता और ब्रह्म की निकटता एक ही नाम में मिल जाती हैं।"
+  },
+  "story": {
+    "en": "Name 27 already said that the sweetness of her talk puts to shame the vīṇā of Sarasvatī. Here the same sweetness returns beside Kalāvatī: she holds every art, and her very speech is music.",
+    "hi": "नाम 27 में पहले ही कहा गया था कि उनकी बातचीत की मधुरता सरस्वती की वीणा को भी लज्जित कर देती है। यहाँ वही मधुरता कलावती के साथ लौटती है: वे सब कलाओं की स्वामिनी हैं, और उनकी वाणी स्वयं संगीत है।"
+  },
+  "commentary": {
+    "sanskrit": "कल एवालापो भाषणं यस्याः सा । कलो मञ्जुल आलापो यस्या इति वा ।",
+    "translation": {
+      "en": "She whose ālāpa, speech, is kala itself; or, she whose ālāpa is kala, charming.",
+      "hi": "जिनका आलाप, अर्थात् भाषण, स्वयं ‘कल’ है; अथवा जिनका आलाप ‘कल’, अर्थात् मनोहर, है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 328 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya adds further word-plays on the syllables (ka as water, आपम् as a mass of water) that are not used here. The inner layer follows his reading of ka as Brahman." }
+}

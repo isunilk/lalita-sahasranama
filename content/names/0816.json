@@ -1,0 +1,44 @@
+{
+  "number": 816,
+  "verse": 154,
+  "slug": "muni-manasa-hamsika",
+  "devanagari": "मुनिमानसहंसिका",
+  "iastSplit": "Muni-mānasa-haṃsikā",
+  "archana": "ॐ मुनिमानसहंसिकायै नमः",
+  "syllables": ["mu", "ni", "mā", "na", "sa", "haṃ", "si", "kā"],
+  "words": [
+    {"sa": "मुनि", "meaning": {"en": "sage", "hi": "मुनि"}},
+    {"sa": "मानस", "meaning": {"en": "mind; also Lake Mānasa", "hi": "मन; मानसरोवर भी"}},
+    {"sa": "हंसिका", "meaning": {"en": "swan", "hi": "हंसिनी"}}
+  ],
+  "meaning": {
+    "en": "The swan on the Mānasa lake of the sages’ minds",
+    "hi": "मुनियों के मन रूपी मानसरोवर की हंसिनी"
+  },
+  "explanation": {
+    "en": "Mānasa means mind, and it is also the name of the sacred Himalayan lake where, in poetry, the swans dwell. The sages’ minds are that lake, and she glides on it like a swan. The suffix -ka adds nothing to the meaning.",
+    "hi": "‘मानस’ का अर्थ मन है, और यह हिमालय के उस पवित्र सरोवर का भी नाम है जहाँ, काव्य के अनुसार, हंस निवास करते हैं। मुनियों का मन ही वह सरोवर है, और वे उसमें हंसिनी की तरह विहार करती हैं। ‘क’ प्रत्यय अर्थ में कुछ नहीं जोड़ता।"
+  },
+  "inner": {
+    "en": "A swan keeps to clear water, so she dwells in minds made pure and still by contemplation. Bhāskararāya adds a playful second reading: in the honour (māna) the sages show her, she is sa-haṃsikā, wearing anklets, as if dancing for joy at their reverence.",
+    "hi": "हंस निर्मल जल में ही रहता है, इसलिए वे उन्हीं मनों में बसती हैं जो ध्यान से शुद्ध और शान्त हो गए हैं। भास्करराय एक रोचक दूसरा अर्थ भी देते हैं: मुनियों द्वारा दिए गए ‘मान’ (सम्मान) में वे ‘सहंसिका’, अर्थात् नूपुर पहने हुए हैं, मानो उनके आदर से प्रसन्न होकर नृत्य कर रही हों।"
+  },
+  "story": {
+    "en": "Bhāskararāya’s second reading rests on a lexicon that gives haṃsaka as an anklet. The swan on Lake Mānasa is one of the favourite images of Sanskrit poetry.",
+    "hi": "भास्करराय का दूसरा अर्थ उस कोश पर आधारित है जो ‘हंसक’ का अर्थ नूपुर देता है। मानसरोवर पर हंस का चित्र संस्कृत काव्य की सबसे प्रिय उपमाओं में से है।"
+  },
+  "commentary": {
+    "sanskrit": "मुनीनां मानसं मन एव श्लेषात् मानसाख्यं सरस्तत्र हंसीव ।",
+    "translation": {
+      "en": "The mānasa, the mind, of the sages is, by a pun, the lake named Mānasa; in it she is like a swan.",
+      "hi": "मुनियों का मानस, अर्थात् मन, ही श्लेष से मानस नामक सरोवर है; उसमें वे हंसिनी के समान हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 816 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The first sentence of the inner layer is a reflection drawn from poetic convention, not from Bhāskararāya." }
+}

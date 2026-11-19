@@ -1,0 +1,43 @@
+{
+  "number": 815,
+  "verse": 154,
+  "slug": "anitya-tripta",
+  "devanagari": "अनित्यतृप्ता",
+  "iastSplit": "Anitya-tṛptā",
+  "archana": "ॐ अनित्यतृप्तायै नमः",
+  "syllables": ["a", "nit", "ya", "tṛp", "tā"],
+  "words": [
+    {"sa": "अनित्य", "meaning": {"en": "impermanent, passing", "hi": "अनित्य, नश्वर"}},
+    {"sa": "तृप्ता", "meaning": {"en": "satisfied, pleased", "hi": "तृप्त, सन्तुष्ट"}}
+  ],
+  "meaning": {
+    "en": "Pleased even with offerings that do not last",
+    "hi": "नश्वर उपचारों से भी तृप्त हो जाने वाली"
+  },
+  "explanation": {
+    "en": "Every offering we can make, a flower, water, a lamp, is passing. Yet she is satisfied even with these, because what she loves is the devotion behind them. As the Gītā says, a leaf, a flower, a fruit or water offered with love is accepted.",
+    "hi": "हम जो भी अर्पित कर सकते हैं, फूल, जल, दीपक, सब नश्वर है। फिर भी वे इन्हीं से तृप्त हो जाती हैं, क्योंकि उन्हें इनके पीछे की भक्ति प्रिय है। जैसा गीता कहती है, प्रेम से अर्पित पत्र, पुष्प, फल या जल भी स्वीकार होता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives two more readings. Taking anit as “that which breathes”, the living being, she is not sated by beings, for she consumes all, like the one of whom the Upaniṣad says that priest and warrior alike are his food. Or, reading the two negatives together, there is no way in which she is not satisfied: whatever is offered with devotion pleases her.",
+    "hi": "भास्करराय दो और अर्थ देते हैं। ‘अनित्’ को ‘जो श्वास लेता है’, अर्थात् जीव, मानें तो वे जीवों से तृप्त नहीं होतीं, क्योंकि वे सबको अपने में लीन कर लेती हैं, उसकी तरह जिसके विषय में उपनिषद् कहता है कि ब्राह्मण और क्षत्रिय दोनों उसका भोजन हैं। या दोनों निषेधों को साथ पढ़ें तो ऐसा कोई प्रकार नहीं जिससे वे तृप्त न हों: भक्ति से अर्पित कुछ भी उन्हें प्रसन्न करता है।"
+  },
+  "story": {
+    "en": "Bhāskararāya stresses that this is a single name of five syllables, read out of the joined verse mūrtā-’mūrtā-’nityatṛptā. Its comfort is plain: worship needs no costly offerings, only devotion.",
+    "hi": "भास्करराय ज़ोर देते हैं कि यह पाँच अक्षरों का एक ही नाम है, जो जुड़े हुए पाठ ‘मूर्ताऽमूर्ताऽनित्यतृप्ता’ से निकलता है। इसका आश्वासन सरल है: पूजा के लिए बहुमूल्य उपचार नहीं, केवल भक्ति चाहिए।"
+  },
+  "commentary": {
+    "sanskrit": "अनित्यैरेवोपचारैस्तृप्तेति पञ्चाक्षरं नाम भक्तिमात्रप्रियत्वात् ।",
+    "translation": {
+      "en": "“Satisfied even with impermanent offerings”: a name of five syllables, for she loves devotion alone.",
+      "hi": "‘अनित्य उपचारों से भी तृप्त’: यह पाँच अक्षरों का नाम है, क्योंकि उन्हें केवल भक्ति प्रिय है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 815 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s ‘five-syllable name’ confirms the reading अनित्यतृप्ता (not नित्यतृप्ता). The last sentence of the story layer is a reflection." }
+}

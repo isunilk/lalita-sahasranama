@@ -1,0 +1,42 @@
+{
+  "number": 340,
+  "verse": 75,
+  "slug": "vilasini",
+  "devanagari": "विलासिनी",
+  "iastSplit": "Vilāsinī",
+  "archana": "ॐ विलासिन्यै नमः",
+  "syllables": ["vi", "lā", "si", "nī"],
+  "words": [
+    { "sa": "विलासिनी", "meaning": { "en": "playful one; she who has vilāsa, play and display", "hi": "लीलामयी; विलास वाली" } }
+  ],
+  "meaning": {
+    "en": "The playful one, whose play projects the world",
+    "hi": "लीलामयी, जिनकी लीला से जगत् प्रकट होता है"
+  },
+  "explanation": {
+    "en": "Vilāsa means play, grace and display. Bhāskararāya reads it as vikṣepa-śakti, the power that projects the world as appearance. After Viṣṇumāyā, the power that veils, this name gives her other power, the one that sends forth.",
+    "hi": "‘विलास’ का अर्थ है लीला, शोभा और प्रदर्शन। भास्करराय इसे ‘विक्षेप-शक्ति’ बताते हैं, अर्थात् वह शक्ति जो जगत् को दृश्य रूप में प्रकट करती है। विष्णुमाया, अर्थात् ढकने वाली शक्ति, के बाद यह नाम उनकी दूसरी शक्ति बताता है, जो प्रकट करती है।"
+  },
+  "inner": {
+    "en": "He also reads vilāsinī as bile āste, she who sits in the bila, the opening at the crown of the head called the brahmarandhra. He quotes the Svacchanda Tantra, which describes a power there who stands closing the door to the path of liberation. And he says she may be one of the powers of the sacred seats, listed among them as Vilāsinī.",
+    "hi": "वे ‘विलासिनी’ को ‘बिले आस्ते’ के रूप में भी पढ़ते हैं: जो ‘बिल’ में, अर्थात् सिर के शिखर पर स्थित ब्रह्मरन्ध्र में, विराजती हैं। वे स्वच्छन्द तन्त्र उद्धृत करते हैं, जिसमें वहाँ स्थित एक शक्ति का वर्णन है जो मोक्ष-मार्ग का द्वार रोककर स्थित है। वे यह भी कहते हैं कि वे पीठों की शक्तियों में गिनी गई विलासिनी नामक शक्ति हो सकती हैं।"
+  },
+  "story": {
+    "en": "The pair Viṣṇumāyā and Vilāsinī recalls the Vedānta teaching that māyā has two powers, veiling (āvaraṇa) and projection (vikṣepa), and Bhāskararāya’s glosses use exactly these terms. With this name the verse of seven names beginning with v is complete.",
+    "hi": "विष्णुमाया और विलासिनी का यह जोड़ा वेदान्त की उस शिक्षा की याद दिलाता है कि माया की दो शक्तियाँ हैं, आवरण और विक्षेप; भास्करराय की व्याख्याएँ ठीक इन्हीं शब्दों का प्रयोग करती हैं। इस नाम के साथ ‘व’ से आरम्भ होने वाले सात नामों का श्लोक पूरा होता है।"
+  },
+  "commentary": {
+    "sanskrit": "विलासो विक्षेपशक्तिरस्या अस्तीति तथा ।",
+    "translation": {
+      "en": "So named because vilāsa, the projecting power, is hers.",
+      "hi": "विलास, अर्थात् विक्षेप-शक्ति, उनमें है, इसलिए वे ऐसी कहलाती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 340 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The link between names 339 and 340 as āvaraṇa and vikṣepa is drawn from Bhāskararāya’s two glosses (आवरणकर्त्री, विक्षेपशक्तिः); he does not state the pairing himself. Check the rendering of the Svacchanda Tantra verse (ब्रह्माणीत्यपरा शक्तिः… द्वारं सा मोक्षमार्गस्य रोधयित्वा व्यवस्थिता)." }
+}

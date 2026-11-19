@@ -1,0 +1,44 @@
+{
+  "number": 336,
+  "verse": 75,
+  "slug": "vindhyachala-nivasini",
+  "devanagari": "विन्ध्याचलनिवासिनी",
+  "iastSplit": "Vindhyācala-nivāsinī",
+  "archana": "ॐ विन्ध्याचलनिवासिन्यै नमः",
+  "syllables": ["vin", "dhyā", "ca", "la", "ni", "vā", "si", "nī"],
+  "words": [
+    { "sa": "विन्ध्य", "meaning": { "en": "the Vindhya range", "hi": "विन्ध्य पर्वत" } },
+    { "sa": "अचल", "meaning": { "en": "mountain (literally, the immovable)", "hi": "पर्वत (अर्थात् जो हिले नहीं)" } },
+    { "sa": "निवासिनी", "meaning": { "en": "she who dwells", "hi": "निवास करने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who dwells on the Vindhya mountains",
+    "hi": "विन्ध्य पर्वत पर निवास करने वाली"
+  },
+  "explanation": {
+    "en": "Acala, the immovable, is a mountain, and the Vindhya is the range that crosses central India. She makes her home there. Bhāskararāya cites the Padma Purāṇa’s list of the Devī’s sacred seats, which names her Vindhyādhivāsinī in the Vindhya.",
+    "hi": "‘अचल’, अर्थात् जो हिले नहीं, पर्वत है; और विन्ध्य मध्य भारत को पार करने वाली पर्वतमाला है। वे वहीं निवास करती हैं। भास्करराय पद्म पुराण में देवी के पवित्र स्थानों की सूची का उल्लेख करते हैं, जिसमें विन्ध्य में उनका नाम विन्ध्याधिवासिनी है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives the plain sense and no hidden meaning. As a reflection, the Mother who is beyond the universe in name 334 is also present in one particular place, where her devotees can come to her.",
+    "hi": "भास्करराय सीधा अर्थ देते हैं, कोई गूढ़ अर्थ नहीं। चिन्तन के रूप में: नाम 334 में जो माँ विश्व से परे हैं, वही एक विशेष स्थान पर भी विराजती हैं, जहाँ भक्त उनके पास आ सकें।"
+  },
+  "story": {
+    "en": "He quotes the Lakṣmī Tantra of the Pāñcarātra: when Śumbha and Niśumbha are born again, she says, she will be born from Yaśodā in the family of Nandagopa and, as Nandā who lives in the Vindhya, will destroy them. He adds that the same account is well known in the Mārkaṇḍeya Purāṇa.",
+    "hi": "वे पाञ्चरात्र के लक्ष्मी तन्त्र से उद्धृत करते हैं: जब शुम्भ और निशुम्भ फिर जन्म लेंगे, तब मैं नन्दगोप के कुल में यशोदा के गर्भ से जन्म लूँगी और विन्ध्य में रहने वाली नन्दा के रूप में उनका नाश करूँगी। वे जोड़ते हैं कि यही कथा मार्कण्डेय पुराण में भी प्रसिद्ध है।"
+  },
+  "commentary": {
+    "sanskrit": "विन्ध्याख्ये अचले पर्वते निवसतीति तथा ।",
+    "translation": {
+      "en": "So named because she dwells on the acala, the mountain, called Vindhya.",
+      "hi": "विन्ध्य नामक अचल, अर्थात् पर्वत, पर निवास करने से वे ऐसी कहलाती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 336 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s verse line prints the name as two words (विन्ध्याचल निवासिनी); the master text joins it. The inner layer is a reflection; he gives only the literal sense." }
+}

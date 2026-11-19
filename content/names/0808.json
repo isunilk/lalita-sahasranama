@@ -1,0 +1,43 @@
+{
+  "number": 808,
+  "verse": 153,
+  "slug": "paramanu",
+  "devanagari": "परमाणुः",
+  "iastSplit": "Paramāṇuḥ",
+  "archana": "ॐ परमाणवे नमः",
+  "syllables": ["pa", "ra", "mā", "ṇuḥ"],
+  "words": [
+    {"sa": "परम", "meaning": {"en": "supreme, utmost", "hi": "परम"}},
+    {"sa": "अणु", "meaning": {"en": "minute, subtle; atom; also a mantra", "hi": "सूक्ष्म; अणु; मन्त्र भी"}}
+  ],
+  "meaning": {
+    "en": "Supremely subtle, subtler than the subtlest",
+    "hi": "परम सूक्ष्म, सूक्ष्म से भी सूक्ष्मतर"
+  },
+  "explanation": {
+    "en": "Paramāṇu is the utmost subtle, the atom. She is so fine that she is hard to grasp, as the Upaniṣad says of the Self, “subtler than the subtle”. Just called the supreme light and abode, vast beyond measure, she is now called infinitely small.",
+    "hi": "‘परमाणु’ का अर्थ है परम सूक्ष्म, अणु। वे इतनी सूक्ष्म हैं कि उन्हें पकड़ पाना कठिन है, जैसा उपनिषद् आत्मा के लिए कहता है, ‘अणु से भी अणुतर’। अभी उन्हें अपरिमेय परम ज्योति और परम धाम कहा गया था, अब उन्हें अनन्त रूप से सूक्ष्म कहा जाता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says that the atoms imagined by the logicians, the Nyāya-Vaiśeṣika thinkers, are also her form: even the smallest building-blocks of matter are she. Aṇu can also mean a mantra, so she is the supreme mantra. The great and the minute are both her, as the Upaniṣad calls the Self “smaller than the small, greater than the great”.",
+    "hi": "भास्करराय कहते हैं कि तार्किकों, अर्थात् न्याय-वैशेषिक दार्शनिकों, द्वारा कल्पित परमाणु भी उन्हीं का रूप हैं: पदार्थ की सबसे छोटी इकाइयाँ भी वही हैं। ‘अणु’ का अर्थ मन्त्र भी होता है, इसलिए वे परम मन्त्र भी हैं। महान् और सूक्ष्म दोनों वही हैं, जैसे उपनिषद् आत्मा को ‘अणु से अणुतर, महान् से महत्तर’ कहता है।"
+  },
+  "story": {
+    "en": "Bhāskararāya notes that the feminine of aṇu may optionally be aṇvī, so the form aṇu here is also correct. He says that her being the supreme abode and supremely subtle is the very reason for the next name, Parātparā: she is beyond every measure.",
+    "hi": "भास्करराय बताते हैं कि ‘अणु’ का स्त्रीलिंग विकल्प से ‘अण्वी’ होता है, इसलिए यहाँ ‘अणु’ रूप भी शुद्ध है। वे कहते हैं कि उनका परम धाम और परम अणु होना ही अगले नाम ‘परात्परा’ का कारण है: वे हर माप से परे हैं।"
+  },
+  "commentary": {
+    "sanskrit": "तार्किककल्पिताः पीलवोऽप्यस्या एव रूपमिति वा । परम उत्कृष्टोऽणुर्मन्त्रो वा ।",
+    "translation": {
+      "en": "Or, the atoms (pīlu) imagined by the logicians are also her form. Or, aṇu is a mantra: she is the supreme mantra.",
+      "hi": "अथवा, तार्किकों द्वारा कल्पित परमाणु (पीलु) भी उन्हीं के रूप हैं। अथवा, ‘अणु’ अर्थात् मन्त्र: वे परम उत्कृष्ट मन्त्र हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 808 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya quotes only अणोरणीयान्; the second half of the Kaṭha verse (‘greater than the great’) in the inner layer is added as a reflection. The edition prints दुर्गेयेत्यर्थः, perhaps for दुर्ज्ञेयेत्यर्थः (‘hard to know’); the explanation’s ‘hard to grasp’ follows that reading." }
+}

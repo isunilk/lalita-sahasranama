@@ -1,0 +1,43 @@
+{
+  "number": 795,
+  "verse": 151,
+  "slug": "kama-dhuk",
+  "devanagari": "कामधुक्",
+  "iastSplit": "Kāma-dhuk",
+  "archana": "ॐ कामदुहे नमः",
+  "syllables": ["kā", "ma", "dhuk"],
+  "words": [
+    {"sa": "काम", "meaning": {"en": "desire, wish", "hi": "कामना, मनोरथ"}},
+    {"sa": "दुह्", "meaning": {"en": "one who milks out, who yields (root duh, to milk)", "hi": "दुहने वाली, देने वाली (‘दुह्’ धातु)"}}
+  ],
+  "meaning": {
+    "en": "She who yields every wish, like the wish-granting cow",
+    "hi": "जो कामधेनु की भाँति सब मनोरथ पूर्ण करती हैं"
+  },
+  "explanation": {
+    "en": "Kāmadhuk means “she who milks out desires”. As a cow gives milk, she yields whatever her devotees long for. Bhāskararāya also takes her as Kāmadhenu herself, the cow of plenty.",
+    "hi": "‘कामधुक्’ का अर्थ है ‘कामनाओं को दुहने वाली’। जैसे गाय दूध देती है, वैसे ही वे भक्तों की हर अभिलाषा पूर्ण करती हैं। भास्करराय उन्हें स्वयं कामधेनु, समृद्धि की गौ, भी मानते हैं।"
+  },
+  "inner": {
+    "en": "In support Bhāskararāya cites a Ṛgvedic verse in which Vāc, sacred speech, is a milch cow yielding food and strength to those who praise her. The cow of plenty is thus also speech itself, which nourishes those who honour it. Beyond this he gives no hidden meaning.",
+    "hi": "इस अर्थ के समर्थन में भास्करराय ऋग्वेद का एक मन्त्र उद्धृत करते हैं, जिसमें वाक्, अर्थात् पवित्र वाणी, एक धेनु है जो स्तुति करने वालों के लिए अन्न और बल दुहती है। इस प्रकार कामधेनु स्वयं वाणी भी है, जो उसका आदर करने वालों का पोषण करती है। इसके आगे वे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "In the chanted verse the name runs into the next: kāmadhuk-kāmarūpiṇī. Its stem is kāma-duh, from duh, to milk; kāmadhuk is the nominative, so the archana uses the dative kāmaduhe namaḥ.",
+    "hi": "पाठ में यह नाम अगले नाम से जुड़कर ‘कामधुक्कामरूपिणी’ बनता है। इसका मूल शब्द ‘कामदुह्’ है (‘दुह्’ धातु, दुहना); ‘कामधुक्’ उसका प्रथमा रूप है, इसलिए अर्चना में चतुर्थी ‘कामदुहे नमः’ होती है।"
+  },
+  "commentary": {
+    "sanskrit": "कामान् दोग्धीति कामधुक् । मनोरथान् पूरयतीत्यर्थः । कामधेनुस्वरूपा वा ।",
+    "translation": {
+      "en": "Kāmadhuk: she who milks out desires; that is, she fulfils all longings. Or, she is Kāmadhenu herself.",
+      "hi": "जो कामनाओं को दुहती हैं, वे ‘कामधुक्’; अर्थात् वे मनोरथ पूर्ण करती हैं। अथवा, वे कामधेनु-स्वरूपा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 795 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Archana corrected from the web list’s कामदुघे to कामदुहे: the verse form कामधुक् is the nominative of the stem कामदुह्, whose dative is कामदुहे; कामदुघे is not a dative of either कामदुह् or कामदुघा (that would be कामदुघायै). The OCR text of D. S. Sarma’s nāmāvali appears to read कामदुहे as well (printed कामदुद्दे). The second sentence of the inner layer is a reflection." }
+}

@@ -1,0 +1,42 @@
+{
+  "number": 829,
+  "verse": 155,
+  "slug": "pratishtha",
+  "devanagari": "प्रतिष्ठा",
+  "iastSplit": "Pratiṣṭhā",
+  "archana": "ॐ प्रतिष्ठायै नमः",
+  "syllables": ["pra", "tiṣ", "ṭhā"],
+  "words": [
+    {"sa": "प्रतिष्ठा", "meaning": {"en": "foundation, support, firm ground", "hi": "आधार, अवलम्ब, प्रतिष्ठा"}}
+  ],
+  "meaning": {
+    "en": "The foundation on which the universe rests",
+    "hi": "वह आधार जिस पर सम्पूर्ण विश्व टिका है"
+  },
+  "explanation": {
+    "en": "Pratiṣṭhā means foundation, support, the ground on which something stands firm. The whole universe stands on her, because she is the base of all that exists. As the Śruti says, she is the foundation of the whole world.",
+    "hi": "‘प्रतिष्ठा’ का अर्थ है आधार, अवलम्ब, वह भूमि जिस पर कोई वस्तु दृढ़ता से टिकी हो। सम्पूर्ण विश्व उन्हीं पर टिका है, क्योंकि वे सब अस्तित्व का आधार हैं। जैसा श्रुति कहती है, वे सम्पूर्ण जगत् की प्रतिष्ठा हैं।"
+  },
+  "inner": {
+    "en": "In the Śaiva Āgamas pratiṣṭhā is also the name of a kalā, one of the great divisions of reality, the one linked with the water principle; Bhāskararāya quotes its definition as the power by which the soul, coloured with love for Śiva, is established in the state of the puruṣa. Pratiṣṭhā is also the name of a metre of sixteen syllables. He gives these as further senses and draws out no hidden meaning.",
+    "hi": "शैव आगमों में ‘प्रतिष्ठा’ एक कला का भी नाम है, जो जल-तत्त्व से जुड़ी है; भास्करराय उसका लक्षण उद्धृत करते हैं: वह शक्ति जिससे शिव-प्रेम में रँगी आत्मा पुरुष-तत्त्व में स्थापित होती है। ‘प्रतिष्ठा’ सोलह अक्षरों वाले एक छन्द का भी नाम है। वे इन्हें अतिरिक्त अर्थों के रूप में देते हैं, कोई गूढ़ अर्थ नहीं निकालते।"
+  },
+  "story": {
+    "en": "Bhāskararāya also cites the Brahma Gītā: “This Parameśvarī, as wisdom, is the foundation of all things.” Name 660, Supratiṣṭhā, uses the same word.",
+    "hi": "भास्करराय ब्रह्मगीता भी उद्धृत करते हैं: ‘यह परमेश्वरी, प्रज्ञा रूप में, सब वस्तुओं की प्रतिष्ठा है।’ नाम 660, ‘सुप्रतिष्ठा’, भी इसी शब्द का प्रयोग करता है।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वजगतोऽधिष्ठानत्वात्प्रतितिष्ठत्यस्यां विश्वमिति प्रतिष्ठा । विश्वस्य जगतः प्रतिष्ठेति श्रुतेः ।",
+    "translation": {
+      "en": "Because she is the ground of the whole world, the universe pratitiṣṭhati, stands firm, in her; so she is Pratiṣṭhā. For the Śruti says, “the foundation of the whole world”.",
+      "hi": "सम्पूर्ण जगत् का अधिष्ठान होने से विश्व उनमें प्रतिष्ठित रहता है, इसलिए वे ‘प्रतिष्ठा’ हैं; क्योंकि श्रुति कहती है, ‘विश्वस्य जगतः प्रतिष्ठा’, अर्थात् समस्त जगत् की प्रतिष्ठा।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 829 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. ‘One of the great divisions of reality’ glosses the Śaiva kalā (जलतत्त्वनिष्ठकलाविशेषोऽपि प्रतिष्ठा) in general terms. The quoted Āgama verse is incomplete in the edition (its last quarter is printed as dashes)." }
+}

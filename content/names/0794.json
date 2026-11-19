@@ -1,0 +1,43 @@
+{
+  "number": 794,
+  "verse": 151,
+  "slug": "kala-mala",
+  "devanagari": "कलामाला",
+  "iastSplit": "Kalā-mālā",
+  "archana": "ॐ कलामालायै नमः",
+  "syllables": ["ka", "lā", "mā", "lā"],
+  "words": [
+    {"sa": "कला", "meaning": {"en": "art, skill; a fine portion, a digit of the moon", "hi": "कला, कौशल; सूक्ष्म अंश, चन्द्रमा की कला"}},
+    {"sa": "माला", "meaning": {"en": "garland; unbroken series", "hi": "माला; अटूट श्रृंखला"}}
+  ],
+  "meaning": {
+    "en": "A garland of all the arts",
+    "hi": "समस्त कलाओं की माला"
+  },
+  "explanation": {
+    "en": "Kalā is an art or skill, and also a fine portion, like a digit of the moon. She is the whole garland of them: the sixty-four arts and every other kind of kalā, strung together in one unbroken series.",
+    "hi": "‘कला’ का अर्थ है कोई कला या कौशल, और कोई सूक्ष्म अंश भी, जैसे चन्द्रमा की कला। वे इन सबकी पूरी माला हैं: चौंसठ कलाएँ और अन्य सभी प्रकार की कलाएँ, एक अटूट श्रृंखला में गुँथी हुई।"
+  },
+  "inner": {
+    "en": "Bhāskararāya reads mālā as paramparā, an unbroken succession: every art and every portion of the world follows from her, one after another, like beads on a thread. His second reading divides the name as kalā-mā-lā: she who takes (lā) kalā, loveliness, and mā, splendour. He gives no further hidden meaning.",
+    "hi": "भास्करराय ‘माला’ का अर्थ ‘परम्परा’ करते हैं, अर्थात् अटूट क्रम: हर कला और जगत् का हर अंश उन्हीं से, एक के बाद एक, माला के मनकों की तरह निकलता है। दूसरे अर्थ में वे नाम को ‘कला-मा-ला’ के रूप में बाँटते हैं: जो ‘कला’ अर्थात् लावण्य और ‘मा’ अर्थात् शोभा को ग्रहण करती हैं (‘ला’)। इसके आगे वे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "Names 797 and 798 return to the theme, calling her the treasury of the kalās and the art of poetry. Name 236 has already called her Catuḥṣaṣṭi-kalā-mayī, made of the sixty-four arts, the classical list of the arts and skills of Indian culture.",
+    "hi": "नाम 797 और 798 इसी विषय पर लौटते हैं और उन्हें कलाओं की निधि तथा काव्य की कला कहते हैं। नाम 236 उन्हें पहले ही ‘चतुःषष्टिकलामयी’ कह चुका है, अर्थात् चौंसठ कलाओं से बनी; यह भारतीय संस्कृति की कलाओं और कौशलों की पारम्परिक सूची है।"
+  },
+  "commentary": {
+    "sanskrit": "कलानां चतुःषष्ट्यादिरूपाणां माला परम्परा । कलां लावण्यं मां शोभां च लातीति वा ।",
+    "translation": {
+      "en": "A garland, that is, a succession, of the kalās in their sixty-four and other forms. Or, she who takes kalā, loveliness, and mā, splendour.",
+      "hi": "चौंसठ आदि रूपों वाली कलाओं की माला, अर्थात् परम्परा। अथवा, जो ‘कला’ अर्थात् लावण्य और ‘मा’ अर्थात् शोभा को ग्रहण करती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 794 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The image of beads on a thread in the inner layer is a reflection on Bhāskararāya’s gloss परम्परा." }
+}

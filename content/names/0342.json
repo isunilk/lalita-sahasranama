@@ -1,0 +1,43 @@
+{
+  "number": 342,
+  "verse": 76,
+  "slug": "kshetreshi",
+  "devanagari": "क्षेत्रेशी",
+  "iastSplit": "Kṣetreśī",
+  "archana": "ॐ क्षेत्रेश्यै नमः",
+  "syllables": ["kṣet", "re", "śī"],
+  "words": [
+    { "sa": "क्षेत्र", "meaning": { "en": "field, the body", "hi": "क्षेत्र, शरीर" } },
+    { "sa": "ईशी", "meaning": { "en": "sovereign lady; consort of the Lord", "hi": "ईश्वरी, स्वामी की शक्ति" } }
+  ],
+  "meaning": {
+    "en": "Queen of the field, consort of its Lord, Śiva",
+    "hi": "क्षेत्र की स्वामिनी, क्षेत्रेश शिव की शक्ति"
+  },
+  "explanation": {
+    "en": "The field is the body, and its lord, Kṣetreśa, is Śiva. Bhāskararāya says she belongs to him as Kṣetreśī, his consort. She rules the field together with him.",
+    "hi": "क्षेत्र शरीर है, और उसके स्वामी, क्षेत्रेश, शिव हैं। भास्करराय कहते हैं कि वे उन्हीं की हैं, क्षेत्रेशी, अर्थात् उनकी शक्ति। वे उनके साथ इस क्षेत्र पर शासन करती हैं।"
+  },
+  "inner": {
+    "en": "He gives only this derivation and no hidden meaning. As a reflection, the previous name made the body her form; this one makes her its ruler as well. She is both the field and the power that governs it from within.",
+    "hi": "वे केवल यही व्युत्पत्ति देते हैं, कोई गूढ़ अर्थ नहीं। चिन्तन के रूप में: पिछले नाम ने शरीर को उनका रूप कहा था; यह नाम उन्हें उसकी स्वामिनी भी कहता है। वे क्षेत्र भी हैं और उसे भीतर से चलाने वाली शक्ति भी।"
+  },
+  "story": {
+    "en": "In the Gītā’s thirteenth chapter Kṛṣṇa says he is the knower of the field in all fields. The Liṅga Purāṇa verse Bhāskararāya quotes under the previous name gives the field to the Devī and the knowing to Śiva, and this name joins them as Lord and consort.",
+    "hi": "गीता के तेरहवें अध्याय में श्रीकृष्ण कहते हैं कि सब क्षेत्रों में क्षेत्रज्ञ मैं हूँ। पिछले नाम पर भास्करराय द्वारा उद्धृत लिङ्ग पुराण का श्लोक क्षेत्र को देवी से और ज्ञाता को शिव से जोड़ता है; यह नाम दोनों को स्वामी और शक्ति के रूप में मिलाता है।"
+  },
+  "commentary": {
+    "sanskrit": "क्षेत्रस्य शरीरस्येशः शिवस्तस्येयं क्षेत्रेशी ।",
+    "translation": {
+      "en": "The īśa, lord, of the kṣetra, the body, is Śiva; she, being his, is Kṣetreśī.",
+      "hi": "क्षेत्र, अर्थात् शरीर, के ईश शिव हैं; वे उन्हीं की हैं, इसलिए क्षेत्रेशी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 342 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the derivation; the inner layer is a reflection." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 810,
+  "verse": 153,
+  "slug": "pasha-hasta",
+  "devanagari": "पाशहस्ता",
+  "iastSplit": "Pāśa-hastā",
+  "archana": "ॐ पाशहस्तायै नमः",
+  "syllables": ["pā", "śa", "has", "tā"],
+  "words": [
+    {"sa": "पाश", "meaning": {"en": "noose", "hi": "पाश, फन्दा"}},
+    {"sa": "हस्त", "meaning": {"en": "hand", "hi": "हाथ"}}
+  ],
+  "meaning": {
+    "en": "Who holds the noose in her hand",
+    "hi": "जो हाथ में पाश धारण करती हैं"
+  },
+  "explanation": {
+    "en": "The noose is one of her four weapons, and Bhāskararāya places it in her lower left hand. Name 8 has already said what it is: the noose is rāga, desire and attachment, the force that binds.",
+    "hi": "पाश उनके चार आयुधों में से एक है, और भास्करराय उसे उनके निचले बाएँ हाथ में बताते हैं। नाम 8 पहले ही बता चुका है कि यह क्या है: पाश राग, अर्थात् इच्छा और आसक्ति, है, वह शक्ति जो बाँधती है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives a second reading: she casts the nooses away with her hand. Read so, the same hand that holds the bond also removes it, and the next name, Pāśahantrī, says this plainly: she is the destroyer of bonds.",
+    "hi": "भास्करराय दूसरा अर्थ भी देते हैं: वे पाशों को अपने हाथ से दूर फेंक देती हैं। इस अर्थ में जो हाथ बन्धन धारण करता है, वही उसे हटाता भी है, और अगला नाम ‘पाशहन्त्री’ यही स्पष्ट कहता है: वे बन्धनों का नाश करने वाली हैं।"
+  },
+  "story": {
+    "en": "In the classical dhyāna of Lalitā she holds four weapons, the noose, the goad, the sugarcane bow and the five flower arrows, described in names 8 to 11. Bhāskararāya adds a note of grammar on why the word for the weapon comes first in this compound.",
+    "hi": "ललिता के पारम्परिक ध्यान में वे चार आयुध धारण करती हैं: पाश, अंकुश, इक्षु-धनुष और पाँच पुष्प-बाण, जिनका वर्णन नाम 8 से 11 में है। भास्करराय व्याकरण की एक टिप्पणी भी जोड़ते हैं कि इस समास में आयुध का नाम पहले क्यों आता है।"
+  },
+  "commentary": {
+    "sanskrit": "पाशो हस्ते वामाधःकरे यस्याः ।",
+    "translation": {
+      "en": "She in whose hand, the lower left, is the noose.",
+      "hi": "जिनके हाथ में, अर्थात् निचले बाएँ हाथ में, पाश है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 810 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The second reading (पाशान् हस्तयते हस्तेन निरस्यतीति वा) is paraphrased; the link drawn to the next name is a reflection." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 819,
+  "verse": 154,
+  "slug": "sarvantaryamini",
+  "devanagari": "सर्वान्तर्यामिणी",
+  "iastSplit": "Sarvāntaryāmiṇī",
+  "archana": "ॐ सर्वान्तर्यामिण्यै नमः",
+  "syllables": ["sar", "vān", "tar", "yā", "mi", "ṇī"],
+  "words": [
+    {"sa": "सर्व", "meaning": {"en": "all", "hi": "सब, सर्व"}},
+    {"sa": "अन्तर्यामिन्", "meaning": {"en": "inner controller, who rules from within", "hi": "अन्तर्यामी, भीतर से नियमन करने वाला"}}
+  ],
+  "meaning": {
+    "en": "The inner ruler dwelling within all",
+    "hi": "सबके भीतर रहकर सबका नियमन करने वाली"
+  },
+  "explanation": {
+    "en": "The antaryāmin is the one who dwells within and guides from within. She lives in the heart of every being and, unseen, directs its mind and senses from inside.",
+    "hi": "‘अन्तर्यामी’ वह है जो भीतर रहकर भीतर से ही संचालन करे। वे हर प्राणी के हृदय में निवास करती हैं और अदृश्य रहकर भीतर से उसके मन और इन्द्रियों का नियमन करती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya points to the Antaryāmi Brāhmaṇa of the Bṛhadāraṇyaka, whose refrain is “This is your Self, the inner controller, the immortal”, and to the Māṇḍūkya: “this is the inner controller, the source of all”. He also reads the name as sarvā, she who is all, and antaryāmiṇī: having created the world she entered into it, as the Taittirīya says.",
+    "hi": "भास्करराय बृहदारण्यक के अन्तर्यामि-ब्राह्मण की ओर संकेत करते हैं, जिसकी टेक है ‘यह तुम्हारी आत्मा है, अन्तर्यामी, अमृत’, और माण्डूक्य की ओर: ‘यह अन्तर्यामी है, सबका उद्गम’। वे नाम को ‘सर्वा’ (जो सब कुछ हैं) और ‘अन्तर्यामिणी’ के रूप में भी पढ़ते हैं: जगत् की रचना करके वे उसमें प्रविष्ट हुईं, जैसा तैत्तिरीय कहता है।"
+  },
+  "story": {
+    "en": "At name 823 Bhāskararāya discusses how these names are divided. If brahma-jananī there is taken as one name, the count of the thousand requires sarvā and antaryāmiṇī here to be two; the text followed on this site keeps Sarvāntaryāmiṇī as one name.",
+    "hi": "नाम 823 पर भास्करराय इन नामों के विभाजन पर विचार करते हैं। यदि वहाँ ‘ब्रह्मजननी’ को एक नाम माना जाए, तो सहस्र की गणना के लिए यहाँ ‘सर्वा’ और ‘अन्तर्यामिणी’ दो नाम मानने होंगे; यहाँ अपनाया गया पाठ ‘सर्वान्तर्यामिणी’ को एक ही नाम रखता है।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वेषामन्तःकरणनियामक इति । एष त आत्मान्तर्याम्यमृत इत्यन्तर्यामिब्राह्मणात् ।",
+    "translation": {
+      "en": "The controller of the inner faculties of all; from the Antaryāmi Brāhmaṇa: “This is your Self, the inner controller, the immortal.”",
+      "hi": "सबके अन्तःकरण का नियामक; अन्तर्यामि-ब्राह्मण के वचन से: ‘यह तुम्हारी आत्मा है, अन्तर्यामी, अमृत।’"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 819 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya offers सर्वा + अन्तर्यामिणी as an alternative division, and at name 823 says it is required if ब्रह्मजननी is read as one name; the master text (one name here, ब्रह्म and जननी separate) is followed." }
+}

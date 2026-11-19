@@ -1,0 +1,44 @@
+{
+  "number": 352,
+  "verse": 77,
+  "slug": "vahni-mandala-vasini",
+  "devanagari": "वह्निमण्डलवासिनी",
+  "iastSplit": "Vahni-maṇḍala-vāsinī",
+  "archana": "ॐ वह्निमण्डलवासिन्यै नमः",
+  "syllables": ["vah", "ni", "maṇ", "ḍa", "la", "vā", "si", "nī"],
+  "words": [
+    { "sa": "वह्नि", "meaning": { "en": "fire", "hi": "अग्नि" } },
+    { "sa": "मण्डल", "meaning": { "en": "region, orb, circle", "hi": "मण्डल, वृत्त" } },
+    { "sa": "वासिनी", "meaning": { "en": "she who dwells", "hi": "निवास करने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who dwells in the region of fire",
+    "hi": "अग्निमण्डल में निवास करने वाली"
+  },
+  "explanation": {
+    "en": "Vahni is fire and maṇḍala is its circle or region. Bhāskararāya places this region of fire in the mūlādhāra, the base of the subtle body, or in the supreme space. She dwells there.",
+    "hi": "‘वह्नि’ का अर्थ है अग्नि और ‘मण्डल’ उसका वृत्त या क्षेत्र। भास्करराय इस अग्निमण्डल को मूलाधार में, अर्थात् सूक्ष्म शरीर के आधार में, अथवा परम आकाश में बताते हैं। वे वहीं निवास करती हैं।"
+  },
+  "inner": {
+    "en": "He adds a second reading through number symbolism: in the traditional use of words for numbers, vahni, fire, stands for three. The name then means she who dwells in the three regions of moon, sun and fire.",
+    "hi": "वे संख्या-प्रतीक के आधार पर दूसरा अर्थ भी देते हैं: शब्दों से संख्या बताने की परम्परा में ‘वह्नि’ तीन का बोधक है। तब नाम का अर्थ होता है: सोम, सूर्य और अग्नि, इन तीनों मण्डलों में निवास करने वाली।"
+  },
+  "story": {
+    "en": "This name closes a verse of seven names beginning with v. The hymn has already described her rising from the mūlādhāra in its Kuṇḍalinī names (99–111).",
+    "hi": "यह नाम ‘व’ से आरम्भ होने वाले सात नामों का श्लोक पूरा करता है। मूलाधार से उनके ऊर्ध्वगमन का वर्णन स्तोत्र पहले ही कुण्डलिनी-नामों (99–111) में कर चुका है।"
+  },
+  "commentary": {
+    "sanskrit": "वह्नेर्मण्डलं मूलाधारे परमाकाशे वा विद्यमानं तत्र वसतीति तथा ।",
+    "translation": {
+      "en": "The maṇḍala of fire, present in the mūlādhāra or in the supreme space: she dwells there, and so is named.",
+      "hi": "मूलाधार में अथवा परम आकाश में स्थित अग्नि का मण्डल; वे वहाँ निवास करती हैं, इसलिए ऐसी कहलाती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 352 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Meaning only; no practice is described. The gloss of vahni as ‘three’ follows the bhūtasaṅkhyā convention, which Bhāskararāya implies but does not explain." }
+}

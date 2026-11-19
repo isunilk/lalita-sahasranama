@@ -1,0 +1,43 @@
+{
+  "number": 332,
+  "verse": 74,
+  "slug": "vama-nayana",
+  "devanagari": "वामनयना",
+  "iastSplit": "Vāma-nayanā",
+  "archana": "ॐ वामनयनायै नमः",
+  "syllables": ["vā", "ma", "na", "ya", "nā"],
+  "words": [
+    { "sa": "वाम", "meaning": { "en": "lovely, beautiful", "hi": "सुन्दर" } },
+    { "sa": "नयन", "meaning": { "en": "eye; that which leads", "hi": "नेत्र; ले जाने वाला" } }
+  ],
+  "meaning": {
+    "en": "She of the beautiful eyes",
+    "hi": "सुन्दर नेत्रों वाली"
+  },
+  "explanation": {
+    "en": "Vāma here means lovely, and nayana means eye. She is the one with beautiful eyes. Bhāskararāya adds that nayana can also mean a pramāṇa, a means of valid knowledge, so the name may also say that her means of knowledge are beautiful.",
+    "hi": "यहाँ ‘वाम’ का अर्थ है सुन्दर और ‘नयन’ का अर्थ नेत्र। वे सुन्दर नेत्रों वाली हैं। भास्करराय जोड़ते हैं कि ‘नयन’ का अर्थ प्रमाण, अर्थात् यथार्थ ज्ञान का साधन, भी हो सकता है; तब नाम यह भी कहता है कि उनके प्रमाण सुन्दर हैं।"
+  },
+  "inner": {
+    "en": "He also reads the name through nayati, ‘she leads’: she leads along a particular path called vāma. Or vāma means the fruit born of actions, as a Vedic passage uses the word, and she is the one who brings each being to that fruit. As a reflection, the eye that sees is also the power that guides.",
+    "hi": "वे इस नाम को ‘नयति’ (ले जाती है) से भी जोड़ते हैं: वे ‘वाम’ नामक एक विशेष मार्ग पर ले जाती हैं। अथवा ‘वाम’ का अर्थ कर्मों से उत्पन्न फल है, जैसा श्रुति में इस शब्द का प्रयोग मिलता है, और वे प्रत्येक जीव को उस फल तक पहुँचाती हैं। चिन्तन के रूप में: जो नेत्र देखता है, वही मार्ग भी दिखाता है।"
+  },
+  "story": {
+    "en": "Beautiful eyes recur in the hymn; name 18 compared her eyes to fish moving in the stream of her face’s beauty. The word vāma returns later in this verse group, in Vāmakeśī (351).",
+    "hi": "सुन्दर नेत्र स्तोत्र में बार-बार आते हैं; नाम 18 में उनकी आँखों की तुलना मुख के सौन्दर्य की धारा में तैरती मछलियों से की गई थी। ‘वाम’ शब्द आगे वामकेशी (351) में फिर आता है।"
+  },
+  "commentary": {
+    "sanskrit": "वामानि सुन्दराणि नयनानि नेत्राणि प्रमाणानि वा यस्याः ।",
+    "translation": {
+      "en": "She whose nayanas, her eyes or her means of knowledge, are vāma, beautiful.",
+      "hi": "जिनके नयन, अर्थात् नेत्र अथवा प्रमाण, वाम अर्थात् सुन्दर हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 332 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The ‘vāma path’ is reported as Bhāskararāya states it (मार्गविशेष) without further identification. He cites the Vedic passage (एष उ एव वामनिः) only as śruti. The last sentence of the inner layer is a reflection." }
+}

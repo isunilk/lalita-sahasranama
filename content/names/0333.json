@@ -1,0 +1,44 @@
+{
+  "number": 333,
+  "verse": 74,
+  "slug": "varuni-mada-vihvala",
+  "devanagari": "वारुणीमदविह्वला",
+  "iastSplit": "Vāruṇī-mada-vihvalā",
+  "archana": "ॐ वारुणीमदविह्वलायै नमः",
+  "syllables": ["vā", "ru", "ṇī", "ma", "da", "vih", "va", "lā"],
+  "words": [
+    { "sa": "वारुणी", "meaning": { "en": "vāruṇī, a wine dear to Varuṇa", "hi": "वारुणी, वरुण को प्रिय मदिरा" } },
+    { "sa": "मद", "meaning": { "en": "elation, intoxication", "hi": "मद, मस्ती" } },
+    { "sa": "विह्वला", "meaning": { "en": "overcome, lost to the outer world", "hi": "विह्वल, आत्मविभोर" } }
+  ],
+  "meaning": {
+    "en": "Overcome by the elation of vāruṇī wine",
+    "hi": "वारुणी के मद में विभोर"
+  },
+  "explanation": {
+    "en": "Vāruṇī is a wine, so called because it is dear to Varuṇa; Bhāskararāya says it is made from the date palm. Mada is the joy that drinking brings, and vihvalā means so overcome by it that outer things are forgotten. He makes the sense plain: she is absorbed only in relishing the bliss of her own Self.",
+    "hi": "‘वारुणी’ एक मदिरा है, जिसका यह नाम वरुण को प्रिय होने के कारण है; भास्करराय बताते हैं कि यह खजूर से बनती है। ‘मद’ पीने से उत्पन्न आनन्द है, और ‘विह्वला’ का अर्थ है उसमें ऐसी डूबी हुई कि बाहरी वस्तुएँ भूल जाएँ। वे अर्थ स्पष्ट करते हैं: वे केवल अपनी आत्मा के आनन्द का रस लेने में लीन हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives two more readings. Vāruṇīmān is Śeṣa, the thousand-hooded serpent attended by Vāruṇī, and she is avihvalā, unshaken, as he is unshaken while bearing the earth. In the yogic reading, vāruṇī is a nāḍī, a channel of the subtle body whose deity is Vāyu, and those who have mastered it are made steady by her.",
+    "hi": "भास्करराय दो और अर्थ देते हैं। ‘वारुणीमान्’ सहस्र फणों वाले शेषनाग हैं, जिनकी सेवा वारुणी करती है; जैसे वे पृथ्वी को धारण करते हुए विचलित नहीं होते, वैसे ही देवी ‘अविह्वला’, अर्थात् अविचल, हैं। योग की दृष्टि से ‘वारुणी’ सूक्ष्म शरीर की एक नाड़ी है जिसके देवता वायु हैं; जिन्होंने उस पर विजय पा ली, उन्हें देवी स्थिर बना देती हैं।"
+  },
+  "story": {
+    "en": "With Kādambarīpriyā (330), this name belongs to the hymn’s language of divine intoxication. Bhāskararāya’s gloss turns the image inward: the wine is her own bliss, and what is forgotten is everything that is not the Self.",
+    "hi": "कादम्बरीप्रिया (330) के साथ यह नाम स्तोत्र की दिव्य मद की भाषा का अंग है। भास्करराय की व्याख्या इस चित्र को भीतर की ओर मोड़ देती है: मदिरा उनका अपना आनन्द है, और जो भूल जाता है वह सब है जो आत्मा नहीं है।"
+  },
+  "commentary": {
+    "sanskrit": "यद्वा कर्जूरीसमुद्भवो रसो वरुणप्रियत्वाद्वारुणी तस्या मदेन पानजन्यानन्देन विह्वला बाह्यपदार्थविस्मरणशीला ।",
+    "translation": {
+      "en": "Or: the juice drawn from the date palm is vāruṇī, because it is dear to Varuṇa; she is vihvalā through its mada, the joy born of drinking, that is, inclined to forget outward things.",
+      "hi": "अथवा खजूर से बना रस वरुण को प्रिय होने से वारुणी कहलाता है; उसके मद से, अर्थात् पीने से उत्पन्न आनन्द से, वे विह्वला हैं, अर्थात् बाहरी वस्तुओं को भूल जाने वाली।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 333 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition prints कर्जूरी, evidently for खर्जूरी (date palm); it is quoted as printed. In स्वात्मानन्दैकचर्वणतीति the form चर्वणती looks like a misprint; the sense ‘relishing’ is clear. Bhāskararāya also divides the name as वारुणीमत् + अविह्वला (unshaken like Śeṣa); the master text is followed. The yogic reading is given as meaning only." }
+}

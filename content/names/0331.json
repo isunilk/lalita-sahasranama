@@ -1,0 +1,43 @@
+{
+  "number": 331,
+  "verse": 74,
+  "slug": "varada",
+  "devanagari": "वरदा",
+  "iastSplit": "Varadā",
+  "archana": "ॐ वरदायै नमः",
+  "syllables": ["va", "ra", "dā"],
+  "words": [
+    { "sa": "वर", "meaning": { "en": "boon", "hi": "वर, वरदान" } },
+    { "sa": "दा", "meaning": { "en": "she who gives", "hi": "देने वाली" } }
+  ],
+  "meaning": {
+    "en": "The giver of boons",
+    "hi": "वर देने वाली"
+  },
+  "explanation": {
+    "en": "Vara is a boon, and -dā is the one who gives. Bhāskararāya says she grants boons to all her worshippers, Brahmā and Viṣṇu among them. He quotes the Devībhāgavata: she fulfils the wishes of the gods and all who seek boons, and so she is called Varadā.",
+    "hi": "‘वर’ का अर्थ है वरदान और ‘दा’ का अर्थ देने वाली। भास्करराय कहते हैं कि वे ब्रह्मा, विष्णु आदि अपने सभी उपासकों को वर देती हैं। वे देवीभागवत का प्रमाण देते हैं: वर माँगने वाले देवता आदि सबकी कामनाएँ वे पूरी करती हैं, इसलिए वरदा कहलाती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya notes that the point is the fulfilment of wishes, not the hand-gesture of boon-giving. He quotes Śaṅkara’s Saundaryalaharī (verse 4): the other gods show the gestures of giving and of protection with their hands, but she alone does not display them. Her grace works without a sign.",
+    "hi": "भास्करराय स्पष्ट करते हैं कि तात्पर्य कामनाओं की पूर्ति में है, वरद-मुद्रा धारण करने में नहीं। वे शंकराचार्य की सौन्दर्यलहरी (श्लोक 4) उद्धृत करते हैं: अन्य देवता हाथों से वर और अभय की मुद्राएँ दिखाते हैं, पर केवल आप ही उन्हें प्रकट नहीं करतीं। उनकी कृपा बिना किसी संकेत के कार्य करती है।"
+  },
+  "story": {
+    "en": "He cites the Matsya and Padma Purāṇas, where Nārada says that her hand is always turned upward, the hand that grants boons. From the Varāha Purāṇa, in the account of the slaying of Vetrāsura, he quotes that the Devī is to be worshipped on the ninth lunar day and will grant boons to all the worlds.",
+    "hi": "वे मत्स्य और पद्म पुराण का उल्लेख करते हैं, जहाँ नारद कहते हैं कि उनका हाथ सदा ऊपर की ओर खुला रहता है, वही वर देने वाला हाथ। वराह पुराण के वेत्रासुर-वध प्रसंग से वे उद्धृत करते हैं कि नवमी को इन देवी की पूजा होगी और वे सब लोकों को वर देने वाली होंगी।"
+  },
+  "commentary": {
+    "sanskrit": "ब्रह्मविष्ण्वादिभ्य उपासकेभ्यो वरान् दत्त इति वरदा ।",
+    "translation": {
+      "en": "Varadā, because she gives boons to her worshippers, Brahmā, Viṣṇu and the others.",
+      "hi": "ब्रह्मा, विष्णु आदि उपासकों को वे वर देती हैं, इसलिए वरदा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 331 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya cites the verse from ‘Bhagavatpādācārya’; it is identified here as Saundaryalaharī 4, which a scholar may confirm." }
+}

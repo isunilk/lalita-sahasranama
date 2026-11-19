@@ -1,0 +1,43 @@
+{
+  "number": 330,
+  "verse": 74,
+  "slug": "kadambari-priya",
+  "devanagari": "कादम्बरीप्रिया",
+  "iastSplit": "Kādambarī-priyā",
+  "archana": "ॐ कादम्बरीप्रियायै नमः",
+  "syllables": ["kā", "dam", "ba", "rīp", "ri", "yā"],
+  "words": [
+    { "sa": "कादम्बरी", "meaning": { "en": "kādambarī, a choice wine", "hi": "कादम्बरी, एक उत्तम मदिरा" } },
+    { "sa": "प्रिया", "meaning": { "en": "dear, fond of", "hi": "प्रिय" } }
+  ],
+  "meaning": {
+    "en": "She who is fond of kādambarī, the finest wine",
+    "hi": "जिन्हें कादम्बरी नामक उत्तम मदिरा प्रिय है"
+  },
+  "explanation": {
+    "en": "Kādambarī is a choice wine, and Bhāskararāya glosses it simply as the finest liquor. The name says it is dear to her. It belongs to the strand of the hymn that speaks of her joy and elation, which name 333 takes up again.",
+    "hi": "कादम्बरी एक उत्तम मदिरा है, और भास्करराय इसका अर्थ सीधे ‘उत्तम मदिरा’ ही बताते हैं। यह नाम कहता है कि वह उन्हें प्रिय है। यह स्तोत्र के उस सूत्र का अंग है जो उनके आनन्द और मद की बात करता है; नाम 333 इसी को फिर उठाता है।"
+  },
+  "inner": {
+    "en": "Here Bhāskararāya gives the plain sense and supports it with a verse he cites as śruti: the virtuous worshipper who offers wine and other gifts to the Great Goddess reaches fulfilment. At name 333 he reads such intoxication as her absorption in the bliss of her own Self, forgetful of everything outside. Read that way, the wine she loves is that inner bliss.",
+    "hi": "यहाँ भास्करराय सीधा अर्थ देते हैं और उसके समर्थन में श्रुति कहकर एक मन्त्र उद्धृत करते हैं: महादेवी को मदिरा आदि अर्पित करने वाला पुण्यात्मा साधक सिद्धि पाता है। नाम 333 पर वे ऐसे मद को उनकी अपनी आत्मा के आनन्द में तल्लीनता बताते हैं, जिसमें बाहरी सब कुछ भूल जाता है। इस दृष्टि से, उन्हें प्रिय मदिरा वही भीतरी आनन्द है।"
+  },
+  "story": {
+    "en": "Kādambarī takes its name from the kadamba tree, and the kadamba is close to her: name 323, Kadambakusumapriyā, says she loves its flowers, and name 60 places her home in a kadamba forest. With this name the verse completes its four names beginning with ka.",
+    "hi": "‘कादम्बरी’ नाम कदम्ब वृक्ष से बना है, और कदम्ब देवी के बहुत निकट है: नाम 323, कदम्बकुसुमप्रिया, कहता है कि उन्हें इसके फूल प्रिय हैं, और नाम 60 उनका निवास कदम्ब-वन में बताता है। इस नाम के साथ श्लोक के ‘क’ से आरम्भ होने वाले चार नाम पूरे होते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "कादम्बरी उत्तमा मदिरा सैव प्रिया यस्याः ।",
+    "translation": {
+      "en": "Kādambarī is the finest wine; she to whom that is dear.",
+      "hi": "कादम्बरी उत्तम मदिरा है; वही जिन्हें प्रिय है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 330 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The derivation of kādambarī from the kadamba tree is lexical context, not from Bhāskararāya. The last sentence of the inner layer is a reflection that applies his gloss on name 333 to this name." }
+}

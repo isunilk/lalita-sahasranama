@@ -1,0 +1,43 @@
+{
+  "number": 327,
+  "verse": 74,
+  "slug": "kalavati",
+  "devanagari": "कलावती",
+  "iastSplit": "Kalāvatī",
+  "archana": "ॐ कलावत्यै नमः",
+  "syllables": ["ka", "lā", "va", "tī"],
+  "words": [
+    { "sa": "कला", "meaning": { "en": "art, skill; also a digit or portion", "hi": "कला, विद्या; अंश भी" } },
+    { "sa": "वती", "meaning": { "en": "possessing (feminine suffix)", "hi": "से युक्त, धारण करने वाली" } }
+  ],
+  "meaning": {
+    "en": "She in whom all the arts dwell",
+    "hi": "जिनमें समस्त कलाएँ निवास करती हैं"
+  },
+  "explanation": {
+    "en": "Kalā means an art or skill, and -vatī means one who has it. Bhāskararāya explains that the sixty-four arts are present in her. Music, poetry, painting, dance and every refined skill have their home in the Mother.",
+    "hi": "‘कला’ का अर्थ है कोई विद्या या कौशल, और ‘वती’ का अर्थ है उससे युक्त। भास्करराय बताते हैं कि चौंसठ कलाएँ उनमें विद्यमान हैं। संगीत, काव्य, चित्र, नृत्य जैसे सभी सुसंस्कृत कौशलों का घर माँ ही हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only this sense: the sixty-four kalās are in her. He gives no hidden meaning here. As a reflection, every skill a person learns is a small share of her fullness, and an art practised with devotion becomes a way back to her.",
+    "hi": "भास्करराय यहाँ केवल यही अर्थ देते हैं कि चौंसठ कलाएँ उनमें हैं; वे कोई गूढ़ अर्थ नहीं बताते। चिन्तन के रूप में: मनुष्य जो भी कौशल सीखता है, वह उन्हीं की पूर्णता का एक छोटा अंश है, और भक्ति से साधी गई कला उन्हीं तक लौटने का मार्ग बन जाती है।"
+  },
+  "story": {
+    "en": "The sixty-four arts are the classical list of accomplishments, from music and dance to many crafts. An earlier name, Catuḥṣaṣṭikalāmayī (236), also calls her the one made of these sixty-four arts. This verse opens with four names beginning with ka.",
+    "hi": "चौंसठ कलाएँ पारम्परिक रूप से गिनाई गई विद्याएँ हैं, जिनमें संगीत और नृत्य से लेकर अनेक शिल्प आते हैं। पहले एक नाम, चतुःषष्टिकलामयी (236), में भी उन्हें इन्हीं चौंसठ कलाओं से बनी कहा गया है। यह श्लोक ‘क’ से आरम्भ होने वाले चार नामों से खुलता है।"
+  },
+  "commentary": {
+    "sanskrit": "चतुःषष्टिसंख्याः कला अस्यां सन्तीति कलावती ।",
+    "translation": {
+      "en": "She is Kalāvatī because the kalās, sixty-four in number, are in her.",
+      "hi": "चौंसठ संख्या वाली कलाएँ उनमें विद्यमान हैं, इसलिए वे कलावती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 327 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the last sentence of the inner layer is a reflection." }
+}

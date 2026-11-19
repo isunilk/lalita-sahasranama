@@ -1,0 +1,42 @@
+{
+  "number": 820,
+  "verse": 154,
+  "slug": "sati",
+  "devanagari": "सती",
+  "iastSplit": "Satī",
+  "archana": "ॐ सत्यै नमः",
+  "syllables": ["sa", "tī"],
+  "words": [
+    {"sa": "सती", "meaning": {"en": "the faithful wife; she who is Sat, pure being", "hi": "सती, पतिव्रता; सत्-स्वरूपा"}}
+  ],
+  "meaning": {
+    "en": "Satī, ever faithful, whose nature is pure being",
+    "hi": "सती, पतिव्रता और सत्-स्वरूपा"
+  },
+  "explanation": {
+    "en": "Satī means the faithful wife, and also “she who is”, sat, pure being. Both meanings are hers. It is also the name she bore as the daughter of Dakṣa, the first wife of Śiva.",
+    "hi": "‘सती’ का अर्थ है पतिव्रता पत्नी, और ‘जो है’, अर्थात् सत्, शुद्ध अस्तित्व। दोनों अर्थ उन्हीं के हैं। दक्ष की पुत्री और शिव की प्रथम पत्नी के रूप में यही उनका नाम था।"
+  },
+  "inner": {
+    "en": "Bhāskararāya joins the two senses: she is Satī by her faithfulness and by being Sat itself. He quotes the Brahma Purāṇa: she was first Satī and later became Umā; she shares the vows of Bhava, Śiva, and he is never apart from her. Her faithfulness is the oneness of Śakti with Śiva, which no birth or death can break.",
+    "hi": "भास्करराय दोनों अर्थों को जोड़ते हैं: वे अपने पातिव्रत्य से भी सती हैं और स्वयं सत् होने से भी। वे ब्रह्मपुराण उद्धृत करते हैं: वे पहले सती थीं, फिर उमा हुईं; वे भव, अर्थात् शिव, के व्रत की सहभागिनी हैं, और शिव उनसे कभी अलग नहीं होते। उनका पातिव्रत्य शक्ति और शिव की वह एकता है जिसे कोई जन्म या मृत्यु नहीं तोड़ सकती।"
+  },
+  "story": {
+    "en": "As Satī, daughter of Dakṣa, she gave up her body when her father insulted Śiva at his sacrifice, and was born again as Pārvatī, Umā, to be united with Śiva once more. Bhāskararāya simply notes that Satī is the name of Dākṣāyaṇī, Dakṣa’s daughter.",
+    "hi": "दक्ष-पुत्री सती के रूप में, जब उनके पिता ने अपने यज्ञ में शिव का अपमान किया, तब उन्होंने अपना शरीर त्याग दिया, और फिर पार्वती, उमा, के रूप में जन्म लेकर पुनः शिव से मिलीं। भास्करराय बस इतना कहते हैं कि ‘सती’ दाक्षायणी, अर्थात् दक्ष-पुत्री, का नाम है।"
+  },
+  "commentary": {
+    "sanskrit": "पातिव्रत्यात्सद्रूपत्वाच्च सती । दाक्षायण्या इदं नाम ।",
+    "translation": {
+      "en": "Satī, by her faithfulness to her husband and because she is Sat itself. This is the name of Dākṣāyaṇī.",
+      "hi": "पातिव्रत्य से और सत्-स्वरूपा होने से वे ‘सती’ हैं। यह दाक्षायणी का नाम है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 820 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Dakṣa episode in the story layer is the common Purāṇic account, not told by Bhāskararāya here. The last sentence of the inner layer is a reflection." }
+}

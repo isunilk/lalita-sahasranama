@@ -1,0 +1,43 @@
+{
+  "number": 807,
+  "verse": 153,
+  "slug": "param-dhama",
+  "devanagari": "परन्धाम",
+  "iastSplit": "Paraṃ dhāma",
+  "archana": "ॐ परस्मै धाम्ने नमः",
+  "syllables": ["pa", "ran", "dhā", "ma"],
+  "words": [
+    {"sa": "पर", "meaning": {"en": "supreme, highest (here param, agreeing with dhāma)", "hi": "परम, सर्वोच्च (यहाँ ‘परम्’, धाम का विशेषण)"}},
+    {"sa": "धामन्", "meaning": {"en": "abode; radiance; state", "hi": "धाम, निवास; तेज; अवस्था"}}
+  ],
+  "meaning": {
+    "en": "The Supreme Abode, the highest radiance",
+    "hi": "परम धाम, सर्वोच्च तेज"
+  },
+  "explanation": {
+    "en": "Dhāman means both radiance and abode. She is the supreme radiance, and the supreme abode which the Gītā describes as the place that sun, moon and fire do not light, and from which those who reach it do not return.",
+    "hi": "‘धाम’ के दो अर्थ हैं: तेज और निवास-स्थान। वे परम तेज हैं, और वह परम धाम भी, जिसे गीता ऐसा स्थान बताती है जिसे सूर्य, चन्द्र और अग्नि प्रकाशित नहीं करते, और जहाँ पहुँचकर कोई लौटता नहीं।"
+  },
+  "inner": {
+    "en": "Dhāman also means a state. Waking, dream and deep sleep are the three states, and Bhāskararāya quotes verses saying that one who knows the enjoyer and the enjoyed in all three is untouched, and that one should take refuge in the witness of the three states, the supreme dhāma. She is that witness, beyond all three. Taken as pada, “station”, it is the supreme state of the Ṛgveda, “that highest step of Viṣṇu”.",
+    "hi": "‘धाम’ का अर्थ अवस्था भी है। जाग्रत्, स्वप्न और सुषुप्ति तीन अवस्थाएँ हैं, और भास्करराय ऐसे श्लोक उद्धृत करते हैं जो कहते हैं कि तीनों अवस्थाओं के भोक्ता और भोग्य को जानने वाला लिप्त नहीं होता, और तीनों अवस्थाओं के साक्षी, परम धाम, का आश्रय लेना चाहिए। वे वही साक्षी हैं, तीनों से परे। ‘पद’ के अर्थ में यह ऋग्वेद का वह परम पद है, ‘तद् विष्णोः परमं पदम्’।"
+  },
+  "story": {
+    "en": "Bhāskararāya cites the Kūrma Purāṇa, where the Lord says of the Devī: “She is Māheśvarī, Gaurī, my stainless Śakti, peaceful, true, ever-blissful, the supreme state.” He gives the archana of this pair of names as parasmai jyotiṣe namaḥ and parasmai dhāmne namaḥ.",
+    "hi": "भास्करराय कूर्मपुराण उद्धृत करते हैं, जहाँ भगवान देवी के विषय में कहते हैं: ‘यह माहेश्वरी गौरी मेरी निरञ्जन शक्ति है, शान्त, सत्य, सदानन्द, परम पद।’ इन दोनों नामों की अर्चना वे ‘परस्मै ज्योतिषे नमः’ और ‘परस्मै धाम्ने नमः’ बताते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "परं धाम उत्कृष्टं तेजः ।",
+    "translation": {
+      "en": "Paraṃ dhāma: the highest radiance.",
+      "hi": "परं धाम, अर्थात् सर्वोत्कृष्ट तेज।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 807 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Two-word name, kept as written in the verse (परन्धाम); the Wikisource commentary prints परंधाम. The archana परस्मै धाम्ने is confirmed by Bhāskararāya. Of the verses on the three states, the first is introduced as ‘said by the Ācārya’ (it matches Gauḍapāda’s Māṇḍūkya-kārikā 1.5; to be confirmed) and the second is from the Yajñavaibhava Khaṇḍa." }
+}

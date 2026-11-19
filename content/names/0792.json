@@ -1,0 +1,43 @@
+{
+  "number": 792,
+  "verse": 151,
+  "slug": "samarasya-parayana",
+  "devanagari": "सामरस्यपरायणा",
+  "iastSplit": "Sāmarasya-parāyaṇā",
+  "archana": "ॐ सामरस्यपरायणायै नमः",
+  "syllables": ["sā", "ma", "ras", "ya", "pa", "rā", "ya", "ṇā"],
+  "words": [
+    {"sa": "सामरस्य", "meaning": {"en": "oneness of essence, the equal union of Śiva and Śakti", "hi": "समरसता, शिव-शक्ति की एकरसता"}},
+    {"sa": "परायण", "meaning": {"en": "highest abode, final refuge", "hi": "परम आश्रय, परम धाम"}}
+  ],
+  "meaning": {
+    "en": "Whose highest abode is the perfect oneness of Śiva and Śakti",
+    "hi": "शिव और शक्ति की समरसता ही जिनका परम आश्रय है"
+  },
+  "explanation": {
+    "en": "Sāmarasya means “having the same rasa”, the same essence or savour. It names the union of Śiva and Śakti in which neither is greater or less than the other. This oneness is her true home, the place where she rests.",
+    "hi": "‘सामरस्य’ का अर्थ है एक ही रस होना, एक ही सार। यह शिव और शक्ति के उस मिलन का नाम है जिसमें कोई न अधिक है, न कम। यही समरसता उनका सच्चा धाम है, जिसमें वे स्थित रहती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya defines sāmarasya as the state of Śiva and Śakti whose rasa is equal, neither less nor more. He cites a line he attributes to Kālidāsa, in which Śivā yields the nectar of this oneness when the waves of enjoyer, enjoyed and the means of enjoyment have died down. For the seeker this points to the stillness in which knower and known are no longer two. He adds other readings too: the refuge of the world together with the gods, or she to whom the sung Sāman chants are dear.",
+    "hi": "भास्करराय ‘सामरस्य’ को शिव और शक्ति की वह अवस्था बताते हैं जिसमें दोनों का रस समान है, न न्यून न अधिक। वे कालिदास की कही एक पंक्ति उद्धृत करते हैं, जिसमें भोक्ता, भोग्य और भोग के साधनों की लहरें शान्त होने पर शिवा समरसता का रस प्रदान करती हैं। साधक के लिए यह वह शान्ति है जिसमें जानने वाला और जाना हुआ दो नहीं रहते। वे अन्य अर्थ भी देते हैं: देवताओं सहित जगत् का आश्रय, या वे जिन्हें गाए जाने वाले सामगान प्रिय हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya quotes a verse that praises Śiva and Śakti as the primal couple, mother and father of the universe, each the fruit of the other’s austerity. Many names of the hymn turn on this pairing, most fully name 999, Śiva-śakty-aikya-rūpiṇī.",
+    "hi": "भास्करराय एक श्लोक उद्धृत करते हैं जो शिव और शक्ति को आदि दम्पती, जगत् के माता-पिता, के रूप में नमन करता है, जिनमें प्रत्येक दूसरे की तपस्या का फल है। स्तोत्र के कई नाम इसी युगल-भाव पर टिके हैं, सबसे पूर्ण रूप से नाम 999, ‘शिवशक्त्यैक्यरूपिणी’।"
+  },
+  "commentary": {
+    "sanskrit": "समो न्यूनानधिको रसो ययोस्तयोः शिवशक्त्योर्भावः सामरस्यमेव परमयनं स्थानं यस्याः ।",
+    "translation": {
+      "en": "Sāmarasya is the state of Śiva and Śakti, whose rasa is equal, neither less nor more; she whose supreme ayana, abode, is that very oneness.",
+      "hi": "शिव और शक्ति, जिनका रस समान है, न कम न अधिक, उनकी वह अवस्था ‘सामरस्य’ है; वही जिनका परम अयन अर्थात् स्थान है, वे।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 792 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The sentence on the seeker’s stillness is a reflection on the line Bhāskararāya attributes to Kālidāsa (भोक्तृभोग्यकरणोर्मिसंक्षये …). He introduces the verse on the primal couple only as ‘said by the learned’ (उक्तं चाभियुक्तैः)." }
+}

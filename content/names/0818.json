@@ -1,0 +1,43 @@
+{
+  "number": 818,
+  "verse": 154,
+  "slug": "satya-rupa",
+  "devanagari": "सत्यरूपा",
+  "iastSplit": "Satya-rūpā",
+  "archana": "ॐ सत्यरूपायै नमः",
+  "syllables": ["sat", "ya", "rū", "pā"],
+  "words": [
+    {"sa": "सत्य", "meaning": {"en": "truth, the real", "hi": "सत्य, वास्तविक"}},
+    {"sa": "रूप", "meaning": {"en": "form, nature", "hi": "रूप, स्वरूप"}}
+  ],
+  "meaning": {
+    "en": "Whose form is truth, never sublated in any time",
+    "hi": "जिनका रूप सत्य है, जो तीनों कालों में अबाधित है"
+  },
+  "explanation": {
+    "en": "Satya here is what is real in the deepest sense: that which is not contradicted or cancelled in past, present or future. Her form is that truth. What seems real for a while and then passes is not satya; she is what remains.",
+    "hi": "यहाँ ‘सत्य’ का अर्थ है गहनतम अर्थ में वास्तविक: जो भूत, वर्तमान और भविष्य, किसी भी काल में बाधित नहीं होता। उनका रूप वही सत्य है। जो कुछ समय तक वास्तविक लगकर बीत जाता है, वह सत्य नहीं; वे वह हैं जो शेष रहता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives a second reading: she gives form to truth, that is, she protects it. He quotes a Ṛgvedic verse in which truth and untruth contend, and Soma guards the true and slays the false; he reads Soma as sa-Umā, Śiva together with Umā. So the Mother is not only truth but its guardian in the world.",
+    "hi": "भास्करराय दूसरा अर्थ भी देते हैं: वे सत्य को रूप देती हैं, अर्थात् उसकी रक्षा करती हैं। वे ऋग्वेद का एक मन्त्र उद्धृत करते हैं जिसमें सत्य और असत्य में होड़ होती है, और सोम सत्य की रक्षा करता है तथा असत्य का नाश; वे ‘सोम’ को ‘स-उमा’, अर्थात् उमा सहित शिव, पढ़ते हैं। इस प्रकार माँ केवल सत्य ही नहीं, जगत् में उसकी रक्षिका भी हैं।"
+  },
+  "story": {
+    "en": "Names 817 and 818 sit side by side: truth is her vow, and truth is her form. Name 791 has already called her truth, knowledge and bliss.",
+    "hi": "नाम 817 और 818 साथ-साथ हैं: सत्य उनका व्रत है, और सत्य ही उनका रूप। नाम 791 उन्हें पहले ही सत्य, ज्ञान और आनन्द-स्वरूपा कह चुका है।"
+  },
+  "commentary": {
+    "sanskrit": "सत्यं कालत्रयाबाध्यं रूपं यस्याः ।",
+    "translation": {
+      "en": "She whose form is satya, that which is not sublated in any of the three times.",
+      "hi": "जिनका रूप सत्य है, अर्थात् जो तीनों कालों में अबाध्य है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 818 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The last sentence of the explanation paraphrases कालत्रयाबाध्य." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 809,
+  "verse": 153,
+  "slug": "parat-para",
+  "devanagari": "परात्परा",
+  "iastSplit": "Parāt-parā",
+  "archana": "ॐ परात्परायै नमः",
+  "syllables": ["pa", "rāt", "pa", "rā"],
+  "words": [
+    {"sa": "परात्", "meaning": {"en": "than the high, the highest", "hi": "पर से, श्रेष्ठ से"}},
+    {"sa": "परा", "meaning": {"en": "higher, beyond", "hi": "परे, श्रेष्ठतर"}}
+  ],
+  "meaning": {
+    "en": "Higher than the highest",
+    "hi": "श्रेष्ठ से भी श्रेष्ठ, पर से भी परे"
+  },
+  "explanation": {
+    "en": "Para means high, supreme. Brahmā, Viṣṇu and Rudra are high, yet she is higher even than they. Parātparā: beyond even the highest.",
+    "hi": "‘पर’ का अर्थ है ऊँचा, श्रेष्ठ। ब्रह्मा, विष्णु और रुद्र श्रेष्ठ हैं, पर वे उनसे भी श्रेष्ठ हैं। ‘परात्परा’: सर्वोच्च से भी परे।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives a second reading from time. The whole life of Brahmā is called para, and half of it parārdha; she is beyond even that span, not bounded by any number. He cites the Kālī Purāṇa, which says that the Lord, grosser than the gross and subtler than the subtle, knows no day and night and no years. So the two names before, the supreme abode and the supremely subtle, are the reason she is beyond all measure.",
+    "hi": "भास्करराय काल से जुड़ा दूसरा अर्थ भी देते हैं। ब्रह्मा की पूरी आयु ‘पर’ कहलाती है, और उसका आधा ‘परार्ध’; वे उस अवधि से भी परे हैं, किसी संख्या से सीमित नहीं। वे कालीपुराण उद्धृत करते हैं, जो कहता है कि स्थूल से स्थूलतम और सूक्ष्म से सूक्ष्मतम ईश्वर के लिए न दिन-रात का व्यवहार है, न वर्ष। इस प्रकार पिछले दो नाम, परम धाम और परम अणु, ही उनके हर माप से परे होने का कारण हैं।"
+  },
+  "story": {
+    "en": "At name 824 Bhāskararāya quotes a verse of the Sūta Saṃhitā that salutes her by this very name: “I bow to Parātparā, who stands as one, as two, as sixteen and as thirty-two.” Its commentators, he says, take these as the letters of the alphabet: vowels and consonants, the sixteen vowels and the consonants.",
+    "hi": "नाम 824 पर भास्करराय सूतसंहिता का एक श्लोक उद्धृत करते हैं जो उन्हें इसी नाम से नमन करता है: ‘जो एक, दो, सोलह और बत्तीस रूपों में स्थित है, उस परात्परा को मैं वन्दन करता हूँ।’ वे बताते हैं कि उसके व्याख्याकार इन्हें वर्णमाला के अक्षर मानते हैं: स्वर और व्यञ्जन, सोलह स्वर, और व्यञ्जन।"
+  },
+  "commentary": {
+    "sanskrit": "परादुत्कृष्टाद्ब्रह्मविष्णुरुद्रादपि परा श्रेष्ठतरा । यद्वा ब्रह्मायुः परिमाणं परमित्युच्यते तस्मात्परा तादृशसंख्यापरिच्छेदरहिता ।",
+    "translation": {
+      "en": "Higher, more excellent, than even the high ones, Brahmā, Viṣṇu and Rudra. Or: the measure of Brahmā’s life is called para; she is beyond it, free from any limit of such number.",
+      "hi": "पर, अर्थात् श्रेष्ठ ब्रह्मा, विष्णु और रुद्र से भी परा, अर्थात् श्रेष्ठतर। अथवा: ब्रह्मा की आयु का परिमाण ‘पर’ कहलाता है; वे उससे परे हैं, ऐसी किसी संख्या की सीमा से रहित।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 809 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude." }
+}

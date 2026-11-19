@@ -1,0 +1,43 @@
+{
+  "number": 346,
+  "verse": 77,
+  "slug": "vijaya",
+  "devanagari": "विजया",
+  "iastSplit": "Vijayā",
+  "archana": "ॐ विजयायै नमः",
+  "syllables": ["vi", "ja", "yā"],
+  "words": [
+    { "sa": "वि", "meaning": { "en": "distinguished, special", "hi": "विशिष्ट" } },
+    { "sa": "जय", "meaning": { "en": "victory", "hi": "जय, विजय" } }
+  ],
+  "meaning": {
+    "en": "The victorious one, whose victory is unsurpassed",
+    "hi": "विजयिनी, जिनकी विजय सबसे विशिष्ट है"
+  },
+  "explanation": {
+    "en": "Vi here means distinguished, and jaya is victory: her victory is beyond all others. Bhāskararāya quotes the Devī Purāṇa: having conquered Padma, the mighty king of the demons, she became famous in the three worlds as Vijayā and Aparājitā, the unconquered.",
+    "hi": "यहाँ ‘वि’ का अर्थ है विशिष्ट और ‘जय’ का अर्थ विजय: उनकी विजय सबसे बढ़कर है। भास्करराय देवी पुराण उद्धृत करते हैं: महाबली दैत्यराज पद्म को जीतकर वे तीनों लोकों में विजया और अपराजिता के नाम से विख्यात हुईं।"
+  },
+  "inner": {
+    "en": "He also says she is saṃvit, consciousness, and that she is a form of Śiva, since the Devī Purāṇa lists Vijaya among the sixty-eight sacred places of Śiva. As a reflection, the victory that matters is the victory of consciousness, which nothing can overcome.",
+    "hi": "वे यह भी कहते हैं कि वे संवित्, अर्थात् चेतना, का रूप हैं; और देवी पुराण में शिव के अड़सठ तीर्थों में ‘विजय’ की गणना होने से वे शिव-स्वरूपा भी हैं। चिन्तन के रूप में: सच्ची विजय चेतना की है, जिसे कोई पराजित नहीं कर सकता।"
+  },
+  "story": {
+    "en": "Bhāskararāya adds that Vijaya is also the name of an auspicious time. He quotes one text that places it at the rising of the stars on the bright tenth day of Āśvina, the day of Vijayadaśamī, and another that calls it the eleventh muhūrta, just after dusk, when all who seek victory should set out.",
+    "hi": "भास्करराय जोड़ते हैं कि ‘विजय’ एक शुभ काल का भी नाम है। वे एक ग्रन्थ उद्धृत करते हैं जो इसे आश्विन शुक्ल दशमी को तारे निकलने का समय बताता है, जो विजयादशमी का दिन है; और दूसरा, जो इसे सन्ध्या के ठीक बाद का ग्यारहवाँ मुहूर्त कहता है, जब विजय चाहने वाले सबको यात्रा आरम्भ करनी चाहिए।"
+  },
+  "commentary": {
+    "sanskrit": "विशिष्टो जयो यस्याः सा विजया संविद्रूपा वा ।",
+    "translation": {
+      "en": "Vijayā: she whose jaya, victory, is viśiṣṭa, distinguished; or she who is saṃvit, consciousness.",
+      "hi": "जिनकी जय विशिष्ट है, वे विजया हैं; अथवा वे संवित्-स्वरूपा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 346 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. संविद्रूपा is rendered ‘consciousness’; in some Tantric usage saṃvid and vijayā also name a sacramental drink, which a scholar may wish to consider. Bhāskararāya also mentions a type of house called Vijaya in the Viśvakarma śāstra (not used). The identification of the bright tenth of Āśvina with Vijayadaśamī is added as context. The last sentence of the inner layer is a reflection." }
+}

@@ -1,0 +1,45 @@
+{
+  "number": 791,
+  "verse": 151,
+  "slug": "satya-jnanananda-rupa",
+  "devanagari": "सत्यज्ञानानन्दरूपा",
+  "iastSplit": "Satya-jñānānanda-rūpā",
+  "archana": "ॐ सत्यज्ञानानन्दरूपायै नमः",
+  "syllables": ["sat", "yaj", "ñā", "nā", "nan", "da", "rū", "pā"],
+  "words": [
+    {"sa": "सत्य", "meaning": {"en": "truth, the real", "hi": "सत्य, सत्"}},
+    {"sa": "ज्ञान", "meaning": {"en": "knowledge, consciousness", "hi": "ज्ञान, चेतना"}},
+    {"sa": "आनन्द", "meaning": {"en": "bliss", "hi": "आनन्द"}},
+    {"sa": "रूप", "meaning": {"en": "form, very nature", "hi": "रूप, स्वरूप"}}
+  ],
+  "meaning": {
+    "en": "Whose very nature is truth, knowledge and bliss",
+    "hi": "जिनका स्वरूप ही सत्य, ज्ञान और आनन्द है"
+  },
+  "explanation": {
+    "en": "Truth, knowledge and bliss are not qualities she possesses; they are what she is. This is the classic description of Brahman, often summed up in one word as saccidānanda.",
+    "hi": "सत्य, ज्ञान और आनन्द उनके गुण नहीं, उनका स्वरूप हैं। यही ब्रह्म का पारम्परिक लक्षण है, जिसे प्रायः एक शब्द ‘सच्चिदानन्द’ में कहा जाता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya grounds the name in two Upaniṣadic definitions: “Brahman is truth, knowledge, the infinite” and “Brahman is eternal, knowledge, bliss”. So the Mother is not a lesser deity beside the Absolute; she is that Absolute. He also reads the syllables a second way, as a warning: to those who do not know the true knowledge she assigns the joyless worlds, “covered in blind darkness”, of which the Upaniṣads speak.",
+    "hi": "भास्करराय इस नाम को उपनिषदों के दो लक्षणों पर आधारित करते हैं: ‘सत्यं ज्ञानमनन्तं ब्रह्म’ और ‘नित्यं विज्ञानमानन्दं ब्रह्म’। अतः माँ परम सत्य के पास खड़ी कोई छोटी देवी नहीं, स्वयं वही परम सत्य हैं। वे अक्षरों का एक दूसरा अर्थ भी करते हैं, चेतावनी के रूप में: जो सच्ची विद्या को नहीं जानते, उन्हें वे उन आनन्दहीन लोकों में भेजती हैं जिन्हें उपनिषद् ‘घोर अन्धकार से ढके’ कहते हैं।"
+  },
+  "story": {
+    "en": "“Truth, knowledge, the infinite is Brahman” is a sentence of the Taittirīya Upaniṣad and one of the best-known definitions of the Absolute in Vedānta. This name sings that definition as the Mother’s own form, and the next name turns to the perfect union of Śiva and Śakti.",
+    "hi": "‘सत्यं ज्ञानमनन्तं ब्रह्म’ तैत्तिरीय उपनिषद् का वाक्य है और वेदान्त में ब्रह्म के सबसे प्रसिद्ध लक्षणों में से एक है। यह नाम उसी लक्षण को माँ के स्वरूप के रूप में गाता है, और अगला नाम शिव-शक्ति के समरस मिलन की ओर मुड़ता है।"
+  },
+  "commentary": {
+    "sanskrit": "सत्यं ज्ञानमानन्दश्च रूपं यस्याः । सत्यं ज्ञानमनन्तं ब्रह्म नित्यं विज्ञानमानन्दं ब्रह्मेति श्रुतेः ।",
+    "translation": {
+      "en": "She whose form is truth, knowledge and bliss; for the Śruti says, “Brahman is truth, knowledge, the infinite” and “Brahman is eternal, knowledge, bliss”.",
+      "hi": "जिनका रूप सत्य, ज्ञान और आनन्द है; क्योंकि श्रुति कहती है, ‘ब्रह्म सत्य, ज्ञान और अनन्त है’ तथा ‘ब्रह्म नित्य, विज्ञान और आनन्द है’।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 791 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s second, syllable-splitting reading (सती सद्विद्या … अज्ञा … अनानन्दं … रूपयति: to those ignorant of the true vidyā she gives the joyless state) is summarised loosely in the inner layer; a scholar should check that summary." }
+}

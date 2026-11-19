@@ -1,0 +1,43 @@
+{
+  "number": 805,
+  "verse": 152,
+  "slug": "pushkarekshana",
+  "devanagari": "पुष्करेक्षणा",
+  "iastSplit": "Puṣkarekṣaṇā",
+  "archana": "ॐ पुष्करेक्षणायै नमः",
+  "syllables": ["puṣ", "ka", "rek", "ṣa", "ṇā"],
+  "words": [
+    {"sa": "पुष्कर", "meaning": {"en": "lotus", "hi": "कमल"}},
+    {"sa": "ईक्षण", "meaning": {"en": "eye; glance", "hi": "नेत्र; दृष्टि"}}
+  ],
+  "meaning": {
+    "en": "Whose eyes are like lotuses",
+    "hi": "कमल जैसे नेत्रों वाली"
+  },
+  "explanation": {
+    "en": "Puṣkara here is the lotus, and her eyes are like lotuses: large, soft and beautiful. “Lotus-eyed” is one of the oldest images of beauty in Sanskrit poetry.",
+    "hi": "यहाँ ‘पुष्कर’ का अर्थ कमल है, और उनके नेत्र कमल जैसे हैं: विशाल, कोमल और सुन्दर। ‘कमलनयन’ संस्कृत काव्य में सौन्दर्य की सबसे पुरानी उपमाओं में से है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya draws more out of the word. Puṣkara also means the earth, born from a lotus, so her kṣaṇa, her festive delight or still repose, is in the earth and all it holds. Puṣkara also means the banyan, which points to Viṣṇu lying as a child on a banyan leaf, and her compassionate glance rests on him. Or her glance falls on the “waters”, which the Śruti names as gods, humans, ancestors and asuras.",
+    "hi": "भास्करराय इस शब्द से और भी अर्थ निकालते हैं। ‘पुष्कर’ का अर्थ कमल से उत्पन्न पृथ्वी भी है, अतः पृथ्वी और उसमें स्थित सब कुछ उनका ‘क्षण’ है, अर्थात् उत्सव या निश्चल विश्राम का स्थान। ‘पुष्कर’ वटवृक्ष को भी कहते हैं, जो वटपत्र पर बालरूप में लेटे विष्णु की ओर संकेत करता है; उन पर उनकी कृपा-दृष्टि रहती है। अथवा उनकी दृष्टि ‘जलों’ पर है, जिन्हें श्रुति देव, मनुष्य, पितर और असुर कहती है।"
+  },
+  "story": {
+    "en": "Bhāskararāya cites the Devī Bhāgavata: when Viṣṇu lay as a child on a banyan leaf, the Goddess spoke to him half a verse that grants every aim. He also recalls the Padma Purāṇa on the rare conjunction called Puṣkara, when the sun is in Viśākhā and the moon in Kṛttikā.",
+    "hi": "भास्करराय देवीभागवत उद्धृत करते हैं: जब विष्णु बालरूप में वटपत्र पर लेटे थे, तब भगवती ने उन्हें आधे श्लोक में वह उपदेश दिया जो सब कुछ प्रदान करता है। वे पद्मपुराण में वर्णित ‘पुष्कर’ नामक दुर्लभ योग का भी स्मरण करते हैं, जब सूर्य विशाखा में और चन्द्रमा कृत्तिका में होता है।"
+  },
+  "commentary": {
+    "sanskrit": "पुष्कराणीव कमलानीवेक्षणानि नयनानि यस्याः ।",
+    "translation": {
+      "en": "She whose īkṣaṇas, eyes, are like puṣkaras, like lotuses.",
+      "hi": "जिनके ईक्षण, अर्थात् नेत्र, पुष्करों, अर्थात् कमलों, के समान हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 805 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s secondary readings (पुष्कर as earth, banyan, waters; ईक्षण read as क्षण) are summarised briefly. The half-verse of the Devī Bhāgavata is not quoted by him, so it is not given here." }
+}

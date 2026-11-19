@@ -1,0 +1,44 @@
+{
+  "number": 354,
+  "verse": 78,
+  "slug": "pashu-pasha-vimochani",
+  "devanagari": "पशुपाशविमोचनी",
+  "iastSplit": "Paśu-pāśa-vimocanī",
+  "archana": "ॐ पशुपाशविमोचन्यै नमः",
+  "syllables": ["pa", "śu", "pā", "śa", "vi", "mo", "ca", "nī"],
+  "words": [
+    { "sa": "पशु", "meaning": { "en": "bound soul (literally, animal)", "hi": "पशु, बँधा हुआ जीव" } },
+    { "sa": "पाश", "meaning": { "en": "noose, bond", "hi": "पाश, बन्धन" } },
+    { "sa": "विमोचनी", "meaning": { "en": "she who releases", "hi": "छुड़ाने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who frees bound souls from their bonds",
+    "hi": "बँधे जीवों को उनके पाशों से छुड़ाने वाली"
+  },
+  "explanation": {
+    "en": "In Śaiva teaching the paśu is the bound soul, the pāśa is the noose that binds it, and the Lord is its master. She is the one who releases every paśu from its pāśa. Bhāskararāya adds that she frees each according to its fitness.",
+    "hi": "शैव सिद्धान्त में ‘पशु’ बँधा हुआ जीव है, ‘पाश’ वह फन्दा है जो उसे बाँधता है, और ‘पति’ उसके स्वामी भगवान् हैं। वे वह हैं जो हर पशु को उसके पाश से छुड़ाती हैं। भास्करराय जोड़ते हैं कि वे प्रत्येक को उसकी योग्यता के अनुसार मुक्त करती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives this name one of his longest comments. The bonds may be avidyā; or the five afflictions of the Yoga Sūtra, ignorance, egoism, attachment, aversion and obstinate clinging; or the three impurities of the Pratyabhijñā, āṇava, māyīya and kārma. To the objection that releasing souls is Śiva’s work, he answers that Śiva cannot release them without his power, so the agent of release is the Śakti herself.",
+    "hi": "भास्करराय इस नाम पर अपनी सबसे लम्बी व्याख्याओं में से एक देते हैं। पाश अविद्या हो सकते हैं; या योगसूत्र के पाँच क्लेश, अविद्या, अस्मिता, राग, द्वेष और अभिनिवेश; या प्रत्यभिज्ञा के तीन मल, आणव, मायीय और कार्म। इस शंका पर कि जीवों को मुक्त करना तो शिव का कार्य है, वे उत्तर देते हैं कि शिव अपनी शक्ति के बिना मुक्त नहीं कर सकते, इसलिए मुक्ति की कर्त्री स्वयं शक्ति हैं।"
+  },
+  "story": {
+    "en": "Among many readings, Bhāskararāya gives a playful one: pāśa can also mean dice, and in her game of dice with Śiva she throws them well on the board and wins. He also quotes the Kulārṇava’s list of eight bonds: aversion, doubt, fear, shame, disgust, family, conduct and caste.",
+    "hi": "अनेक अर्थों में भास्करराय एक विनोदपूर्ण अर्थ भी देते हैं: ‘पाश’ का अर्थ पासा भी है, और शिव के साथ द्यूत-क्रीड़ा में वे पासे भली-भाँति फेंककर उन्हें जीत लेती हैं। वे कुलार्णव में गिनाए आठ पाश भी उद्धृत करते हैं: घृणा, शंका, भय, लज्जा, जुगुप्सा, कुल, शील और जाति।"
+  },
+  "commentary": {
+    "sanskrit": "तथा च पशूनामुक्तरूपाणां पाशान्मलान्विशेषेण तत्तद्योग्यतानुसारेण मोचयतीति पशुपाशविमोचिनी ।",
+    "translation": {
+      "en": "Thus she is Paśupāśavimocinī, for she releases the paśus of the kinds described from their pāśas, the impurities, each in its own way, according to its fitness.",
+      "hi": "इस प्रकार वर्णित प्रकार के पशुओं को वे उनके पाशों, अर्थात् मलों, से विशेष रूप से, प्रत्येक की योग्यता के अनुसार, छुड़ाती हैं; इसलिए वे पशुपाशविमोचिनी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 354 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya reads पशुपाशविमोचिनी; the master text has पशुपाशविमोचनी, which is followed. His comment is very long (the five kleśas, 52 or 62 pāśas, the three malas and three kinds of paśu); the layers give only its outline." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 334,
+  "verse": 75,
+  "slug": "vishvadhika",
+  "devanagari": "विश्वाधिका",
+  "iastSplit": "Viśvādhikā",
+  "archana": "ॐ विश्वाधिकायै नमः",
+  "syllables": ["viś", "vā", "dhi", "kā"],
+  "words": [
+    { "sa": "विश्व", "meaning": { "en": "the universe, the whole", "hi": "विश्व, सम्पूर्ण जगत्" } },
+    { "sa": "अधिका", "meaning": { "en": "surpassing, beyond", "hi": "बढ़कर, परे" } }
+  ],
+  "meaning": {
+    "en": "She who surpasses the whole universe",
+    "hi": "सम्पूर्ण विश्व से परे और श्रेष्ठ"
+  },
+  "explanation": {
+    "en": "Viśva is the universe and adhikā means greater, beyond. She pervades the world and yet is more than all of it. No part of creation, however vast, contains her completely.",
+    "hi": "‘विश्व’ का अर्थ है सम्पूर्ण जगत् और ‘अधिका’ का अर्थ उससे बढ़कर, परे। वे जगत् में व्याप्त हैं, फिर भी उससे कहीं अधिक हैं। सृष्टि का कोई भी भाग, चाहे कितना भी विशाल हो, उन्हें पूरी तरह समा नहीं सकता।"
+  },
+  "inner": {
+    "en": "Bhāskararāya defines the universe precisely: all that runs from earth up to Śiva, that is, the thirty-six tattvas of Śaiva and Śākta thought. She is higher than all of them, beyond even Śiva, the highest of the thirty-six. The universe in its entirety is not her measure.",
+    "hi": "भास्करराय विश्व की सटीक परिभाषा देते हैं: पृथ्वी से लेकर शिव तक, अर्थात् शैव और शाक्त दर्शन के छत्तीस तत्त्व। वे इन सबसे ऊपर हैं, उन छत्तीस में सबसे ऊँचे शिव-तत्त्व से भी परे। सम्पूर्ण विश्व भी उनका माप नहीं है।"
+  },
+  "story": {
+    "en": "All seven names of this verse begin with v, from Viśvādhikā to Vilāsinī. Bhāskararāya supports this name with a Vedic text in which Rudra, the great seer, is called lord of the universe.",
+    "hi": "इस श्लोक के सातों नाम ‘व’ से आरम्भ होते हैं, विश्वाधिका से विलासिनी तक। भास्करराय इस नाम के समर्थन में एक श्रुति-वाक्य उद्धृत करते हैं, जिसमें महर्षि रुद्र को विश्व का अधिपति कहा गया है।"
+  },
+  "commentary": {
+    "sanskrit": "विश्वस्मात्क्षित्यादिशिवान्तादधिकोत्कृष्टा ।",
+    "translation": {
+      "en": "Adhikā, higher, beyond the universe, which runs from earth to Śiva.",
+      "hi": "पृथ्वी से लेकर शिव तक फैले विश्व से अधिका, अर्थात् उत्कृष्ट।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 334 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition prints the supporting śruti as विश्वाधिपो रुद्रो महर्षिः; some texts read विश्वाधिको, which would fit the name more closely. A scholar should check." }
+}

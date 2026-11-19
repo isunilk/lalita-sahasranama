@@ -1,0 +1,43 @@
+{
+  "number": 361,
+  "verse": 79,
+  "slug": "tamopaha",
+  "devanagari": "तमोपहा",
+  "iastSplit": "Tamopahā",
+  "archana": "ॐ तमोपहायै नमः",
+  "syllables": ["ta", "mo", "pa", "hā"],
+  "words": [
+    { "sa": "तमस्", "meaning": { "en": "darkness; ignorance", "hi": "तम, अन्धकार, अज्ञान" } },
+    { "sa": "अपहा", "meaning": { "en": "she who removes", "hi": "दूर करने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who drives away the darkness of ignorance",
+    "hi": "अज्ञान के अन्धकार को दूर करने वाली"
+  },
+  "explanation": {
+    "en": "Tamas is darkness, and apahā is she who strikes it away. Bhāskararāya says the darkness is avidyā, ignorance of the Self. She removes it as light removes the dark.",
+    "hi": "‘तमस्’ का अर्थ है अन्धकार, और ‘अपहा’ वह जो उसे दूर कर दे। भास्करराय कहते हैं कि यह अन्धकार अविद्या, अर्थात् आत्मा का अज्ञान, है। वे उसे वैसे ही हटाती हैं जैसे प्रकाश अँधेरे को।"
+  },
+  "inner": {
+    "en": "He quotes the Īśa Upaniṣad: those who worship avidyā enter blind darkness. Worship that rests in ignorance leads further into the dark, and she is the one who leads out of it. The next name, Citi, names what remains when the darkness is gone: consciousness itself.",
+    "hi": "वे ईशावास्य उपनिषद् उद्धृत करते हैं: जो अविद्या की उपासना करते हैं, वे घोर अन्धकार में प्रवेश करते हैं। अज्ञान में टिकी उपासना और गहरे अँधेरे में ले जाती है, और वे उससे बाहर निकालने वाली हैं। अगला नाम, चिति, बताता है कि अन्धकार हटने पर क्या शेष रहता है: स्वयं चेतना।"
+  },
+  "story": {
+    "en": "This name ends a verse whose five names all begin with t. Bhāskararāya opens the next name with ‘hence it says’, reading names 361 to 365 as one connected passage on knowledge, consciousness and bliss.",
+    "hi": "यह नाम उस श्लोक को पूरा करता है जिसके पाँचों नाम ‘त’ से आरम्भ होते हैं। भास्करराय अगले नाम को ‘इसीलिए कहा’ से आरम्भ करते हैं, और नाम 361 से 365 तक को ज्ञान, चेतना और आनन्द पर एक जुड़े हुए प्रसंग के रूप में पढ़ते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "तमोऽविद्यामपहन्तीति तमोपहा ।",
+    "translation": {
+      "en": "Tamopahā, because she strikes away tamas, that is, avidyā.",
+      "hi": "वे तम, अर्थात् अविद्या, का नाश करती हैं, इसलिए तमोपहा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 361 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The master verse prints तमोऽपहा with avagraha; the name and archana are written तमोपहा, as in Bhāskararāya’s text and the nāmāvali (the pronunciation is the same, and the script converter does not handle an avagraha inside a name). A reviewer may prefer तमोऽपहा / तमोऽपहायै, which would need IAST and Tamil script overrides." }
+}

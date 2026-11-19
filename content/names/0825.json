@@ -1,0 +1,43 @@
+{
+  "number": 825,
+  "verse": 155,
+  "slug": "budharchita",
+  "devanagari": "बुधार्चिता",
+  "iastSplit": "Budhārcitā",
+  "archana": "ॐ बुधार्चितायै नमः",
+  "syllables": ["bu", "dhār", "ci", "tā"],
+  "words": [
+    {"sa": "बुध", "meaning": {"en": "the wise, the knowers", "hi": "ज्ञानी, विद्वान्"}},
+    {"sa": "अर्चिता", "meaning": {"en": "worshipped", "hi": "पूजित"}}
+  ],
+  "meaning": {
+    "en": "Worshipped by the wise",
+    "hi": "ज्ञानियों द्वारा पूजित"
+  },
+  "explanation": {
+    "en": "Budha means the wise, those who know, and she is worshipped by them. Bhāskararāya takes budha as jñānin, the knower of truth.",
+    "hi": "‘बुध’ का अर्थ है ज्ञानी, जो जानते हैं, और वे उन्हीं के द्वारा पूजित हैं। भास्करराय ‘बुध’ का अर्थ ‘ज्ञानी’, अर्थात् तत्त्व को जानने वाला, करते हैं।"
+  },
+  "inner": {
+    "en": "He cites the Gītā: four kinds of good people worship the Lord, the distressed, the seeker of knowledge, the seeker of wealth, and the wise. The Gītā goes on to say that of these the wise one is the best. Even those who know that she is Brahman still worship her.",
+    "hi": "वे गीता उद्धृत करते हैं: चार प्रकार के पुण्यात्मा भगवान को भजते हैं, आर्त, जिज्ञासु, अर्थार्थी और ज्ञानी। गीता आगे कहती है कि इनमें ज्ञानी श्रेष्ठ है। जो जानते हैं कि वे स्वयं ब्रह्म हैं, वे भी उनकी पूजा करते हैं।"
+  },
+  "story": {
+    "en": "Names 822 to 825 move from the Absolute to its worship: she is Brahman, the Mother, of many forms, and worshipped by the wise. Bhāskararāya gives only this one sense of the name.",
+    "hi": "नाम 822 से 825 परम सत्य से उसकी उपासना तक जाते हैं: वे ब्रह्म हैं, जननी हैं, बहुरूपा हैं, और ज्ञानियों द्वारा पूजित हैं। भास्करराय इस नाम का यही एक अर्थ देते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "बुधैर्ज्ञानिभिरर्चिता पूजिता ।",
+    "translation": {
+      "en": "Arcitā, worshipped, by the budhas, the wise.",
+      "hi": "बुधों, अर्थात् ज्ञानियों, द्वारा अर्चिता, अर्थात् पूजित।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 825 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya quotes only Gītā 7.16; the reference to the next verse (the wise as best) and the last sentence of the inner layer are added as reflection." }
+}

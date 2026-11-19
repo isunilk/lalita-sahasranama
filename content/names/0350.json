@@ -1,0 +1,43 @@
+{
+  "number": 350,
+  "verse": 77,
+  "slug": "vag-vadini",
+  "devanagari": "वाग्वादिनी",
+  "iastSplit": "Vāg-vādinī",
+  "archana": "ॐ वाग्वादिन्यै नमः",
+  "syllables": ["vāg", "vā", "di", "nī"],
+  "words": [
+    { "sa": "वाच्", "meaning": { "en": "speech", "hi": "वाणी" } },
+    { "sa": "वादिनी", "meaning": { "en": "she who speaks", "hi": "बोलने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who speaks, and who moves speech to speak",
+    "hi": "वाणी बोलने वाली, और वाणी को बुलवाने वाली"
+  },
+  "explanation": {
+    "en": "Vāc is speech and vādinī is she who speaks. Bhāskararāya reads it in two ways: she utters speech, or she causes speech to speak. Every word that is spoken is moved by her.",
+    "hi": "‘वाच्’ का अर्थ है वाणी और ‘वादिनी’ बोलने वाली। भास्करराय इसके दो अर्थ बताते हैं: वे वाणी बोलती हैं, अथवा वाणी को बुलवाती हैं। जो भी शब्द बोला जाता है, उसकी प्रेरणा वे ही हैं।"
+  },
+  "inner": {
+    "en": "He adds that Vāgvādinī is also a particular deity, and that she is that deity. From the Tripurāsiddhānta he quotes that she is so called because she dwells always in her devotees as their power of speech and debate, and stays firm there. The Laghustava says: you alone, mother of all words, are called Vāgvādinī in the world.",
+    "hi": "वे जोड़ते हैं कि वाग्वादिनी एक विशेष देवता का भी नाम है, और वे वही हैं। त्रिपुरासिद्धान्त से वे उद्धृत करते हैं कि वे अपने सब भक्तों में वाद, अर्थात् वाणी और तर्क की शक्ति, के रूप में सदा स्थिर रहती हैं, इसलिए लोक में वाग्वादिनी कहलाती हैं। लघुस्तव कहता है: शब्दों की जननी आप ही हैं, और संसार में आपको ही वाग्वादिनी कहा जाता है।"
+  },
+  "story": {
+    "en": "The hymn itself was composed at the Devī’s command by the Vāgdevīs, the goddesses of speech, so a name praising her as the source of speech has a special place in it. The Laghustava that Bhāskararāya quotes is an older hymn to the Goddess.",
+    "hi": "यह स्तोत्र स्वयं देवी की आज्ञा से वाग्देवियों, अर्थात् वाणी की देवियों, ने रचा था, इसलिए वाणी के उद्गम के रूप में उनकी स्तुति करने वाले इस नाम का इसमें विशेष स्थान है। भास्करराय जिस लघुस्तव को उद्धृत करते हैं, वह देवी का एक प्राचीन स्तोत्र है।"
+  },
+  "commentary": {
+    "sanskrit": "वाचं वदतीति वाग्वादिनी काचिद्देवता तद्रूपा वा । वाचं वादयतीति वा ।",
+    "translation": {
+      "en": "Vāgvādinī, because she speaks speech; or she has the form of a particular deity of that name; or, because she makes speech speak.",
+      "hi": "वाणी बोलने से वाग्वादिनी; अथवा इस नाम की एक विशेष देवता, उसके रूप वाली; अथवा वाणी को बुलवाने वाली।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 350 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition prints the source as त्रिपुरासिधान्त, evidently for त्रिपुरासिद्धान्त." }
+}

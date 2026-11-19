@@ -1,0 +1,43 @@
+{
+  "number": 814,
+  "verse": 154,
+  "slug": "amurta",
+  "devanagari": "अमूर्ता",
+  "iastSplit": "Amūrtā",
+  "archana": "ॐ अमूर्तायै नमः",
+  "syllables": ["a", "mūr", "tā"],
+  "words": [
+    {"sa": "अ", "meaning": {"en": "not, without", "hi": "नहीं, रहित"}},
+    {"sa": "मूर्त", "meaning": {"en": "having form", "hi": "मूर्त, साकार"}}
+  ],
+  "meaning": {
+    "en": "She who is formless",
+    "hi": "निराकार, अमूर्त"
+  },
+  "explanation": {
+    "en": "Amūrtā is the formless: what cannot be seen or held, like air and space, and beyond them the subtle source of all things. She is the formless as fully as she is the formed.",
+    "hi": "‘अमूर्ता’ निराकार है: जिसे देखा या पकड़ा न जा सके, जैसे वायु और आकाश, और उनसे भी परे सब वस्तुओं का सूक्ष्म मूल। वे जितनी पूर्णता से साकार हैं, उतनी ही पूर्णता से निराकार भी।"
+  },
+  "inner": {
+    "en": "In his last reading of the pair, Bhāskararāya takes the formed as the universe and the formless as Brahman, quoting the Viṣṇu Purāṇa: Brahman has two forms, the perishable and the imperishable; the imperishable is Brahman, changeless, and the perishable is this whole world. To call her both is to say that the changing world and its changeless ground are not two realities but two forms of one Mother.",
+    "hi": "इस युगल की अन्तिम व्याख्या में भास्करराय मूर्त को जगत् और अमूर्त को ब्रह्म मानते हैं, और विष्णुपुराण उद्धृत करते हैं: ब्रह्म के दो रूप हैं, क्षर और अक्षर; अक्षर कूटस्थ ब्रह्म है, और क्षर यह सम्पूर्ण जगत्। उन्हें दोनों कहना यह कहना है कि बदलता जगत् और उसका अचल आधार दो अलग सत्य नहीं, एक ही माँ के दो रूप हैं।"
+  },
+  "story": {
+    "en": "In the chanted verse the three names run together, mūrtā-’mūrtā-’nitya-tṛptā; the avagraha marks where an initial a has merged with the long ā before it. The teaching of the two forms of Brahman, mūrta and amūrta, comes from the Bṛhadāraṇyaka Upaniṣad.",
+    "hi": "पाठ में तीनों नाम ‘मूर्ताऽमूर्ताऽनित्यतृप्ता’ के रूप में जुड़कर आते हैं; अवग्रह (ऽ) बताता है कि वहाँ आरम्भिक ‘अ’ पहले के दीर्घ ‘आ’ में मिल गया है। ब्रह्म के दो रूपों, मूर्त और अमूर्त, का उपदेश बृहदारण्यक उपनिषद् से आता है।"
+  },
+  "commentary": {
+    "sanskrit": "प्रपञ्चब्रह्मणी वा मूर्तामूर्ते",
+    "translation": {
+      "en": "Or, the mūrta and the amūrta are the universe and Brahman.",
+      "hi": "अथवा, मूर्त और अमूर्त क्रमशः प्रपञ्च और ब्रह्म हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 814 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The last sentence of the inner layer is a reflection." }
+}

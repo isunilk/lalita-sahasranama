@@ -1,0 +1,42 @@
+{
+  "number": 329,
+  "verse": 74,
+  "slug": "kanta",
+  "devanagari": "कान्ता",
+  "iastSplit": "Kāntā",
+  "archana": "ॐ कान्तायै नमः",
+  "syllables": ["kān", "tā"],
+  "words": [
+    { "sa": "कान्ता", "meaning": { "en": "lovely; beloved, desired", "hi": "मनोहर; प्रिया, चाही गई" } }
+  ],
+  "meaning": {
+    "en": "The lovely one, beloved and desired by all",
+    "hi": "परम मनोहर, सबकी प्रिय"
+  },
+  "explanation": {
+    "en": "Kāntā means lovely, and also beloved. Bhāskararāya gives the reason in one word: she is kamanīya, worthy of being longed for. Her beauty draws every heart toward her.",
+    "hi": "‘कान्ता’ का अर्थ है मनोहर, और प्रिया भी। भास्करराय एक शब्द में कारण बताते हैं: वे ‘कमनीय’ हैं, अर्थात् चाहे जाने योग्य। उनका सौन्दर्य हर हृदय को अपनी ओर खींच लेता है।"
+  },
+  "inner": {
+    "en": "He also splits the name as ka and anta: ka is Brahman, and anta is the final conclusion (siddhānta). She is the one whose settled teaching is Brahman alone. In a third reading she is the night of the eleventh day of the dark fortnight.",
+    "hi": "वे इस नाम को ‘क’ और ‘अन्त’ में भी बाँटते हैं: ‘क’ ब्रह्म है, और ‘अन्त’ अन्तिम निष्कर्ष, अर्थात् सिद्धान्त। वे वह हैं जिनका स्थिर सिद्धान्त केवल ब्रह्म है। तीसरे अर्थ में वे कृष्ण पक्ष की एकादशी की रात्रि का रूप हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya names the eleventh night of the dark fortnight without explaining the link, so it is left as he gives it. In the verse, Kāntā stands among names beginning with ka, and like Kalālāpā before it he reads it through ka as Brahman.",
+    "hi": "कृष्ण पक्ष की एकादशी की रात्रि से इस नाम का सम्बन्ध भास्करराय बिना व्याख्या के बताते हैं, इसलिए उसे यहाँ वैसे ही रखा गया है। श्लोक में ‘कान्ता’ ‘क’ से आरम्भ होने वाले नामों के बीच है, और पिछले नाम कलालापा की तरह वे इसे भी ‘क’ अर्थात् ब्रह्म के सहारे पढ़ते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "कान्ता कमनीयत्वात् । कं ब्रह्मैवान्तः सिद्धान्तो यस्या इति वा ।",
+    "translation": {
+      "en": "Kāntā, because she is kamanīya, to be longed for. Or: she whose anta, final conclusion, is ka, Brahman alone.",
+      "hi": "कमनीय, अर्थात् चाहे जाने योग्य, होने से वे कान्ता हैं। अथवा, जिनका अन्त, अर्थात् सिद्धान्त, ‘क’ अर्थात् केवल ब्रह्म है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 329 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s third gloss (कृष्णैकादशीरात्रिरूपा) is reported without explanation; a scholar may add its basis." }
+}

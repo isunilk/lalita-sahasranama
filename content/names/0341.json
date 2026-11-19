@@ -1,0 +1,43 @@
+{
+  "number": 341,
+  "verse": 76,
+  "slug": "kshetra-svarupa",
+  "devanagari": "क्षेत्रस्वरूपा",
+  "iastSplit": "Kṣetra-svarūpā",
+  "archana": "ॐ क्षेत्रस्वरूपायै नमः",
+  "syllables": ["kṣet", "ras", "va", "rū", "pā"],
+  "words": [
+    { "sa": "क्षेत्र", "meaning": { "en": "field; the body; a sacred site", "hi": "क्षेत्र; शरीर; तीर्थ" } },
+    { "sa": "स्वरूप", "meaning": { "en": "own form, true nature", "hi": "अपना रूप, स्वरूप" } }
+  ],
+  "meaning": {
+    "en": "Whose own form is the field, the body",
+    "hi": "क्षेत्र, अर्थात् शरीर, जिनका अपना स्वरूप है"
+  },
+  "explanation": {
+    "en": "Kṣetra means a field. Bhāskararāya gives two senses: the sacred sites such as Kāmarūpa, and the body, which is made of the thirty-six tattvas from earth to Śiva. Both are her own form.",
+    "hi": "‘क्षेत्र’ का अर्थ है खेत या क्षेत्र। भास्करराय इसके दो अर्थ देते हैं: कामरूप जैसे पवित्र तीर्थ, और शरीर, जो पृथ्वी से शिव तक छत्तीस तत्त्वों से बना है। ये दोनों उनके अपने रूप हैं।"
+  },
+  "inner": {
+    "en": "He quotes the Liṅga Purāṇa: the Devī, beloved of Śiva, takes on the state of the field, while the unborn Lord takes on that of the knower of the field. The body, then, is not something apart from the Mother; it is her form, and the one who knows it is Śiva.",
+    "hi": "वे लिङ्ग पुराण उद्धृत करते हैं: त्रिपुरान्तक शिव की प्रिया देवी क्षेत्र का रूप धारण करती हैं, और अजन्मा भगवान् क्षेत्रज्ञ का। इसलिए शरीर माँ से अलग कोई वस्तु नहीं; वह उनका रूप है, और उसे जानने वाले शिव हैं।"
+  },
+  "story": {
+    "en": "This verse takes up the language of the Gītā’s thirteenth chapter: the field (kṣetra) and the knower of the field (kṣetrajña). All five of its names begin with kṣ.",
+    "hi": "यह श्लोक गीता के तेरहवें अध्याय की भाषा अपनाता है: क्षेत्र, और क्षेत्र को जानने वाला क्षेत्रज्ञ। इस श्लोक के पाँचों नाम ‘क्ष’ से आरम्भ होते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "क्षेत्रं कामरूपादिकं वसुधादिशिवान्तषट्त्रिंशत्तत्त्वात्मकं शरीरं वा । तत्स्वं निजं रूपं यस्याः सा ।",
+    "translation": {
+      "en": "Kṣetra: Kāmarūpa and the other sacred sites, or the body, made of the thirty-six tattvas from earth to Śiva. She whose sva, own, form that is.",
+      "hi": "क्षेत्र, अर्थात् कामरूप आदि तीर्थ, अथवा पृथ्वी से शिव तक छत्तीस तत्त्वों से बना शरीर। वह जिनका स्व, अर्थात् अपना, रूप है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 341 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude." }
+}

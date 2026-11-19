@@ -1,0 +1,44 @@
+{
+  "number": 343,
+  "verse": 76,
+  "slug": "kshetra-kshetrajna-palini",
+  "devanagari": "क्षेत्रक्षेत्रज्ञपालिनी",
+  "iastSplit": "Kṣetra-kṣetrajña-pālinī",
+  "archana": "ॐ क्षेत्रक्षेत्रज्ञपालिन्यै नमः",
+  "syllables": ["kṣet", "rak", "ṣet", "raj", "ña", "pā", "li", "nī"],
+  "words": [
+    { "sa": "क्षेत्र", "meaning": { "en": "field, the body", "hi": "क्षेत्र, शरीर" } },
+    { "sa": "क्षेत्रज्ञ", "meaning": { "en": "knower of the field, the individual self", "hi": "क्षेत्रज्ञ, जीव" } },
+    { "sa": "पालिनी", "meaning": { "en": "she who protects", "hi": "पालन करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Protector of the field and of the knower of the field",
+    "hi": "क्षेत्र और क्षेत्रज्ञ, दोनों का पालन करने वाली"
+  },
+  "explanation": {
+    "en": "The field is the body, and the knower of the field is the jīva, the individual self. Bhāskararāya says she protects both. He quotes the verse, found in the Viṣṇu Smṛti and almost word for word in the Gītā, that the body is called the field and the one who knows it the knower of the field.",
+    "hi": "क्षेत्र शरीर है और क्षेत्रज्ञ जीव, अर्थात् व्यक्तिगत आत्मा। भास्करराय कहते हैं कि वे दोनों का पालन करती हैं। वे वह श्लोक उद्धृत करते हैं, जो विष्णु स्मृति में है और लगभग इन्हीं शब्दों में गीता में भी: यह शरीर क्षेत्र कहलाता है, और जो इसे जानता है, उसे ज्ञानी क्षेत्रज्ञ कहते हैं।"
+  },
+  "inner": {
+    "en": "He gathers several definitions. In the Liṅga Purāṇa the field is the twenty-four tattvas and the knower is the enjoying puruṣa; in the Vāyu Purāṇa the field is the unmanifest and the knower is Brahmā; in Manu the knower is the one who sets the self to act. Whatever the scale, from one body to the whole cosmos, she guards both what is known and the one who knows it.",
+    "hi": "वे अनेक परिभाषाएँ एकत्र करते हैं। लिङ्ग पुराण में चौबीस तत्त्व क्षेत्र हैं और भोक्ता पुरुष क्षेत्रज्ञ; वायु पुराण में अव्यक्त क्षेत्र है और ब्रह्मा क्षेत्रज्ञ; मनुस्मृति में क्षेत्रज्ञ वह है जो आत्मा से कर्म करवाता है। स्तर चाहे एक शरीर का हो या पूरे ब्रह्माण्ड का, वे ज्ञेय और ज्ञाता दोनों की रक्षा करती हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya also quotes the Brahma Purāṇa: bodies are called fields, and the yogī who knows them is called the knower of the field. Name 341 made the field her form and name 342 made her its queen; here she guards both the field and its knower.",
+    "hi": "भास्करराय ब्रह्म पुराण भी उद्धृत करते हैं: शरीर क्षेत्र कहलाते हैं, और उन्हें जानने वाला योगात्मा क्षेत्रज्ञ कहलाता है। नाम 341 ने क्षेत्र को उनका रूप कहा, नाम 342 ने उन्हें उसकी स्वामिनी; यहाँ वे क्षेत्र और क्षेत्रज्ञ दोनों की रक्षक हैं।"
+  },
+  "commentary": {
+    "sanskrit": "क्षेत्रज्ञो जीवस्तं क्षेत्रञ्च पालयतीति क्षेत्रक्षेत्रज्ञपालिनी ।",
+    "translation": {
+      "en": "The kṣetrajña is the jīva; she protects him and the kṣetra, the field, and so is Kṣetrakṣetrajñapālinī.",
+      "hi": "क्षेत्रज्ञ जीव है; वे उसका और क्षेत्र का पालन करती हैं, इसलिए क्षेत्रक्षेत्रज्ञपालिनी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 343 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition prints क्ष्त्रज्ञं in the Viṣṇu Smṛti verse, a misprint for क्षेत्रज्ञं; that verse is paraphrased, not quoted." }
+}

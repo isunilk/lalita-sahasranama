@@ -1,0 +1,42 @@
+{
+  "number": 358,
+  "verse": 79,
+  "slug": "taruni",
+  "devanagari": "तरुणी",
+  "iastSplit": "Taruṇī",
+  "archana": "ॐ तरुण्यै नमः",
+  "syllables": ["ta", "ru", "ṇī"],
+  "words": [
+    { "sa": "तरुणी", "meaning": { "en": "young woman; ever youthful", "hi": "युवती; सदा तरुण" } }
+  ],
+  "meaning": {
+    "en": "The ever-young one",
+    "hi": "सदा युवा रहने वाली"
+  },
+  "explanation": {
+    "en": "Taruṇī means a young woman. Bhāskararāya explains that she is ever youthful, and cites the Vedic words ‘unageing, immortal’. Time, which wears down everything, does not touch her.",
+    "hi": "‘तरुणी’ का अर्थ है युवती। भास्करराय समझाते हैं कि वे नित्य तरुण हैं, और श्रुति के शब्दों ‘अजर, अमृत’ का प्रमाण देते हैं। जो काल सबको क्षीण कर देता है, वह उन्हें छू नहीं पाता।"
+  },
+  "inner": {
+    "en": "His comment is short: her eternal youth follows from her being beyond age and death. He adds a note of grammar, that the feminine taruṇī is formed by a vārttika on Pāṇini. As a reflection, her youth is not a stage of life but a freshness that never fades.",
+    "hi": "उनकी व्याख्या संक्षिप्त है: जरा और मृत्यु से परे होने के कारण ही वे नित्य तरुण हैं। वे व्याकरण की एक टिप्पणी जोड़ते हैं कि स्त्रीलिंग ‘तरुणी’ पाणिनि पर एक वार्त्तिक से बनता है। चिन्तन के रूप में: उनका यौवन जीवन की कोई अवस्था नहीं, कभी न मुरझाने वाली ताज़गी है।"
+  },
+  "story": {
+    "en": "Her youthfulness belongs to her iconography as Tripurasundarī, the beauty of the three worlds. The name opens the second half of a verse whose names all begin with t.",
+    "hi": "उनका यौवन त्रिपुरसुन्दरी, अर्थात् तीनों लोकों की सुन्दरी, के रूप में उनकी प्रतिमा का अंग है। यह नाम उस श्लोक के दूसरे अर्ध को खोलता है जिसके सभी नाम ‘त’ से आरम्भ होते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "अजरोऽमृत इति श्रुतेर्नित्यतारुण्यवत्वात्तरुणी ।",
+    "translation": {
+      "en": "Taruṇī, because she has eternal youth, as the śruti says: unageing, immortal.",
+      "hi": "श्रुति कहती है ‘अजर, अमृत’; नित्य तारुण्य से युक्त होने के कारण वे तरुणी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 358 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives a brief literal gloss; the last sentence of the inner layer is a reflection." }
+}

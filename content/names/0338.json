@@ -1,0 +1,43 @@
+{
+  "number": 338,
+  "verse": 75,
+  "slug": "veda-janani",
+  "devanagari": "वेदजननी",
+  "iastSplit": "Veda-jananī",
+  "archana": "ॐ वेदजनन्यै नमः",
+  "syllables": ["ve", "da", "ja", "na", "nī"],
+  "words": [
+    { "sa": "वेद", "meaning": { "en": "the Veda", "hi": "वेद" } },
+    { "sa": "जननी", "meaning": { "en": "mother, she who gives birth", "hi": "जननी, जन्म देने वाली" } }
+  ],
+  "meaning": {
+    "en": "Mother of the Vedas",
+    "hi": "वेदों की जननी"
+  },
+  "explanation": {
+    "en": "She is the mother who brings forth the Vedas. Bhāskararāya quotes the Bṛhadāraṇyaka Upaniṣad, where the Ṛgveda, the Yajurveda and the rest are called the breath of the great Being. The Vedas come forth from her as effortlessly as breath.",
+    "hi": "वे वेदों को जन्म देने वाली माता हैं। भास्करराय बृहदारण्यक उपनिषद् का वचन उद्धृत करते हैं, जिसमें ऋग्वेद, यजुर्वेद आदि को उस महान् सत्ता का निःश्वास कहा गया है। वेद उनसे वैसे ही सहज निकलते हैं जैसे श्वास।"
+  },
+  "inner": {
+    "en": "From the Devī Purāṇa he gives a subtler reading: the vowels and consonants arose from Kuṇḍalinī, pictured as a triangle. Since the sounds of which every Veda is made arose from her, she is their mother.",
+    "hi": "देवी पुराण से वे एक सूक्ष्म अर्थ देते हैं: स्वर और व्यञ्जन त्रिकोण-आकार कुण्डलिनी से प्रकट हुए। जिन ध्वनियों से हर वेद बना है, वे उन्हीं से उत्पन्न हुईं, इसलिए वे वेदों की माता हैं।"
+  },
+  "story": {
+    "en": "He also cites the Puruṣa hymn, in which the Ṛk and Sāman verses are said to be born (ṛcaḥ sāmāni jajñire). Following Vedavedyā (335), this name says she is both what the Vedas make known and the source from which they come.",
+    "hi": "वे पुरुष सूक्त का भी उल्लेख करते हैं, जिसमें ऋचाओं और सामों के उत्पन्न होने की बात है (ऋचः सामानि जज्ञिरे)। वेदवेद्या (335) के बाद यह नाम कहता है कि वे वेदों का प्रतिपाद्य भी हैं और उनका उद्गम भी।"
+  },
+  "commentary": {
+    "sanskrit": "वेदानां जननी उत्पादिका ।",
+    "translation": {
+      "en": "Jananī of the Vedas: she who brings them forth.",
+      "hi": "वेदों की जननी, अर्थात् उन्हें उत्पन्न करने वाली।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 338 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. In the Devī Purāṇa verse Bhāskararāya quotes, the edition prints देवमाता, perhaps for वेदमाता; the inner layer does not depend on that word. He cites the Upaniṣad and the Puruṣa hymn only as śruti; the names are added. The Kuṇḍalinī reading is given as meaning only." }
+}

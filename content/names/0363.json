@@ -1,0 +1,45 @@
+{
+  "number": 363,
+  "verse": 80,
+  "slug": "tat-pada-lakshyartha",
+  "devanagari": "तत्पदलक्ष्यार्था",
+  "iastSplit": "Tat-pada-lakṣyārthā",
+  "archana": "ॐ तत्पदलक्ष्यार्थायै नमः",
+  "syllables": ["tat", "pa", "da", "lak", "ṣyār", "thā"],
+  "words": [
+    { "sa": "तत्", "meaning": { "en": "That", "hi": "तत्, वह" } },
+    { "sa": "पद", "meaning": { "en": "word", "hi": "पद, शब्द" } },
+    { "sa": "लक्ष्य", "meaning": { "en": "implied, indicated by secondary meaning", "hi": "लक्ष्य, लक्षणा से बोधित" } },
+    { "sa": "अर्थ", "meaning": { "en": "meaning", "hi": "अर्थ" } }
+  ],
+  "meaning": {
+    "en": "She who is the implied meaning of the word ‘That’",
+    "hi": "‘तत्’ पद का लक्ष्यार्थ"
+  },
+  "explanation": {
+    "en": "In the great Upaniṣadic sentence tat tvam asi, ‘That thou art’, the word tat, ‘That’, points to the Absolute. She is what that word finally means. The name places her at the heart of the Vedānta teaching.",
+    "hi": "उपनिषद् के महावाक्य ‘तत्त्वमसि’ (वह तू है) में ‘तत्’ पद परम सत्य की ओर संकेत करता है। वे ही उस पद का अन्तिम अर्थ हैं। यह नाम उन्हें वेदान्त की शिक्षा के केन्द्र में रखता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya explains with Vedānta’s theory of meaning. The direct meaning (vācya) of tat is Brahman qualified as the cause of the world’s creation and the rest, and that is the Goddess praised here; its implied meaning (lakṣya) is pure Brahman, the bare reality beneath those qualities. The two are related by identity, and the name says she is one with that implied meaning.",
+    "hi": "भास्करराय वेदान्त के अर्थ-सिद्धान्त से समझाते हैं। ‘तत्’ का वाच्यार्थ है जगत् की सृष्टि आदि के कर्तृत्व से युक्त सगुण ब्रह्म, और यहाँ जिनकी स्तुति हो रही है, वे वही देवी हैं; उसका लक्ष्यार्थ है शुद्ध ब्रह्म, उन गुणों के नीचे का केवल धर्मी। इन दोनों का सम्बन्ध तादात्म्य है, और यह नाम कहता है कि वे उस लक्ष्यार्थ से एक हैं।"
+  },
+  "story": {
+    "en": "He adds a point of grammar: the name must be a bahuvrīhi describing her, for if it meant only the bare substrate it would be a tatpuruṣa and, by Pāṇini’s rule, take the masculine gender. This name and the next two carry one argument forward, each answering a question raised by the one before.",
+    "hi": "वे व्याकरण की एक बात जोड़ते हैं: यह नाम उनका विशेषण बनने वाला बहुव्रीहि होना चाहिए, क्योंकि यदि इसका अर्थ केवल धर्मी होता तो यह तत्पुरुष होता और पाणिनि के नियम से पुल्लिंग हो जाता। यह और अगले दो नाम एक ही तर्क को आगे बढ़ाते हैं; हर नाम पिछले से उठे प्रश्न का उत्तर है।"
+  },
+  "commentary": {
+    "sanskrit": "तत्त्वमस्यादिमहावाक्यघटकतत्पदस्य जगज्जन्मादिकर्तृत्वविशिष्टं शबलं ब्रह्म वाच्योऽर्थः । तदेवेह स्तूयमानं धर्मिमात्रं तु शुद्धं ब्रह्म लक्ष्योऽर्थः ।",
+    "translation": {
+      "en": "Of the word tat in the great sentences such as ‘tat tvam asi’, the direct meaning is the qualified (śabala) Brahman, marked by being the maker of the world’s birth and the rest; that is what is praised here. The bare substrate, pure Brahman, is the implied meaning.",
+      "hi": "‘तत्त्वमसि’ आदि महावाक्यों के घटक ‘तत्’ पद का वाच्यार्थ है जगत् के जन्म आदि के कर्तृत्व से युक्त शबल ब्रह्म; यहाँ उसी की स्तुति हो रही है। केवल धर्मी, अर्थात् शुद्ध ब्रह्म, लक्ष्यार्थ है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 363 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Vedāntic argument is summarised; check the rendering of शबल and धर्मिमात्र. The edition’s ‘तदितिपदेन लक्षणी योऽर्थः’ looks corrupt and is not quoted." }
+}

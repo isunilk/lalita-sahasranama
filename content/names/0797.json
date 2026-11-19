@@ -1,0 +1,43 @@
+{
+  "number": 797,
+  "verse": 152,
+  "slug": "kala-nidhi",
+  "devanagari": "कलानिधिः",
+  "iastSplit": "Kalā-nidhiḥ",
+  "archana": "ॐ कलानिधये नमः",
+  "syllables": ["ka", "lā", "ni", "dhiḥ"],
+  "words": [
+    {"sa": "कला", "meaning": {"en": "art; fine portion; digit of the moon", "hi": "कला; सूक्ष्म अंश; चन्द्रमा की कला"}},
+    {"sa": "निधि", "meaning": {"en": "treasure, store", "hi": "निधि, भण्डार"}}
+  ],
+  "meaning": {
+    "en": "The treasury of all the kalās",
+    "hi": "समस्त कलाओं की निधि"
+  },
+  "explanation": {
+    "en": "She is the store in which every kalā is kept: every art, every fine portion of things, all that the earlier names described. Kalānidhi is also a name of the moon, the treasury of the sixteen digits, and Bhāskararāya allows that she is the orb of the moon.",
+    "hi": "वे वह भण्डार हैं जिसमें हर कला सुरक्षित है: हर कला, वस्तुओं का हर सूक्ष्म अंश, जो कुछ पिछले नामों ने वर्णित किया। ‘कलानिधि’ चन्द्रमा का भी नाम है, सोलह कलाओं की निधि; भास्करराय के अनुसार वे चन्द्रमण्डल-रूपा भी हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes the Bṛhadāraṇyaka, “the self is his sixteenth kalā”, and so reads her as the treasury of selves, of all living beings. In the commentary on the Śiva Sūtras kalā is explained as action, so he also reads her as the one in whom all actions are laid to rest, for, as the Gītā says, all action without exception is fulfilled in knowledge.",
+    "hi": "भास्करराय बृहदारण्यक का वचन उद्धृत करते हैं, ‘आत्मा ही उसकी सोलहवीं कला है’, और इस आधार पर उन्हें आत्माओं की, अर्थात् सभी जीवों की, निधि मानते हैं। शिवसूत्र के भाष्य में ‘कला’ का अर्थ कर्म बताया गया है; इसलिए वे उन्हें वह आश्रय भी मानते हैं जिसमें सारे कर्म आकर ठहरते हैं, क्योंकि गीता कहती है कि सम्पूर्ण कर्म ज्ञान में ही समाप्त होते हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya points out that nidhi, like śevadhi in name 800, is masculine, so the archana is kalānidhaye namaḥ, not nidhyai. Only if the name is read as “she whose treasure is the kalās” would a feminine form be possible.",
+    "hi": "भास्करराय बताते हैं कि ‘निधि’, नाम 800 के ‘शेवधि’ की तरह, पुल्लिंग है; इसलिए अर्चना ‘कलानिधये नमः’ है, ‘निध्यै’ नहीं। केवल यदि नाम को ‘कलाएँ जिनकी निधि हैं’ के अर्थ में पढ़ा जाए, तभी स्त्रीलिंग रूप सम्भव होगा।"
+  },
+  "commentary": {
+    "sanskrit": "कलानां नानाविधतया पूर्वं वर्णितानां निधिः",
+    "translation": {
+      "en": "The treasury of the kalās, which were described earlier in their many kinds.",
+      "hi": "पहले अनेक प्रकार से वर्णित कलाओं की निधि।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 797 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The archana कलानिधये is confirmed by Bhāskararāya (तेन कलानिधये नमः … न पाक्षिको निध्यै शेवध्यै नम इति), who allows a feminine only under a bahuvrīhi analysis." }
+}

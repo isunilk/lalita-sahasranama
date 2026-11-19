@@ -1,0 +1,43 @@
+{
+  "number": 347,
+  "verse": 77,
+  "slug": "vimala",
+  "devanagari": "विमला",
+  "iastSplit": "Vimalā",
+  "archana": "ॐ विमलायै नमः",
+  "syllables": ["vi", "ma", "lā"],
+  "words": [
+    { "sa": "वि", "meaning": { "en": "without, gone", "hi": "रहित" } },
+    { "sa": "मल", "meaning": { "en": "impurity, stain", "hi": "मल, अशुद्धि" } }
+  ],
+  "meaning": {
+    "en": "The stainless one, free of every impurity",
+    "hi": "निर्मल, सब मलों से रहित"
+  },
+  "explanation": {
+    "en": "Vi means gone and mala is impurity: she is the one in whom no stain remains. Bhāskararāya names the impurity: it is the mala born of avidyā, ignorance. Nothing that clouds the minds of beings can touch her.",
+    "hi": "‘वि’ का अर्थ है रहित और ‘मल’ का अर्थ अशुद्धि: वे वह हैं जिनमें कोई दाग शेष नहीं। भास्करराय उस मल का नाम बताते हैं: वह अविद्या, अर्थात् अज्ञान, से उत्पन्न मल है। प्राणियों के मन को ढकने वाली कोई भी वस्तु उन्हें छू नहीं सकती।"
+  },
+  "inner": {
+    "en": "Here he names only the impurity of ignorance. At name 354 he sets out the three malas of the Śaiva and Pratyabhijñā tradition, āṇava, māyīya and kārma, the impurities of limitation, of difference and of action, which bind beings. She who is free of them all is the one who, in that name, releases beings from them.",
+    "hi": "यहाँ वे केवल अज्ञान के मल का नाम लेते हैं। नाम 354 पर वे शैव और प्रत्यभिज्ञा परम्परा के तीन मल विस्तार से बताते हैं, आणव, मायीय और कार्म, अर्थात् सीमितता, भेद और कर्म के मल, जो जीवों को बाँधते हैं। जो इन सबसे मुक्त हैं, वही उस नाम में जीवों को इनसे छुड़ाती हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya cites the Padma Purāṇa’s list of the Devī’s sacred places, where she is Vimalā at Puruṣottama, that is, Purī. He also notes that Vimala is the name of a kind of house in the Viśvakarma śāstra on building.",
+    "hi": "भास्करराय पद्म पुराण में देवी के तीर्थों की सूची उद्धृत करते हैं, जहाँ वे पुरुषोत्तम, अर्थात् पुरी, में विमला हैं। वे यह भी बताते हैं कि वास्तु के विश्वकर्मा-शास्त्र में ‘विमल’ एक प्रकार के भवन का नाम है।"
+  },
+  "commentary": {
+    "sanskrit": "विगतो मल आविद्यको यस्याः सा विमला ।",
+    "translation": {
+      "en": "Vimalā: she from whom mala, the impurity born of ignorance, has gone.",
+      "hi": "जिनसे अविद्या से उत्पन्न मल दूर हो गया है, वे विमला हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 347 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Puruṣottama in the Padma Purāṇa list is taken as Purī." }
+}

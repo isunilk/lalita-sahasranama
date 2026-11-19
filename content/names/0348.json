@@ -1,0 +1,42 @@
+{
+  "number": 348,
+  "verse": 77,
+  "slug": "vandya",
+  "devanagari": "वन्द्या",
+  "iastSplit": "Vandyā",
+  "archana": "ॐ वन्द्यायै नमः",
+  "syllables": ["van", "dyā"],
+  "words": [
+    { "sa": "वन्द्या", "meaning": { "en": "worthy of worship, to be saluted", "hi": "वन्दनीय, प्रणाम के योग्य" } }
+  ],
+  "meaning": {
+    "en": "She who is worthy of worship",
+    "hi": "वन्दना के योग्य"
+  },
+  "explanation": {
+    "en": "Vandyā means one fit to be bowed to and praised. Bhāskararāya notes that the hymn itself gives the reason in the very next name: she is worthy of worship because she loves those who worship her.",
+    "hi": "‘वन्द्या’ का अर्थ है जिन्हें प्रणाम और स्तुति की जाए। भास्करराय बताते हैं कि यह योग्यता स्तोत्र स्वयं अगले नाम में बताता है: वे वन्दनीय हैं, क्योंकि वे अपनी वन्दना करने वालों से स्नेह करती हैं।"
+  },
+  "inner": {
+    "en": "He gives only this sense and no hidden meaning. As a reflection, worship here is not bowing to power but an answer to love: she is honoured because she cares, and the devotee who bows is met by a mother’s affection.",
+    "hi": "वे केवल यही अर्थ देते हैं, कोई गूढ़ अर्थ नहीं। चिन्तन के रूप में: यहाँ वन्दना शक्ति के आगे झुकना नहीं, प्रेम का उत्तर है; वे इसलिए पूजित हैं कि वे परवाह करती हैं, और झुकने वाले भक्त को माँ का स्नेह मिलता है।"
+  },
+  "story": {
+    "en": "Bhāskararāya reads Vandyā and Vandārujanavatsalā as a pair, the second giving the reason for the first. All seven names of this verse begin with v.",
+    "hi": "भास्करराय वन्द्या और वन्दारुजनवत्सला को एक जोड़े के रूप में पढ़ते हैं, जिसमें दूसरा नाम पहले का कारण बताता है। इस श्लोक के सातों नाम ‘व’ से आरम्भ होते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "वन्दितुं योग्या वन्द्या । योग्यतामेवाह-वन्दार्विति ।",
+    "translation": {
+      "en": "Vandyā: fit to be saluted. What makes her fit is stated next, in ‘vandāru…’.",
+      "hi": "वन्दना के योग्य होने से वन्द्या। वह योग्यता अगले नाम ‘वन्दारु…’ में बताई गई है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 348 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the inner layer is a reflection." }
+}

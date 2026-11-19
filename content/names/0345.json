@@ -1,0 +1,44 @@
+{
+  "number": 345,
+  "verse": 76,
+  "slug": "kshetra-pala-samarchita",
+  "devanagari": "क्षेत्रपालसमर्चिता",
+  "iastSplit": "Kṣetra-pāla-samarcitā",
+  "archana": "ॐ क्षेत्रपालसमर्चितायै नमः",
+  "syllables": ["kṣet", "ra", "pā", "la", "sa", "mar", "ci", "tā"],
+  "words": [
+    { "sa": "क्षेत्र", "meaning": { "en": "field; the place of worship", "hi": "क्षेत्र; पूजा-स्थल" } },
+    { "sa": "पाल", "meaning": { "en": "guardian", "hi": "रक्षक" } },
+    { "sa": "समर्चिता", "meaning": { "en": "fully and duly worshipped", "hi": "भली-भाँति पूजित" } }
+  ],
+  "meaning": {
+    "en": "Worshipped devoutly by Kṣetrapāla, guardian of the sacred precinct",
+    "hi": "पवित्र क्षेत्र के रक्षक क्षेत्रपाल द्वारा भली-भाँति पूजित"
+  },
+  "explanation": {
+    "en": "Kṣetrapāla is the guardian deity of the place of worship; Bhāskararāya derives the name as the one who protects the kṣetra, the precinct of sacrifice. He worships her fully and well. Even the guardian of her shrine is her devotee.",
+    "hi": "क्षेत्रपाल पूजा-स्थल के रक्षक देवता हैं; भास्करराय इस नाम की व्युत्पत्ति बताते हैं: जो क्षेत्र, अर्थात् यज्ञ-स्थल, की रक्षा करे। वे उनकी भली-भाँति पूजा करते हैं। उनके मन्दिर का रक्षक भी उनका भक्त है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives the story and the derivation and no hidden meaning. As a reflection, the story shows that even her fiercest power is calmed by love: Śiva came to her not as a warrior but as a crying child, and her wrath was drawn away with her milk.",
+    "hi": "भास्करराय कथा और व्युत्पत्ति देते हैं, कोई गूढ़ अर्थ नहीं। चिन्तन के रूप में, यह कथा दिखाती है कि उनकी सबसे उग्र शक्ति भी प्रेम से शान्त हो जाती है: शिव योद्धा बनकर नहीं, रोते हुए शिशु बनकर उनके पास आए, और उनका क्रोध दूध के साथ खिंच गया।"
+  },
+  "story": {
+    "en": "Bhāskararāya tells the story known from the Liṅga and other Purāṇas. Śiva created Kālī to kill the demon Dāruka, but after the slaying her fiery anger still troubled the world; so Śiva became a child and cried, she nursed him, and with her milk he drank in her anger too. That child is Kṣetrapāla, a particular form of Śiva.",
+    "hi": "भास्करराय लिङ्ग आदि पुराणों में प्रसिद्ध कथा सुनाते हैं। दारुकासुर के वध के लिए शिव ने काली को प्रकट किया, पर वध के बाद भी उनकी क्रोधाग्नि से जगत् व्याकुल रहा; तब शिव बालक बनकर रोने लगे, काली ने उन्हें स्तनपान कराया, और दूध के साथ वे उनकी क्रोधाग्नि भी पी गए। वही बालक क्षेत्रपाल है, शिव का एक विशेष अवतार।"
+  },
+  "commentary": {
+    "sanskrit": "क्षेत्रं यागायतनं पालयतीति व्युत्पत्तिः । तेन सम्यगर्चिता ।",
+    "translation": {
+      "en": "The derivation: he protects the kṣetra, the place of sacrifice. By him she is fully worshipped.",
+      "hi": "व्युत्पत्ति यह है: जो क्षेत्र, अर्थात् यज्ञ-स्थल, का पालन करे। उनके द्वारा वे भली-भाँति पूजित हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 345 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The inner layer is a reflection on the story Bhāskararāya tells; he gives no hidden meaning." }
+}

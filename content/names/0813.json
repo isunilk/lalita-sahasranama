@@ -1,0 +1,42 @@
+{
+  "number": 813,
+  "verse": 154,
+  "slug": "murta",
+  "devanagari": "मूर्ता",
+  "iastSplit": "Mūrtā",
+  "archana": "ॐ मूर्तायै नमः",
+  "syllables": ["mūr", "tā"],
+  "words": [
+    {"sa": "मूर्ता", "meaning": {"en": "having form, embodied", "hi": "मूर्त, साकार"}}
+  ],
+  "meaning": {
+    "en": "She who has form",
+    "hi": "साकार, मूर्त रूप वाली"
+  },
+  "explanation": {
+    "en": "Mūrta means that which has form and shape. Everything solid and visible, everything that can be seen and touched, is she. With the next name, Amūrtā, the pair covers the whole of existence, with form and without.",
+    "hi": "‘मूर्त’ का अर्थ है जिसका आकार और रूप हो। जो कुछ ठोस और दृश्य है, जिसे देखा और छुआ जा सकता है, वह सब वही हैं। अगले नाम ‘अमूर्ता’ के साथ यह युगल पूरी सत्ता को समेट लेता है, साकार और निराकार दोनों।"
+  },
+  "inner": {
+    "en": "Bhāskararāya reads this pair through the Bṛhadāraṇyaka teaching that Brahman has two forms, the formed and the formless. In one explanation the formed are the five great elements after they have been compounded, and the formless are the same elements in their subtle, uncompounded state. He rejects as groundless the logicians’ definition of the formed as “that which moves”.",
+    "hi": "भास्करराय इस युगल को बृहदारण्यक के उस उपदेश से पढ़ते हैं कि ब्रह्म के दो रूप हैं, मूर्त और अमूर्त। एक व्याख्या में मूर्त हैं पञ्चीकरण के बाद के पाँच महाभूत, और अमूर्त हैं वही भूत अपनी सूक्ष्म, अपञ्चीकृत अवस्था में। तार्किकों की इस परिभाषा को कि मूर्त वह है ‘जिसमें गति हो’, वे निराधार कहकर अस्वीकार करते हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya explains names 813 and 814 together. His simplest gloss: whatever has visible form is mūrta, while air, space and the like are amūrta, and she is the form of each.",
+    "hi": "भास्करराय नाम 813 और 814 को एक साथ समझाते हैं। उनकी सबसे सरल व्याख्या: जिसका दृश्य रूप है वह मूर्त है, और वायु, आकाश आदि अमूर्त हैं; वे इन दोनों के रूप में हैं।"
+  },
+  "commentary": {
+    "sanskrit": "यद्वा पञ्चीकृतानि महाभूतानि मूर्तानि अपञ्चीकृतानि तु भूतसूक्ष्माण्यमूर्तानि ।",
+    "translation": {
+      "en": "Or: the great elements, once compounded, are the mūrta, the formed; the subtle elements, not yet compounded, are the amūrta, the formless.",
+      "hi": "अथवा: पञ्चीकृत महाभूत मूर्त हैं, और अपञ्चीकृत सूक्ष्म भूत अमूर्त हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 813 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s opening gloss is printed रूपवद्वस्तु मूर्तं वायवाकाशादिकममूर्तं (वायवाकाश evidently for वाय्वाकाश); it is paraphrased in the story layer and a later sentence is quoted instead." }
+}

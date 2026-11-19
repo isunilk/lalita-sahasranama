@@ -7,6 +7,7 @@ const VIRAMA = '्';
 const ANUSVARA = 'ं';
 const VISARGA = 'ः';
 const OM = 'ॐ';
+const AVAGRAHA = 'ऽ';
 const DANDAS = ['।', '॥'];
 
 const OFFSETS = { bn: 0x80, gu: 0x180, or: 0x200, te: 0x300, kn: 0x380, ml: 0x400 };
@@ -115,6 +116,7 @@ function tamil(input) {
     else if (TA_SIGN[ch]) res += TA_SIGN[ch];
     else if (ch === ANUSVARA) res += 'ம்';
     else if (ch === VISARGA) res += 'ஹ';
+    else if (ch === AVAGRAHA) res += ''; // Tamil has no avagraha sign
     else if (ch === OM) res += OM_MAP.ta;
     else res += ch;
   }
@@ -143,6 +145,7 @@ export function toIAST(s, { capitalize = true } = {}) {
     else if (IA_VOW[ch]) res += IA_VOW[ch];
     else if (ch === ANUSVARA) res += 'ṃ';
     else if (ch === VISARGA) res += 'ḥ';
+    else if (ch === AVAGRAHA) res += '’';
     else if (ch === OM) res += 'oṃ';
     else if (ch === '।') res += '|';
     else if (ch === '॥') res += '||';

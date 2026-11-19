@@ -1,0 +1,44 @@
+{
+  "number": 349,
+  "verse": 77,
+  "slug": "vandaru-jana-vatsala",
+  "devanagari": "वन्दारुजनवत्सला",
+  "iastSplit": "Vandāru-jana-vatsalā",
+  "archana": "ॐ वन्दारुजनवत्सलायै नमः",
+  "syllables": ["van", "dā", "ru", "ja", "na", "vat", "sa", "lā"],
+  "words": [
+    { "sa": "वन्दारु", "meaning": { "en": "one who bows in worship", "hi": "वन्दना करने वाला" } },
+    { "sa": "जन", "meaning": { "en": "people", "hi": "जन, लोग" } },
+    { "sa": "वत्सला", "meaning": { "en": "loving, as a cow toward her calf", "hi": "वात्सल्य से भरी, जैसे गाय बछड़े पर" } }
+  ],
+  "meaning": {
+    "en": "Loving, like a mother, toward those who bow to her",
+    "hi": "वन्दना करने वालों पर माँ जैसा वात्सल्य रखने वाली"
+  },
+  "explanation": {
+    "en": "Vandāru means one who bows in worship, and vatsalā is the tender love of a cow for her calf. She cherishes everyone who bows to her as her own young. Bhāskararāya explains vatsalā as one who takes them to herself as calves, that is, favours them.",
+    "hi": "‘वन्दारु’ का अर्थ है वन्दना करने वाला, और ‘वत्सला’ वह कोमल प्रेम है जो गाय अपने बछड़े पर रखती है। जो भी उन्हें प्रणाम करता है, उसे वे अपनी सन्तान की तरह दुलारती हैं। भास्करराय ‘वत्सला’ का अर्थ बताते हैं: जो उन्हें बछड़ों की तरह अपना ले, अर्थात् उन पर अनुग्रह करे।"
+  },
+  "inner": {
+    "en": "Bhāskararāya treats the name mainly through grammar: vandāru is formed by Pāṇini’s rule that adds -āru to the root vand, and vatsala may also be formed by the rule that adds -la in the sense of affection. He gives no hidden meaning. As a reflection, the bowing comes first from the devotee, but the love that answers it was there before.",
+    "hi": "भास्करराय इस नाम को मुख्यतः व्याकरण से समझाते हैं: ‘वन्दारु’ पाणिनि के उस सूत्र से बनता है जो वन्द् धातु में ‘आरु’ प्रत्यय जोड़ता है, और ‘वत्सल’ उस सूत्र से भी बन सकता है जो स्नेह के अर्थ में ‘ल’ प्रत्यय जोड़ता है। वे कोई गूढ़ अर्थ नहीं देते। चिन्तन के रूप में: झुकना भक्त की ओर से पहले होता है, पर उसका उत्तर देने वाला प्रेम उससे पहले से विद्यमान था।"
+  },
+  "story": {
+    "en": "This name gives the reason for the previous one, Vandyā: she is worthy of worship because she loves her worshippers. The cow and her calf are the classical picture of selfless love in Sanskrit literature.",
+    "hi": "यह नाम पिछले नाम वन्द्या का कारण बताता है: वे वन्दनीय हैं, क्योंकि वे अपने उपासकों से प्रेम करती हैं। गाय और बछड़े का चित्र संस्कृत साहित्य में निःस्वार्थ प्रेम का पारम्परिक प्रतीक है।"
+  },
+  "commentary": {
+    "sanskrit": "तादृशान् जनान्वत्सवल्लात्यनुगृह्णाति",
+    "translation": {
+      "en": "Such people she takes to herself as calves, that is, she favours them.",
+      "hi": "ऐसे जनों को वे बछड़ों की तरह अपना लेती हैं, अर्थात् उन पर अनुग्रह करती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 349 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s comment is grammatical (शॄवन्द्योरारुः; वत्सांसाभ्यां कामबले); the last sentence of the inner layer is a reflection." }
+}

@@ -1,0 +1,42 @@
+{
+  "number": 804,
+  "verse": 152,
+  "slug": "pushkara",
+  "devanagari": "पुष्करा",
+  "iastSplit": "Puṣkarā",
+  "archana": "ॐ पुष्करायै नमः",
+  "syllables": ["puṣ", "ka", "rā"],
+  "words": [
+    {"sa": "पुष्करा", "meaning": {"en": "she who holds puṣka, nourishment; the tīrtha Puṣkara; (as puṣkalā) full, all-pervading", "hi": "पुष्क अर्थात् पोषण को धारण करने वाली; पुष्कर तीर्थ; (पुष्कला) परिपूर्ण, सर्वव्यापिनी"}}
+  ],
+  "meaning": {
+    "en": "She who holds all nourishment; the holy Puṣkara itself",
+    "hi": "समस्त पोषण को धारण करने वाली; स्वयं पवित्र पुष्कर तीर्थ"
+  },
+  "explanation": {
+    "en": "Puṣkara has many meanings: lotus, water, sky, and the famous pilgrimage lake of Puṣkara. Bhāskararāya first derives the name from puṣka, nourishment: she holds the nourishing of all. She is also the holy place Puṣkara itself.",
+    "hi": "‘पुष्कर’ के अनेक अर्थ हैं: कमल, जल, आकाश, और पुष्कर नामक प्रसिद्ध तीर्थ-सरोवर। भास्करराय पहले इस नाम को ‘पुष्क’, अर्थात् पोषण, से जोड़ते हैं: वे सबके पोषण को धारण करती हैं। वे स्वयं पुष्कर तीर्थ भी हैं।"
+  },
+  "inner": {
+    "en": "Since r and l are often treated as one in Sanskrit, Bhāskararāya also hears puṣkalā in the name: full, abundant, all-pervading. The readings meet: she who nourishes all is she who fills all. He gives no further hidden meaning.",
+    "hi": "संस्कृत में ‘र’ और ‘ल’ को प्रायः अभिन्न माना जाता है, इसलिए भास्करराय इस नाम में ‘पुष्कला’ भी सुनते हैं: परिपूर्ण, प्रचुर, सर्वव्यापिनी। दोनों अर्थ मिल जाते हैं: जो सबका पोषण करती हैं, वही सबमें भरी हुई हैं। इसके आगे वे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "The Viśva lexicon, which Bhāskararāya quotes at the next name, gives over a dozen meanings for puṣkara, from lotus, sky and water to the tip of an elephant’s trunk, a drum-head and a sword-blade. The holy lake of Puṣkara in Rajasthan is among the most celebrated tīrthas of India.",
+    "hi": "विश्व कोश, जिसे भास्करराय अगले नाम पर उद्धृत करते हैं, ‘पुष्कर’ के एक दर्जन से अधिक अर्थ देता है: कमल, आकाश और जल से लेकर हाथी की सूँड़ का अग्रभाग, वाद्य का मुख और तलवार का फल तक। राजस्थान का पुष्कर सरोवर भारत के सबसे प्रसिद्ध तीर्थों में से है।"
+  },
+  "commentary": {
+    "sanskrit": "पुष्कराख्यतीर्थरूपा वा । रलयोरभेदाद्व्याप्तेति वा ।",
+    "translation": {
+      "en": "Or, she is the tīrtha called Puṣkara. Or, since r and l are not distinguished, (puṣkalā,) the all-pervading.",
+      "hi": "अथवा, वे पुष्कर नामक तीर्थ-स्वरूपा हैं। अथवा, ‘र’ और ‘ल’ के अभेद से (‘पुष्कला’), अर्थात् सर्वव्यापिनी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 804 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s first gloss, पुष्कं पोषणं रात्यादत्तेऽसौ पुष्करा, is rendered ‘she who holds nourishment’; since रा is glossed by आदत्ते, a scholar should check whether ‘takes, holds’ or ‘gives’ is meant. The sentence ‘the readings meet’ is a reflection." }
+}

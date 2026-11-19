@@ -1,0 +1,49 @@
+{
+  "number": 365,
+  "verse": 80,
+  "slug": "svatmananda-lavibhuta-brahmadyananda-santati",
+  "devanagari": "स्वात्मानन्दलवीभूतब्रह्माद्यानन्दसन्ततिः",
+  "iastSplit": "Svātmānanda-lavībhūta-brahmādyānanda-santatiḥ",
+  "archana": "ॐ स्वात्मानन्दलवीभूतब्रह्माद्यानन्दसन्तत्यै नमः",
+  "syllables": ["svāt", "mā", "nan", "da", "la", "vī", "bhū", "tab", "rah", "mād", "yā", "nan", "da", "san", "ta", "tiḥ"],
+  "words": [
+    { "sa": "स्व", "meaning": { "en": "own", "hi": "अपना" } },
+    { "sa": "आत्मन्", "meaning": { "en": "Self", "hi": "आत्मा" } },
+    { "sa": "आनन्द", "meaning": { "en": "bliss", "hi": "आनन्द" } },
+    { "sa": "लवीभूत", "meaning": { "en": "become a mere drop", "hi": "लव, अर्थात् लेशमात्र, बना हुआ" } },
+    { "sa": "ब्रह्मन्", "meaning": { "en": "Brahmā, the creator", "hi": "ब्रह्मा, सृष्टिकर्ता" } },
+    { "sa": "आदि", "meaning": { "en": "and the others", "hi": "आदि, इत्यादि" } },
+    { "sa": "आनन्द", "meaning": { "en": "bliss", "hi": "आनन्द" } },
+    { "sa": "सन्तति", "meaning": { "en": "whole stream, entire mass", "hi": "सन्तति, समूह, धारा" } }
+  ],
+  "meaning": {
+    "en": "Beside whose bliss the joys of Brahmā and the gods are drops",
+    "hi": "जिनके आत्मानन्द के आगे ब्रह्मा आदि का समस्त आनन्द एक बूँद है"
+  },
+  "explanation": {
+    "en": "Svātmānanda is the bliss of her own Self. The whole mass of the bliss of Brahmā, Viṣṇu, Rudra and the other gods has become a mere drop (lava) of it. However great their joy, it is a drop from her ocean.",
+    "hi": "‘स्वात्मानन्द’ उनकी अपनी आत्मा का आनन्द है। ब्रह्मा, विष्णु, रुद्र और अन्य देवताओं के आनन्द का सारा समूह उसका एक लव, अर्थात् एक बूँद, बन गया है। उनका आनन्द कितना भी बड़ा हो, वह उनके सागर की एक बूँद ही है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya recalls the Upaniṣad: all other beings live on a small portion of this bliss. In the Taittirīya, bliss rises step by step from human joy up to that of Prajāpati and beyond, yet even the highest of these is limited and small beside the unlimited bliss of Brahman. This, he concludes, is why the word tat must point to the Self beyond all attributes: only that bliss is the true goal of life.",
+    "hi": "भास्करराय श्रुति का स्मरण कराते हैं: अन्य सब प्राणी इसी आनन्द के एक अंश पर जीते हैं। तैत्तिरीय उपनिषद् में मनुष्य के आनन्द से आरम्भ कर हर अगली सीढ़ी पर आनन्द बढ़ता जाता है, पर प्रजापति आदि का ऊँचा आनन्द भी ब्रह्म के असीम आनन्द के सामने सीमित और अल्प है। वे निष्कर्ष निकालते हैं कि इसीलिए ‘तत्’ पद गुणों से परे आत्मा की ओर ही संकेत करता है: वही आनन्द सच्चा पुरुषार्थ है।"
+  },
+  "story": {
+    "en": "This long name fills the second half of verse 80 and closes the short Vedānta passage that began at name 361. Bhāskararāya cites the Viśva lexicon, in which lava means both ‘a tiny part’ and ‘play’.",
+    "hi": "यह लम्बा नाम श्लोक 80 के दूसरे अर्ध को भर देता है, और नाम 361 से आरम्भ हुए वेदान्त के छोटे प्रसंग को पूर्ण करता है। भास्करराय विश्व-कोश का प्रमाण देते हैं, जिसमें ‘लव’ का अर्थ ‘लेश’ भी है और ‘विलास’ भी।"
+  },
+  "commentary": {
+    "sanskrit": "स्वस्या आत्मरूपो य आनन्दस्तस्य लवीभूता इन्द्राद्यानन्दबिन्दुपर्यालोचनया सागरायमाणत्वेनालवा अपि देव्यानन्दसागरस्य लवाः सम्पद्यमानाः",
+    "translation": {
+      "en": "Become drops of the bliss that is her own Self: though, set beside the drops of bliss of Indra and the others, they are oceans and no drops at all, they become mere drops of the ocean of the Devī’s bliss.",
+      "hi": "जो आनन्द उनकी अपनी आत्मा का रूप है, उसके लव बने हुए: इन्द्र आदि के आनन्द-बिन्दुओं के सामने सागर-जैसे होने से जो लव कहे ही नहीं जा सकते, वे भी देवी के आनन्द-सागर के लव बन जाते हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 365 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition closes this comment with ।। ३३१ ।।, evidently for १३१. Bhāskararāya’s argument from the Taittirīya scale of bliss is condensed." }
+}

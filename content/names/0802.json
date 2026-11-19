@@ -1,0 +1,42 @@
+{
+  "number": 802,
+  "verse": 152,
+  "slug": "puratana",
+  "devanagari": "पुरातना",
+  "iastSplit": "Purātanā",
+  "archana": "ॐ पुरातनायै नमः",
+  "syllables": ["pu", "rā", "ta", "nā"],
+  "words": [
+    {"sa": "पुरातना", "meaning": {"en": "ancient, primeval", "hi": "पुरातन, सनातन"}}
+  ],
+  "meaning": {
+    "en": "The Ancient One, origin of all",
+    "hi": "सनातन, सबकी आदि"
+  },
+  "explanation": {
+    "en": "She is purātanā, ancient, because she is the beginning of all things; nothing came before her. Bhāskararāya also reads it as “she in whom the ancient qualities dwell”.",
+    "hi": "वे ‘पुरातना’ हैं, अर्थात् प्राचीन, क्योंकि वे सबकी आदि हैं; उनसे पहले कुछ नहीं था। भास्करराय इसका अर्थ यह भी करते हैं: ‘जिनमें सनातन गुण निवास करते हैं’।"
+  },
+  "inner": {
+    "en": "Bhāskararāya’s comment is mostly grammatical, and he gives no hidden meaning. The thought itself is simple: what is truly first is not old in the way things grow old. She is ancient because everything else is younger than she, and time does not touch her.",
+    "hi": "भास्करराय की टिप्पणी अधिकतर व्याकरण पर है, और वे कोई गूढ़ अर्थ नहीं देते। विचार स्वयं सरल है: जो सचमुच आदि है, वह वैसे पुराना नहीं होता जैसे वस्तुएँ पुरानी होती हैं। वे प्राचीन इसलिए हैं कि बाकी सब उनसे नया है, और काल उन्हें छूता नहीं।"
+  },
+  "story": {
+    "en": "Bhāskararāya notes a point of grammar: the expected feminine would be purātanī, and purātanā is a Vedic form. Alternatively it is formed with a suffix meaning “possessing”, giving “she who has ancient qualities”.",
+    "hi": "भास्करराय व्याकरण की एक बात बताते हैं: सामान्य स्त्रीलिंग रूप ‘पुरातनी’ होता, और ‘पुरातना’ छान्दस, अर्थात् वैदिक, प्रयोग है। अथवा यह ‘युक्त होने’ के अर्थ वाले प्रत्यय से बना है, जिससे अर्थ होता है ‘सनातन गुणों वाली’।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वेषामादिभूतत्वात्पुरातना ङीबभावश्छान्दसः ।",
+    "translation": {
+      "en": "Purātanā, because she is the origin of all. The absence of the feminine ending -ī is Vedic usage.",
+      "hi": "सबकी आदि होने से वे ‘पुरातना’ हैं। यहाँ ङीप् (ई प्रत्यय) का अभाव छान्दस, अर्थात् वैदिक प्रयोग है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 802 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense and grammar; the last two sentences of the inner layer are a reflection." }
+}

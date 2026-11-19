@@ -1,0 +1,44 @@
+{
+  "number": 344,
+  "verse": 76,
+  "slug": "kshaya-vriddhi-vinirmukta",
+  "devanagari": "क्षयवृद्धिविनिर्मुक्ता",
+  "iastSplit": "Kṣaya-vṛddhi-vinirmuktā",
+  "archana": "ॐ क्षयवृद्धिविनिर्मुक्तायै नमः",
+  "syllables": ["kṣa", "ya", "vṛd", "dhi", "vi", "nir", "muk", "tā"],
+  "words": [
+    { "sa": "क्षय", "meaning": { "en": "decay, waning", "hi": "क्षय, घटना" } },
+    { "sa": "वृद्धि", "meaning": { "en": "growth, waxing", "hi": "वृद्धि, बढ़ना" } },
+    { "sa": "विनिर्मुक्ता", "meaning": { "en": "wholly free", "hi": "पूर्णतः मुक्त" } }
+  ],
+  "meaning": {
+    "en": "Wholly free from decay and growth",
+    "hi": "क्षय और वृद्धि से सर्वथा मुक्त"
+  },
+  "explanation": {
+    "en": "Everything that has a body grows and then wears away. Bhāskararāya explains that decay and growth are changes that belong to the field; she presides over the field, yet they never touch her. He recalls the Gītā’s words on the Self: weapons do not cut it.",
+    "hi": "जिसका भी शरीर है, वह बढ़ता है और फिर क्षीण होता है। भास्करराय समझाते हैं कि क्षय और वृद्धि क्षेत्र के विकार हैं; वे क्षेत्र की अधिष्ठात्री हैं, फिर भी ये उन्हें छूते नहीं। वे आत्मा के विषय में गीता के वचन का स्मरण कराते हैं: इसे शस्त्र काट नहीं सकते।"
+  },
+  "inner": {
+    "en": "His second reading: she is free from any increase or decrease brought about by action. He quotes two Vedic sayings: the eternal greatness of the knower of Brahman neither grows nor shrinks by action, and the Self does not become greater by good action or less by bad. Merit and sin add nothing to her and take nothing away.",
+    "hi": "उनका दूसरा अर्थ: वे कर्म से होने वाली किसी भी वृद्धि या कमी से मुक्त हैं। वे दो श्रुति-वाक्य उद्धृत करते हैं: ब्रह्मज्ञानी की नित्य महिमा कर्म से न बढ़ती है, न घटती है; और आत्मा शुभ कर्म से बड़ा नहीं होता, न अशुभ कर्म से छोटा। पुण्य और पाप उनमें न कुछ जोड़ते हैं, न घटाते हैं।"
+  },
+  "story": {
+    "en": "This name completes the thought begun in name 341. The field, the body and the world, is always changing, while she who is its form, its queen and its guardian stays untouched by that change.",
+    "hi": "यह नाम 341 से आरम्भ हुए विचार को पूरा करता है। क्षेत्र, अर्थात् शरीर और जगत्, सदा बदलता रहता है, पर जो उसका रूप, उसकी स्वामिनी और उसकी रक्षक हैं, वे इस परिवर्तन से अछूती रहती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "क्षयवृद्ध्योः क्षेत्रसम्बन्धिभावविकाररूपत्वेन तदधिष्ठातृत्वेऽपि ताभ्यां विनिर्मुक्ता ।",
+    "translation": {
+      "en": "Since decay and growth are modifications of being that belong to the field, she is free from them, even though she presides over it.",
+      "hi": "क्षय और वृद्धि क्षेत्र से सम्बन्धित भाव-विकार हैं; इसलिए क्षेत्र की अधिष्ठात्री होते हुए भी वे उनसे मुक्त हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 344 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya attributes the two sayings to the Kāṭhaka and Vājasaneya śrutis; the inner layer calls them only Vedic sayings." }
+}

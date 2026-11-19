@@ -1,0 +1,44 @@
+{
+  "number": 812,
+  "verse": 153,
+  "slug": "para-mantra-vibhedini",
+  "devanagari": "परमन्त्रविभेदिनी",
+  "iastSplit": "Para-mantra-vibhedinī",
+  "archana": "ॐ परमन्त्रविभेदिन्यै नमः",
+  "syllables": ["pa", "ra", "man", "tra", "vi", "bhe", "di", "nī"],
+  "words": [
+    {"sa": "पर", "meaning": {"en": "other, hostile; also supreme", "hi": "पराया, शत्रु; श्रेष्ठ भी"}},
+    {"sa": "मन्त्र", "meaning": {"en": "counsel; spell, mantra", "hi": "मन्त्रणा; मन्त्र"}},
+    {"sa": "विभेदिनी", "meaning": {"en": "she who breaks apart, shatters", "hi": "भेदन करने वाली, तोड़ने वाली"}}
+  ],
+  "meaning": {
+    "en": "She who breaks the counsels and spells of hostile others",
+    "hi": "शत्रुओं की मन्त्रणाओं और अभिचार-मन्त्रों को भंग करने वाली"
+  },
+  "explanation": {
+    "en": "Para here means “others”, those hostile to her devotees, and mantra means their counsel or their spells. She shatters the plans of hostile rulers, and breaks the spells and weapon-mantras that enemies direct at those who worship her.",
+    "hi": "यहाँ ‘पर’ का अर्थ है ‘दूसरे’, अर्थात् उनके भक्तों से द्वेष रखने वाले, और ‘मन्त्र’ का अर्थ है उनकी मन्त्रणा या उनके मन्त्र-प्रयोग। वे शत्रु राजाओं की योजनाओं को तोड़ देती हैं, और भक्तों पर चलाए गए अभिचार तथा अस्त्र-मन्त्रों को भंग कर देती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya also reads para as “supreme”: the supreme mantra, the Pañcadaśī, which she divides into twelve forms, those of its twelve great worshippers, among them Manu, Kubera, Lopāmudrā, Agastya and Śiva. In another reading the word hides avi, “sin”: she shatters the sins of the great contemplators, as the Liṅga Purāṇa explains when it derives Avimukta, a name of Kāśī, from avi.",
+    "hi": "भास्करराय ‘पर’ को ‘परम’ के अर्थ में भी लेते हैं: परम मन्त्र, अर्थात् पञ्चदशी, जिसे वे बारह रूपों में विभक्त करती हैं; ये उसके बारह महान उपासकों के रूप हैं, जिनमें मनु, कुबेर, लोपामुद्रा, अगस्त्य और शिव हैं। एक अन्य अर्थ में इस शब्द में ‘अवि’, अर्थात् पाप, छिपा है: वे श्रेष्ठ मनन करने वालों के पापों को नष्ट करती हैं, जैसा लिंगपुराण ‘अवि’ से काशी के नाम ‘अविमुक्त’ की व्युत्पत्ति करते हुए बताता है।"
+  },
+  "story": {
+    "en": "Bhāskararāya cites the Harivaṃśa, where Indra’s message to Pradyumna tells him to remember the Devī to counter an enemy’s weapon. In political thought, mantra, counsel, is one of a king’s three powers, with lordship and energy, and the name says she breaks this power in those who hate her devotees.",
+    "hi": "भास्करराय हरिवंश उद्धृत करते हैं, जहाँ इन्द्र प्रद्युम्न को सन्देश भेजते हैं कि शत्रु के अस्त्र का प्रतिकार करने के लिए वे देवी का स्मरण करें। राजनीति-शास्त्र में ‘मन्त्र’, अर्थात् मन्त्रणा, राजा की तीन शक्तियों में से एक है, प्रभुशक्ति और उत्साहशक्ति के साथ; यह नाम कहता है कि भक्तों से द्वेष रखने वालों की यह शक्ति वे भंग कर देती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "यद्वा परैरभिचाराद्यर्थं प्रयुक्तो मनुः परमन्त्रः शत्रुप्रयुक्तोऽस्त्रमन्त्रो वा ।",
+    "translation": {
+      "en": "Or, paramantra is a mantra used by others for black magic and the like, or a weapon-mantra used by an enemy.",
+      "hi": "अथवा, ‘परमन्त्र’ वह मन्त्र है जिसे दूसरे अभिचार आदि के लिए प्रयोग करते हैं, या शत्रु द्वारा चलाया गया अस्त्र-मन्त्र।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 812 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The reading with the Pañcadaśī is given for meaning only; no mantra is given. Bhāskararāya’s verse lists twelve upāsakas (मनु, चन्द्र, कुबेर, लोपामुद्रा, मन्मथ, अगस्ति, अग्नि, सूर्य, नन्दी, स्कन्द, शिव, क्रोधभट्टारक); five are named here. Identifying Avimukta with Kāśī is standard but not stated by him here." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 806,
+  "verse": 153,
+  "slug": "param-jyoti",
+  "devanagari": "परञ्ज्योतिः",
+  "iastSplit": "Paraṃ jyotiḥ",
+  "archana": "ॐ परस्मै ज्योतिषे नमः",
+  "syllables": ["pa", "rañ", "jyo", "tiḥ"],
+  "words": [
+    {"sa": "पर", "meaning": {"en": "supreme, highest (here param, agreeing with jyotiḥ)", "hi": "परम, सर्वोच्च (यहाँ ‘परम्’, ज्योतिः का विशेषण)"}},
+    {"sa": "ज्योतिस्", "meaning": {"en": "light", "hi": "ज्योति, प्रकाश"}}
+  ],
+  "meaning": {
+    "en": "The Supreme Light",
+    "hi": "परम ज्योति"
+  },
+  "explanation": {
+    "en": "These are two words, paraṃ jyotiḥ, “the supreme light”. Mind and speech are also called lights, since they reveal things; but the light of the Self, which is Brahman, is above them all. She is that light.",
+    "hi": "ये दो शब्द हैं, ‘परं ज्योतिः’, अर्थात् परम ज्योति। मन और वाणी को भी ज्योति कहा जाता है, क्योंकि वे वस्तुओं को प्रकाशित करते हैं; पर आत्मा की ज्योति, जो ब्रह्म है, इन सबसे ऊपर है। वे वही ज्योति हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gathers the Upaniṣads: the gods worship it as “the light of lights”; “there the sun does not shine, nor moon and stars, nor these lightnings, much less this fire”; and the sun itself burns by its radiance. It is the light by which everything else is seen and which is never itself an object. He adds that in the Dakṣiṇāmūrti Saṃhitā a mantra of eight syllables is also called Paraṃjyoti.",
+    "hi": "भास्करराय उपनिषदों के वचन एकत्र करते हैं: देवता उसे ‘ज्योतियों की ज्योति’ मानकर उपासते हैं; ‘वहाँ न सूर्य चमकता है, न चन्द्र और तारे, न ये बिजलियाँ, फिर यह अग्नि कैसे’; और स्वयं सूर्य उसी के तेज से तपता है। यह वह ज्योति है जिससे सब कुछ देखा जाता है, पर जो स्वयं कभी दृश्य नहीं बनती। वे यह भी बताते हैं कि दक्षिणामूर्ति संहिता में एक अष्टाक्षर मन्त्र को भी ‘परंज्योति’ कहा गया है।"
+  },
+  "story": {
+    "en": "Names 806 and 807 are each two words, which is why their archana forms are parasmai jyotiṣe namaḥ and parasmai dhāmne namaḥ: both words take the dative. Bhāskararāya himself gives these forms, and mentions the view of some that param here is an indeclinable.",
+    "hi": "नाम 806 और 807 दोनों दो-दो शब्दों के हैं, इसीलिए उनकी अर्चना ‘परस्मै ज्योतिषे नमः’ और ‘परस्मै धाम्ने नमः’ है: दोनों शब्द चतुर्थी में आते हैं। स्वयं भास्करराय ये रूप देते हैं, और कुछ लोगों का यह मत भी बताते हैं कि यहाँ ‘परम्’ अव्यय है।"
+  },
+  "commentary": {
+    "sanskrit": "परमुत्कृष्टं ब्रह्मात्मकं ज्योतिः ।",
+    "translation": {
+      "en": "The param, highest, light, which is Brahman.",
+      "hi": "परम, अर्थात् सर्वोत्कृष्ट, ब्रह्मस्वरूप ज्योति।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 806 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Two-word name, kept as written in the verse (परञ्ज्योतिः); the Wikisource commentary prints परंज्योतिः. The archana परस्मै ज्योतिषे is confirmed by Bhāskararāya (परस्मैज्योतिषे नमः, परस्मैधाम्ने नम इति प्रयोगः). iastSplit is written as two words, ‘Paraṃ jyotiḥ’; the syllables follow the chanted form (rañ). The eight-syllable mantra is mentioned but not given. The second sentence of the inner layer is a reflection on the Upaniṣadic passages." }
+}

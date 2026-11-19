@@ -1,0 +1,42 @@
+{
+  "number": 828,
+  "verse": 155,
+  "slug": "ajna",
+  "devanagari": "आज्ञा",
+  "iastSplit": "Ājñā",
+  "archana": "ॐ आज्ञायै नमः",
+  "syllables": ["āj", "ñā"],
+  "words": [
+    {"sa": "आज्ञा", "meaning": {"en": "command; the will of the Lord", "hi": "आज्ञा, आदेश; भगवान की इच्छा"}}
+  ],
+  "meaning": {
+    "en": "The Divine Command, the will of the Lord",
+    "hi": "दिव्य आज्ञा, भगवान की इच्छा-स्वरूपा"
+  },
+  "explanation": {
+    "en": "Ājñā means command. Bhāskararāya says she is the will of the Lord, which in the Veda takes the form of injunction and prohibition: what to do and what not to do. Every true “do” and “do not” is her voice.",
+    "hi": "‘आज्ञा’ का अर्थ है आदेश। भास्करराय कहते हैं कि वे भगवान की इच्छा हैं, जो वेद में विधि और निषेध का रूप लेती है: क्या करना है और क्या नहीं। हर सच्चा ‘करो’ और ‘मत करो’ उन्हीं की वाणी है।"
+  },
+  "inner": {
+    "en": "He quotes the Liṅga Purāṇa, where Śiva says she is neither nature, nor the soul, nor any product: “Of old my command arose from my mouth, eternal, five-faced, granting fearlessness to the worlds.” The Śiva Purāṇa too calls the Devī Rudra’s command, through whom comes liberation. He allows another reading as well, jñā, “the knower”, the conscious spirit that experiences the qualities of nature.",
+    "hi": "वे लिंगपुराण उद्धृत करते हैं, जहाँ शिव कहते हैं कि वे न प्रकृति हैं, न जीव, न कोई विकार: ‘प्राचीन काल में मेरी आज्ञा मेरे मुख से उत्पन्न हुई, सनातन, पञ्चमुखी, जगतों को अभय देने वाली।’ शिवपुराण भी देवी को रुद्र की आज्ञा कहता है, जिनसे मुक्ति मिलती है। वे एक और पाठ भी स्वीकार करते हैं, ‘ज्ञा’, अर्थात् ज्ञाता, वह चेतन पुरुष जो प्रकृति के गुणों का भोक्ता है।"
+  },
+  "story": {
+    "en": "The verse writes pracaṇḍā’’jñā; the double avagraha shows that the next name begins with a long ā, ājñā. Bhāskararāya says the one-syllable reading jñā is also acceptable, and cites a lexicon in which jña means the wise one or Brahmā.",
+    "hi": "पाठ ‘प्रचण्डाऽऽज्ञा’ लिखता है; दोहरा अवग्रह बताता है कि अगला नाम दीर्घ ‘आ’ से आरम्भ होता है, ‘आज्ञा’। भास्करराय कहते हैं कि एकाक्षर पाठ ‘ज्ञा’ भी उचित है, और एक कोश उद्धृत करते हैं जिसमें ‘ज्ञ’ का अर्थ ज्ञानी या ब्रह्मा है।"
+  },
+  "commentary": {
+    "sanskrit": "आज्ञा । वेदे प्रवर्तनानिवर्तनापरपर्यायभगवदिच्छारूपा ।",
+    "translation": {
+      "en": "Ājñā: she is the will of the Lord, which in the Veda is also called injunction and prohibition.",
+      "hi": "आज्ञा: वे भगवान की इच्छा-स्वरूपा हैं, जिसे वेद में प्रवर्तना और निवर्तना, अर्थात् विधि और निषेध, भी कहते हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 828 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Wikisource commentary prints the verse as प्रचण्डाऽज्ञा (single avagraha); the master text has प्रचण्डाऽऽज्ञा. On प्रचण्डाज्ञा as a possible single name, see the note at 827. The last sentence of the explanation is a reflection." }
+}

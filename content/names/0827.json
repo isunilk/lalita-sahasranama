@@ -1,0 +1,43 @@
+{
+  "number": 827,
+  "verse": 155,
+  "slug": "prachanda",
+  "devanagari": "प्रचण्डा",
+  "iastSplit": "Pracaṇḍā",
+  "archana": "ॐ प्रचण्डायै नमः",
+  "syllables": ["pra", "caṇ", "ḍā"],
+  "words": [
+    {"sa": "प्र", "meaning": {"en": "exceedingly, pre-eminently", "hi": "अत्यन्त, प्रकृष्ट"}},
+    {"sa": "चण्ड", "meaning": {"en": "fierce, wrathful", "hi": "उग्र, कोपशील"}}
+  ],
+  "meaning": {
+    "en": "The exceedingly fierce one, of overwhelming might",
+    "hi": "अत्यन्त उग्र, प्रचण्ड प्रताप वाली"
+  },
+  "explanation": {
+    "en": "Caṇḍa means fierce, wrathful. Bhāskararāya explains Pracaṇḍā as she whose messengers are exceedingly fierce, or simply as she whose majesty is overwhelming. Her fierceness is the power that keeps the world in order.",
+    "hi": "‘चण्ड’ का अर्थ है उग्र, कोपशील। भास्करराय ‘प्रचण्डा’ की व्याख्या करते हैं: जिनके दूत अत्यन्त उग्र हैं, या सीधे, जिनका प्रताप प्रचण्ड है। उनकी उग्रता वह शक्ति है जो जगत् को व्यवस्था में रखती है।"
+  },
+  "inner": {
+    "en": "He quotes the Taittirīya Upaniṣad, “From fear of him the wind blows”: the powers of nature do their work in awe of her. In the Brahma Sūtras, he notes, this power to inspire awe is itself taken as a mark of Brahman. He adds Kāmandaka’s maxim that subjects do not fear a ruler with no anger at all, and such a ruler cannot uphold order.",
+    "hi": "वे तैत्तिरीय उपनिषद् उद्धृत करते हैं, ‘उसके भय से वायु बहता है’: प्रकृति की शक्तियाँ उनके भय से अपना काम करती हैं। वे बताते हैं कि ब्रह्मसूत्र में भय उत्पन्न करने की यही सामर्थ्य ब्रह्म का लक्षण मानी गई है। वे कामन्दक की नीति भी उद्धृत करते हैं कि जिस राजा में तनिक भी क्रोध न हो, उससे प्रजा नहीं डरती, और वह नीति की रक्षा नहीं कर सकता।"
+  },
+  "story": {
+    "en": "In the chanted verse this name is joined to the next: pracaṇḍā’’jñā. Bhāskararāya also mentions a plant called caṇḍā, the śaṅkhapuṣpī, and reads “she to whom the caṇḍā is especially dear”.",
+    "hi": "पाठ में यह नाम अगले नाम से जुड़ा है: ‘प्रचण्डाऽऽज्ञा’। भास्करराय ‘चण्डा’ नामक एक वनस्पति, शंखपुष्पी, का भी उल्लेख करते हैं, और अर्थ करते हैं: ‘जिन्हें चण्डा विशेष रूप से प्रिय है’।"
+  },
+  "commentary": {
+    "sanskrit": "प्रकृष्टाश्चण्डाः कोपना यस्या दूताः सा । चडि कोपे ।",
+    "translation": {
+      "en": "She whose messengers are pre-eminently caṇḍa, wrathful. (The root caḍi means “to be angry”.)",
+      "hi": "जिनके दूत प्रकृष्ट रूप से चण्ड, अर्थात् कोपशील, हैं, वे। (‘चडि’ धातु का अर्थ है कोप करना।)"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 827 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya explains प्रचण्डा and आज्ञा as two names here, as the master text does. Elsewhere in the commentary, in passages on how the thousand are counted, he refers to प्रचण्डाज्ञा as a possible single name; a scholar may wish to check those passages. The last sentence of the explanation is a reflection on the Kāmandaka quotation." }
+}

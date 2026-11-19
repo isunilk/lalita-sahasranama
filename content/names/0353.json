@@ -1,0 +1,44 @@
+{
+  "number": 353,
+  "verse": 78,
+  "slug": "bhaktimat-kalpa-latika",
+  "devanagari": "भक्तिमत्कल्पलतिका",
+  "iastSplit": "Bhaktimat-kalpa-latikā",
+  "archana": "ॐ भक्तिमत्कल्पलतिकायै नमः",
+  "syllables": ["bhak", "ti", "mat", "kal", "pa", "la", "ti", "kā"],
+  "words": [
+    { "sa": "भक्तिमत्", "meaning": { "en": "one who has devotion", "hi": "भक्तिमान्, भक्त" } },
+    { "sa": "कल्प", "meaning": { "en": "wish-granting (of the heavenly tree and creeper); also ‘almost’", "hi": "कामना पूरी करने वाला (कल्पवृक्ष, कल्पलता); ‘लगभग’ भी" } },
+    { "sa": "लतिका", "meaning": { "en": "little creeper", "hi": "छोटी लता" } }
+  ],
+  "meaning": {
+    "en": "The wish-fulfilling creeper for those who have devotion",
+    "hi": "भक्तों के लिए कल्पलता"
+  },
+  "explanation": {
+    "en": "The kalpalatā is the heavenly creeper that grants whatever is wished for. To those who have devotion she is that creeper, because she gives them what they long for. Latikā, the diminutive, adds tenderness to the image.",
+    "hi": "कल्पलता स्वर्ग की वह लता है जो हर मनोकामना पूरी करती है। भक्तिमान् जनों के लिए वे वही लता हैं, क्योंकि वे उन्हें मनचाहा फल देती हैं। ‘लतिका’, अर्थात् छोटी लता, इस चित्र में कोमलता जोड़ती है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives a second reading through grammar. The suffix -kalpa can mean ‘almost’, so bhaktimat-kalpa are those who are nearly devotees, whose devotion is only half complete. She is the creeper that makes them grow, filling out their devotion until it is whole.",
+    "hi": "भास्करराय व्याकरण के आधार पर दूसरा अर्थ देते हैं। ‘कल्प’ प्रत्यय का अर्थ ‘लगभग’ भी होता है, इसलिए ‘भक्तिमत्कल्प’ वे हैं जो लगभग भक्त हैं, जिनकी भक्ति अभी आधी है। वे वह लता हैं जो उन्हें बढ़ाती है और उनकी भक्ति को पूर्ण कर देती है।"
+  },
+  "story": {
+    "en": "He quotes the Śakti Rahasya: worship of Bhavānī done out of order or with half devotion serves to bring right order and full devotion in another life. He also reads latikā as musk, which with its fragrance delights even the half-devoted.",
+    "hi": "वे शक्तिरहस्य उद्धृत करते हैं: बिना क्रम के या आधी भक्ति से की गई भवानी की पूजा भी अगले जन्म में सही क्रम और पूर्ण भक्ति दिलाने का साधन बनती है। वे ‘लतिका’ का अर्थ कस्तूरी भी करते हैं, जो अपनी सुगन्ध से अधूरे भक्तों को भी आनन्दित करती है।"
+  },
+  "commentary": {
+    "sanskrit": "भक्तिमतां जनानां कल्पलतिकेव अभिमतार्थदातृत्वात् ।",
+    "translation": {
+      "en": "Like a kalpalatikā to people who have devotion, because she gives what they desire.",
+      "hi": "भक्तिमान् जनों के लिए कल्पलता के समान, क्योंकि वे मनचाही वस्तु देती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 353 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Śakti Rahasya verse is printed with a doubtful last word (कल्पने?) and the form अर्धभक्त्य; the story paraphrases its evident sense." }
+}

@@ -1,0 +1,44 @@
+{
+  "number": 356,
+  "verse": 78,
+  "slug": "sad-achara-pravartika",
+  "devanagari": "सदाचारप्रवर्तिका",
+  "iastSplit": "Sad-ācāra-pravartikā",
+  "archana": "ॐ सदाचारप्रवर्तिकायै नमः",
+  "syllables": ["sa", "dā", "cā", "rap", "ra", "var", "ti", "kā"],
+  "words": [
+    { "sa": "सत्", "meaning": { "en": "good; the good and cultured; the Real, Brahman", "hi": "उत्तम; सज्जन; सत्, ब्रह्म" } },
+    { "sa": "आचार", "meaning": { "en": "conduct", "hi": "आचार, आचरण" } },
+    { "sa": "प्रवर्तिका", "meaning": { "en": "she who establishes and sets in motion", "hi": "प्रवर्तन करने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who sets right conduct in motion",
+    "hi": "सदाचार का प्रवर्तन करने वाली"
+  },
+  "explanation": {
+    "en": "Sadācāra is good conduct, and pravartikā is she who establishes it and keeps it going. Bhāskararāya gives three senses of sat: excellent, the cultured and virtuous, or Brahman, the Real. She sets in motion the conduct of the good and the life that leads to the Real.",
+    "hi": "‘सदाचार’ का अर्थ है उत्तम आचरण, और ‘प्रवर्तिका’ वह जो उसे स्थापित करे और चलाए रखे। भास्करराय ‘सत्’ के तीन अर्थ बताते हैं: उत्तम, शिष्ट सज्जन, अथवा ब्रह्म, अर्थात् परम सत्य। वे सज्जनों के आचरण को, और सत्य की ओर ले जाने वाले जीवन को, गति देती हैं।"
+  },
+  "inner": {
+    "en": "He explains that through the Purāṇas and other texts she teaches, and leads people to practise, the means to two goals: dharma as taught in the ritual portion of the Veda, and the non-dual Brahman taught in its knowledge portion. She does this so that people come to delight in both. Right conduct, in this reading, is a path to the Real as well as a rule for living.",
+    "hi": "वे समझाते हैं कि पुराण आदि के द्वारा वे दो लक्ष्यों के साधन सिखाती हैं और उनका अनुष्ठान करवाती हैं: वेद के कर्मकाण्ड में बताया धर्म, और ज्ञानकाण्ड में बताया अद्वैत ब्रह्म। वे यह इस प्रकार करती हैं कि लोगों की दोनों में रुचि जगे। इस अर्थ में सदाचार केवल जीवन का नियम नहीं, सत्य तक पहुँचने का मार्ग भी है।"
+  },
+  "story": {
+    "en": "Bhāskararāya quotes the Kūrma Purāṇa, where the Goddess herself says that Vyāsa told the eighteen Purāṇas and his disciples the subsidiary ones, and that Manu, Vyāsa and others establish the dharma of Brahmā at her command until the dissolution of beings. The name follows the previous one: having ended false teaching, she sets true conduct going.",
+    "hi": "भास्करराय कूर्म पुराण उद्धृत करते हैं, जहाँ देवी स्वयं कहती हैं कि अठारह पुराण व्यास ने कहे और उपपुराण उनके शिष्यों ने, और मनु, व्यास आदि उनकी आज्ञा से प्रलय-पर्यन्त ब्रह्मा के धर्म की स्थापना करते हैं। यह नाम पिछले नाम के बाद आता है: पाखण्ड का अन्त कर वे सच्चे आचरण को गति देती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "सन्नुत्तमः सतां शिष्टानां वा सतो ब्रह्मणो वा आचारः सदाचारस्तस्य प्रवर्तिका ।",
+    "translation": {
+      "en": "Sat means excellent; sadācāra is excellent conduct, or the conduct of the sat, the cultured, or of Sat, Brahman; she is the one who sets it in motion.",
+      "hi": "‘सत्’ अर्थात् उत्तम; उत्तम आचरण, अथवा सत्, अर्थात् शिष्टों, का आचरण, अथवा सत्, अर्थात् ब्रह्म, सम्बन्धी आचरण सदाचार है; वे उसकी प्रवर्तिका हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 356 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude." }
+}

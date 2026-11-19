@@ -1,0 +1,43 @@
+{
+  "number": 335,
+  "verse": 75,
+  "slug": "veda-vedya",
+  "devanagari": "वेदवेद्या",
+  "iastSplit": "Veda-vedyā",
+  "archana": "ॐ वेदवेद्यायै नमः",
+  "syllables": ["ve", "da", "ved", "yā"],
+  "words": [
+    { "sa": "वेद", "meaning": { "en": "the Veda", "hi": "वेद" } },
+    { "sa": "वेद्या", "meaning": { "en": "to be known", "hi": "जानने योग्य" } }
+  ],
+  "meaning": {
+    "en": "She who is to be known through the Vedas",
+    "hi": "वेदों द्वारा जानी जाने वाली"
+  },
+  "explanation": {
+    "en": "She is known through the four Vedas, the Ṛg, Yajus, Sāman and Atharvan. Bhāskararāya recalls the words of the Gītā: by all the Vedas, I alone am to be known. What the Vedas finally teach is she herself.",
+    "hi": "वे चारों वेदों, ऋग्, यजुः, साम और अथर्व, से जानी जाती हैं। भास्करराय गीता के वचन का स्मरण कराते हैं: सब वेदों द्वारा मैं ही जानने योग्य हूँ। वेद अन्ततः जिसे बताते हैं, वह वे ही हैं।"
+  },
+  "inner": {
+    "en": "He gives a second reading from the Śrīvidyā picture of her palace. The Cintāmaṇi palace has four doors, which are the four Vedas, and without entering by a door no one sees the Goddess; so she is known through the Veda alone. He adds that she is known through the deities of the four Vedas, Śuddhavidyā, Saubhāgya, Lopāmudrā and Turīyāmbā, with their companions.",
+    "hi": "वे श्रीविद्या में वर्णित उनके महल के आधार पर दूसरा अर्थ देते हैं। चिन्तामणि-गृह के चार द्वार हैं, जो चारों वेद हैं, और द्वार से प्रवेश किए बिना कोई देवी के दर्शन नहीं कर सकता; इसलिए वे केवल वेद से जानी जाती हैं। वे यह भी कहते हैं कि वे चारों वेदों की देवताओं, शुद्धविद्या, सौभाग्य, लोपामुद्रा और तुरीयाम्बा आदि, द्वारा जानी जाती हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya quotes a Vedic verse that gives the four quarters to the four Vedas: the east to the Ṛk verses, the south to the Yajus, the west to the Atharvan and the north to the Sāman. So the four doors of her palace, one on each side, are the four Vedas.",
+    "hi": "भास्करराय एक श्रुति उद्धृत करते हैं जो चारों दिशाओं को चारों वेदों से जोड़ती है: पूर्व ऋचाओं की, दक्षिण यजुः की, पश्चिम अथर्व की और उत्तर साम की दिशा है। इसी प्रकार उनके महल के चारों ओर के चार द्वार चार वेद हैं।"
+  },
+  "commentary": {
+    "sanskrit": "यद्वा चिन्तामणिगृहस्य चत्वारि द्वाराणि चतुर्वेदरूपाणि । द्वारप्रवेशमन्तरेण देवतादर्शनाभावाद्वेदैकवेद्यत्वम् ।",
+    "translation": {
+      "en": "Or: the four doors of the Cintāmaṇi palace are the four Vedas. Since the Goddess cannot be seen without entering by a door, she is to be known by the Veda alone.",
+      "hi": "अथवा, चिन्तामणि-गृह के चार द्वार चार वेदों के रूप हैं। द्वार से प्रवेश किए बिना देवी के दर्शन नहीं होते, इसलिए वे केवल वेद से जानी जाती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 335 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya pairs the four groups of deities with the Vedas in the order Ṛg, Yajus, Atharva, Sāma; the inner layer lists them without the pairing." }
+}

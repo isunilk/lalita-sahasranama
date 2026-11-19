@@ -1,0 +1,42 @@
+{
+  "number": 821,
+  "verse": 155,
+  "slug": "brahmaani",
+  "devanagari": "ब्रह्माणी",
+  "iastSplit": "Brahmāṇī",
+  "archana": "ॐ ब्रह्माण्यै नमः",
+  "syllables": ["brah", "mā", "ṇī"],
+  "words": [
+    {"sa": "ब्रह्माणी", "meaning": {"en": "the Śakti or consort of Brahmā; she who gives Brahmā birth and life", "hi": "ब्रह्मा की शक्ति या पत्नी; ब्रह्मा को जन्म और जीवन देने वाली"}}
+  ],
+  "meaning": {
+    "en": "The Śakti of Brahmā, who gives him birth and life",
+    "hi": "ब्रह्मा की शक्ति, जो उन्हें जन्म और जीवन देती हैं"
+  },
+  "explanation": {
+    "en": "Brahmāṇī is the feminine of Brahmā, the creator, and names his power or consort. Bhāskararāya, following the Devī Purāṇa, explains it as “she who gives birth to Brahmā, or gives him life”. Without her the creator himself would not be.",
+    "hi": "‘ब्रह्माणी’ सृष्टिकर्ता ब्रह्मा का स्त्रीलिंग रूप है, और उनकी शक्ति या पत्नी का नाम है। भास्करराय देवीपुराण के अनुसार इसकी व्याख्या करते हैं: ‘जो ब्रह्मा को जन्म देती हैं, या उन्हें जीवन देती हैं।’ उनके बिना स्वयं सृष्टिकर्ता का भी अस्तित्व नहीं।"
+  },
+  "inner": {
+    "en": "His first reading is Upaniṣadic. He takes aṇī to mean “tail”, and has in view the Taittirīya Upaniṣad, where in the sheath of bliss “Brahman is the tail, the support”. So she is Brahman as the ground on which even the innermost sheath, bliss, rests.",
+    "hi": "उनकी पहली व्याख्या उपनिषद् पर आधारित है। वे ‘अणी’ का अर्थ ‘पुच्छ’ करते हैं, और उनके ध्यान में तैत्तिरीय उपनिषद् है, जहाँ आनन्दमय कोश में ‘ब्रह्म पुच्छं प्रतिष्ठा’ कहा गया है, अर्थात् ब्रह्म पुच्छ है, आधार है। इस प्रकार वे वह ब्रह्म हैं जिस पर सबसे भीतरी कोश, आनन्द, भी टिका है।"
+  },
+  "story": {
+    "en": "Brahmāṇī is also one of the Mother-goddesses, the Śakti of Brahmā. Bhāskararāya’s discussion at name 823 turns on this name: because the Devī Purāṇa explains Brahmāṇī through “giving birth to Brahmā”, he prefers to read the next words, brahma-jananī, as one name.",
+    "hi": "ब्रह्माणी मातृकाओं में से भी एक हैं, ब्रह्मा की शक्ति। नाम 823 पर भास्करराय का विचार इसी नाम पर टिका है: देवीपुराण ‘ब्रह्माणी’ की व्याख्या ‘ब्रह्मा को जन्म देने’ से करता है, इसीलिए वे अगले शब्दों ‘ब्रह्मजननी’ को एक नाम पढ़ना अधिक उचित मानते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "ब्रह्माणमानयति जीवयतीति वा । ब्रह्माणी ब्रह्मजननाद् ब्रह्मणो जीवनेन वेति देवीपुराणात् ।",
+    "translation": {
+      "en": "Or, she who ānayati, brings to life, Brahmā; as the Devī Purāṇa says, “Brahmāṇī, from giving birth to Brahmā, or from giving him life.”",
+      "hi": "अथवा, जो ब्रह्मा को ‘आनयति’, अर्थात् जीवन देती हैं; जैसा देवीपुराण कहता है, ‘ब्रह्मा को जन्म देने से, या उन्हें जीवन देने से, वे ब्रह्माणी हैं।’"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 821 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s first gloss is ब्रह्मरूपा अणी पुच्छम् … आनन्दमयकोशस्थपुच्छब्रह्मरूपेत्यर्थः; the Taittirīya phrase ब्रह्म पुच्छं प्रतिष्ठा is supplied here as the evident reference, he does not quote it. The Mātṛkā note in the story layer is general context. Slug is ‘brahmaani’ (long ā marked by a double a) because ‘brahmani’ is already used by name 674, ब्राह्मणी." }
+}

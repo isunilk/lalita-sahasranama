@@ -1,0 +1,43 @@
+{
+  "number": 359,
+  "verse": 79,
+  "slug": "tapasaradhya",
+  "devanagari": "तापसाराध्या",
+  "iastSplit": "Tāpasārādhyā",
+  "archana": "ॐ तापसाराध्यायै नमः",
+  "syllables": ["tā", "pa", "sā", "rādh", "yā"],
+  "words": [
+    { "sa": "तापस", "meaning": { "en": "ascetic", "hi": "तपस्वी" } },
+    { "sa": "आराध्या", "meaning": { "en": "to be worshipped", "hi": "आराधना के योग्य" } }
+  ],
+  "meaning": {
+    "en": "She who is worshipped by ascetics",
+    "hi": "तपस्वियों द्वारा आराधित"
+  },
+  "explanation": {
+    "en": "Tāpasa is an ascetic, one devoted to tapas, and ārādhyā means to be worshipped. Those who give their lives to austerity make her the object of their worship. Their discipline finds its goal in her.",
+    "hi": "‘तापस’ तपस्वी है, जो तप में लगा हो, और ‘आराध्या’ का अर्थ है आराधना के योग्य। जो अपना जीवन तप को अर्पित करते हैं, वे उन्हीं की आराधना करते हैं। उनकी साधना का लक्ष्य वे ही हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya also divides the name another way: tāpa-sāra-ādhyā. Tāpa stands for saṃsāra, which gives rise to suffering, and within it the one thing of real worth (sāra) is ādhyā, meditation on her from every side. In a world of burning, to meditate on her is what matters.",
+    "hi": "भास्करराय इस नाम को दूसरे ढंग से भी बाँटते हैं: ताप-सार-आध्या। ‘ताप’ यहाँ संसार है, जो दुःख उत्पन्न करता है; उसमें वास्तविक सार केवल ‘आध्या’ है, अर्थात् सब ओर से उनका ध्यान। जलते हुए संसार में उनका ध्यान ही सार है।"
+  },
+  "story": {
+    "en": "Read with name 357, this second reading continues the image of burning: she is moonlight to those scorched by suffering, and meditation on her is the essence within that burning world. All five names of the verse begin with t.",
+    "hi": "नाम 357 के साथ पढ़ने पर यह दूसरा अर्थ ताप के उसी चित्र को आगे बढ़ाता है: दुःख से झुलसे लोगों के लिए वे चाँदनी हैं, और उस जलते संसार में उनका ध्यान ही सार है। इस श्लोक के पाँचों नाम ‘त’ से आरम्भ होते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "तापसैस्तपस्विभिराराध्या । तापस्तज्जनकः संसारस्तत्र सारभूता आध्या आसमन्ताद् ध्यानं यस्या इति वा ।",
+    "translation": {
+      "en": "To be worshipped by tāpasas, ascetics. Or: tāpa is saṃsāra, which produces it; in it, the ādhyā, meditation on her from every side, is the essence.",
+      "hi": "तापसों, अर्थात् तपस्वियों, द्वारा आराधनीय। अथवा, ताप उसे उत्पन्न करने वाला संसार है; उसमें उनका ‘आध्या’, अर्थात् सब ओर से ध्यान, ही सार है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 359 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s second reading divides the name as ताप-सार-आध्या; the master text is a single name either way." }
+}

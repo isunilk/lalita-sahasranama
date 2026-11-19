@@ -1,0 +1,43 @@
+{
+  "number": 796,
+  "verse": 151,
+  "slug": "kama-rupini",
+  "devanagari": "कामरूपिणी",
+  "iastSplit": "Kāma-rūpiṇī",
+  "archana": "ॐ कामरूपिण्यै नमः",
+  "syllables": ["kā", "ma", "rū", "pi", "ṇī"],
+  "words": [
+    {"sa": "काम", "meaning": {"en": "desire; here Kāmeśvara, the supreme Śiva", "hi": "काम; यहाँ कामेश्वर, परशिव"}},
+    {"sa": "रूपिणी", "meaning": {"en": "having the form of", "hi": "रूप वाली, स्वरूपा"}}
+  ],
+  "meaning": {
+    "en": "Whose form is Kāmeśvara; who takes any form at will",
+    "hi": "कामेश्वर ही जिनका रूप है; जो इच्छानुसार रूप धरती हैं"
+  },
+  "explanation": {
+    "en": "Kāma here is not ordinary desire. Bhāskararāya takes it as the supreme Śiva himself, Kāmeśvara, the Lord who desired to become many, and she has his form. The name can also mean simply that she takes whatever form she wishes.",
+    "hi": "यहाँ ‘काम’ साधारण इच्छा नहीं है। भास्करराय इसे स्वयं परशिव, कामेश्वर, मानते हैं, वह प्रभु जिसने अनेक होने की इच्छा की; और देवी का रूप वही है। इस नाम का सरल अर्थ यह भी है कि वे जैसा चाहें वैसा रूप धारण करती हैं।"
+  },
+  "inner": {
+    "en": "The Upaniṣad says of the first Being, “He desired: may I be many, may I be born.” That first desire to create is Kāma, and the Lord who holds it is Kāmeśvara; she, his Śakti, has his very form. Bhāskararāya also quotes the Bṛhadāraṇyaka passage in which the deity of “the person made of desire” is said to be woman.",
+    "hi": "उपनिषद् आदि-पुरुष के विषय में कहता है, ‘उसने इच्छा की: मैं बहुत हो जाऊँ, उत्पन्न होऊँ।’ सृष्टि की वही पहली इच्छा ‘काम’ है, और उसे धारण करने वाले प्रभु कामेश्वर हैं; उनकी शक्ति के रूप में देवी का रूप भी वही है। भास्करराय बृहदारण्यक का वह प्रसंग भी उद्धृत करते हैं जिसमें ‘काममय पुरुष’ की देवता स्त्री बताई गई है।"
+  },
+  "story": {
+    "en": "In Śrīvidyā, Śiva and Lalitā as the divine couple are Kāmeśvara and Kāmeśvarī, and name 53 places her on Kāmeśvara’s lap. The simpler meaning, “taking forms at will”, fits the Lalitopākhyāna, where she takes many forms to fight Bhaṇḍāsura.",
+    "hi": "श्रीविद्या में दिव्य दम्पती के रूप में शिव और ललिता कामेश्वर और कामेश्वरी कहलाते हैं, और नाम 53 उन्हें कामेश्वर की गोद में विराजमान बताता है। ‘इच्छानुसार रूप धरने वाली’ का सरल अर्थ ललितोपाख्यान से मेल खाता है, जहाँ भण्डासुर से युद्ध के लिए वे अनेक रूप धारण करती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "कामः परशिव एव रूपमस्याः ।",
+    "translation": {
+      "en": "Kāma, the supreme Śiva himself, is her form.",
+      "hi": "काम, अर्थात् स्वयं परशिव, ही उनका रूप है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 796 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The link to the Lalitopākhyāna in the story layer is context, not Bhāskararāya’s reading of this name (he gives only कामं यथेच्छं वा रूपाण्यस्याः)." }
+}

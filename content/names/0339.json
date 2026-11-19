@@ -1,0 +1,43 @@
+{
+  "number": 339,
+  "verse": 75,
+  "slug": "vishnu-maya",
+  "devanagari": "विष्णुमाया",
+  "iastSplit": "Viṣṇu-māyā",
+  "archana": "ॐ विष्णुमायायै नमः",
+  "syllables": ["viṣ", "ṇu", "mā", "yā"],
+  "words": [
+    { "sa": "विष्णु", "meaning": { "en": "Viṣṇu, the all-pervading", "hi": "विष्णु, सर्वव्यापक" } },
+    { "sa": "माया", "meaning": { "en": "māyā, the power that veils and limits", "hi": "माया, ढकने और सीमित करने वाली शक्ति" } }
+  ],
+  "meaning": {
+    "en": "The māyā of Viṣṇu, the all-pervading",
+    "hi": "सर्वव्यापक विष्णु की माया"
+  },
+  "explanation": {
+    "en": "Viṣṇu means the one who pervades all. Bhāskararāya says that although he is not limited by space or time, his māyā veils him and makes him appear limited, and she is that māyā. He quotes the Gītā: this divine māyā of mine, made of the guṇas, is hard to cross.",
+    "hi": "‘विष्णु’ का अर्थ है जो सब में व्याप्त है। भास्करराय कहते हैं कि यद्यपि वे देश और काल से सीमित नहीं हैं, फिर भी उनकी माया उन्हें ढककर सीमित-सा दिखाती है, और वह माया वे ही हैं। वे गीता का वचन उद्धृत करते हैं: मेरी यह गुणमयी दैवी माया दुस्तर है।"
+  },
+  "inner": {
+    "en": "Māyā here is the power of veiling and limiting, by which the unbounded appears bounded. The Kālikā Purāṇa he cites calls Viṣṇumāyā the power that, through the three guṇas, divides things into the unmanifest and the manifest. The next name, Vilāsinī, names her other power, the one that projects the world.",
+    "hi": "यहाँ माया ढकने और सीमित करने की शक्ति है, जिससे असीम भी ससीम दिखता है। भास्करराय द्वारा उद्धृत कालिका पुराण कहता है कि जो शक्ति तीन गुणों के द्वारा जगत् को अव्यक्त और व्यक्त रूपों में बाँटती है, वही विष्णुमाया है। अगला नाम, विलासिनी, उनकी दूसरी शक्ति बताता है, जो जगत् को प्रकट करती है।"
+  },
+  "story": {
+    "en": "In the Devī Māhātmya she is Viṣṇu’s Yoganidrā, the sleep that holds him at the start of the Madhu and Kaiṭabha story. A famous hymn there salutes ‘the Goddess who in all beings is called Viṣṇumāyā’. Bhāskararāya does not cite these passages here; they are given as context.",
+    "hi": "देवी माहात्म्य में मधु-कैटभ की कथा के आरम्भ में वे विष्णु की योगनिद्रा हैं। वहीं का प्रसिद्ध स्तोत्र उन्हें ‘या देवी सर्वभूतेषु विष्णुमायेति शब्दिता’ कहकर प्रणाम करता है। ये प्रसंग भास्करराय यहाँ उद्धृत नहीं करते; इन्हें सन्दर्भ के लिए दिया गया है।"
+  },
+  "commentary": {
+    "sanskrit": "विष्णोर्व्यापनशीलस्य देशकालादिभिरनवच्छिन्नस्यापि माया आवरणकर्त्री । परिच्छेदिकेति यावत् ।",
+    "translation": {
+      "en": "The māyā of Viṣṇu, the all-pervading, who is unlimited by space, time and the rest: she veils him, that is, she makes him appear limited.",
+      "hi": "देश-काल आदि से असीमित, सर्वव्यापक विष्णु की माया, अर्थात् उन्हें ढकने वाली; तात्पर्य यह कि वे उन्हें सीमित-सा कर देती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 339 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Devī Māhātmya references in the story are context, not Bhāskararāya’s citations." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 799,
+  "verse": 152,
+  "slug": "rasa-jna",
+  "devanagari": "रसज्ञा",
+  "iastSplit": "Rasa-jñā",
+  "archana": "ॐ रसज्ञायै नमः",
+  "syllables": ["ra", "saj", "ñā"],
+  "words": [
+    {"sa": "रस", "meaning": {"en": "rasa: aesthetic flavour of feeling; taste", "hi": "रस: काव्य का भाव-आस्वाद; स्वाद"}},
+    {"sa": "ज्ञा", "meaning": {"en": "she who knows", "hi": "जानने वाली"}}
+  ],
+  "meaning": {
+    "en": "She who knows every rasa, every flavour of feeling",
+    "hi": "जो सभी रसों को जानती हैं"
+  },
+  "explanation": {
+    "en": "In Indian poetics a rasa is the flavour of feeling that a work awakens, such as love, heroism or compassion. Bhāskararāya says she knows them all, counting ten, beginning with śṛṅgāra, love. Rasa also means taste, and he takes her as the sense of taste itself.",
+    "hi": "भारतीय काव्यशास्त्र में ‘रस’ वह भाव-आस्वाद है जो कोई रचना जगाती है, जैसे शृंगार, वीर या करुण। भास्करराय कहते हैं कि वे इन सबको जानती हैं, और शृंगार से आरम्भ करके दस रस गिनाते हैं। ‘रस’ का अर्थ स्वाद भी है, और वे उन्हें स्वयं रसना-इन्द्रिय भी मानते हैं।"
+  },
+  "inner": {
+    "en": "After the names on art and poetry, this one makes her the true rasikā, the one who savours what art awakens. Bhāskararāya gives only these two senses and no hidden meaning. The next name carries rasa to its highest sense, the bliss of Brahman.",
+    "hi": "कला और काव्य के नामों के बाद यह नाम उन्हें सच्ची रसिका बनाता है, जो कला से जगे भावों का आस्वाद लेती हैं। भास्करराय केवल ये दो अर्थ देते हैं, कोई गूढ़ अर्थ नहीं। अगला नाम ‘रस’ को उसके सर्वोच्च अर्थ, ब्रह्मानन्द, तक ले जाता है।"
+  },
+  "story": {
+    "en": "Names 797 to 800 form a small group: the treasury of the kalās, the art of poetry, the knower of rasa and the treasure-house of rasa. The classical lists count eight or nine rasas; some authorities add more, and Bhāskararāya speaks of ten.",
+    "hi": "नाम 797 से 800 एक छोटा समूह बनाते हैं: कलाओं की निधि, काव्य की कला, रस को जानने वाली और रस की निधि। पारम्परिक सूचियाँ आठ या नौ रस गिनाती हैं; कुछ आचार्य और भी जोड़ते हैं, और भास्करराय दस रसों की बात करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "रसान् शृङ्गारादिभेदेन दशविधान् जानातीति रसज्ञा । रसनेन्द्रियस्वरूपा वा ।",
+    "translation": {
+      "en": "Rasajñā: she who knows the rasas, ten in kind, beginning with śṛṅgāra. Or, she is the sense of taste.",
+      "hi": "जो शृंगार आदि भेदों से दस प्रकार के रसों को जानती हैं, वे ‘रसज्ञा’। अथवा, वे रसना-इन्द्रिय-स्वरूपा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 799 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the two literal senses; the first sentence of the inner layer is a reflection." }
+}

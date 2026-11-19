@@ -1,0 +1,43 @@
+{
+  "number": 360,
+  "verse": 79,
+  "slug": "tanu-madhya",
+  "devanagari": "तनुमध्या",
+  "iastSplit": "Tanu-madhyā",
+  "archana": "ॐ तनुमध्यायै नमः",
+  "syllables": ["ta", "nu", "madh", "yā"],
+  "words": [
+    { "sa": "तनु", "meaning": { "en": "slender, thin", "hi": "पतला, कृश" } },
+    { "sa": "मध्य", "meaning": { "en": "waist, middle", "hi": "कटि, मध्य भाग" } }
+  ],
+  "meaning": {
+    "en": "She of the slender waist",
+    "hi": "पतली कमर वाली"
+  },
+  "explanation": {
+    "en": "Tanu means slender and madhya is the waist. A slender waist is a classical mark of beauty; name 35 said hers is so slender that it can only be inferred from the line of hair it supports.",
+    "hi": "‘तनु’ का अर्थ है पतला और ‘मध्य’ कमर। पतली कमर संस्कृत काव्य में सौन्दर्य का पारम्परिक चिह्न है; नाम 35 ने कहा था कि उनकी कमर इतनी पतली है कि केवल रोमावली के सहारे से उसका अनुमान होता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives a further sense. Tanumadhyā is also a metre in Piṅgala’s Chandaḥsūtra, with a ta-gaṇa and a ya-gaṇa in each quarter, and since the Goddess says in the Kūrma Purāṇa, ‘Among metres I am the Gāyatrī’, and this metre belongs to the Gāyatrī class, she is that metre. So even the measures of sacred verse are her forms.",
+    "hi": "भास्करराय एक और अर्थ देते हैं। तनुमध्या पिङ्गल के छन्दःसूत्र में एक छन्द भी है, जिसके प्रत्येक चरण में एक तगण और एक यगण होता है; और क्योंकि कूर्म पुराण में देवी कहती हैं ‘छन्दों में मैं गायत्री हूँ’, और यह छन्द गायत्री वर्ग का है, इसलिए वे उसी छन्द का रूप हैं। इस प्रकार पवित्र छन्दों के माप भी उनके रूप हैं।"
+  },
+  "story": {
+    "en": "He also notes that a goddess called Tanumadhyā is well known in the Kāñcī region. He quotes a verse praying that the Goddess Tanumadhyā, beloved of Bilveśvara, who dwells on the bank of the Nivā, may protect the devotee.",
+    "hi": "वे यह भी बताते हैं कि काञ्ची प्रदेश में तनुमध्या नाम की देवी प्रसिद्ध हैं। वे एक श्लोक उद्धृत करते हैं: निवा के तट पर निवास करने वाली, बिल्वेश्वर की प्रिया देवी तनुमध्या मेरी रक्षा करें।"
+  },
+  "commentary": {
+    "sanskrit": "तनुः कृशो मध्यो यस्याः सा । काञ्चीदेशे तनुमध्याख्या देवी प्रसिद्धा ।",
+    "translation": {
+      "en": "She whose madhya, waist, is tanu, slender. In the Kāñcī country a goddess called Tanumadhyā is well known.",
+      "hi": "जिनका मध्य भाग, अर्थात् कमर, तनु अर्थात् कृश है। काञ्ची प्रदेश में तनुमध्या नाम की देवी प्रसिद्ध हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 360 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Check the metrical description: Piṅgala’s sūtra ‘तनुमध्या त्यौ’ is read, as Bhāskararāya explains, as one ta-gaṇa and one ya-gaṇa per quarter. The Nivā is taken to be a river from निवायास्तीरे." }
+}

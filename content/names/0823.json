@@ -1,0 +1,42 @@
+{
+  "number": 823,
+  "verse": 155,
+  "slug": "janani",
+  "devanagari": "जननी",
+  "iastSplit": "Jananī",
+  "archana": "ॐ जनन्यै नमः",
+  "syllables": ["ja", "na", "nī"],
+  "words": [
+    {"sa": "जननी", "meaning": {"en": "mother, she who gives birth", "hi": "जननी, माता"}}
+  ],
+  "meaning": {
+    "en": "The Mother who gives birth to the whole universe",
+    "hi": "सम्पूर्ण जगत् को जन्म देने वाली माता"
+  },
+  "explanation": {
+    "en": "She is Jananī, the one who gives birth, because the whole manifest universe comes forth from her. The hymn that began with Śrīmātā, “Mother”, returns here to the same simple word.",
+    "hi": "वे ‘जननी’ हैं, जन्म देने वाली, क्योंकि सम्पूर्ण प्रकट जगत् उन्हीं से उत्पन्न होता है। जो स्तोत्र ‘श्रीमाता’ से आरम्भ हुआ था, वह यहाँ फिर उसी सरल शब्द पर लौटता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the plain sense here. Placed after the name Brahma, it says that the Absolute is not a distant principle but a mother: the source of the world is also the one who bore it.",
+    "hi": "भास्करराय यहाँ केवल सीधा अर्थ देते हैं। ‘ब्रह्म’ नाम के बाद आकर यह कहता है कि परम सत्य कोई दूर का तत्त्व नहीं, माँ है: जगत् का मूल ही उसकी जननी भी है।"
+  },
+  "story": {
+    "en": "Here Bhāskararāya discusses how the names are divided. In keeping with the run of names beginning with b and with the Devī Purāṇa’s explanation of Brahmāṇī, he thinks it better to read brahma-jananī, “mother of Brahmā”, as one name; the count is then kept by dividing sarvāntaryāmiṇī (name 819) into sarvā and antaryāmiṇī. This site follows the nāmāvali, which counts Brahma and Jananī separately.",
+    "hi": "यहाँ भास्करराय नामों के विभाजन पर विचार करते हैं। ‘ब’ से आरम्भ होने वाले नामों के क्रम और देवीपुराण द्वारा ‘ब्रह्माणी’ की व्याख्या को देखते हुए, वे ‘ब्रह्मजननी’, अर्थात् ब्रह्मा की जननी, को एक नाम पढ़ना अधिक उचित मानते हैं; तब गणना पूरी रखने के लिए ‘सर्वान्तर्यामिणी’ (नाम 819) को ‘सर्वा’ और ‘अन्तर्यामिणी’ में बाँटा जाता है। यह साइट नामावली का अनुसरण करती है, जो ‘ब्रह्म’ और ‘जननी’ को अलग गिनती है।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वप्रपञ्चस्योत्पादकत्वाज्जननी ।",
+    "translation": {
+      "en": "Jananī, because she brings forth the whole universe.",
+      "hi": "सम्पूर्ण प्रपञ्च को उत्पन्न करने के कारण वे ‘जननी’ हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 823 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya prefers ब्रह्मजननी as one name, with सर्वा and अन्तर्यामिणी then as two names at 819; the master text is followed. The edition prints वकारादिनामप्रायपाठ…, evidently for बकारादि (‘beginning with ba’). The second sentence of the inner layer is a reflection." }
+}

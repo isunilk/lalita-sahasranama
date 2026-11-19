@@ -1,0 +1,44 @@
+{
+  "number": 355,
+  "verse": 78,
+  "slug": "samhritashesha-pashanda",
+  "devanagari": "संहृताशेषपाषण्डा",
+  "iastSplit": "Saṃhṛtāśeṣa-pāṣaṇḍā",
+  "archana": "ॐ संहृताशेषपाषण्डायै नमः",
+  "syllables": ["saṃ", "hṛ", "tā", "śe", "ṣa", "pā", "ṣaṇ", "ḍā"],
+  "words": [
+    { "sa": "संहृत", "meaning": { "en": "destroyed, withdrawn", "hi": "संहार किया हुआ, नष्ट" } },
+    { "sa": "अशेष", "meaning": { "en": "all, without remainder", "hi": "समस्त, सम्पूर्ण" } },
+    { "sa": "पाषण्ड", "meaning": { "en": "false teaching; one who breaks from the Veda", "hi": "पाखण्ड, वेदविरोधी मत" } }
+  ],
+  "meaning": {
+    "en": "She who has destroyed every false teaching",
+    "hi": "जिन्होंने समस्त पाखण्ड का नाश कर दिया है"
+  },
+  "explanation": {
+    "en": "Saṃhṛta means destroyed, aśeṣa means all, and pāṣaṇḍa means false doctrine. Bhāskararāya quotes the Liṅga Purāṇa: those whose vows and practices lie outside the Veda, excluded from śruti and smṛti, are called pāṣaṇḍins. She has put an end to all such teaching.",
+    "hi": "‘संहृत’ का अर्थ है नष्ट किया हुआ, ‘अशेष’ का अर्थ सब, और ‘पाषण्ड’ का अर्थ मिथ्या मत। भास्करराय लिङ्ग पुराण उद्धृत करते हैं: जिनके व्रत और आचार वेद से बाहर हैं, जो श्रुति और स्मृति से बहिष्कृत हैं, वे पाखण्डी कहलाते हैं। उन्होंने ऐसे सभी मतों का अन्त कर दिया है।"
+  },
+  "inner": {
+    "en": "He gives an etymology: pā stands for the meaning of the Veda, and pākhaṇḍas are those who break it into pieces (khaṇḍa). What she destroys, then, is whatever cuts away the truth the Veda teaches. As a reflection, that includes the hypocrisy and self-deception within each seeker.",
+    "hi": "वे एक निरुक्ति देते हैं: ‘पा’ वेद के अर्थ का सूचक है, और पाखण्ड वे हैं जो उसे खण्ड-खण्ड करते हैं। इस प्रकार वे उस सबका नाश करती हैं जो वेद द्वारा बताए सत्य को काटता है। चिन्तन के रूप में, इसमें हर साधक के भीतर का दम्भ और आत्म-प्रवञ्चना भी आती है।"
+  },
+  "story": {
+    "en": "From the Brahmavaivarta Purāṇa he quotes the fourteen seats of learning, the four Vedas with their six limbs, Purāṇa, Nyāya, Mīmāṃsā and Dharmaśāstra, and the verse that calls everything else pākhaṇḍa, a fancy of the intellect. For this reason, he says, the next name follows: she sets right conduct in motion.",
+    "hi": "ब्रह्मवैवर्त पुराण से वे चौदह विद्यास्थान गिनाते हैं, छह अंगों सहित चार वेद, पुराण, न्याय, मीमांसा और धर्मशास्त्र, और वह श्लोक उद्धृत करते हैं जो इनके अतिरिक्त सबको बुद्धि-कल्पित पाखण्ड कहता है। वे कहते हैं कि इसीलिए अगला नाम आता है: वे सदाचार की प्रवर्तिका हैं।"
+  },
+  "commentary": {
+    "sanskrit": "पाशब्देन तु वेदार्थः पाखण्डास्तस्य खण्डका इति तु निरुक्तिः ।",
+    "translation": {
+      "en": "The etymology is this: by the syllable pā the meaning of the Veda is meant, and pākhaṇḍas are those who break it into pieces.",
+      "hi": "निरुक्ति यह है: ‘पा’ शब्द से वेद का अर्थ अभिप्रेत है, और पाखण्ड वे हैं जो उसे खण्डित करते हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 355 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s text spells the name संहृताशेषपाखण्डा (with ख); the master text has पाषण्डा, which is followed. The last sentence of the inner layer is a reflection." }
+}

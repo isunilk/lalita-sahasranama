@@ -1,0 +1,42 @@
+{
+  "number": 793,
+  "verse": 151,
+  "slug": "kapardini",
+  "devanagari": "कपर्दिनी",
+  "iastSplit": "Kapardinī",
+  "archana": "ॐ कपर्दिन्यै नमः",
+  "syllables": ["ka", "par", "di", "nī"],
+  "words": [
+    {"sa": "कपर्दिनी", "meaning": {"en": "she of the kaparda, matted locks (kaparda also means a cowrie shell); wife of Kapardin, Śiva", "hi": "कपर्द, अर्थात् जटाजूट वाली (कपर्द का अर्थ कौड़ी भी); कपर्दी शिव की पत्नी"}}
+  ],
+  "meaning": {
+    "en": "She of the matted locks, consort of Kapardin, Śiva",
+    "hi": "जटाजूटधारिणी, कपर्दी शिव की पत्नी"
+  },
+  "explanation": {
+    "en": "Kaparda is the coiled mass of matted hair that Śiva wears, and Kapardin, “the one with matted locks”, is one of his names. As Kapardinī she shares his appearance, or is simply his wife. The word kaparda also means a cowrie shell.",
+    "hi": "‘कपर्द’ शिव का जटाजूट है, और ‘कपर्दी’, अर्थात् जटाधारी, उनका एक नाम है। कपर्दिनी के रूप में वे शिव जैसा ही रूप धारण करती हैं, या सीधे उनकी पत्नी हैं। ‘कपर्द’ का एक अर्थ कौड़ी भी है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya derives kaparda playfully: ka is the water of the Gaṅgā, and kaparda is that which purifies even its flow, so these are locks that purify the Gaṅgā herself. He also recalls Mahālasā, consort of Śiva in his Mairāla form, who is adorned with cowries, and the Laghustava, which pictures the Devī in her fierce aspect with matted locks crowned by the crescent moon. Sharing Śiva’s marks is a way of saying that she and Śiva are one.",
+    "hi": "भास्करराय ‘कपर्द’ की व्युत्पत्ति रोचक ढंग से करते हैं: ‘क’ अर्थात् गंगाजल, और जो उसके प्रवाह को भी शुद्ध करे वह ‘कपर्द’; अर्थात् वे जटाएँ जो स्वयं गंगा को पवित्र करती हैं। वे मैराल रूपधारी शिव की पत्नी महालसा का भी स्मरण करते हैं, जो कौड़ियों से अलंकृत हैं, और लघुस्तव का भी, जो देवी के उग्र रूप को चन्द्रकला से सजे जटाजूट वाला बताता है। शिव के चिह्नों को धारण करना यह कहने का एक ढंग है कि वे और शिव एक हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya notes that the Devī Purāṇa, counting sixty-eight holy places of Śiva, names him Kapardin at Chagalāṇḍa; Kapardinī is that Śiva’s consort. He cites the Viśva lexicon for both senses of kaparda: Śiva’s matted locks and a cowrie.",
+    "hi": "भास्करराय बताते हैं कि देवीपुराण शिव के अड़सठ क्षेत्रों की गणना में छगलाण्ड में उन्हें ‘कपर्दी’ नाम से स्मरण करता है; कपर्दिनी उन्हीं शिव की पत्नी हैं। ‘कपर्द’ के दोनों अर्थों के लिए वे विश्व कोश उद्धृत करते हैं: शिव का जटाजूट और कौड़ी।"
+  },
+  "commentary": {
+    "sanskrit": "कपर्दिनामकस्य शिवस्य पत्नी वा ।",
+    "translation": {
+      "en": "Or, the wife of the Śiva named Kapardin.",
+      "hi": "अथवा, ‘कपर्दी’ नाम वाले शिव की पत्नी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 793 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s derivation of kaparda (क = Gaṅgā water, पर = flow, द = purifying, from दैप् शोधने) is summarised, not translated in full. The last sentence of the inner layer is a reflection." }
+}

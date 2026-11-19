@@ -1,0 +1,43 @@
+{
+  "number": 830,
+  "verse": 155,
+  "slug": "prakatakriti",
+  "devanagari": "प्रकटाकृतिः",
+  "iastSplit": "Prakaṭākṛtiḥ",
+  "archana": "ॐ प्रकटाकृतये नमः",
+  "syllables": ["pra", "ka", "ṭā", "kṛ", "tiḥ"],
+  "words": [
+    {"sa": "प्रकट", "meaning": {"en": "manifest, evident", "hi": "प्रकट, स्पष्ट"}},
+    {"sa": "आकृति", "meaning": {"en": "form", "hi": "आकृति, रूप"}}
+  ],
+  "meaning": {
+    "en": "Whose form is manifest, experienced by all",
+    "hi": "जिनका रूप प्रकट है, सबके अनुभव में है"
+  },
+  "explanation": {
+    "en": "Her form is prakaṭa, openly manifest: everyone experiences it. Every being knows her as the simple sense of “I am”, even without recognising her.",
+    "hi": "उनका रूप ‘प्रकट’ है, खुला और स्पष्ट: हर कोई उसका अनुभव करता है। हर प्राणी उन्हें ‘मैं हूँ’ के सरल बोध के रूप में जानता है, भले ही उन्हें पहचानता न हो।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes the Sūta Saṃhitā, where Śiva says: all creatures know me in the guise of the notion “I”, yet through māyā they do not know me as Śiva. She is the most evident thing there is, and the most overlooked. He also allows the division a-prakaṭā, “unmanifest”, meaning that she is secret, and a reading “manifest in the waters”.",
+    "hi": "भास्करराय सूतसंहिता उद्धृत करते हैं, जहाँ शिव कहते हैं: सब प्राणी ‘मैं’ के बोध के बहाने मुझे जानते हैं, फिर भी माया के कारण मुझे शिव के रूप में नहीं पहचानते। वे सबसे प्रत्यक्ष हैं, और सबसे अधिक अनदेखी भी। वे ‘अप्रकटा’ विभाजन भी स्वीकार करते हैं, अर्थात् रहस्य-रूपा, और ‘जलों में प्रकट’ अर्थ भी।"
+  },
+  "story": {
+    "en": "In the Śrīcakra the yoginīs of the first, outermost enclosure are called prakaṭa, “manifest”, and Bhāskararāya says she is in their form too. The next verse begins with Prāṇeśvarī, ruler of the life-breaths.",
+    "hi": "श्रीचक्र के पहले, सबसे बाहरी आवरण की योगिनियाँ ‘प्रकट योगिनी’ कहलाती हैं, और भास्करराय कहते हैं कि वे उनके रूप में भी हैं। अगला श्लोक ‘प्राणेश्वरी’, अर्थात् प्राणों की स्वामिनी, से आरम्भ होता है।"
+  },
+  "commentary": {
+    "sanskrit": "प्रकटा सर्वैरनुभूयमाना आकृतिः रूपं यस्याः ।",
+    "translation": {
+      "en": "She whose ākṛti, form, is prakaṭa, experienced by all.",
+      "hi": "जिनकी आकृति, अर्थात् रूप, प्रकट है, अर्थात् सबके द्वारा अनुभव की जाती है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 830 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya also allows the division (प्रतिष्ठा)ऽप्रकटाकृतिः, ‘of secret form’, and अप्सु प्रकटा; the master text is followed. Bhāskararāya says only प्रथमावरणगताः for the Prakaṭa yoginīs; ‘outermost’ is added as standard Śrīcakra context. The sentence ‘the most evident … the most overlooked’ is a reflection." }
+}

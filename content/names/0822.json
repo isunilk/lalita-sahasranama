@@ -1,0 +1,42 @@
+{
+  "number": 822,
+  "verse": 155,
+  "slug": "brahma",
+  "devanagari": "ब्रह्म",
+  "iastSplit": "Brahma",
+  "archana": "ॐ ब्रह्मणे नमः",
+  "syllables": ["brah", "ma"],
+  "words": [
+    {"sa": "ब्रह्मन्", "meaning": {"en": "Brahman, the Absolute", "hi": "ब्रह्म, परम सत्य"}}
+  ],
+  "meaning": {
+    "en": "Brahman, the Absolute itself",
+    "hi": "स्वयं ब्रह्म, परम सत्य"
+  },
+  "explanation": {
+    "en": "This name is simply Brahman, the Absolute, in the neuter: not the god Brahmā but the reality behind all things. She is not a path to Brahman; she is Brahman.",
+    "hi": "यह नाम केवल ‘ब्रह्म’ है, नपुंसकलिंग में: सृष्टिकर्ता ब्रह्मा नहीं, बल्कि सब वस्तुओं के पीछे की परम सत्ता। वे ब्रह्म तक पहुँचने का मार्ग भर नहीं, स्वयं ब्रह्म हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya describes Brahman as the knowledge that the liberated attain, and quotes the Viṣṇu Purāṇa: that knowledge in which all difference has set, which is pure being, beyond the reach of words and known only within oneself, is what is called Brahman. To give her this name is to say that the goal of all knowing is the Mother herself.",
+    "hi": "भास्करराय ब्रह्म को वह ज्ञान बताते हैं जिसे मुक्त पुरुष प्राप्त करते हैं, और विष्णुपुराण उद्धृत करते हैं: वह ज्ञान जिसमें सारा भेद अस्त हो गया है, जो केवल सत्ता है, वाणी की पहुँच से परे है और केवल अपने भीतर अनुभव होता है, वही ‘ब्रह्म’ कहलाता है। उन्हें यह नाम देना यह कहना है कि सारे ज्ञान का लक्ष्य स्वयं माँ हैं।"
+  },
+  "story": {
+    "en": "Following the nāmāvali, this site counts Brahma and Jananī as two names. Bhāskararāya explains them separately too, but then argues that brahma-jananī, “mother of Brahmā”, is better read as one name; see name 823.",
+    "hi": "नामावली के अनुसार यहाँ ‘ब्रह्म’ और ‘जननी’ दो नाम गिने जाते हैं। भास्करराय भी पहले इन्हें अलग-अलग समझाते हैं, पर फिर तर्क देते हैं कि ‘ब्रह्मजननी’, अर्थात् ब्रह्मा की जननी, को एक नाम पढ़ना अधिक उचित है; देखें नाम 823।"
+  },
+  "commentary": {
+    "sanskrit": "प्रत्यस्तमितभेदं यत्सत्तामात्रमगोचरम् । वचसामात्मसंवेद्यं तज्ज्ञानं ब्रह्मसंज्ञितम् ।।",
+    "translation": {
+      "en": "He quotes the Viṣṇu Purāṇa: “That in which all difference has set, pure being, beyond the reach of words, known by the self alone: that knowledge is called Brahman.”",
+      "hi": "वे विष्णुपुराण उद्धृत करते हैं: ‘जिसमें सारा भेद अस्त हो गया है, जो केवल सत्ता है, वाणी के लिए अगोचर है और आत्मा से ही जाना जाता है, वह ज्ञान ब्रह्म कहलाता है।’"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 822 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The quoted passage is a Viṣṇu Purāṇa verse cited by Bhāskararāya. His own gloss reads ब्रह्म यन्मुक्तप्राप्यं तत् स्वात्मभिन्नं ज्ञानम्, where स्वात्मभिन्नं looks like a misprint for स्वात्माभिन्नं (‘not different from one’s own self’); it is not quoted, and the inner layer does not depend on it. Bhāskararāya prefers ब्रह्मजननी as one name (see 823); the master text and nāmāvali count ब्रह्म and जननी separately, and that is followed. The last sentence of the inner layer is a reflection." }
+}

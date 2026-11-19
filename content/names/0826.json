@@ -1,0 +1,42 @@
+{
+  "number": 826,
+  "verse": 155,
+  "slug": "prasavitri",
+  "devanagari": "प्रसवित्री",
+  "iastSplit": "Prasavitrī",
+  "archana": "ॐ प्रसवित्र्यै नमः",
+  "syllables": ["pra", "sa", "vit", "rī"],
+  "words": [
+    {"sa": "प्रसवित्री", "meaning": {"en": "she who brings forth, the begetter", "hi": "जन्म देने वाली, उत्पन्न करने वाली"}}
+  ],
+  "meaning": {
+    "en": "She who brings forth the universe and all beings",
+    "hi": "जगत् और सब प्राणियों को जन्म देने वाली"
+  },
+  "explanation": {
+    "en": "Prasavitrī is the one who brings forth abundantly. From her come space and the other elements, the whole universe, and all creatures. Everything from Brahmā down to the plants and stones came from her.",
+    "hi": "‘प्रसवित्री’ वह है जो प्रचुरता से जन्म देती है। उन्हीं से आकाश आदि तत्त्व, सम्पूर्ण जगत्, और सब प्राणी उत्पन्न होते हैं। ब्रह्मा से लेकर वृक्षों और पत्थरों तक, सब उन्हीं से निकले हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya connects the word with Savitṛ, the sun as the life-giver, quoting the Viṣṇudharmottara: he is called Savitṛ because he brings forth creatures. The same power is hers. He also quotes the Bhagavatī Purāṇa, which bows to her as the supreme begetter of all things, from whom the whole world arose, from mahat down to the particular elements.",
+    "hi": "भास्करराय इस शब्द को जीवनदाता सूर्य, सविता, से जोड़ते हैं, और विष्णुधर्मोत्तर उद्धृत करते हैं: प्रजाओं को उत्पन्न करने से वे ‘सविता’ कहलाते हैं। वही शक्ति देवी की है। वे भगवतीपुराण भी उद्धृत करते हैं, जो उन्हें समस्त पदार्थों की परम प्रसवित्री कहकर नमन करता है, जिनसे महत् से लेकर विशेष तत्त्वों तक सारा जगत् उत्पन्न हुआ।"
+  },
+  "story": {
+    "en": "This name takes up again the theme of name 823, Jananī: she is the mother of the universe. In the line from the Bhagavatī Purāṇa, everything from Brahmā down to the unmoving things is said to have arisen from her.",
+    "hi": "यह नाम नाम 823 ‘जननी’ के विषय को फिर उठाता है: वे जगत् की माता हैं। भगवतीपुराण के जिस वचन को भास्करराय उद्धृत करते हैं, उसमें कहा गया है कि ब्रह्मा से लेकर स्थावर तक सब उन्हीं से उत्पन्न हुए।"
+  },
+  "commentary": {
+    "sanskrit": "प्रकर्षेण वियदादिप्रपञ्चं प्रजा वा सूत इति प्रसवित्री ।",
+    "translation": {
+      "en": "Prasavitrī: she who brings forth, in abundance, the universe beginning with space, or all creatures.",
+      "hi": "जो आकाश आदि प्रपञ्च को, या प्रजाओं को, प्रकर्ष से उत्पन्न करती हैं, वे ‘प्रसवित्री’ हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 826 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition prints the verse split after प्रसवित्री, with a short note on the counting of names (ending ।। २९ ।।) in between. The sentence ‘The same power is hers’ in the inner layer is a reflection." }
+}

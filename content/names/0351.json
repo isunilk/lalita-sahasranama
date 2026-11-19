@@ -1,0 +1,43 @@
+{
+  "number": 351,
+  "verse": 77,
+  "slug": "vama-keshi",
+  "devanagari": "वामकेशी",
+  "iastSplit": "Vāma-keśī",
+  "archana": "ॐ वामकेश्यै नमः",
+  "syllables": ["vā", "ma", "ke", "śī"],
+  "words": [
+    { "sa": "वाम", "meaning": { "en": "lovely, beautiful", "hi": "सुन्दर" } },
+    { "sa": "केश", "meaning": { "en": "hair", "hi": "केश, बाल" } }
+  ],
+  "meaning": {
+    "en": "She of lovely hair",
+    "hi": "सुन्दर केशों वाली"
+  },
+  "explanation": {
+    "en": "Vāma means lovely and keśa is hair: she whose hair is beautiful. Bhāskararāya gives this as the first sense. It joins the many names that praise her form, from her hair to her feet.",
+    "hi": "‘वाम’ का अर्थ है सुन्दर और ‘केश’ का अर्थ बाल: जिनके केश सुन्दर हैं। भास्करराय इसे पहला अर्थ बताते हैं। यह नाम उन अनेक नामों से जुड़ता है जो केशों से लेकर चरणों तक उनके रूप की स्तुति करते हैं।"
+  },
+  "inner": {
+    "en": "He gives two further readings. Vāmakeśa, lord of the vāmas, is Śiva, who is worshipped as Vāmeśvara at one of his sixty-eight sacred sites, and she is his consort. Or Vāmakeśa is the Tantra taught by Vāmakeśa, usually known as the Vāmakeśvara Tantra, and she is the one it teaches.",
+    "hi": "वे दो और अर्थ देते हैं। ‘वामकेश’, अर्थात् वामों के ईश, शिव हैं, जो अपने अड़सठ तीर्थों में से एक में वामेश्वर के रूप में पूजित हैं, और वे उनकी पत्नी हैं। अथवा ‘वामकेश’ वह तन्त्र है जिसे वामकेश ने कहा, जो प्रायः वामकेश्वर तन्त्र के नाम से जाना जाता है, और वे उसकी प्रतिपाद्य देवता हैं।"
+  },
+  "story": {
+    "en": "The Vāmakeśvara Tantra, which contains the Nityāṣoḍaśikārṇava, is one of the principal scriptures of Śrīvidyā, and Bhāskararāya himself wrote a commentary on part of it, the Setubandha. The name thus links her beauty with the tradition in which she is worshipped.",
+    "hi": "वामकेश्वर तन्त्र, जिसमें नित्याषोडशिकार्णव सम्मिलित है, श्रीविद्या के प्रमुख ग्रन्थों में से एक है, और भास्करराय ने स्वयं उसके एक भाग पर ‘सेतुबन्ध’ नामक टीका लिखी। इस प्रकार यह नाम उनके सौन्दर्य को उस परम्परा से जोड़ता है जिसमें उनकी उपासना होती है।"
+  },
+  "commentary": {
+    "sanskrit": "वामाः सुन्दराः केशा यस्याः सा ।",
+    "translation": {
+      "en": "She whose keśas, tresses, are vāma, beautiful.",
+      "hi": "जिनके केश वाम, अर्थात् सुन्दर, हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 351 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Identifying Bhāskararāya’s ‘वामकेश’ tantra with the Vāmakeśvara Tantra, and the note on his Setubandha, are added context; please confirm." }
+}

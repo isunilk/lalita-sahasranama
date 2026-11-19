@@ -1,0 +1,43 @@
+{
+  "number": 800,
+  "verse": 152,
+  "slug": "rasa-shevadhi",
+  "devanagari": "रसशेवधिः",
+  "iastSplit": "Rasa-śevadhiḥ",
+  "archana": "ॐ रसशेवधये नमः",
+  "syllables": ["ra", "sa", "śe", "va", "dhiḥ"],
+  "words": [
+    {"sa": "रस", "meaning": {"en": "essence, nectar; the bliss of Brahman", "hi": "रस, सार; ब्रह्मानन्द"}},
+    {"sa": "शेवधि", "meaning": {"en": "treasure, treasure-house", "hi": "निधि, खजाना"}}
+  ],
+  "meaning": {
+    "en": "The treasure-house of rasa, the nectar of Brahman",
+    "hi": "रस, अर्थात् ब्रह्मामृत, की निधि"
+  },
+  "explanation": {
+    "en": "Here rasa is no longer the flavour of a poem but the essence of everything, the nectar of Brahman. She is the treasure-house in which it is stored. Whoever tastes even a little of it is filled with joy.",
+    "hi": "यहाँ ‘रस’ किसी कविता का आस्वाद नहीं, बल्कि सबका सार, ब्रह्म का अमृत है। वे वह निधि हैं जिसमें यह रस सञ्चित है। जो इसका थोड़ा-सा भी आस्वाद पाता है, वह आनन्द से भर जाता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes the Taittirīya Upaniṣad: “He is rasa itself; having gained rasa, one becomes blissful.” He adds verses from the Brahmāṇḍa Purāṇa in which rasa is the supreme Brahman, the highest goal, and the life-breath itself. The Mother holds the bliss that every seeker is looking for, even when it is sought in passing things.",
+    "hi": "भास्करराय तैत्तिरीय उपनिषद् उद्धृत करते हैं: ‘वह रस ही है; रस को पाकर ही यह आनन्दित होता है।’ वे ब्रह्माण्डपुराण के श्लोक भी जोड़ते हैं, जिनमें रस को परब्रह्म, परम गति और स्वयं प्राण कहा गया है। माँ उसी आनन्द की निधि हैं जिसे हर साधक खोज रहा है, चाहे वह उसे क्षणिक वस्तुओं में ढूँढे।"
+  },
+  "story": {
+    "en": "As with name 48, Bhāskararāya insists that the archana is rasaśevadhaye namaḥ, since śevadhi is masculine. With this name he closes the eighth hundred of his commentary, which he calls its ninth kalā, named Viśvā.",
+    "hi": "नाम 48 की तरह, भास्करराय यहाँ भी कहते हैं कि अर्चना ‘रसशेवधये नमः’ ही है, क्योंकि ‘शेवधि’ पुल्लिंग है। इसी नाम पर वे अपने भाष्य का आठवाँ शतक पूरा करते हैं, जिसे वे उसकी नौवीं कला, ‘विश्वा’, कहते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "रसस्य ब्रह्मामृतस्य शेवधिर्निधिः । रसो वै सः । रसं ह्येवायं लब्ध्वानन्दी भवतीति श्रुतेः ।",
+    "translation": {
+      "en": "The śevadhi, the treasure, of rasa, the nectar of Brahman; for the Śruti says, “He is rasa; having gained rasa, one becomes blissful.”",
+      "hi": "रस, अर्थात् ब्रह्मामृत, की शेवधि अर्थात् निधि; क्योंकि श्रुति कहती है, ‘वह रस ही है; रस को पाकर ही यह आनन्दी होता है।’"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 800 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The archana रसशेवधये is confirmed by Bhāskararāya, who rejects शेवध्यै. The last sentence of the inner layer is a reflection." }
+}

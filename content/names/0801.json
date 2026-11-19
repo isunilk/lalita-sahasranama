@@ -1,0 +1,42 @@
+{
+  "number": 801,
+  "verse": 152,
+  "slug": "pushta",
+  "devanagari": "पुष्टा",
+  "iastSplit": "Puṣṭā",
+  "archana": "ॐ पुष्टायै नमः",
+  "syllables": ["puṣ", "ṭā"],
+  "words": [
+    {"sa": "पुष्टा", "meaning": {"en": "nourished, full, flourishing", "hi": "पुष्ट, परिपूर्ण, समृद्ध"}}
+  ],
+  "meaning": {
+    "en": "She who is full and richly nourished",
+    "hi": "परिपूर्ण और पुष्ट"
+  },
+  "explanation": {
+    "en": "Puṣṭā means well nourished, full, flourishing. She lacks nothing: her body is made of all thirty-six principles of reality, and she is fed by countless good qualities and by the nectar of Brahman.",
+    "hi": "‘पुष्टा’ का अर्थ है भली-भाँति पोषित, परिपूर्ण, समृद्ध। उनमें कोई कमी नहीं: उनका शरीर सत्ता के सभी छत्तीस तत्त्वों से बना है, और वे अनगिनत गुणों तथा ब्रह्मरस से पुष्ट हैं।"
+  },
+  "inner": {
+    "en": "The thirty-six tattvas of the Śaiva and Śākta traditions run from Śiva at the summit down to earth, so a body made of them is the whole of existence. Bhāskararāya adds that she is nourished by brāhmaṇas, citing the saying “Brahman is nourished by brāhmaṇas” and a Vedic line to the same effect.",
+    "hi": "शैव और शाक्त परम्पराओं के छत्तीस तत्त्व शिव से लेकर पृथ्वी तक फैले हैं, इसलिए जिसका शरीर उनसे बना है, वह सम्पूर्ण सत्ता ही है। भास्करराय यह भी कहते हैं कि वे ब्राह्मणों से पुष्ट होती हैं, और इसके लिए ‘ब्राह्मणैः पोषितं ब्रह्म’ वचन तथा इसी आशय का एक वैदिक वाक्य उद्धृत करते हैं।"
+  },
+  "story": {
+    "en": "With this name Bhāskararāya begins the ninth hundred of his commentary, which he calls its tenth kalā, Bodhinī, “the awakener”. Names 801 to 812 all begin with the letter pa; Bhāskararāya uses such runs of initial letters when deciding how to divide names (see name 823).",
+    "hi": "इसी नाम से भास्करराय अपने भाष्य का नौवाँ शतक आरम्भ करते हैं, जिसे वे उसकी दसवीं कला, ‘बोधिनी’ (जगाने वाली), कहते हैं। नाम 801 से 812 सभी ‘प’ अक्षर से आरम्भ होते हैं; नामों का विभाजन तय करते समय भास्करराय ऐसे अक्षर-क्रमों का सहारा लेते हैं (देखें नाम 823)।"
+  },
+  "commentary": {
+    "sanskrit": "षट्त्रिंशत्तत्त्वविग्रहशीलत्वात्पुष्टा । बहुभिर्गुणैर्ब्रह्मरसेन ब्राह्मणैर्वा पुष्टा ।",
+    "translation": {
+      "en": "Puṣṭā, full, because her body is made of the thirty-six tattvas. Or, nourished by many qualities, by the rasa of Brahman, or by brāhmaṇas.",
+      "hi": "छत्तीस तत्त्व ही उनका शरीर हैं, इसलिए वे ‘पुष्टा’ हैं। अथवा, वे अनेक गुणों से, ब्रह्मरस से, या ब्राह्मणों से पुष्ट हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 801 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition heads this section नवमशतकं नाम दशमी बोधिनी कला. The sentence on the range of the thirty-six tattvas is general Śaiva–Śākta context." }
+}

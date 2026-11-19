@@ -1,0 +1,42 @@
+{
+  "number": 803,
+  "verse": 152,
+  "slug": "pujya",
+  "devanagari": "पूज्या",
+  "iastSplit": "Pūjyā",
+  "archana": "ॐ पूज्यायै नमः",
+  "syllables": ["pūj", "yā"],
+  "words": [
+    {"sa": "पूज्या", "meaning": {"en": "worthy of worship", "hi": "पूजनीया, पूजा के योग्य"}}
+  ],
+  "meaning": {
+    "en": "Worthy of worship by all",
+    "hi": "सबके द्वारा पूजनीया"
+  },
+  "explanation": {
+    "en": "Because she is the ancient source of all, she is fit to be worshipped by all. Bhāskararāya ties this name to the one before: “for that very reason” she is pūjyā. He also glosses it as pratīkṣyā, one to be honoured.",
+    "hi": "क्योंकि वे सबका सनातन मूल हैं, इसलिए वे सबके द्वारा पूजा के योग्य हैं। भास्करराय इस नाम को पिछले नाम से जोड़ते हैं: ‘इसी कारण’ वे पूज्या हैं। वे इसका अर्थ ‘प्रतीक्ष्या’, अर्थात् आदरणीया, भी करते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the literal sense. Worship here follows from what she is, not from what she gives: one bows to the source of all simply because it is the source.",
+    "hi": "भास्करराय केवल शाब्दिक अर्थ देते हैं। यहाँ पूजा इस कारण है कि वे क्या हैं, इस कारण नहीं कि वे क्या देती हैं: सबके मूल के आगे मनुष्य इसलिए झुकता है कि वह मूल है।"
+  },
+  "story": {
+    "en": "Names 802 and 803 are read together: she is ancient, and therefore worshipful. Name 213 calls her Mahāpūjyā, “supremely worthy of worship”.",
+    "hi": "नाम 802 और 803 एक साथ पढ़े जाते हैं: वे सनातन हैं, इसलिए पूज्य हैं। नाम 213 उन्हें ‘महापूज्या’, अर्थात् परम पूजनीया, कहता है।"
+  },
+  "commentary": {
+    "sanskrit": "अत एव सर्वेषां पूज्या पूजयितुं योग्या । प्रतीक्ष्या वा ।",
+    "translation": {
+      "en": "For that very reason she is pūjyā for all, fit to be worshipped. Or, pratīkṣyā, one to be honoured.",
+      "hi": "इसी कारण वे सबके लिए पूज्या हैं, अर्थात् पूजा के योग्य। अथवा, प्रतीक्ष्या, अर्थात् आदरणीया।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 803 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the second sentence of the inner layer is a reflection. प्रतीक्ष्या is rendered ‘to be honoured’; it can also mean ‘to be awaited, looked to’." }
+}

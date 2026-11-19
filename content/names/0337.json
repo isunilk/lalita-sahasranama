@@ -1,0 +1,43 @@
+{
+  "number": 337,
+  "verse": 75,
+  "slug": "vidhatri",
+  "devanagari": "विधात्री",
+  "iastSplit": "Vidhātrī",
+  "archana": "ॐ विधात्र्यै नमः",
+  "syllables": ["vi", "dhāt", "rī"],
+  "words": [
+    { "sa": "वि", "meaning": { "en": "prefix: thoroughly; distinguished", "hi": "उपसर्ग: भली-भाँति, विशेष" } },
+    { "sa": "धात्री", "meaning": { "en": "she who supports; nurse, mother", "hi": "धारण करने वाली, धाय, माता" } }
+  ],
+  "meaning": {
+    "en": "She who creates, upholds and nourishes the world",
+    "hi": "जगत् को रचने, धारण करने और पोषने वाली"
+  },
+  "explanation": {
+    "en": "Vidhātrī comes from vi-dhā, to arrange and to sustain. Bhāskararāya says she makes the world, upholds it or nourishes it. He quotes the Devī Purāṇa: a mother is called dhātrī, and she is so called because she upholds.",
+    "hi": "‘विधात्री’ शब्द ‘वि-धा’ धातु से बना है, जिसका अर्थ है रचना और धारण करना। भास्करराय कहते हैं कि वे जगत् को रचती, धारण करती या पोषती हैं। वे देवी पुराण का प्रमाण देते हैं: माता को धात्री कहा जाता है, और धारण करने के कारण ही उसका यह नाम है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives no hidden meaning here. As a reflection, the name describes a mother’s work: to hold the child and to feed it. She does both for the whole world, at every moment.",
+    "hi": "भास्करराय यहाँ कोई गूढ़ अर्थ नहीं देते। चिन्तन के रूप में: यह नाम माँ का काम बताता है, सन्तान को थामना और उसे पोषण देना। वे यह दोनों काम पूरे जगत् के लिए हर क्षण करती हैं।"
+  },
+  "story": {
+    "en": "He adds two other readings: she is the wife of Vidhātṛ, Brahmā the creator; or she is the one to whom the dhātrī, the āmalakī (Indian gooseberry) tree, is especially dear.",
+    "hi": "वे दो अन्य अर्थ भी देते हैं: वे विधाता ब्रह्मा की पत्नी हैं; अथवा उन्हें ‘धात्री’, अर्थात् आँवले का वृक्ष, विशेष प्रिय है।"
+  },
+  "commentary": {
+    "sanskrit": "विदधाति धारयति पोषयति वा जगदिति विधात्री ।",
+    "translation": {
+      "en": "Vidhātrī, because she makes the world, or upholds it, or nourishes it.",
+      "hi": "वे जगत् का विधान करती हैं, उसे धारण करती हैं या उसका पोषण करती हैं, इसलिए विधात्री हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 337 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only literal senses; the inner layer is a reflection." }
+}

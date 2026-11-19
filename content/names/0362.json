@@ -1,0 +1,42 @@
+{
+  "number": 362,
+  "verse": 80,
+  "slug": "chiti",
+  "devanagari": "चितिः",
+  "iastSplit": "Citiḥ",
+  "archana": "ॐ चित्यै नमः",
+  "syllables": ["ci", "tiḥ"],
+  "words": [
+    { "sa": "चिति", "meaning": { "en": "consciousness", "hi": "चिति, चेतना" } }
+  ],
+  "meaning": {
+    "en": "Consciousness itself",
+    "hi": "स्वयं चेतना"
+  },
+  "explanation": {
+    "en": "Citi means consciousness. Bhāskararāya calls it knowledge that is the adversary of avidyā, which is why this name follows the name on dispelling darkness. She is not someone who has consciousness; she is consciousness.",
+    "hi": "‘चिति’ का अर्थ है चेतना। भास्करराय इसे अविद्या का विरोधी ज्ञान कहते हैं, इसीलिए यह नाम अन्धकार को दूर करने वाले नाम के बाद आता है। वे चेतना वाली कोई सत्ता नहीं; वे स्वयं चेतना हैं।"
+  },
+  "inner": {
+    "en": "He identifies her with the citi of the Śakti-sūtra: ‘Citi, free, is the cause of the accomplishment of the universe.’ Consciousness here is not passive; it is free, and it brings the world into being. He also quotes the Mahāvāsiṣṭha: she is called citi because she gives life to those who seek to live.",
+    "hi": "वे उन्हें शक्तिसूत्र की चिति बताते हैं: ‘चितिः स्वतन्त्रा विश्वसिद्धिहेतुः’, अर्थात् स्वतन्त्र चिति ही विश्व की सिद्धि का कारण है। यहाँ चेतना निष्क्रिय नहीं; वह स्वतन्त्र है, और जगत् को अस्तित्व में लाती है। वे महावासिष्ठ भी उद्धृत करते हैं: जीवन चाहने वालों को जीवन देने के कारण वे चिति कहलाती हैं।"
+  },
+  "story": {
+    "en": "Under name 354 Bhāskararāya sets this sūtra beside the Śiva Sūtra ‘Consciousness is the Self’ and quotes the conclusion that Śiva and Śakti are both consciousness. This name begins a short passage, running to name 365, that reads like a lesson in Vedānta.",
+    "hi": "नाम 354 पर भास्करराय इस सूत्र को शिवसूत्र ‘चैतन्यमात्मा’ के साथ रखते हैं, और यह निष्कर्ष उद्धृत करते हैं कि शिव और शक्ति दोनों चेतना ही हैं। यह नाम 365 तक चलने वाले एक छोटे प्रसंग का आरम्भ करता है, जो वेदान्त के पाठ जैसा है।"
+  },
+  "commentary": {
+    "sanskrit": "चितिः अविद्यापरिपन्थिज्ञानस्वरूपा । चितिः स्वतन्त्रा विश्वसिद्धिहेतुरिति शक्तिसूत्रोक्तस्वरूपेत्यर्थः ।",
+    "translation": {
+      "en": "Citi: she whose nature is knowledge, the adversary of avidyā. That is, she is of the nature stated in the Śakti-sūtra: ‘Citi, free, is the cause of the accomplishment of the universe.’",
+      "hi": "चिति, अर्थात् अविद्या की विरोधी ज्ञान-स्वरूपा। तात्पर्य यह कि वे उस स्वरूप वाली हैं जो शक्तिसूत्र ‘चितिः स्वतन्त्रा विश्वसिद्धिहेतुः’ में बताया गया है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 362 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Śakti-sūtra Bhāskararāya quotes is the opening sūtra of the Pratyabhijñāhṛdaya; he cites it only as शक्तिसूत्र. The last sentence of the explanation is a plain restatement, not his wording." }
+}

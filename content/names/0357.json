@@ -1,0 +1,47 @@
+{
+  "number": 357,
+  "verse": 79,
+  "slug": "tapa-trayagni-santapta-samahladana-chandrika",
+  "devanagari": "तापत्रयाग्निसन्तप्तसमाह्लादनचन्द्रिका",
+  "iastSplit": "Tāpa-trayāgni-santapta-samāhlādana-candrikā",
+  "archana": "ॐ तापत्रयाग्निसन्तप्तसमाह्लादनचन्द्रिकायै नमः",
+  "syllables": ["tā", "pat", "ra", "yāg", "ni", "san", "tap", "ta", "sa", "māh", "lā", "da", "na", "can", "dri", "kā"],
+  "words": [
+    { "sa": "ताप", "meaning": { "en": "affliction, burning", "hi": "ताप, कष्ट" } },
+    { "sa": "त्रय", "meaning": { "en": "triad", "hi": "तीन का समूह" } },
+    { "sa": "अग्नि", "meaning": { "en": "fire", "hi": "अग्नि" } },
+    { "sa": "सन्तप्त", "meaning": { "en": "scorched", "hi": "झुलसे हुए, सन्तप्त" } },
+    { "sa": "समाह्लादन", "meaning": { "en": "gladdening wholly", "hi": "पूर्ण आह्लाद देना" } },
+    { "sa": "चन्द्रिका", "meaning": { "en": "moonlight", "hi": "चाँदनी, चन्द्रिका" } }
+  ],
+  "meaning": {
+    "en": "Moonlight that gladdens those scorched by the fire of threefold suffering",
+    "hi": "त्रिविध ताप की अग्नि से झुलसे जनों को आह्लाद देने वाली चाँदनी"
+  },
+  "explanation": {
+    "en": "Suffering comes in three kinds: from within, from other beings, and from the powers of nature and fate. Bhāskararāya calls their combined fire saṃsāra itself. To those burning in it she is moonlight, cooling them and filling them with joy.",
+    "hi": "दुःख तीन प्रकार के हैं: अपने भीतर से उत्पन्न, अन्य प्राणियों से उत्पन्न, और दैवी या प्राकृतिक शक्तियों से उत्पन्न। भास्करराय इन तीनों की सम्मिलित अग्नि को संसार ही कहते हैं। उसमें जलते हुए जनों के लिए वे चाँदनी हैं, जो शीतलता और आनन्द देती है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya notes the order: her moonlight first removes the burning and then gives joy. Relief from pain is not the end; the cooling opens the way to bliss. He gives no further hidden meaning.",
+    "hi": "भास्करराय क्रम पर ध्यान दिलाते हैं: उनकी चाँदनी पहले ताप हरती है, फिर आनन्द देती है। दुःख का मिटना अन्त नहीं; शीतलता आनन्द का मार्ग खोलती है। इसके आगे वे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "This one long name fills the whole first half of the verse. The moon is the classical image of what cools and delights, set here against the fire of worldly suffering, and all five names of the verse begin with t.",
+    "hi": "यह एक लम्बा नाम पूरे पहले श्लोकार्ध को भर देता है। चन्द्रमा शीतलता और आनन्द का पारम्परिक प्रतीक है, जिसे यहाँ सांसारिक दुःख की अग्नि के सामने रखा गया है; इस श्लोक के पाँचों नाम ‘त’ से आरम्भ होते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "आध्यात्मिकाधिभौतिकाधिदैविकाख्यानां तापानां त्रयं यस्य तेनाग्निना संसारलक्षणेन सम्यक् तप्तानां जनानां सम्यगाह्लादनेनापहरणपूर्वकानन्दनविषये चन्द्रिकेव वा ।।",
+    "translation": {
+      "en": "To people thoroughly scorched by the fire that is saṃsāra, which holds the triad of afflictions called ādhyātmika, ādhibhautika and ādhidaivika, she is like moonlight in gladdening them fully, giving joy after first taking the burning away.",
+      "hi": "आध्यात्मिक, आधिभौतिक और आधिदैविक नामक तीन तापों वाली संसार रूपी अग्नि से भली-भाँति तपे हुए जनों के लिए, पहले ताप हरकर फिर आनन्द देने में, वे चाँदनी के समान हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 357 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s comment ends with वा, as if a second reading were to follow; none is printed. The second sentence of the inner layer is a short reflection on his word order (अपहरणपूर्वकानन्दन)." }
+}

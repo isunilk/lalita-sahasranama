@@ -1,0 +1,43 @@
+{
+  "number": 824,
+  "verse": 155,
+  "slug": "bahu-rupa",
+  "devanagari": "बहुरूपा",
+  "iastSplit": "Bahu-rūpā",
+  "archana": "ॐ बहुरूपायै नमः",
+  "syllables": ["ba", "hu", "rū", "pā"],
+  "words": [
+    {"sa": "बहु", "meaning": {"en": "many", "hi": "अनेक, बहुत"}},
+    {"sa": "रूप", "meaning": {"en": "form", "hi": "रूप"}}
+  ],
+  "meaning": {
+    "en": "She of many forms",
+    "hi": "अनेक रूपों वाली"
+  },
+  "explanation": {
+    "en": "She who brings forth the universe takes as many forms as it holds: moving and unmoving, gods, humans and animals. Bhāskararāya links the name to the one before: because she is the mother of all, she is many-formed.",
+    "hi": "जो जगत् को जन्म देती हैं, वे उतने ही रूप धारण करती हैं जितने जगत् में हैं: चर और अचर, देवता, मनुष्य और पशु-पक्षी। भास्करराय इस नाम को पिछले नाम से जोड़ते हैं: सबकी जननी होने से ही वे बहुरूपा हैं।"
+  },
+  "inner": {
+    "en": "The Devī Purāṇa puts it in a phrase Bhāskararāya quotes: formless in her supreme being, many-formed as action. One reality appears as all the many without ceasing to be one. He adds that the countless goddesses of the Tantras, consorts of Śiva, Viṣṇu and Brahmā, are all her forms, and remarks that even the explanation of this name is found in many forms across the Purāṇas and Tantras.",
+    "hi": "देवीपुराण इसे एक वाक्य में कहता है, जिसे भास्करराय उद्धृत करते हैं: परम भाव में वे अरूपा हैं, क्रिया के रूप में बहुरूपा। एक ही सत्य एक रहते हुए अनेक रूपों में प्रकट होता है। वे यह भी कहते हैं कि तन्त्रों की असंख्य देवियाँ, शिव, विष्णु और ब्रह्मा की शक्तियाँ, सब उन्हीं के रूप हैं, और यह टिप्पणी करते हैं कि स्वयं इस नाम की व्याख्या भी पुराणों और तन्त्रों में अनेक रूपों में मिलती है।"
+  },
+  "story": {
+    "en": "In the Lalitopākhyāna the one Goddess fights Bhaṇḍāsura through the many Śaktis who come forth from her. Bhāskararāya quotes Gauḍapāda’s sūtra on this: to slay Bhaṇḍāsura, the One alone became many.",
+    "hi": "ललितोपाख्यान में एक ही देवी अपने से प्रकट हुई अनेक शक्तियों के द्वारा भण्डासुर से युद्ध करती हैं। भास्करराय इस पर गौडपाद का सूत्र उद्धृत करते हैं: भण्डासुर के वध के लिए एक ही अनेक हो गईं।"
+  },
+  "commentary": {
+    "sanskrit": "परब्रह्मभावनारूपाया अपि भण्डासुरहननादिबहुविधक्रियाकारित्वात्तत्तद्रूपवत्त्वेन बहुरूपत्वमपीति पक्षेऽर्थः । तथा च गौडपादानां सूत्रम्- भण्डासुरहननार्थमेकैवानेकेति ।",
+    "translation": {
+      "en": "Though she is of the nature of the supreme Brahman, she does many kinds of deeds, such as slaying Bhaṇḍāsura, and so takes the forms those deeds need; in this view too she is many-formed. So runs Gauḍapāda’s sūtra: “To slay Bhaṇḍāsura, the One alone became many.”",
+      "hi": "परब्रह्म-स्वरूपा होते हुए भी वे भण्डासुर-वध आदि अनेक प्रकार के कार्य करती हैं, और उन-उन कार्यों के अनुरूप रूप धारण करती हैं; इस पक्ष में भी वे बहुरूपा हैं। गौडपाद का सूत्र भी यही कहता है: ‘भण्डासुर के वध के लिए एक ही अनेक हुईं।’"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 824 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The second sentence of the inner layer is a reflection. परब्रह्मभावनारूपाया is rendered loosely as ‘of the nature of the supreme Brahman’." }
+}

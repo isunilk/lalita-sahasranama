@@ -1,0 +1,43 @@
+{
+  "number": 798,
+  "verse": 152,
+  "slug": "kavya-kala",
+  "devanagari": "काव्यकला",
+  "iastSplit": "Kāvya-kalā",
+  "archana": "ॐ काव्यकलायै नमः",
+  "syllables": ["kāv", "ya", "ka", "lā"],
+  "words": [
+    {"sa": "काव्य", "meaning": {"en": "poetry, the work of a poet", "hi": "काव्य, कवि की रचना"}},
+    {"sa": "कला", "meaning": {"en": "art", "hi": "कला"}}
+  ],
+  "meaning": {
+    "en": "The art of poetry itself",
+    "hi": "स्वयं काव्य की कला"
+  },
+  "explanation": {
+    "en": "Kāvya is the work of a poet, and it takes many forms, from drama to farce, as the Agni Purāṇa describes. Every such art is a form of the Mother. Bhāskararāya also takes kāvyakalā as poetic genius, the inspiration from which poetry springs.",
+    "hi": "‘काव्य’ कवि की रचना है, और इसके अनेक रूप हैं, नाटक से लेकर प्रहसन तक, जैसा अग्निपुराण बताता है। ऐसी हर कला माँ का ही रूप है। भास्करराय ‘काव्यकला’ को वह प्रतिभा भी मानते हैं जिससे काव्य जन्म लेता है।"
+  },
+  "inner": {
+    "en": "He cites the Viṣṇu Purāṇa: all poetic speech and every song is the body of Viṣṇu, who bears the form of sound. He notes that the Tantras often describe meditation on her as granting the power to compose poetry. In a third reading, Kāvya is Śukra, teacher of the asuras, and she is his kalā called Mṛtasañjīvanī, the lore that revives the dead.",
+    "hi": "वे विष्णुपुराण उद्धृत करते हैं: सब काव्य-वचन और सब गीत शब्दमूर्ति विष्णु का शरीर हैं। वे बताते हैं कि तन्त्रों में बार-बार कहा गया है कि देवी का ध्यान काव्य-रचना की सामर्थ्य देता है। तीसरे अर्थ में ‘काव्य’ असुरों के गुरु शुक्राचार्य हैं, और देवी उनकी मृतसञ्जीवनी नामक कला हैं, मृतकों को जीवित करने वाली विद्या।"
+  },
+  "story": {
+    "en": "Sanskrit tradition tells of devotees made poets by the Goddess’s grace, and Bhāskararāya tells one such story at name 817, of the brahmin Satyavrata. Śukra, called Kāvya, is famed in the Purāṇas for the Mṛtasañjīvanī, by which he revived the asuras slain in battle.",
+    "hi": "संस्कृत परम्परा में ऐसे भक्तों की कथाएँ हैं जिन्हें देवी की कृपा ने कवि बना दिया; भास्करराय नाम 817 पर ब्राह्मण सत्यव्रत की ऐसी ही कथा सुनाते हैं। ‘काव्य’ कहलाने वाले शुक्राचार्य पुराणों में मृतसञ्जीवनी विद्या के लिए प्रसिद्ध हैं, जिससे वे युद्ध में मारे गए असुरों को जीवित कर देते थे।"
+  },
+  "commentary": {
+    "sanskrit": "काव्योत्पादकप्रतिभैव वा काव्यकला ।",
+    "translation": {
+      "en": "Or, kāvyakalā is the very genius (pratibhā) that brings poetry into being.",
+      "hi": "अथवा, काव्य को उत्पन्न करने वाली प्रतिभा ही काव्यकला है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 798 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The first sentence of the story layer and the Purāṇic note on Śukra are general context, not from Bhāskararāya’s comment on this name." }
+}

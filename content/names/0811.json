@@ -1,0 +1,43 @@
+{
+  "number": 811,
+  "verse": 153,
+  "slug": "pasha-hantri",
+  "devanagari": "पाशहन्त्री",
+  "iastSplit": "Pāśa-hantrī",
+  "archana": "ॐ पाशहन्त्र्यै नमः",
+  "syllables": ["pā", "śa", "han", "trī"],
+  "words": [
+    {"sa": "पाश", "meaning": {"en": "bond, noose", "hi": "बन्धन, पाश"}},
+    {"sa": "हन्त्री", "meaning": {"en": "she who destroys", "hi": "नाश करने वाली"}}
+  ],
+  "meaning": {
+    "en": "Destroyer of the bonds that bind beings",
+    "hi": "जीवों के बन्धनों का नाश करने वाली"
+  },
+  "explanation": {
+    "en": "Pāśa is a noose, a bond. She who held the noose in the last name now destroys the bonds. Whatever ties the soul down, she can cut.",
+    "hi": "‘पाश’ का अर्थ है फन्दा, बन्धन। पिछले नाम में जिन्होंने पाश धारण किया था, वही अब बन्धनों का नाश करती हैं। जो कुछ भी जीव को बाँधे रखता है, वे उसे काट सकती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya’s gloss is brief: she is the destroyer, the remover, of bonds. In Śaiva thought the soul is called paśu, a bound creature, and its fetters are pāśas; liberation is their undoing. Taken with the name before, she binds and she releases, and both are her grace.",
+    "hi": "भास्करराय की व्याख्या संक्षिप्त है: वे बन्धनों की हन्त्री, अर्थात् नाश करने वाली, हैं। शैव दर्शन में जीव को ‘पशु’, अर्थात् बँधा हुआ प्राणी, कहा जाता है, और उसके बन्धन ‘पाश’ हैं; मुक्ति उन्हीं का खुलना है। पिछले नाम के साथ पढ़ें तो वे बाँधती भी हैं और मुक्त भी करती हैं, और दोनों उनकी कृपा हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya tells a story from the Harivaṃśa. When Kṛṣṇa’s grandson Aniruddha lay bound by serpent-nooses in the city of Bāṇa, the Devī broke apart with her hands the serpent-cage, hard as a thunderbolt, and spoke to the hero to comfort him.",
+    "hi": "भास्करराय हरिवंश की एक कथा सुनाते हैं। जब श्रीकृष्ण के पौत्र अनिरुद्ध बाणासुर के नगर में नागपाश से बँधे पड़े थे, तब देवी ने वज्र जैसे कठोर नाग-पिंजरे को अपने हाथों से तोड़ दिया और उन वीर को सान्त्वना देते हुए उनसे बात की।"
+  },
+  "commentary": {
+    "sanskrit": "पाशानां हन्त्री नाशिका ।",
+    "translation": {
+      "en": "The hantrī, the destroyer, of bonds.",
+      "hi": "पाशों की हन्त्री, अर्थात् नाश करने वाली।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 811 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The paśu–pāśa sentence is general Śaiva context, not from Bhāskararāya’s comment here; the closing clause of the inner layer is a reflection." }
+}

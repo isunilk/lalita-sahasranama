@@ -1,0 +1,45 @@
+{
+  "number": 364,
+  "verse": 80,
+  "slug": "chid-eka-rasa-rupini",
+  "devanagari": "चिदेकरसरूपिणी",
+  "iastSplit": "Cid-eka-rasa-rūpiṇī",
+  "archana": "ॐ चिदेकरसरूपिण्यै नमः",
+  "syllables": ["ci", "de", "ka", "ra", "sa", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "चित्", "meaning": { "en": "consciousness", "hi": "चित्, चेतना" } },
+    { "sa": "एक", "meaning": { "en": "one, sole", "hi": "एक, एकमात्र" } },
+    { "sa": "रस", "meaning": { "en": "essence; taste", "hi": "रस, सार" } },
+    { "sa": "रूपिणी", "meaning": { "en": "having the form of", "hi": "रूप वाली" } }
+  ],
+  "meaning": {
+    "en": "Whose form is of one essence, consciousness alone",
+    "hi": "जिनका स्वरूप एकरस चेतना है"
+  },
+  "explanation": {
+    "en": "Cit is consciousness, ekarasa means of a single, unbroken essence, and rūpiṇī means having that form. Her nature is consciousness through and through, with nothing else mixed into it. Bhāskararāya also reads it as: her form is not different from pure consciousness.",
+    "hi": "‘चित्’ का अर्थ है चेतना, ‘एकरस’ अर्थात् एक ही अखण्ड सार वाला, और ‘रूपिणी’ उस रूप वाली। उनका स्वभाव पूरी तरह चेतना है, उसमें और कुछ मिला नहीं। भास्करराय इसका यह अर्थ भी देते हैं कि उनका रूप शुद्ध चेतना से भिन्न नहीं है।"
+  },
+  "inner": {
+    "en": "The previous name made pure Brahman only the implied meaning of tat; but, someone objects, even pure Brahman has bliss and other qualities. Bhāskararāya answers that these attributes have consciousness as their one essence and are not different from her; as the Pañcapādikā says, they only appear as if separate. So the name says she has qualities, yet they are not other than herself.",
+    "hi": "पिछले नाम ने शुद्ध ब्रह्म को ‘तत्’ का केवल लक्ष्यार्थ कहा; पर शंका उठती है कि शुद्ध ब्रह्म में भी आनन्द आदि गुण तो हैं। भास्करराय उत्तर देते हैं कि आनन्द, चैतन्य आदि उनके धर्मों का एकमात्र सार चेतना है, और वे उनसे भिन्न नहीं; पञ्चपादिका के अनुसार वे केवल अलग-से प्रतीत होते हैं। इसलिए यह नाम कहता है कि उनके गुण हैं, पर वे उनसे भिन्न नहीं।"
+  },
+  "story": {
+    "en": "Ekarasa, ‘of a single taste’, recalls the Bṛhadāraṇyaka Upaniṣad’s image of a lump of salt, salty through and through, with no inside or outside; Bhāskararāya does not cite it here, but it shows the sense. The name is the middle step of the argument between Tatpadalakṣyārthā and the long name on bliss that follows.",
+    "hi": "‘एकरस’, अर्थात् एक ही स्वाद वाला, बृहदारण्यक उपनिषद् के नमक की डली के दृष्टान्त की याद दिलाता है, जो भीतर-बाहर सब ओर से केवल खारी है; भास्करराय यहाँ इसे उद्धृत नहीं करते, पर इससे अर्थ स्पष्ट होता है। यह नाम तत्पदलक्ष्यार्था और आगे आनन्द वाले लम्बे नाम के बीच इस तर्क की बीच की सीढ़ी है।"
+  },
+  "commentary": {
+    "sanskrit": "चिता सहैको रसः स्वरूपं येषां, चिदेव मुख्यो रसो येषां तानि चिदेकरसानि रूपाण्यानन्दचैतन्यादिधर्मा अस्याः सन्तीति चिदेकरसरूपिणी ।",
+    "translation": {
+      "en": "Forms whose essence is one with consciousness, whose chief essence is consciousness itself, are cidekarasa; such forms, the attributes of bliss, consciousness and the rest, are hers, and so she is Cidekarasarūpiṇī.",
+      "hi": "जिनका स्वरूप चेतना के साथ एकरस है, जिनका मुख्य रस चेतना ही है, वे रूप ‘चिदेकरस’ हैं; आनन्द, चैतन्य आदि ऐसे धर्म उनमें हैं, इसलिए वे चिदेकरसरूपिणी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 364 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The argument is condensed; the salt image in the story is context, not cited by Bhāskararāya." }
+}
