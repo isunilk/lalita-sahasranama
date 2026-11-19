@@ -1,0 +1,66 @@
+{
+  "number": 960,
+  "verse": 176,
+  "slug": "lokatita",
+  "devanagari": "लोकातीता",
+  "iastSplit": "Lokātītā",
+  "archana": "ॐ लोकातीतायै नमः",
+  "syllables": [
+    "lo",
+    "kā",
+    "tī",
+    "tā"
+  ],
+  "words": [
+    {
+      "sa": "लोक",
+      "meaning": {
+        "en": "world; also living beings",
+        "hi": "लोक; जीव भी"
+      }
+    },
+    {
+      "sa": "अतीता",
+      "meaning": {
+        "en": "gone beyond",
+        "hi": "परे, पार गई हुई"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "She who is beyond all the worlds",
+    "hi": "सब लोकों से परे"
+  },
+  "explanation": {
+    "en": "Bhāskararāya says she has passed beyond all the worlds, from the world of Indra up to the world of Viṣṇu, and dwells in Mahākailāsa, the city of Paraśiva. Or the lokas are living beings, and she is beyond them all.",
+    "hi": "भास्करराय कहते हैं कि वे इन्द्रलोक से लेकर विष्णुलोक तक सब लोकों को पार कर महाकैलास नामक परशिव के पुर में स्थित हैं। अथवा ‘लोक’ का अर्थ जीव है, और वे सब जीवों से परे हैं।"
+  },
+  "inner": {
+    "en": "He quotes the Śivadharmottara at length to show what lies beyond. Above the worlds is a city of Śiva reached by those devoted to ritual action, but they return to birth. Above it is a threefold supreme abode, and those who reach it through meditation and yoga do not return to the ocean of saṃsāra. Her dwelling is beyond even the heaven that ritual can win.",
+    "hi": "आगे क्या है, यह दिखाने के लिए वे शिवधर्मोत्तर से विस्तार से उद्धरण देते हैं। लोकों के ऊपर एक शिवपुर है जहाँ कर्मनिष्ठ लोग पहुँचते हैं, पर वे फिर जन्म लेते हैं। उसके ऊपर त्रिविध परम धाम है, और जो ध्यान-योग से वहाँ पहुँचते हैं वे संसार-सागर में नहीं लौटते। उनका निवास कर्म से मिलने वाले उस स्वर्ग से भी परे है।"
+  },
+  "story": {
+    "en": "This half-verse is a ladder of transcendence: beyond the worlds, beyond the guṇas, beyond everything, and finally peace itself. Mahākailāsa, the supreme abode of Śiva and the Devī, has already been named as her dwelling (name 578).",
+    "hi": "यह अर्धश्लोक अतीत होने की सीढ़ी है: लोकों से परे, गुणों से परे, सबसे परे, और अन्त में स्वयं शान्ति। शिव और देवी का परम धाम महाकैलास पहले उनके निवास के रूप में आ चुका है (नाम 578)।"
+  },
+  "commentary": {
+    "sanskrit": "लोकानिन्द्रलोकादिविष्णुलोकान्तानतीतातिक्रम्य महाकैलासाख्ये परशिवपुरे स्थिता ।",
+    "translation": {
+      "en": "Having gone beyond the worlds, from the world of Indra to the world of Viṣṇu, and passed over them, she dwells in the city of Paraśiva called Mahākailāsa.",
+      "hi": "इन्द्रलोक से विष्णुलोक तक के लोकों से परे जाकर, उन्हें लाँघकर, वे महाकैलास नामक परशिवपुर में स्थित हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 960 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. In the edition this gloss is printed before the heading of the second half of verse 176, at the end of the comment on धर्मवर्धिनी; the second gloss (लोकाञ्जीवान्वाऽतीता) follows the heading. The edition prints अतीतातिक्रम्य as one word."
+  }
+}

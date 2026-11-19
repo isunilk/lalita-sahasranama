@@ -1,0 +1,68 @@
+{
+  "number": 966,
+  "verse": 177,
+  "slug": "lila-vinodini",
+  "devanagari": "लीलाविनोदिनी",
+  "iastSplit": "Līlā-vinodinī",
+  "archana": "ॐ लीलाविनोदिन्यै नमः",
+  "syllables": [
+    "lī",
+    "lā",
+    "vi",
+    "no",
+    "di",
+    "nī"
+  ],
+  "words": [
+    {
+      "sa": "लीला",
+      "meaning": {
+        "en": "play, sport",
+        "hi": "लीला, क्रीड़ा"
+      }
+    },
+    {
+      "sa": "विनोदिनी",
+      "meaning": {
+        "en": "she who delights in; also she who urges on",
+        "hi": "आनन्द लेने वाली; प्रेरित करने वाली भी"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "She who delights in the play of the universe",
+    "hi": "जगत् की लीला में आनन्द लेने वाली"
+  },
+  "explanation": {
+    "en": "Līlā is play. For Bhāskararāya the play is the world itself: the making and running of the universe is her pastime, her vinoda. She creates not out of need but for delight.",
+    "hi": "‘लीला’ का अर्थ है खेल। भास्करराय के लिए यह खेल स्वयं जगत् है: सृष्टि की रचना और संचालन उनका विनोद है। वे किसी आवश्यकता से नहीं, आनन्द के लिए सृष्टि करती हैं।"
+  },
+  "inner": {
+    "en": "He gives a second reading from the Yogavāsiṣṭha, where Līlā is the queen of King Padma: the Devī especially urges (vinodayati) this Līlā on to good deeds. In that story, told at length in the Yogavāsiṣṭha, Līlā’s austerities please Sarasvatī, who grants her knowledge and her husband’s life.",
+    "hi": "वे योगवासिष्ठ से दूसरा अर्थ देते हैं, जहाँ लीला राजा पद्म की रानी हैं: देवी इस लीला को विशेष रूप से सत्कर्मों में प्रेरित करती हैं (विनोदयति)। उस कथा में, जो योगवासिष्ठ में विस्तार से कही गई है, लीला की तपस्या से सरस्वती प्रसन्न होती हैं और उन्हें ज्ञान तथा उनके पति का जीवन प्रदान करती हैं।"
+  },
+  "story": {
+    "en": "The hymn has already said that she fashions the sphere of the cosmos in play (name 648) and takes on forms in play (name 865). In Indian thought, līlā names the idea that the world is the free, joyful expression of the Divine, not something it needs.",
+    "hi": "स्तोत्र पहले कह चुका है कि वे लीला से ब्रह्माण्ड-मण्डल रचती हैं (नाम 648) और लीला से देह धारण करती हैं (नाम 865)। भारतीय चिन्तन में ‘लीला’ इस भाव का नाम है कि जगत् ईश्वर की स्वतन्त्र, आनन्दमय अभिव्यक्ति है, उसकी कोई आवश्यकता नहीं।"
+  },
+  "commentary": {
+    "sanskrit": "लीला प्रापञ्चिकी क्रीडैव विनोदो यस्याः ।",
+    "translation": {
+      "en": "She whose delight is līlā, the play that is the world itself.",
+      "hi": "जिनका विनोद लीला है, अर्थात् यह प्रपञ्च रूपी क्रीड़ा ही।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 966 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The edition prints पद्यराजस्य, evidently for पद्मराजस्य (King Padma of the Yogavāsiṣṭha). Bhāskararāya also cites a Devī Purāṇa derivation of līlā (लक्ष्मीलालनतो लीला) and remarks on another possible way of dividing the names here; that remark is not used and needs a scholar’s reading."
+  }
+}

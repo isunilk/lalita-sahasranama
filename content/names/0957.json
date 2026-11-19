@@ -1,0 +1,57 @@
+{
+  "number": 957,
+  "verse": 176,
+  "slug": "dhanya",
+  "devanagari": "धन्या",
+  "iastSplit": "Dhanyā",
+  "archana": "ॐ धन्यायै नमः",
+  "syllables": [
+    "dhan",
+    "yā"
+  ],
+  "words": [
+    {
+      "sa": "धन्या",
+      "meaning": {
+        "en": "blessed, fulfilled; bringing wealth (dhana)",
+        "hi": "धन्य, कृतार्थ; धन देने वाली"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "The Blessed One, fulfilled in every way",
+    "hi": "धन्या, सब प्रकार से कृतार्थ"
+  },
+  "explanation": {
+    "en": "Dhanyā means blessed and fortunate. Bhāskararāya first explains it as kṛtārthā, one whose every aim is already accomplished, and then from dhana, wealth: she is good for wealth, or the one who gains it.",
+    "hi": "‘धन्या’ का अर्थ है धन्य, सौभाग्यवती। भास्करराय पहले इसका अर्थ ‘कृतार्था’ बताते हैं, जिनके सब प्रयोजन पहले से पूर्ण हैं, और फिर ‘धन’ से: वे धन के लिए हितकारी हैं, या धन प्राप्त करने वाली हैं।"
+  },
+  "inner": {
+    "en": "His most striking reading comes from the Bhaviṣyottara Purāṇa, which names four kinds of thought at the end of life: ārta (craving), raudra (cruelty), dhanya and śukla. Dhanya meditation dwells on the meaning of scripture, great vows, the causes of bondage and release, the calming of the senses and kindness to all beings, and it leads to the world of the gods; the purest, śukla, ends rebirth. She is the form of that blessed meditation.",
+    "hi": "उनका सबसे विशिष्ट अर्थ भविष्योत्तर पुराण से आता है, जो जीवन के अन्त समय के चार प्रकार के चिन्तन बताता है: आर्त (भोग की लालसा), रौद्र (क्रूरता), धन्य और शुक्ल। धन्य ध्यान शास्त्र के अर्थ, महाव्रतों, बन्धन और मोक्ष के कारणों, इन्द्रियों की शान्ति और प्राणियों पर दया का चिन्तन है, और यह देवगति देता है; सबसे निर्मल शुक्ल ध्यान जन्म का ही अन्त कर देता है। वे उसी धन्य ध्यान का स्वरूप हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya also notes that in astrology Dhanyā is one of the yoginīs, named with Maṅgalā and Piṅgalā. The name gathers several senses at once: fulfilled, wealthy, auspicious and contemplative.",
+    "hi": "भास्करराय यह भी बताते हैं कि ज्योतिषशास्त्र में ‘धन्या’ एक योगिनी का नाम है, जो मङ्गला और पिङ्गला के साथ गिनी जाती है। यह नाम एक साथ कई अर्थ समेटता है: कृतार्था, धनदायिनी, मंगलमयी और ध्यानरूपा।"
+  },
+  "commentary": {
+    "sanskrit": "धन्या कृतार्था धनाय हिता वा ।",
+    "translation": {
+      "en": "Dhanyā: fulfilled; or, beneficial for wealth.",
+      "hi": "धन्या: कृतार्था; अथवा, धन के लिए हितकारी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 957 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The four end-of-life meditations (आर्त, रौद्र, धन्य, शुक्ल) come from Bhāskararāya’s Bhaviṣyottara quotation; a scholar may compare the Jaina list, where the third is dharmya, but the edition reads धन्य, which the name needs."
+  }
+}

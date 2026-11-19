@@ -1,0 +1,66 @@
+{
+  "number": 962,
+  "verse": 176,
+  "slug": "sarvatita",
+  "devanagari": "सर्वातीता",
+  "iastSplit": "Sarvātītā",
+  "archana": "ॐ सर्वातीतायै नमः",
+  "syllables": [
+    "sar",
+    "vā",
+    "tī",
+    "tā"
+  ],
+  "words": [
+    {
+      "sa": "सर्व",
+      "meaning": {
+        "en": "all, everything",
+        "hi": "सब, सर्वस्व"
+      }
+    },
+    {
+      "sa": "अतीता",
+      "meaning": {
+        "en": "gone beyond",
+        "hi": "परे"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Beyond everything, and beyond all words",
+    "hi": "सबसे परे, सब शब्दों से परे"
+  },
+  "explanation": {
+    "en": "Having called her beyond the worlds and beyond the guṇas, the hymn now says she is beyond everything. Bhāskararāya adds a second sense: she is beyond all words.",
+    "hi": "लोकों और गुणों से परे कहने के बाद स्तोत्र अब कहता है कि वे सबसे परे हैं। भास्करराय एक दूसरा अर्थ जोड़ते हैं: वे सब शब्दों से परे हैं।"
+  },
+  "inner": {
+    "en": "For the second sense he quotes the Jñānārṇava: the supreme Brahman is beyond words and ever free of number; know it as your own Self. What is beyond all can still be known, not as an object of speech but as one’s own being.",
+    "hi": "दूसरे अर्थ के लिए वे ज्ञानार्णव उद्धृत करते हैं: परम ब्रह्म शब्दों से परे और सदा गणना से रहित है, उसे अपना आत्म-स्वरूप जानो। जो सबसे परे है, वह भी जाना जा सकता है, वाणी के विषय के रूप में नहीं, अपने स्वरूप के रूप में।"
+  },
+  "story": {
+    "en": "The Upaniṣad speaks of that from which words turn back, together with the mind, without reaching it (Taittirīya Upaniṣad 2.4). This name carries the ladder of the half-verse to its top, and the next names what is found there.",
+    "hi": "उपनिषद् उस तत्त्व की बात करता है जहाँ से वाणी मन के साथ उसे पाए बिना लौट आती है (तैत्तिरीय उपनिषद् 2.4)। यह नाम अर्धश्लोक की सीढ़ी को शिखर तक ले जाता है, और अगला नाम बताता है कि वहाँ क्या है।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वमतीता वा सर्वान् शब्दानतीता वा ।",
+    "translation": {
+      "en": "She is beyond all; or, she is beyond all words.",
+      "hi": "वे सबसे परे हैं; अथवा, सब शब्दों से परे।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 962 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The Taittirīya reference is context, not cited by Bhāskararāya."
+  }
+}

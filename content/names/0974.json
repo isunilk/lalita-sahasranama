@@ -1,0 +1,70 @@
+{
+  "number": 974,
+  "verse": 178,
+  "slug": "bindu-tarpana-santushta",
+  "devanagari": "बिन्दुतर्पणसन्तुष्टा",
+  "iastSplit": "Bindu-tarpaṇa-santuṣṭā",
+  "archana": "ॐ बिन्दुतर्पणसन्तुष्टायै नमः",
+  "syllables": [
+    "bin",
+    "du",
+    "tar",
+    "pa",
+    "ṇa",
+    "san",
+    "tuṣ",
+    "ṭā"
+  ],
+  "words": [
+    {
+      "sa": "बिन्दु",
+      "meaning": {
+        "en": "the bindu, central point of the Śrīcakra; also a drop",
+        "hi": "बिन्दु, श्रीचक्र का केन्द्र; बूँद भी"
+      }
+    },
+    {
+      "sa": "तर्पण",
+      "meaning": {
+        "en": "an offering that satisfies",
+        "hi": "तर्पण, तृप्त करने वाला अर्पण"
+      }
+    },
+    {
+      "sa": "सन्तुष्टा",
+      "meaning": {
+        "en": "fully pleased",
+        "hi": "भली-भाँति सन्तुष्ट"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Pleased by offerings made at the bindu",
+    "hi": "बिन्दु में किए गए तर्पण से सन्तुष्ट"
+  },
+  "explanation": {
+    "en": "The bindu is the point at the centre of the Śrīcakra, the enclosure that Bhāskararāya calls “full of all bliss” (sarvānandamaya). Tarpaṇa is an offering that satisfies, made there in her worship, and she is fully pleased by it.",
+    "hi": "बिन्दु श्रीचक्र के केन्द्र का बिन्दु है, वह चक्र जिसे भास्करराय ‘सर्वानन्दमय’ कहते हैं। तर्पण वह अर्पण है जो तृप्त करता है; उनकी पूजा में वह वहीं किया जाता है, और वे उससे भली-भाँति सन्तुष्ट होती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya describes the outer offering, which belongs to worship learned from a teacher and is not set out here. He also gives an inner reading: by a form of grammar, bindu can mean “one who knows”, and she is pleased by the contentment of the knowers. The satisfaction of those who know her is itself her offering.",
+    "hi": "भास्करराय बाहरी तर्पण का भी वर्णन करते हैं, जो गुरु से सीखी जाने वाली पूजा का अंग है और यहाँ नहीं दिया गया। वे एक भीतरी अर्थ भी देते हैं: व्याकरण के एक नियम से ‘बिन्दु’ का अर्थ ‘जानने वाला’ भी होता है, और वे ज्ञानियों की तृप्ति से सन्तुष्ट होती हैं। जो उन्हें जानते हैं, उनकी तृप्ति ही उनका तर्पण है।"
+  },
+  "story": {
+    "en": "The Śrīcakra is worshipped in nine enclosures from the outer square inward, and the bindu is the last and innermost, where the Devī herself is seated with Kāmeśvara. The hymn has already called her the dweller in the circle of the bindu (name 380).",
+    "hi": "श्रीचक्र की पूजा बाहरी चतुरस्र से भीतर की ओर नौ आवरणों में होती है, और बिन्दु अन्तिम और सबसे भीतरी आवरण है, जहाँ स्वयं देवी कामेश्वर के साथ विराजती हैं। स्तोत्र पहले उन्हें ‘बिन्दुमण्डलवासिनी’ कह चुका है (नाम 380)।"
+  },
+  "commentary": null,
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. Commentary left null because Bhāskararāya’s first gloss gives ritual details of the offering (who offers it and with what), which this site does not publish as practice. His second reading rests on the grammatical form बिन्दु (बिन्दुरिच्छुः, a nipātana) meaning a knower; the edition runs this gloss into the next name (सन्तुष्टा वा पूर्वं जाता). The last sentence of the inner layer is a reflection."
+  }
+}

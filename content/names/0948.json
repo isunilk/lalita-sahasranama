@@ -1,0 +1,58 @@
+{
+  "number": 948,
+  "verse": 175,
+  "slug": "panchami",
+  "devanagari": "पञ्चमी",
+  "iastSplit": "Pañcamī",
+  "archana": "ॐ पञ्चम्यै नमः",
+  "syllables": [
+    "pañ",
+    "ca",
+    "mī"
+  ],
+  "words": [
+    {
+      "sa": "पञ्चमी",
+      "meaning": {
+        "en": "the fifth (feminine)",
+        "hi": "पाँचवीं"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "The Fifth: consort of Sadāśiva, fifth of the five lords",
+    "hi": "पाँचवीं: पाँच ईश्वरों में पाँचवें, सदाशिव, की शक्ति"
+  },
+  "explanation": {
+    "en": "Pañcamī means “the fifth”. Bhāskararāya first explains it through the five lords, Brahmā, Viṣṇu, Rudra, Īśvara and Sadāśiva: she is the consort of the fifth, Sadāśiva. He adds that Pañcamī is also a settled name of the goddess Vārāhī.",
+    "hi": "‘पञ्चमी’ का अर्थ है ‘पाँचवीं’। भास्करराय पहले इसे पाँच ईश्वरों, ब्रह्मा, विष्णु, रुद्र, ईश्वर और सदाशिव, के द्वारा समझाते हैं: वे पाँचवें, सदाशिव, की पत्नी हैं। वे यह भी बताते हैं कि ‘पञ्चमी’ देवी वाराही का भी रूढ़ नाम है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives several further readings. Among the kinds of liberation the fifth is kaivalya, abiding in the Self alone, and she is one with it. He also links the name with the fifth oblation of the Upaniṣadic teaching of the five fires, from which a human birth comes, and with elements of Tantric worship whose details, he says, are to be learned from a teacher.",
+    "hi": "भास्करराय कई और अर्थ देते हैं। मुक्ति के प्रकारों में पाँचवीं कैवल्य है, अर्थात् केवल आत्म-स्वरूप में स्थिति, और वे उससे अभिन्न हैं। वे इस नाम को उपनिषद् की पञ्चाग्नि-विद्या की पाँचवीं आहुति से भी जोड़ते हैं, जिससे मनुष्य का जन्म होता है, और तान्त्रिक उपासना के कुछ अंगों से भी, जिनका विवरण, वे कहते हैं, गुरुमुख से ही जानना चाहिए।"
+  },
+  "story": {
+    "en": "After the five pretas of name 947, this verse opens with a run of fives. Bhāskararāya shows from the Dakṣiṇāmūrti Saṃhitā that Pañcamī is used again and again for Vārāhī. In the Lalitopākhyāna Vārāhī, also called Daṇḍanāthā, leads Lalitā’s army, and name 76 praises her valour in slaying Viśukra.",
+    "hi": "नाम 947 के पाँच प्रेतों के बाद यह श्लोक ‘पाँच’ की संख्या वाले नामों से आरम्भ होता है। भास्करराय दक्षिणामूर्तिसंहिता से दिखाते हैं कि ‘पञ्चमी’ नाम वाराही के लिए बार-बार प्रयुक्त होता है। ललितोपाख्यान में वाराही, जिन्हें दण्डनाथा भी कहते हैं, ललिता की सेना का नेतृत्व करती हैं, और नाम 76 विशुक्र-वध में उनके पराक्रम की स्तुति करता है।"
+  },
+  "commentary": {
+    "sanskrit": "ब्रह्मादिषु पञ्चसु पञ्चमस्य सदाशिवस्य स्त्री ।",
+    "translation": {
+      "en": "The consort of Sadāśiva, the fifth among the five beginning with Brahmā.",
+      "hi": "ब्रह्मा आदि पाँचों में पाँचवें, सदाशिव, की पत्नी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 948 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. Bhāskararāya’s readings through the five ma-kāras of Tantric ritual are only alluded to, without detail, since he himself defers them to a teacher. That Vārāhī is Daṇḍanāthā, commander of the army, is general Lalitopākhyāna context, not stated by him here."
+  }
+}

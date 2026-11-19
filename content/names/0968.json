@@ -1,0 +1,66 @@
+{
+  "number": 968,
+  "verse": 177,
+  "slug": "sukha-kari",
+  "devanagari": "सुखकरी",
+  "iastSplit": "Sukha-karī",
+  "archana": "ॐ सुखकर्यै नमः",
+  "syllables": [
+    "su",
+    "kha",
+    "ka",
+    "rī"
+  ],
+  "words": [
+    {
+      "sa": "सुख",
+      "meaning": {
+        "en": "happiness",
+        "hi": "सुख"
+      }
+    },
+    {
+      "sa": "करी",
+      "meaning": {
+        "en": "she who makes",
+        "hi": "करने वाली"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "She who brings happiness",
+    "hi": "सुख देने वाली"
+  },
+  "explanation": {
+    "en": "She is the maker of happiness. Bhāskararāya notes that the grammar of the name describes a settled habit: bringing happiness is her very nature, not an occasional favour.",
+    "hi": "वे सुख की कर्ता हैं। भास्करराय बताते हैं कि नाम का व्याकरण एक स्थायी स्वभाव को दर्शाता है: सुख देना उनका स्वभाव ही है, कभी-कभार की कृपा नहीं।"
+  },
+  "inner": {
+    "en": "Beyond this he gives no hidden meaning. In reflection, the hymn has just named her peace itself (Śamātmikā), and here that peace turns outward as happiness given to others.",
+    "hi": "इससे आगे वे कोई गूढ़ अर्थ नहीं देते। चिन्तन के रूप में: स्तोत्र अभी उन्हें स्वयं शान्ति-स्वरूपा (शमात्मिका) कह चुका है, और यहाँ वही शान्ति दूसरों को दिए गए सुख के रूप में बाहर बहती है।"
+  },
+  "story": {
+    "en": "Names of happiness recur in the hymn: Sukhapradā (name 192), Sukhārādhyā (name 681), and Śarmadā only a few names earlier (name 953). Here it stands among the su names of this half-verse.",
+    "hi": "सुख के नाम स्तोत्र में बार-बार आते हैं: सुखप्रदा (नाम 192), सुखाराध्या (नाम 681), और कुछ ही नाम पहले शर्मदा (नाम 953)। यहाँ यह इस अर्धश्लोक के ‘सु’ नामों के बीच है।"
+  },
+  "commentary": {
+    "sanskrit": "सुखकर्तृत्वात्सुखकरी ।",
+    "translation": {
+      "en": "Sukhakarī, because she is the maker of happiness.",
+      "hi": "सुख की कर्ता होने के कारण सुखकरी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 968 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. Bhāskararāya’s grammatical note says the suffix is used in the sense of habit (ताच्छील्ये); the edition names the suffix as णिनि, which a scholar may check. The inner layer is a reflection."
+  }
+}

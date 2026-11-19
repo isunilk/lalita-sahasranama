@@ -1,0 +1,57 @@
+{
+  "number": 955,
+  "verse": 176,
+  "slug": "dhara",
+  "devanagari": "धरा",
+  "iastSplit": "Dharā",
+  "archana": "ॐ धरायै नमः",
+  "syllables": [
+    "dha",
+    "rā"
+  ],
+  "words": [
+    {
+      "sa": "धरा",
+      "meaning": {
+        "en": "the earth; she who bears",
+        "hi": "पृथ्वी; धारण करने वाली"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "The Earth, who bears the whole world",
+    "hi": "पृथ्वी, जो समस्त जगत् को धारण करती हैं"
+  },
+  "explanation": {
+    "en": "Dharā means the earth, from the root dhṛ, “to hold, to bear”. She is the earth itself, and she holds up the whole world as the earth holds up all that lives on it.",
+    "hi": "‘धरा’ का अर्थ है पृथ्वी; यह ‘धृ’ धातु से बना है, जिसका अर्थ है धारण करना। वे स्वयं पृथ्वी हैं, और वे समस्त जगत् को वैसे ही धारण करती हैं जैसे पृथ्वी अपने ऊपर रहने वाले सब प्राणियों को।"
+  },
+  "inner": {
+    "en": "Bhāskararāya adds that she is the letter la, quoting the Jñānārṇava, which calls la the earth goddess, with her mountains, forests and groves, holding the fifty sacred seats and all the places of pilgrimage. The earth here is a goddess, not mere ground.",
+    "hi": "भास्करराय यह भी कहते हैं कि वे ‘ल’कार हैं, और ज्ञानार्णव उद्धृत करते हैं, जो ‘ल’ को पृथ्वी देवी कहता है, पर्वतों, वनों और काननों सहित, पचास पीठों से युक्त और सर्वतीर्थमयी। यहाँ पृथ्वी केवल भूमि नहीं, एक देवी है।"
+  },
+  "story": {
+    "en": "The first half of the verse is a run of names on the syllable dha: Dharā, Dharasutā, Dhanyā, Dharmiṇī, Dharmavardhinī. The earth as a mother who bears and feeds all beings is one of the oldest images in Indian thought.",
+    "hi": "श्लोक का पहला अर्धभाग ‘ध’ से आरम्भ होने वाले नामों की श्रृंखला है: धरा, धरसुता, धन्या, धर्मिणी, धर्मवर्धिनी। सब प्राणियों को धारण और पोषण करने वाली माता के रूप में पृथ्वी भारतीय चिन्तन के सबसे प्राचीन चित्रों में है।"
+  },
+  "commentary": {
+    "sanskrit": "धरा पृथ्वीस्वरूपा सर्वस्य जगतो धारणाद्वा ।",
+    "translation": {
+      "en": "Dharā: she whose form is the earth; or so called because she bears the whole world.",
+      "hi": "धरा: पृथ्वी-स्वरूपा; अथवा समस्त जगत् को धारण करने के कारण।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 955 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The edition prints the verse line as धराधरसुता, but Bhāskararāya explains धरा and धरसुता as two names, as in the master text."
+  }
+}

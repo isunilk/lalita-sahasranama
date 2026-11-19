@@ -1,0 +1,73 @@
+{
+  "number": 983,
+  "verse": 180,
+  "slug": "trikhandeshi",
+  "devanagari": "त्रिखण्डेशी",
+  "iastSplit": "Tri-khaṇḍeśī",
+  "archana": "ॐ त्रिखण्डेश्यै नमः",
+  "syllables": [
+    "tri",
+    "khaṇ",
+    "ḍe",
+    "śī"
+  ],
+  "words": [
+    {
+      "sa": "त्रि",
+      "meaning": {
+        "en": "three",
+        "hi": "तीन"
+      }
+    },
+    {
+      "sa": "खण्ड",
+      "meaning": {
+        "en": "part, section",
+        "hi": "खण्ड, भाग"
+      }
+    },
+    {
+      "sa": "ईशी",
+      "meaning": {
+        "en": "sovereign lady",
+        "hi": "स्वामिनी"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Mistress of Trikhaṇḍā, the tenth mudrā",
+    "hi": "दसवीं मुद्रा त्रिखण्डा की स्वामिनी"
+  },
+  "explanation": {
+    "en": "Trikhaṇḍā, “the three-parted”, is the tenth of the ten mudrās. Bhāskararāya says she is its mistress, the one to whom it belongs.",
+    "hi": "त्रिखण्डा, अर्थात् ‘तीन खण्डों वाली’, दस मुद्राओं में दसवीं है। भास्करराय कहते हैं कि वे उसकी स्वामिनी हैं।"
+  },
+  "inner": {
+    "en": "His second reading takes the three parts to be the three sections of her mantra, named Soma, Sūrya and Anala, moon, sun and fire, and makes her the ruler of all three. The meaning is that her whole mantra, in each of its parts, is under her lordship; the mantra itself is learned from a teacher.",
+    "hi": "उनका दूसरा अर्थ तीन खण्डों को उनके मन्त्र के तीन भाग मानता है, जिनके नाम सोम, सूर्य और अनल, अर्थात् चन्द्र, सूर्य और अग्नि, हैं, और उन्हें तीनों की स्वामिनी बताता है। अर्थ यह है कि उनका सम्पूर्ण मन्त्र, अपने हर भाग में, उन्हीं के स्वामित्व में है; मन्त्र स्वयं गुरु से सीखा जाता है।"
+  },
+  "story": {
+    "en": "With this name the sequence of mudrās that began with Daśamudrāsamārādhyā is complete. Moon, sun and fire as a triad recur throughout Śrīvidyā, and the next names keep counting in threes: Triguṇā and Trikoṇagā.",
+    "hi": "इस नाम के साथ दशमुद्रासमाराध्या से आरम्भ हुई मुद्राओं की श्रृंखला पूरी होती है। चन्द्र, सूर्य और अग्नि की त्रयी श्रीविद्या में बार-बार आती है, और अगले नाम भी तीन की संख्या पर चलते हैं: त्रिगुणा और त्रिकोणगा।"
+  },
+  "commentary": {
+    "sanskrit": "त्रिखण्डाख्याया दशम्या मुद्राया ईशी स्वामिनी ।",
+    "translation": {
+      "en": "The īśī, mistress, of the tenth mudrā, called Trikhaṇḍā.",
+      "hi": "त्रिखण्डा नाम की दसवीं मुद्रा की ईशी, अर्थात् स्वामिनी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 983 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The three mantra sections are only named, as Bhāskararāya names them; no syllables are given."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "number": 972,
+  "verse": 178,
+  "slug": "ashobhana",
+  "devanagari": "आशोभना",
+  "iastSplit": "Ā-śobhanā",
+  "archana": "ॐ आशोभनायै नमः",
+  "syllables": [
+    "ā",
+    "śo",
+    "bha",
+    "nā"
+  ],
+  "words": [
+    {
+      "sa": "आ",
+      "meaning": {
+        "en": "all around, completely",
+        "hi": "चारों ओर से, पूर्णतः"
+      }
+    },
+    {
+      "sa": "शोभना",
+      "meaning": {
+        "en": "beautiful, radiant",
+        "hi": "सुन्दर, शोभायमान"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Beautiful on every side",
+    "hi": "सब ओर से शोभायमान"
+  },
+  "explanation": {
+    "en": "The prefix ā here means “all around, completely”. She is beautiful from every side and in every way; there is no view of her in which her beauty is less.",
+    "hi": "यहाँ ‘आ’ उपसर्ग का अर्थ है ‘चारों ओर से, पूर्ण रूप से’। वे हर ओर से और हर प्रकार से सुन्दर हैं; उनका कोई भी दर्शन ऐसा नहीं जिसमें उनका सौन्दर्य कम हो।"
+  },
+  "inner": {
+    "en": "Bhāskararāya makes a point of saying that this is a name of four syllables, ā-śo-bha-nā, and glosses it as “beautiful all around”. He gives no hidden meaning. In reflection, the beauty of a thing seen from one side is partial; hers is whole.",
+    "hi": "भास्करराय विशेष रूप से कहते हैं कि यह चार अक्षरों का नाम है, आ-शो-भ-ना, और इसका अर्थ देते हैं ‘सब ओर से सौन्दर्यवती’। वे कोई गूढ़ अर्थ नहीं देते। चिन्तन के रूप में: किसी वस्तु का एक ओर से देखा सौन्दर्य अधूरा होता है; उनका सौन्दर्य पूर्ण है।"
+  },
+  "story": {
+    "en": "In the verse this name is fused with the one before (prītā + āśobhanā), and the double avagraha (ऽऽ) of the printed text marks the long ā. That long ā sets it apart from Śobhanā, name 462.",
+    "hi": "श्लोक में यह नाम पिछले नाम से सन्धि द्वारा जुड़ा है (प्रीता + आशोभना), और मुद्रित पाठ का दोहरा अवग्रह (ऽऽ) दीर्घ ‘आ’ को दर्शाता है। यही दीर्घ ‘आ’ इसे नाम 462, ‘शोभना’, से अलग करता है।"
+  },
+  "commentary": {
+    "sanskrit": "आशोभनेति चतुरक्षरं नाम । समन्ततः सौन्दर्यवती ।",
+    "translation": {
+      "en": "Āśobhanā is a name of four syllables: she who is beautiful on all sides.",
+      "hi": "‘आशोभना’ चार अक्षरों का नाम है: सब ओर से सौन्दर्यवती।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 972 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The edition’s verse heading has a single avagraha (प्रीताऽशोभना), but Bhāskararāya’s comment confirms the four-syllable name आशोभना, as in the master text. The last sentence of the inner layer is a reflection."
+  }
+}

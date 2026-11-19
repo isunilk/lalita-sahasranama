@@ -1,0 +1,66 @@
+{
+  "number": 982,
+  "verse": 180,
+  "slug": "yoni-mudra",
+  "devanagari": "योनिमुद्रा",
+  "iastSplit": "Yoni-mudrā",
+  "archana": "ॐ योनिमुद्रायै नमः",
+  "syllables": [
+    "yo",
+    "ni",
+    "mud",
+    "rā"
+  ],
+  "words": [
+    {
+      "sa": "योनि",
+      "meaning": {
+        "en": "source, womb; the triangle of the Śrīcakra",
+        "hi": "योनि, उद्गम; श्रीचक्र का त्रिकोण"
+      }
+    },
+    {
+      "sa": "मुद्रा",
+      "meaning": {
+        "en": "gesture; seal; also mud-rā, “giver of joy”",
+        "hi": "मुद्रा; मुहर; ‘मुद्-रा’, आनन्द देने वाली, भी"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Yonimudrā, the ninth mudrā; seal of the source",
+    "hi": "योनिमुद्रा, नौवीं मुद्रा; उद्गम की मुद्रा"
+  },
+  "explanation": {
+    "en": "Yoni means source or womb, and in Śrīvidyā it names the triangle at the heart of the Śrīcakra. Bhāskararāya says she is the ninth of the ten mudrās of the previous verse, and that she gives joy (mud-rā) in the yoni, the source.",
+    "hi": "‘योनि’ का अर्थ है उद्गम या गर्भ, और श्रीविद्या में यह श्रीचक्र के हृदय में स्थित त्रिकोण का नाम है। भास्करराय कहते हैं कि वे पिछले श्लोक की दस मुद्राओं में नौवीं हैं, और वे योनि, अर्थात् उद्गम, में आनन्द देती हैं।"
+  },
+  "inner": {
+    "en": "He also reads mudrā as a seal or covering: the yoni, the triangle, is the seal that encloses the bindu, and she is that bindu. He mentions a further yogic sense, tied to a practice which he says is known only from a teacher’s mouth; it is not described here.",
+    "hi": "वे ‘मुद्रा’ को मुहर या आवरण के अर्थ में भी लेते हैं: योनि, अर्थात् त्रिकोण, वह मुद्रा है जो बिन्दु को घेरती है, और वे वही बिन्दु हैं। वे एक और योगिक अर्थ का उल्लेख करते हैं, जो एक ऐसी साधना से जुड़ा है जिसे वे केवल गुरुमुख से जानने योग्य बताते हैं; उसका वर्णन यहाँ नहीं किया गया।"
+  },
+  "story": {
+    "en": "This verse carries on the mudrās of the last: Yonimudrā is the ninth, and Trikhaṇḍeśī, the next name, is mistress of the tenth. Trikoṇagā, three names on, returns to the same triangle.",
+    "hi": "यह श्लोक पिछले श्लोक की मुद्राओं को आगे बढ़ाता है: योनिमुद्रा नौवीं है, और अगला नाम त्रिखण्डेशी दसवीं की स्वामिनी है। तीन नाम बाद ‘त्रिकोणगा’ उसी त्रिकोण पर लौटता है।"
+  },
+  "commentary": {
+    "sanskrit": "योनौ मुदं राति । नवममुद्रारूपा वा ।",
+    "translation": {
+      "en": "She gives joy (mud) in the yoni. Or, she is the ninth mudrā.",
+      "hi": "वे योनि में आनन्द (मुद्) देती हैं। अथवा, वे नौवीं मुद्रा का रूप हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 982 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. Bhāskararāya’s yogic reading (a bodily region and a method of “sealing” to remove defects of mantra) is mentioned only as existing, without detail, as he defers it to a teacher. The edition prints आछादिका, evidently for आच्छादिका; that sentence is paraphrased, not quoted."
+  }
+}

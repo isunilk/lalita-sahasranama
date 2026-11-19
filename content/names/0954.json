@@ -1,0 +1,67 @@
+{
+  "number": 954,
+  "verse": 175,
+  "slug": "shambhu-mohini",
+  "devanagari": "शम्भुमोहिनी",
+  "iastSplit": "Śambhu-mohinī",
+  "archana": "ॐ शम्भुमोहिन्यै नमः",
+  "syllables": [
+    "śam",
+    "bhu",
+    "mo",
+    "hi",
+    "nī"
+  ],
+  "words": [
+    {
+      "sa": "शम्भु",
+      "meaning": {
+        "en": "Śambhu, Śiva, “source of happiness”",
+        "hi": "शम्भु, शिव, ‘सुख के उद्गम’"
+      }
+    },
+    {
+      "sa": "मोहिनी",
+      "meaning": {
+        "en": "enchantress",
+        "hi": "मोहित करने वाली"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Enchantress of Śambhu",
+    "hi": "शम्भु को मोहित करने वाली"
+  },
+  "explanation": {
+    "en": "Śambhu is a name of Śiva, the great ascetic whom nothing in the world can stir. She alone enchants him.",
+    "hi": "‘शम्भु’ शिव का नाम है, वे महायोगी जिन्हें संसार की कोई वस्तु विचलित नहीं कर सकती। केवल वे ही उन्हें मोहित करती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya first explains the name Śambhu: he is the one who brings śam, happiness, into being, or in whom it comes to be. So this name joins the one before: she gives happiness, and she enchants its very source. He gives no further hidden meaning.",
+    "hi": "भास्करराय पहले ‘शम्भु’ नाम समझाते हैं: जो शम्, अर्थात् सुख, को उत्पन्न करते हैं, या जिनमें वह प्रकट होता है। इस प्रकार यह नाम पिछले नाम से जुड़ता है: वे सुख देती हैं, और सुख के उद्गम को ही मोहित करती हैं। इससे आगे वे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "The hymn returns often to this theme. Early on it says her smile floods the mind of Kāmeśa, her Lord (name 28), and the Lalitopākhyāna tells how, after she rose from the fire, she was wedded to Kāmeśvara.",
+    "hi": "स्तोत्र बार-बार इस भाव पर लौटता है। आरम्भ में ही वह कहता है कि उनकी मुस्कान की प्रभा उनके स्वामी कामेश के मन को डुबो देती है (नाम 28), और ललितोपाख्यान बताता है कि अग्नि से प्रकट होने के बाद उनका विवाह कामेश्वर से हुआ।"
+  },
+  "commentary": {
+    "sanskrit": "शम्भुं मोहयतीति वा शम्भुमोहिनी ।",
+    "translation": {
+      "en": "Or, she enchants Śambhu: hence Śambhumohinī.",
+      "hi": "अथवा, जो शम्भु को मोहित करती हैं, वे शम्भुमोहिनी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 954 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The Lalitopākhyāna marriage is general context, not cited by Bhāskararāya here."
+  }
+}

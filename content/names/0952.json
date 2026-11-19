@@ -1,0 +1,67 @@
+{
+  "number": 952,
+  "verse": 175,
+  "slug": "shashvataishvarya",
+  "devanagari": "शाश्वतैश्वर्या",
+  "iastSplit": "Śāśvataiśvaryā",
+  "archana": "ॐ शाश्वतैश्वर्यायै नमः",
+  "syllables": [
+    "śāś",
+    "va",
+    "taiś",
+    "var",
+    "yā"
+  ],
+  "words": [
+    {
+      "sa": "शाश्वत",
+      "meaning": {
+        "en": "eternal",
+        "hi": "शाश्वत, नित्य"
+      }
+    },
+    {
+      "sa": "ऐश्वर्य",
+      "meaning": {
+        "en": "sovereignty, lordship",
+        "hi": "ऐश्वर्य, स्वामित्व"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Whose sovereignty is eternal",
+    "hi": "जिनका ऐश्वर्य शाश्वत है"
+  },
+  "explanation": {
+    "en": "Aiśvarya is lordship, the power and splendour of a ruler. The lordship of kings, and even of gods, comes and goes; hers never ends.",
+    "hi": "‘ऐश्वर्य’ स्वामित्व है, शासक की शक्ति और वैभव। राजाओं और देवताओं तक का ऐश्वर्य आता-जाता है; उनका ऐश्वर्य कभी समाप्त नहीं होता।"
+  },
+  "inner": {
+    "en": "Bhāskararāya supports the plain sense with a Vedic line: “theirs is the eternal attainment, and no one else’s”. He then reads a hidden ī at the start of the name, giving īśa-aśvatā: the lords of the world, the five pretas, serve as her mounts. The meaning, he says, is that she is seated on the five pretas (names 249 and 947).",
+    "hi": "भास्करराय सीधे अर्थ के समर्थन में श्रुति उद्धृत करते हैं: ‘शाश्वत सिद्धि उन्हीं की है, दूसरों की नहीं’। फिर वे नाम के आरम्भ में एक छिपा हुआ ‘ई’ पढ़ते हैं, जिससे बनता है ‘ईश-अश्वता’: जगत् के ईश्वर, पाँच प्रेत, उनके वाहन बनते हैं। उनके अनुसार फलितार्थ यह है कि वे पञ्चप्रेतासन पर आरूढ़ हैं (नाम 249 और 947)।"
+  },
+  "story": {
+    "en": "The five pretas are Brahmā, Viṣṇu, Rudra, Īśvara and Sadāśiva, who form her seat or couch; in name 947, just before this verse, she reclines on that couch. Bhāskararāya’s wordplay finds the same picture hidden in this name.",
+    "hi": "पाँच प्रेत हैं ब्रह्मा, विष्णु, रुद्र, ईश्वर और सदाशिव, जो उनका आसन या मञ्च बनते हैं; इस श्लोक से ठीक पहले, नाम 947 में, वे उसी मञ्च पर शयन करती हैं। भास्करराय का यह शब्द-विन्यास वही चित्र इस नाम में भी खोज लेता है।"
+  },
+  "commentary": {
+    "sanskrit": "शाश्वतं नित्यमैश्वर्यं यस्याः ।",
+    "translation": {
+      "en": "She whose aiśvarya, sovereignty, is śāśvata, eternal.",
+      "hi": "जिनका ऐश्वर्य शाश्वत, अर्थात् नित्य, है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 952 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The ī-praśleṣa reading (ईश + अश्वता) is Bhāskararāya’s; a scholar may wish to check the rendering."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "number": 964,
+  "verse": 177,
+  "slug": "bandhuka-kusuma-prakhya",
+  "devanagari": "बन्धूककुसुमप्रख्या",
+  "iastSplit": "Bandhūka-kusuma-prakhyā",
+  "archana": "ॐ बन्धूककुसुमप्रख्यायै नमः",
+  "syllables": [
+    "ban",
+    "dhū",
+    "ka",
+    "ku",
+    "su",
+    "map",
+    "rakh",
+    "yā"
+  ],
+  "words": [
+    {
+      "sa": "बन्धूक",
+      "meaning": {
+        "en": "bandhūka (bandhujīvaka), a plant with deep red flowers",
+        "hi": "बन्धूक (बन्धुजीवक), गहरे लाल फूलों वाला पौधा"
+      }
+    },
+    {
+      "sa": "कुसुम",
+      "meaning": {
+        "en": "flower",
+        "hi": "पुष्प, फूल"
+      }
+    },
+    {
+      "sa": "प्रख्या",
+      "meaning": {
+        "en": "lustre, radiance",
+        "hi": "कान्ति, आभा"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Radiant like the red bandhūka flower",
+    "hi": "बन्धूक-पुष्प जैसी अरुण कान्ति वाली"
+  },
+  "explanation": {
+    "en": "Her lustre is like the bandhūka flower, a deep, glowing red. Bhāskararāya identifies the bandhūka with the bandhujīvaka, which he describes as a large tree well known in Bengal, and adds that the name means her radiance is the reddest of reds.",
+    "hi": "उनकी कान्ति बन्धूक के फूल जैसी है, गहरी दमकती लाल। भास्करराय बन्धूक को बन्धुजीवक बताते हैं, जिसे वे वङ्ग देश में प्रसिद्ध एक बड़ा वृक्ष कहते हैं, और जोड़ते हैं कि इस नाम का अर्थ है उनकी कान्ति अत्यन्त अरुण है।"
+  },
+  "inner": {
+    "en": "He gives no hidden meaning beyond the colour. Red is her colour throughout the hymn, and in his comment on name 992 he quotes a line hailing “a certain compassion, red in hue”: the redness is her compassion made visible.",
+    "hi": "रंग के अतिरिक्त वे कोई गूढ़ अर्थ नहीं देते। पूरे स्तोत्र में लाल उनका रंग है, और नाम 992 की टीका में वे एक पंक्ति उद्धृत करते हैं जो ‘एक अनोखी अरुण करुणा’ की जय कहती है: यह लालिमा उनकी करुणा का दृश्य रूप है।"
+  },
+  "story": {
+    "en": "The dhyāna verse recited before the hymn pictures her as red as vermilion (sindūrāruṇa-vigrahā), and an early name speaks of the flood of her rosy radiance (name 12). The hymn has also likened her to the sun (Raviprakhyā, name 596).",
+    "hi": "स्तोत्र से पहले पढ़ा जाने वाला ध्यान-श्लोक उन्हें सिन्दूर जैसी अरुण देह वाली (सिन्दूरारुणविग्रहा) बताता है, और एक आरम्भिक नाम उनकी अरुण प्रभा की बाढ़ की बात करता है (नाम 12)। स्तोत्र उन्हें सूर्य के समान भी कह चुका है (रविप्रख्या, नाम 596)।"
+  },
+  "commentary": {
+    "sanskrit": "बन्धूको बन्धुजीवको वङ्गदेशप्रसिद्धो महावृक्षस्तस्य कुसुमं पुष्पं तस्येव प्रख्या कान्तिर्यस्याः ।",
+    "translation": {
+      "en": "The bandhūka is the bandhujīvaka, a great tree well known in Bengal; she whose lustre is like its flower.",
+      "hi": "बन्धूक, अर्थात् बन्धुजीवक, वङ्ग देश में प्रसिद्ध एक बड़ा वृक्ष है; जिनकी कान्ति उसके पुष्प जैसी है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 964 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. Bhāskararāya calls the bandhūka a great tree (महावृक्ष); it is usually identified with a small flowering plant, so the botanical identification is left in his words. The “red compassion” line is quoted by him under name 992, not here; the last clause of the inner layer is a reflection."
+  }
+}

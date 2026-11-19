@@ -1,0 +1,74 @@
+{
+  "number": 976,
+  "verse": 178,
+  "slug": "tripurambika",
+  "devanagari": "त्रिपुराम्बिका",
+  "iastSplit": "Tripurāmbikā",
+  "archana": "ॐ त्रिपुराम्बिकायै नमः",
+  "syllables": [
+    "tri",
+    "pu",
+    "rām",
+    "bi",
+    "kā"
+  ],
+  "words": [
+    {
+      "sa": "त्रि",
+      "meaning": {
+        "en": "three",
+        "hi": "तीन"
+      }
+    },
+    {
+      "sa": "पुर",
+      "meaning": {
+        "en": "city; here a state of experience",
+        "hi": "पुर, नगर; यहाँ अवस्था"
+      }
+    },
+    {
+      "sa": "अम्बिका",
+      "meaning": {
+        "en": "mother",
+        "hi": "माता"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Tripurāmbikā, Mother of the three cities",
+    "hi": "त्रिपुराम्बिका, तीनों पुरों की माता"
+  },
+  "explanation": {
+    "en": "Ambikā means mother. Bhāskararāya first takes the name as Tripurāmbā, the goddess who presides over the eighth enclosure of the Śrīcakra. He then reads it as the mother of the three cities, which are states of experience.",
+    "hi": "‘अम्बिका’ का अर्थ है माता। भास्करराय पहले इस नाम को ‘त्रिपुराम्बा’ लेते हैं, वह देवी जो श्रीचक्र के आठवें आवरण की अधिष्ठात्री हैं। फिर वे इसे तीनों पुरों की माता के रूप में पढ़ते हैं, जो अवस्थाओं के रूप हैं।"
+  },
+  "inner": {
+    "en": "The three cities are the states of waking, dream and deep sleep, and she gives birth to them. Or tripura is the individual soul, which lives in those three cities, as the Upaniṣadic line says: “the soul that plays in the three cities”; she is its mother, and souls come forth from her as sparks fly from a fire.",
+    "hi": "तीन पुर जाग्रत्, स्वप्न और सुषुप्ति की अवस्थाएँ हैं, और वे उनकी जननी हैं। अथवा ‘त्रिपुर’ जीव है, जो इन तीनों पुरों में रहता है, जैसा उपनिषद् कहता है: ‘जो जीव तीनों पुरों में क्रीड़ा करता है’; वे उसकी माता हैं, और जैसे अग्नि से चिंगारियाँ निकलती हैं वैसे ही जीव उनसे प्रकट होते हैं।"
+  },
+  "story": {
+    "en": "In Śrīcakra worship each of the nine enclosures has its own presiding form of the Devī, each named after Tripurā; Tripurāmbā presides over the eighth, the inner triangle. Two names later the hymn names Tripurāśrī, who presides over the fifth.",
+    "hi": "श्रीचक्र-पूजा में नौ आवरणों में से प्रत्येक की अपनी अधिष्ठात्री देवी हैं, और सबके नाम ‘त्रिपुरा’ से जुड़े हैं; त्रिपुराम्बा आठवें आवरण, भीतरी त्रिकोण, की अधिष्ठात्री हैं। दो नाम बाद स्तोत्र त्रिपुराश्री का नाम लेता है, जो पाँचवें आवरण की अधिष्ठात्री हैं।"
+  },
+  "commentary": {
+    "sanskrit": "त्रयाणां पुराणामवस्थारूपाणामम्बिका जनिका वा ।",
+    "translation": {
+      "en": "Or the Ambikā, the mother, of the three cities, which are the states of experience.",
+      "hi": "अथवा तीनों पुरों की अम्बिका, अर्थात् जननी, जो अवस्थाओं के रूप हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 976 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The identification of the three states as waking, dream and sleep, and of the eighth enclosure as the inner triangle, is standard but not spelled out by Bhāskararāya here. He also cites a saying that she is mother of the puras beginning with Vāmā; that reading is not used. The Upaniṣadic line (पुरत्रये क्रीडति यश्च जीवः) appears in the Kaivalya Upaniṣad; he cites it only as śruti."
+  }
+}

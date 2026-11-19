@@ -1,0 +1,66 @@
+{
+  "number": 980,
+  "verse": 179,
+  "slug": "jnana-gamya",
+  "devanagari": "ज्ञानगम्या",
+  "iastSplit": "Jñāna-gamyā",
+  "archana": "ॐ ज्ञानगम्यायै नमः",
+  "syllables": [
+    "jñā",
+    "na",
+    "gam",
+    "yā"
+  ],
+  "words": [
+    {
+      "sa": "ज्ञान",
+      "meaning": {
+        "en": "knowledge",
+        "hi": "ज्ञान"
+      }
+    },
+    {
+      "sa": "गम्या",
+      "meaning": {
+        "en": "to be reached, to be known",
+        "hi": "प्राप्य, जानने योग्य"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "She who is reached through knowledge",
+    "hi": "ज्ञान से प्राप्त होने वाली"
+  },
+  "explanation": {
+    "en": "Gamyā means “to be reached”. Bhāskararāya gives two senses: she is the object that knowledge comes to know, and she is attained through knowledge.",
+    "hi": "‘गम्या’ का अर्थ है ‘जिस तक पहुँचा जाए’। भास्करराय दो अर्थ देते हैं: वे वह विषय हैं जिसे ज्ञान जानता है, और वे ज्ञान से प्राप्त होती हैं।"
+  },
+  "inner": {
+    "en": "He quotes the Kūrma Purāṇa, where the Devī herself says that her partless form, pure consciousness, auspicious, free of every limiting adjunct, infinite and immortal, is gained by knowledge alone, and that those who see by knowledge enter into her. It is the Upaniṣads’ path of knowledge, spoken in the Goddess’s own voice.",
+    "hi": "वे कूर्म पुराण उद्धृत करते हैं, जहाँ स्वयं देवी कहती हैं कि उनका निष्कल रूप, जो केवल चिन्मात्र, शिव, सब उपाधियों से मुक्त, अनन्त और अमृत है, केवल ज्ञान से प्राप्त होता है, और जो ज्ञान से देखते हैं वे उन्हीं में प्रवेश करते हैं। यह उपनिषदों का ज्ञान-मार्ग है, देवी की अपनी वाणी में।"
+  },
+  "story": {
+    "en": "The hymn has called her Bhaktigamyā, reached through devotion (name 119); here she is reached through knowledge. The two names are two paths to the same Mother.",
+    "hi": "स्तोत्र उन्हें ‘भक्तिगम्या’, भक्ति से प्राप्त होने वाली, कह चुका है (नाम 119); यहाँ वे ज्ञान से प्राप्त होती हैं। दोनों नाम एक ही माँ तक पहुँचने के दो मार्ग हैं।"
+  },
+  "commentary": {
+    "sanskrit": "ज्ञानेन गम्या विषया । ज्ञानेन प्राप्या वा ।",
+    "translation": {
+      "en": "To be reached by knowledge, that is, its object. Or, attainable through knowledge.",
+      "hi": "ज्ञान से गम्या, अर्थात् उसका विषय; अथवा, ज्ञान से प्राप्य।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 980 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The Kūrma Purāṇa passage is paraphrased, not translated in full."
+  }
+}

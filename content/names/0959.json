@@ -1,0 +1,67 @@
+{
+  "number": 959,
+  "verse": 176,
+  "slug": "dharma-vardhini",
+  "devanagari": "धर्मवर्धिनी",
+  "iastSplit": "Dharma-vardhinī",
+  "archana": "ॐ धर्मवर्धिन्यै नमः",
+  "syllables": [
+    "dhar",
+    "ma",
+    "var",
+    "dhi",
+    "nī"
+  ],
+  "words": [
+    {
+      "sa": "धर्म",
+      "meaning": {
+        "en": "dharma, righteousness",
+        "hi": "धर्म"
+      }
+    },
+    {
+      "sa": "वर्धिनी",
+      "meaning": {
+        "en": "she who makes grow",
+        "hi": "बढ़ाने वाली"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "She who makes dharma grow",
+    "hi": "धर्म की वृद्धि करने वाली"
+  },
+  "explanation": {
+    "en": "She increases dharma in the world and in each person. Bhāskararāya quotes the Vāmana Purāṇa: self-control, purity, auspicious conduct and devotion to Śaṅkara, the Sun and the Devī are the dharma of human beings, and Śiva with Ambā, when meditated on, makes these grow.",
+    "hi": "वे संसार में और प्रत्येक व्यक्ति में धर्म की वृद्धि करती हैं। भास्करराय वामन पुराण उद्धृत करते हैं: इन्द्रिय-निग्रह, शौच, मांगल्य, और शङ्कर, सूर्य तथा देवी के प्रति भक्ति, यह मनुष्य का धर्म है, और ध्यान किए जाने पर अम्बा सहित शिव इन धर्मों को बढ़ाते हैं।"
+  },
+  "inner": {
+    "en": "His second reading is bolder. Taking the root in the sense “to cut”, he reads that she cuts away the whole visible world, which is mere dharma, a property resting on Brahman as its ground. So she both nurtures right living and, in the end, cuts through all appearance to what is real.",
+    "hi": "उनका दूसरा अर्थ अधिक साहसिक है। धातु को ‘काटने’ के अर्थ में लेकर वे पढ़ते हैं कि वे समस्त दृश्य जगत् को काट देती हैं, जो केवल ‘धर्म’ है, ब्रह्म रूपी आधार पर टिका हुआ एक गुण। इस प्रकार वे सदाचार का पोषण भी करती हैं और अन्त में सारे दृश्य-प्रपञ्च को काटकर सत्य तक ले जाती हैं।"
+  },
+  "story": {
+    "en": "Read with the name before, the pair covers both sides of dharma: she holds it and she makes it flourish. The run of dha names ends here, and the next half-verse turns to her transcendence.",
+    "hi": "पिछले नाम के साथ पढ़ने पर यह जोड़ी धर्म के दोनों पक्ष समेटती है: वे उसे धारण करती हैं और उसे फलने-फूलने देती हैं। ‘ध’ से आरम्भ होने वाले नाम यहीं समाप्त होते हैं, और अगला अर्धश्लोक उनकी लोकातीतता की ओर मुड़ता है।"
+  },
+  "commentary": {
+    "sanskrit": "धर्मं वर्धयतीति धर्मवर्धिनी ।",
+    "translation": {
+      "en": "She makes dharma grow: hence Dharmavardhinī.",
+      "hi": "जो धर्म को बढ़ाती हैं, वे धर्मवर्धिनी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 959 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. Bhāskararāya’s second reading rests on a root वृधु in the sense of cutting (वृधु छेदने), as printed; a scholar may check the root. The final clause of the inner layer is a reflection."
+  }
+}

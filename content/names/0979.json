@@ -1,0 +1,66 @@
+{
+  "number": 979,
+  "verse": 179,
+  "slug": "jnana-mudra",
+  "devanagari": "ज्ञानमुद्रा",
+  "iastSplit": "Jñāna-mudrā",
+  "archana": "ॐ ज्ञानमुद्रायै नमः",
+  "syllables": [
+    "jñā",
+    "na",
+    "mud",
+    "rā"
+  ],
+  "words": [
+    {
+      "sa": "ज्ञान",
+      "meaning": {
+        "en": "knowledge",
+        "hi": "ज्ञान"
+      }
+    },
+    {
+      "sa": "मुद्रा",
+      "meaning": {
+        "en": "gesture; read also as mud-rā, “giver of joy”",
+        "hi": "मुद्रा; ‘मुद्-रा’, आनन्द देने वाली, भी"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "The gesture of knowledge; she who gives joy through knowledge",
+    "hi": "ज्ञानमुद्रा; ज्ञान से आनन्द देने वाली"
+  },
+  "explanation": {
+    "en": "Jñānamudrā is the gesture of knowledge, in which the tip of the index finger joins the thumb. Bhāskararāya says she is that gesture. He also divides mudrā into mud, joy, and rā, to give: she grants joy through knowledge.",
+    "hi": "ज्ञानमुद्रा ज्ञान की मुद्रा है, जिसमें तर्जनी का अग्रभाग अँगूठे से मिलता है। भास्करराय कहते हैं कि वे यही मुद्रा हैं। वे ‘मुद्रा’ को ‘मुद्’ (आनन्द) और ‘रा’ (देना) में भी बाँटते हैं: वे ज्ञान के द्वारा आनन्द देती हैं।"
+  },
+  "inner": {
+    "en": "The gesture is commonly explained as the individual self, the index finger, joined to the Supreme, the thumb, while the other three fingers stand apart. Bhāskararāya’s derivation says the same from the other side: knowing that union is what brings joy.",
+    "hi": "इस मुद्रा की प्रचलित व्याख्या है कि तर्जनी जीव है और अँगूठा परमात्मा, और दोनों का मिलन उनकी एकता है, जबकि शेष तीन उँगलियाँ अलग रहती हैं। भास्करराय की व्युत्पत्ति वही बात दूसरी ओर से कहती है: उस एकता का ज्ञान ही आनन्द देता है।"
+  },
+  "story": {
+    "en": "The gesture is familiar from images of Dakṣiṇāmūrti, Śiva as the silent teacher, and of many sages. Here it opens a half-verse on knowledge: Jñānamudrā, Jñānagamyā, Jñānajñeyasvarūpiṇī.",
+    "hi": "यह मुद्रा मौन गुरु के रूप में शिव, अर्थात् दक्षिणामूर्ति, और अनेक ऋषियों की प्रतिमाओं में परिचित है। यहाँ यह ज्ञान के विषय में एक अर्धश्लोक आरम्भ करती है: ज्ञानमुद्रा, ज्ञानगम्या, ज्ञानज्ञेयस्वरूपिणी।"
+  },
+  "commentary": {
+    "sanskrit": "तर्जन्यङ्गुष्ठयोगरूपज्ञानमुद्रारूपा वा ।",
+    "translation": {
+      "en": "Or she is the form of the jñānamudrā, the joining of the index finger and the thumb.",
+      "hi": "अथवा वे तर्जनी और अँगूठे के मिलन रूपी ज्ञानमुद्रा का स्वरूप हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 979 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. In the edition the gloss quoted here stands just before the heading of this half-verse, at the end of the comment on name 978, following the edition’s usual pattern for the first name of a half-verse. The meaning of the fingers in the inner layer is the common traditional explanation, not from Bhāskararāya. A third derivation he gives (ज्ञानं चिदंशं मुदमानन्दांशं द्रावयत्यावृणोतीति) is not used and needs a scholar’s reading."
+  }
+}

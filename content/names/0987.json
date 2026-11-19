@@ -1,0 +1,65 @@
+{
+  "number": 987,
+  "verse": 180,
+  "slug": "anagha",
+  "devanagari": "अनघा",
+  "iastSplit": "Anaghā",
+  "archana": "ॐ अनघायै नमः",
+  "syllables": [
+    "a",
+    "na",
+    "ghā"
+  ],
+  "words": [
+    {
+      "sa": "अन्",
+      "meaning": {
+        "en": "not, without",
+        "hi": "रहित, नहीं"
+      }
+    },
+    {
+      "sa": "अघ",
+      "meaning": {
+        "en": "sin; also sorrow and calamity",
+        "hi": "पाप; दुःख और विपत्ति भी"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "The Sinless One, untouched by sin or sorrow",
+    "hi": "निष्पाप, पाप और दुःख से अछूती"
+  },
+  "explanation": {
+    "en": "Agha means sin, and also sorrow and calamity. Bhāskararāya says that none of these is in her: she is free of wrongdoing, of suffering and of misfortune alike.",
+    "hi": "‘अघ’ का अर्थ है पाप, और दुःख तथा विपत्ति भी। भास्करराय कहते हैं कि इनमें से कुछ भी उनमें नहीं है: वे पाप, दुःख और विपत्ति, तीनों से मुक्त हैं।"
+  },
+  "inner": {
+    "en": "He gives only this sense. In reflection, the three meanings of agha belong together: wrongdoing brings sorrow, and sorrow arrives as misfortune. She in whom the first is absent is free of all three, and those who take refuge in her are drawn toward that freedom.",
+    "hi": "वे केवल यही अर्थ देते हैं। चिन्तन के रूप में: ‘अघ’ के तीनों अर्थ साथ चलते हैं: पाप से दुःख होता है, और दुःख विपत्ति बनकर आता है। जिनमें पहला ही नहीं, वे तीनों से मुक्त हैं, और जो उनकी शरण लेते हैं वे भी उसी मुक्ति की ओर खिंचते हैं।"
+  },
+  "story": {
+    "en": "The hymn has called her Niṣpāpā, without sin, and Pāpanāśinī, destroyer of sin (names 166 and 167). In the verse this name is joined by sandhi to the next (anaghā + adbhuta), marked by an avagraha.",
+    "hi": "स्तोत्र उन्हें ‘निष्पापा’ और ‘पापनाशिनी’ कह चुका है (नाम 166 और 167)। श्लोक में यह नाम सन्धि से अगले नाम से जुड़ा है (अनघा + अद्भुत), जिसे अवग्रह से दर्शाया गया है।"
+  },
+  "commentary": {
+    "sanskrit": "अंहोदुःखव्यसनान्यघानि न सन्ति यस्यां सानघा ।",
+    "translation": {
+      "en": "Aghas are sin, sorrow and calamity; she in whom they do not exist is Anaghā.",
+      "hi": "पाप, दुःख और विपत्ति ‘अघ’ हैं; जिनमें ये नहीं हैं, वे अनघा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 987 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The edition prints अनघाद्भुतचारित्रा without avagraha. The inner layer is a reflection."
+  }
+}

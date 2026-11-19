@@ -1,0 +1,65 @@
+{
+  "number": 953,
+  "verse": 175,
+  "slug": "sharma-da",
+  "devanagari": "शर्मदा",
+  "iastSplit": "Śarma-dā",
+  "archana": "ॐ शर्मदायै नमः",
+  "syllables": [
+    "śar",
+    "ma",
+    "dā"
+  ],
+  "words": [
+    {
+      "sa": "शर्मन्",
+      "meaning": {
+        "en": "happiness, well-being; also shelter",
+        "hi": "सुख, कल्याण; शरण भी"
+      }
+    },
+    {
+      "sa": "दा",
+      "meaning": {
+        "en": "giver",
+        "hi": "देने वाली"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Giver of happiness",
+    "hi": "सुख देने वाली"
+  },
+  "explanation": {
+    "en": "Śarma means happiness and well-being; in the Veda it also means shelter and protection. She gives both: the joy that people seek and the refuge in which they are safe.",
+    "hi": "‘शर्म’ का अर्थ है सुख और कल्याण; वेद में इसका अर्थ शरण और रक्षा भी है। वे दोनों देती हैं: वह आनन्द जिसे लोग खोजते हैं, और वह आश्रय जिसमें वे सुरक्षित हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya glosses the name in three words: she gives śarma, happiness. He gives no hidden meaning. In reflection, the happiness she gives is not apart from her: the next name calls her the enchantress of Śambhu, “he from whom happiness comes”.",
+    "hi": "भास्करराय नाम का अर्थ तीन शब्दों में देते हैं: जो शर्म, अर्थात् सुख, देती हैं। वे कोई गूढ़ अर्थ नहीं देते। चिन्तन के रूप में: वे जो सुख देती हैं वह उनसे अलग नहीं; अगला नाम उन्हें शम्भु, अर्थात् सुख के उद्गम, को मोहित करने वाली कहता है।"
+  },
+  "story": {
+    "en": "The hymn has already called her Śarmadāyinī, giver of happiness (name 125); the thought returns here in a shorter form.",
+    "hi": "स्तोत्र पहले उन्हें ‘शर्मदायिनी’, सुख देने वाली, कह चुका है (नाम 125); यहाँ वही भाव संक्षिप्त रूप में लौटता है।"
+  },
+  "commentary": {
+    "sanskrit": "शर्म सुखं दत्ते",
+    "translation": {
+      "en": "She gives śarma, happiness.",
+      "hi": "जो शर्म, अर्थात् सुख, देती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 953 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The edition runs this gloss into the next word (दत्तेशं, for दत्ते । शं); the quotation stops before the join. The Vedic sense “shelter” is general lexical context, not from Bhāskararāya. The last sentence of the inner layer is a reflection."
+  }
+}

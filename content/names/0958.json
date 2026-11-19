@@ -1,0 +1,58 @@
+{
+  "number": 958,
+  "verse": 176,
+  "slug": "dharmini",
+  "devanagari": "धर्मिणी",
+  "iastSplit": "Dharmiṇī",
+  "archana": "ॐ धर्मिण्यै नमः",
+  "syllables": [
+    "dhar",
+    "mi",
+    "ṇī"
+  ],
+  "words": [
+    {
+      "sa": "धर्मिणी",
+      "meaning": {
+        "en": "righteous by nature; bearer of qualities (dharma)",
+        "hi": "धर्मशीला; गुणों (धर्मों) की आधार"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "The Righteous One, bearer of all qualities",
+    "hi": "धर्मशीला, सब गुणों की आधार"
+  },
+  "explanation": {
+    "en": "Dharmiṇī is one whose nature is dharma, the right order of life. Bhāskararāya says she bears this name because righteousness is her very disposition.",
+    "hi": "‘धर्मिणी’ वह है जिसका स्वभाव धर्म है, अर्थात् जीवन की सही व्यवस्था। भास्करराय कहते हैं कि यह नाम इसलिए है कि धर्म ही उनका स्वभाव है।"
+  },
+  "inner": {
+    "en": "His second reading takes dharma in the philosopher’s sense of a property. A dharmin is that which bears properties, and she is the bearer of such qualities as the experience of bliss and eternity. So the qualities of the Absolute rest in her as their ground.",
+    "hi": "उनका दूसरा अर्थ ‘धर्म’ को दार्शनिक अर्थ में लेता है, अर्थात् गुण या विशेषता। ‘धर्मी’ वह है जिसमें गुण रहते हैं, और वे आनन्द-अनुभव, नित्यता आदि गुणों की आधार, अर्थात् विशेष्य, हैं। इस प्रकार परम तत्त्व के गुण उन्हीं में आश्रित हैं।"
+  },
+  "story": {
+    "en": "This name and the next belong together: Dharmiṇī holds dharma, Dharmavardhinī makes it grow. The hymn has already called her Dharmādhārā, the support of dharma (name 884).",
+    "hi": "यह नाम और अगला नाम साथ चलते हैं: ‘धर्मिणी’ धर्म को धारण करती हैं, ‘धर्मवर्धिनी’ उसे बढ़ाती हैं। स्तोत्र पहले उन्हें ‘धर्माधारा’, अर्थात् धर्म का आधार, कह चुका है (नाम 884)।"
+  },
+  "commentary": {
+    "sanskrit": "धर्मशीलत्वाद्धर्मिणी ।",
+    "translation": {
+      "en": "Dharmiṇī, because righteousness is her nature.",
+      "hi": "धर्मशील होने के कारण धर्मिणी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 958 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "number": 969,
+  "verse": 177,
+  "slug": "suveshadhya",
+  "devanagari": "सुवेषाढ्या",
+  "iastSplit": "Su-veṣāḍhyā",
+  "archana": "ॐ सुवेषाढ्यायै नमः",
+  "syllables": [
+    "su",
+    "ve",
+    "ṣāḍh",
+    "yā"
+  ],
+  "words": [
+    {
+      "sa": "सु",
+      "meaning": {
+        "en": "beautiful",
+        "hi": "सुन्दर"
+      }
+    },
+    {
+      "sa": "वेष",
+      "meaning": {
+        "en": "attire, dress and adornment",
+        "hi": "वेश, वस्त्र और आभूषण"
+      }
+    },
+    {
+      "sa": "आढ्या",
+      "meaning": {
+        "en": "rich in, endowed with",
+        "hi": "सम्पन्न, युक्त"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Richly adorned in beautiful attire",
+    "hi": "सुन्दर वेश से सम्पन्न"
+  },
+  "explanation": {
+    "en": "Veṣa is dress and adornment, and āḍhyā means rich in or endowed with. She is always beautifully attired, as befits the queen of the universe.",
+    "hi": "‘वेष’ का अर्थ है वस्त्र और आभूषण, और ‘आढ्या’ का अर्थ है सम्पन्न या युक्त। वे सदा सुन्दर वेश में रहती हैं, जैसा जगत् की महारानी को शोभा देता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the plain sense: she is endowed with beautiful attire. In reflection, her adornment is itself a kindness: it gives the devotee a form to see and to love.",
+    "hi": "भास्करराय केवल सीधा अर्थ देते हैं: वे सुन्दर वेश से युक्त हैं। चिन्तन के रूप में, उनका श्रृंगार भी एक कृपा है: वह भक्त को देखने और प्रेम करने के लिए एक रूप देता है।"
+  },
+  "story": {
+    "en": "The hymn’s opening names describe her attire in detail: the jewelled crown (name 14), the red silk at her waist (name 37), the tinkling anklets on her feet (name 46). This name gathers all of it into one word.",
+    "hi": "स्तोत्र के आरम्भिक नाम उनके वेश का विस्तार से वर्णन करते हैं: रत्नजटित मुकुट (नाम 14), कटि पर अरुण वस्त्र (नाम 37), और चरणों में झंकारते नूपुर (नाम 46)। यह नाम उस सबको एक शब्द में समेट लेता है।"
+  },
+  "commentary": {
+    "sanskrit": "शोभनेन वेषेणाढ्या युक्ता ।",
+    "translation": {
+      "en": "Āḍhyā, endowed, with beautiful attire.",
+      "hi": "शोभन वेश से आढ्या, अर्थात् युक्त।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 969 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The inner layer is a reflection."
+  }
+}

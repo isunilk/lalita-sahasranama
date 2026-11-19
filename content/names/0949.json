@@ -1,0 +1,74 @@
+{
+  "number": 949,
+  "verse": 175,
+  "slug": "pancha-bhuteshi",
+  "devanagari": "पञ्चभूतेशी",
+  "iastSplit": "Pañca-bhūteśī",
+  "archana": "ॐ पञ्चभूतेश्यै नमः",
+  "syllables": [
+    "pañ",
+    "ca",
+    "bhū",
+    "te",
+    "śī"
+  ],
+  "words": [
+    {
+      "sa": "पञ्च",
+      "meaning": {
+        "en": "five",
+        "hi": "पाँच"
+      }
+    },
+    {
+      "sa": "भूत",
+      "meaning": {
+        "en": "element (earth, water, fire, air, space)",
+        "hi": "भूत, महाभूत"
+      }
+    },
+    {
+      "sa": "ईशी",
+      "meaning": {
+        "en": "sovereign lady",
+        "hi": "स्वामिनी, ईश्वरी"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Sovereign of the five elements",
+    "hi": "पाँच महाभूतों की स्वामिनी"
+  },
+  "explanation": {
+    "en": "Bhūta here means the five great elements: earth, water, fire, air and space. She is their sovereign, and so she rules everything the world is made of.",
+    "hi": "यहाँ ‘भूत’ का अर्थ है पाँच महाभूत: पृथ्वी, जल, अग्नि, वायु और आकाश। वे इनकी स्वामिनी हैं, अतः जिन तत्त्वों से यह जगत् बना है, उन सब पर उनका शासन है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya offers two more readings. Pañca-bhūtā can mean “she who has become fivefold”, appearing in five forms. Or she is mistress of Vaijayantī, Viṣṇu’s garland of five gems: he cites the Viṣṇu Purāṇa, which calls it the garland of the elements, and the Viṣṇu Rahasya, in which each of its gems is born from one element.",
+    "hi": "भास्करराय दो और अर्थ देते हैं। ‘पञ्चभूता’ का अर्थ हो सकता है ‘जो पाँच प्रकार की हो गईं’, अर्थात् पाँच रूपों में प्रकट। अथवा वे विष्णु की पञ्चरत्नमयी वैजयन्ती माला की स्वामिनी हैं: वे विष्णुपुराण उद्धृत करते हैं, जो इसे भूतमाला कहता है, और विष्णुरहस्य, जिसके अनुसार इसका प्रत्येक रत्न एक-एक भूत से उत्पन्न हुआ।"
+  },
+  "story": {
+    "en": "This is the second of the three fives that open the verse. The Viṣṇu Rahasya passage Bhāskararāya quotes names the gems of the garland: sapphire (nīla) from earth, pearls from water, the Kaustubha from fire, beryl (vaiḍūrya) from air and topaz (puṣparāga) from space.",
+    "hi": "श्लोक के आरम्भ के तीन ‘पञ्च’ नामों में यह दूसरा है। भास्करराय द्वारा उद्धृत विष्णुरहस्य माला के रत्न गिनाता है: पृथ्वी से नील (नीलम), जल से मोती, तेज से कौस्तुभ, वायु से वैदूर्य और आकाश से पुष्पराग।"
+  },
+  "commentary": {
+    "sanskrit": "पञ्चसंख्यानां भूतानां पृथिव्यादीनामीशी ।",
+    "translation": {
+      "en": "Sovereign of the elements, five in number, beginning with earth.",
+      "hi": "पृथ्वी आदि पाँच संख्या वाले भूतों की स्वामिनी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 949 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude."
+  }
+}

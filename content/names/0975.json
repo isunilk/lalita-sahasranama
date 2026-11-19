@@ -1,0 +1,65 @@
+{
+  "number": 975,
+  "verse": 178,
+  "slug": "purva-ja",
+  "devanagari": "पूर्वजा",
+  "iastSplit": "Pūrva-jā",
+  "archana": "ॐ पूर्वजायै नमः",
+  "syllables": [
+    "pūr",
+    "va",
+    "jā"
+  ],
+  "words": [
+    {
+      "sa": "पूर्व",
+      "meaning": {
+        "en": "before, first",
+        "hi": "पहले, प्रथम"
+      }
+    },
+    {
+      "sa": "जा",
+      "meaning": {
+        "en": "born",
+        "hi": "जन्मी, उत्पन्न"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "The First-born, who was before all",
+    "hi": "सबसे पहले जन्मी, आदि-जाता"
+  },
+  "explanation": {
+    "en": "Pūrvajā means “born before”. She came first, before every other thing that came to be.",
+    "hi": "‘पूर्वजा’ का अर्थ है ‘पहले जन्मी’। जो कुछ भी उत्पन्न हुआ, उन सबसे पहले वे थीं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya supports this with two Vedic lines: “This is she who first shone forth”, and “I am the first-born of ṛta, the cosmic order”. He also reads her as the first creation, the one that arose without forethought.",
+    "hi": "भास्करराय इसके समर्थन में दो श्रुति-वचन देते हैं: ‘यही वह है जो सबसे पहले प्रकाशित हुई’, और ‘मैं ऋत की प्रथमजा हूँ’। वे उन्हें वह प्रथम सृष्टि भी बताते हैं जो बिना पूर्व-विचार के प्रकट हुई।"
+  },
+  "story": {
+    "en": "Her being first-born does not contradict her being unborn: the hymn has called her Anādinidhanā, without beginning or end (name 296). Of all that has a beginning she is the first, and the source from which it begins.",
+    "hi": "उनका ‘पहले जन्मी’ होना उनके अजन्मा होने के विरुद्ध नहीं: स्तोत्र उन्हें ‘अनादिनिधना’, आदि और अन्त से रहित, कह चुका है (नाम 296)। जिस किसी का आरम्भ है, उन सबमें वे प्रथम हैं, और वही स्रोत हैं जिससे सबका आरम्भ होता है।"
+  },
+  "commentary": {
+    "sanskrit": "पूर्वं जाता । इयमेव सा या प्रथमा व्यौच्छदिति, अहमस्मि प्रथमजा ऋतस्येति श्रुतेः ।",
+    "translation": {
+      "en": "Born before; as the Vedic texts say: “This is she who first shone forth”, and “I am the first-born of ṛta, the cosmic order”.",
+      "hi": "पहले जन्मी; जैसा श्रुति कहती है: ‘यही वह है जो सबसे पहले प्रकाशित हुई’, और ‘मैं ऋत की प्रथमजा हूँ’।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 975 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. In the edition पूर्वं जाता runs on from the previous name’s gloss without a daṇḍa. The rendering of अबुद्धिपूर्वका प्रथमा सृष्टिः (the first creation, arising without forethought) should be checked. The last sentence of the story layer is a reflection."
+  }
+}

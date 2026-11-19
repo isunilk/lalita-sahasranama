@@ -1,0 +1,66 @@
+{
+  "number": 961,
+  "verse": 176,
+  "slug": "gunatita",
+  "devanagari": "गुणातीता",
+  "iastSplit": "Guṇātītā",
+  "archana": "ॐ गुणातीतायै नमः",
+  "syllables": [
+    "gu",
+    "ṇā",
+    "tī",
+    "tā"
+  ],
+  "words": [
+    {
+      "sa": "गुण",
+      "meaning": {
+        "en": "the guṇas, the three strands of nature",
+        "hi": "गुण, प्रकृति के तीन गुण"
+      }
+    },
+    {
+      "sa": "अतीता",
+      "meaning": {
+        "en": "gone beyond",
+        "hi": "परे"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Beyond the three guṇas",
+    "hi": "तीनों गुणों से परे"
+  },
+  "explanation": {
+    "en": "The guṇas are the three strands of nature, sattva, rajas and tamas, whose mixture makes up everything that changes. She is beyond them; their play does not bind her.",
+    "hi": "गुण प्रकृति के तीन तत्त्व हैं, सत्त्व, रज और तम, जिनके मेल से सब परिवर्तनशील वस्तुएँ बनती हैं। वे इनसे परे हैं; इनका खेल उन्हें नहीं बाँधता।"
+  },
+  "inner": {
+    "en": "Bhāskararāya links this name to the one before: she is beyond the lokas, the living beings, and for that very reason beyond the guṇas, which bind beings. He gives no further hidden meaning. A few names later the hymn calls her Triguṇā (name 984): the guṇas are in her, but she is not held by them.",
+    "hi": "भास्करराय इस नाम को पिछले नाम से जोड़ते हैं: वे लोकों, अर्थात् जीवों, से परे हैं, और इसीलिए उन गुणों से भी परे हैं जो जीवों को बाँधते हैं। इससे आगे वे कोई गूढ़ अर्थ नहीं देते। कुछ ही नामों बाद स्तोत्र उन्हें ‘त्रिगुणा’ कहता है (नाम 984): गुण उनमें हैं, पर वे गुणों में बँधी नहीं।"
+  },
+  "story": {
+    "en": "The hymn has already called her Nirguṇā, without guṇas (name 139), and Nistraiguṇyā, free of the three guṇas (name 789). In the Bhagavad Gītā, Kṛṣṇa calls one who has risen above the three guṇas guṇātīta (14.25).",
+    "hi": "स्तोत्र पहले उन्हें ‘निर्गुणा’ (नाम 139) और ‘निस्त्रैगुण्या’ (नाम 789) कह चुका है। भगवद्गीता में श्रीकृष्ण तीनों गुणों से ऊपर उठे व्यक्ति को ‘गुणातीत’ कहते हैं (14.25)।"
+  },
+  "commentary": {
+    "sanskrit": "अत एव गुणानतीता",
+    "translation": {
+      "en": "For that very reason, she is beyond the guṇas.",
+      "hi": "इसीलिए वे गुणों से परे हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 961 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The Gītā reference is context, not cited by Bhāskararāya. The last sentence of the inner layer is a reflection."
+  }
+}

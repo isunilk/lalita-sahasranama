@@ -1,0 +1,58 @@
+{
+  "number": 951,
+  "verse": 175,
+  "slug": "shashvati",
+  "devanagari": "शाश्वती",
+  "iastSplit": "Śāśvatī",
+  "archana": "ॐ शाश्वत्यै नमः",
+  "syllables": [
+    "śāś",
+    "va",
+    "tī"
+  ],
+  "words": [
+    {
+      "sa": "शाश्वती",
+      "meaning": {
+        "en": "eternal; belonging to what recurs “again and again” (śaśvat)",
+        "hi": "शाश्वत, नित्य; ‘शश्वत्’ (बार-बार) से सम्बद्ध"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "The Eternal One",
+    "hi": "सनातनी, सदा रहने वाली"
+  },
+  "explanation": {
+    "en": "Śāśvatī means eternal, ever-existing. She does not come into being and pass away like the worlds she makes; she always is.",
+    "hi": "‘शाश्वती’ का अर्थ है सनातन, सदा रहने वाली। वे अपने रचे हुए लोकों की तरह उत्पन्न और नष्ट नहीं होतीं; वे सदा विद्यमान हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya starts from the word śaśvat, “again and again”: she is the one meditated on again and again. Only then does he give “eternal”, citing the Amarakośa, which lists śāśvata with dhruva and nitya, firm and everlasting. The two readings meet: the eternal is approached by turning to it again and again.",
+    "hi": "भास्करराय ‘शश्वत्’ शब्द से आरम्भ करते हैं, जिसका अर्थ है ‘बार-बार’: वे वह हैं जिनका बार-बार अभ्यास, अर्थात् ध्यान, किया जाता है। इसके बाद वे ‘नित्य’ अर्थ देते हैं और अमरकोश उद्धृत करते हैं, जो ‘शाश्वत’ को ध्रुव और नित्य के साथ गिनाता है। दोनों अर्थ मिलते हैं: जो शाश्वत है, उस तक बार-बार लौटकर ही पहुँचा जाता है।"
+  },
+  "story": {
+    "en": "The second half of the verse moves from what she is to what she has and gives: eternal herself (Śāśvatī), eternal in sovereignty (Śāśvataiśvaryā), giver of happiness (Śarmadā) and enchantress of Śambhu (Śambhumohinī).",
+    "hi": "श्लोक का दूसरा अर्धभाग उनके स्वरूप से उनके ऐश्वर्य और दान तक जाता है: स्वयं शाश्वत (शाश्वती), ऐश्वर्य में शाश्वत (शाश्वतैश्वर्या), सुख देने वाली (शर्मदा), और शम्भु को मोहित करने वाली (शम्भुमोहिनी)।"
+  },
+  "commentary": {
+    "sanskrit": "शश्वत् पौनःपुन्यं तत्सम्बन्धिनी पुनःपुनरभ्यस्यमानेत्यर्थः । नित्या वा ।",
+    "translation": {
+      "en": "Śaśvat means repetition, “again and again”; she is connected with it, that is, she is practised again and again. Or, she is eternal.",
+      "hi": "‘शश्वत्’ का अर्थ है पुनः-पुनः होना; वे उससे सम्बद्ध हैं, अर्थात् जिनका बार-बार अभ्यास होता है। अथवा, वे नित्य हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 951 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The closing sentence of the inner layer is a reflection."
+  }
+}

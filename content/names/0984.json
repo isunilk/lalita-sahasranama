@@ -1,0 +1,65 @@
+{
+  "number": 984,
+  "verse": 180,
+  "slug": "triguna",
+  "devanagari": "त्रिगुणा",
+  "iastSplit": "Tri-guṇā",
+  "archana": "ॐ त्रिगुणायै नमः",
+  "syllables": [
+    "tri",
+    "gu",
+    "ṇā"
+  ],
+  "words": [
+    {
+      "sa": "त्रि",
+      "meaning": {
+        "en": "three",
+        "hi": "तीन"
+      }
+    },
+    {
+      "sa": "गुण",
+      "meaning": {
+        "en": "the guṇas, strands of nature",
+        "hi": "गुण, प्रकृति के तत्त्व"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "She in whom the three guṇas reside",
+    "hi": "जिनमें तीनों गुण स्थित हैं"
+  },
+  "explanation": {
+    "en": "The three guṇas, sattva, rajas and tamas, are the strands of which nature is woven. Bhāskararāya says they rest in her: she is Prakṛti, nature itself, as the Sāṃkhya philosophers describe it, the ground of the three guṇas.",
+    "hi": "तीन गुण, सत्त्व, रज और तम, वे तन्तु हैं जिनसे प्रकृति बुनी गई है। भास्करराय कहते हैं कि वे उन्हीं में स्थित हैं: वे सांख्य दर्शन में वर्णित प्रकृति हैं, तीनों गुणों का आश्रय।"
+  },
+  "inner": {
+    "en": "He quotes the Vāyu Purāṇa: the Lady of yoga makes and unmakes bodies in her play, and because she exists threefold in the world she is called Triguṇā. Only a few names earlier she was Guṇātītā, beyond the guṇas (name 961). Both are true: the guṇas are her own, and she is never bound by them.",
+    "hi": "वे वायु पुराण उद्धृत करते हैं: योगेश्वरी अपनी लीला से शरीरों को रचती और बदलती हैं, और संसार में तीन प्रकार से स्थित होने के कारण ‘त्रिगुणा’ कहलाती हैं। कुछ ही नाम पहले वे ‘गुणातीता’, गुणों से परे, थीं (नाम 961)। दोनों सत्य हैं: गुण उनके अपने हैं, और वे उनसे कभी बँधती नहीं।"
+  },
+  "story": {
+    "en": "Bhāskararāya also cites the Devī Purāṇa, which links Triguṇā with the three strides of Viṣṇu that bound Bali, with the three paths of the Gaṅgā, and with creation, preservation and dissolution. The hymn has already called her Triguṇātmikā, whose self is the three guṇas (name 763).",
+    "hi": "भास्करराय देवी पुराण भी उद्धृत करते हैं, जो ‘त्रिगुणा’ को तीन पगों से बलि को बाँधने वाले त्रिविक्रम से, तीन मार्गों पर बहने वाली गङ्गा से, और सृष्टि, स्थिति तथा संहार से जोड़ता है। स्तोत्र पहले उन्हें ‘त्रिगुणात्मिका’ कह चुका है (नाम 763)।"
+  },
+  "commentary": {
+    "sanskrit": "त्रयो गुणा यस्यां सा त्रिगुणा ।",
+    "translation": {
+      "en": "She in whom the three guṇas reside is Triguṇā.",
+      "hi": "जिनमें तीनों गुण हैं, वे त्रिगुणा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 984 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The verse reads त्रिगुणाऽम्बा, divided as त्रिगुणा and अम्बा; the edition prints त्रिगुणाम्बा in the heading but comments on the two names separately. The last sentence of the inner layer is a reflection."
+  }
+}

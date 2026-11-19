@@ -1,0 +1,77 @@
+{
+  "number": 989,
+  "verse": 180,
+  "slug": "vanchhitartha-pradayini",
+  "devanagari": "वाञ्छितार्थप्रदायिनी",
+  "iastSplit": "Vāñchitārtha-pradāyinī",
+  "archana": "ॐ वाञ्छितार्थप्रदायिन्यै नमः",
+  "syllables": [
+    "vāñ",
+    "chi",
+    "tār",
+    "thap",
+    "ra",
+    "dā",
+    "yi",
+    "nī"
+  ],
+  "words": [
+    {
+      "sa": "वाञ्छित",
+      "meaning": {
+        "en": "desired, wished for",
+        "hi": "इच्छित, मनचाहा"
+      }
+    },
+    {
+      "sa": "अर्थ",
+      "meaning": {
+        "en": "object, aim",
+        "hi": "पदार्थ, प्रयोजन"
+      }
+    },
+    {
+      "sa": "प्रदायिनी",
+      "meaning": {
+        "en": "she who gives",
+        "hi": "देने वाली"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Giver of every desired object",
+    "hi": "मनचाहे पदार्थ देने वाली"
+  },
+  "explanation": {
+    "en": "Vāñchita is what is wished for, artha the thing or aim sought, and pradāyinī the one who gives. Bhāskararāya says it is her very nature to give what is desired.",
+    "hi": "‘वाञ्छित’ वह है जिसकी इच्छा हो, ‘अर्थ’ वह वस्तु या प्रयोजन जो चाहा जाए, और ‘प्रदायिनी’ देने वाली। भास्करराय कहते हैं कि इच्छित वस्तुएँ देना उनका स्वभाव ही है।"
+  },
+  "inner": {
+    "en": "He gives only this sense, stressing that giving is her settled disposition. In reflection, the next verse turns from what she gives to how she is known, by ever-deepening practice (name 990), as if to say that the highest wish she grants is herself.",
+    "hi": "वे केवल यही अर्थ देते हैं, और इस पर बल देते हैं कि देना उनका स्थायी स्वभाव है। चिन्तन के रूप में: अगला श्लोक उनके दान से हटकर इस पर आता है कि वे कैसे जानी जाती हैं, निरन्तर गहरे होते अभ्यास से (नाम 990), मानो कहता हो कि वे जो सबसे ऊँची इच्छा पूरी करती हैं, वह स्वयं उनकी प्राप्ति है।"
+  },
+  "story": {
+    "en": "The hymn spoke of her gifts early, calling her Kāmadāyinī, giver of desires (name 63). This verse ends on the same note of generosity as the Sahasranāma moves toward its last names.",
+    "hi": "स्तोत्र ने आरम्भ में ही उन्हें ‘कामदायिनी’, इच्छाएँ पूरी करने वाली, कहा था (नाम 63)। यह श्लोक उसी उदारता के स्वर पर समाप्त होता है, जब सहस्रनाम अपने अन्तिम नामों की ओर बढ़ता है।"
+  },
+  "commentary": {
+    "sanskrit": "वाञ्छितार्थान्प्रदातुं शीलमस्याः ।",
+    "translation": {
+      "en": "It is her nature to grant desired things.",
+      "hi": "इच्छित पदार्थ देना उनका स्वभाव है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 989 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The last sentence of the inner layer is a reflection."
+  }
+}

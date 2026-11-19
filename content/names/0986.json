@@ -1,0 +1,66 @@
+{
+  "number": 986,
+  "verse": 180,
+  "slug": "trikona-ga",
+  "devanagari": "त्रिकोणगा",
+  "iastSplit": "Trikoṇa-gā",
+  "archana": "ॐ त्रिकोणगायै नमः",
+  "syllables": [
+    "tri",
+    "ko",
+    "ṇa",
+    "gā"
+  ],
+  "words": [
+    {
+      "sa": "त्रिकोण",
+      "meaning": {
+        "en": "triangle",
+        "hi": "त्रिकोण"
+      }
+    },
+    {
+      "sa": "गा",
+      "meaning": {
+        "en": "she who goes to, abides in",
+        "hi": "जाने वाली, स्थित"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "She who abides in the triangle",
+    "hi": "त्रिकोण में स्थित"
+  },
+  "explanation": {
+    "en": "Trikoṇa is the triangle, and -gā is one who goes to or abides in. Bhāskararāya identifies the triangle as the yoni-cakra, the triangle at the heart of the Śrīcakra, and says she goes to it and dwells there.",
+    "hi": "‘त्रिकोण’ का अर्थ है त्रिभुज, और ‘गा’ वह जो जाती है या स्थित है। भास्करराय त्रिकोण को योनिचक्र बताते हैं, जो श्रीचक्र के हृदय में स्थित त्रिकोण है, और कहते हैं कि वे उसमें जाती हैं, वहीं निवास करती हैं।"
+  },
+  "inner": {
+    "en": "The triangle is the source from which the whole Śrīcakra unfolds, and it encloses the bindu, which is the Devī herself. To abide in the triangle is to stand at the threshold where the One becomes many. Bhāskararāya gives no further hidden meaning here.",
+    "hi": "त्रिकोण वह उद्गम है जिससे सम्पूर्ण श्रीचक्र विकसित होता है, और वह बिन्दु को घेरता है, जो स्वयं देवी हैं। त्रिकोण में स्थित होना उस देहरी पर होना है जहाँ एक अनेक बनता है। भास्करराय यहाँ इससे आगे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "The hymn has already called her the lamp within the triangle (Trikoṇāntaradīpikā, name 597). With Yonimudrā, Trikhaṇḍeśī and Triguṇā, this verse keeps returning to the triangle and the number three.",
+    "hi": "स्तोत्र पहले उन्हें ‘त्रिकोणान्तरदीपिका’, त्रिकोण के भीतर का दीप, कह चुका है (नाम 597)। योनिमुद्रा, त्रिखण्डेशी और त्रिगुणा के साथ यह श्लोक बार-बार त्रिकोण और तीन की संख्या पर लौटता है।"
+  },
+  "commentary": {
+    "sanskrit": "त्रिकोण योनिचक्रं गच्छतीति त्रिकोणगा",
+    "translation": {
+      "en": "She goes to the triangle, the yoni-cakra: hence Trikoṇagā.",
+      "hi": "जो त्रिकोण, अर्थात् योनिचक्र, में जाती हैं, वे त्रिकोणगा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 986 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The quotation is copied as printed; त्रिकोण there is evidently a misprint for त्रिकोणं. The first two sentences of the inner layer are a reflection, drawing on Bhāskararāya’s reading of the bindu under name 982."
+  }
+}

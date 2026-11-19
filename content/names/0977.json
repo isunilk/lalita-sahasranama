@@ -1,0 +1,77 @@
+{
+  "number": 977,
+  "verse": 179,
+  "slug": "dasha-mudra-samaradhya",
+  "devanagari": "दशमुद्रासमाराध्या",
+  "iastSplit": "Daśa-mudrā-samārādhyā",
+  "archana": "ॐ दशमुद्रासमाराध्यायै नमः",
+  "syllables": [
+    "da",
+    "śa",
+    "mud",
+    "rā",
+    "sa",
+    "mā",
+    "rādh",
+    "yā"
+  ],
+  "words": [
+    {
+      "sa": "दश",
+      "meaning": {
+        "en": "ten",
+        "hi": "दस"
+      }
+    },
+    {
+      "sa": "मुद्रा",
+      "meaning": {
+        "en": "mudrā, a sacred gesture of the hands",
+        "hi": "मुद्रा, हाथों की पवित्र मुद्रा"
+      }
+    },
+    {
+      "sa": "समाराध्या",
+      "meaning": {
+        "en": "to be worshipped well",
+        "hi": "भली-भाँति आराधनीय"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Worshipped well with the ten mudrās",
+    "hi": "दस मुद्राओं से भली-भाँति आराधित"
+  },
+  "explanation": {
+    "en": "Mudrās are sacred gestures of the hands used in worship. Bhāskararāya refers to the ten of Śrīvidyā, from Saṅkṣobhiṇī to Trikhaṇḍā, and says she is rightly worshipped with them, in keeping with their inner meaning as taught in the Nityāhṛdaya.",
+    "hi": "मुद्राएँ पूजा में प्रयुक्त हाथों के पवित्र संकेत हैं। भास्करराय श्रीविद्या की दस मुद्राओं का उल्लेख करते हैं, संक्षोभिणी से त्रिखण्डा तक, और कहते हैं कि नित्याहृदय में बताए उनके भीतरी अर्थ के अनुसार उन्हीं से उनकी सम्यक् आराधना होती है।"
+  },
+  "inner": {
+    "en": "The word he uses for that inner meaning is vāsanā: each gesture is not only a movement of the hands but the expression of an inward attitude. The forms and their meanings are learned from a teacher; the name says only that the outer act and the inner sense, together, please her.",
+    "hi": "भीतरी अर्थ के लिए वे ‘वासना’ शब्द का प्रयोग करते हैं: प्रत्येक मुद्रा केवल हाथों की गति नहीं, मन के एक भाव की अभिव्यक्ति है। इनके रूप और अर्थ गुरु से सीखे जाते हैं; यह नाम केवल इतना कहता है कि बाहरी क्रिया और भीतरी भाव साथ मिलकर उन्हें प्रसन्न करते हैं।"
+  },
+  "story": {
+    "en": "This verse and the next turn to mudrās: the ten mudrās here, then Jñānamudrā, and then Yonimudrā and Trikhaṇḍeśī, which Bhāskararāya links with the ninth and tenth of the ten. The ten are shown in the worship of the Śrīcakra.",
+    "hi": "यह श्लोक और अगला श्लोक मुद्राओं की ओर मुड़ते हैं: यहाँ दस मुद्राएँ, फिर ज्ञानमुद्रा, और फिर योनिमुद्रा तथा त्रिखण्डेशी, जिन्हें भास्करराय दस में से नौवीं और दसवीं मुद्रा से जोड़ते हैं। ये दस मुद्राएँ श्रीचक्र की पूजा में दिखाई जाती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "संक्षोभिण्यादित्रिखण्डान्ता दश मुद्रास्ताभिः करणभूताभिः सम्यक् नित्याहृदयोक्तवासनानुगुण्येनाराध्या ।",
+    "translation": {
+      "en": "The ten mudrās, from Saṅkṣobhiṇī to Trikhaṇḍā: with them as the means she is to be worshipped well, in keeping with the inner sense taught in the Nityāhṛdaya.",
+      "hi": "संक्षोभिणी से त्रिखण्डा तक दस मुद्राएँ: उन्हें साधन बनाकर, नित्याहृदय में कही गई वासना (भीतरी अर्थ) के अनुसार, उनकी सम्यक् आराधना होती है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 977 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The mudrās are explained by meaning only; no forms are described. Nityāhṛdaya is the text Bhāskararāya names; its identification is left to a reviewer. The first sentence of the inner layer interprets his word वासना."
+  }
+}

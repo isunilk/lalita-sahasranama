@@ -1,0 +1,66 @@
+{
+  "number": 963,
+  "verse": 176,
+  "slug": "shamatmika",
+  "devanagari": "शमात्मिका",
+  "iastSplit": "Śamātmikā",
+  "archana": "ॐ शमात्मिकायै नमः",
+  "syllables": [
+    "śa",
+    "māt",
+    "mi",
+    "kā"
+  ],
+  "words": [
+    {
+      "sa": "शम",
+      "meaning": {
+        "en": "peace; the stilling of the world",
+        "hi": "शम, शान्ति; प्रपञ्च का उपशम"
+      }
+    },
+    {
+      "sa": "आत्मिका",
+      "meaning": {
+        "en": "whose very self is",
+        "hi": "जिनका स्वरूप है"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Whose very self is peace",
+    "hi": "जिनका स्वरूप ही शान्ति है"
+  },
+  "explanation": {
+    "en": "Śama is peace, calm, the stilling of all agitation. She does not merely give peace; peace is her nature.",
+    "hi": "‘शम’ का अर्थ है शान्ति, सब हलचल का थम जाना। वे केवल शान्ति देती नहीं; शान्ति ही उनका स्वरूप है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya reads śama as prapañcopaśama, the stilling of the whole manifold world, and cites the Nṛsiṃhatāpanī Upaniṣad, which calls the fourth state, beyond waking, dream and sleep, the stilling of the world, auspicious and non-dual. She is that fourth, turīya. Or śam is happiness, and happiness is her self.",
+    "hi": "भास्करराय ‘शम’ का अर्थ ‘प्रपञ्चोपशम’, अर्थात् समस्त नानारूप जगत् का शान्त हो जाना, लेते हैं, और नृसिंहतापनी उपनिषद् उद्धृत करते हैं, जो जाग्रत्, स्वप्न और सुषुप्ति से परे चौथी अवस्था को प्रपञ्च का उपशम, शिव और अद्वैत कहता है। वे वही चतुर्थ, तुरीय, हैं। अथवा ‘शम्’ का अर्थ सुख है, और सुख ही उनकी आत्मा है।"
+  },
+  "story": {
+    "en": "The same words describe the fourth state in the Māṇḍūkya Upaniṣad (verse 7). This name completes the ladder of the half-verse: beyond the worlds, the guṇas and everything, what remains is peace.",
+    "hi": "यही शब्द माण्डूक्य उपनिषद् (मन्त्र 7) में चतुर्थ अवस्था का वर्णन करते हैं। यह नाम अर्धश्लोक की सीढ़ी को पूरा करता है: लोकों, गुणों और सबसे परे जो शेष रहता है, वह शान्ति है।"
+  },
+  "commentary": {
+    "sanskrit": "शमः प्रपञ्चोपशम एवात्मा स्वरूपं यस्याः ।",
+    "translation": {
+      "en": "She whose self, whose own form, is śama, the stilling of the manifold world.",
+      "hi": "जिनकी आत्मा, अर्थात् स्वरूप, शम है, अर्थात् प्रपञ्च का उपशम।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 963 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. Archana corrected from the web list’s शामात्मिकायै to शमात्मिकायै, following the verse (शमात्मिका) and Bhāskararāya’s gloss on शम. The edition’s verse heading misprints the name as शमात्मिता. The Māṇḍūkya reference is context, not cited by Bhāskararāya."
+  }
+}

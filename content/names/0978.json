@@ -1,0 +1,70 @@
+{
+  "number": 978,
+  "verse": 179,
+  "slug": "tripurashri-vashankari",
+  "devanagari": "त्रिपुराश्रीवशङ्करी",
+  "iastSplit": "Tripurāśrī-vaśaṅkarī",
+  "archana": "ॐ त्रिपुराश्रीवशङ्कर्यै नमः",
+  "syllables": [
+    "tri",
+    "pu",
+    "rāś",
+    "rī",
+    "va",
+    "śaṅ",
+    "ka",
+    "rī"
+  ],
+  "words": [
+    {
+      "sa": "त्रिपुराश्री",
+      "meaning": {
+        "en": "Tripurāśrī, goddess of the fifth enclosure of the Śrīcakra",
+        "hi": "त्रिपुराश्री, श्रीचक्र के पाँचवें आवरण की देवी"
+      }
+    },
+    {
+      "sa": "वशङ्करी",
+      "meaning": {
+        "en": "she who brings under control",
+        "hi": "वश में करने वाली"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "She who holds Tripurāśrī under her sway",
+    "hi": "त्रिपुराश्री को अपने वश में रखने वाली"
+  },
+  "explanation": {
+    "en": "Tripurāśrī is the goddess who presides over the fifth enclosure of the Śrīcakra, and vaśaṅkarī is one who brings under control. She governs Tripurāśrī; or, as Bhāskararāya also reads it, Tripurāśrī is the power through which she brings all under her sway.",
+    "hi": "त्रिपुराश्री श्रीचक्र के पाँचवें आवरण की अधिष्ठात्री देवी हैं, और ‘वशङ्करी’ वह है जो वश में करती है। वे त्रिपुराश्री को अपने वश में रखती हैं; अथवा, जैसा भास्करराय यह भी पढ़ते हैं, त्रिपुराश्री ही उनकी वशङ्करी, अर्थात् सबको उनके वश में लाने वाली शक्ति, हैं।"
+  },
+  "inner": {
+    "en": "The enclosure goddesses are all forms of the one Devī, set out around her in the Śrīcakra. To call her the ruler of one of them is to say that every power within the cakra serves the centre. Bhāskararāya gives no further hidden meaning.",
+    "hi": "आवरण-देवियाँ सब एक ही देवी के रूप हैं, जो श्रीचक्र में उनके चारों ओर स्थित हैं। उन्हें इनमें से एक की स्वामिनी कहना यह कहना है कि चक्र की हर शक्ति केन्द्र की सेवा करती है। भास्करराय इससे आगे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "Two names back the hymn named Tripurāmbikā, goddess of the eighth enclosure; here it names the goddess of the fifth. Both are among the nine presiding forms of the Śrīcakra, each called by a name of Tripurā.",
+    "hi": "दो नाम पहले स्तोत्र ने आठवें आवरण की देवी त्रिपुराम्बिका का नाम लिया; यहाँ वह पाँचवें आवरण की देवी का नाम लेता है। दोनों श्रीचक्र की नौ अधिष्ठात्री देवियों में हैं, जिनमें से प्रत्येक का नाम त्रिपुरा से जुड़ा है।"
+  },
+  "commentary": {
+    "sanskrit": "पञ्चमचक्राधिष्ठात्री त्रिपुराश्रीनामिका देवी तां वशं कुरुते",
+    "translation": {
+      "en": "The goddess named Tripurāśrī presides over the fifth cakra; she brings her under her sway.",
+      "hi": "पाँचवें चक्र की अधिष्ठात्री त्रिपुराश्री नाम की देवी हैं; वे उन्हें वश में करती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 978 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The first two sentences of the inner layer are a reflection. The words that follow this gloss in the edition (तर्जन्यङ्गुष्ठयोगरूपज्ञानमुद्रारूपा वा) are taken as belonging to the next name, ज्ञानमुद्रा."
+  }
+}

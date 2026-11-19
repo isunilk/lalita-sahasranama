@@ -1,0 +1,77 @@
+{
+  "number": 950,
+  "verse": 175,
+  "slug": "pancha-sankhyopacharini",
+  "devanagari": "पञ्चसङ्ख्योपचारिणी",
+  "iastSplit": "Pañca-saṅkhyopacāriṇī",
+  "archana": "ॐ पञ्चसङ्ख्योपचारिण्यै नमः",
+  "syllables": [
+    "pañ",
+    "ca",
+    "saṅ",
+    "khyo",
+    "pa",
+    "cā",
+    "ri",
+    "ṇī"
+  ],
+  "words": [
+    {
+      "sa": "पञ्च",
+      "meaning": {
+        "en": "five",
+        "hi": "पाँच"
+      }
+    },
+    {
+      "sa": "सङ्ख्या",
+      "meaning": {
+        "en": "number",
+        "hi": "संख्या"
+      }
+    },
+    {
+      "sa": "उपचारिणी",
+      "meaning": {
+        "en": "she who is served with upacāras, acts of worship",
+        "hi": "उपचारों (पूजा-सेवाओं) से सेवित"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "She who is worshipped with the five offerings",
+    "hi": "पाँच उपचारों से पूजित"
+  },
+  "explanation": {
+    "en": "An upacāra is an act of service offered in worship. Bhāskararāya names the five: fragrance (sandal paste), flowers, incense, the lamp and food. This simple fivefold worship is offered to her in homes and temples alike.",
+    "hi": "‘उपचार’ पूजा में अर्पित सेवा को कहते हैं। भास्करराय पाँचों के नाम बताते हैं: गन्ध (चन्दन), पुष्प, धूप, दीप और नैवेद्य। यह सरल पञ्चोपचार पूजा घरों और मन्दिरों में समान रूप से की जाती है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only this plain sense. Coming after Pañcabhūteśī, the five offerings can be read as the five elements given back to their sovereign: in the usual scheme, fragrance stands for earth, flowers for space, incense for air, the lamp for fire and food for water.",
+    "hi": "भास्करराय केवल यही सीधा अर्थ देते हैं। पञ्चभूतेशी के बाद आने से इन पाँच उपचारों को उनकी स्वामिनी को लौटाए गए पाँच भूतों के रूप में भी पढ़ा जा सकता है: प्रचलित क्रम में गन्ध पृथ्वी का, पुष्प आकाश का, धूप वायु का, दीप अग्नि का और नैवेद्य जल का प्रतीक है।"
+  },
+  "story": {
+    "en": "Worship may be offered with five, sixteen or sixty-four upacāras; the fivefold form is the briefest and the most widely used. This name completes the three fives that open the verse.",
+    "hi": "पूजा पाँच, सोलह या चौंसठ उपचारों से की जा सकती है; पञ्चोपचार सबसे संक्षिप्त और सबसे प्रचलित है। यह नाम श्लोक के आरम्भ के तीन ‘पञ्च’ नामों को पूरा करता है।"
+  },
+  "commentary": {
+    "sanskrit": "पञ्चसंख्या गन्धपुष्पधूपदीपनैवेद्याख्या उपचारा अस्याः",
+    "translation": {
+      "en": "Her upacāras are five in number, called fragrance, flower, incense, lamp and food-offering.",
+      "hi": "उनके उपचार पाँच संख्या वाले हैं: गन्ध, पुष्प, धूप, दीप और नैवेद्य।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 950 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The edition spells the name पञ्चसंख्योपचारिणी (with anusvāra); the master text has ङ्ख. The link between the offerings and the elements in the inner layer is a reflection drawn from common pūjā practice, not from Bhāskararāya."
+  }
+}

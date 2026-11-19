@@ -1,0 +1,67 @@
+{
+  "number": 973,
+  "verse": 178,
+  "slug": "shuddha-manasa",
+  "devanagari": "शुद्धमानसा",
+  "iastSplit": "Śuddha-mānasā",
+  "archana": "ॐ शुद्धमानसायै नमः",
+  "syllables": [
+    "śud",
+    "dha",
+    "mā",
+    "na",
+    "sā"
+  ],
+  "words": [
+    {
+      "sa": "शुद्ध",
+      "meaning": {
+        "en": "pure",
+        "hi": "शुद्ध, निर्मल"
+      }
+    },
+    {
+      "sa": "मानस",
+      "meaning": {
+        "en": "mind",
+        "hi": "मन"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Whose mind is pure",
+    "hi": "जिनका मन शुद्ध है"
+  },
+  "explanation": {
+    "en": "Mānasa is the mind, and śuddha means pure, clean. Her mind is free of every stain: no desire, anger or delusion clouds it.",
+    "hi": "‘मानस’ का अर्थ है मन, और ‘शुद्ध’ का निर्मल। उनका मन हर मल से मुक्त है: कोई इच्छा, क्रोध या मोह उसे धुँधला नहीं करता।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the literal sense: she whose mind is pure. In reflection, the name also shows the way to her: a pure mind is the mirror in which the Devī, pure herself, can be seen.",
+    "hi": "भास्करराय केवल शाब्दिक अर्थ देते हैं: जिनका मन शुद्ध है। चिन्तन के रूप में यह नाम उन तक पहुँचने का मार्ग भी दिखाता है: शुद्ध मन ही वह दर्पण है जिसमें स्वयं शुद्ध देवी दिखाई देती हैं।"
+  },
+  "story": {
+    "en": "The hymn has already called her stainless (Nirmalā, name 135) and ever pure (Nityaśuddhā, name 148). Here, between names of her beauty and of her worship, that purity is placed in her mind.",
+    "hi": "स्तोत्र पहले उन्हें ‘निर्मला’ (नाम 135) और ‘नित्यशुद्धा’ (नाम 148) कह चुका है। यहाँ, उनके सौन्दर्य और उनकी पूजा के नामों के बीच, यह शुद्धता उनके मन में रखी गई है।"
+  },
+  "commentary": {
+    "sanskrit": "शुद्धं मानसं यस्याः ।",
+    "translation": {
+      "en": "She whose mind is pure.",
+      "hi": "जिनका मन शुद्ध है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 973 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The inner layer is a reflection."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "number": 956,
+  "verse": 176,
+  "slug": "dhara-suta",
+  "devanagari": "धरसुता",
+  "iastSplit": "Dhara-sutā",
+  "archana": "ॐ धरसुतायै नमः",
+  "syllables": [
+    "dha",
+    "ra",
+    "su",
+    "tā"
+  ],
+  "words": [
+    {
+      "sa": "धर",
+      "meaning": {
+        "en": "mountain, “the upholder”; here Himavat",
+        "hi": "पर्वत, ‘धारण करने वाला’; यहाँ हिमवान्"
+      }
+    },
+    {
+      "sa": "सुता",
+      "meaning": {
+        "en": "daughter",
+        "hi": "पुत्री"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Daughter of the mountain Himavat",
+    "hi": "पर्वतराज हिमवान् की पुत्री"
+  },
+  "explanation": {
+    "en": "Dhara, “the upholder”, is a word for a mountain, and Bhāskararāya says it means Himavat, the Himālaya. She is Pārvatī, the mountain’s daughter, who became the wife of Śiva.",
+    "hi": "‘धर’, अर्थात् धारण करने वाला, पर्वत का नाम है, और भास्करराय कहते हैं कि यहाँ इसका अर्थ हिमवान्, अर्थात् हिमालय, है। वे पार्वती हैं, पर्वत की पुत्री, जो शिव की पत्नी बनीं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only this sense. In reflection, the pair is telling: as Dharā she is the earth that bears everything, and as Dharasutā she is born as the daughter of that earth’s highest mountain. The one who supports the world also takes birth within it.",
+    "hi": "भास्करराय केवल यही अर्थ देते हैं। चिन्तन के रूप में यह जोड़ी अर्थपूर्ण है: ‘धरा’ के रूप में वे सबको धारण करने वाली पृथ्वी हैं, और ‘धरसुता’ के रूप में उसी पृथ्वी के सबसे ऊँचे पर्वत की पुत्री बनकर जन्म लेती हैं। जो जगत् को धारण करती हैं, वे उसी में जन्म भी लेती हैं।"
+  },
+  "story": {
+    "en": "In the Purāṇas, Satī gives up her body at Dakṣa’s sacrifice and is born again as Pārvatī, daughter of Himavat and Menā, who wins Śiva by her austerities. The hymn has already called her Śailendratanayā, daughter of the king of mountains (name 634).",
+    "hi": "पुराणों में सती दक्ष-यज्ञ में देह त्यागकर हिमवान् और मेना की पुत्री पार्वती के रूप में फिर जन्म लेती हैं, और तपस्या से शिव को प्राप्त करती हैं। स्तोत्र पहले उन्हें ‘शैलेन्द्रतनया’, पर्वतराज की पुत्री, कह चुका है (नाम 634)।"
+  },
+  "commentary": {
+    "sanskrit": "धरस्य हिमवत्पर्वतस्य सुता ।",
+    "translation": {
+      "en": "Daughter of Dhara, the mountain Himavat.",
+      "hi": "धर, अर्थात् हिमवान् पर्वत, की पुत्री।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 956 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The edition joins this name with the previous one in the verse line (धराधरसुता); Bhāskararāya comments on धरा and धरसुता separately. The inner layer is a reflection; the Satī–Pārvatī story is general Purāṇic context."
+  }
+}

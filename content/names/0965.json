@@ -1,0 +1,57 @@
+{
+  "number": 965,
+  "verse": 177,
+  "slug": "bala",
+  "devanagari": "बाला",
+  "iastSplit": "Bālā",
+  "archana": "ॐ बालायै नमः",
+  "syllables": [
+    "bā",
+    "lā"
+  ],
+  "words": [
+    {
+      "sa": "बाला",
+      "meaning": {
+        "en": "young girl, maiden",
+        "hi": "बालिका, कुमारी"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "The Young Girl, ever youthful",
+    "hi": "बाला, नित्य कुमारी"
+  },
+  "explanation": {
+    "en": "Bālā means a young girl, a maiden. Bhāskararāya glosses it as kumārī and quotes the Veda, which says to the Supreme: “you are the boy, or the maiden”.",
+    "hi": "‘बाला’ का अर्थ है बालिका, कुमारी। भास्करराय इसका अर्थ ‘कुमारी’ देते हैं और श्रुति उद्धृत करते हैं, जो परमात्मा से कहती है: ‘तुम ही कुमार हो, या कुमारी’।"
+  },
+  "inner": {
+    "en": "He also quotes the Tripurāsiddhānta: she is called Bālā because she is marked by the play of a child. Her making and unmaking of worlds is as effortless and free as a child’s play, with no need behind it and no weariness after it.",
+    "hi": "वे त्रिपुरासिद्धान्त भी उद्धृत करते हैं: बाल-लीला से युक्त होने के कारण उन्हें ‘बाला’ कहा गया। लोकों की रचना और लय उनके लिए बालक के खेल जैसा सहज और स्वच्छन्द है, न उसके पीछे कोई आवश्यकता है, न उसके बाद कोई थकान।"
+  },
+  "story": {
+    "en": "In the Lalitopākhyāna, Bālā is the Devī’s young daughter, who goes out against the thirty sons of Bhaṇḍa and slays them (name 74). In Śrīvidyā, Bālā Tripurasundarī, the Goddess as a girl, is worshipped in her own right.",
+    "hi": "ललितोपाख्यान में बाला देवी की छोटी पुत्री हैं, जो भण्डासुर के तीस पुत्रों से लड़ने जाती हैं और उनका वध करती हैं (नाम 74)। श्रीविद्या में बाला त्रिपुरसुन्दरी, अर्थात् कन्या रूप में देवी, की स्वतन्त्र उपासना होती है।"
+  },
+  "commentary": {
+    "sanskrit": "बाला कुमारी । त्वं कुमार उत वा कुमारीति श्रुतेः ।",
+    "translation": {
+      "en": "Bālā: a maiden; as the Veda says, “you are the boy, or the maiden”.",
+      "hi": "बाला: कुमारी; जैसा श्रुति कहती है, ‘तुम कुमार हो, या कुमारी’।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 965 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The Vedic line quoted by Bhāskararāya is found in the Śvetāśvatara Upaniṣad (4.3); he cites it only as śruti. The second sentence of the inner layer is a reflection."
+  }
+}

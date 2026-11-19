@@ -1,0 +1,57 @@
+{
+  "number": 985,
+  "verse": 180,
+  "slug": "amba",
+  "devanagari": "अम्बा",
+  "iastSplit": "Ambā",
+  "archana": "ॐ अम्बायै नमः",
+  "syllables": [
+    "am",
+    "bā"
+  ],
+  "words": [
+    {
+      "sa": "अम्बा",
+      "meaning": {
+        "en": "mother",
+        "hi": "माँ, माता"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "The Mother, cause even of the three guṇas",
+    "hi": "माँ, तीनों गुणों की भी कारण"
+  },
+  "explanation": {
+    "en": "Ambā is the simplest word for mother. Bhāskararāya reads it with the name before: she is the mother, the cause, even of the three guṇas from which everything else arises. Or, since the name specifies nothing, she is the mother of the whole world.",
+    "hi": "‘अम्बा’ माँ के लिए सबसे सरल शब्द है। भास्करराय इसे पिछले नाम के साथ पढ़ते हैं: वे उन तीनों गुणों की भी माता, अर्थात् कारण, हैं जिनसे शेष सब उत्पन्न होता है। अथवा, क्योंकि नाम में कोई विशेषण नहीं है, वे समस्त जगत् की माता हैं।"
+  },
+  "inner": {
+    "en": "He quotes the Tantrarāja: the three guṇas are the cause of the lights, the forms of power and the world, and that which causes the guṇas themselves is called the strength and the very life of the mantras. The Mother is that life within every mantra.",
+    "hi": "वे तन्त्रराज उद्धृत करते हैं: तीनों गुण तेजों, शक्ति-मूर्तियों और प्रपञ्च के कारण हैं, और जो इन गुणों का भी कारण है वही मन्त्रों का वीर्य और उनका जीव कहलाता है। माँ ही हर मन्त्र के भीतर का वह जीवन हैं।"
+  },
+  "story": {
+    "en": "In the verse this name is joined to Triguṇā by sandhi (triguṇā + ambā), which is why the printed text marks it with an avagraha. Bhāskararāya treats them as two names, and this one-word name, “Mother”, is among the most intimate in the hymn, echoing its first name, Śrīmātā.",
+    "hi": "श्लोक में यह नाम सन्धि से ‘त्रिगुणा’ से जुड़ा है (त्रिगुणा + अम्बा), इसीलिए मुद्रित पाठ में अवग्रह है। भास्करराय दोनों को अलग नाम मानते हैं, और एक शब्द का यह नाम, ‘माँ’, स्तोत्र के सबसे आत्मीय नामों में है, जो उसके पहले नाम ‘श्रीमाता’ की प्रतिध्वनि है।"
+  },
+  "commentary": {
+    "sanskrit": "अम्बा ईदृशस्य गुणत्रयस्यापि माता कारणभूता ।",
+    "translation": {
+      "en": "Ambā: the mother, the cause, even of such a triad of guṇas.",
+      "hi": "अम्बा: ऐसे गुणत्रय की भी माता, अर्थात् कारण।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 985 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude."
+  }
+}

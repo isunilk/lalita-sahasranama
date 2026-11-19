@@ -1,0 +1,77 @@
+{
+  "number": 971,
+  "verse": 178,
+  "slug": "suvasinyarchana-prita",
+  "devanagari": "सुवासिन्यर्चनप्रीता",
+  "iastSplit": "Suvāsinyarcana-prītā",
+  "archana": "ॐ सुवासिन्यर्चनप्रीतायै नमः",
+  "syllables": [
+    "su",
+    "vā",
+    "sin",
+    "yar",
+    "ca",
+    "nap",
+    "rī",
+    "tā"
+  ],
+  "words": [
+    {
+      "sa": "सुवासिनी",
+      "meaning": {
+        "en": "a married woman whose husband is living",
+        "hi": "सुवासिनी, सौभाग्यवती स्त्री"
+      }
+    },
+    {
+      "sa": "अर्चन",
+      "meaning": {
+        "en": "worship, honouring",
+        "hi": "अर्चन, पूजन"
+      }
+    },
+    {
+      "sa": "प्रीता",
+      "meaning": {
+        "en": "pleased",
+        "hi": "प्रसन्न"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Pleased when suvāsinīs are honoured in worship",
+    "hi": "सुवासिनियों के पूजन से प्रसन्न"
+  },
+  "explanation": {
+    "en": "She is pleased by the worship of suvāsinīs. In Devī worship, married women are honoured with respect and gifts as living forms of the Goddess, and she accepts that honour as her own.",
+    "hi": "वे सुवासिनियों के पूजन से प्रसन्न होती हैं। देवी-उपासना में विवाहित स्त्रियों को देवी का जीवित रूप मानकर आदर और उपहार से पूजा जाता है, और वे उस सम्मान को अपना मानती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya glosses the name in a few words: pleased by the worship of suvāsinīs. Read with the name before, where she is one with every suvāsinī, the meaning is plain: to honour the woman before you is to honour the Devī. He gives no further hidden meaning.",
+    "hi": "भास्करराय कुछ ही शब्दों में अर्थ देते हैं: सुवासिनियों के अर्चन से प्रसन्न। पिछले नाम के साथ पढ़ने पर, जहाँ वे हर सुवासिनी से अभिन्न हैं, अर्थ स्पष्ट है: सामने की स्त्री का सम्मान देवी का सम्मान है। इससे आगे वे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "Suvāsinī pūjā, the honouring of married women, is a widespread part of Devī festivals such as Navarātri, alongside the worship of young girls as forms of the Goddess. The name ties that household custom to the Sahasranāma.",
+    "hi": "सुवासिनी-पूजा, अर्थात् विवाहित स्त्रियों का सम्मान, नवरात्रि जैसे देवी-पर्वों का प्रचलित अंग है, जैसे कन्याओं का देवी रूप में पूजन। यह नाम उस घरेलू परम्परा को सहस्रनाम से जोड़ता है।"
+  },
+  "commentary": {
+    "sanskrit": "सुवासिनीनामर्चनेन प्रीता ।",
+    "translation": {
+      "en": "Pleased by the worship of suvāsinīs.",
+      "hi": "सुवासिनियों के अर्चन से प्रसन्न।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 971 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The genitive in Bhāskararāya’s gloss can mean worship offered to suvāsinīs or worship by them; the draft follows the common understanding (worship offered to them). The edition prints the verse as सुवासिन्यर्चनप्रीताऽशोभना with a single avagraha; the master text has ऽऽ, and Bhāskararāya confirms that the next name is आशोभना. The Navarātri custom is general context."
+  }
+}

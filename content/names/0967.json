@@ -1,0 +1,66 @@
+{
+  "number": 967,
+  "verse": 177,
+  "slug": "sumangali",
+  "devanagari": "सुमङ्गली",
+  "iastSplit": "Su-maṅgalī",
+  "archana": "ॐ सुमङ्गल्यै नमः",
+  "syllables": [
+    "su",
+    "maṅ",
+    "ga",
+    "lī"
+  ],
+  "words": [
+    {
+      "sa": "सु",
+      "meaning": {
+        "en": "good, beautiful",
+        "hi": "शुभ, सुन्दर"
+      }
+    },
+    {
+      "sa": "मङ्गल",
+      "meaning": {
+        "en": "auspiciousness",
+        "hi": "मंगल"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "The Supremely Auspicious One",
+    "hi": "परम मंगलमयी"
+  },
+  "explanation": {
+    "en": "Sumaṅgalī is one whose auspiciousness is beautiful. Bhāskararāya notes that it is a term for a suvāsinī, a married woman whose husband is living, who is honoured as the very image of good fortune.",
+    "hi": "‘सुमङ्गली’ वह है जिसका मंगल सुन्दर है। भास्करराय बताते हैं कि यह सुवासिनी, अर्थात् सौभाग्यवती विवाहित स्त्री, के लिए प्रयुक्त शब्द है, जिसे सौभाग्य का साक्षात् रूप मानकर सम्मान दिया जाता है।"
+  },
+  "inner": {
+    "en": "He then says that the good auspiciousness is Brahman itself, quoting the Viṣṇu Purāṇa: that is called maṅgala which, merely by being heard, wards off all that is inauspicious and spreads a stream of good. The Atri Smṛti gives the practical side: maṅgala is always doing what is praiseworthy and avoiding what is not.",
+    "hi": "फिर वे कहते हैं कि यह शुभ मंगल स्वयं ब्रह्म है, और विष्णुपुराण उद्धृत करते हैं: वह मंगल है जो सुनने मात्र से अशुभ को दूर करता है और शुभ की धारा फैलाता है। अत्रिस्मृति इसका व्यावहारिक पक्ष बताती है: सदा प्रशंसनीय आचरण करना और अप्रशंसनीय से बचना ही मंगल है।"
+  },
+  "story": {
+    "en": "This half-verse is built of names beginning with su: Sumaṅgalī, Sukhakarī, Suveṣāḍhyā, Suvāsinī, and the next verse opens with Suvāsinyarcanaprītā. Bhāskararāya also discusses the grammar of the feminine ending in sumaṅgalī.",
+    "hi": "यह अर्धश्लोक ‘सु’ से आरम्भ होने वाले नामों से बना है: सुमङ्गली, सुखकरी, सुवेषाढ्या, सुवासिनी, और अगला श्लोक सुवासिन्यर्चनप्रीता से आरम्भ होता है। भास्करराय ‘सुमङ्गली’ के स्त्रीलिङ्ग प्रत्यय के व्याकरण की भी चर्चा करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "शोभनं मङ्गलमस्या इति सुवासिनीसंज्ञा ।",
+    "translation": {
+      "en": "“She whose auspiciousness is beautiful”: this is a term for a suvāsinī.",
+      "hi": "‘जिनका मंगल शोभन है’: यह सुवासिनी का नाम है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 967 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude."
+  }
+}

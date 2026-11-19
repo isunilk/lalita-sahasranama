@@ -1,0 +1,77 @@
+{
+  "number": 981,
+  "verse": 179,
+  "slug": "jnana-jneya-svarupini",
+  "devanagari": "ज्ञानज्ञेयस्वरूपिणी",
+  "iastSplit": "Jñāna-jñeya-svarūpiṇī",
+  "archana": "ॐ ज्ञानज्ञेयस्वरूपिण्यै नमः",
+  "syllables": [
+    "jñā",
+    "naj",
+    "ñe",
+    "yas",
+    "va",
+    "rū",
+    "pi",
+    "ṇī"
+  ],
+  "words": [
+    {
+      "sa": "ज्ञान",
+      "meaning": {
+        "en": "knowing, knowledge",
+        "hi": "ज्ञान, जानना"
+      }
+    },
+    {
+      "sa": "ज्ञेय",
+      "meaning": {
+        "en": "what is known",
+        "hi": "ज्ञेय, जो जाना जाए"
+      }
+    },
+    {
+      "sa": "स्वरूपिणी",
+      "meaning": {
+        "en": "whose own form is",
+        "hi": "जिनका स्वरूप है"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Both the knowing and the known are her own form",
+    "hi": "ज्ञान और ज्ञेय, दोनों जिनका स्वरूप हैं"
+  },
+  "explanation": {
+    "en": "Jñāna is knowing and jñeya is what is known. Bhāskararāya says that both, the seer and the seen, are her own form.",
+    "hi": "‘ज्ञान’ जानना है और ‘ज्ञेय’ वह जो जाना जाता है। भास्करराय कहते हैं कि दोनों, द्रष्टा और दृश्य, उनका अपना स्वरूप हैं।"
+  },
+  "inner": {
+    "en": "In ordinary experience there is always a knower on one side and a world on the other. This name says the division is not final: the light by which we know and everything known in that light are equally the Devī. Bhāskararāya says this in a few words and adds no further reading.",
+    "hi": "साधारण अनुभव में एक ओर जानने वाला होता है और दूसरी ओर जगत्। यह नाम कहता है कि यह विभाजन अन्तिम नहीं: जिस प्रकाश से हम जानते हैं, और उस प्रकाश में जो कुछ जाना जाता है, दोनों समान रूप से देवी हैं। भास्करराय यह कुछ ही शब्दों में कहते हैं और आगे कोई अर्थ नहीं जोड़ते।"
+  },
+  "story": {
+    "en": "The half-verse moves in three steps: she is the gesture of knowledge, she is reached by knowledge, and at last she is both knowledge and its object. Bhāskararāya’s phrase dṛg-dṛśya, “seer and seen”, recalls the Advaita practice of discerning the seer from the seen.",
+    "hi": "यह अर्धश्लोक तीन चरणों में चलता है: वे ज्ञान की मुद्रा हैं, ज्ञान से प्राप्य हैं, और अन्त में ज्ञान और ज्ञेय दोनों हैं। भास्करराय का पद ‘दृग्-दृश्य’, अर्थात् द्रष्टा और दृश्य, अद्वैत वेदान्त की उस पद्धति की याद दिलाता है जिसमें द्रष्टा को दृश्य से अलग पहचाना जाता है।"
+  },
+  "commentary": {
+    "sanskrit": "ज्ञानज्ञेये दृग्दृश्ये स्वरूपमस्याः ।",
+    "translation": {
+      "en": "Knowledge and the known, the seer and the seen, are her own form.",
+      "hi": "ज्ञान और ज्ञेय, अर्थात् द्रष्टा और दृश्य, उनका स्वरूप हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 981 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The inner layer beyond Bhāskararāya’s gloss is a reflection."
+  }
+}

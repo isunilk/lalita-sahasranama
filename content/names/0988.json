@@ -1,0 +1,68 @@
+{
+  "number": 988,
+  "verse": 180,
+  "slug": "adbhuta-charitra",
+  "devanagari": "अद्भुतचारित्रा",
+  "iastSplit": "Adbhuta-cāritrā",
+  "archana": "ॐ अद्भुतचारित्रायै नमः",
+  "syllables": [
+    "ad",
+    "bhu",
+    "ta",
+    "cā",
+    "rit",
+    "rā"
+  ],
+  "words": [
+    {
+      "sa": "अद्भुत",
+      "meaning": {
+        "en": "wonderful; also a portent",
+        "hi": "अद्भुत, आश्चर्यजनक; उत्पात भी"
+      }
+    },
+    {
+      "sa": "चारित्र",
+      "meaning": {
+        "en": "deeds, conduct",
+        "hi": "चरित्र, कार्य"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "Whose deeds are wonderful",
+    "hi": "जिनके चरित्र अद्भुत हैं"
+  },
+  "explanation": {
+    "en": "Cāritra means conduct, deeds, the story of a life. Hers are adbhuta, full of wonder: rising from the fire, conquering Bhaṇḍa, creating and dissolving worlds in play.",
+    "hi": "‘चारित्र’ का अर्थ है आचरण, कार्य, जीवन की कथा। उनके चरित्र अद्भुत हैं, आश्चर्य से भरे: अग्नि से प्रकट होना, भण्डासुर पर विजय, लीला से लोकों की रचना और लय।"
+  },
+  "inner": {
+    "en": "Bhāskararāya adds a second reading by dividing the word differently. Adbhutas are portents such as earthquakes, and the evil results that move in them are adbhuta-cārin; she protects (trā) from them. So the name also means that she guards her devotees from the harm that omens foretell.",
+    "hi": "भास्करराय शब्द को दूसरी तरह बाँटकर एक और अर्थ देते हैं। ‘अद्भुत’ भूकम्प जैसे उत्पात हैं, और उनमें विचरने वाले अशुभ फल ‘अद्भुतचारी’ हैं; वे उनसे रक्षा (त्राण) करती हैं। इस प्रकार नाम का अर्थ यह भी है कि अपशकुन जिस हानि की सूचना देते हैं, उससे वे भक्तों की रक्षा करती हैं।"
+  },
+  "story": {
+    "en": "Her wonderful deeds are told in the Lalitopākhyāna: her rising from the fire of the gods’ sacrifice, her marriage to Kāmeśvara, and her war against Bhaṇḍāsura with her army of Śaktis. The hymn’s early names, from name 65 onward, retell that war.",
+    "hi": "उनके अद्भुत चरित्र ललितोपाख्यान में कहे गए हैं: देवताओं के यज्ञ की अग्नि से उनका प्रकट होना, कामेश्वर से विवाह, और शक्तियों की सेना के साथ भण्डासुर से युद्ध। स्तोत्र के आरम्भिक नाम, नाम 65 से आगे, उसी युद्ध की कथा कहते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "अद्भुतान्याश्चर्यकराणि चारित्राणि यस्याः ।",
+    "translation": {
+      "en": "She whose deeds are adbhuta, causing wonder.",
+      "hi": "जिनके चरित्र अद्भुत, अर्थात् आश्चर्यजनक, हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 988 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude."
+  }
+}

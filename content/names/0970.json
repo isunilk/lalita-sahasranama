@@ -1,0 +1,59 @@
+{
+  "number": 970,
+  "verse": 177,
+  "slug": "suvasini",
+  "devanagari": "सुवासिनी",
+  "iastSplit": "Suvāsinī",
+  "archana": "ॐ सुवासिन्यै नमः",
+  "syllables": [
+    "su",
+    "vā",
+    "si",
+    "nī"
+  ],
+  "words": [
+    {
+      "sa": "सुवासिनी",
+      "meaning": {
+        "en": "a married woman whose husband is living",
+        "hi": "सुवासिनी, सौभाग्यवती विवाहित स्त्री"
+      }
+    }
+  ],
+  "meaning": {
+    "en": "The ever-married one, whose Lord lives forever",
+    "hi": "नित्य सौभाग्यवती, जिनके स्वामी सदा जीवित हैं"
+  },
+  "explanation": {
+    "en": "A suvāsinī is a married woman whose husband is living, the traditional image of good fortune. Bhāskararāya says she is a suvāsinī for all time: her Lord never dies, so her good fortune never ends.",
+    "hi": "सुवासिनी वह विवाहित स्त्री है जिसके पति जीवित हैं, जो परम्परा में सौभाग्य का प्रतीक है। भास्करराय कहते हैं कि वे सर्वकाल के लिए सुवासिनी हैं: उनके स्वामी की कभी मृत्यु नहीं होती, इसलिए उनका सौभाग्य कभी समाप्त नहीं होता।"
+  },
+  "inner": {
+    "en": "He adds a second reading: she is not different from all the suvāsinīs, the married women of the world. Every such woman is a form of her, which is why the next name says she is pleased when they are honoured. Her unbroken union with Śiva is the inner sense of the image: consciousness and its power are never apart.",
+    "hi": "वे एक दूसरा अर्थ भी देते हैं: वे संसार की सभी सुवासिनियों से अभिन्न हैं। प्रत्येक सौभाग्यवती स्त्री उन्हीं का रूप है, और इसीलिए अगला नाम कहता है कि उनके सम्मान से वे प्रसन्न होती हैं। शिव से उनका अटूट मिलन इस चित्र का भीतरी अर्थ है: चेतना और उसकी शक्ति कभी अलग नहीं होतीं।"
+  },
+  "story": {
+    "en": "A verse of the Saundaryalaharī says that at the great dissolution, when Brahmā, Viṣṇu and the other gods pass away, her husband alone remains, at play. The same picture stands behind this name.",
+    "hi": "सौन्दर्यलहरी का एक श्लोक कहता है कि महाप्रलय में, जब ब्रह्मा, विष्णु और अन्य देवता भी नहीं रहते, तब केवल उनके पति ही क्रीड़ा करते रहते हैं। इस नाम के पीछे भी वही चित्र है।"
+  },
+  "commentary": {
+    "sanskrit": "सुवासिनी सार्वकालं जीवत्पतिका ।",
+    "translation": {
+      "en": "Suvāsinī: she whose husband lives for all time.",
+      "hi": "सुवासिनी: जिनके पति सर्वकाल जीवित हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 970 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": {
+    "chant": null,
+    "slow": null
+  },
+  "review": {
+    "status": "draft",
+    "notes": "Drafted by Claude. The Saundaryalaharī reference (the verse on the great dissolution, usually numbered 26) is context, not cited by Bhāskararāya here. The last two sentences of the inner layer go beyond his gloss and are a reflection."
+  }
+}
