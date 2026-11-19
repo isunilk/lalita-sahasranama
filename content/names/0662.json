@@ -1,0 +1,43 @@
+{
+  "number": 662,
+  "verse": 131,
+  "slug": "ashta-murti",
+  "devanagari": "अष्टमूर्तिः",
+  "iastSplit": "Aṣṭa-mūrtiḥ",
+  "archana": "ॐ अष्टमूर्तये नमः",
+  "syllables": ["aṣ", "ṭa", "mūr", "tiḥ"],
+  "words": [
+    { "sa": "अष्ट", "meaning": { "en": "eight", "hi": "आठ" } },
+    { "sa": "मूर्ति", "meaning": { "en": "form, embodiment", "hi": "मूर्ति, रूप" } }
+  ],
+  "meaning": {
+    "en": "She who has eight forms",
+    "hi": "आठ मूर्तियों वाली"
+  },
+  "explanation": {
+    "en": "Aṣṭa is eight and mūrti is form or embodiment. She shows herself in eight forms; in one list Bhāskararāya gives, these are the five elements, the sun, the moon, and one more, the individual self, heaven or the consecrated sacrificer.",
+    "hi": "अष्ट का अर्थ है आठ और मूर्ति का अर्थ है रूप, देह। वे आठ रूपों में प्रकट होती हैं; भास्करराय की दी एक सूची में ये हैं पाँच महाभूत, सूर्य, चन्द्रमा, और एक और: जीवात्मा, स्वर्ग या दीक्षित यजमान।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gathers several lists of eight. From yoga śāstra he gives eight aspects of the self, from the individual self (jīvātman) through the supreme self to the elemental self (bhūtātman). From the Gītā he takes the eightfold prakṛti: earth, water, fire, air, space, mind, intellect and ego. Each list says the same thing: whatever the world is made of, from matter to the self, is her form.",
+    "hi": "भास्करराय आठ की कई सूचियाँ देते हैं। योगशास्त्र से वे आत्मा के आठ रूप बताते हैं, जीवात्मा से परमात्मा होते हुए भूतात्मा तक। गीता से वे आठ प्रकार की प्रकृति लेते हैं: पृथ्वी, जल, अग्नि, वायु, आकाश, मन, बुद्धि और अहंकार। हर सूची एक ही बात कहती है: जगत् जिस किसी से बना है, जड़ से लेकर आत्मा तक, वह सब उन्हीं का रूप है।"
+  },
+  "story": {
+    "en": "Aṣṭamūrti is also a well-known title of Śiva, and Bhāskararāya quotes the Viṣṇu Purāṇa’s list of the eight forms: sun, water, earth, fire, air, space, the consecrated brāhmaṇa and the moon. From the Matsya Purāṇa he adds the eight bodies of Sarasvatī: Lakṣmī, Medhā, Dharā, Puṣṭi, Gaurī, Tuṣṭi, Prabhā and Dhṛti.",
+    "hi": "अष्टमूर्ति शिव की भी प्रसिद्ध उपाधि है, और भास्करराय विष्णुपुराण से आठ मूर्तियों की सूची उद्धृत करते हैं: सूर्य, जल, पृथ्वी, अग्नि, वायु, आकाश, दीक्षित ब्राह्मण और चन्द्रमा। मत्स्यपुराण से वे सरस्वती के आठ शरीर भी जोड़ते हैं: लक्ष्मी, मेधा, धरा, पुष्टि, गौरी, तुष्टि, प्रभा और धृति।"
+  },
+  "commentary": {
+    "sanskrit": "पञ्चमहाभूतानि सूर्याचन्द्रमसौ जीवात्मस्वर्गदीक्षितानामन्यतम एक इत्यष्टसंख्या मूर्तयो यस्याः ।",
+    "translation": {
+      "en": "The five great elements, the sun and the moon, and one more from among the individual self, heaven and the consecrated sacrificer: she whose forms number eight.",
+      "hi": "पाँच महाभूत, सूर्य और चन्द्रमा, तथा जीवात्मा, स्वर्ग और दीक्षित (यजमान) में से कोई एक: इस प्रकार जिनकी मूर्तियाँ आठ हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 662 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The archana अष्टमूर्तये follows the nāmāvali; as a feminine i-stem the dative अष्टमूर्त्यै would also be grammatical. In the verse the name is joined by sandhi: अष्टमूर्तिरजाजैत्री. Bhāskararāya also gives Kaula lists of eight (Samayācāra Smṛti, Rudrayāmala) and the eight goddesses beginning with Brāhmī and with Vaśinī; these are not reproduced." }
+}

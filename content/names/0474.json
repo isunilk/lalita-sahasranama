@@ -1,0 +1,42 @@
+{
+  "number": 474,
+  "verse": 97,
+  "slug": "yashasvini",
+  "devanagari": "यशस्विनी",
+  "iastSplit": "Yaśasvinī",
+  "archana": "ॐ यशस्विन्यै नमः",
+  "syllables": ["ya", "śas", "vi", "nī"],
+  "words": [
+    { "sa": "यशस्विनी", "meaning": { "en": "possessed of yaśas, glory (yaśas + -vinī, ‘having’)", "hi": "यश से युक्त" } }
+  ],
+  "meaning": {
+    "en": "She who is glorious, full of renown",
+    "hi": "यशस्विनी, कीर्ति से परिपूर्ण"
+  },
+  "explanation": {
+    "en": "Yaśas is glory, fame, renown. Yaśasvinī is she whose glory is great and known everywhere.",
+    "hi": "यश का अर्थ है कीर्ति, ख्याति। यशस्विनी वे हैं जिनका यश महान है और सर्वत्र फैला है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives the literal sense, with Pāṇini’s rule for the suffix -vin, and quotes the śruti: ‘His name is great glory.’ He gives no hidden meaning beyond this. If her very name is glory, then chanting her names is itself a share in that glory.",
+    "hi": "भास्करराय शब्दार्थ देते हैं, ‘विन्’ प्रत्यय के लिए पाणिनि का सूत्र बताते हैं, और श्रुति उद्धृत करते हैं: ‘उसका नाम ही महान यश है।’ इससे आगे वे कोई गूढ़ अर्थ नहीं देते। यदि उनका नाम ही यश है, तो उनके नामों का जप स्वयं उस यश में सहभागी होना है।"
+  },
+  "story": {
+    "en": "The words echo a Vedic verse found in the Śukla Yajurveda and the Śvetāśvatara Upaniṣad: ‘There is no likeness of him whose name is great glory.’",
+    "hi": "ये शब्द शुक्ल यजुर्वेद और श्वेताश्वतर उपनिषद् में आने वाले वैदिक मन्त्र की याद दिलाते हैं: ‘जिसका नाम महान यश है, उसकी कोई प्रतिमा (उपमा) नहीं।’"
+  },
+  "commentary": {
+    "sanskrit": "यशोऽस्या अस्तीति यशस्विनी ।",
+    "translation": {
+      "en": "She has yaśas, glory; so she is Yaśasvinī.",
+      "hi": "उनमें यश है, इसलिए वे यशस्विनी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 474 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya quotes the śruti as तस्य नाम महद्यशः; the parallel in the story (न तस्य प्रतिमा अस्ति यस्य नाम महद्यशः, Vājasaneyi Saṃhitā 32.3 and Śvetāśvatara 4.19) is added context. The last sentence of the inner layer is a reflection." }
+}

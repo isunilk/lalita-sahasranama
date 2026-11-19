@@ -1,0 +1,44 @@
+{
+  "number": 479,
+  "verse": 98,
+  "slug": "vadanaika-samanvita",
+  "devanagari": "वदनैकसमन्विता",
+  "iastSplit": "Vadanaika-samanvitā",
+  "archana": "ॐ वदनैकसमन्वितायै नमः",
+  "syllables": ["va", "da", "nai", "ka", "sa", "man", "vi", "tā"],
+  "words": [
+    { "sa": "वदन", "meaning": { "en": "face", "hi": "वदन, मुख" } },
+    { "sa": "एक", "meaning": { "en": "one", "hi": "एक" } },
+    { "sa": "समन्विता", "meaning": { "en": "endowed with", "hi": "समन्विता, युक्त" } }
+  ],
+  "meaning": {
+    "en": "She who has a single face",
+    "hi": "एक मुख वाली"
+  },
+  "explanation": {
+    "en": "Vadana is face and eka is one: as Ḍākinī, the yoginī of the throat centre, she has a single face. With this the picture of Ḍākinī’s form is complete; the next names give her food, her seat in the body and her retinue.",
+    "hi": "वदन का अर्थ है मुख और एक का अर्थ है एक: कण्ठ-चक्र की योगिनी डाकिनी के रूप में उनका एक ही मुख है। इससे डाकिनी के रूप का चित्र पूरा होता है; अगले नाम उनका प्रिय भोजन, शरीर में उनका स्थान और उनका परिवार बताते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya explains the grammar: vadana-eka means ‘a face, and that one’. Normally eka would come first in such a compound, but he says the rule placing it first is not binding, so the order is reversed. He gives no hidden meaning here.",
+    "hi": "भास्करराय व्याकरण समझाते हैं: ‘वदनैक’ का अर्थ है ‘मुख, और वह एक’। ऐसे समास में सामान्यतः ‘एक’ पहले आता, पर वे कहते हैं कि उसे पहले रखने का नियम अनिवार्य नहीं, इसलिए क्रम उलटा है। यहाँ वे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "In the yoginī names the number of faces grows from centre to centre: Ḍākinī has one, Rākiṇī two, Lākinī three, Kākinī four, Sākinī five and Hākinī six, and Yākinī is sarvatomukhī, facing every way (name 532).",
+    "hi": "योगिनी-नामों में चक्र-दर-चक्र मुखों की संख्या बढ़ती जाती है: डाकिनी का एक मुख है, राकिणी के दो, लाकिनी के तीन, काकिनी के चार, साकिनी के पाँच और हाकिनी के छह, और याकिनी सर्वतोमुखी हैं, अर्थात् सब ओर मुख वाली (नाम 532)।"
+  },
+  "commentary": {
+    "sanskrit": "वदनं च तदेकं च । पूर्वकालैकेति समासः । अनित्यत्वान्न पूर्वनिपातः । तेन समन्विता युक्ता ।",
+    "translation": {
+      "en": "‘A face, and that one’: the compound follows the rule beginning pūrvakāla-eka. Since the rule on word order is not binding, eka is not placed first. She is samanvitā, endowed, with that.",
+      "hi": "‘वदन, और वह एक’: यह समास ‘पूर्वकालैक…’ सूत्र से बना है। क्रम का नियम अनिवार्य न होने से ‘एक’ पहले नहीं रखा गया। वे उससे समन्वित, अर्थात् युक्त, हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 479 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. ‘Not binding’ renders अनित्यत्वात्; the rule meant is Pāṇini 2.1.49 (पूर्वकालैकसर्वजरत्पुराणनवकेवलाः समानाधिकरणेन)." }
+}

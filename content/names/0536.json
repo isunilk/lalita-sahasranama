@@ -1,0 +1,42 @@
+{
+  "number": 536,
+  "verse": 110,
+  "slug": "svadha",
+  "devanagari": "स्वधा",
+  "iastSplit": "Svadhā",
+  "archana": "ॐ स्वधायै नमः",
+  "syllables": ["sva", "dhā"],
+  "words": [
+    { "sa": "स्वधा", "meaning": { "en": "the call that accompanies an offering to the ancestors", "hi": "पितरों को अर्पण करते समय का उच्चारण" } }
+  ],
+  "meaning": {
+    "en": "Svadhā, the call with which offerings are given to the ancestors",
+    "hi": "स्वधा, वह उच्चारण जिससे पितरों को अर्पण दिया जाता है"
+  },
+  "explanation": {
+    "en": "Svadhā is the word spoken when offerings are made to the ancestors, as svāhā is for the gods. The Devī is this word and its meaning: the giving that sustains those who have gone before.",
+    "hi": "‘स्वधा’ वह शब्द है जो पितरों को अर्पण करते समय बोला जाता है, जैसे देवताओं के लिए ‘स्वाहा’। देवी यही शब्द और इसका अर्थ हैं: वह दान जो पूर्वजों का पोषण करता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes a hymn: ‘You are svāhā, by whose utterance all the gods are satisfied in every sacrifice; and since you are the cause of the ancestors’ satisfaction, people utter you as svadhā.’ He derives the word as she who well sustains and nourishes ‘a’, that is Viṣṇu, or her own. So the power that feeds gods and ancestors alike is hers.",
+    "hi": "भास्करराय एक स्तुति उद्धृत करते हैं: ‘हे देवि, तुम स्वाहा हो, जिसके उच्चारण से सब यज्ञों में समस्त देवगण तृप्त होते हैं; और तुम पितृगण की तृप्ति का कारण हो, इसीलिए लोग तुम्हें स्वधा कहकर उच्चारते हैं।’ वे शब्द की व्युत्पत्ति देते हैं: जो ‘अ’, अर्थात् विष्णु, का या अपने जनों का भली-भाँति धारण-पोषण करती हैं। इस प्रकार देवताओं और पितरों दोनों का पोषण करने वाली शक्ति वही हैं।"
+  },
+  "story": {
+    "en": "Svāhā and svadhā stand together as the two calls of offering: svāhā in the fire rites for the gods, svadhā in the rites for the ancestors. As with svāhā, Bhāskararāya notes that the archana may be svadhā namaḥ if the word is taken as an indeclinable, and svadhāyai namaḥ if it is a feminine noun.",
+    "hi": "स्वाहा और स्वधा अर्पण के दो उच्चारणों के रूप में साथ आते हैं: देवताओं के यज्ञ में स्वाहा, और पितरों के कर्मों में स्वधा। स्वाहा की भाँति भास्करराय बताते हैं कि शब्द को अव्यय मानें तो अर्चना ‘स्वधा नमः’ हो सकती है, और स्त्रीलिङ्ग संज्ञा मानें तो ‘स्वधायै नमः’।"
+  },
+  "commentary": {
+    "sanskrit": "सुष्ठु अं विष्णुं स्वान्वा दधाति पोषयतीति स्वधा ।",
+    "translation": {
+      "en": "Svadhā: she who well (su) sustains, that is, nourishes, ‘a’, Viṣṇu, or her own (sva).",
+      "hi": "स्वधा: जो ‘अ’, अर्थात् विष्णु, को या अपने जनों को भली-भाँति धारण करती हैं, अर्थात् पोषण करती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 536 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Archana kept as स्वधायै नमः (web list and master); Bhāskararāya allows स्वधा नमः (see story). The hymn verse he quotes, introduced only as ‘elsewhere’ (यस्याः समस्तसुरता …), appears to be from the Devī Māhātmya (chapter 4); the content does not name it." }
+}

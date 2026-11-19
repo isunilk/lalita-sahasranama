@@ -1,0 +1,43 @@
+{
+  "number": 668,
+  "verse": 131,
+  "slug": "dvaita-varjita",
+  "devanagari": "द्वैतवर्जिता",
+  "iastSplit": "Dvaita-varjitā",
+  "archana": "ॐ द्वैतवर्जितायै नमः",
+  "syllables": ["dvai", "ta", "var", "ji", "tā"],
+  "words": [
+    { "sa": "द्वैत", "meaning": { "en": "duality", "hi": "द्वैत" } },
+    { "sa": "वर्जिता", "meaning": { "en": "free of, without", "hi": "रहित" } }
+  ],
+  "meaning": {
+    "en": "She in whom duality never existed",
+    "hi": "जिनमें द्वैत कभी था ही नहीं"
+  },
+  "explanation": {
+    "en": "Dvaita is duality and varjitā means ‘devoid of’. Duality was not removed from her at some point; it never existed in her at all.",
+    "hi": "द्वैत का अर्थ है दो होने का भाव, और वर्जिता का अर्थ है उससे रहित। द्वैत उनसे किसी समय हटाया नहीं गया; वह उनमें कभी था ही नहीं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives the reason: difference is not ultimately real, so its absence holds at all times. Freedom from duality is therefore not a new state that she, or the seeker, comes to acquire; it is what has always been the case.",
+    "hi": "भास्करराय कारण बताते हैं: भेद तात्त्विक नहीं है, इसलिए उसका अभाव सब कालों में है। अतः द्वैत से मुक्ति कोई नई अवस्था नहीं जिसे वे, या साधक, बाद में प्राप्त करें; वह सदा से ऐसी ही है।"
+  },
+  "story": {
+    "en": "This name completes the pair begun with Nirdvaitā and ends verse 131, which moves from her eight forms to her being alone, infinite and beyond all duality.",
+    "hi": "यह नाम निर्द्वैता से आरम्भ हुए जोड़े को पूरा करता है और श्लोक 131 को समाप्त करता है, जो उनकी आठ मूर्तियों से चलकर उनके एकाकी, अनन्त और द्वैतातीत होने तक पहुँचता है।"
+  },
+  "commentary": {
+    "sanskrit": "न पुनर्द्वैतं पूर्वं स्थितं पश्चान्निर्गतम् । मूलत एव तु नास्तीत्याह- द्वैतवर्जितेति ।",
+    "translation": {
+      "en": "It is not that duality first existed and later went out; to say that it does not exist at all, from the very root, the hymn says Dvaitavarjitā.",
+      "hi": "ऐसा नहीं कि द्वैत पहले था और बाद में निकल गया; वह मूल से ही नहीं है, यह बताने के लिए ‘द्वैतवर्जिता’ कहा गया।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 668 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The second sentence of the inner layer is a reflection." }
+}

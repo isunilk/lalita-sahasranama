@@ -1,0 +1,43 @@
+{
+  "number": 467,
+  "verse": 96,
+  "slug": "sukshma-rupini",
+  "devanagari": "सूक्ष्मरूपिणी",
+  "iastSplit": "Sūkṣma-rūpiṇī",
+  "archana": "ॐ सूक्ष्मरूपिण्यै नमः",
+  "syllables": ["sūk", "ṣma", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "सूक्ष्म", "meaning": { "en": "subtle, fine", "hi": "सूक्ष्म" } },
+    { "sa": "रूपिणी", "meaning": { "en": "having the form of", "hi": "रूप वाली" } }
+  ],
+  "meaning": {
+    "en": "She whose form is subtle, beyond the reach of the senses",
+    "hi": "सूक्ष्म रूप वाली, जो इन्द्रियों की पहुँच से परे हैं"
+  },
+  "explanation": {
+    "en": "Her form is subtle: too fine to be seen with the eyes or grasped by the mind. The hymn has described her visible beauty at length; this name reminds us that she is also beyond sight.",
+    "hi": "उनका रूप सूक्ष्म है: इतना महीन कि न आँखें उसे देख सकती हैं, न मन उसे पकड़ सकता है। स्तोत्र ने उनके दृश्य सौन्दर्य का विस्तार से वर्णन किया है; यह नाम याद दिलाता है कि वे दृष्टि से परे भी हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says her form is subtle and hard to know, citing the śruti: ‘subtler than the subtle, eternal’ and ‘smaller than the smallest’. He adds that the Devī has three forms, gross, subtle and supreme; commenting on name 6 he describes them as the form with hands and feet, the form made of mantra, and the supreme form made of vāsanā. He also says sūkṣma is the name of an inner fire-offering described in the Tantrarāja, and that she is its form.",
+    "hi": "भास्करराय कहते हैं कि उनका रूप सूक्ष्म और दुर्ज्ञेय है, और श्रुति उद्धृत करते हैं: ‘सूक्ष्म से भी सूक्ष्मतर, नित्य’ और ‘अणु से भी अणुतर’। वे जोड़ते हैं कि देवी के तीन रूप हैं, स्थूल, सूक्ष्म और पर; नाम 6 की व्याख्या में वे इन्हें हाथ-पैर वाला रूप, मन्त्रमय रूप और वासनामय पर रूप बताते हैं। वे यह भी कहते हैं कि ‘सूक्ष्म’ तन्त्रराज में वर्णित एक आन्तरिक होम का नाम है, और वे उसी का रूप हैं।"
+  },
+  "story": {
+    "en": "‘Smaller than the smallest’ (aṇor aṇīyān) is a phrase of the Kaṭha and Śvetāśvatara Upaniṣads, describing the Self hidden in the heart of every creature.",
+    "hi": "‘अणोरणीयान्’, अर्थात् ‘अणु से भी अणुतर’, कठ और श्वेताश्वतर उपनिषदों का वचन है, जो हर प्राणी के हृदय में छिपे आत्मा का वर्णन करता है।"
+  },
+  "commentary": {
+    "sanskrit": "सूक्ष्मं दुर्ज्ञेयं रूपमस्याः । सूक्ष्मात्सूक्ष्मतरं नित्यम् अणोरणीयानिति च श्रुतेः ।",
+    "translation": {
+      "en": "Her form is subtle, hard to know; for the śruti says, ‘subtler than the subtle, eternal’, and ‘smaller than the smallest’.",
+      "hi": "उनका रूप सूक्ष्म, अर्थात् दुर्ज्ञेय, है; क्योंकि श्रुति कहती है: ‘सूक्ष्म से भी सूक्ष्मतर, नित्य’ और ‘अणु से भी अणुतर’।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 467 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The account of the three forms is from Bhāskararāya’s comment on name 6 (करचरणादिविशिष्टं स्थूलम्। मन्त्रमयं सूक्ष्मम्। वासनामयं परम्). The details of the Tantrarāja inner offering are deliberately left out." }
+}

@@ -1,0 +1,42 @@
+{
+  "number": 449,
+  "verse": 94,
+  "slug": "kanti",
+  "devanagari": "कान्तिः",
+  "iastSplit": "Kāntiḥ",
+  "archana": "ॐ कान्त्यै नमः",
+  "syllables": ["kān", "tiḥ"],
+  "words": [
+    { "sa": "कान्ति", "meaning": { "en": "loveliness, radiance; also desire", "hi": "कान्ति, शोभा; इच्छा भी" } }
+  ],
+  "meaning": {
+    "en": "Loveliness and radiance itself",
+    "hi": "कान्ति, अर्थात् शोभा और दीप्ति का स्वरूप"
+  },
+  "explanation": {
+    "en": "Kānti is loveliness, the radiant charm that draws the heart. She is that loveliness itself.",
+    "hi": "कान्ति का अर्थ है शोभा, वह दीप्त आकर्षण जो मन को खींच लेता है। वे स्वयं वही कान्ति हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says the word kānti may also denote icchā-śakti, the power of will, first of her three powers of will, knowledge and action. The word comes from the root kam, ‘to desire’, the root of kāma too, which explains the reading. In this light her loveliness and her will to create are one.",
+    "hi": "भास्करराय कहते हैं कि ‘कान्ति’ शब्द से इच्छाशक्ति भी कही जा सकती है, जो इच्छा, ज्ञान और क्रिया, उनकी इन तीन शक्तियों में पहली है। यह शब्द ‘कम्’ (चाहना) धातु से बना है, जिससे ‘काम’ भी बना है; इससे यह अर्थ समझ में आता है। इस दृष्टि से उनकी कान्ति और सृष्टि की उनकी इच्छा एक ही हैं।"
+  },
+  "story": {
+    "en": "This closes the seven quality-names that Bhāskararāya reads together, from Tuṣṭi (443) onward. Radiance returns in Kāntimatī (465), ‘she who has radiance’.",
+    "hi": "इससे वे सात गुण-नाम पूरे होते हैं जिन्हें भास्करराय तुष्टि (443) से एक साथ पढ़ते हैं। कान्ति आगे कान्तिमती (465), अर्थात् ‘कान्ति वाली’, नाम में फिर आती है।"
+  },
+  "commentary": {
+    "sanskrit": "कान्तिशब्देनेच्छाशक्तिर्वोच्यते ।",
+    "translation": {
+      "en": "Or the word kānti denotes the power of will, icchā-śakti.",
+      "hi": "अथवा ‘कान्ति’ शब्द से इच्छाशक्ति कही जाती है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 449 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The note on the root kam and the last sentence of the inner layer are explanation and reflection, not Bhāskararāya’s words." }
+}

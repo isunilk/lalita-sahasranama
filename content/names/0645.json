@@ -1,0 +1,44 @@
+{
+  "number": 645,
+  "verse": 128,
+  "slug": "sarva-vedanta-samvedya",
+  "devanagari": "सर्ववेदान्तसंवेद्या",
+  "iastSplit": "Sarva-vedānta-saṃvedyā",
+  "archana": "ॐ सर्ववेदान्तसंवेद्यायै नमः",
+  "syllables": ["sar", "va", "ve", "dān", "ta", "saṃ", "ved", "yā"],
+  "words": [
+    { "sa": "सर्व", "meaning": { "en": "all", "hi": "सभी" } },
+    { "sa": "वेदान्त", "meaning": { "en": "Vedānta, the Upaniṣads", "hi": "वेदान्त, उपनिषद्" } },
+    { "sa": "संवेद्या", "meaning": { "en": "to be fully and rightly known", "hi": "सम्यक् रूप से जानने योग्य" } }
+  ],
+  "meaning": {
+    "en": "She who is rightly known through all the Upaniṣads",
+    "hi": "सभी उपनिषदों से सम्यक् रूप से जानी जाने वाली"
+  },
+  "explanation": {
+    "en": "Vedānta, ‘the end of the Veda’, means the Upaniṣads. All of them together have her as the one thing they make known; saṃvedyā means ‘to be known fully and rightly’.",
+    "hi": "वेदान्त, अर्थात् ‘वेद का अन्त’, उपनिषदों को कहते हैं। सभी उपनिषद् मिलकर उन्हीं को जनाते हैं; ‘संवेद्या’ का अर्थ है जिन्हें पूर्ण और सम्यक् रूप से जाना जाए।"
+  },
+  "inner": {
+    "en": "Bhāskararāya glosses it simply: she is to be rightly known through all the Vedāntas, the groups of Upaniṣads. He supports it from the Varāha Purāṇa, which calls her the threefold power and the power of knowledge that runs through all of Vedānta. He gives no further hidden meaning: the many teachings of the Upaniṣads point to one reality, and that reality is she.",
+    "hi": "भास्करराय इसे सरल रूप में समझाते हैं: वे सभी वेदान्तों, अर्थात् उपनिषदों के समूहों, से सम्यक् रूप से जानने योग्य हैं। वे वराहपुराण का प्रमाण देते हैं, जो उन्हें त्रिशक्ति और समस्त वेदान्त में व्याप्त ज्ञानात्मिका शक्ति कहता है। इसके आगे वे कोई गूढ़ अर्थ नहीं देते: उपनिषदों की अनेक शिक्षाएँ एक ही सत्य की ओर संकेत करती हैं, और वह सत्य वे ही हैं।"
+  },
+  "story": {
+    "en": "This name and the next speak in the language of the Upaniṣads: here she is what all of them teach, and next she is truth and bliss, their own words for Brahman.",
+    "hi": "यह नाम और अगला नाम उपनिषदों की भाषा में बोलते हैं: यहाँ वे सभी उपनिषदों की प्रतिपाद्य हैं, और अगले नाम में वे सत्य और आनन्द हैं, जो उपनिषदों में ब्रह्म के ही नाम हैं।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वैर्वेदान्तैरुपनिषत्समूहैः समयग्वेद्या ।",
+    "translation": {
+      "en": "To be rightly known through all the Vedāntas, the groups of Upaniṣads.",
+      "hi": "सभी वेदान्तों, अर्थात् उपनिषदों के समूहों, से सम्यक् रूप से जानने योग्य।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 645 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition prints the name in its verse heading as सर्ववेदान्तसेवद्या and the gloss as समयग्वेद्या, evidently misprints for संवेद्या and सम्यग्वेद्या; the quotation keeps the printed text. The last sentence of the inner layer is a reflection." }
+}

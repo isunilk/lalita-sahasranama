@@ -1,0 +1,44 @@
+{
+  "number": 551,
+  "verse": 112,
+  "slug": "sarva-vyadhi-prashamani",
+  "devanagari": "सर्वव्याधिप्रशमनी",
+  "iastSplit": "Sarva-vyādhi-praśamanī",
+  "archana": "ॐ सर्वव्याधिप्रशमन्यै नमः",
+  "syllables": ["sar", "vav", "yā", "dhip", "ra", "śa", "ma", "nī"],
+  "words": [
+    { "sa": "सर्व", "meaning": { "en": "all", "hi": "सभी" } },
+    { "sa": "व्याधि", "meaning": { "en": "disease, illness", "hi": "व्याधि, रोग" } },
+    { "sa": "प्रशमनी", "meaning": { "en": "who allays, cures", "hi": "शमन करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who allays every illness",
+    "hi": "जो सभी रोगों का शमन करती हैं"
+  },
+  "explanation": {
+    "en": "Vyādhi is disease and praśamanī she who calms and removes it. Bhāskararāya says she is the cause of the destruction of all diseases, such as fever.",
+    "hi": "‘व्याधि’ रोग है और ‘प्रशमनी’ वे जो उसे शान्त कर मिटा देती हैं। भास्करराय कहते हैं कि वे ज्वर आदि सभी रोगों के नाश का कारण हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya keeps to the plain sense, bodily illness, with fever as his example, and gives no hidden meaning. The next name widens the promise from illness to death itself.",
+    "hi": "भास्करराय सीधा अर्थ ही देते हैं, शारीरिक रोग, ज्वर के उदाहरण के साथ, और कोई गूढ़ अर्थ नहीं देते। अगला नाम इस आश्वासन को रोग से आगे बढ़ाकर स्वयं मृत्यु तक ले जाता है।"
+  },
+  "story": {
+    "en": "Names 551 and 552 make up the second line of verse 112, a pair of protecting names: she removes every illness and wards off every death.",
+    "hi": "नाम 551 और 552 श्लोक 112 की दूसरी पंक्ति बनाते हैं, रक्षा के दो नाम: वे हर रोग को दूर करती हैं और हर मृत्यु को टालती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वेषां व्याधीनां ज्वरादिरूपाणां प्रशमनी नाशकारणम् ।",
+    "translation": {
+      "en": "She is the praśamanī, the cause of the destruction, of all diseases such as fever.",
+      "hi": "ज्वर आदि सभी रोगों की वे प्रशमनी, अर्थात् उनके नाश का कारण, हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 551 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense." }
+}

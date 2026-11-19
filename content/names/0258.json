@@ -1,0 +1,42 @@
+{
+  "number": 258,
+  "verse": 62,
+  "slug": "svapanti",
+  "devanagari": "स्वपन्ती",
+  "iastSplit": "Svapantī",
+  "archana": "ॐ स्वपन्त्यै नमः",
+  "syllables": ["sva", "pan", "tī"],
+  "words": [
+    {"sa": "स्वपन्ती", "meaning": {"en": "the dreaming one, she who sleeps", "hi": "स्वप्न देखती, सोती हुई"}}
+  ],
+  "meaning": {
+    "en": "She who dreams: the soul in the dream state",
+    "hi": "स्वप्न अवस्था वाली, स्वप्न देखता जीव"
+  },
+  "explanation": {
+    "en": "In dream the senses are at rest, yet the mind makes a whole world that seems vivid and real. This name says she is the dreamer too. The one who sees and lives the dream is not apart from her.",
+    "hi": "स्वप्न में इन्द्रियाँ शान्त रहती हैं, फिर भी मन एक पूरा जगत् रच लेता है जो स्पष्ट और सच्चा लगता है। यह नाम कहता है कि स्वप्न देखने वाली भी वही हैं। स्वप्न को देखने और जीने वाला उनसे अलग नहीं।"
+  },
+  "inner": {
+    "en": "Again from the Pratyabhijñā, Bhāskararāya defines dream: things appearing vividly along the path of the mind alone, mistaken for objects of the senses. The dreamer (svapan) is the soul called taijasa, who identifies with the subtle body; she, one with him, is Svapantī. The mind’s own creations, too, are lit by her.",
+    "hi": "भास्करराय फिर प्रत्यभिज्ञा से स्वप्न की परिभाषा देते हैं: केवल मन के मार्ग में स्पष्ट दिखने वाले पदार्थ, जिन्हें भ्रम से इन्द्रियों का विषय मान लिया जाता है। स्वप्न देखने वाला ‘तैजस’ नामक जीव है, जो सूक्ष्म शरीर से तादात्म्य रखता है; उससे अभिन्न देवी स्वपन्ती हैं। मन की अपनी रचनाएँ भी उन्हीं के प्रकाश से प्रकाशित हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya notes the grammar: svapantī is the feminine of the participle svapan, ‘sleeping, dreaming’, formed by Pāṇini’s rule ugitaś ca. The next name gives the cosmic side of the same dream state.",
+    "hi": "भास्करराय व्याकरण भी बताते हैं: ‘स्वपन्ती’ शतृ-प्रत्ययान्त ‘स्वपन्’ (सोता, स्वप्न देखता) का स्त्रीलिंग है, जो पाणिनि के सूत्र ‘उगितश्च’ से बनता है। अगला नाम इसी स्वप्न अवस्था का समष्टि-पक्ष बताता है।"
+  },
+  "commentary": {
+    "sanskrit": "स्वपितीति स्वपन् स्वप्नदशापन्नस्तैजसाख्यः सूक्ष्मशरीरव्यष्ट्यभिमानी जीवः तदभिन्ना स्वपन्ती ।",
+    "translation": {
+      "en": "One who sleeps is svapan: the soul in the dream state, called taijasa, who as an individual identifies with the subtle body. She who is one with him is Svapantī.",
+      "hi": "जो सोता है वह ‘स्वपन्’ है: स्वप्न-दशा में स्थित, ‘तैजस’ नामक जीव, जो व्यष्टि रूप में सूक्ष्म शरीर का अभिमानी है। उससे अभिन्न देवी स्वपन्ती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 258 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The last sentence of the inner layer is a reflection." }
+}

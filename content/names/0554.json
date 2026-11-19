@@ -1,0 +1,43 @@
+{
+  "number": 554,
+  "verse": 113,
+  "slug": "achintya-rupa",
+  "devanagari": "अचिन्त्यरूपा",
+  "iastSplit": "Acintya-rūpā",
+  "archana": "ॐ अचिन्त्यरूपायै नमः",
+  "syllables": ["a", "cin", "tya", "rū", "pā"],
+  "words": [
+    { "sa": "अचिन्त्य", "meaning": { "en": "inconceivable, beyond thought", "hi": "अचिन्त्य, चिन्तन से परे" } },
+    { "sa": "रूप", "meaning": { "en": "form, nature", "hi": "रूप, स्वरूप" } }
+  ],
+  "meaning": {
+    "en": "Whose form is beyond thought",
+    "hi": "जिनका रूप चिन्तन से परे है"
+  },
+  "explanation": {
+    "en": "Acintya means what cannot be thought, and rūpa is form. Her true form cannot be grasped by the mind.",
+    "hi": "‘अचिन्त्य’ वह है जिसका चिन्तन न हो सके, और ‘रूप’ का अर्थ है स्वरूप। उनका वास्तविक स्वरूप मन की पकड़ से परे है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives the reason: her form is free of any contact with the guṇas. The mind can think only of what has qualities, so what lies beyond the guṇas cannot become its object. The long description of her beauty earlier in the hymn is given for the devotee’s sake; her own nature remains beyond it.",
+    "hi": "भास्करराय इसका कारण देते हैं: उनका रूप गुणों के सम्पर्क से रहित है। मन केवल गुणों वाली वस्तु का ही चिन्तन कर सकता है, इसलिए जो गुणों से परे है, वह उसका विषय नहीं बन सकता। स्तोत्र में पहले उनके सौन्दर्य का विस्तृत वर्णन भक्त के लिए है; उनका अपना स्वरूप उससे भी परे है।"
+  },
+  "story": {
+    "en": "In the chanted verse the name is joined to the one before it: agragaṇyā’cintyarūpā. It stands between ‘she who is counted first’ and ‘destroyer of the sins of the Kali age’.",
+    "hi": "पाठ में यह नाम पिछले नाम से जुड़ा है: ‘अग्रगण्याऽचिन्त्यरूपा’। यह ‘सबसे पहले गिनी जाने वाली’ और ‘कलियुग के पापों का नाश करने वाली’ के बीच स्थित है।"
+  },
+  "commentary": {
+    "sanskrit": "गुणसम्पर्कशून्यत्वादचिन्त्यं चिन्तयितुमशक्यं रूपमस्याः ।",
+    "translation": {
+      "en": "Because it is free of contact with the guṇas, her form is acintya, impossible to think of.",
+      "hi": "गुणों के सम्पर्क से रहित होने के कारण उनका रूप अचिन्त्य है, जिसका चिन्तन करना सम्भव नहीं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 554 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The second sentence of the inner layer unpacks Bhāskararāya’s reason; the last sentence is a reflection." }
+}

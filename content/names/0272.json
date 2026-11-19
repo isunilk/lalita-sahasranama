@@ -1,0 +1,43 @@
+{
+  "number": 272,
+  "verse": 64,
+  "slug": "sada-shiva",
+  "devanagari": "सदाशिवा",
+  "iastSplit": "Sadā-śivā",
+  "archana": "ॐ सदाशिवायै नमः",
+  "syllables": ["sa", "dā", "śi", "vā"],
+  "words": [
+    {"sa": "सदा", "meaning": {"en": "always, ever", "hi": "सदा, नित्य"}},
+    {"sa": "शिवा", "meaning": {"en": "auspicious; the power of Śiva", "hi": "मंगलमयी; शिव की शक्ति"}}
+  ],
+  "meaning": {
+    "en": "One with Sadāśiva, the ever-auspicious Lord",
+    "hi": "नित्य मंगलमय ईश्वर सदाशिव से अभिन्न"
+  },
+  "explanation": {
+    "en": "Sadāśiva means ‘ever auspicious’. In the Śaiva scheme he is the highest of the five Lords, the one through whom the fifth act, grace, flows. This name says she is one with him.",
+    "hi": "‘सदाशिव’ का अर्थ है ‘सदा मंगलमय’। शैव योजना में वे पाँच ईश्वरों में सर्वोच्च हैं, जिनके द्वारा पाँचवाँ कृत्य, अनुग्रह, प्रवाहित होता है। यह नाम कहता है कि वे उनसे अभिन्न हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya: Sadāśiva is the Lord in whom a rarer, finer pure sattva prevails, and being one with him she is Sadāśivā. The progression is subtle: Brahmā, Viṣṇu and Rudra carry the three guṇas, while Īśvara and Sadāśiva carry pure sattva, first dense and then ever finer. The Lord closest to grace is the one least weighed down by any quality.",
+    "hi": "भास्करराय कहते हैं: सदाशिव वे ईश्वर हैं जिनमें विरलतर, अर्थात् और भी सूक्ष्म, शुद्ध सत्त्व प्रधान है, और उनसे अभिन्न होने से वे सदाशिवा हैं। यह क्रम सूक्ष्म है: ब्रह्मा, विष्णु और रुद्र तीन गुणों के वाहक हैं, जबकि ईश्वर और सदाशिव शुद्ध सत्त्व के, पहले घने, फिर और भी सूक्ष्म। अनुग्रह के सबसे निकट वही ईश्वर हैं जिन पर किसी गुण का भार सबसे कम है।"
+  },
+  "story": {
+    "en": "In the verse this name and the next are joined as sadāśivānugrahadā; the master text counts Sadāśivā and Anugrahadā as two names. Bhāskararāya notes the grammar: the feminine ending ā is added because the word ends in a.",
+    "hi": "श्लोक में यह नाम और अगला नाम ‘सदाशिवानुग्रहदा’ के रूप में जुड़े हैं; मूल पाठ सदाशिवा और अनुग्रहदा को दो नाम गिनता है। भास्करराय व्याकरण भी बताते हैं: शब्द अकारान्त होने से स्त्रीलिंग का ‘टाप्’ प्रत्यय लगता है।"
+  },
+  "commentary": {
+    "sanskrit": "विरलतरशुद्धसत्त्वप्रधान ईश्वरः सदाशिवस्तदभेदात्सदाशिवा ।",
+    "translation": {
+      "en": "Sadāśiva is the Lord in whom a rarer, finer pure sattva predominates; being one with him, she is Sadāśivā.",
+      "hi": "सदाशिव वे ईश्वर हैं जिनमें विरलतर शुद्ध सत्त्व प्रधान है; उनसे अभिन्न होने से वे सदाशिवा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 272 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. In the verse fused with the next name (सदाशिवानुग्रहदा). The last sentence of the inner layer is a reflection." }
+}

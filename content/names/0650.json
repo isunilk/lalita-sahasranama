@@ -1,0 +1,43 @@
+{
+  "number": 650,
+  "verse": 129,
+  "slug": "drishya-rahita",
+  "devanagari": "दृश्यरहिता",
+  "iastSplit": "Dṛśya-rahitā",
+  "archana": "ॐ दृश्यरहितायै नमः",
+  "syllables": ["dṛś", "ya", "ra", "hi", "tā"],
+  "words": [
+    { "sa": "दृश्य", "meaning": { "en": "what is seen, the world of objects", "hi": "दृश्य, दिखाई देने वाला जगत्" } },
+    { "sa": "रहिता", "meaning": { "en": "without, free of", "hi": "रहित" } }
+  ],
+  "meaning": {
+    "en": "She who is free of anything seen",
+    "hi": "दृश्य जगत् से रहित"
+  },
+  "explanation": {
+    "en": "Dṛśya is all that can be seen, the world of objects, and rahitā means ‘without’. She is not only unseen herself; in truth nothing seen stands beside her as a second thing.",
+    "hi": "दृश्य का अर्थ है वह सब जो देखा जा सकता है, अर्थात् विषयों का संसार; रहिता का अर्थ है उससे रहित। वे न केवल स्वयं अदृश्य हैं, बल्कि वास्तव में कोई दृश्य वस्तु दूसरी बनकर उनके साथ खड़ी नहीं है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says the seen world is real only at the level of everyday experience; from the standpoint of the absolute it does not exist, and so she is free of it. Or, he says, she is consciousness without an object. This is pure awareness before it turns toward anything.",
+    "hi": "भास्करराय कहते हैं कि दृश्य जगत् केवल व्यवहार के स्तर पर सत्य है; परमार्थ की दृष्टि से उसका अस्तित्व नहीं, इसलिए वे उससे रहित हैं। अथवा, वे कहते हैं, वे निर्विषय संवित्, विषय-रहित चेतना हैं। यह किसी भी वस्तु की ओर मुड़ने से पहले की शुद्ध चेतना है।"
+  },
+  "story": {
+    "en": "This name sharpens the one before it. Adṛśyā says she cannot be seen; Dṛśyarahitā says that for her there is finally nothing to be seen.",
+    "hi": "यह नाम पिछले नाम को और गहरा करता है। ‘अदृश्या’ कहता है कि वे देखी नहीं जा सकतीं; ‘दृश्यरहिता’ कहता है कि उनके लिए अन्ततः देखने को कुछ है ही नहीं।"
+  },
+  "commentary": {
+    "sanskrit": "निर्विषया संविद्वा ।",
+    "translation": {
+      "en": "Or, she is consciousness without an object.",
+      "hi": "अथवा, वे निर्विषय संवित्, अर्थात् विषय-रहित चेतना, हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 650 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s first gloss is printed …पारमार्थिकभाववत्त्वाद्दृश्यरहिता; the sense requires पारमार्थिकाभाव- (absolute non-existence), as in his gloss on name 652, so it is paraphrased with that reading and not quoted. The last sentence of the inner layer is a reflection." }
+}

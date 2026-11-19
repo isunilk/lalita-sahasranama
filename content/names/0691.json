@@ -1,0 +1,45 @@
+{
+  "number": 691,
+  "verse": 135,
+  "slug": "chatur-anga-baleshvari",
+  "devanagari": "चतुरङ्गबलेश्वरी",
+  "iastSplit": "Catur-aṅga-baleśvarī",
+  "archana": "ॐ चतुरङ्गबलेश्वर्यै नमः",
+  "syllables": ["ca", "tu", "raṅ", "ga", "ba", "leś", "va", "rī"],
+  "words": [
+    { "sa": "चतुर्", "meaning": { "en": "four", "hi": "चार" } },
+    { "sa": "अङ्ग", "meaning": { "en": "limb, division", "hi": "अंग" } },
+    { "sa": "बल", "meaning": { "en": "army, force", "hi": "सेना, बल" } },
+    { "sa": "ईश्वरी", "meaning": { "en": "ruler, sovereign", "hi": "स्वामिनी, अधीश्वरी" } }
+  ],
+  "meaning": {
+    "en": "Ruler of the fourfold army",
+    "hi": "चतुरंगिणी सेना की स्वामिनी"
+  },
+  "explanation": {
+    "en": "A classical army has four limbs: elephants, horses, chariots and foot-soldiers. She is the ruler of that fourfold force.",
+    "hi": "पारम्परिक सेना के चार अंग होते हैं: हाथी, घोड़े, रथ और पैदल सैनिक। वे इस चतुरंगिणी सेना की स्वामिनी हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives a second reading. Aṅgabala, “those whose strength is their limbs”, can mean the vyūhas, the emanations of the Lord, so she is the self of the four vyūhas. These, he says, are Vāsudeva and the others, known in Śaiva and Śākta Purāṇas as in Vaiṣṇava ones; or the four persons of the Bahvṛca Upaniṣad: the person of the body, of metre, of the Veda, and the great person.",
+    "hi": "भास्करराय दूसरा अर्थ भी देते हैं। ‘अङ्गबल’ — जिनका बल उनके अंग ही हैं — से व्यूह समझे जा सकते हैं, अर्थात् भगवान् के प्रकट रूप; अतः वे चार व्यूहों की आत्मा हैं। वे कहते हैं कि ये वासुदेव आदि व्यूह हैं, जो वैष्णव पुराणों की तरह शैव और शाक्त पुराणों में भी प्रसिद्ध हैं; अथवा बह्वृच उपनिषद् में कहे गए चार पुरुष: शरीर-पुरुष, छन्दः-पुरुष, वेद-पुरुष और महापुरुष।"
+  },
+  "story": {
+    "en": "The hymn has already shown her army on the march against Bhaṇḍāsura: the elephant corps led by Sampatkarī and the cavalry of Aśvārūḍhā (names 66–67), and the great chariots of the Devī herself, of Mantriṇī and of Daṇḍanāthā (names 68–70).",
+    "hi": "स्तोत्र पहले ही भण्डासुर के विरुद्ध कूच करती उनकी सेना दिखा चुका है: सम्पत्करी के नेतृत्व में गज-सेना और अश्वारूढा की अश्व-सेना (नाम 66–67), तथा स्वयं देवी के, मन्त्रिणी के और दण्डनाथा के महान रथ (नाम 68–70)।"
+  },
+  "commentary": {
+    "sanskrit": "चत्वारि हस्त्यश्वरथपादातरूपाण्यङ्गानि येषां",
+    "translation": {
+      "en": "(The forces) whose four aṅgas, limbs, are elephants, horses, chariots and foot-soldiers.",
+      "hi": "(वे सेनाएँ) जिनके चार अंग हैं — हाथी, घोड़े, रथ और पैदल।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 691 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The commentary excerpt stops before the edition’s misprint बालानामीश्वरी (for बलानामीश्वरी, ‘ruler of the forces’). The edition also prints चतुर्थव्यूहात्मा, evidently for चतुर्व्यूहात्मा (the four vyūhas), and छन्दपुरुषः for छन्दःपुरुषः; check. His grammatical note (ङीष् after a dvigu, for the vyūha reading) is not included." }
+}

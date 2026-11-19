@@ -1,0 +1,43 @@
+{
+  "number": 477,
+  "verse": 98,
+  "slug": "trilochana",
+  "devanagari": "त्रिलोचना",
+  "iastSplit": "Tri-locanā",
+  "archana": "ॐ त्रिलोचनायै नमः",
+  "syllables": ["tri", "lo", "ca", "nā"],
+  "words": [
+    { "sa": "त्रि", "meaning": { "en": "three", "hi": "तीन" } },
+    { "sa": "लोचन", "meaning": { "en": "eye", "hi": "लोचन, नेत्र" } }
+  ],
+  "meaning": {
+    "en": "She who has three eyes",
+    "hi": "तीन नेत्रों वाली"
+  },
+  "explanation": {
+    "en": "Locana means eye. As Ḍākinī of the throat centre, she has three eyes, as her dhyāna describes.",
+    "hi": "लोचन का अर्थ है नेत्र। कण्ठ-चक्र की डाकिनी के रूप में उनके तीन नेत्र हैं, जैसा उनके ध्यान में वर्णित है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the plain sense: she whose eyes are three. He gives no hidden meaning here; the name follows Ḍākinī’s dhyāna, which calls her tri-netrā, three-eyed. Earlier the hymn called her Trinayanā (453), and he read her three eyes there as the moon, the sun and fire.",
+    "hi": "भास्करराय केवल सीधा अर्थ देते हैं: जिनके तीन नेत्र हैं। यहाँ वे कोई गूढ़ अर्थ नहीं देते; यह नाम डाकिनी के ध्यान का अनुसरण करता है, जो उन्हें ‘त्रिनेत्रा’ कहता है। पहले स्तोत्र ने उन्हें त्रिनयना (453) कहा था, और वहाँ भास्करराय ने उनके तीन नेत्रों को चन्द्र, सूर्य और अग्नि बताया था।"
+  },
+  "story": {
+    "en": "Bhāskararāya holds that no name in the hymn is a mere repetition. Read in his way, Trinayanā (453) describes the Goddess herself, while Trilocanā belongs to the description of Ḍākinī.",
+    "hi": "भास्करराय मानते हैं कि स्तोत्र का कोई नाम केवल पुनरावृत्ति नहीं है। उनकी दृष्टि से पढ़ें तो त्रिनयना (453) स्वयं देवी का वर्णन है, जबकि त्रिलोचना डाकिनी के वर्णन का अंग है।"
+  },
+  "commentary": {
+    "sanskrit": "त्रीणि लोचनानि यस्याः ।",
+    "translation": {
+      "en": "She whose eyes are three.",
+      "hi": "जिनके तीन लोचन हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 477 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the contrast with name 453 is an explanation, not his comment here." }
+}

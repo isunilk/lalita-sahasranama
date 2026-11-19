@@ -1,0 +1,43 @@
+{
+  "number": 267,
+  "verse": 63,
+  "slug": "govinda-rupini",
+  "devanagari": "गोविन्दरूपिणी",
+  "iastSplit": "Govinda-rūpiṇī",
+  "archana": "ॐ गोविन्दरूपिण्यै नमः",
+  "syllables": ["go", "vin", "da", "rū", "pi", "ṇī"],
+  "words": [
+    {"sa": "गोविन्द", "meaning": {"en": "Govinda, a name of Viṣṇu", "hi": "गोविन्द, विष्णु का नाम"}},
+    {"sa": "रूपिणी", "meaning": {"en": "in the form of", "hi": "रूप धारण करने वाली"}}
+  ],
+  "meaning": {
+    "en": "Who has the form of Govinda, Viṣṇu the preserver",
+    "hi": "पालनकर्ता गोविन्द (विष्णु) के रूप वाली"
+  },
+  "explanation": {
+    "en": "Govinda is a name of Viṣṇu, the preserver of the worlds. This name says that he too is her form. The one who protects the world as Viṣṇu is the Devī herself.",
+    "hi": "गोविन्द विष्णु का नाम है, जो लोकों के पालनकर्ता हैं। यह नाम कहता है कि वे भी देवी का ही रूप हैं। जो विष्णु के रूप में जगत् की रक्षा करते हैं, वे स्वयं देवी हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya: Govinda is the Lord of this kind, in whom sattva prevails, that is, Viṣṇu, and he is her form. He quotes Nārada in the Harivaṃśa, who calls Umā the first part of Prakṛti and says that Viṣṇu, the all-pervading sustainer of the worlds, is spoken of as feminine. As a further reading, since the Viśvaprakāśa lexicon also gives Bṛhaspati as a meaning of govinda, she may be ‘in the form of Bṛhaspati’, teacher of the gods.",
+    "hi": "भास्करराय कहते हैं: गोविन्द ऐसे ही सत्त्व-प्रधान ईश्वर, अर्थात् विष्णु, हैं, और वे उनका रूप हैं। वे हरिवंश में नारद का वचन उद्धृत करते हैं, जो उमादेवी को प्रकृति का प्रथम भाग कहते हैं और बताते हैं कि लोकों के भावन, सर्वव्यापी विष्णु ‘स्त्रीसंज्ञक’ हैं। एक और अर्थ यह है कि विश्वप्रकाश कोश ‘गोविन्द’ का अर्थ बृहस्पति भी देता है, इसलिए वे ‘बृहस्पति-रूपा’, अर्थात् देवगुरु के रूप वाली, भी हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya gathers old explanations of the name Govinda. In one, Indra tells Kṛṣṇa, ‘I am lord of the gods; you have become lord of the cows, and men on earth will sing of you as Govinda.’ In the Mahābhārata Viṣṇu says he found (avindam) the lost earth hidden in a cave, and in the Harivaṃśa go means speech, which he finds.",
+    "hi": "भास्करराय ‘गोविन्द’ नाम की पुरानी व्युत्पत्तियाँ एकत्र करते हैं। एक में इन्द्र कृष्ण से कहते हैं: ‘मैं देवताओं का इन्द्र हूँ; तुम गौओं के इन्द्र बन गए हो, पृथ्वी पर मनुष्य तुम्हें गोविन्द नाम से गाएँगे।’ महाभारत के मोक्षधर्म में विष्णु कहते हैं कि उन्होंने गुफा में छिपी खोई हुई पृथ्वी को पाया (अविन्दम्), और हरिवंश में ‘गो’ का अर्थ वाणी है, जिसे वे प्राप्त कराते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "गोविन्दस्तादृश ईश्वरो विष्णुः स एव रूपमस्याः ।",
+    "translation": {
+      "en": "Govinda is such a Lord, Viṣṇu; he himself is her form.",
+      "hi": "गोविन्द ऐसे ही ईश्वर, अर्थात् विष्णु, हैं; वे ही इनका रूप हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 267 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude." }
+}

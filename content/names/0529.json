@@ -1,0 +1,44 @@
+{
+  "number": 529,
+  "verse": 109,
+  "slug": "sarva-varnopashobhita",
+  "devanagari": "सर्ववर्णोपशोभिता",
+  "iastSplit": "Sarva-varṇopaśobhitā",
+  "archana": "ॐ सर्ववर्णोपशोभितायै नमः",
+  "syllables": ["sar", "va", "var", "ṇo", "pa", "śo", "bhi", "tā"],
+  "words": [
+    { "sa": "सर्व", "meaning": { "en": "all", "hi": "सभी" } },
+    { "sa": "वर्ण", "meaning": { "en": "colour; letter of the alphabet", "hi": "रंग; अक्षर" } },
+    { "sa": "उपशोभिता", "meaning": { "en": "adorned, graced", "hi": "सुशोभित" } }
+  ],
+  "meaning": {
+    "en": "Adorned with every colour, and with all the letters",
+    "hi": "सभी वर्णों से सुशोभित, रंगों से भी और अक्षरों से भी"
+  },
+  "explanation": {
+    "en": "Varṇa means both colour and letter. Bhāskararāya first reads it as colour: she is graced with every colour, rose, dark, red, yellow and the rest, and so is many-coloured.",
+    "hi": "‘वर्ण’ के दो अर्थ हैं: रंग और अक्षर। भास्करराय पहले इसे रंग के अर्थ में लेते हैं: वे पाटल, श्याम, रक्त, पीत आदि सभी रंगों से शोभित हैं, अर्थात् चित्रवर्णा हैं।"
+  },
+  "inner": {
+    "en": "The colours he lists are those of the yoginīs before her, so the crown holds them all. He then reads varṇa as letter: she is surrounded by the fifty śaktis from Amṛtā to Kṣamāvatī, whose letters run from a to kṣa, set in the petals. Taken forward and back they make a hundred, and placed ten times over they fill the thousand petals.",
+    "hi": "वे जिन रंगों को गिनाते हैं, वे पिछली योगिनियों के ही रंग हैं; इस प्रकार शिखर उन सबको धारण करता है। फिर वे ‘वर्ण’ को अक्षर के अर्थ में लेते हैं: वे अमृता से क्षमावती तक उन पचास शक्तियों से घिरी हैं जिनके अक्षर ‘अ’ से ‘क्ष’ तक हैं और जो दलों में स्थित हैं। अनुलोम और विलोम क्रम से वे सौ होती हैं, और दस बार स्थित होकर हजार दलों को भर देती हैं।"
+  },
+  "story": {
+    "en": "Both readings are in the meditation verse he quotes for Yākinī, which calls her ‘of all colours’ and ‘surrounded by the hosts of letter-śaktis from a to kṣa’.",
+    "hi": "दोनों अर्थ उनके द्वारा उद्धृत याकिनी के ध्यान-श्लोक में मिलते हैं, जो उन्हें ‘सर्ववर्णा’ और ‘अ से क्ष तक के वर्णों की शक्तियों के समूह से घिरी’ कहता है।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वैर्वर्णैः पाटलश्यामरक्तपीतादिरूपैरुपशोभिता । चित्रवर्णेति यावत् ।",
+    "translation": {
+      "en": "Graced with all colours, such as rose, dark, red and yellow; that is, she is many-coloured.",
+      "hi": "पाटल, श्याम, रक्त, पीत आदि सभी वर्णों से सुशोभित; अर्थात् चित्रवर्णा।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 529 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Both readings are Bhāskararāya’s. The remark that the colours he lists are those of the earlier yoginīs (Ḍākinī to Kākinī, in order) is an observation from the names. A further technical remark on the prefix उप, and his note that some perform the nyāsa of these śaktis ten times, are left out. Meaning only; no practice." }
+}

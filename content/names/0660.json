@@ -1,0 +1,43 @@
+{
+  "number": 660,
+  "verse": 130,
+  "slug": "supratishtha",
+  "devanagari": "सुप्रतिष्ठा",
+  "iastSplit": "Supratiṣṭhā",
+  "archana": "ॐ सुप्रतिष्ठायै नमः",
+  "syllables": ["sup", "ra", "tiṣ", "ṭhā"],
+  "words": [
+    { "sa": "सु", "meaning": { "en": "good, beautiful", "hi": "शोभन, उत्तम" } },
+    { "sa": "प्रतिष्ठा", "meaning": { "en": "firm foundation, ground", "hi": "प्रतिष्ठा, आधार" } }
+  ],
+  "meaning": {
+    "en": "She who is the firm, auspicious foundation of the world",
+    "hi": "जगत् का शोभन और दृढ़ आधार"
+  },
+  "explanation": {
+    "en": "Pratiṣṭhā means a firm foundation, the ground on which something stands, and su- means good or beautiful. She is the excellent foundation on which the world is established.",
+    "hi": "प्रतिष्ठा का अर्थ है दृढ़ आधार, वह भूमि जिस पर कुछ स्थित होता है, और ‘सु’ का अर्थ है उत्तम, शोभन। वे वह श्रेष्ठ आधार हैं जिस पर जगत् प्रतिष्ठित है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya glosses it as the beautiful foundation, the adhiṣṭhāna or substratum of the world. In Vedānta the substratum is what remains real beneath every appearance, as the rope beneath the snake imagined on it. His other reading is that she is the metre called Supratiṣṭhā, of twenty syllables.",
+    "hi": "भास्करराय इसका अर्थ शोभन प्रतिष्ठा, अर्थात् जगत् का अधिष्ठान, बताते हैं। वेदान्त में अधिष्ठान वह है जो हर प्रतीति के नीचे सत्य रूप में बना रहता है, जैसे कल्पित साँप के नीचे रस्सी। उनका दूसरा अर्थ है कि वे बीस अक्षरों वाले ‘सुप्रतिष्ठा’ नामक छन्द का रूप हैं।"
+  },
+  "story": {
+    "en": "This name stands between Sarvādhārā and Sadasadrūpadhāriṇī: she supports all, she is the sure ground of all, and she bears both being and non-being.",
+    "hi": "यह नाम सर्वाधारा और सदसद्रूपधारिणी के बीच स्थित है: वे सबकी आधार हैं, सबकी दृढ़ भूमि हैं, और सत् तथा असत् दोनों रूपों को धारण करती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "शोभना प्रतिष्ठा जगतोऽधिष्ठानं सुप्रतिष्ठाख्यविंशत्यक्षरछन्दोविशेषरूपा वा ।",
+    "translation": {
+      "en": "The beautiful foundation, the substratum of the world; or, she is the particular metre of twenty syllables called Supratiṣṭhā.",
+      "hi": "शोभन प्रतिष्ठा, अर्थात् जगत् का अधिष्ठान; अथवा, वे बीस अक्षरों वाले ‘सुप्रतिष्ठा’ नामक विशेष छन्द का रूप हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 660 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The rope-and-snake illustration in the inner layer is the standard Vedānta example, not Bhāskararāya’s words." }
+}

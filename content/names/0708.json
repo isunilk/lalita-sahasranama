@@ -1,0 +1,44 @@
+{
+  "number": 708,
+  "verse": 138,
+  "slug": "sarvopadhi-vinirmukta",
+  "devanagari": "सर्वोपाधिविनिर्मुक्ता",
+  "iastSplit": "Sarvopādhi-vinirmuktā",
+  "archana": "ॐ सर्वोपाधिविनिर्मुक्तायै नमः",
+  "syllables": ["sar", "vo", "pā", "dhi", "vi", "nir", "muk", "tā"],
+  "words": [
+    { "sa": "सर्व", "meaning": { "en": "all", "hi": "सब, सभी" } },
+    { "sa": "उपाधि", "meaning": { "en": "limiting adjunct, qualifying attribute", "hi": "उपाधि, सीमित करने वाला विशेषण" } },
+    { "sa": "विनिर्मुक्त", "meaning": { "en": "wholly freed", "hi": "पूर्णतः मुक्त" } }
+  ],
+  "meaning": {
+    "en": "Wholly free of every limiting adjunct",
+    "hi": "सभी उपाधियों से पूर्णतः मुक्त"
+  },
+  "explanation": {
+    "en": "An upādhi is a limiting adjunct, an attribute that defines or bounds a thing. She is entirely free of them all, even of being Skanda’s mother, or the shadow and sunlight of the Upaniṣad.",
+    "hi": "उपाधि वह विशेषण है जो किसी वस्तु को परिभाषित या सीमित करता है। वे इन सबसे पूर्णतः मुक्त हैं — स्कन्द की माता होने से, या उपनिषद् की छाया और आतप होने से भी।"
+  },
+  "inner": {
+    "en": "The doubt now is that if both kinds of scripture are valid, the result would be difference-in-identity, not non-duality. Bhāskararāya answers that she has no real relation to any attribute; attributes appearing in her are false, like silver seen in mother-of-pearl. The scriptures of difference speak from the practical view, as eclipse reckonings describe what the eye sees, so difference and non-difference are not equals.",
+    "hi": "अब शंका यह है कि यदि दोनों प्रकार के शास्त्र प्रमाण हैं, तो परिणाम भेदाभेद होगा, अद्वैत नहीं। भास्करराय उत्तर देते हैं कि उनका किसी धर्म से वास्तविक सम्बन्ध नहीं; उनमें दिखने वाले धर्म सीपी में दिखने वाली चाँदी की तरह मिथ्या हैं। भेद बताने वाले शास्त्र व्यावहारिक दृष्टि से बोलते हैं, जैसे ग्रहण की गणना आँख से दिखने वाले ग्रास का वर्णन करती है; इसलिए भेद और अभेद समकक्ष नहीं।"
+  },
+  "story": {
+    "en": "He gives a second reading in the language of logic: she is free of the upādhis, the hidden conditions that spoil an inference, and so she is reached by sound reasoning. The name opens the last verse of this argument, which ends with the line of gurus (name 713).",
+    "hi": "वे तर्कशास्त्र की भाषा में दूसरा अर्थ भी देते हैं: वे उन ‘उपाधियों’ से रहित हैं जो अनुमान को दूषित करती हैं, इसलिए वे निर्दोष हेतु से जानी जा सकती हैं। यह नाम इस तर्क-श्रृंखला के अन्तिम श्लोक का आरम्भ करता है, जो गुरु-परम्परा (नाम 713) पर समाप्त होता है।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वैः स्कन्दजनकत्वच्छायातपत्वादिभिरुपाधिभिः सखण्डैरखण्डैश्च धर्मैर्विशिष्य निःशेषेण मुक्ता त्यक्ता धर्मसम्बन्धशून्या ।",
+    "translation": {
+      "en": "Wholly freed, let go, by all upādhis, such as being Skanda’s mother or being shadow and sunlight, by attributes divisible and indivisible: she is without relation to any attribute.",
+      "hi": "स्कन्द-जननी होना, छाया-आतप होना आदि सभी उपाधियों से — सखण्ड और अखण्ड सभी धर्मों से — वे विशेष रूप से और पूर्णतः मुक्त हैं, अर्थात् धर्म-सम्बन्ध से शून्य हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 708 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The eclipse comparison (पञ्चषाङ्गुलग्रासावेदकोपरागशास्त्रस्येव) is rendered loosely; check." }
+}

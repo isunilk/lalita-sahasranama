@@ -1,0 +1,42 @@
+{
+  "number": 651,
+  "verse": 129,
+  "slug": "vijnatri",
+  "devanagari": "विज्ञात्री",
+  "iastSplit": "Vijñātrī",
+  "archana": "ॐ विज्ञात्र्यै नमः",
+  "syllables": ["vij", "ñāt", "rī"],
+  "words": [
+    { "sa": "विज्ञात्री", "meaning": { "en": "the knower; she who knows distinctly and fully", "hi": "विज्ञात्री, विशेष रूप से जानने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who is the knower of all",
+    "hi": "सब कुछ विशेष रूप से जानने वाली"
+  },
+  "explanation": {
+    "en": "Vijñātrī is the feminine of vijñātṛ, ‘knower’. The prefix vi- means ‘distinctly, fully’: she knows everything, completely and in every detail.",
+    "hi": "विज्ञात्री ‘विज्ञाता’ (जानने वाला) का स्त्रीलिंग रूप है। ‘वि’ उपसर्ग का अर्थ है विशेष रूप से, पूर्ण रूप से: वे सब कुछ पूरी तरह और सूक्ष्मता से जानती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya glosses it as ‘she who knows in a special way’ and quotes the Upaniṣad: by what could one know the knower? She is the knowing subject in every act of knowing, and so she can never become an object known by another.",
+    "hi": "भास्करराय इसका अर्थ ‘विशेष रूप से जानने वाली’ बताते हैं और उपनिषद् का वचन उद्धृत करते हैं: अरे, विज्ञाता को किससे जाना जाए? जानने की हर क्रिया में जानने वाली वे ही हैं, इसलिए वे कभी किसी दूसरे के द्वारा जानी गई वस्तु नहीं बन सकतीं।"
+  },
+  "story": {
+    "en": "Here the verse turns from seeing to knowing. After two names about sight, Vijñātrī and Vedyavarjitā make the same point about knowledge: she is the knower, and nothing stands apart from her as a thing to be known.",
+    "hi": "यहाँ श्लोक देखने से जानने की ओर मुड़ता है। दृष्टि से जुड़े दो नामों के बाद ‘विज्ञात्री’ और ‘वेद्यवर्जिता’ यही बात ज्ञान के विषय में कहते हैं: वे जानने वाली हैं, और जानने योग्य कोई वस्तु उनसे अलग नहीं है।"
+  },
+  "commentary": {
+    "sanskrit": "विशेषेण जानातीति विज्ञात्री ।",
+    "translation": {
+      "en": "She knows in a special, distinct way; hence she is Vijñātrī.",
+      "hi": "वे विशेष रूप से जानती हैं, इसलिए विज्ञात्री हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 651 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya cites विज्ञातारमरे केन विजानीयात् only as śruti (it is Bṛhadāraṇyaka Upaniṣad 2.4.14). The last sentence of the inner layer is a reflection." }
+}

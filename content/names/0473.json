@@ -1,0 +1,43 @@
+{
+  "number": 473,
+  "verse": 97,
+  "slug": "siddha-mata",
+  "devanagari": "सिद्धमाता",
+  "iastSplit": "Siddha-mātā",
+  "archana": "ॐ सिद्धमात्रे नमः",
+  "syllables": ["sid", "dha", "mā", "tā"],
+  "words": [
+    { "sa": "सिद्ध", "meaning": { "en": "perfected one, adept", "hi": "सिद्ध" } },
+    { "sa": "माता", "meaning": { "en": "mother", "hi": "माता" } }
+  ],
+  "meaning": {
+    "en": "Mother of the siddhas, who protects them",
+    "hi": "सिद्धों की माता, उनकी रक्षिका"
+  },
+  "explanation": {
+    "en": "She is mother to the siddhas, the perfected ones. As a mother guards her children, she watches over them.",
+    "hi": "वे सिद्धों, अर्थात् पूर्णता प्राप्त साधकों, की माता हैं। जैसे माँ अपने बच्चों की रक्षा करती है, वैसे ही वे उनकी देखभाल करती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says she is their mother because she protects them. He gives no other meaning. Even the perfected still have a mother: attainment does not end the bond of grace.",
+    "hi": "भास्करराय कहते हैं कि वे उनकी रक्षा करती हैं, इसलिए उनकी माता हैं। वे इसके अतिरिक्त कोई अर्थ नहीं देते। पूर्णता पा लेने वालों की भी माँ होती है: सिद्धि कृपा के बन्धन को समाप्त नहीं करती।"
+  },
+  "story": {
+    "en": "This is the third of three names on the siddhas: their sovereign (471), the perfected knowledge (472), and their mother.",
+    "hi": "यह सिद्धों से सम्बन्धित तीन नामों में तीसरा है: उनकी अधीश्वरी (471), सिद्ध विद्या (472), और उनकी माता।"
+  },
+  "commentary": {
+    "sanskrit": "सिद्धानां माता रक्षकत्वात् ।",
+    "translation": {
+      "en": "The mother of the siddhas, because she protects them.",
+      "hi": "सिद्धों की माता, क्योंकि वे उनकी रक्षा करती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 473 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the last sentence of the inner layer is a reflection." }
+}

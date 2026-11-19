@@ -1,0 +1,45 @@
+{
+  "number": 521,
+  "verse": 107,
+  "slug": "ajna-chakrabja-nilaya",
+  "devanagari": "आज्ञाचक्राब्जनिलया",
+  "iastSplit": "Ājñā-cakrābja-nilayā",
+  "archana": "ॐ आज्ञाचक्राब्जनिलयायै नमः",
+  "syllables": ["āj", "ñā", "cak", "rāb", "ja", "ni", "la", "yā"],
+  "words": [
+    { "sa": "आज्ञा", "meaning": { "en": "command; here the Ājñā cakra", "hi": "आज्ञा; यहाँ आज्ञा चक्र" } },
+    { "sa": "चक्र", "meaning": { "en": "cakra, a centre of the subtle body", "hi": "चक्र, सूक्ष्म शरीर का केन्द्र" } },
+    { "sa": "अब्ज", "meaning": { "en": "lotus (literally, born of water)", "hi": "कमल (जल से उत्पन्न)" } },
+    { "sa": "निलय", "meaning": { "en": "abode, dwelling", "hi": "निवास, आवास" } }
+  ],
+  "meaning": {
+    "en": "Whose abode is the lotus of the Ājñā cakra",
+    "hi": "आज्ञा चक्र का कमल जिनका निवास है"
+  },
+  "explanation": {
+    "en": "The Ājñā cakra is the two-petalled lotus between the eyebrows. Here the Devī dwells as Hākinī, the sixth of the seven yoginīs in this series.",
+    "hi": "आज्ञा चक्र भौंहों के बीच स्थित दो दलों वाला कमल है। यहाँ देवी हाकिनी के रूप में निवास करती हैं, जो इस श्रृंखला की सात योगिनियों में छठी हैं।"
+  },
+  "inner": {
+    "en": "Ājñā means command. Bhāskararāya places the lotus between the brows and says simply that the yoginī Hākinī dwells there; the name he glosses as ‘she whose abode is the very lotus of the Ājñā cakra’. He gives no further hidden meaning. Of the seven centres in this series, this is the last before the thousand-petalled lotus at the crown.",
+    "hi": "‘आज्ञा’ का अर्थ है आदेश। भास्करराय इस कमल को भौंहों के मध्य बताते हैं और इतना ही कहते हैं कि वहाँ हाकिनी योगिनी निवास करती हैं; नाम का अर्थ वे देते हैं ‘आज्ञा चक्र का कमल ही जिनका निवास है’। वे इससे आगे कोई गूढ़ अर्थ नहीं देते। इस श्रृंखला के सात केन्द्रों में यह शिखर के सहस्रदल कमल से पहले का अन्तिम केन्द्र है।"
+  },
+  "story": {
+    "en": "Names 521 to 527 describe Hākinī. In the meditation verse Bhāskararāya quotes, she is white and three-eyed, holds the gesture of knowledge, a small drum, a rosary and a skull, is accompanied by Haṃsavatī and the other śakti of this lotus, and is fond above all of turmeric rice.",
+    "hi": "नाम 521 से 527 हाकिनी का वर्णन करते हैं। भास्करराय द्वारा उद्धृत ध्यान-श्लोक में वे श्वेत वर्ण की और त्रिनेत्रा हैं, ज्ञानमुद्रा, डमरू, अक्षमाला और कपाल धारण करती हैं, हंसवती आदि शक्तियों से युक्त हैं, और हल्दी वाले अन्न में ही विशेष रुचि रखती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "भ्रूमध्ये आज्ञाचक्रं नाम द्विदलं पद्मं तत्र हाकिन्याख्या योगिनी तिष्ठति ।",
+    "translation": {
+      "en": "Between the brows is the two-petalled lotus called the Ājñā cakra; there dwells the yoginī named Hākinī.",
+      "hi": "भौंहों के मध्य आज्ञा चक्र नामक दो दलों वाला कमल है; वहाँ हाकिनी नाम की योगिनी निवास करती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 521 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Meaning only; no practice. The excerpt is the sentence that introduces the Hākinī names; in the edition it stands just before this name’s line, at the end of the comment on name 520. Iconography is from the meditation verse he quotes." }
+}

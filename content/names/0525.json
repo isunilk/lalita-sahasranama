@@ -1,0 +1,45 @@
+{
+  "number": 525,
+  "verse": 108,
+  "slug": "hamsavati-mukhya-shakti-samanvita",
+  "devanagari": "हंसवतीमुख्यशक्तिसमन्विता",
+  "iastSplit": "Haṃsavatī-mukhya-śakti-samanvitā",
+  "archana": "ॐ हंसवतीमुख्यशक्तिसमन्वितायै नमः",
+  "syllables": ["haṃ", "sa", "va", "tī", "mukh", "ya", "śak", "ti", "sa", "man", "vi", "tā"],
+  "words": [
+    { "sa": "हंसवती", "meaning": { "en": "Haṃsavatī, the name of a śakti", "hi": "हंसवती, एक शक्ति का नाम" } },
+    { "sa": "मुख्य", "meaning": { "en": "chief, foremost", "hi": "प्रमुख" } },
+    { "sa": "शक्ति", "meaning": { "en": "power; attendant goddess", "hi": "शक्ति, सहचरी देवी" } },
+    { "sa": "समन्विता", "meaning": { "en": "accompanied by", "hi": "युक्त, सहित" } }
+  ],
+  "meaning": {
+    "en": "Attended by the two śaktis headed by Haṃsavatī",
+    "hi": "हंसवती आदि प्रमुख शक्तियों से युक्त"
+  },
+  "explanation": {
+    "en": "The Ājñā lotus has two petals, and Hākinī is attended by two śaktis. Bhāskararāya names them: Haṃsavatī, who stands first, and Kṣamāvatī.",
+    "hi": "आज्ञा कमल के दो दल हैं, और हाकिनी के साथ दो शक्तियाँ हैं। भास्करराय उनके नाम बताते हैं: प्रथम हंसवती, और क्षमावती।"
+  },
+  "inner": {
+    "en": "Mukhyā, he explains, means ‘standing at the head’. In each lotus of this series the attendant śaktis match the petals in number. Under name 529 he says the fifty letter-śaktis run from Amṛtā to Kṣamāvatī, matching the letters a to kṣa, so Kṣamāvatī, named here, is the śakti of the last letter of the alphabet.",
+    "hi": "वे समझाते हैं कि ‘मुख्या’ का अर्थ है ‘जो अग्रभाग में, सबसे आगे हो’। इस श्रृंखला के हर कमल में सहचरी शक्तियों की संख्या दलों के बराबर है। नाम 529 पर वे बताते हैं कि पचास वर्ण-शक्तियाँ अमृता से क्षमावती तक हैं, जो ‘अ’ से ‘क्ष’ तक के वर्णों के अनुरूप हैं; अतः यहाँ नामित क्षमावती वर्णमाला के अन्तिम अक्षर की शक्ति हैं।"
+  },
+  "story": {
+    "en": "The attendants grow fewer with the petals: sixteen śaktis led by Amṛtā in the Viśuddhi, twelve led by Kālarātri in the Anāhata, ten led by Ḍāmarī in the Maṇipūra, six led by Bandhinī in the Svādhiṣṭhāna, four led by Varadā in the Mūlādhāra, and two here. Bhāskararāya’s edition prints the verse with a space after haṃsavatī, but he explains the words as one name.",
+    "hi": "दलों के साथ सहचरियों की संख्या घटती जाती है: विशुद्धि में अमृता आदि सोलह शक्तियाँ, अनाहत में कालरात्रि आदि बारह, मणिपूर में डामरी आदि दस, स्वाधिष्ठान में बन्धिनी आदि छह, मूलाधार में वरदा आदि चार, और यहाँ दो। भास्करराय के संस्करण में श्लोक में ‘हंसवती’ के बाद अन्तराल छपा है, पर वे इन शब्दों की व्याख्या एक ही नाम के रूप में करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "मुखे भवा मुख्या हंसवत्येव मुख्या आदिर्ययोस्ताभ्यां शक्तिभ्यां हंसवतीक्षमावतीभ्यां समन्विता ।",
+    "translation": {
+      "en": "Mukhyā is ‘that which is at the head’. She is accompanied by the two śaktis of whom Haṃsavatī is the head and first, namely Haṃsavatī and Kṣamāvatī.",
+      "hi": "‘मुख्या’ अर्थात् जो मुख (अग्रभाग) में हो। जिन दो शक्तियों में हंसवती ही मुख्या और प्रथम हैं, उन हंसवती और क्षमावती से वे युक्त हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 525 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition prints हंसवती मुख्यशक्तिसमन्विता with a space; Bhāskararāya explains it as one name, as in the master text. That Kṣamāvatī is the śakti of the last letter is an inference from his comment on name 529, not his statement here. Meaning only; no practice." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 471,
+  "verse": 97,
+  "slug": "siddheshvari",
+  "devanagari": "सिद्धेश्वरी",
+  "iastSplit": "Siddheśvarī",
+  "archana": "ॐ सिद्धेश्वर्यै नमः",
+  "syllables": ["sid", "dheś", "va", "rī"],
+  "words": [
+    { "sa": "सिद्ध", "meaning": { "en": "perfected one, adept", "hi": "सिद्ध" } },
+    { "sa": "ईश्वरी", "meaning": { "en": "sovereign goddess", "hi": "ईश्वरी, अधीश्वरी" } }
+  ],
+  "meaning": {
+    "en": "Sovereign of the siddhas, the perfected ones",
+    "hi": "सिद्धों की अधीश्वरी"
+  },
+  "explanation": {
+    "en": "Siddhas are the perfected ones, adepts who have reached the goal of their discipline. She is their sovereign and mistress.",
+    "hi": "सिद्ध वे हैं जो पूर्णता को प्राप्त हो चुके हैं, जिन्होंने अपनी साधना का लक्ष्य पा लिया है। वे उन सबकी अधीश्वरी और स्वामिनी हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya names the siddhas as those headed by Gorakṣa, the great master of the Nātha tradition, and calls her their sovereign. He gives no further hidden meaning. Whatever perfection an adept attains remains under her rule.",
+    "hi": "भास्करराय सिद्धों को गोरक्ष आदि बताते हैं, जो नाथ परम्परा के महान आचार्य हैं, और उन्हें उनकी ईश्वरी कहते हैं। इससे आगे वे कोई गूढ़ अर्थ नहीं देते। किसी भी सिद्ध को जो पूर्णता मिलती है, वह उन्हीं के शासन में रहती है।"
+  },
+  "story": {
+    "en": "Bhāskararāya notes that she is well known by this very name in Kāśī (Vārāṇasī). This is the first of three names on the siddhas, with Siddhavidyā (472) and Siddhamātā (473).",
+    "hi": "भास्करराय बताते हैं कि काशी (वाराणसी) में वे इसी नाम से प्रसिद्ध हैं। यह सिद्धों से सम्बन्धित तीन नामों में पहला है; अन्य दो हैं सिद्धविद्या (472) और सिद्धमाता (473)।"
+  },
+  "commentary": {
+    "sanskrit": "गोरक्षप्रमुखानां सिद्धानामीश्वरी स्वामिनी एतन्नाम्नैव काश्यां प्रसिद्धा ।",
+    "translation": {
+      "en": "The īśvarī, the mistress, of the siddhas headed by Gorakṣa; she is famed by this very name in Kāśī.",
+      "hi": "गोरक्ष आदि सिद्धों की ईश्वरी, अर्थात् स्वामिनी; इसी नाम से वे काशी में प्रसिद्ध हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 471 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Describing Gorakṣa as a master of the Nātha tradition is added context. The last sentence of the inner layer is a reflection." }
+}

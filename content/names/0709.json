@@ -1,0 +1,45 @@
+{
+  "number": 709,
+  "verse": 138,
+  "slug": "sada-shiva-pati-vrata",
+  "devanagari": "सदाशिवपतिव्रता",
+  "iastSplit": "Sadā-śiva-pati-vratā",
+  "archana": "ॐ सदाशिवपतिव्रतायै नमः",
+  "syllables": ["sa", "dā", "śi", "va", "pa", "tiv", "ra", "tā"],
+  "words": [
+    { "sa": "सदा", "meaning": { "en": "always; with Śiva, also the name Sadāśiva", "hi": "सदा; शिव के साथ ‘सदाशिव’ नाम भी" } },
+    { "sa": "शिव", "meaning": { "en": "Śiva", "hi": "शिव" } },
+    { "sa": "पति", "meaning": { "en": "husband, lord", "hi": "पति" } },
+    { "sa": "व्रत", "meaning": { "en": "vow", "hi": "व्रत, नियम" } }
+  ],
+  "meaning": {
+    "en": "Ever vowed to Śiva alone as her husband",
+    "hi": "सदा शिव को ही पति मानने का व्रत रखने वाली"
+  },
+  "explanation": {
+    "en": "Bhāskararāya reads sadā, always, with the rest: her vow is that Śiva alone is her husband, and the vow holds for all time. He also gives the familiar reading: the devoted wife of Sadāśiva.",
+    "hi": "भास्करराय ‘सदा’ को शेष नाम के साथ पढ़ते हैं: उनका व्रत है कि शिव ही उनके पति हैं, और यह व्रत सब कालों में अटल है। वे परिचित अर्थ भी देते हैं: सदाशिव की पतिव्रता पत्नी।"
+  },
+  "inner": {
+    "en": "The doubt now is that Śakti, being an attribute, the supreme I-consciousness of Śiva, would be false like every other attribute. He answers that her being Śiva’s wife is eternal like Śiva himself, unsublated in past, present and future. In other things both the thing and its being an attribute are imagined; in Śakti only her being an attribute is imagined, not Śakti herself. So she stands on the side of Brahman.",
+    "hi": "अब शंका यह है कि शक्ति धर्म-रूप, अर्थात् शिव की परा अहन्ता, होने से अन्य धर्मों की तरह मिथ्या ठहरेगी। वे उत्तर देते हैं कि उनका शिव-पत्नी होना शिव की ही तरह सनातन है, तीनों कालों में अबाधित। अन्य पदार्थों में वस्तु भी कल्पित है और उसका धर्म होना भी; पर शक्ति में केवल धर्मत्व कल्पित है, शक्ति स्वयं नहीं। इसलिए वे ब्रह्म की ही कोटि में हैं।"
+  },
+  "story": {
+    "en": "Pativratā, a wife wholly devoted to her husband, is a classical ideal, and Bhāskararāya glosses the earlier name sādhvī (128) in the same sense. Here the image becomes doctrine: Śakti’s bond with Śiva is as real and lasting as Śiva.",
+    "hi": "पतिव्रता — पति के प्रति पूर्णतः समर्पित पत्नी — एक पारम्परिक आदर्श है, और भास्करराय पहले के नाम ‘साध्वी’ (128) का अर्थ भी इसी रूप में करते हैं। यहाँ यह चित्र सिद्धान्त बन जाता है: शिव के साथ शक्ति का सम्बन्ध उतना ही सत्य और स्थायी है जितने स्वयं शिव।"
+  },
+  "commentary": {
+    "sanskrit": "शिव एव पतिरिति व्रतं नियमः सदा सार्वकालिको यस्याः । शिवस्य पत्नीत्वं शिववदेव सदातनं कालत्रयाबाध्यमिति यावत् ।",
+    "translation": {
+      "en": "She whose vrata, vow, that Śiva alone is her husband, holds sadā, for all time. That is, her being Śiva’s wife is eternal like Śiva himself, unsublated in the three times.",
+      "hi": "शिव ही पति हैं — यह व्रत अर्थात् नियम जिनका सदा, सब कालों में है। अर्थात् उनका शिव-पत्नी होना शिव की ही तरह सनातन और तीनों कालों में अबाध्य है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 709 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s first reading divides सदा + शिवपतिव्रता; his alternative is सदाशिवस्य पतिव्रता. The split Sadā-śiva-pati-vratā fits both." }
+}

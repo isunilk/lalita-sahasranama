@@ -1,0 +1,45 @@
+{
+  "number": 661,
+  "verse": 130,
+  "slug": "sad-asad-rupa-dharini",
+  "devanagari": "सदसद्रूपधारिणी",
+  "iastSplit": "Sad-asad-rūpa-dhāriṇī",
+  "archana": "ॐ सदसद्रूपधारिण्यै नमः",
+  "syllables": ["sa", "da", "sad", "rū", "pa", "dhā", "ri", "ṇī"],
+  "words": [
+    { "sa": "सत्", "meaning": { "en": "being, the real", "hi": "सत्, जो है" } },
+    { "sa": "असत्", "meaning": { "en": "non-being, what is other than the real", "hi": "असत्, जो सत् से भिन्न है" } },
+    { "sa": "रूप", "meaning": { "en": "form", "hi": "रूप" } },
+    { "sa": "धारिणी", "meaning": { "en": "who bears, holds", "hi": "धारण करने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who bears the forms of both being and non-being",
+    "hi": "सत् और असत् दोनों रूपों को धारण करने वाली"
+  },
+  "explanation": {
+    "en": "Sat is being and asat is non-being; rūpa is form and dhāriṇī is ‘one who bears’. She takes on both: Brahman, which truly is, and the world, which is other than that.",
+    "hi": "सत् का अर्थ है जो है, और असत् का अर्थ है जो नहीं है; रूप का अर्थ है आकार और धारिणी का अर्थ है धारण करने वाली। वे दोनों को धारण करती हैं: ब्रह्म को, जो वास्तव में है, और जगत् को, जो उससे भिन्न है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says sat is Brahman and asat is the world: the world is really neither real nor unreal, but is called asat simply because it is other than the real. He gives further readings: she illumines both the real and the merely imagined as objects of knowledge, or she is the ground of all presence and absence. He quotes the Skanda Purāṇa: whatever shines as existing, and whatever as not existing, all is fashioned by the māyā of Mahādeva.",
+    "hi": "भास्करराय कहते हैं कि सत् ब्रह्म है और असत् जगत्: जगत् वास्तव में न सत् है न असत्, पर सत् से भिन्न होने मात्र के कारण उसे असत् कहा जाता है। वे और अर्थ भी देते हैं: वे सत्य और केवल कल्पित, दोनों को ज्ञान के विषय के रूप में प्रकाशित करती हैं; अथवा वे सारे भाव और अभाव का अधिष्ठान हैं। वे स्कन्दपुराण का वचन उद्धृत करते हैं: जो कुछ ‘है’ के रूप में भासता है और जो ‘नहीं है’ के रूप में भी, वह सब महादेव की माया से कल्पित है।"
+  },
+  "story": {
+    "en": "For calling the world asat he points to Upaniṣadic passages such as ‘in the beginning this was asat’, where the word means only ‘other than sat’. With this name verse 130 ends.",
+    "hi": "जगत् को ‘असत्’ कहने के समर्थन में वे ‘असद्वा इदमग्र आसीत्’ (आरम्भ में यह असत् था) जैसे उपनिषद्-वचनों की ओर संकेत करते हैं, जहाँ इस शब्द का अर्थ केवल ‘सत् से भिन्न’ है। इस नाम के साथ श्लोक 130 पूरा होता है।"
+  },
+  "commentary": {
+    "sanskrit": "सद्ब्रह्मा । असत्सद्भिन्नं जगत् ।",
+    "translation": {
+      "en": "Sat is Brahman; asat, what is other than sat, is the world.",
+      "hi": "सत् ब्रह्म है; असत्, अर्थात् सत् से भिन्न, जगत् है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 661 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition prints सद्ब्रह्मा, evidently for सद्ब्रह्म (‘Sat is Brahman’); the quotation keeps the printed text. In the further reading it prints सद्व्यवहारिकं, presumably for सद्व्यावहारिकं." }
+}

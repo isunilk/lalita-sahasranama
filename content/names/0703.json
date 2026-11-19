@@ -1,0 +1,43 @@
+{
+  "number": 703,
+  "verse": 137,
+  "slug": "sarva-mohini",
+  "devanagari": "सर्वमोहिनी",
+  "iastSplit": "Sarva-mohinī",
+  "archana": "ॐ सर्वमोहिन्यै नमः",
+  "syllables": ["sar", "va", "mo", "hi", "nī"],
+  "words": [
+    { "sa": "सर्व", "meaning": { "en": "all", "hi": "सब, सभी" } },
+    { "sa": "मोहिनी", "meaning": { "en": "she who deludes, enchants", "hi": "मोहित करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who deludes all; the enchantress of all",
+    "hi": "सबको मोहित करने वाली"
+  },
+  "explanation": {
+    "en": "She deludes all beings. Bhāskararāya says whom and how: ordinary people who take the appearance of difference to be real, she keeps from the knowledge of non-duality. He also reads it as she who enchants the three worlds.",
+    "hi": "वे सबको मोहित करती हैं। भास्करराय बताते हैं कि किसे और कैसे: जो साधारण लोग भेद की प्रतीति को सत्य मानते हैं, उन्हें वे अद्वैत के ज्ञान से वंचित रखती हैं। वे इसका अर्थ तीनों लोकों को मोहित करने वाली भी करते हैं।"
+  },
+  "inner": {
+    "en": "In his argument this name answers the doubt of how Brahman can be undivided when it seems to hold opposite qualities, eternal and passing, inert and conscious. The answer: the seeming difference between Brahman and the world is only delusion, and delusion is her power. He quotes the Kūrma Purāṇa, where Śiva says: this is my supreme power, my beloved, infinite Māyā, by whom this world is deluded.",
+    "hi": "उनके तर्क में यह नाम इस शंका का उत्तर है कि जब ब्रह्म में नित्य-अनित्य, जड़-चेतन जैसे विरोधी धर्म दिखाई देते हैं, तो वह अभिन्न कैसे हो सकता है। उत्तर यह है: ब्रह्म और जगत् के बीच दिखने वाला भेद केवल मोह है, और मोह उन्हीं की शक्ति है। वे कूर्म पुराण उद्धृत करते हैं, जहाँ शिव कहते हैं: यह मेरी परम शक्ति है, मेरी प्रिय, अनन्त माया, जिससे यह जगत् मोहित है।"
+  },
+  "story": {
+    "en": "On the second reading, enchantress of the three worlds, Bhāskararāya identifies her with both the Trailokyamohana cakra, the outermost enclosure of the Śrīcakra, and the vidyā of that name.",
+    "hi": "दूसरे अर्थ में, तीनों लोकों को मोहित करने वाली के रूप में, भास्करराय उन्हें त्रैलोक्यमोहन चक्र — श्रीचक्र का सबसे बाहरी आवरण — और उसी नाम की विद्या, दोनों का रूप बताते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वान्प्राकृतजनान् भेदभाने सत्यत्वं मन्यमानान् मोहयति अद्वैतविषयकज्ञानविधुरान् कुरुते इति तथा ।",
+    "translation": {
+      "en": "She deludes all ordinary people who think the appearance of difference is real; she leaves them without the knowledge of non-duality. Hence the name.",
+      "hi": "भेद की प्रतीति को सत्य मानने वाले सभी साधारण जनों को वे मोहित करती हैं, अर्थात् उन्हें अद्वैत-ज्ञान से रहित रखती हैं; इसलिए वे सर्वमोहिनी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 703 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya also quotes Kūrma Purāṇa verses on śāstras made for delusion, and the Sūta Saṃhitā; these are not included. Placing the Trailokyamohana cakra as the outermost enclosure is general Śrīvidyā context." }
+}

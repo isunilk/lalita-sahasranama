@@ -1,0 +1,42 @@
+{
+  "number": 276,
+  "verse": 65,
+  "slug": "bhairavi",
+  "devanagari": "भैरवी",
+  "iastSplit": "Bhairavī",
+  "archana": "ॐ भैरव्यै नमः",
+  "syllables": ["bhai", "ra", "vī"],
+  "words": [
+    {"sa": "भैरवी", "meaning": {"en": "the consort of Bhairava", "hi": "भैरव की शक्ति, भैरव-पत्नी"}}
+  ],
+  "meaning": {
+    "en": "Bhairavī, the consort of Bhairava, the Supreme Śiva",
+    "hi": "भैरवी: परमशिव भैरव की शक्ति"
+  },
+  "explanation": {
+    "en": "Bhairava is a name of Śiva in his awe-inspiring form, beyond all fear; Bhairavī is his consort and power. Bhāskararāya identifies this Bhairava with Paraśiva, the Supreme.",
+    "hi": "भैरव शिव का वह भयावह और भय से परे रूप है, और भैरवी उनकी शक्ति और सहधर्मिणी हैं। भास्करराय इस भैरव को परशिव, अर्थात् परम शिव, बताते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives several readings. She is the wife of Bhairava, Paraśiva. Or, by a rule of grammar, bhairavī can mean ‘the whole company of women’ (bhīru, ‘the timid’, being a word for woman), and he cites the Liṅga Purāṇa: all beings named by feminine words are manifestations of Gaurī. Or she is the maiden of twelve, since Dhaumya calls a girl of twelve Bhairavī; he also links the name to a form of a mantra of Tripurā.",
+    "hi": "भास्करराय कई अर्थ देते हैं। वे परशिव भैरव की पत्नी हैं। अथवा व्याकरण के एक नियम से ‘भैरवी’ का अर्थ ‘समस्त स्त्रियों का समूह’ भी हो सकता है (‘भीरु’ स्त्री का एक नाम है), और वे लिङ्ग पुराण उद्धृत करते हैं: स्त्रीलिंग शब्दों से कही जाने वाली सब वस्तुएँ गौरी की विभूतियाँ हैं। अथवा वे बारह वर्ष की कन्या हैं, क्योंकि धौम्य बारह वर्ष की कन्या को ‘भैरवी’ कहते हैं; वे इस नाम को त्रिपुरा के एक मन्त्र-रूप से भी जोड़ते हैं।"
+  },
+  "story": {
+    "en": "The reading of Bhairavī as a maiden of twelve comes from the custom of honouring young girls as the Goddess, where each age has its name; Bhāskararāya cites Dhaumya for it. The Liṅga Purāṇa passage he quotes begins ‘Śambhu is meaning, Śivā is speech; Śambhu is day, Śivā is night’, and goes on to name Arundhatī, Anasūyā, Śacī and others as forms of Gaurī.",
+    "hi": "बारह वर्ष की कन्या के रूप में भैरवी का अर्थ कन्या-पूजन की परम्परा से आता है, जिसमें हर आयु की कन्या का अलग नाम है; इसके लिए भास्करराय धौम्य का प्रमाण देते हैं। जिस लिङ्ग पुराण के अंश को वे उद्धृत करते हैं, वह ‘शम्भु अर्थ हैं, शिवा वाणी; शम्भु दिन हैं, शिवा रात्रि’ से आरम्भ होकर अरुन्धती, अनसूया, शची आदि सबको गौरी का रूप बताता है।"
+  },
+  "commentary": {
+    "sanskrit": "भैरवस्य परशिवस्य स्त्री भैरवी ।",
+    "translation": {
+      "en": "Bhairavī is the wife of Bhairava, that is, of Paraśiva.",
+      "hi": "भैरव, अर्थात् परशिव, की पत्नी भैरवी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 276 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s link with a mantra of Tripurā (the Cakreśvarī mantra with a letter removed) is mentioned only in general terms." }
+}

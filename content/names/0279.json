@@ -1,0 +1,42 @@
+{
+  "number": 279,
+  "verse": 65,
+  "slug": "bhagavati",
+  "devanagari": "भगवती",
+  "iastSplit": "Bhagavatī",
+  "archana": "ॐ भगवत्यै नमः",
+  "syllables": ["bha", "ga", "va", "tī"],
+  "words": [
+    {"sa": "भगवती", "meaning": {"en": "possessed of the divine excellences (bhaga)", "hi": "भगों अर्थात् दिव्य ऐश्वर्यों से सम्पन्न"}}
+  ],
+  "meaning": {
+    "en": "The Blessed One, possessed of all divine excellences",
+    "hi": "समस्त दिव्य ऐश्वर्यों से सम्पन्न भगवती"
+  },
+  "explanation": {
+    "en": "Bhagavatī is the feminine of Bhagavān, the title given to the Divine. It means one in whom all the bhagas, the divine excellences, are found in fullness. It is one of the most common ways of addressing the Goddess.",
+    "hi": "‘भगवती’ ‘भगवान्’ का स्त्रीलिंग है, जो परमेश्वर के लिए प्रयुक्त उपाधि है। इसका अर्थ है वह जिनमें सारे ‘भग’, अर्थात् दिव्य ऐश्वर्य, पूर्णता से विद्यमान हों। देवी को सम्बोधित करने के सबसे प्रचलित नामों में यह एक है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes the classic verse: bhaga is the name for six things, complete sovereignty, dharma, fame, fortune, knowledge and wisdom. He adds a longer list from the Kālikā Purāṇa that includes greatness, dispassion, valour, will and liberation, and says that because all these meanings of bhaga are present in her, she is Bhagavatī. In the Devī Bhāgavata she is Bhagavatī because she knows the origin and end of beings, their coming and going, and the truth of knowledge and ignorance.",
+    "hi": "भास्करराय वह प्रसिद्ध श्लोक उद्धृत करते हैं: सम्पूर्ण ऐश्वर्य, धर्म, यश, श्री, ज्ञान और विज्ञान, इन छह का नाम ‘भग’ है। वे कालिका पुराण से एक लम्बी सूची भी देते हैं, जिसमें माहात्म्य, वैराग्य, वीर्य, इच्छा और मुक्ति भी हैं, और कहते हैं कि ‘भग’ के ये सब अर्थ उनमें हैं, इसलिए वे भगवती हैं। देवीभागवत के अनुसार वे भगवती इसलिए हैं कि वे प्राणियों की उत्पत्ति और प्रलय, उनकी गति और आगति, तथा विद्या और अविद्या का तत्त्व जानती हैं।"
+  },
+  "story": {
+    "en": "Another derivation he cites, from the Śaktirahasya, comes from the root bhaj, ‘to serve’: she is Bhagavatī because all the gods worship her, and she in turn cares for them. The earlier name Bhagamālinī (277) used the same word bhaga for the six excellences.",
+    "hi": "शक्तिरहस्य से वे एक और व्युत्पत्ति देते हैं, ‘भज्’ (सेवा करना) धातु से: सब देवता उनकी पूजा करते हैं और वे भी उनकी सेवा, अर्थात् उनका भरण, करती हैं, इसलिए वे भगवती हैं। इससे पहले भगमालिनी (277) नाम में भी ‘भग’ शब्द छह ऐश्वर्यों के अर्थ में आया था।"
+  },
+  "commentary": {
+    "sanskrit": "कोशे च प्रसिद्धा भगपदार्था अस्यां सन्तीति भगवती ।",
+    "translation": {
+      "en": "The meanings of the word bhaga, well known also from the lexicons, are present in her; so she is Bhagavatī.",
+      "hi": "‘भग’ शब्द के जो अर्थ कोशों में भी प्रसिद्ध हैं, वे सब इनमें हैं, इसलिए वे भगवती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 279 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition prints the six-meaning verse with ज्ञानविज्ञानयोश्चैव, and the layers follow it; the familiar form of this verse (Viṣṇu Purāṇa) reads ज्ञानवैराग्ययोश्चैव. The verse is printed without an introduction naming its source." }
+}

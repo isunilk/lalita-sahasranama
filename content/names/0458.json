@@ -1,0 +1,44 @@
+{
+  "number": 458,
+  "verse": 95,
+  "slug": "malayachala-vasini",
+  "devanagari": "मलयाचलवासिनी",
+  "iastSplit": "Malayācala-vāsinī",
+  "archana": "ॐ मलयाचलवासिन्यै नमः",
+  "syllables": ["ma", "la", "yā", "ca", "la", "vā", "si", "nī"],
+  "words": [
+    { "sa": "मलय", "meaning": { "en": "Malaya, the sandalwood mountains of the south", "hi": "मलय, दक्षिण का चन्दन-पर्वत" } },
+    { "sa": "अचल", "meaning": { "en": "mountain", "hi": "अचल, पर्वत" } },
+    { "sa": "वासिनी", "meaning": { "en": "she who dwells", "hi": "निवास करने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who dwells on the Malaya mountain",
+    "hi": "मलय पर्वत पर निवास करने वाली"
+  },
+  "explanation": {
+    "en": "Malaya is the mountain range of the far south, famed in Sanskrit poetry for its sandalwood and the cool, fragrant breeze that blows from it. She makes her home there.",
+    "hi": "मलय सुदूर दक्षिण की पर्वत-श्रेणी है, जो संस्कृत काव्य में अपने चन्दन और वहाँ से बहने वाली शीतल, सुगन्धित पवन के लिए प्रसिद्ध है। वे वहीं निवास करती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya explains that she is the Bhagavatī whose home is Malaya, well known from the Śābara-cintāmaṇi, and so she dwells on that mountain. He gives no hidden meaning. Sandalwood cools and perfumes whatever touches it, a fitting home for the gentle Mother.",
+    "hi": "भास्करराय बताते हैं कि वे शाबरचिन्तामणि में प्रसिद्ध मलय-निवासिनी भगवती हैं, इसलिए उस पर्वत पर वास करती हैं। वे कोई गूढ़ अर्थ नहीं देते। चन्दन जिसे छूता है उसे शीतल और सुगन्धित कर देता है; करुणामयी माँ के लिए यह उचित निवास है।"
+  },
+  "story": {
+    "en": "The Malaya breeze, carrying the scent of sandalwood, is a familiar image of spring and love in classical poetry. Bhāskararāya links the name to a goddess of Malaya named in the Śābara-cintāmaṇi.",
+    "hi": "चन्दन की सुगन्ध लिए मलय पवन शास्त्रीय काव्य में वसन्त और प्रेम का परिचित चित्र है। भास्करराय इस नाम को शाबरचिन्तामणि में वर्णित मलय की एक देवी से जोड़ते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "शाबरचिन्तामणौ प्रसिद्धा मलयालयभगवती तद्रूपत्वान्मलयाचले वसतीति तथा ।",
+    "translation": {
+      "en": "She is the Bhagavatī whose home is Malaya, well known in the Śābara-cintāmaṇi; being she, she dwells on the Malaya mountain.",
+      "hi": "शाबरचिन्तामणि में प्रसिद्ध मलय-निवासिनी भगवती वही हैं; इसलिए वे मलयाचल पर वास करती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 458 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The description of the Malaya range and its breeze is general context; the last sentence of the inner layer is a reflection." }
+}

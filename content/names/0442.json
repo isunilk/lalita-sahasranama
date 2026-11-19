@@ -1,0 +1,45 @@
+{
+  "number": 442,
+  "verse": 94,
+  "slug": "kumara-gana-nathamba",
+  "devanagari": "कुमारगणनाथाम्बा",
+  "iastSplit": "Kumāra-gaṇa-nāthāmbā",
+  "archana": "ॐ कुमारगणनाथाम्बायै नमः",
+  "syllables": ["ku", "mā", "ra", "ga", "ṇa", "nā", "thām", "bā"],
+  "words": [
+    { "sa": "कुमार", "meaning": { "en": "Kumāra, the youthful one: Skanda", "hi": "कुमार, अर्थात् स्कन्द" } },
+    { "sa": "गण", "meaning": { "en": "host, troop (of Śiva’s attendants)", "hi": "गण, शिव के अनुचरों का समूह" } },
+    { "sa": "नाथ", "meaning": { "en": "lord", "hi": "नाथ, स्वामी" } },
+    { "sa": "अम्बा", "meaning": { "en": "mother", "hi": "अम्बा, माता" } }
+  ],
+  "meaning": {
+    "en": "Mother of Kumāra (Skanda) and Gaṇanātha (Gaṇeśa)",
+    "hi": "कुमार (स्कन्द) और गणनाथ (गणेश) की माता"
+  },
+  "explanation": {
+    "en": "Kumāra is Skanda, the youthful commander of the gods’ army, and Gaṇanātha, ‘lord of the hosts’, is the elephant-faced Gaṇeśa. This name calls her the mother of both.",
+    "hi": "कुमार हैं स्कन्द, देवसेना के युवा सेनापति, और गणनाथ, अर्थात् गणों के स्वामी, हैं गजानन गणेश। यह नाम उन्हें इन दोनों की माता कहता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya adds two inner readings. Reading ku-māra-gaṇa as ‘a base host of passions stirred by Māra, the god of desire’, and ambā from the root abi, ‘to bind’, he says she binds the masters whom such passions drive. He also takes Kumāra as ahaṅkāra, the sense of ‘I’: the Varāha Purāṇa says ahaṅkāra arises from the union of Puruṣa and the Unmanifest, and is Guha, the commander. So she also reins in those who are deeply possessed by the sense of ‘I’.",
+    "hi": "भास्करराय दो आन्तरिक अर्थ और देते हैं। ‘कु-मार-गण’ को कामदेव से उपजे विकारों का निकृष्ट समूह मानकर, और ‘अम्बा’ को ‘अबि’ (बाँधना) धातु से लेकर, वे कहते हैं कि ऐसे विकारों से चलने वाले स्वामियों को वे बाँधकर वश में रखती हैं। वे ‘कुमार’ को अहंकार भी मानते हैं: वराह पुराण के अनुसार पुरुष और अव्यक्त के संयोग से अहंकार उत्पन्न होता है, और वही सेनापति गुह है। इस अर्थ में वे उन्हें भी वश में करती हैं जो ‘मैं’ के भाव से अत्यन्त आविष्ट हैं।"
+  },
+  "story": {
+    "en": "Skanda and Gaṇeśa are the sons of Śiva and Pārvatī. The hymn has already told how, in the war with Bhaṇḍāsura, she brought Gaṇeśa forth with a glance at Kāmeśvara’s face (name 77).",
+    "hi": "स्कन्द और गणेश शिव-पार्वती के पुत्र हैं। स्तोत्र पहले बता चुका है कि भण्डासुर से युद्ध के समय उन्होंने कामेश्वर के मुख की ओर देखकर ही गणेश को प्रकट किया था (नाम 77)।"
+  },
+  "commentary": {
+    "sanskrit": "कुमारः स्कन्दो गणनाथो गजाननस्तयोरम्बा माता ।",
+    "translation": {
+      "en": "Kumāra is Skanda; Gaṇanātha is the elephant-faced one; she is the ambā, the mother, of both.",
+      "hi": "कुमार अर्थात् स्कन्द, गणनाथ अर्थात् गजानन; उन दोनों की अम्बा, अर्थात् माता।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 442 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The inner layer follows Bhāskararāya’s two further readings: ku-māra-gaṇa with ambā from the root abi ‘to bind’ (कुत्सितो मारगणः… तन्नाथानम्बते बध्नाति), and Kumāra as ahaṅkāra via the Varāha Purāṇa. The first is a compressed sentence and its rendering (‘the masters whom such passions drive’) should be checked." }
+}

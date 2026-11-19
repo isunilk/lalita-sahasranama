@@ -1,0 +1,44 @@
+{
+  "number": 263,
+  "verse": 63,
+  "slug": "sarvavastha-vivarjita",
+  "devanagari": "सर्वावस्थाविवर्जिता",
+  "iastSplit": "Sarvāvasthā-vivarjitā",
+  "archana": "ॐ सर्वावस्थाविवर्जितायै नमः",
+  "syllables": ["sar", "vā", "vas", "thā", "vi", "var", "ji", "tā"],
+  "words": [
+    {"sa": "सर्व", "meaning": {"en": "all", "hi": "सभी"}},
+    {"sa": "अवस्था", "meaning": {"en": "state", "hi": "अवस्था"}},
+    {"sa": "विवर्जिता", "meaning": {"en": "free from, without", "hi": "रहित, मुक्त"}}
+  ],
+  "meaning": {
+    "en": "Free from all states: beyond even the Fourth",
+    "hi": "सभी अवस्थाओं से रहित, तुरीय से भी परे"
+  },
+  "explanation": {
+    "en": "Waking, dream, sleep and even the Fourth are still called ‘states’, as if someone passed into them. This name says she is free of every state. She is what remains when there is nothing to pass through and nowhere to return from.",
+    "hi": "जाग्रत्, स्वप्न, सुषुप्ति और तुरीय भी ‘अवस्थाएँ’ ही कहलाती हैं, मानो कोई उनमें प्रवेश करता हो। यह नाम कहता है कि वे हर अवस्था से मुक्त हैं। वे वह हैं जो तब शेष रहता है जब न किसी अवस्था से गुज़रना है और न कहीं से लौटना।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says there is a fifth state of the soul, called turyātīta, ‘beyond the fourth’, for want of another name. The soul who has passed beyond the Fourth is free of all four states, never to return to them, and she is one with that soul in individual and cosmic form; the state ripens from firmness in the Fourth. Of one who lives in it he quotes the Śiva Sūtras: the life of the body is his vow, his talk is japa, and knowledge of the Self is his gift to others.",
+    "hi": "भास्करराय कहते हैं कि जीव की एक पाँचवीं अवस्था है, जिसे दूसरा नाम न होने से ‘तुर्यातीत’, अर्थात् ‘चौथी से परे’, कहते हैं। जो जीव तुरीय से आगे निकल गया, वह चारों अवस्थाओं से ऐसा मुक्त होता है कि फिर उनमें नहीं लौटता, और देवी व्यष्टि और समष्टि रूप में उससे अभिन्न हैं; यह अवस्था तुरीय में दृढ़ता से पकती है। ऐसे पुरुष के विषय में वे शिवसूत्र उद्धृत करते हैं: शरीर का निर्वाह ही उसका व्रत है, उसकी बातचीत ही जप है, और आत्मज्ञान ही उसका दान है।"
+  },
+  "story": {
+    "en": "Bhāskararāya links these Śiva Sūtras to a line of Śaṅkara, ‘my chatter is japa, all my handiwork the forming of mudrās’, and to Bhaṭṭotpala’s prayer that this body, nourished by the nectar of the power shining within, may last for the joy of the Lord’s worship. This name closes the five states of the soul; the next names turn to the five acts of the Lord.",
+    "hi": "भास्करराय इन शिवसूत्रों को भगवत्पाद शंकर की पंक्ति ‘जपो जल्पः शिल्पं सकलमपि मुद्राविरचना’ (मेरी बातचीत ही जप हो, मेरा हर कर्म मुद्रा-रचना) से, और भट्टोत्पल की उस प्रार्थना से जोड़ते हैं कि भीतर उल्लसित शक्ति के अमृत से पुष्ट यह शरीर प्रभु की पूजा के आनन्द के लिए बना रहे। यह नाम जीव की पाँच अवस्थाओं को पूरा करता है; अगले नाम ईश्वर के पाँच कृत्यों की ओर मुड़ते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "अस्ति पञ्चमी जीवस्यावस्था । तस्याश्च रूढ्या नामान्तराभावात्तुर्यावस्थामतिक्रान्तत्वात्तुर्यातीतेत्येव यौगिको व्यवहार इत्याशयेनाह",
+    "translation": {
+      "en": "There is a fifth state of the soul. Since it has no other established name, and since it passes beyond the turya state, it is called by the descriptive name turyātīta, ‘beyond the fourth’; with this in mind the hymn says [‘free from all states’].",
+      "hi": "जीव की एक पाँचवीं अवस्था है। उसका कोई दूसरा रूढ नाम न होने से, और तुरीय अवस्था को पार कर जाने से, उसे यौगिक अर्थ में ‘तुर्यातीत’ ही कहा जाता है; इसी आशय से स्तोत्र [‘सर्वावस्थाविवर्जिता’] कहता है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 263 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The commentary excerpt ends with इत्याशयेनाह (‘with this in mind it says’), which leads into the name. Bhāskararāya cites the line जपो जल्पः … as Bhagavatpāda’s without naming the work." }
+}

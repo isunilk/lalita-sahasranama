@@ -1,0 +1,43 @@
+{
+  "number": 687,
+  "verse": 134,
+  "slug": "rajat-kripa",
+  "devanagari": "राजत्कृपा",
+  "iastSplit": "Rājat-kṛpā",
+  "archana": "ॐ राजत्कृपायै नमः",
+  "syllables": ["rā", "jat", "kṛ", "pā"],
+  "words": [
+    { "sa": "राजत्", "meaning": { "en": "shining, radiant", "hi": "शोभायमान, देदीप्यमान" } },
+    { "sa": "कृपा", "meaning": { "en": "compassion, grace", "hi": "कृपा, करुणा" } }
+  ],
+  "meaning": {
+    "en": "Whose compassion shines forth",
+    "hi": "जिनकी कृपा शोभायमान है"
+  },
+  "explanation": {
+    "en": "Her compassion is radiant and plain to see. The word rājat, shining, echoes the rāja, king, of the names around it: in the midst of her sovereignty, what shines is her mercy.",
+    "hi": "उनकी कृपा दीप्तिमान है, स्पष्ट दिखाई देती है। ‘राजत्’ (चमकती हुई) शब्द आसपास के नामों के ‘राज’ (राजा) की गूँज है: उनके राज-वैभव के बीच जो सबसे अधिक चमकता है, वह है उनकी करुणा।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the plain sense: her compassion is shining, splendid. A ruler’s power can inspire fear; hers is known first by its kindness. The next name shows that kindness at work, raising those who depend on her to thrones.",
+    "hi": "भास्करराय केवल सीधा अर्थ देते हैं: उनकी कृपा देदीप्यमान और शोभायमान है। किसी शासक की शक्ति भय उत्पन्न कर सकती है; उनकी शक्ति पहले उसकी दयालुता से पहचानी जाती है। अगला नाम उस दया को कार्य करते हुए दिखाता है, जब वे अपने आश्रितों को सिंहासनों तक उठा देती हैं।"
+  },
+  "story": {
+    "en": "Verse 134 is built on a single sound: rājarājeśvarī, rājyadāyinī, rājyavallabhā, rājatkṛpā, rājapīṭha. This name turns the sound from rāja, king, to rājat, shining, as if to say that her kingship is a radiance.",
+    "hi": "श्लोक 134 एक ही ध्वनि पर रचा गया है: राजराजेश्वरी, राज्यदायिनी, राज्यवल्लभा, राजत्कृपा, राजपीठ। यह नाम उस ध्वनि को ‘राज’ (राजा) से ‘राजत्’ (चमकना) की ओर मोड़ देता है, मानो कहता हो कि उनका राजत्व एक दीप्ति है।"
+  },
+  "commentary": {
+    "sanskrit": "राजन्ती शोभमाना कृपा यस्याः ।",
+    "translation": {
+      "en": "Whose kṛpā, compassion, is rājantī, shining, splendid.",
+      "hi": "जिनकी कृपा राजन्ती अर्थात् शोभायमान है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 687 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives the literal sense only; the inner layer after its first sentence and the remark on sound-play (explanation and story) are reflections." }
+}

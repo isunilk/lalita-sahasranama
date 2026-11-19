@@ -1,0 +1,42 @@
+{
+  "number": 675,
+  "verse": 132,
+  "slug": "brahmi",
+  "devanagari": "ब्राह्मी",
+  "iastSplit": "Brāhmī",
+  "archana": "ॐ ब्राह्म्यै नमः",
+  "syllables": ["brāh", "mī"],
+  "words": [
+    { "sa": "ब्राह्मी", "meaning": { "en": "belonging to Brahman; speech, Sarasvatī", "hi": "ब्रह्म से सम्बन्धित; वाणी, सरस्वती" } }
+  ],
+  "meaning": {
+    "en": "She who belongs to Brahman; she who is speech",
+    "hi": "ब्रह्म से सम्बन्धित; वाणी-स्वरूपा"
+  },
+  "explanation": {
+    "en": "Brāhmī means ‘of Brahman, belonging to Brahman’. It is also a name of Sarasvatī and of speech, and Bhāskararāya gives both senses.",
+    "hi": "ब्राह्मी का अर्थ है ‘ब्रह्म से सम्बन्धित’। यह सरस्वती और वाणी का भी नाम है, और भास्करराय दोनों अर्थ देते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya links it to the name before. Brāhmaṇī might suggest a class (jāti), but there is no proof that any inert class exists apart from ignorance; so the hymn adds Brāhmī, a form grammar allows exactly where no class is meant. She belongs to Brahman alone, beyond every division of birth.",
+    "hi": "भास्करराय इसे पिछले नाम से जोड़ते हैं। ‘ब्राह्मणी’ से किसी जाति का भाव आ सकता है, पर अविद्या के अतिरिक्त किसी जड़ जाति के अस्तित्व का कोई प्रमाण नहीं; इसलिए स्तोत्र ‘ब्राह्मी’ जोड़ता है, वह रूप जिसे व्याकरण ठीक वहीं स्वीकार करता है जहाँ जाति का अर्थ न हो। वे केवल ब्रह्म की हैं, जन्म के हर विभाजन से परे।"
+  },
+  "story": {
+    "en": "Brāhmī is also the first of the Mātṛkās, the Mother-goddesses, the Śakti of Brahmā; Bhāskararāya mentions the eight beginning with Brāhmī under name 662. Here he explains the word from Brahman and from speech.",
+    "hi": "ब्राह्मी मातृकाओं में पहली, ब्रह्मा की शक्ति, का भी नाम है; भास्करराय नाम 662 में ब्राह्मी आदि आठ का उल्लेख करते हैं। यहाँ वे इस शब्द को ब्रह्म और वाणी से समझाते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "अविद्यातिरिक्तजडजातिसद्भावे मानाभाव इत्यत आह ब्राह्मी ।",
+    "translation": {
+      "en": "There is no proof that any inert class exists apart from avidyā; therefore the hymn says Brāhmī.",
+      "hi": "अविद्या के अतिरिक्त किसी जड़ जाति के अस्तित्व में कोई प्रमाण नहीं, इसलिए ‘ब्राह्मी’ कहा गया।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 675 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya justifies the form by the sūtra printed ब्राह्मो जाताविति, i.e. Pāṇini 6.4.171 ब्राह्मोऽजातौ (avagraha omitted in the edition), which allows ब्राह्म only where no jāti is meant. The reading of his argument in the inner layer, and its last sentence (a reflection), should be checked by a scholar." }
+}

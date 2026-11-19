@@ -1,0 +1,44 @@
+{
+  "number": 544,
+  "verse": 111,
+  "slug": "punya-shravana-kirtana",
+  "devanagari": "पुण्यश्रवणकीर्तना",
+  "iastSplit": "Puṇya-śravaṇa-kīrtanā",
+  "archana": "ॐ पुण्यश्रवणकीर्तनायै नमः",
+  "syllables": ["puṇ", "yaś", "ra", "va", "ṇa", "kīr", "ta", "nā"],
+  "words": [
+    { "sa": "पुण्य", "meaning": { "en": "holy, meritorious", "hi": "पवित्र, पुण्यमय" } },
+    { "sa": "श्रवण", "meaning": { "en": "hearing", "hi": "श्रवण, सुनना" } },
+    { "sa": "कीर्तन", "meaning": { "en": "singing, praising aloud", "hi": "कीर्तन, गुणगान" } }
+  ],
+  "meaning": {
+    "en": "Hearing and singing of whom are holy acts",
+    "hi": "जिनका श्रवण और कीर्तन पुण्य कर्म है"
+  },
+  "explanation": {
+    "en": "Śravaṇa is hearing and kīrtana is singing or reciting aloud. To hear of her and to sing of her are holy acts, of the kind that scripture enjoins.",
+    "hi": "‘श्रवण’ का अर्थ है सुनना और ‘कीर्तन’ गाना या उच्च स्वर में पाठ करना। उनके विषय में सुनना और उनका गुणगान करना पुण्य कर्म हैं, ऐसे कर्म जिनका शास्त्र विधान करता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya adds a fine point: what is heard and sung is her deeds, her story, so the ‘of her’ in the name works through her acts. Chanting this very Sahasranāma is such kīrtana.",
+    "hi": "भास्करराय एक सूक्ष्म बात जोड़ते हैं: जो सुना और गाया जाता है, वह उनका चरित्र है, इसलिए नाम में ‘उनका’ का सम्बन्ध उनके चरित्र के द्वारा है। इसी सहस्रनाम का पाठ ऐसा ही कीर्तन है।"
+  },
+  "story": {
+    "en": "This name completes the first half of verse 111, three names that all begin with puṇya.",
+    "hi": "यह नाम श्लोक 111 के पूर्वार्ध को पूरा करता है, जिसके तीनों नाम ‘पुण्य’ से आरम्भ होते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "पुण्ये विहितकर्मरूपे श्रवणकीर्तने यस्याः । षष्ठ्यर्थश्चरित्रद्वारकः सम्बन्धः ।",
+    "translation": {
+      "en": "She whose hearing and singing are puṇya, acts enjoined by scripture; the relation expressed by ‘of her’ is through her deeds.",
+      "hi": "जिनका श्रवण और कीर्तन पुण्य, अर्थात् शास्त्र-विहित कर्म, है; ‘उनका’ (षष्ठी) सम्बन्ध उनके चरित्र के द्वारा है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 544 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The second sentence of the inner layer is a reflection." }
+}

@@ -1,0 +1,42 @@
+{
+  "number": 457,
+  "verse": 95,
+  "slug": "mata",
+  "devanagari": "माता",
+  "iastSplit": "Mātā",
+  "archana": "ॐ मात्रे नमः",
+  "syllables": ["mā", "tā"],
+  "words": [
+    { "sa": "माता", "meaning": { "en": "mother", "hi": "माता, माँ" } }
+  ],
+  "meaning": {
+    "en": "The Mother",
+    "hi": "माता"
+  },
+  "explanation": {
+    "en": "Mātā is simply Mother. She gives birth to all that exists, and every being is her child.",
+    "hi": "माता का अर्थ है माँ। जो कुछ है, सब उन्हीं से जन्मा है, और हर प्राणी उनकी संतान है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya explains: she is Mother because she brings forth all. Or she is the mātṛkā, the letters of the alphabet, which the Skanda Purāṇa calls the mother of all mantras. He also allows the masculine mātṛ, ‘knower’, qualifying prakāśa, the light of awareness: she is the light that knows.",
+    "hi": "भास्करराय समझाते हैं: सबको जन्म देने से वे माता हैं। अथवा वे मातृका हैं, वर्णमाला के अक्षर, जिन्हें स्कन्द पुराण सभी मन्त्रों की माता कहता है। वे पुल्लिंग ‘मातृ’, अर्थात् ‘प्रमाता, जानने वाला’, का अर्थ भी स्वीकार करते हैं, जिसका विशेष्य प्रकाश, अर्थात् चेतना की ज्योति, है: वे वह ज्योति हैं जो जानती है।"
+  },
+  "story": {
+    "en": "The hymn began with Śrīmātā, ‘the auspicious Mother’ (name 1); here she is called simply Mother. Bhāskararāya adds that the Padma Purāṇa names her Mātā as the presiding goddess of the sacred site of Kāyāvarohaṇa.",
+    "hi": "स्तोत्र का आरम्भ ‘श्रीमाता’ (नाम 1) से हुआ था; यहाँ उन्हें केवल ‘माता’ कहा गया है। भास्करराय बताते हैं कि पद्म पुराण के अनुसार कायावरोहण तीर्थ की अधिष्ठात्री देवी के रूप में वे माता कहलाती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वजनयितृत्वान्माता । मातृकारूपा वा । मन्त्राणां मातृभूता च मातृका परमेश्वरीति स्कान्दात् ।",
+    "translation": {
+      "en": "Mātā, because she gives birth to all. Or she is the mātṛkā, the letters, for the Skanda says: ‘The Supreme Goddess Mātṛkā is the mother of mantras.’",
+      "hi": "सबको जन्म देने के कारण माता। अथवा मातृका-रूपा, क्योंकि स्कन्द पुराण कहता है: ‘मातृका परमेश्वरी मन्त्रों की माता है।’"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 457 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya also gives Mātā as the name of the tenth-day Nityā’s mantra in the Nāmapārāyaṇa and as a name of a bīja of Lakṣmī; these are left out of the text." }
+}

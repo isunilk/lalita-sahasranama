@@ -1,0 +1,44 @@
+{
+  "number": 683,
+  "verse": 133,
+  "slug": "shobhana-sulabha-gati",
+  "devanagari": "शोभना सुलभा गतिः",
+  "iastSplit": "Śobhanā sulabhā gatiḥ",
+  "archana": "ॐ शोभनायै सुलभायै गत्यै नमः",
+  "syllables": ["śo", "bha", "nā", "su", "la", "bhā", "ga", "tiḥ"],
+  "words": [
+    { "sa": "शोभना", "meaning": { "en": "beautiful, excellent", "hi": "सुन्दर, श्रेष्ठ" } },
+    { "sa": "सुलभा", "meaning": { "en": "easily reached", "hi": "सहज प्राप्य" } },
+    { "sa": "गति", "meaning": { "en": "goal, refuge; the way", "hi": "गति, परम लक्ष्य; मार्ग" } }
+  ],
+  "meaning": {
+    "en": "The beautiful goal, easily reached",
+    "hi": "सुन्दर और सहज प्राप्य परम गति"
+  },
+  "explanation": {
+    "en": "Gati is the place one goes to, the final goal. She is that goal, beautiful and easily reached. Bhāskararāya reads the three words as one name and says it is offered in worship with three datives: śobhanāyai sulabhāyai gatyai namaḥ.",
+    "hi": "‘गति’ वह स्थान है जहाँ पहुँचना है, अर्थात् अन्तिम लक्ष्य। वे वही लक्ष्य हैं — सुन्दर भी और सहज प्राप्य भी। भास्करराय तीनों शब्दों को एक ही नाम मानते हैं और कहते हैं कि अर्चना में इसका प्रयोग तीन चतुर्थी रूपों से होता है: ‘शोभनायै सुलभायै गत्यै नमः’।"
+  },
+  "inner": {
+    "en": "She is beautiful because she is liberation and the other aims of life, and easily reached because she is easily worshipped. Bhāskararāya also takes gati as the fruit attained, or as knowledge, the means, and quotes the Kūrma Purāṇa: of all the goals of beings, she alone is the highest goal. Goal and path are not two here: the one who is sought is also the way to her.",
+    "hi": "वे शोभना हैं, क्योंकि वे ही मोक्ष आदि पुरुषार्थ हैं; और सुलभा हैं, क्योंकि उनकी उपासना सरल है। भास्करराय ‘गति’ का अर्थ प्राप्त होने वाला फल, अथवा ज्ञान, अर्थात् उपाय, भी बताते हैं, और कूर्म पुराण उद्धृत करते हैं: सभी प्राणियों की गतियों में वही उत्तम गति हैं। यहाँ लक्ष्य और मार्ग दो नहीं: जिन्हें खोजा जाता है, वही उन तक पहुँचने का मार्ग भी हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya discusses at length how these words should be divided. Carrying gati over, one could read two names, śobhanā gatiḥ and sulabhā gatiḥ. Or, keeping one name, one could hear asulabhā in it: she is very hard to attain, or she makes return to birth hard to come by and so ends rebirth, or she makes beautiful the rare gift of a human birth.",
+    "hi": "भास्करराय इन शब्दों के पदच्छेद पर विस्तार से विचार करते हैं। ‘गति’ पद को दोनों ओर जोड़कर दो नाम भी पढ़े जा सकते हैं: ‘शोभना गतिः’ और ‘सुलभा गतिः’। अथवा एक ही नाम रखते हुए इसमें ‘असुलभा’ भी सुना जा सकता है: वे अत्यन्त दुर्लभ हैं, या वे पुनर्जन्म को दुर्लभ बनाकर जन्म का बन्धन काटती हैं, या वे दुर्लभ मानव-जन्म को सुन्दर और सार्थक बनाती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "मोक्षादिपुरुषार्थरूपत्वाच्छोभना सुखोपास्यत्वात्सुलभा च गतिः प्राप्तव्यं स्थानम् ।",
+    "translation": {
+      "en": "Beautiful, because she is mokṣa and the other aims of life; easily reached, because she is easily worshipped; and the goal, the place to be reached.",
+      "hi": "मोक्ष आदि पुरुषार्थ-रूप होने से शोभना, सुख से उपास्य होने से सुलभा, और गति अर्थात् प्राप्त करने योग्य स्थान।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 683 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The verse writes शोभना सुलभा गतिः as three words, kept here with spaces; Bhāskararāya’s text prints शोभना सुलभागतिः, counts it as one name and prescribes the archana with three datives (शोभनायै सुलभायै गत्यै नम इति चतुर्थीत्रयेण प्रयोगः), which the web list also has. He discusses other divisions (two names by carrying over गति; readings with असुलभा and आगति) and compares the other occurrences of शोभना (name 462, and name 972, which the master text reads आशोभना and he reads अशोभना). The story summarises these briefly; the edition’s सावसुलभा is unclear (perhaps सा च असुलभा); check." }
+}

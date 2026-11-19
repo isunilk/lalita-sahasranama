@@ -1,0 +1,43 @@
+{
+  "number": 284,
+  "verse": 66,
+  "slug": "sahasra-pat",
+  "devanagari": "सहस्रपात्",
+  "iastSplit": "Sahasra-pāt",
+  "archana": "ॐ सहस्रपदे नमः",
+  "syllables": ["sa", "has", "ra", "pāt"],
+  "words": [
+    {"sa": "सहस्र", "meaning": {"en": "a thousand; countless", "hi": "सहस्र, हज़ार; अनगिनत"}},
+    {"sa": "पाद", "meaning": {"en": "foot", "hi": "चरण, पैर"}}
+  ],
+  "meaning": {
+    "en": "She of a thousand feet",
+    "hi": "सहस्र चरणों वाली"
+  },
+  "explanation": {
+    "en": "Sahasra is a thousand and pāda a foot. Her feet are everywhere: she moves in every step of every creature and supports the whole world. With this the Vedic image of the thousand-headed, thousand-eyed, thousand-footed Person is complete.",
+    "hi": "‘सहस्र’ हज़ार है और ‘पाद’ चरण। उनके चरण सर्वत्र हैं: हर प्राणी के हर कदम में वही चलती हैं और सारे जगत् को आधार देती हैं। इसके साथ हज़ार सिरों, हज़ार आँखों और हज़ार चरणों वाले पुरुष का वैदिक चित्र पूरा होता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya: she whose feet are thousands is Sahasrapāt. He notes the grammar, that by Pāṇini’s rule saṅkhyāsupūrvasya the word pāda loses its final vowel after a number, giving -pāt, and he states the archana form, sahasrapade namaḥ. The form is the same as in the Vedic verse; what matters is that her presence has no limit.",
+    "hi": "भास्करराय कहते हैं: जिनके सहस्रों चरण हैं, वे सहस्रपात् हैं। वे व्याकरण बताते हैं कि पाणिनि के सूत्र ‘संख्यासुपूर्वस्य’ से संख्या के बाद ‘पाद’ का अन्तिम स्वर लुप्त होता है, जिससे ‘-पात्’ बनता है; और वे अर्चना का रूप भी बताते हैं: ‘सहस्रपदे नमः’। यह रूप वैदिक मन्त्र के ‘सहस्रपात्’ जैसा ही है; मुख्य बात यह है कि उनकी उपस्थिति की कोई सीमा नहीं।"
+  },
+  "story": {
+    "en": "This closes the line drawn from the Puruṣa Sūkta, which begins ‘sahasraśīrṣā puruṣaḥ sahasrākṣaḥ sahasrapāt’. Bhāskararāya also reads names 281 to 284 as pointing to the remaining two parts of the Pañcadaśī mantra; that reading belongs to the teacher and is not given here.",
+    "hi": "इसके साथ पुरुषसूक्त से ली गई पंक्ति पूरी होती है, जो ‘सहस्रशीर्षा पुरुषः सहस्राक्षः सहस्रपात्’ से आरम्भ होता है। भास्करराय नाम 281 से 284 को पञ्चदशी मन्त्र के शेष दो खण्डों का संकेत भी मानते हैं; यह अर्थ गुरु-परम्परा का विषय है और यहाँ नहीं दिया गया।"
+  },
+  "commentary": {
+    "sanskrit": "सहस्राणि पादा यस्याः सहस्रपात् । सहस्रपदे नम इति प्रयोगः ।",
+    "translation": {
+      "en": "She whose feet are thousands is Sahasrapāt. The form used [in worship] is sahasrapade namaḥ.",
+      "hi": "जिनके सहस्रों चरण हैं, वे सहस्रपात् हैं। [पूजा में] प्रयोग ‘सहस्रपदे नमः’ है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 284 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The archana सहस्रपदे is confirmed by Bhāskararāya himself." }
+}

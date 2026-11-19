@@ -1,0 +1,43 @@
+{
+  "number": 681,
+  "verse": 133,
+  "slug": "sukharadhya",
+  "devanagari": "सुखाराध्या",
+  "iastSplit": "Sukhārādhyā",
+  "archana": "ॐ सुखाराध्यायै नमः",
+  "syllables": ["su", "khā", "rādh", "yā"],
+  "words": [
+    { "sa": "सुख", "meaning": { "en": "ease, happiness", "hi": "सुख, सरलता" } },
+    { "sa": "आराध्य", "meaning": { "en": "to be worshipped", "hi": "आराधना के योग्य" } }
+  ],
+  "meaning": {
+    "en": "Worshipped with ease and joy",
+    "hi": "जिनकी आराधना सहज और सुखद है"
+  },
+  "explanation": {
+    "en": "She can be worshipped easily. Bhāskararāya explains: without bodily hardship such as fasting, and without rigid insistence on the rules of meditation. Her worship need not be a torment; it can be a joy.",
+    "hi": "उनकी आराधना सरलता से हो सकती है। भास्करराय समझाते हैं: उपवास जैसे शारीरिक कष्ट के बिना, और ध्यान के नियमों के कठोर आग्रह के बिना भी। उनकी पूजा कष्ट नहीं, आनन्द हो सकती है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya points to the Kūrma Purāṇa, where the Devī tells Himavān what to do if he cannot meditate on her imperishable sovereign form, and then teaches one easier way after another. A mother does not set her children an impossible task. What she asks is sincerity, offered in whatever measure one can.",
+    "hi": "भास्करराय कूर्म पुराण का प्रसंग देते हैं, जहाँ देवी हिमवान से कहती हैं कि यदि तुम मेरे अविनाशी ऐश्वर्य-रूप का ध्यान न कर सको, तो क्या करो, और फिर एक के बाद एक सरलतर उपाय बताती हैं। माँ अपने बच्चों को असम्भव काम नहीं देती। वे जो माँगती हैं, वह है सच्चा भाव, जितना जिससे बन पड़े।"
+  },
+  "story": {
+    "en": "The passage he refers to is the Devī’s teaching to her father Himavān, king of the mountains, in the Kūrma Purāṇa. This name begins a half-verse of comforting names: easy to worship, doing only good, and the beautiful goal within easy reach.",
+    "hi": "जिस प्रसंग का वे उल्लेख करते हैं, वह कूर्म पुराण में देवी का अपने पिता, पर्वतराज हिमवान को दिया गया उपदेश है। यह नाम आश्वासन देने वाले नामों का एक अर्ध-श्लोक आरम्भ करता है: सहज आराध्या, केवल शुभ करने वाली, और सुलभ, सुन्दर परम गति।"
+  },
+  "commentary": {
+    "sanskrit": "सुखेनोपवासादिरूपकायक्लेशं ध्येयस्वरूपनियमनिर्बन्धादिकं चान्तरेणाप्याराध्या ।",
+    "translation": {
+      "en": "She can be worshipped with ease, even without bodily hardship such as fasting, and without strict insistence on rules about the form to be meditated on.",
+      "hi": "वे सुख से आराध्य हैं — उपवास आदि शारीरिक कष्ट के बिना, और ध्येय रूप के नियमों के कठोर आग्रह के बिना भी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 681 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Kūrma Purāṇa passage is summarised from Bhāskararāya’s reference (अशक्तो यदि मां ध्यातुमैश्वरं रूपमव्ययम्… उत्तरोत्तरं सुलभप्रकारोपदेशः). The last two sentences of the inner layer are a reflection." }
+}

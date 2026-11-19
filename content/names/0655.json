@@ -1,0 +1,42 @@
+{
+  "number": 655,
+  "verse": 129,
+  "slug": "yogya",
+  "devanagari": "योग्या",
+  "iastSplit": "Yogyā",
+  "archana": "ॐ योग्यायै नमः",
+  "syllables": ["yog", "yā"],
+  "words": [
+    { "sa": "योग्या", "meaning": { "en": "fit, worthy; to be reached through yoga", "hi": "योग्य; योग से प्राप्त होने योग्य" } }
+  ],
+  "meaning": {
+    "en": "She who is worthy to be reached through yoga",
+    "hi": "योग से प्राप्त होने योग्य"
+  },
+  "explanation": {
+    "en": "Yogyā means ‘fit’ or ‘worthy’ and is formed from yoga. She is the one worthy to be reached through yoga, the goal toward which all yoga is directed.",
+    "hi": "योग्या ‘योग’ शब्द से बना है और इसका अर्थ है उपयुक्त, योग्य। वे योग द्वारा प्राप्त होने योग्य हैं, वह लक्ष्य जिसकी ओर सारा योग उन्मुख है।"
+  },
+  "inner": {
+    "en": "In Bhāskararāya’s second reading this is the third form of māyā, almost wholly tamas, in which consciousness appears as inert things; as the object of enjoyment it is called Yogyā. So even the world that is enjoyed, the dense matter of experience, is she. Enjoyer, giver of enjoyment and enjoyed: nothing in experience is other than the Mother.",
+    "hi": "भास्करराय के दूसरे अर्थ में यह माया का तीसरा रूप है, जो प्रायः केवल तमोमय है और जिसमें चेतना जड़ वस्तुओं के रूप में प्रतीत होती है; भोग्य होने के कारण वह योग्या कहलाती है। इस प्रकार भोगा जाने वाला संसार, अनुभव की स्थूल सामग्री भी, वे ही हैं। भोक्ता, भोग देने वाला और भोग्य: अनुभव में कुछ भी माँ से भिन्न नहीं।"
+  },
+  "story": {
+    "en": "Bhāskararāya notes the grammar: yogya is formed from yoga with the suffix yat, by Pāṇini’s rule yogād yac ca. With this name the triad that began with Yoginī is complete.",
+    "hi": "भास्करराय व्याकरण भी बताते हैं: ‘योग्य’ शब्द ‘योग’ से ‘यत्’ प्रत्यय लगकर पाणिनि के सूत्र ‘योगाद्यच्च’ से बनता है। इस नाम के साथ योगिनी से आरम्भ हुई त्रयी पूरी होती है।"
+  },
+  "commentary": {
+    "sanskrit": "तृतीयावच्छिन्ना जडवस्तुनाम्नी भोग्या योग्येत्युच्यत इति विवेकः ।",
+    "translation": {
+      "en": "Consciousness limited by the third [form of māyā] is named inert matter; as the enjoyed it is called Yogyā. This is the distinction.",
+      "hi": "तीसरे [माया के रूप] से अवच्छिन्न चेतना ‘जड़ वस्तु’ कहलाती है; भोग्य होने से वह योग्या कही जाती है। यही विवेक है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 655 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. See name 653: Bhāskararāya explains names 653–655 together. The last sentence of the inner layer is a reflection." }
+}

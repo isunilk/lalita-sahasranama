@@ -1,0 +1,43 @@
+{
+  "number": 546,
+  "verse": 111,
+  "slug": "bandha-mochani",
+  "devanagari": "बन्धमोचनी",
+  "iastSplit": "Bandha-mocanī",
+  "archana": "ॐ बन्धमोचन्यै नमः",
+  "syllables": ["ban", "dha", "mo", "ca", "nī"],
+  "words": [
+    { "sa": "बन्ध", "meaning": { "en": "bondage, bond", "hi": "बन्धन" } },
+    { "sa": "मोचनी", "meaning": { "en": "who releases, sets free", "hi": "मुक्त करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who frees from every bondage",
+    "hi": "जो हर बन्धन से मुक्त करती हैं"
+  },
+  "explanation": {
+    "en": "Bandha is bondage and mocanī she who releases. Bhāskararāya gives both senses: she frees from the bondage born of ignorance, and she frees from prison too.",
+    "hi": "‘बन्ध’ का अर्थ है बन्धन और ‘मोचनी’ मुक्त करने वाली। भास्करराय दोनों अर्थ देते हैं: वे अविद्या से उत्पन्न बन्धन से छुड़ाती हैं, और कारागार से भी।"
+  },
+  "inner": {
+    "en": "The deepest bond is the one made by ignorance, which ties the self to a narrow idea of itself; Bhāskararāya names that bondage first. The outer chains of a prison and the inner chains of avidyā are loosed by the same hand.",
+    "hi": "सबसे गहरा बन्धन अविद्या का है, जो आत्मा को अपने ही एक संकुचित विचार से बाँध देता है; भास्करराय इसी बन्धन का पहले उल्लेख करते हैं। कारागार की बाहरी जंजीरें और अविद्या की भीतरी जंजीरें, दोनों एक ही हाथ से खुलती हैं।"
+  },
+  "story": {
+    "en": "He cites the Harivaṃśa, where Aniruddha, held captive in Bāṇa’s city, praises Durgā and is set free by her. He adds a tale from the sixth book of the Devī Bhāgavata: Princess Ekāvalī, held by the demon Kālaketu, was freed by her friend Yaśovatī through the power of the mantra of the Devī whom Yaśovatī worshipped.",
+    "hi": "वे हरिवंश का उल्लेख करते हैं, जहाँ बाणासुर के नगर में बन्दी अनिरुद्ध दुर्गा की स्तुति करते हैं और वे उन्हें मुक्त करती हैं। वे देवीभागवत के षष्ठ स्कन्ध की एक कथा भी जोड़ते हैं: दानव कालकेतु द्वारा बन्दी बनाई गई राजकुमारी एकावली को उनकी सखी यशोवती ने अपनी उपासित भगवती के मन्त्र के बल से मुक्त कराया।"
+  },
+  "commentary": {
+    "sanskrit": "बन्धमाविद्यकं मोचयति । कारागृहादपि मोचयति ।",
+    "translation": {
+      "en": "She releases the bondage born of avidyā; she releases from prison too.",
+      "hi": "वे अविद्या से उत्पन्न बन्धन से छुड़ाती हैं; कारागार से भी छुड़ाती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 546 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The first sentence of the inner layer expands Bhāskararāya’s आविद्यक (born of ignorance); the rest is a reflection. Both stories are as he cites them." }
+}

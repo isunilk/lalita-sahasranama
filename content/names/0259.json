@@ -1,0 +1,43 @@
+{
+  "number": 259,
+  "verse": 62,
+  "slug": "taijasatmika",
+  "devanagari": "तैजसात्मिका",
+  "iastSplit": "Taijasātmikā",
+  "archana": "ॐ तैजसात्मिकायै नमः",
+  "syllables": ["tai", "ja", "sāt", "mi", "kā"],
+  "words": [
+    {"sa": "तैजस", "meaning": {"en": "taijasa, ‘the luminous’: the soul in the dream state", "hi": "तैजस, ‘तेजोमय’: स्वप्न अवस्था का जीव"}},
+    {"sa": "आत्मिका", "meaning": {"en": "whose self is", "hi": "जिनकी आत्मा है, आत्मस्वरूपा"}}
+  ],
+  "meaning": {
+    "en": "Whose self is the sum of all dreamers, Hiraṇyagarbha",
+    "hi": "जिनका स्वरूप सब स्वप्नद्रष्टाओं का समष्टि, हिरण्यगर्भ है"
+  },
+  "explanation": {
+    "en": "Taijasa, ‘the luminous one’, is the name for the soul in dream, where the mind shines by its own light. This name says she is the self of all such dreamers taken together. The dreams of every being are held within her.",
+    "hi": "‘तैजस’, अर्थात् ‘तेजोमय’, स्वप्न अवस्था के जीव का नाम है, जहाँ मन अपने ही प्रकाश से चमकता है। यह नाम कहता है कि वे ऐसे सभी स्वप्नद्रष्टाओं की सम्मिलित आत्मा हैं। हर प्राणी का स्वप्न उन्हीं के भीतर समाया है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya: the taijasas are the dreaming souls just described, and their sum is Hiraṇyagarbha, the golden embryo, who is her self. In his opening survey he explains that consciousness limited by the subtle elements is called taijasa in the individual and Hiraṇyagarbha in the whole. So the inner life of all beings, the whole world of mind, is one, and that one is she.",
+    "hi": "भास्करराय कहते हैं: तैजस वे स्वप्नावस्था के जीव हैं जिनका वर्णन हुआ, और उनका समष्टि-रूप हिरण्यगर्भ है, जो उनकी आत्मा है। आरम्भिक विवेचन में वे बताते हैं कि सूक्ष्म भूतों से उपहित चेतना व्यष्टि में ‘तैजस’ और समष्टि में ‘हिरण्यगर्भ’ कहलाती है। इस प्रकार सब प्राणियों का भीतरी जीवन, मन का सारा जगत्, एक है, और वह एक वे ही हैं।"
+  },
+  "story": {
+    "en": "This completes the second line of verse 62. Bhāskararāya’s scheme pairs each state with an individual and a cosmic name: waking with viśva and Vaiśvānara, dream with taijasa and Hiraṇyagarbha, deep sleep with prājña and Īśvara.",
+    "hi": "इसके साथ श्लोक 62 की दूसरी पंक्ति पूरी होती है। भास्करराय की योजना में हर अवस्था का एक व्यष्टि और एक समष्टि नाम है: जाग्रत् के विश्व और वैश्वानर, स्वप्न के तैजस और हिरण्यगर्भ, सुषुप्ति के प्राज्ञ और ईश्वर।"
+  },
+  "commentary": {
+    "sanskrit": "तैजसा उक्तलक्षणा जीवास्तत्समष्टिभूतो हिरण्यगर्भ आत्मा स्वरूपं यस्याः सा तैजसात्मिका ।",
+    "translation": {
+      "en": "The taijasas are souls of the kind described; she whose self, whose very nature, is Hiraṇyagarbha, their sum, is Taijasātmikā.",
+      "hi": "तैजस पूर्वोक्त लक्षण वाले जीव हैं; उनका समष्टि-रूप हिरण्यगर्भ जिनकी आत्मा, अर्थात् स्वरूप, है, वे तैजसात्मिका हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 259 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The closing sentence of the inner layer is a reflection drawn from his scheme." }
+}

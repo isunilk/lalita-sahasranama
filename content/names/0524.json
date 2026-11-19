@@ -1,0 +1,43 @@
+{
+  "number": 524,
+  "verse": 108,
+  "slug": "majja-samstha",
+  "devanagari": "मज्जासंस्था",
+  "iastSplit": "Majjā-saṃsthā",
+  "archana": "ॐ मज्जासंस्थायै नमः",
+  "syllables": ["maj", "jā", "saṃs", "thā"],
+  "words": [
+    { "sa": "मज्जा", "meaning": { "en": "marrow", "hi": "मज्जा" } },
+    { "sa": "संस्था", "meaning": { "en": "abiding, established in", "hi": "स्थित, प्रतिष्ठित" } }
+  ],
+  "meaning": {
+    "en": "She who abides in the marrow",
+    "hi": "जो मज्जा में स्थित हैं"
+  },
+  "explanation": {
+    "en": "Majjā is marrow, one of the seven tissues (dhātu) of the body in Indian medicine. As Hākinī, the Devī abides in the marrow as its presiding power.",
+    "hi": "‘मज्जा’ शरीर की सात धातुओं में से एक है। हाकिनी के रूप में देवी मज्जा में उसकी अधिष्ठात्री शक्ति बनकर स्थित हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya reads the name as ‘she who presides over the marrow’. Each yoginī in the series rules one of the seven tissues, so the body itself, layer by layer, is shown as her dwelling: Ḍākinī the skin, Rākinī the blood, Lākinī the flesh, Kākinī the fat, Sākinī the bone, Hākinī the marrow, and Yākinī the vital seed (name 531).",
+    "hi": "भास्करराय नाम का अर्थ करते हैं ‘जो मज्जा धातु की अधिष्ठात्री हैं’। इस श्रृंखला में हर योगिनी एक धातु की अधिष्ठात्री है, इसलिए शरीर ही, परत-दर-परत, उनका निवास दिखाया गया है: डाकिनी त्वचा में, राकिनी रक्त में, लाकिनी मांस में, काकिनी मेद में, साकिनी अस्थि में, हाकिनी मज्जा में, और याकिनी शुक्र में (नाम 531)।"
+  },
+  "story": {
+    "en": "Bhāskararāya pauses on the grammar. In the Amarakośa the word is majjan, masculine, so he takes the prefix ā as merged into the compound; but since majjā also occurs as a feminine word, in the Jñāna Vāsiṣṭha and in a lexicon, the name can simply be majjā with saṃsthā.",
+    "hi": "भास्करराय यहाँ व्याकरण पर रुकते हैं। अमरकोश में शब्द ‘मज्जन्’ है, नकारान्त पुंलिङ्ग, इसलिए वे समास में ‘आ’ उपसर्ग को मिला हुआ मानते हैं; पर ज्ञानवासिष्ठ के प्रयोगों और एक कोश के अनुसार ‘मज्जा’ आकारान्त स्त्रीलिङ्ग शब्द भी है, इसलिए नाम सीधे ‘मज्जा’ और ‘संस्था’ से भी बन सकता है।"
+  },
+  "commentary": {
+    "sanskrit": "तदुत्तरमाङ्प्रश्लेषेण मज्ज्ञि आसमन्तात्सम्यक् तिष्ठतीति विग्रहे मज्जधात्वभिमानिनीत्यर्थः ।",
+    "translation": {
+      "en": "Then, taking the prefix ā as merged in, the analysis is ‘she who abides (sthā) fully (sam) and all through (ā) the marrow’; the meaning is that she presides over the marrow among the body’s tissues.",
+      "hi": "तब ‘आ’ उपसर्ग को समास में मिला हुआ मानकर विग्रह होता है: ‘जो मज्जा में चारों ओर से भली-भाँति स्थित हैं’; अर्थ है कि वे मज्जा धातु की अधिष्ठात्री हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 524 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition prints the verse line as मञ्जासंस्था, evidently a misprint; the commentary reads मज्ज/मज्जा throughout. The list of tissues comes from the names of the series (481, 490, 500, 509, 516, 524, 531) and Bhāskararāya’s glosses on them. Meaning only; no practice." }
+}

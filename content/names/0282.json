@@ -1,0 +1,44 @@
+{
+  "number": 282,
+  "verse": 66,
+  "slug": "sahasra-shirsha-vadana",
+  "devanagari": "सहस्रशीर्षवदना",
+  "iastSplit": "Sahasra-śīrṣa-vadanā",
+  "archana": "ॐ सहस्रशीर्षवदनायै नमः",
+  "syllables": ["sa", "has", "ra", "śīr", "ṣa", "va", "da", "nā"],
+  "words": [
+    {"sa": "सहस्र", "meaning": {"en": "a thousand; countless", "hi": "सहस्र, हज़ार; अनगिनत"}},
+    {"sa": "शीर्ष", "meaning": {"en": "head", "hi": "सिर"}},
+    {"sa": "वदन", "meaning": {"en": "face", "hi": "मुख"}}
+  ],
+  "meaning": {
+    "en": "She of a thousand heads and faces",
+    "hi": "सहस्रों सिरों और मुखों वाली"
+  },
+  "explanation": {
+    "en": "Sahasra means a thousand, śīrṣa a head and vadana a face. The name echoes the Puruṣa Sūkta, ‘The Cosmic Person has a thousand heads’. Here ‘thousand’ means countless: every head and face in creation is hers.",
+    "hi": "‘सहस्र’ का अर्थ है हज़ार, ‘शीर्ष’ सिर और ‘वदन’ मुख। यह नाम पुरुषसूक्त के ‘सहस्रशीर्षा पुरुषः’ की प्रतिध्वनि है। यहाँ ‘हज़ार’ का अर्थ है अनगिनत: सृष्टि का हर सिर और हर मुख उन्हीं का है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya explains that in the Vedic verse ‘a thousand’ means the infinite, that ‘head’ stands for the face and the rest, and that the masculine gender of the Person is not the point. He supports this with the Bhagavad Gītā: with hands and feet everywhere, with eyes, heads and faces everywhere, with ears everywhere in the world, it stands enveloping all. That is why, he says, the hymn adds vadana, face, to make the sense plain.",
+    "hi": "भास्करराय बताते हैं कि वैदिक मन्त्र में ‘सहस्र’ का अर्थ अनन्त है, ‘शीर्ष’ मुख आदि का भी उपलक्षण है, और ‘पुरुष’ का पुल्लिंग होना यहाँ विवक्षित नहीं। इसके समर्थन में वे भगवद्गीता का वचन देते हैं: उसके हाथ-पैर सर्वत्र हैं, आँखें, सिर और मुख सर्वत्र हैं, कान सर्वत्र हैं; वह सबको व्याप्त करके स्थित है। इसीलिए, वे कहते हैं, स्तोत्र अर्थ स्पष्ट करने के लिए ‘वदन’ (मुख) भी जोड़ता है।"
+  },
+  "story": {
+    "en": "This line takes up the Puruṣa Sūkta of the Ṛgveda, which praises the Cosmic Person as having a thousand heads, a thousand eyes and a thousand feet. The three names of the line follow that verse in order and apply it to the Devī.",
+    "hi": "यह पंक्ति ऋग्वेद के पुरुषसूक्त को लेती है, जो विराट् पुरुष की स्तुति हज़ार सिरों, हज़ार आँखों और हज़ार पैरों वाले के रूप में करता है। इस पंक्ति के तीनों नाम उसी मन्त्र के क्रम से उसे देवी पर लागू करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "सहस्रशब्दोऽनन्तपरः । शीर्षशब्दो मुखादेरुपलक्षणम् । लिङ्गं त्वविवक्षितम् ।",
+    "translation": {
+      "en": "The word ‘thousand’ means the infinite. The word ‘head’ also stands for the face and the rest. The gender, however, is not meant.",
+      "hi": "‘सहस्र’ शब्द अनन्त का वाचक है। ‘शीर्ष’ शब्द मुख आदि का भी उपलक्षण है। पर लिंग यहाँ विवक्षित नहीं है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 282 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude." }
+}

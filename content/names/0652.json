@@ -1,0 +1,43 @@
+{
+  "number": 652,
+  "verse": 129,
+  "slug": "vedya-varjita",
+  "devanagari": "वेद्यवर्जिता",
+  "iastSplit": "Vedya-varjitā",
+  "archana": "ॐ वेद्यवर्जितायै नमः",
+  "syllables": ["ved", "ya", "var", "ji", "tā"],
+  "words": [
+    { "sa": "वेद्य", "meaning": { "en": "what is to be known, the object of knowledge", "hi": "वेद्य, जानने योग्य वस्तु" } },
+    { "sa": "वर्जिता", "meaning": { "en": "free of, without", "hi": "रहित" } }
+  ],
+  "meaning": {
+    "en": "She for whom nothing remains to be known",
+    "hi": "जिनके लिए जानने योग्य कुछ शेष नहीं"
+  },
+  "explanation": {
+    "en": "Vedya is what is to be known and varjitā means ‘free of’. Because she knows everything, nothing remains outside her knowledge as a separate object still to be known.",
+    "hi": "वेद्य का अर्थ है जानने योग्य वस्तु, और वर्जिता का अर्थ है उससे रहित। वे सर्वज्ञ हैं, इसलिए कोई वस्तु उनके ज्ञान से बाहर, अलग से जानने के लिए, शेष नहीं रहती।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives two senses. Being all-knowing, she leaves no other thing remaining to be known; or, from the standpoint of the absolute, the knowable does not exist for her at all. In the first sense nothing is hidden from her; in the second there is nothing apart from her to know.",
+    "hi": "भास्करराय दो अर्थ देते हैं। सर्वज्ञ होने के कारण उनके लिए कोई और पदार्थ जानने को शेष नहीं रहता; अथवा, परमार्थ की दृष्टि से उनके लिए वेद्य का अस्तित्व ही नहीं है। पहले अर्थ में उनसे कुछ छिपा नहीं; दूसरे में उनसे अलग जानने को कुछ है ही नहीं।"
+  },
+  "story": {
+    "en": "With this name the first line of verse 129 forms two pairs: she is unseen, and nothing is seen apart from her; she is the knower, and nothing is known apart from her.",
+    "hi": "इस नाम से श्लोक 129 की पहली पंक्ति में दो जोड़े बनते हैं: वे अदृश्य हैं, और उनसे अलग कुछ दृश्य नहीं; वे ज्ञाता हैं, और उनसे अलग कुछ ज्ञेय नहीं।"
+  },
+  "commentary": {
+    "sanskrit": "वेद्यस्य पदार्थान्तरस्यानवशेषेण सर्वज्ञत्वाद्वेद्यवर्जिता ।",
+    "translation": {
+      "en": "Being all-knowing, she leaves no other thing remaining as the knowable; hence she is Vedyavarjitā.",
+      "hi": "सर्वज्ञ होने के कारण उनके लिए कोई अन्य पदार्थ वेद्य के रूप में शेष नहीं रहता; इसलिए वे वेद्यवर्जिता हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 652 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude." }
+}

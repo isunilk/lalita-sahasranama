@@ -1,0 +1,43 @@
+{
+  "number": 682,
+  "verse": 133,
+  "slug": "shubha-kari",
+  "devanagari": "शुभकरी",
+  "iastSplit": "Śubha-karī",
+  "archana": "ॐ शुभकर्यै नमः",
+  "syllables": ["śu", "bha", "ka", "rī"],
+  "words": [
+    { "sa": "शुभ", "meaning": { "en": "the good, the auspicious; merit", "hi": "शुभ, मंगल; पुण्य" } },
+    { "sa": "करी", "meaning": { "en": "she who makes", "hi": "करने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who brings about only good",
+    "hi": "जो केवल शुभ ही करती हैं"
+  },
+  "explanation": {
+    "en": "Śubha is the good and auspicious, and she is its maker. Bhāskararāya reads śubha as puṇya, merit: what she brings about is only good.",
+    "hi": "‘शुभ’ अर्थात् मंगल और कल्याण, और वे उसकी करने वाली हैं। भास्करराय ‘शुभ’ का अर्थ पुण्य बताते हैं: वे जो करती हैं, वह केवल शुभ ही होता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya links this name with the one before. One might fear that worship made so easy could fall short or even incur fault; no such fault need be suspected, for she brings about only merit. Beyond that he keeps to the plain sense.",
+    "hi": "भास्करराय इस नाम को पिछले नाम से जोड़ते हैं। कोई सोच सकता है कि इतनी सरल पूजा अधूरी रह जाए या उसमें दोष लग जाए; ऐसी कोई शंका नहीं करनी चाहिए, क्योंकि वे केवल पुण्य ही करती हैं। इसके आगे वे सीधा अर्थ ही देते हैं।"
+  },
+  "story": {
+    "en": "This short name stands between the promise of easy worship (name 681) and the beautiful goal within easy reach (name 683). Bhāskararāya reads the three as one line of thought: her worship is easy, it brings only good, and it leads to the highest end.",
+    "hi": "यह छोटा नाम सहज आराधना के आश्वासन (नाम 681) और सुलभ, सुन्दर परम गति (नाम 683) के बीच आता है। भास्करराय तीनों को एक ही विचार-क्रम में पढ़ते हैं: उनकी पूजा सरल है, उससे केवल शुभ होता है, और वह परम लक्ष्य तक ले जाती है।"
+  },
+  "commentary": {
+    "sanskrit": "शुभकरी शुभं पुण्यमेव करोति",
+    "translation": {
+      "en": "Śubhakarī: she makes only śubha, that is, merit.",
+      "hi": "शुभकरी: वे शुभ अर्थात् पुण्य ही करती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 682 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Just before this name the edition reads न चैतावता पापमाशङ्कनीयमित्याहुः; it is taken as linking 682 to 681 (perhaps इत्याह, introducing the name); check. The excerpt has no closing daṇḍa because the sentence runs on into the gloss of name 683." }
+}

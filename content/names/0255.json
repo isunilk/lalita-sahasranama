@@ -1,0 +1,44 @@
+{
+  "number": 255,
+  "verse": 62,
+  "slug": "dharmadharma-vivarjita",
+  "devanagari": "धर्माधर्मविवर्जिता",
+  "iastSplit": "Dharmādharma-vivarjitā",
+  "archana": "ॐ धर्माधर्मविवर्जितायै नमः",
+  "syllables": ["dhar", "mā", "dhar", "ma", "vi", "var", "ji", "tā"],
+  "words": [
+    {"sa": "धर्म", "meaning": {"en": "dharma: right action and its merit", "hi": "धर्म, पुण्य कर्म"}},
+    {"sa": "अधर्म", "meaning": {"en": "adharma: wrong action and its demerit", "hi": "अधर्म, पाप कर्म"}},
+    {"sa": "विवर्जिता", "meaning": {"en": "free from, without", "hi": "रहित, मुक्त"}}
+  ],
+  "meaning": {
+    "en": "Free from both dharma and adharma, merit and its opposite",
+    "hi": "धर्म और अधर्म, दोनों से रहित"
+  },
+  "explanation": {
+    "en": "Dharma and adharma are the deeds that bring good and bad results. People are bound by them and reap what they sow, but the Devī stands beyond both. Nothing she does binds her, for she is not a doer under the law of karma.",
+    "hi": "धर्म और अधर्म वे कर्म हैं जो शुभ और अशुभ फल देते हैं। मनुष्य इनसे बँधा है और जैसा बोता है वैसा काटता है, पर देवी दोनों से परे हैं। उनका कोई कर्म उन्हें नहीं बाँधता, क्योंकि वे कर्म-नियम के अधीन कोई कर्ता नहीं हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya defines dharma and adharma as the acts that bring what is wished for and what is not, and gives two reasons why they do not touch her: deities are not among those bound by ritual duty, and scripture is addressed to those still in ignorance. Or, he says, dharma and adharma are bondage and liberation, and she is free of both; he cites a verse from the Tripura Upaniṣad: in the highest truth there is no bondage, no seeker, no one longing for freedom and no freedom. He also gives a secret reading tied to letters of the Pañcadaśī mantra, and says it is to be learned from a guru.",
+    "hi": "भास्करराय धर्म और अधर्म को इष्ट और अनिष्ट फल देने वाले कर्म बताते हैं, और दो कारण देते हैं कि वे देवी को क्यों नहीं छूते: देवता कर्मकाण्ड के अधिकारी नहीं हैं, और शास्त्र अविद्या में स्थित लोगों के लिए है। अथवा, वे कहते हैं, धर्म और अधर्म बन्धन और मोक्ष हैं, और वे दोनों से मुक्त हैं; इस पर वे त्रिपुरोपनिषद् का एक श्लोक उद्धृत करते हैं: परमार्थ में न बन्धन है, न साधक, न मुमुक्षु और न मुक्ति। वे पञ्चदशी मन्त्र के अक्षरों से जुड़ा एक रहस्यार्थ भी देते हैं और कहते हैं कि उसे गुरु के मुख से ही जानना चाहिए।"
+  },
+  "story": {
+    "en": "Bhāskararāya supports his account of dharma from several sources: the Matsya Purāṇa, the Saṃvarta Smṛti, Jaimini’s Mīmāṃsā Sūtra, and Yājñavalkya, who says the highest dharma is seeing the Self through yoga. With this name the first line of verse 62 closes; the second begins a long series on the states of the soul.",
+    "hi": "धर्म की व्याख्या के समर्थन में भास्करराय अनेक स्रोत देते हैं: मत्स्य पुराण, संवर्त स्मृति, जैमिनि का मीमांसा सूत्र, और याज्ञवल्क्य, जो कहते हैं कि योग द्वारा आत्मदर्शन ही परम धर्म है। इस नाम के साथ श्लोक 62 की पहली पंक्ति पूरी होती है; दूसरी पंक्ति से जीव की अवस्थाओं की एक लम्बी शृंखला आरम्भ होती है।"
+  },
+  "commentary": {
+    "sanskrit": "इष्टानिष्टप्रापके कर्मणी धर्माधर्मौ ।",
+    "translation": {
+      "en": "Dharma and adharma are the two kinds of action that bring about what is desired and what is not.",
+      "hi": "धर्म और अधर्म वे दो प्रकार के कर्म हैं जो इष्ट और अनिष्ट की प्राप्ति कराते हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 255 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The verse Bhāskararāya attributes to the Tripura Upaniṣad (न विरोधो न चोत्पत्तिः …) is better known as Gauḍapāda’s Māṇḍūkya Kārikā 2.32, beginning न निरोधो; worth checking. His Pañcadaśī reading (dharma and adharma as Śakti and Śiva letters) is mentioned but deliberately not spelled out. The edition prints बन्धमोक्षो for बन्धमोक्षौ in a sentence not quoted." }
+}

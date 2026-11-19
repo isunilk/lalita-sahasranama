@@ -1,0 +1,45 @@
+{
+  "number": 648,
+  "verse": 128,
+  "slug": "lila-klupta-brahmanda-mandala",
+  "devanagari": "लीलाक्लुप्तब्रह्माण्डमण्डला",
+  "iastSplit": "Līlā-klupta-brahmāṇḍa-maṇḍalā",
+  "archana": "ॐ लीलाक्लुप्तब्रह्माण्डमण्डलायै नमः",
+  "syllables": ["lī", "lāk", "lup", "tab", "rah", "māṇ", "ḍa", "maṇ", "ḍa", "lā"],
+  "words": [
+    { "sa": "लीला", "meaning": { "en": "play", "hi": "लीला, क्रीड़ा" } },
+    { "sa": "क्लुप्त", "meaning": { "en": "made, fashioned", "hi": "रचित, निर्मित" } },
+    { "sa": "ब्रह्माण्ड", "meaning": { "en": "cosmic egg, a universe", "hi": "ब्रह्माण्ड" } },
+    { "sa": "मण्डल", "meaning": { "en": "circle, sphere; host", "hi": "मण्डल, समूह" } }
+  ],
+  "meaning": {
+    "en": "She who fashions the spheres of the universes in play",
+    "hi": "जिन्होंने लीला मात्र से ब्रह्माण्ड-मण्डलों की रचना की"
+  },
+  "explanation": {
+    "en": "Līlā is play, klupta means made or fashioned, and brahmāṇḍa-maṇḍala means the circles of the cosmic eggs, the countless universes. She makes them all as play, without effort.",
+    "hi": "लीला का अर्थ है क्रीड़ा, क्लुप्त का अर्थ है रचित, और ब्रह्माण्ड-मण्डल का अर्थ है अनगिनत ब्रह्माण्डों के मण्डल। वे इन सबकी रचना खेल-खेल में, बिना किसी श्रम के, करती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya stresses ‘by mere play, without effort’. He cites a sūtra he calls the Śakti Sūtra: by her own will she unfolds the universe on her own wall, the screen of herself. Creation is no labour for her and needs no material outside her; the world is her own self-expression.",
+    "hi": "भास्करराय ‘लीला मात्र से, बिना श्रम के’ पर बल देते हैं। वे एक सूत्र उद्धृत करते हैं जिसे वे शक्तिसूत्र कहते हैं: वे अपनी इच्छा से अपनी ही भित्ति पर विश्व को प्रकट करती हैं। सृष्टि उनके लिए परिश्रम नहीं है, और उसके लिए उन्हें अपने से बाहर किसी सामग्री की आवश्यकता नहीं; यह जगत् उन्हीं की अभिव्यक्ति है।"
+  },
+  "story": {
+    "en": "Bhāskararāya quotes a verse from his own Devīstava: in the rise, stay and end of Brahmā, Viṣṇu and the gods even Śiva is not the master; for you, Mother of the world, the whole sequence is a moment’s game of uddālaka-puṣpa-bhañjikā. He explains that this word of nine syllables names a particular game.",
+    "hi": "भास्करराय अपने ही देवीस्तव का एक श्लोक उद्धृत करते हैं: ब्रह्मा, विष्णु आदि देवताओं के उदय, स्थिति और नाश में शिव भी स्वामी नहीं हैं; हे जगदम्ब, तुम्हारे लिए यह सारा क्रम क्षण भर का ‘उद्दालक-पुष्प-भञ्जिका’ खेल है। वे बताते हैं कि नौ अक्षरों का यह शब्द एक विशेष क्रीड़ा का नाम है।"
+  },
+  "commentary": {
+    "sanskrit": "लीलामात्रेणानायासेन कॢप्तानि ब्रह्माण्डमण्डलानि यस्याः ।",
+    "translation": {
+      "en": "She by whom the spheres of the universes are fashioned by mere play, without effort.",
+      "hi": "जिनके द्वारा केवल लीला से, बिना श्रम के, ब्रह्माण्ड-मण्डल रचे गए हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 648 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The master text spells क्लुप्त; the Wikisource edition prints कॢप्त (the grammatical spelling of the same participle, from कॢप्), and the quotation keeps the edition’s spelling. The sūtra स्वेच्छया स्वभित्तौ विश्वमुन्मीलयति, which Bhāskararāya calls शक्तिसूत्र, is also known as Pratyabhijñāhṛdaya 2." }
+}

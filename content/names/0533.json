@@ -1,0 +1,45 @@
+{
+  "number": 533,
+  "verse": 110,
+  "slug": "sarvaudana-prita-chitta",
+  "devanagari": "सर्वौदनप्रीतचित्ता",
+  "iastSplit": "Sarvaudana-prīta-cittā",
+  "archana": "ॐ सर्वौदनप्रीतचित्तायै नमः",
+  "syllables": ["sar", "vau", "da", "nap", "rī", "ta", "cit", "tā"],
+  "words": [
+    { "sa": "सर्व", "meaning": { "en": "all", "hi": "सभी" } },
+    { "sa": "ओदन", "meaning": { "en": "cooked rice, food", "hi": "भात, अन्न" } },
+    { "sa": "प्रीत", "meaning": { "en": "pleased, delighted", "hi": "प्रसन्न" } },
+    { "sa": "चित्त", "meaning": { "en": "mind, heart", "hi": "चित्त, मन" } }
+  ],
+  "meaning": {
+    "en": "Whose heart is pleased by every kind of food",
+    "hi": "जिनका चित्त सब प्रकार के अन्न से प्रसन्न होता है"
+  },
+  "explanation": {
+    "en": "Each earlier yoginī has a favourite dish. Yākinī, at the crown, is pleased with all of them, and with every other kind of rice dish as well.",
+    "hi": "पिछली हर योगिनी का एक प्रिय व्यंजन है। शिखर पर याकिनी उन सबसे प्रसन्न होती हैं, और अन्य हर प्रकार के अन्न से भी।"
+  },
+  "inner": {
+    "en": "Bhāskararāya spells it out: all foods, from milk-rice to turmeric rice, and others besides, without distinction. As the colours, the faces and the weapons were gathered into her, so are the offerings of every centre; at the summit nothing offered is set aside.",
+    "hi": "भास्करराय इसे स्पष्ट करते हैं: खीर से लेकर हल्दी वाले अन्न तक सभी अन्न, और बिना भेद के अन्य प्रकार के भी। जैसे रंग, मुख और आयुध उनमें समाहित हुए, वैसे ही हर केन्द्र के भोग भी; शिखर पर कोई अर्पण अलग नहीं रखा जाता।"
+  },
+  "story": {
+    "en": "The foods of the yoginīs, as the names give them: Ḍākinī milk-rice (480), Rākinī rice with ghee (492), Lākinī rice with jaggery (501), Kākinī curd-rice (512), Sākinī rice with green gram (519), Hākinī turmeric rice (526), and Yākinī all of these.",
+    "hi": "नामों के अनुसार योगिनियों के भोग इस प्रकार हैं: डाकिनी को खीर (480), राकिनी को घी से युक्त भात (492), लाकिनी को गुड़ वाला अन्न (501), काकिनी को दही-भात (512), साकिनी को मूँग-भात (519), हाकिनी को हल्दी वाला अन्न (526), और याकिनी को ये सभी।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वैः पायसादिभिर्हरिद्रान्नान्तैरविशेषादन्यविधैरप्योदनैः प्रीतं तुष्टं चित्तं यस्याः ।",
+    "translation": {
+      "en": "She whose mind is pleased, satisfied, with all foods, from milk-rice to turmeric rice, and without distinction with other kinds of rice dishes too.",
+      "hi": "जिनका चित्त खीर से लेकर हल्दी वाले अन्न तक सभी से, और बिना भेद के अन्य प्रकार के अन्न से भी, प्रसन्न और तृप्त है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 533 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The list of foods comes from the names of the series and Bhāskararāya’s glosses (he explains स्निग्धौदन as rice soaked in ghee). The closing clause of the inner layer is a reflection. Meaning only; no practice." }
+}

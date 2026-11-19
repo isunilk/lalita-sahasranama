@@ -1,0 +1,42 @@
+{
+  "number": 448,
+  "verse": 94,
+  "slug": "svastimati",
+  "devanagari": "स्वस्तिमती",
+  "iastSplit": "Svastimatī",
+  "archana": "ॐ स्वस्तिमत्यै नमः",
+  "syllables": ["svas", "ti", "ma", "tī"],
+  "words": [
+    { "sa": "स्वस्तिमती", "meaning": { "en": "possessed of svasti, well-being (svasti + -matī, ‘having’)", "hi": "स्वस्ति, अर्थात् कल्याण, से युक्त" } }
+  ],
+  "meaning": {
+    "en": "Possessed of svasti: well-being and true being",
+    "hi": "स्वस्ति, अर्थात् कल्याण और सच्ची सत्ता से युक्त"
+  },
+  "explanation": {
+    "en": "Svasti is the old word of blessing, ‘may it be well’, spoken at the start of sacred rites. Svastimatī is she who has svasti: she is full of well-being.",
+    "hi": "‘स्वस्ति’ आशीर्वाद का प्राचीन शब्द है, ‘कल्याण हो’, जो शुभ कार्यों के आरम्भ में कहा जाता है। स्वस्तिमती वे हैं जिनमें स्वस्ति है: वे कल्याण से परिपूर्ण हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya splits svasti as su-asti, ‘excellent being’. That being is excellent because it is ultimately real, beyond the conventional reality of the world; he cites the Upaniṣad: ‘the breaths are the real, and he is the real of them, the real of the real’. He adds that the Ratnakośa lexicon gives svasti as blessing, safety, sinlessness, merit and auspiciousness, and that Yāska calls it a name of the imperishable.",
+    "hi": "भास्करराय ‘स्वस्ति’ को ‘सु-अस्ति’ अर्थात् ‘श्रेष्ठ सत्ता’ के रूप में तोड़ते हैं। वह सत्ता इसलिए श्रेष्ठ है कि वह पारमार्थिक है, संसार की व्यावहारिक सत्ता से ऊपर; इसके लिए वे उपनिषद् का वचन देते हैं: ‘प्राण सत्य हैं, और वह उनका भी सत्य है, सत्य का सत्य।’ वे यह भी बताते हैं कि रत्नकोश में ‘स्वस्ति’ आशीर्वाद, क्षेम, निष्पापता, पुण्य और मंगल का वाचक है, और यास्क इसे अविनाशी का नाम कहते हैं।"
+  },
+  "story": {
+    "en": "In Bhāskararāya’s grouping this is the sixth of the seven quality-names, standing for kalyāṇa, auspicious well-being. The word svasti is familiar from the svastika and from svasti-vācana, the blessing recited before rites.",
+    "hi": "भास्करराय के वर्गीकरण में यह सात गुण-नामों में छठा है, जो कल्याण का वाचक है। ‘स्वस्ति’ शब्द स्वस्तिक चिह्न से और शुभ कार्यों से पहले होने वाले स्वस्तिवाचन से परिचित है।"
+  },
+  "commentary": {
+    "sanskrit": "सुष्ठु अस्तिः सत्ता तद्वत्त्वेन वा स्वस्तिमती । सत्तायाः शोभनत्वञ्च पारमार्थिकत्वं व्यावहारिकसत्ताधिकत्वम् ।",
+    "translation": {
+      "en": "Or she is Svastimatī as possessing su-asti, excellent existence. The excellence of that existence is its being ultimately real, which surpasses conventional existence.",
+      "hi": "अथवा ‘सु-अस्ति’ अर्थात् श्रेष्ठ सत्ता से युक्त होने के कारण वे स्वस्तिमती हैं। उस सत्ता की श्रेष्ठता है उसका पारमार्थिक होना, जो व्यावहारिक सत्ता से बढ़कर है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 448 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya offers su-asti as an alternative (वा), after listing svastimatī among the seven quality-names as kalyāṇa. The Upaniṣad quotation is Bṛhadāraṇyaka 2.1.20 / 2.3.6 (प्राणा वै सत्यं तेषामेष सत्यम्); the reference is added here, not given by him." }
+}

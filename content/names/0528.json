@@ -1,0 +1,45 @@
+{
+  "number": 528,
+  "verse": 109,
+  "slug": "sahasra-dala-padma-stha",
+  "devanagari": "सहस्रदलपद्मस्था",
+  "iastSplit": "Sahasra-dala-padma-sthā",
+  "archana": "ॐ सहस्रदलपद्मस्थायै नमः",
+  "syllables": ["sa", "has", "ra", "da", "la", "pad", "mas", "thā"],
+  "words": [
+    { "sa": "सहस्र", "meaning": { "en": "thousand", "hi": "सहस्र, हजार" } },
+    { "sa": "दल", "meaning": { "en": "petal", "hi": "दल, पंखुड़ी" } },
+    { "sa": "पद्म", "meaning": { "en": "lotus", "hi": "कमल" } },
+    { "sa": "स्था", "meaning": { "en": "abiding, seated", "hi": "स्थित" } }
+  ],
+  "meaning": {
+    "en": "Who abides in the thousand-petalled lotus",
+    "hi": "जो सहस्र दलों वाले कमल में स्थित हैं"
+  },
+  "explanation": {
+    "en": "Sahasra is a thousand, dala a petal and padma a lotus. The thousand-petalled lotus is at the crown of the head, and here the Devī abides as Yākinī, the seventh and last of the yoginīs.",
+    "hi": "‘सहस्र’ का अर्थ है हजार, ‘दल’ पंखुड़ी और ‘पद्म’ कमल। सहस्रदल कमल सिर के शिखर पर है, और यहाँ देवी सात योगिनियों में सातवीं और अन्तिम, याकिनी के रूप में स्थित हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya places this lotus in the brahmarandhra, the opening of Brahman at the crown of the head. In the meditation verse he quotes, Yākinī sits on the moon within its pericarp and is called Bhavānī and ‘she who delights in Paraśiva’. Here the series of the seven yoginīs reaches its summit.",
+    "hi": "भास्करराय इस कमल को ब्रह्मरन्ध्र में, अर्थात् सिर के शिखर पर ब्रह्म के द्वार में, बताते हैं। उनके द्वारा उद्धृत ध्यान-श्लोक में याकिनी उसकी कर्णिका के चन्द्र पर विराजती हैं, और उन्हें भवानी तथा ‘परशिव में रस लेने वाली’ कहा गया है। यहाँ सात योगिनियों की श्रृंखला अपने शिखर पर पहुँचती है।"
+  },
+  "story": {
+    "en": "Names 528 to 534 describe Yākinī. The meditation verse Bhāskararāya quotes gathers them in one picture: she is in the thousand-petalled lotus in the sky of the head, abides in the vital seed, holds every weapon, has lotus faces on every side, is surrounded by the śaktis of all the letters, is of every colour, and is pleased with every food.",
+    "hi": "नाम 528 से 534 याकिनी का वर्णन करते हैं। भास्करराय द्वारा उद्धृत ध्यान-श्लोक इन्हें एक चित्र में समेटता है: वे सिर के आकाश में सहस्रदल कमल में स्थित हैं, शुक्र धातु में प्रतिष्ठित हैं, सभी आयुध धारण करती हैं, सब ओर कमल-से मुखों वाली हैं, सभी वर्णों की शक्तियों से घिरी हैं, सर्ववर्णा हैं, और सब प्रकार के अन्न से प्रसन्न होती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "ब्रह्मरन्ध्रे सहस्रदलं पद्मं तत्र याकिन्याख्या योगिनी तिष्ठति ।",
+    "translation": {
+      "en": "In the brahmarandhra is the thousand-petalled lotus; there dwells the yoginī named Yākinī.",
+      "hi": "ब्रह्मरन्ध्र में सहस्र दलों वाला कमल है; वहाँ याकिनी नाम की योगिनी निवास करती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 528 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Meaning only; no practice. Iconography is from the meditation verse Bhāskararāya quotes (मुण्डव्योमस्थपद्मे दशशतदलके …)." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 531,
+  "verse": 109,
+  "slug": "shukla-samsthita",
+  "devanagari": "शुक्लसंस्थिता",
+  "iastSplit": "Śukla-saṃsthitā",
+  "archana": "ॐ शुक्लसंस्थितायै नमः",
+  "syllables": ["śuk", "la", "saṃs", "thi", "tā"],
+  "words": [
+    { "sa": "शुक्ल", "meaning": { "en": "the vital seed (literally, white)", "hi": "शुक्र धातु (शाब्दिक अर्थ: श्वेत)" } },
+    { "sa": "संस्थिता", "meaning": { "en": "abiding, established", "hi": "स्थित, प्रतिष्ठित" } }
+  ],
+  "meaning": {
+    "en": "Who abides in the vital seed, the seventh of the body’s tissues",
+    "hi": "जो शरीर की सातवीं धातु, शुक्र, में स्थित हैं"
+  },
+  "explanation": {
+    "en": "Here śukla means the vital seed, which Bhāskararāya calls the tissue named vīrya, the seventh of the body’s dhātus. As Yākinī, the Devī abides in it as its presiding power.",
+    "hi": "यहाँ ‘शुक्ल’ का अर्थ शुक्र धातु है, जिसे भास्करराय वीर्य नामक धातु कहते हैं; यह शरीर की सात धातुओं में सातवीं है। याकिनी के रूप में देवी उसकी अधिष्ठात्री बनकर उसमें स्थित हैं।"
+  },
+  "inner": {
+    "en": "With this name the seven tissues are complete, each under one yoginī, from the skin to the vital seed. Bhāskararāya glosses each as her presiding over that tissue, so the whole body, from its surface to its deepest essence, is ruled from within by the one Mother. The same word śukla meant white in name 522; here it names the tissue.",
+    "hi": "इस नाम के साथ सातों धातुएँ पूरी होती हैं, हर एक किसी योगिनी के अधीन, त्वचा से शुक्र तक। भास्करराय हर एक का अर्थ उस धातु की अधिष्ठात्री होना करते हैं; इस प्रकार पूरा शरीर, ऊपरी परत से गहनतम सार तक, भीतर से एक ही माँ द्वारा संचालित है। यही ‘शुक्ल’ शब्द नाम 522 में श्वेत रंग के अर्थ में था; यहाँ यह धातु का नाम है।"
+  },
+  "story": {
+    "en": "The meditation verse he quotes calls Yākinī ‘established in the seed’ (retoniṣṭhā). He adds a second reading from the Bhaviṣyottara Purāṇa, where a particular meditation is called śukla; she may be the one who abides in it.",
+    "hi": "उनके द्वारा उद्धृत ध्यान-श्लोक याकिनी को ‘रेतोनिष्ठा’, अर्थात् वीर्य में प्रतिष्ठित, कहता है। वे भविष्योत्तर पुराण से एक दूसरा अर्थ भी देते हैं, जहाँ एक विशेष ध्यान को ‘शुक्ल’ कहा गया है; वे उसमें स्थित भी मानी जा सकती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "शुक्ले वीर्याख्यधातौ सम्यक् तदभिमानित्वेन स्थिता ।",
+    "translation": {
+      "en": "She is established fully in śukla, the tissue called vīrya, as the power presiding over it.",
+      "hi": "वे शुक्ल, अर्थात् वीर्य नामक धातु, में उसकी अधिष्ठात्री होकर भली-भाँति स्थित हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 531 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Meaning only; no practice. Bhāskararāya says the Bhaviṣyottara Purāṇa gives the name शुक्ल to a particular meditation at the time of union (रमणकालीनध्यानविशेषः); the story mentions this reading without that detail." }
+}

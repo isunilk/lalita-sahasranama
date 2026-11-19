@@ -1,0 +1,42 @@
+{
+  "number": 257,
+  "verse": 62,
+  "slug": "jagarini",
+  "devanagari": "जागरिणी",
+  "iastSplit": "Jāgariṇī",
+  "archana": "ॐ जागरिण्यै नमः",
+  "syllables": ["jā", "ga", "ri", "ṇī"],
+  "words": [
+    {"sa": "जागरिणी", "meaning": {"en": "the waking one", "hi": "जागने वाली, जाग्रत् अवस्था वाली"}}
+  ],
+  "meaning": {
+    "en": "She who is awake: the soul in the waking state",
+    "hi": "जाग्रत् अवस्था वाली, हर शरीर में जागता जीव"
+  },
+  "explanation": {
+    "en": "This is the first of the three ordinary states of the soul: waking, dream and deep sleep. In waking we meet a stable world, shared with others, through all the senses. The name says that the one who is awake in every body is the Devī herself.",
+    "hi": "यह जीव की तीन सामान्य अवस्थाओं, जाग्रत्, स्वप्न और सुषुप्ति, में पहली है। जाग्रत् में हम सब इन्द्रियों से एक स्थिर, सबके लिए समान जगत् का अनुभव करते हैं। यह नाम कहता है कि हर शरीर में जो जाग रहा है, वह स्वयं देवी हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya takes his definition of waking from the Īśvarapratyabhijñā: a creation common to all, stable as something outside, the field of all the senses. The one who has this state is the jāgarin, called viśva, the soul that identifies with the gross body; she, one with him, is Jāgariṇī. So even the most outward and ordinary state of mind is not apart from her.",
+    "hi": "भास्करराय जाग्रत् की परिभाषा ईश्वरप्रत्यभिज्ञा से लेते हैं: वह सृष्टि जो सबके लिए समान हो, बाहर स्थिर दिखे और सब इन्द्रियों का विषय हो। जिसकी यह अवस्था है वह ‘जागरी’ है, जिसे ‘विश्व’ कहते हैं, अर्थात् स्थूल शरीर से तादात्म्य रखने वाला जीव; उससे अभिन्न देवी जागरिणी हैं। इस प्रकार मन की सबसे बाहरी और साधारण अवस्था भी उनसे अलग नहीं है।"
+  },
+  "story": {
+    "en": "Names 257 to 263 walk through the states of the soul one by one: waking, dream, deep sleep, the fourth (turya), and the state beyond all four. Bhāskararāya pairs each state with its individual and cosmic forms: Viśvarūpā named the cosmic sum of all wakers, and here it is the waker in each body.",
+    "hi": "नाम 257 से 263 तक जीव की अवस्थाओं को एक-एक कर गिनाते हैं: जाग्रत्, स्वप्न, सुषुप्ति, तुरीय (चौथी), और चारों से परे की अवस्था। भास्करराय हर अवस्था को उसके व्यष्टि और समष्टि रूप से जोड़ते हैं: विश्वरूपा ने सब जागने वालों के समष्टि-रूप को कहा था, और यहाँ हर शरीर में जागने वाला जीव है।"
+  },
+  "commentary": {
+    "sanskrit": "तद्वान् जागरी विश्वाख्यः स्थूलशरीराभिमानी जीवः । तदभिन्ना जागरिणी ।",
+    "translation": {
+      "en": "One who has that [waking] is the jāgarin: the soul called viśva, who identifies with the gross body. She who is one with him is Jāgariṇī.",
+      "hi": "जिसकी वह [जाग्रत्] अवस्था है, वह ‘जागरी’ है: ‘विश्व’ नामक, स्थूल शरीर का अभिमानी जीव। उससे अभिन्न देवी जागरिणी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 257 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The last sentence of the inner layer is a reflection." }
+}

@@ -1,0 +1,42 @@
+{
+  "number": 452,
+  "verse": 95,
+  "slug": "tejovati",
+  "devanagari": "तेजोवती",
+  "iastSplit": "Tejovatī",
+  "archana": "ॐ तेजोवत्यै नमः",
+  "syllables": ["te", "jo", "va", "tī"],
+  "words": [
+    { "sa": "तेजोवती", "meaning": { "en": "possessed of tejas, radiance (tejas + -vatī, ‘having’)", "hi": "तेज से युक्त" } }
+  ],
+  "meaning": {
+    "en": "Radiant one, the support of every light",
+    "hi": "तेजोमयी, सभी ज्योतियों की आधार"
+  },
+  "explanation": {
+    "en": "Tejas is brilliance, fiery radiance, and Tejovatī is she who possesses it. The sun, the moon and fire all shine with her brilliance.",
+    "hi": "तेज का अर्थ है दीप्ति, अग्नि जैसी प्रभा, और तेजोवती वे हैं जिनमें यह तेज है। सूर्य, चन्द्र और अग्नि सब उन्हीं के तेज से चमकते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says she is Tejovatī because she is the support of all lights, the sun and the rest. He quotes the Upaniṣad in which Gārgī is told that the sun and moon stand held in place in the Imperishable. The lights we see do not shine by themselves; they rest on her.",
+    "hi": "भास्करराय कहते हैं कि सूर्य आदि सभी ज्योतियों की आधार होने से वे तेजोवती हैं। वे उपनिषद् का वह वचन उद्धृत करते हैं जिसमें गार्गी से कहा गया है कि सूर्य और चन्द्र उसी अक्षर में धारण किए हुए स्थित हैं। जो ज्योतियाँ हम देखते हैं वे अपने आप नहीं चमकतीं; वे उन्हीं पर टिकी हैं।"
+  },
+  "story": {
+    "en": "The words come from the Bṛhadāraṇyaka Upaniṣad, from the debate at King Janaka’s court where the woman sage Gārgī questions Yājñavalkya about what holds the worlds together.",
+    "hi": "ये वचन बृहदारण्यक उपनिषद् से हैं, राजा जनक की सभा के उस शास्त्रार्थ से, जिसमें ब्रह्मवादिनी गार्गी याज्ञवल्क्य से पूछती हैं कि लोकों को क्या धारण करता है।"
+  },
+  "commentary": {
+    "sanskrit": "तेजसामादित्यादीनामाधारभूतत्वात्तेजोवती ।",
+    "translation": {
+      "en": "Tejovatī, because she is the support of the lights, the sun and the rest.",
+      "hi": "तेजों का, अर्थात् सूर्य आदि का, आधार होने के कारण तेजोवती।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 452 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s quotation (एतस्मिन् खल्वक्षरे गार्गि सूर्याचन्द्रमसौ विधृतौ तिष्ठतः) paraphrases Bṛhadāraṇyaka 3.8.9; the identification of the source in the story is added for context. The last sentence of the inner layer is a reflection." }
+}

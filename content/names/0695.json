@@ -1,0 +1,42 @@
+{
+  "number": 695,
+  "verse": 136,
+  "slug": "dikshita",
+  "devanagari": "दीक्षिता",
+  "iastSplit": "Dīkṣitā",
+  "archana": "ॐ दीक्षितायै नमः",
+  "syllables": ["dīk", "ṣi", "tā"],
+  "words": [
+    { "sa": "दीक्षित", "meaning": { "en": "initiated; consecrated", "hi": "दीक्षित, दीक्षा-प्राप्त" } }
+  ],
+  "meaning": {
+    "en": "The initiated one, one with all who receive initiation",
+    "hi": "दीक्षिता; दीक्षा पाए हुए साधक से अभिन्न"
+  },
+  "explanation": {
+    "en": "Dīkṣā is initiation, and one in whom it has taken place is dīkṣita, “initiated”. Bhāskararāya reads the name as saying that she is one with the initiated person.",
+    "hi": "‘दीक्षा’ का अर्थ है दीक्षा-संस्कार, और जिसमें यह सम्पन्न हुआ हो, वह ‘दीक्षित’ है। भास्करराय इस नाम का अर्थ करते हैं कि वे दीक्षित व्यक्ति से अभिन्न हैं।"
+  },
+  "inner": {
+    "en": "He explains dīkṣā in two ways. It brings dhī, knowledge, a derivation he supports from an Atharvan Brāhmaṇa; and, citing the Parānanda Tantra, it is so called because something is given (dīyate) to the disciple by grace and the heap of sin is destroyed (kṣīyate). Knowledge given and sin removed: in the one who receives these, she is present as that very person.",
+    "hi": "वे दीक्षा को दो प्रकार से समझाते हैं। यह धी अर्थात् ज्ञान प्राप्त कराती है — इस व्युत्पत्ति के लिए वे एक आथर्वण ब्राह्मण का प्रमाण देते हैं; और परानन्द तन्त्र के अनुसार, इसमें कृपा से शिष्य को कुछ दिया जाता है (दीयते) और पापों का संचय क्षीण होता है (क्षीयते), इसलिए इसे दीक्षा कहते हैं। ज्ञान का मिलना और पाप का मिटना: जिसमें यह होता है, उस व्यक्ति के रूप में वे स्वयं उपस्थित हैं।"
+  },
+  "story": {
+    "en": "In the Śrīvidyā tradition the mantra is received from a guru in initiation, which is why Bhāskararāya speaks of the mantra being given to disciples. The theme of the teacher returns a few names later, in Sampradāyeśvarī and Gurumaṇḍalarūpiṇī (710, 713).",
+    "hi": "श्रीविद्या परम्परा में मन्त्र गुरु से दीक्षा में प्राप्त होता है, इसीलिए भास्करराय शिष्यों को मन्त्र देने की बात करते हैं। गुरु और परम्परा का विषय कुछ नामों बाद सम्प्रदायेश्वरी और गुरुमण्डलरूपिणी (710, 713) में फिर आता है।"
+  },
+  "commentary": {
+    "sanskrit": "सा अस्य सञ्जातेति दीक्षितस्तदभिन्ना ।",
+    "translation": {
+      "en": "One in whom it (dīkṣā) has arisen is dīkṣita; she is one with him.",
+      "hi": "जिसमें वह (दीक्षा) उत्पन्न हुई है, वह दीक्षित है; वे उससे अभिन्न हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 695 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s derivation धियं ज्ञानं क्षिणोति प्रापयतीति दीक्षा is rendered loosely as ‘it brings knowledge’; the Brāhmaṇa he calls आथर्वण is not identified further. The last sentence of the inner layer restates तदभिन्ना as a reflection; check the reading ‘one with the initiated’." }
+}

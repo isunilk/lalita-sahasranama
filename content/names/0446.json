@@ -1,0 +1,42 @@
+{
+  "number": 446,
+  "verse": 94,
+  "slug": "dhriti",
+  "devanagari": "धृतिः",
+  "iastSplit": "Dhṛtiḥ",
+  "archana": "ॐ धृत्यै नमः",
+  "syllables": ["dhṛ", "tiḥ"],
+  "words": [
+    { "sa": "धृति", "meaning": { "en": "steadiness, firmness, resolve", "hi": "धृति, धैर्य, दृढ़ता" } }
+  ],
+  "meaning": {
+    "en": "Steadiness and firm resolve itself",
+    "hi": "धृति, अर्थात् धैर्य और दृढ़ता का स्वरूप"
+  },
+  "explanation": {
+    "en": "Dhṛti is steadiness: the firmness that holds to the right course and does not waver. She is that steadiness, the strength that holds us up when the mind would give way.",
+    "hi": "धृति का अर्थ है स्थिरता: वह दृढ़ता जो सही मार्ग पर टिकी रहती है और डगमगाती नहीं। वे स्वयं वही धैर्य हैं, वह बल जो मन के हारने पर भी हमें थामे रखता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya counts dhṛti among the seven qualities the Goddess is, taking it as dhairya, fortitude. He gives no further hidden meaning. The word comes from dhṛ, ‘to hold’, the root of dharma as well: steadiness is her holding power at work in us.",
+    "hi": "भास्करराय धृति को उन सात गुणों में गिनते हैं जो देवी स्वयं हैं, और इसे धैर्य के अर्थ में लेते हैं। इससे आगे वे कोई गूढ़ अर्थ नहीं देते। यह शब्द ‘धृ’ (धारण करना) धातु से बना है, जिससे ‘धर्म’ भी बना है: स्थिरता हमारे भीतर काम करती उनकी धारण-शक्ति है।"
+  },
+  "story": {
+    "en": "In the Padma Purāṇa’s list of the Devī’s sacred places, quoted by Bhāskararāya, she is worshipped as Dhṛti at Piṇḍāraka.",
+    "hi": "भास्करराय द्वारा उद्धृत पद्म पुराण की देवी-क्षेत्रों की सूची में वे पिण्डारक क्षेत्र में धृति नाम से पूजित हैं।"
+  },
+  "commentary": {
+    "sanskrit": "बुद्धिः कीर्तिर्धृतिर्लक्ष्मीः शक्तिः श्रद्धा मतिः स्मृतिः । सर्वेषां प्राणिनां साम्बा प्रत्यक्षं तन्निदर्शनम् ।।",
+    "translation": {
+      "en": "(Quoting the Devī Bhāgavata:) Intellect, fame, steadiness, fortune, power, faith, understanding, memory: in all living beings these are she, the Mother; that is plain to see.",
+      "hi": "(देवीभागवत का उद्धरण:) बुद्धि, कीर्ति, धृति, लक्ष्मी, शक्ति, श्रद्धा, मति और स्मृति: सब प्राणियों में ये वही माता हैं; यह प्रत्यक्ष दिखाई देता है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 446 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The commentary verse is the Devī Bhāgavata (third skandha) as quoted by Bhāskararāya; check the rendering of साम्बा (सा अम्बा). The remark on the root dhṛ in the inner layer is a reflection." }
+}

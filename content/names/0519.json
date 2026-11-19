@@ -1,0 +1,45 @@
+{
+  "number": 519,
+  "verse": 107,
+  "slug": "mudgaudanasakta-chitta",
+  "devanagari": "मुद्गौदनासक्तचित्ता",
+  "iastSplit": "Mudgaudanāsakta-cittā",
+  "archana": "ॐ मुद्गौदनासक्तचित्तायै नमः",
+  "syllables": ["mud", "gau", "da", "nā", "sak", "ta", "cit", "tā"],
+  "words": [
+    { "sa": "मुद्ग", "meaning": { "en": "green gram, mung bean", "hi": "मूँग" } },
+    { "sa": "ओदन", "meaning": { "en": "cooked rice", "hi": "पका हुआ भात" } },
+    { "sa": "आसक्त", "meaning": { "en": "attached, fond of", "hi": "आसक्त, अनुरक्त" } },
+    { "sa": "चित्त", "meaning": { "en": "mind, heart", "hi": "चित्त, मन" } }
+  ],
+  "meaning": {
+    "en": "Whose heart delights in rice cooked with green gram",
+    "hi": "जिनका चित्त मूँग के साथ पके भात में रमता है"
+  },
+  "explanation": {
+    "en": "Mudga is green gram and odana is cooked rice. Her heart is drawn to rice cooked with green gram, the food dear to Sākinī, the yoginī of the Mūlādhāra lotus.",
+    "hi": "‘मुद्ग’ मूँग है और ‘ओदन’ पका हुआ भात। उनका चित्त मूँग के साथ पके भात में आसक्त है; यह मूलाधार कमल की योगिनी साकिनी का प्रिय भोजन है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives no hidden meaning here; he explains the dish as rice mixed with a broth of green gram. In this series each yoginī has a food of her own, and the Mother accepts each one. It is a reminder that she receives even a simple meal offered with love.",
+    "hi": "भास्करराय यहाँ कोई गूढ़ अर्थ नहीं देते; वे इस व्यंजन को मूँग की दाल मिले भात के रूप में समझाते हैं। इस श्रृंखला में हर योगिनी का अपना प्रिय भोजन है, और माँ हर एक को स्वीकार करती हैं। यह स्मरण कराता है कि वे प्रेम से अर्पित सादा भोग भी ग्रहण करती हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya even quotes a recipe for it from the Kumāra Saṃhitā: fine śāli rice with half as much split green gram, jaggery, coconut, pepper, rock salt, cumin and cow’s ghee, cooked in cow’s milk over a slow fire.",
+    "hi": "भास्करराय कुमारसंहिता से इसकी विधि भी उद्धृत करते हैं: उत्तम शालि चावल, उसका आधा दली हुई मूँग, गुड़, नारियल, काली मिर्च, सेंधा नमक, जीरा और गाय का घी, गाय के दूध में मन्द आँच पर पकाया हुआ।"
+  },
+  "commentary": {
+    "sanskrit": "मुद्गसूपमिश्र ओदने आसक्तं चित्तं यस्याः ।",
+    "translation": {
+      "en": "She whose mind is attached to odana, cooked rice, mixed with mudga-sūpa, a broth of green gram.",
+      "hi": "जिनका चित्त मूँग की दाल मिले ओदन, अर्थात् भात, में आसक्त है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 519 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the last sentence of the inner layer is a reflection. The meditation verse he quotes for Sākinī prints मुद्रान्नासक्तचित्तां, evidently a misprint for मुद्गान्न…. Meaning only; no practice." }
+}

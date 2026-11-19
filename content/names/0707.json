@@ -1,0 +1,43 @@
+{
+  "number": 707,
+  "verse": 137,
+  "slug": "guhya-rupini",
+  "devanagari": "गुह्यरूपिणी",
+  "iastSplit": "Guhya-rūpiṇī",
+  "archana": "ॐ गुह्यरूपिण्यै नमः",
+  "syllables": ["guh", "ya", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "गुह्य", "meaning": { "en": "secret, hidden", "hi": "गुह्य, रहस्य" } },
+    { "sa": "रूपिणी", "meaning": { "en": "whose form is", "hi": "स्वरूपा" } }
+  ],
+  "meaning": {
+    "en": "Whose form is the supreme secret",
+    "hi": "जिनका स्वरूप परम रहस्य है"
+  },
+  "explanation": {
+    "en": "Guhya is what lies hidden in the cave: the supreme secret. Bhāskararāya says her form is knowledge itself, which the everyday view of things cannot grasp. He also reads it as: her form is the Guhya Upaniṣad, the secret teaching.",
+    "hi": "‘गुह्य’ वह है जो गुहा में छिपा है: परम रहस्य। भास्करराय कहते हैं कि उनका स्वरूप स्वयं वह ज्ञान है, जिसे व्यवहार की दृष्टि नहीं पकड़ पाती। वे इसका यह अर्थ भी करते हैं कि गुह्य उपनिषद्, अर्थात् रहस्य-उपदेश, उनका रूप है।"
+  },
+  "inner": {
+    "en": "Here he resolves the doubt of the name before. All everyday dealings, including the scriptures that speak of difference, rest on practical (vyāvahārika) truth; non-duality rests on ultimate (pāramārthika) truth. The one Brahman has these two aspects, and so both kinds of scripture hold good, each at its own level.",
+    "hi": "यहाँ वे पिछले नाम की शंका का समाधान करते हैं। सारा व्यवहार, भेद बताने वाले शास्त्र भी, व्यावहारिक सत्य पर टिका है; अद्वैत पारमार्थिक सत्य पर। एक ही ब्रह्म के ये दो रूप हैं, इसलिए दोनों प्रकार के शास्त्र अपने-अपने स्तर पर सही हैं।"
+  },
+  "story": {
+    "en": "He quotes the Sūta Saṃhitā: “We bow to her who bears the form of the guru, the secret one, whose form is secret knowledge, who delights in her secret devotees, who is placed in the cave.” And the Kūrma Purāṇa: “Of all the Upaniṣads, O Devī, you are called the secret Upaniṣad.”",
+    "hi": "वे सूत संहिता उद्धृत करते हैं: ‘गुरु-मूर्ति धारण करने वाली, गुह्या, गुह्य-विज्ञान-स्वरूपा, गुह्य भक्तजनों से प्रसन्न होने वाली, गुहा में निहित देवी को हम नमन करते हैं।’ और कूर्म पुराण: ‘हे देवि, सब उपनिषदों में तुम गुह्य उपनिषद् कहलाती हो।’"
+  },
+  "commentary": {
+    "sanskrit": "गुहायां स्थितं गुह्यं परमरहस्यं व्यावहारिकदृष्ट्ययोग्यं ज्ञानमेव रूपमस्याः ।",
+    "translation": {
+      "en": "What abides in the guhā, the cave, is guhya, the supreme secret: knowledge itself, beyond the reach of the everyday view, is her form.",
+      "hi": "गुहा में स्थित होने से गुह्य, अर्थात् परम रहस्य; व्यावहारिक दृष्टि के अयोग्य ज्ञान ही उनका रूप है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 707 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The inner layer summarises Bhāskararāya’s answer (सत्यमयं व्यवहारः… पारमार्थिकं सत्यत्वमालम्बते) to the objection under name 706." }
+}

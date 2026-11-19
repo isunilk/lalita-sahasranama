@@ -1,0 +1,43 @@
+{
+  "number": 280,
+  "verse": 65,
+  "slug": "padmanabha-sahodari",
+  "devanagari": "पद्मनाभसहोदरी",
+  "iastSplit": "Padmanābha-sahodarī",
+  "archana": "ॐ पद्मनाभसहोदर्यै नमः",
+  "syllables": ["pad", "ma", "nā", "bha", "sa", "ho", "da", "rī"],
+  "words": [
+    {"sa": "पद्मनाभ", "meaning": {"en": "Padmanābha, Viṣṇu of the lotus navel", "hi": "पद्मनाभ, कमलनाभ विष्णु"}},
+    {"sa": "सहोदरी", "meaning": {"en": "sister born of the same womb", "hi": "सगी बहन, एक ही उदर से जन्मी"}}
+  ],
+  "meaning": {
+    "en": "Sister of Padmanābha, Viṣṇu of the lotus navel",
+    "hi": "पद्मनाभ (विष्णु) की सगी बहन"
+  },
+  "explanation": {
+    "en": "Padmanābha, ‘he of the lotus navel’, is Viṣṇu, from whose navel grows the lotus of creation. Sahodarī means a sister born of the same womb. The Devī is Viṣṇu’s own sister.",
+    "hi": "‘पद्मनाभ’, अर्थात् जिनकी नाभि में कमल है, विष्णु हैं, जिनकी नाभि से सृष्टि का कमल उगता है। ‘सहोदरी’ का अर्थ है एक ही उदर से जन्मी बहन। देवी विष्णु की सगी बहन हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya explains with what he calls a secret of Śaiva doctrine: the one Brahman took two forms, dharma (attribute) and dharmin (bearer). The attribute became twofold, male and female: the male became Viṣṇu, who brings forth the whole world, and the female became the queen of Paramaśiva. All three together are one undivided Brahman; he says this is well known in the Kūrma Purāṇa and other texts and is set out at length by Dīkṣita (Appayya Dīkṣita) in the Ratnatrayaparīkṣā.",
+    "hi": "भास्करराय इसे शैव मत के एक रहस्य से समझाते हैं: एक ही ब्रह्म ने धर्म और धर्मी, ये दो रूप लिए। धर्म फिर पुरुष और स्त्री, दो रूपों में बँटा: पुरुष विष्णु बने, जो समस्त जगत् के उत्पादक हैं, और स्त्री परमशिव की महिषी बनीं। ये तीनों मिलकर एक अखण्ड ब्रह्म हैं; वे कहते हैं कि यह कूर्म पुराण आदि में प्रसिद्ध है और दीक्षित (अप्पय्य दीक्षित) ने रत्नत्रयपरीक्षा में इसे विस्तार से निरूपित किया है।"
+  },
+  "story": {
+    "en": "He cites the Brahma Purāṇa on the holy land of Puruṣottama (Purī): she who was born from Menā’s womb in an earlier birth came in this birth from Devakī’s womb, with Kṛṣṇa, as Subhadrā. He also reads names 278 to 280 as encoding the first part of the Pañcadaśī mantra, a reading that belongs to the teacher and is not given here.",
+    "hi": "वे ब्रह्म पुराण के पुरुषोत्तम-क्षेत्र (पुरी) माहात्म्य का वचन देते हैं: जो पूर्वजन्म में मेना के गर्भ से जन्मी थीं, वही इस जन्म में कृष्ण के साथ देवकी के गर्भ से सुभद्रा के रूप में आईं। वे नाम 278 से 280 को पञ्चदशी मन्त्र के पहले खण्ड का संकेत भी मानते हैं; यह अर्थ गुरु-परम्परा का विषय है और यहाँ नहीं दिया गया।"
+  },
+  "commentary": {
+    "sanskrit": "पद्मनाभस्य विष्णोः सहोदरी एकोदरभवा भगिनी ।",
+    "translation": {
+      "en": "The sahodarī of Padmanābha, Viṣṇu: a sister born of the same womb.",
+      "hi": "पद्मनाभ, अर्थात् विष्णु, की सहोदरी: एक ही उदर से जन्मी बहन।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 280 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s mantra reading of names 278–280 is mentioned without detail, as the project rules require. ‘Appayya’ is added to his ‘Dīkṣita’ as the known author of the Ratnatrayaparīkṣā." }
+}

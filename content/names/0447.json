@@ -1,0 +1,42 @@
+{
+  "number": 447,
+  "verse": 94,
+  "slug": "shanti",
+  "devanagari": "शान्तिः",
+  "iastSplit": "Śāntiḥ",
+  "archana": "ॐ शान्त्यै नमः",
+  "syllables": ["śān", "tiḥ"],
+  "words": [
+    { "sa": "शान्ति", "meaning": { "en": "peace, calm, the stilling of disturbance", "hi": "शान्ति, शम" } }
+  ],
+  "meaning": {
+    "en": "Peace itself, the stilling of all disturbance",
+    "hi": "शान्ति-स्वरूपा, सब विक्षोभों को शान्त करने वाली"
+  },
+  "explanation": {
+    "en": "Śānti is peace: the calm that remains when agitation subsides. She is that peace. Many prayers close by saying ‘śāntiḥ’ three times; here that peace is named as the Goddess herself.",
+    "hi": "शान्ति वह स्थिरता है जो विक्षोभ थमने पर शेष रहती है। वे स्वयं वही शान्ति हैं। अनेक प्रार्थनाएँ तीन बार ‘शान्तिः’ कहकर पूरी होती हैं; यहाँ वही शान्ति देवी के रूप में पुकारी गई है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya takes śānti as śama, calm, and also as the name of a kalā, a power described in Śaiva teaching. He quotes a Śaiva Āgama: the kalā by which the flood of impurity, māyā and their effects is stilled for the soul is called Śānti. So she is not only calm of mind but the power that quiets what binds the soul.",
+    "hi": "भास्करराय शान्ति को ‘शम’ के अर्थ में लेते हैं, और शैव सिद्धान्त में वर्णित एक कला का नाम भी मानते हैं। वे शैवागम का वचन उद्धृत करते हैं: जिस कला से जीव के मल, माया और उनके विकारों का प्रवाह शान्त होता है, वह कला शान्ति कहलाती है। अतः वे केवल मन की शान्ति नहीं, जीव को बाँधने वाले बन्धनों को शान्त करने वाली शक्ति भी हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya also quotes the Bṛhat Parāśara Smṛti, which speaks of a sixteenth kalā, said to lie outside the body beyond the nose, where the soul is made pure, and calls it śānti.",
+    "hi": "भास्करराय बृहत्पराशर स्मृति भी उद्धृत करते हैं, जो नासिका से बाहर स्थित एक सोलहवीं कला का वर्णन करती है, जहाँ जीव शुद्ध होता है, और उसे शान्ति कहती है।"
+  },
+  "commentary": {
+    "sanskrit": "मलमायाविकारौघशान्तिः पुंसः पुनर्यया । सा कला शान्तिरित्युक्ता",
+    "translation": {
+      "en": "(Quoting a Śaiva Āgama:) The kalā by which the flood of impurity, māyā and their effects is stilled for the soul is called Śānti.",
+      "hi": "(शैवागम का उद्धरण:) जिस कला से जीव के मल, माया और विकारों के प्रवाह की शान्ति होती है, वह कला शान्ति कही गई है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 447 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya introduces this reading as वायवीयः कलाविशेषः; it is rendered loosely as ‘a kalā of Śaiva teaching’, and whether वायवीय refers to the Vāyavīya Saṃhitā should be checked. The quoted Āgama verse is cut before its last quarter (साधिकारास्पदं पदम्). The Bṛhat Parāśara passage is summarised without practice detail." }
+}

@@ -1,0 +1,44 @@
+{
+  "number": 470,
+  "verse": 97,
+  "slug": "vayovastha-vivarjita",
+  "devanagari": "वयोऽवस्थाविवर्जिता",
+  "iastSplit": "Vayo'vasthā-vivarjitā",
+  "archana": "ॐ वयोऽवस्थाविवर्जितायै नमः",
+  "syllables": ["va", "yo", "vas", "thā", "vi", "var", "ji", "tā"],
+  "words": [
+    { "sa": "वयस्", "meaning": { "en": "age", "hi": "वयस्, आयु" } },
+    { "sa": "अवस्था", "meaning": { "en": "state, stage", "hi": "अवस्था" } },
+    { "sa": "विवर्जिता", "meaning": { "en": "free from, without", "hi": "विवर्जिता, रहित" } }
+  ],
+  "meaning": {
+    "en": "Free from the stages of age",
+    "hi": "आयु की अवस्थाओं से रहित"
+  },
+  "explanation": {
+    "en": "Childhood, youth, maturity and old age are the stages every body passes through. She passes through none of them; she does not grow old.",
+    "hi": "बचपन, यौवन, प्रौढ़ता और बुढ़ापा, ये वे अवस्थाएँ हैं जिनसे हर शरीर गुज़रता है। वे इनमें से किसी से नहीं गुज़रतीं; वे कभी वृद्ध नहीं होतीं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says she is free from the states of age, such as infancy, childhood and youth, because she is eternal. He gives no other meaning. Age belongs to whatever changes in time; she, being eternal, is ever the same.",
+    "hi": "भास्करराय कहते हैं कि वे बाल्य, पौगण्ड, कैशोर आदि आयु की अवस्थाओं से रहित हैं, क्योंकि वे सनातन हैं। वे इसके अतिरिक्त कोई अर्थ नहीं देते। आयु उसकी होती है जो समय में बदलता है; वे सनातन हैं, इसलिए सदा एक-सी हैं।"
+  },
+  "story": {
+    "en": "Many names so far describe her beauty and youthful grace; this name adds that her youth is not a stage that passes. Bhāskararāya’s terms bālya, paugaṇḍa and kaiśora are the traditional names for the stages of childhood and early youth.",
+    "hi": "अब तक के अनेक नाम उनके सौन्दर्य और यौवन की शोभा का वर्णन करते हैं; यह नाम जोड़ता है कि उनका यौवन कोई बीत जाने वाली अवस्था नहीं है। भास्करराय के शब्द बाल्य, पौगण्ड और कैशोर बचपन और आरम्भिक यौवन की अवस्थाओं के पारम्परिक नाम हैं।"
+  },
+  "commentary": {
+    "sanskrit": "बाल्यपौगण्डकैशोरादिवयोविशेषाणामवस्थाभिर्विवर्जिता । सदातनत्वात् ।",
+    "translation": {
+      "en": "Free from the states of the particular ages, such as infancy, childhood and youth, because she is eternal.",
+      "hi": "बाल्य, पौगण्ड, कैशोर आदि आयु-विशेषों की अवस्थाओं से रहित, क्योंकि वे सदा रहने वाली हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 470 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Wikisource edition prints the name as वयोवस्थाविवर्जिता, without the avagraha; the master text and the web nāmāvali have वयोऽवस्थाविवर्जिता (वयस् + अवस्था), which is kept. The last sentence of the inner layer is a reflection." }
+}

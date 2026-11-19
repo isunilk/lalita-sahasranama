@@ -1,0 +1,42 @@
+{
+  "number": 271,
+  "verse": 64,
+  "slug": "ishvari",
+  "devanagari": "ईश्वरी",
+  "iastSplit": "Īśvarī",
+  "archana": "ॐ ईश्वर्यै नमः",
+  "syllables": ["īś", "va", "rī"],
+  "words": [
+    {"sa": "ईश्वरी", "meaning": {"en": "sovereign; one with Īśvara, the Lord", "hi": "अधीश्वरी; ईश्वर से अभिन्न"}}
+  ],
+  "meaning": {
+    "en": "The Sovereign, one with Īśvara, the Lord who conceals",
+    "hi": "ईश्वरी: तिरोधान करने वाले ईश्वर से अभिन्न"
+  },
+  "explanation": {
+    "en": "Īśvarī means the Sovereign, the Ruling One. Here it names the god who performs the fourth act, concealment: Īśvara, the Lord. She is one with him, and her rule is the freedom to show and to hide.",
+    "hi": "‘ईश्वरी’ का अर्थ है अधीश्वरी, शासन करने वाली। यहाँ यह चौथे कृत्य, तिरोधान, को करने वाले देव, ईश्वर, का नाम है। वे उनसे अभिन्न हैं, और उनकी प्रभुता प्रकट करने और छिपाने की स्वतन्त्रता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says the word īśvara here means the Lord in whom a dense, pure sattva prevails, and she is Īśvarī as one with him. Going deeper, he takes lordship to be the supreme ‘I’ (parāhantā), and quotes the Virūpākṣapañcāśikā: lordship, agency, freedom and being pure consciousness are all names for that ‘I’. To be Īśvarī is to be the one free Self that acts in everything.",
+    "hi": "भास्करराय कहते हैं कि यहाँ ‘ईश्वर’ शब्द का अर्थ वे ईश्वर हैं जिनमें घनतर शुद्ध सत्त्व प्रधान है, और उनसे अभिन्न होने से वे ईश्वरी हैं। और गहराई में जाकर वे ईश्वरता को परा अहन्ता, अर्थात् परम ‘अहम्’, बताते हैं, और विरूपाक्षपञ्चाशिका उद्धृत करते हैं: ईश्वरता, कर्तृत्व, स्वतन्त्रता और चित्स्वरूपता, ये सब उसी ‘अहम्’ के पर्याय हैं। ईश्वरी होने का अर्थ है वह एक स्वतन्त्र आत्मा होना जो सबमें कार्य करती है।"
+  },
+  "story": {
+    "en": "In the Śaiva scheme Bhāskararāya follows, Īśvara and Sadāśiva stand above Rudra; he cites a Śaiva Tantra: ‘Īśvara is the outward opening, Sadāśiva the inward closing.’ So the next name, Sadāśivā, completes the series of five Lords.",
+    "hi": "भास्करराय जिस शैव योजना का अनुसरण करते हैं, उसमें ईश्वर और सदाशिव रुद्र से ऊपर हैं; वे एक शैव तन्त्र का वचन उद्धृत करते हैं: ‘ईश्वर बाहर की ओर उन्मेष है, सदाशिव भीतर की ओर निमेष।’ इस प्रकार अगला नाम, सदाशिवा, पाँच ईश्वरों की शृंखला पूरी करता है।"
+  },
+  "commentary": {
+    "sanskrit": "ईश्वरपदेन घनतरशुद्धसत्वप्रधान ईश्वर उच्यते ।",
+    "translation": {
+      "en": "By the word īśvara is meant the Lord in whom a dense, pure sattva predominates.",
+      "hi": "‘ईश्वर’ पद से वे ईश्वर कहे जाते हैं जिनमें घनतर शुद्ध सत्त्व प्रधान है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 271 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The quote is copied as printed, with the spelling सत्व for सत्त्व. The edition’s पराहन्तेवैश्वरत्वं is read as पराहन्तैवैश्वरत्वं (parāhantā eva aiśvaratvam); a scholar should check. The last sentences of the explanation and inner layers are reflections." }
+}

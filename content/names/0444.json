@@ -1,0 +1,35 @@
+{
+  "number": 444,
+  "verse": 94,
+  "slug": "pushti",
+  "devanagari": "पुष्टिः",
+  "iastSplit": "Puṣṭiḥ",
+  "archana": "ॐ पुष्ट्यै नमः",
+  "syllables": ["puṣ", "ṭiḥ"],
+  "words": [
+    { "sa": "पुष्टि", "meaning": { "en": "nourishment, growth, thriving", "hi": "पुष्टि, पोषण" } }
+  ],
+  "meaning": {
+    "en": "Nourishment itself, by which all things thrive",
+    "hi": "पोषण-स्वरूपा, जिनसे सब कुछ पुष्ट होता है"
+  },
+  "explanation": {
+    "en": "Puṣṭi is nourishment: the strength by which bodies grow and all things thrive. She is that nourishing power, sustaining every life as a mother feeds her child.",
+    "hi": "पुष्टि का अर्थ है पोषण: वह बल जिससे शरीर बढ़ते हैं और सब कुछ फलता-फूलता है। वे स्वयं वही पोषक शक्ति हैं, जो माँ की तरह हर जीवन को पालती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya counts Puṣṭi among the seven qualities the Goddess herself is, and takes it in the plain sense of poṣa, nourishing. He gives no hidden meaning here. Read inwardly, it is also the slow growth of devotion and understanding that she feeds in the seeker.",
+    "hi": "भास्करराय पुष्टि को उन सात गुणों में गिनते हैं जो देवी स्वयं हैं, और इसे सीधे ‘पोष’ अर्थात् पोषण के अर्थ में लेते हैं। यहाँ वे कोई गूढ़ अर्थ नहीं देते। भीतर की दृष्टि से यह साधक में भक्ति और समझ की वह धीमी बढ़त भी है जिसे वे पोषित करती हैं।"
+  },
+  "story": {
+    "en": "In the Padma Purāṇa’s list of the Devī’s sacred places, quoted by Bhāskararāya, she is worshipped as Puṣṭi at Devadāruvana, the forest of deodar trees.",
+    "hi": "भास्करराय द्वारा उद्धृत पद्म पुराण की देवी-क्षेत्रों की सूची में वे देवदारुवन में पुष्टि नाम से पूजित हैं।"
+  },
+  "commentary": null,
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense, within his note on the seven quality-names (443–449); the last sentence of the inner layer is a reflection. No separate passage on this name, so commentary is null." }
+}

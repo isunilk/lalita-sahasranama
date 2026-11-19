@@ -1,0 +1,44 @@
+{
+  "number": 698,
+  "verse": 136,
+  "slug": "sarvartha-datri",
+  "devanagari": "सर्वार्थदात्री",
+  "iastSplit": "Sarvārtha-dātrī",
+  "archana": "ॐ सर्वार्थदात्र्यै नमः",
+  "syllables": ["sar", "vār", "tha", "dāt", "rī"],
+  "words": [
+    { "sa": "सर्व", "meaning": { "en": "all", "hi": "सब, सभी" } },
+    { "sa": "अर्थ", "meaning": { "en": "aim of life; what is sought", "hi": "पुरुषार्थ, अभीष्ट" } },
+    { "sa": "दात्री", "meaning": { "en": "giver", "hi": "देने वाली" } }
+  ],
+  "meaning": {
+    "en": "Giver of all four aims of life",
+    "hi": "सभी पुरुषार्थों को देने वाली"
+  },
+  "explanation": {
+    "en": "The arthas here are the four aims of human life: dharma, wealth, desire and liberation. Bhāskararāya says she gives all four.",
+    "hi": "यहाँ ‘अर्थ’ से तात्पर्य मनुष्य-जीवन के चार पुरुषार्थों से है: धर्म, अर्थ, काम और मोक्ष। भास्करराय कहते हैं कि वे चारों को देती हैं।"
+  },
+  "inner": {
+    "en": "He quotes the Devī Purāṇa: because she grants dharma and the other aims, as they are wished for, in all the worlds, the Devī is called by all Sarvārthasādhanī, accomplisher of every aim. His other note is on grammar, defending the compound against a rule that would seem to forbid it. She gives worldly aims and liberation alike.",
+    "hi": "वे देवी पुराण उद्धृत करते हैं: क्योंकि वे सभी लोकों में धर्म आदि चिन्तित अर्थों को प्रदान करती हैं, इसलिए सब उन्हें ‘सर्वार्थसाधनी’ कहते हैं। उनकी दूसरी टिप्पणी व्याकरण पर है, जिसमें वे इस समास को एक निषेधक सूत्र के विरुद्ध सिद्ध करते हैं। वे सांसारिक पुरुषार्थ भी देती हैं और मोक्ष भी।"
+  },
+  "story": {
+    "en": "The four puruṣārthas, dharma, artha, kāma and mokṣa, are the classical frame for a whole human life. Many names of the hymn speak of her giving worldly goods or liberation; this one gathers all four into a single gift.",
+    "hi": "चार पुरुषार्थ — धर्म, अर्थ, काम और मोक्ष — सम्पूर्ण मानव-जीवन का पारम्परिक ढाँचा हैं। स्तोत्र के अनेक नाम उनके द्वारा सांसारिक सुख या मोक्ष देने की बात करते हैं; यह नाम चारों को एक ही वरदान में समेट देता है।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वेषां चतुर्णामर्थानां पुरुषार्थानां दात्री ।",
+    "translation": {
+      "en": "The giver of all the arthas, the four aims of life.",
+      "hi": "सभी चारों अर्थों अर्थात् पुरुषार्थों को देने वाली।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 698 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s grammatical note (the compound justified as a शेषषष्ठी समास despite तृजकाभ्यां कर्तरि) is only summarised. The inner layer’s last sentence is a reflection." }
+}

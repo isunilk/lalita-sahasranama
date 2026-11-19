@@ -1,0 +1,43 @@
+{
+  "number": 692,
+  "verse": 135,
+  "slug": "samrajya-dayini",
+  "devanagari": "साम्राज्यदायिनी",
+  "iastSplit": "Sāmrājya-dāyinī",
+  "archana": "ॐ साम्राज्यदायिन्यै नमः",
+  "syllables": ["sām", "rāj", "ya", "dā", "yi", "nī"],
+  "words": [
+    { "sa": "साम्राज्य", "meaning": { "en": "empire, imperial rule", "hi": "साम्राज्य, सम्राट्-पद" } },
+    { "sa": "दायिनी", "meaning": { "en": "giver", "hi": "देने वाली" } }
+  ],
+  "meaning": {
+    "en": "Giver of empire",
+    "hi": "साम्राज्य प्रदान करने वाली"
+  },
+  "explanation": {
+    "en": "A samrāṭ, an emperor, is one who has performed the Rājasūya sacrifice, or the lord of a great region, or a king over kings. Sāmrājya is that imperial state, and she bestows it.",
+    "hi": "सम्राट् वह है जिसने राजसूय यज्ञ किया हो, या जो किसी बड़े मण्डल का स्वामी हो, या जो राजाओं का भी राजा हो। साम्राज्य वही सम्राट्-पद है, और वे उसे प्रदान करती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya keeps to the plain sense and supports the definition with a lexical verse from the Agni Purāṇa: an emperor is one who has offered the Rājasūya, is lord of a region, and governs kings by his command. Earlier names spoke of her giving kingdoms; here the gift is the highest rank of rule.",
+    "hi": "भास्करराय यहाँ सीधा अर्थ ही देते हैं, और अग्नि पुराण के कोश-श्लोक से इस परिभाषा की पुष्टि करते हैं: सम्राट् वह है जिसने राजसूय यज्ञ किया हो, जो मण्डल का स्वामी हो और अपनी आज्ञा से राजाओं पर शासन करे। पहले के नामों में उनके राज्य देने की बात थी; यहाँ उपहार है शासन का सर्वोच्च पद।"
+  },
+  "story": {
+    "en": "The Rājasūya was the great royal consecration of Vedic times, performed by a king who had won the allegiance of other kings; in the Mahābhārata, Yudhiṣṭhira performs it. The name says that even this highest worldly station is hers to give.",
+    "hi": "राजसूय वैदिक काल का महान राज्याभिषेक-यज्ञ था, जिसे वह राजा करता था जिसने दूसरे राजाओं की अधीनता प्राप्त कर ली हो; महाभारत में युधिष्ठिर यह यज्ञ करते हैं। यह नाम कहता है कि संसार का यह सर्वोच्च पद भी उन्हीं की देन है।"
+  },
+  "commentary": {
+    "sanskrit": "राजसूयेन यष्टा मण्डलेश्वरो वा राजाधिराजो वा सम्राट् । तस्य भावः साम्राज्यं तद्दत्ते ।",
+    "translation": {
+      "en": "A samrāṭ is one who has sacrificed with the Rājasūya, or the lord of a region, or a king over kings. His state is sāmrājya, and she gives it.",
+      "hi": "सम्राट् वह है जिसने राजसूय से यज्ञ किया हो, या जो मण्डलेश्वर हो, या राजाधिराज हो। उसका भाव साम्राज्य है, और वे उसे देती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 692 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition marks a gap at the end of the Agni Purāṇa verse (स सम्राट् ------------); only its sense is given. The remark on Yudhiṣṭhira’s Rājasūya is general context, not from the commentary." }
+}

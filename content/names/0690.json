@@ -1,0 +1,43 @@
+{
+  "number": 690,
+  "verse": 135,
+  "slug": "kosha-natha",
+  "devanagari": "कोशनाथा",
+  "iastSplit": "Kośa-nāthā",
+  "archana": "ॐ कोशनाथायै नमः",
+  "syllables": ["ko", "śa", "nā", "thā"],
+  "words": [
+    { "sa": "कोश", "meaning": { "en": "treasury; sheath", "hi": "कोष, भण्डार; आवरण" } },
+    { "sa": "नाथा", "meaning": { "en": "mistress, ruler", "hi": "स्वामिनी" } }
+  ],
+  "meaning": {
+    "en": "Mistress of the treasury, and of the sheaths of the self",
+    "hi": "कोष की स्वामिनी, और आत्मा के कोशों की भी"
+  },
+  "explanation": {
+    "en": "Kośa is a treasury, and she is its mistress; Bhāskararāya speaks of the divine treasure-house. Kośa also means a sheath, and he gives that reading too: she is mistress of the sheaths beginning with the sheath of food.",
+    "hi": "‘कोश’ का अर्थ है खजाना, और वे उसकी स्वामिनी हैं; भास्करराय दिव्य भण्डार की बात करते हैं। ‘कोश’ का अर्थ आवरण भी है, और वे यह अर्थ भी देते हैं: वे अन्नमय से आरम्भ होने वाले कोशों की स्वामिनी हैं।"
+  },
+  "inner": {
+    "en": "The sheaths are the five layers in which, by the Upaniṣads’ teaching, the self is wrapped: of food, breath, mind, understanding and bliss. To call her their mistress is to say she rules the person from within, from the body to the innermost bliss. The outer treasury and the inner one are both hers.",
+    "hi": "ये कोश वे पाँच परतें हैं जिनमें, उपनिषदों के अनुसार, आत्मा लिपटी हुई है: अन्नमय, प्राणमय, मनोमय, विज्ञानमय और आनन्दमय। उन्हें इनकी स्वामिनी कहना यह कहना है कि वे देह से लेकर भीतरतम आनन्द तक, व्यक्ति पर भीतर से शासन करती हैं। बाहर का खजाना और भीतर का, दोनों उन्हीं के हैं।"
+  },
+  "story": {
+    "en": "Treasury and army are counted among the classical limbs of a kingdom in Indian political thought, and this verse names both: the treasury here, the fourfold army in the next name.",
+    "hi": "भारतीय राजनीति-शास्त्र में कोष और सेना राज्य के प्रमुख अंगों में गिने जाते हैं, और यह श्लोक दोनों का नाम लेता है: यहाँ कोष, और अगले नाम में चतुरंगिणी सेना।"
+  },
+  "commentary": {
+    "sanskrit": "कोशस्य भाण्डागारस्य दिव्यस्य अन्नमयादेर्वा नाथा स्वामिनी ।",
+    "translation": {
+      "en": "Nāthā, the mistress, of the kośa: the divine treasure-house, or the sheaths beginning with the annamaya.",
+      "hi": "कोश की — दिव्य भाण्डागार की, अथवा अन्नमय आदि कोशों की — नाथा अर्थात् स्वामिनी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 690 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives both readings (treasury; sheaths from अन्नमय). The list of the five sheaths and the remark on the limbs of a kingdom are general context; the inner layer’s last two sentences are a reflection." }
+}

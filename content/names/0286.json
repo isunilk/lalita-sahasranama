@@ -1,0 +1,44 @@
+{
+  "number": 286,
+  "verse": 67,
+  "slug": "varnashrama-vidhayini",
+  "devanagari": "वर्णाश्रमविधायिनी",
+  "iastSplit": "Varṇāśrama-vidhāyinī",
+  "archana": "ॐ वर्णाश्रमविधायिन्यै नमः",
+  "syllables": ["var", "ṇāś", "ra", "ma", "vi", "dhā", "yi", "nī"],
+  "words": [
+    {"sa": "वर्ण", "meaning": {"en": "social class", "hi": "वर्ण"}},
+    {"sa": "आश्रम", "meaning": {"en": "stage of life", "hi": "आश्रम, जीवन का चरण"}},
+    {"sa": "विधायिनी", "meaning": {"en": "she who ordains", "hi": "विधान करने वाली"}}
+  ],
+  "meaning": {
+    "en": "Who established the duties of varṇa and āśrama",
+    "hi": "वर्ण और आश्रम के धर्मों का विधान करने वाली"
+  },
+  "explanation": {
+    "en": "Varṇa refers to the classes of society and āśrama to the four stages of life: student, householder, forest-dweller and renunciant. The name says she laid down their duties, as a mother sets the ways of a household. The order of dharma in human life comes from her.",
+    "hi": "‘वर्ण’ समाज के वर्गों को कहते हैं और ‘आश्रम’ जीवन के चार चरणों को: ब्रह्मचर्य, गृहस्थ, वानप्रस्थ और संन्यास। यह नाम कहता है कि उन्होंने इनके कर्तव्य निर्धारित किए, जैसे माँ घर की रीति बनाती है। मानव-जीवन में धर्म की व्यवस्था उन्हीं से आती है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya explains that the Veda has two parts, the portion on ritual action and the portion on Brahman. Since, by an old principle of Mīmāṃsā, gods and animals are not bound by ritual duty, she arranged human life by varṇa and āśrama and, like a mother, set out each one’s duties through the ritual portion. He quotes the Kūrma Purāṇa, where the Devī tells Himavat that work done according to varṇa and āśrama, joined with knowledge of the Self, leads to liberation: from dharma comes devotion, and from devotion the Supreme.",
+    "hi": "भास्करराय बताते हैं कि वेद के दो भाग हैं: कर्मकाण्ड और ब्रह्मकाण्ड। मीमांसा के एक प्राचीन न्याय के अनुसार देवता और पशु कर्मकाण्ड के अधिकारी नहीं हैं, इसलिए उन्होंने मनुष्य-जीवन को वर्ण और आश्रम के अनुसार व्यवस्थित किया और माँ की तरह कर्मकाण्ड द्वारा हर एक के धर्म निर्धारित किए। वे कूर्म पुराण उद्धृत करते हैं, जहाँ देवी हिमवान् से कहती हैं कि वर्णाश्रम के अनुसार किया गया कर्म, आत्मज्ञान के साथ, मुक्ति की ओर ले जाता है: धर्म से भक्ति उत्पन्न होती है, और भक्ति से परम तत्त्व।"
+  },
+  "story": {
+    "en": "The Kūrma Purāṇa passage comes after Himavat’s hymn to the Devī, when she teaches her father the paths by which she is reached: meditation, the yoga of action, devotion and knowledge, ‘not by millions of rites’. Under name 290 Bhāskararāya adds that through the Āgamas her worship is open to all four varṇas.",
+    "hi": "कूर्म पुराण का यह प्रसंग हिमवान् की देवी-स्तुति के बाद आता है, जब देवी अपने पिता को वे मार्ग बताती हैं जिनसे वे प्राप्त होती हैं: ध्यान, कर्मयोग, भक्ति और ज्ञान, ‘करोड़ों कर्मों से नहीं’। नाम 290 पर भास्करराय यह भी जोड़ते हैं कि आगमों के द्वारा उनकी उपासना चारों वर्णों के लिए खुली है।"
+  },
+  "commentary": {
+    "sanskrit": "मनुष्यानेव वर्णाश्रमभेदेन चतुर्धा विभज्य कर्मकाण्डेन मातेव तत्तद्धर्मानपि व्यवस्थापयामास",
+    "translation": {
+      "en": "Dividing human beings alone fourfold by varṇa and āśrama, she, like a mother, set out their several duties through the ritual portion of the Veda.",
+      "hi": "मनुष्यों को ही वर्ण और आश्रम के भेद से चार प्रकार से बाँटकर, उन्होंने माँ की तरह कर्मकाण्ड द्वारा उनके अलग-अलग धर्म भी व्यवस्थित किए।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 286 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The commentary excerpt is a clause from a longer sentence; the earlier part of that sentence prints त्रियगधिकरण for तिर्यगधिकरण and is not quoted." }
+}

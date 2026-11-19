@@ -1,0 +1,43 @@
+{
+  "number": 278,
+  "verse": 65,
+  "slug": "padmasana",
+  "devanagari": "पद्मासना",
+  "iastSplit": "Padmāsanā",
+  "archana": "ॐ पद्मासनायै नमः",
+  "syllables": ["pad", "mā", "sa", "nā"],
+  "words": [
+    {"sa": "पद्म", "meaning": {"en": "lotus", "hi": "कमल"}},
+    {"sa": "आसन", "meaning": {"en": "seat", "hi": "आसन"}}
+  ],
+  "meaning": {
+    "en": "Seated on the lotus",
+    "hi": "कमल पर आसीन"
+  },
+  "explanation": {
+    "en": "Padma is the lotus and āsana a seat. She is seated on a lotus, the seat of the creator Brahmā and of Lakṣmī. Bhāskararāya gives this as the first reason: since she has the form of Brahmā (name 265), she has his lotus seat.",
+    "hi": "‘पद्म’ कमल है और ‘आसन’ बैठने का स्थान। वे कमल पर विराजती हैं, जो सृष्टिकर्ता ब्रह्मा और लक्ष्मी का आसन है। भास्करराय पहला कारण यही देते हैं: ब्रह्मरूपा होने से (नाम 265) उनका आसन भी ब्रह्मा का कमल है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya’s second reading makes the lotus a picture of the cosmos: its petals are Prakṛti, its filaments her modifications, its stalk consciousness, and on this lotus she sits. In a third, padmāsanā means she who distributes Padmā, that is, Lakṣmī or wealth, among her devotees. In a fourth, she casts down (asyati) Padma, a demon warrior.",
+    "hi": "भास्करराय के दूसरे अर्थ में कमल विश्व का चित्र है: उसकी पंखुड़ियाँ प्रकृति हैं, केसर उसके विकार, और नाल चेतना; इसी कमल पर वे बैठी हैं। तीसरे अर्थ में ‘पद्मासना’ वे हैं जो पद्मा, अर्थात् लक्ष्मी या सम्पत्ति, भक्तों में बाँटती हैं। चौथे अर्थ में वे पद्म नामक असुर-योद्धा को गिराने (अस्यति) वाली हैं।"
+  },
+  "story": {
+    "en": "To show what her gift of fortune means, he quotes a verse with a double meaning, which can be read as her grace or as her anger: the same words describe a house filled with abundant gold, or a bare house filled with the cries of children. He also cites a Kāñcī legend in which Tripurā appears to Brahmā, lotus in hand, standing on a lotus seat, together with her brother Viṣṇu.",
+    "hi": "उनकी कृपा से मिलने वाली श्री का अर्थ दिखाने के लिए वे एक श्लेष-श्लोक उद्धृत करते हैं, जिसे उनकी कृपा या उनके कोप, दोनों अर्थों में पढ़ा जा सकता है: वही शब्द प्रचुर स्वर्ण से भरे घर को भी बताते हैं और बच्चों के आर्त-स्वर से भरे सूने घर को भी। वे काञ्ची की एक कथा भी देते हैं, जिसमें त्रिपुरा ब्रह्मा के सामने हाथ में कमल लिए, कमल के आसन पर, अपने भाई विष्णु के साथ प्रकट होती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "ब्रह्मरूपत्वात्पद्मासना । प्रकृतिमयपत्रविकारमयकेसरसंविन्नालादिविशेषणशीलं पद्ममेवासनं पीठं यस्या वा । पद्मां लक्ष्मीं सनति भक्तेभ्यो विभज्य ददातीति वा ।",
+    "translation": {
+      "en": "She is Padmāsanā because she has the form of Brahmā. Or, she whose āsana, whose seat, is the lotus itself, marked by petals made of Prakṛti, filaments made of its modifications, a stalk of consciousness and so on. Or, she who distributes (sanati) Padmā, Lakṣmī, giving her out to her devotees.",
+      "hi": "ब्रह्मरूपा होने से वे पद्मासना हैं। अथवा प्रकृतिमय पंखुड़ियों, विकारमय केसरों और चेतना रूपी नाल आदि से युक्त कमल ही जिनका आसन, अर्थात् पीठ, है। अथवा जो पद्मा, अर्थात् लक्ष्मी, को भक्तों में बाँटकर देती हैं (सनति)।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 278 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. In the edition the last reading (पद्मासुर) is printed after the heading of the next half-verse. The double-meaning verse is summarised only in part." }
+}

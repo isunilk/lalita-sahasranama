@@ -1,0 +1,45 @@
+{
+  "number": 285,
+  "verse": 67,
+  "slug": "abrahma-kita-janani",
+  "devanagari": "आब्रह्मकीटजननी",
+  "iastSplit": "Ābrahma-kīṭa-jananī",
+  "archana": "ॐ आब्रह्मकीटजनन्यै नमः",
+  "syllables": ["āb", "rah", "ma", "kī", "ṭa", "ja", "na", "nī"],
+  "words": [
+    {"sa": "आ", "meaning": {"en": "up to and including", "hi": "तक, सहित"}},
+    {"sa": "ब्रह्मन्", "meaning": {"en": "Brahmā, the creator", "hi": "ब्रह्मा"}},
+    {"sa": "कीट", "meaning": {"en": "insect, the tiniest creature", "hi": "कीट, छोटा-सा जीव"}},
+    {"sa": "जननी", "meaning": {"en": "mother", "hi": "जननी, माता"}}
+  ],
+  "meaning": {
+    "en": "Mother of all beings, from Brahmā down to the smallest insect",
+    "hi": "ब्रह्मा से लेकर छोटे-से कीट तक सबकी जननी"
+  },
+  "explanation": {
+    "en": "Ābrahmakīṭa means ‘from Brahmā to the insect’, from the highest of beings to the smallest. Jananī is mother. She gave birth to all of them, and every creature in between is her child.",
+    "hi": "‘आब्रह्मकीट’ का अर्थ है ‘ब्रह्मा से कीट तक’, सबसे ऊँचे प्राणी से सबसे छोटे तक। ‘जननी’ का अर्थ है माता। उन्होंने इन सबको जन्म दिया है, और बीच का हर प्राणी उनकी संतान है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya: Brahmā is the sum of all souls, Hiraṇyagarbha, the largest of beings, and the kīṭa is the tiniest creature, beyond the reach of the senses. Naming the first and the last includes everything between, as a grammarian’s pratyāhāra names a whole series by its two ends. So no being is too high to need her or too small to be her child.",
+    "hi": "भास्करराय कहते हैं: ब्रह्मा सब जीवों का समष्टि, हिरण्यगर्भ, अर्थात् सबसे स्थूल जीव हैं, और कीट वह अति सूक्ष्म प्राणी है जो इन्द्रियों की पकड़ से भी परे है। पहले और अन्तिम का नाम लेने से बीच के सब आ जाते हैं, जैसे व्याकरण का प्रत्याहार किसी शृंखला को उसके दोनों छोरों से कहता है। इसलिए कोई प्राणी इतना ऊँचा नहीं कि उसे उनकी आवश्यकता न हो, और इतना छोटा नहीं कि वह उनकी संतान न हो।"
+  },
+  "story": {
+    "en": "With this name begins a group on her care for the beings she has made. Having given birth to them, Bhāskararāya says, she became the Veda, her own command, to show them the right path; the next three names unfold this.",
+    "hi": "इस नाम से उनके रचे प्राणियों के प्रति उनकी करुणा का एक क्रम आरम्भ होता है। भास्करराय कहते हैं कि उन्हें जन्म देकर, उन्हें सन्मार्ग दिखाने के लिए, वे अपनी ही आज्ञा रूपी वेद बन गईं; अगले तीन नाम इसी को खोलते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "आद्यन्तग्रहणेन प्रत्याहारन्यायेन तन्मध्यपतिताः सर्वेऽपि तन्मध्यमपरिमाणकशरीरधारिणो जीवा गृह्यन्ते । आङभिविधौ । ब्रह्मादिस्तम्बान्तजीवजातजनयित्रीत्यर्थः ।",
+    "translation": {
+      "en": "By naming the first and the last, on the principle of the pratyāhāra, all the beings that fall between them, bearing bodies of every size in between, are included. The prefix ā is inclusive. The meaning is: she is the mother of the whole host of beings, from Brahmā to the stamba, the tiniest creature.",
+      "hi": "आदि और अन्त के ग्रहण से, प्रत्याहार-न्याय के अनुसार, उनके बीच आने वाले, बीच के परिमाण वाले शरीर धारण करने वाले सब जीव ग्रहण किए जाते हैं। ‘आ’ यहाँ अभिविधि (समावेश) के अर्थ में है। अर्थ यह है कि वे ब्रह्मा से लेकर स्तम्ब, अर्थात् सबसे सूक्ष्म जीव, तक के समस्त जीव-समूह की जननी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 285 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya identifies the kīṭa with a minute creature he calls stamba, citing medical texts; the printed sentence is corrupt at that point and is not quoted. The last sentence of the inner layer is a reflection." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 476,
+  "verse": 98,
+  "slug": "arakta-varna",
+  "devanagari": "आरक्तवर्णा",
+  "iastSplit": "Ārakta-varṇā",
+  "archana": "ॐ आरक्तवर्णायै नमः",
+  "syllables": ["ā", "rak", "ta", "var", "ṇā"],
+  "words": [
+    { "sa": "आरक्त", "meaning": { "en": "slightly red, rosy (ā, ‘slightly’ + rakta, ‘red’)", "hi": "आरक्त, हल्का लाल, गुलाबी" } },
+    { "sa": "वर्ण", "meaning": { "en": "colour, complexion", "hi": "वर्ण, रंग" } }
+  ],
+  "meaning": {
+    "en": "She whose complexion is a soft rose-red",
+    "hi": "हल्के लाल, गुलाबी वर्ण वाली"
+  },
+  "explanation": {
+    "en": "Ā-rakta is ‘slightly red’, a pale rose. As Ḍākinī in the throat centre, her complexion is the colour of the pāṭalī flower, white touched with red.",
+    "hi": "आरक्त का अर्थ है ‘हल्का लाल’, हल्का गुलाबी। कण्ठ-चक्र में डाकिनी के रूप में उनका वर्ण पाटली पुष्प जैसा है, श्वेत में लालिमा लिए हुए।"
+  },
+  "inner": {
+    "en": "Bhāskararāya insists this is a five-syllable name, ā-rakta-varṇā, in which ā means ‘slightly’. That fits Ḍākinī’s dhyāna, which calls her white-red, the colour called pāṭala. It also keeps this name distinct from Raktavarṇā, ‘red-hued’, which belongs to Lākinī (name 499).",
+    "hi": "भास्करराय ज़ोर देकर कहते हैं कि यह पाँच अक्षरों का नाम है, आ-रक्त-वर्णा, जिसमें ‘आ’ का अर्थ है ‘थोड़ा’। यह डाकिनी के ध्यान से मेल खाता है, जो उन्हें श्वेत-रक्त, अर्थात् पाटल वर्ण की, बताता है। इससे यह नाम लाकिनी के नाम ‘रक्तवर्णा’ (नाम 499) से भी अलग रहता है।"
+  },
+  "story": {
+    "en": "Each of the seven yoginīs has her own colour, number of faces, weapons and favourite food; this name gives Ḍākinī’s colour.",
+    "hi": "सातों योगिनियों में से प्रत्येक का अपना वर्ण, मुखों की संख्या, आयुध और प्रिय भोजन है; यह नाम डाकिनी का वर्ण बताता है।"
+  },
+  "commentary": {
+    "sanskrit": "आरक्तो वर्णो यस्या इति पञ्चाक्षरं नाम । आङीषदर्थे ।",
+    "translation": {
+      "en": "She whose colour is ā-rakta: a name of five syllables. The prefix ā has the sense ‘slightly’.",
+      "hi": "जिनका वर्ण आरक्त है; यह पाँच अक्षरों का नाम है। यहाँ ‘आ’ उपसर्ग ‘थोड़ा’ के अर्थ में है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 476 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Wikisource edition prints the verse line as विशुद्धिचक्रनिलया रक्तवर्णा, but Bhāskararāya’s comment requires the five-syllable आरक्तवर्णा, as in the master text (…निलयाऽऽरक्तवर्णा)." }
+}

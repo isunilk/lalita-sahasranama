@@ -1,0 +1,44 @@
+{
+  "number": 274,
+  "verse": 64,
+  "slug": "pancha-kritya-parayana",
+  "devanagari": "पञ्चकृत्यपरायणा",
+  "iastSplit": "Pañca-kṛtya-parāyaṇā",
+  "archana": "ॐ पञ्चकृत्यपरायणायै नमः",
+  "syllables": ["pañ", "ca", "kṛt", "ya", "pa", "rā", "ya", "ṇā"],
+  "words": [
+    {"sa": "पञ्च", "meaning": {"en": "five", "hi": "पाँच"}},
+    {"sa": "कृत्य", "meaning": {"en": "act, function", "hi": "कृत्य, कार्य"}},
+    {"sa": "परायणा", "meaning": {"en": "devoted to; the refuge of", "hi": "तत्पर; आश्रय"}}
+  ],
+  "meaning": {
+    "en": "Devoted to the five acts: creation, maintenance, dissolution, concealment, grace",
+    "hi": "सृष्टि, स्थिति, संहार, तिरोधान और अनुग्रह, इन पाँच कृत्यों में तत्पर"
+  },
+  "explanation": {
+    "en": "This name gathers the previous ten into one. Creation, maintenance, dissolution, concealment and grace are all her work, and she is wholly given to them. The whole life of the universe is the unceasing play of these five acts.",
+    "hi": "यह नाम पिछले दस नामों को एक में समेटता है। सृष्टि, स्थिति, संहार, तिरोधान और अनुग्रह, सब उन्हीं का कार्य है, और वे पूरी तरह उनमें लगी रहती हैं। विश्व का सारा जीवन इन्हीं पाँच कृत्यों की निरन्तर लीला है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives three senses of parāyaṇa: she is the refuge of the five acts, or she is intent on them, or they are dear to her. He quotes an Āgama: his act toward the world is fivefold, creation, maintenance and withdrawal, concealment, and likewise the bestowing of grace. He also cites two sūtras, whose meaning he says is set out in the Pratyabhijñāhṛdaya, on the five acts as they happen within experience: making things appear, relishing them, reflecting on them, laying them down as seed, and dissolving them.",
+    "hi": "भास्करराय ‘परायण’ के तीन अर्थ देते हैं: वे पाँचों कृत्यों का आश्रय हैं, या उनमें तत्पर हैं, या वे कृत्य उन्हें प्रिय हैं। वे एक आगम उद्धृत करते हैं: जगत् के प्रति उनका कृत्य पाँच प्रकार का है, सृष्टि, स्थिति और संहार, तिरोभाव, और वैसे ही अनुग्रह करना। वे दो सूत्र भी देते हैं, जिनका अर्थ वे प्रत्यभिज्ञाहृदय में देखने को कहते हैं, जो अनुभव के भीतर होने वाले पाँच कृत्य बताते हैं: आभासन (प्रकट करना), रक्ति (रस लेना), विमर्शन (विचारना), बीजावस्थापन (बीज रूप में रखना) और विलापन (लीन करना)।"
+  },
+  "story": {
+    "en": "Bhāskararāya notes that Śaṅkara said the same in the Saundaryalaharī verse jagat sūte dhātā, and quotes the Devī Bhāgavata: with her Brahmā creates, with her Viṣṇu protects, with her Rudra destroys; she binds the whole world with the firm noose of ‘I’ and ‘mine’, and those who seek freedom worship her alone. This closes the group of nineteen names on the soul and the Lord that began at Viśvarūpā (256).",
+    "hi": "भास्करराय बताते हैं कि शंकर ने सौन्दर्यलहरी के ‘जगत्सूते धाता’ श्लोक में यही कहा है, और देवीभागवत उद्धृत करते हैं: उनसे युक्त होकर ब्रह्मा सृष्टि करते हैं, विष्णु पालन और रुद्र संहार; वे ‘मैं’ और ‘मेरा’ के दृढ़ पाश से सारे जगत् को बाँधती हैं, और मुक्ति चाहने वाले उन्हीं की उपासना करते हैं। इसके साथ विश्वरूपा (256) से आरम्भ हुआ जीव और ईश्वर के उन्नीस नामों का समूह पूरा होता है।"
+  },
+  "commentary": {
+    "sanskrit": "पञ्चविधानामुक्तरूपाणां कृत्यानां परायणम् आश्रयस्तेषु तत्परा वा । तान्यभीष्टानि यस्या इति वा ।",
+    "translation": {
+      "en": "She is the parāyaṇa, the refuge, of the five kinds of acts described; or she is intent on them; or they are dear to her.",
+      "hi": "वे पूर्वोक्त पाँच प्रकार के कृत्यों का परायण, अर्थात् आश्रय, हैं; अथवा उनमें तत्पर हैं; अथवा वे कृत्य उन्हें प्रिय हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 274 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The two sūtras Bhāskararāya calls Śakti Sūtras (तथापि तद्वत्पञ्चविधकृत्यानि करोति; आभासनरक्तिविमर्शनबीजावस्थापनविलापनतस्तानि) appear to be sūtras 10–11 of the Pratyabhijñāhṛdaya. The title Saundaryalaharī is added here; he cites the verse as Bhagavatpāda’s." }
+}

@@ -1,0 +1,42 @@
+{
+  "number": 539,
+  "verse": 110,
+  "slug": "shruti",
+  "devanagari": "श्रुतिः",
+  "iastSplit": "Śrutiḥ",
+  "archana": "ॐ श्रुत्यै नमः",
+  "syllables": ["śru", "tiḥ"],
+  "words": [
+    { "sa": "श्रुति", "meaning": { "en": "what is heard: the Veda; hearing", "hi": "श्रुति, वेद; श्रवण" } }
+  ],
+  "meaning": {
+    "en": "She who is Śruti, the revealed Veda",
+    "hi": "जो श्रुति, अर्थात् वेद, हैं"
+  },
+  "explanation": {
+    "en": "Śruti means ‘what is heard’: the Veda, revealed to the seers and handed down by hearing. Bhāskararāya says the Vedas are her very form.",
+    "hi": "‘श्रुति’ का अर्थ है ‘जो सुना गया’: वेद, जो ऋषियों को प्रकट हुए और सुनकर परम्परा से आगे बढ़े। भास्करराय कहते हैं कि वेद उन्हीं का स्वरूप हैं।"
+  },
+  "inner": {
+    "en": "He quotes the Kūrma Purāṇa: the Ṛk, Yajus, Sāma and Atharva hymns are the innate form of Brahman, an eternal power. The Veda is then not a book about her but her own voice. Taken with the next name, he also reads it as knowledge itself, in its forms of hearing and remembering.",
+    "hi": "वे कूर्म पुराण का वचन देते हैं: ऋक्, यजुः, साम और अथर्व के मन्त्र ब्रह्म का सहज रूप हैं, यह नित्य शक्ति है। तब वेद उनके विषय में कोई ग्रन्थ नहीं, स्वयं उनकी वाणी है। अगले नाम के साथ वे इसे सुनने और स्मरण करने के रूप में स्वयं ज्ञान भी मानते हैं।"
+  },
+  "story": {
+    "en": "Śruti and smṛti, the revealed scripture and the remembered tradition, are the two great sources of dharma. Bhāskararāya’s edition prints the pair as one word, śrutismṛtiḥ, but he explains them as two names.",
+    "hi": "श्रुति और स्मृति, अर्थात् प्रकट शास्त्र और स्मरण की गई परम्परा, धर्म के दो प्रमुख आधार हैं। भास्करराय के संस्करण में यह जोड़ी एक शब्द ‘श्रुतिस्मृतिः’ के रूप में छपी है, पर वे इनकी व्याख्या दो नामों के रूप में करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "वेदा मन्वादिस्मृतयश्चैतद्रूपा एवेत्याह श्रुतिः । स्मृतिः",
+    "translation": {
+      "en": "The Vedas, and the smṛtis of Manu and the others, are of her very form; so the hymn says ‘Śruti’, ‘Smṛti’.",
+      "hi": "वेद और मनु आदि की स्मृतियाँ उन्हीं का रूप हैं; इसीलिए स्तोत्र कहता है ‘श्रुतिः’, ‘स्मृतिः’।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 539 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition prints the verse line as श्रुतिस्मृतिरनुत्तमा; Bhāskararāya explains श्रुतिः and स्मृतिः as separate names, as in the master text. The excerpt covers both names. The Kūrma verse ends शक्तिरव्यय in the edition (perhaps for अव्यया); the translation leaves that word out. The sentence about the Veda as her voice is a reflection." }
+}

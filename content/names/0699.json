@@ -1,0 +1,42 @@
+{
+  "number": 699,
+  "verse": 136,
+  "slug": "savitri",
+  "devanagari": "सावित्री",
+  "iastSplit": "Sāvitrī",
+  "archana": "ॐ सावित्र्यै नमः",
+  "syllables": ["sā", "vit", "rī"],
+  "words": [
+    { "sa": "सावित्री", "meaning": { "en": "she who belongs to Savitṛ, the one who brings forth", "hi": "सविता (उत्पन्न करने वाले) से सम्बद्ध शक्ति" } }
+  ],
+  "meaning": {
+    "en": "The power of Savitṛ, who brings forth the world",
+    "hi": "जगत् को उत्पन्न करने वाले सविता की शक्ति"
+  },
+  "explanation": {
+    "en": "Savitṛ means “the one who brings forth”. Bhāskararāya takes it as Paramaśiva, from whom the world is born, and Sāvitrī as his own power. Other sources he cites derive the name from her bringing forth the world, or from her making the sun shine.",
+    "hi": "‘सविता’ का अर्थ है ‘उत्पन्न करने वाला’। भास्करराय इसे परमशिव मानते हैं, जिनसे जगत् उत्पन्न होता है, और सावित्री को उन्हीं की शक्ति। उनके द्वारा उद्धृत अन्य ग्रन्थ इस नाम की व्युत्पत्ति जगत् को जन्म देने से, या सूर्य को प्रकाशित करने से बताते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gathers several derivations. By the Viṣṇudharmottara, Savitṛ is so called because he brings forth beings; by the Bhāradvāja Smṛti, she is Sāvitrī because she makes the sun shine and is mother of the world; the Devī Purāṇa calls her pure in nature and honoured in the Vedas and in yoga. Together they make her both the source from which the world comes forth and the light by which it is seen.",
+    "hi": "भास्करराय अनेक व्युत्पत्तियाँ एकत्र करते हैं। विष्णुधर्मोत्तर के अनुसार प्रजाओं को उत्पन्न करने से सविता नाम है; भारद्वाज स्मृति के अनुसार सूर्य को प्रकाश देने और जगत् की जननी होने से वे सावित्री हैं; देवी पुराण उन्हें शुद्ध-स्वरूपा तथा वेदों और योग में पूजित कहता है। इन सबसे वे वह स्रोत भी ठहरती हैं जिससे जगत् उत्पन्न होता है, और वह प्रकाश भी जिससे वह दिखाई देता है।"
+  },
+  "story": {
+    "en": "Bhāskararāya adds that Sāvitrī is the presiding goddess of Puṣkara, quoting the Padma Purāṇa: at Puṣkara, foremost of holy places, she bears the name Sāvitrī. Sāvitrī is also the traditional name of the Vedic verse to Savitṛ, the Gāyatrī.",
+    "hi": "भास्करराय यह भी बताते हैं कि सावित्री पुष्कर तीर्थ की अधिष्ठात्री देवी हैं, और पद्म पुराण उद्धृत करते हैं: तीर्थों में श्रेष्ठ पुष्कर में वे सावित्री नाम से विराजती हैं। सविता को सम्बोधित वैदिक ऋचा, गायत्री, का पारम्परिक नाम भी सावित्री है।"
+  },
+  "commentary": {
+    "sanskrit": "सवितुर्जगत्प्रसूतेः परशिवस्येयं सावित्री ।",
+    "translation": {
+      "en": "She who belongs to Savitṛ, the one who brings forth the world, that is, Paramaśiva, is Sāvitrī.",
+      "hi": "जगत् को उत्पन्न करने वाले सविता, अर्थात् परमशिव, की जो हैं, वे सावित्री हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 699 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s further citations (Vāsiṣṭha Rāmāyaṇa; a Devībhāgavata derivation from ‘flowing’) are omitted. The remark that the Gāyatrī verse is called Sāvitrī is general context, not from this comment; the verse itself is not given." }
+}

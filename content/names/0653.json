@@ -1,0 +1,42 @@
+{
+  "number": 653,
+  "verse": 129,
+  "slug": "yogini",
+  "devanagari": "योगिनी",
+  "iastSplit": "Yoginī",
+  "archana": "ॐ योगिन्यै नमः",
+  "syllables": ["yo", "gi", "nī"],
+  "words": [
+    { "sa": "योगिनी", "meaning": { "en": "one who possesses yoga; also a Yoginī goddess", "hi": "योग से युक्त; योगिनी देवी भी" } }
+  ],
+  "meaning": {
+    "en": "She who is ever united in yoga",
+    "hi": "जो सदा योग से युक्त हैं"
+  },
+  "explanation": {
+    "en": "Yoginī is one who has yoga. Bhāskararāya takes yoga here as the contemplation of oneness, so she is the one in whom that union is always complete.",
+    "hi": "योगिनी का अर्थ है योग से युक्त। भास्करराय यहाँ योग का अर्थ एकत्व-भावना लेते हैं, इसलिए वे वह हैं जिनमें यह एकता सदा पूर्ण है।"
+  },
+  "inner": {
+    "en": "He reads the first three names of the line together: she possesses yoga (Yoginī), grants it (Yogadā) and is worthy of it (Yogyā). He cites three definitions of yoga: the oneness of the individual knower and the Supreme Self (Viṣṇu Purāṇa), the unlinking from union with sorrow (Gītā), and the stilling of the movements of the mind (Patañjali). In a further reading the three names are the enjoyer, the giver of enjoyment and the enjoyed, all of which are she; here Yoginī is the individual soul, the enjoyer.",
+    "hi": "भास्करराय पंक्ति के पहले तीन नामों को एक साथ पढ़ते हैं: वे योग से युक्त हैं (योगिनी), योग देती हैं (योगदा), और योग के योग्य हैं (योग्या)। वे योग की तीन परिभाषाएँ देते हैं: क्षेत्रज्ञ और परमात्मा की एकत्व-भावना (विष्णुपुराण), दुःख के संयोग से वियोग (गीता), और चित्त की वृत्तियों का निरोध (पतञ्जलि)। एक और अर्थ में ये तीन नाम भोक्ता, भोग देने वाला और भोग्य हैं, और ये तीनों वे ही हैं; यहाँ योगिनी भोक्ता जीव है।"
+  },
+  "story": {
+    "en": "Bhāskararāya also links the name to the Yoginīs: the eight Yoginīs of astrology, from Maṅgalā to Saṅkaṭā, who come round again and again in cycles, and the seven beginning with Ḍākinī known in the mantra śāstra. She takes all their forms.",
+    "hi": "भास्करराय इस नाम को योगिनियों से भी जोड़ते हैं: ज्योतिषशास्त्र की मङ्गला से सङ्कटा तक की आठ योगिनियाँ, जो चक्र में बार-बार लौटती हैं, और मन्त्रशास्त्र में प्रसिद्ध डाकिनी आदि सात योगिनियाँ। ये सब उन्हीं के रूप हैं।"
+  },
+  "commentary": {
+    "sanskrit": "योग एकत्वभावना तद्वत्त्वात्तत्प्रदत्वात्तद्योग्यत्वाच्च योगिनी योगदा योग्या च ।",
+    "translation": {
+      "en": "Yoga is the contemplation of oneness. Because she possesses it, grants it and is worthy of it, she is Yoginī, Yogadā and Yogyā.",
+      "hi": "योग का अर्थ है एकत्व-भावना। उससे युक्त होने, उसे देने और उसके योग्य होने के कारण वे योगिनी, योगदा और योग्या हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 653 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya explains names 653–655 together; the same passage is drawn on in all three files. He names four kinds of yoga (mantra, laya, haṭha, rāja) but declines to describe them; nothing on practice is given here. His figure for the cycle of the eight astrological Yoginīs (षड्विंशतिवर्षैः) is not reproduced." }
+}

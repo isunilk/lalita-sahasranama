@@ -1,0 +1,43 @@
+{
+  "number": 469,
+  "verse": 97,
+  "slug": "vama-devi",
+  "devanagari": "वामदेवी",
+  "iastSplit": "Vāma-devī",
+  "archana": "ॐ वामदेव्यै नमः",
+  "syllables": ["vā", "ma", "de", "vī"],
+  "words": [
+    { "sa": "वाम", "meaning": { "en": "lovely, dear; also left", "hi": "वाम, सुन्दर, प्रिय; बायाँ भी" } },
+    { "sa": "देवी", "meaning": { "en": "goddess", "hi": "देवी" } }
+  ],
+  "meaning": {
+    "en": "Consort of Vāmadeva, the lovely form of Śiva",
+    "hi": "वामदेव शिव की देवी"
+  },
+  "explanation": {
+    "en": "Vāmadeva is a name of Śiva; vāma means lovely and dear, and also left. Vāmadevī is his consort, the goddess who is herself lovely.",
+    "hi": "वामदेव शिव का एक नाम है; ‘वाम’ का अर्थ है सुन्दर और प्रिय, और बायाँ भी। वामदेवी उनकी शक्ति हैं, वह देवी जो स्वयं सुन्दर हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives many readings. Vāma means ‘worthy to be sought’, and Vāmadeva is also Ardhanārīśvara, the Lord who shines with his left half, which is the Goddess. He is also the northern face of Sadāśiva, whose consort she is. Further, she presides over vāma, the fruits of action, or is the goddess of those who follow vāma, the left-hand path.",
+    "hi": "भास्करराय अनेक अर्थ देते हैं। ‘वाम’ का अर्थ है ‘वननीय, चाहने योग्य’, और वामदेव अर्धनारीश्वर भी हैं, जो अपने वाम भाग से, जो स्वयं देवी हैं, दीप्त होते हैं। वामदेव सदाशिव का उत्तर मुख भी हैं, और वे उनकी शक्ति हैं। इसके अतिरिक्त वे ‘वाम’, अर्थात् कर्मफलों, की अधिष्ठात्री हैं, या वाम मार्ग के अनुयायियों की देवी हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya quotes the Aitareya śruti: the gods said of him, ‘This one is dear (vāma) to all of us’, and so he was called Vāmadeva. In Śaiva tradition Vāmadeva is also one of the five faces of Sadāśiva.",
+    "hi": "भास्करराय ऐतरेय श्रुति उद्धृत करते हैं: देवताओं ने उनके विषय में कहा, ‘यह हम सबको प्रिय (वाम) है’, इसलिए वे वामदेव कहलाए। शैव परम्परा में वामदेव सदाशिव के पाँच मुखों में से एक भी हैं।"
+  },
+  "commentary": {
+    "sanskrit": "वामो वननीयो देवो वामदेवः ।",
+    "translation": {
+      "en": "Vāma means ‘to be sought, beloved’; the god who is so is Vāmadeva.",
+      "hi": "‘वाम’ अर्थात् वननीय, चाहने योग्य; ऐसे देव वामदेव हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 469 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s further reading from the Devī Purāṇa (वामेन सुखदा देवी वामदेवी ततः स्मृता, she gives happiness by the reversed way) is left out of the text. Who is meant in the Aitareya passage he quotes (तं देवा अब्रुवन्…) is not stated, so the story says only ‘him’." }
+}

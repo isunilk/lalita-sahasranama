@@ -1,0 +1,44 @@
+{
+  "number": 701,
+  "verse": 137,
+  "slug": "desha-kalaparichchhinna",
+  "devanagari": "देशकालापरिच्छिन्ना",
+  "iastSplit": "Deśa-kālāparicchinnā",
+  "archana": "ॐ देशकालापरिच्छिन्नायै नमः",
+  "syllables": ["de", "śa", "kā", "lā", "pa", "ric", "chin", "nā"],
+  "words": [
+    { "sa": "देश", "meaning": { "en": "space, place", "hi": "देश, स्थान" } },
+    { "sa": "काल", "meaning": { "en": "time", "hi": "काल, समय" } },
+    { "sa": "अपरिच्छिन्न", "meaning": { "en": "unlimited, unbounded", "hi": "अपरिच्छिन्न, असीम" } }
+  ],
+  "meaning": {
+    "en": "Unbounded by space and time",
+    "hi": "देश और काल की सीमा से परे"
+  },
+  "explanation": {
+    "en": "Everything else is limited by place and time: it is here and not there, now and not then. She is limited by neither.",
+    "hi": "बाकी सब कुछ देश और काल से सीमित है: वह यहाँ है, वहाँ नहीं; अभी है, तब नहीं। वे इन दोनों में से किसी से सीमित नहीं हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya defines the limits precisely. Limitation by place is the absence known in “it is not here”; limitation by time is the prior absence and destruction known in “it was not before, it will not be later”. She is free of both, and he quotes the Yoga Sūtra: the Lord is the teacher even of the ancients, for he is not limited by time.",
+    "hi": "भास्करराय इन सीमाओं को ठीक-ठीक परिभाषित करते हैं। देश की सीमा है ‘यह यहाँ नहीं है’ की प्रतीति वाला अभाव; काल की सीमा है ‘पहले नहीं था, आगे नहीं रहेगा’ की प्रतीति वाले प्रागभाव और ध्वंस। वे दोनों से मुक्त हैं, और वे योगसूत्र उद्धृत करते हैं: ईश्वर पूर्वजों का भी गुरु है, क्योंकि वह काल से सीमित नहीं।"
+  },
+  "story": {
+    "en": "From here Bhāskararāya reads thirteen names, 701 to 713, as one continuous argument for non-duality, each name answering a doubt raised by the one before. He leaves the third kind of limit, by thing (“this is not that”), for the next name, since it is the most disputed.",
+    "hi": "यहाँ से भास्करराय नाम 701 से 713 तक तेरह नामों को अद्वैत के पक्ष में एक सतत तर्क के रूप में पढ़ते हैं, जिसमें हर नाम पिछले नाम से उठी किसी शंका का उत्तर देता है। तीसरी सीमा, वस्तु की सीमा (‘यह वह नहीं है’), को वे अगले नाम के लिए छोड़ते हैं, क्योंकि उस पर सबसे अधिक विवाद है।"
+  },
+  "commentary": {
+    "sanskrit": "देशकालाभ्यामपरिच्छिन्ना तत्कृतपरिच्छेदाभाववती ।",
+    "translation": {
+      "en": "Unlimited by space and time: free of the limitation they make.",
+      "hi": "देश और काल से अपरिच्छिन्न, अर्थात् उनके द्वारा किए जाने वाले परिच्छेद (सीमा) से रहित।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 701 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The story’s description of names 701–713 as one argument follows Bhāskararāya’s connecting phrases (ननु… इत्यत आह) through this passage. He also cites the Saura Saṃhitā here; not included." }
+}

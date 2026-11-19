@@ -1,0 +1,42 @@
+{
+  "number": 712,
+  "verse": 138,
+  "slug": "i",
+  "devanagari": "ई",
+  "iastSplit": "Ī",
+  "archana": "ॐ यै नमः",
+  "syllables": ["ī"],
+  "words": [
+    { "sa": "ई", "meaning": { "en": "the vowel ī; here the name called Kāmakalā", "hi": "स्वर ‘ई’; यहाँ कामकला नामक नाम" } }
+  ],
+  "meaning": {
+    "en": "The single syllable Ī, called Kāmakalā",
+    "hi": "एकाक्षर ‘ई’, जिसे कामकला कहते हैं"
+  },
+  "explanation": {
+    "en": "This name is a single letter, the long vowel ī, fourth of the vowels. Bhāskararāya says it is the name called Kāmakalā, and that in worship it takes the form yai namaḥ.",
+    "hi": "यह नाम एक ही अक्षर है: दीर्घ स्वर ‘ई’, स्वरों में चौथा। भास्करराय कहते हैं कि यह ‘कामकला’ नामक नाम है, और अर्चना में इसका प्रयोग ‘यै नमः’ होता है।"
+  },
+  "inner": {
+    "en": "He explains it as the sister of a, the first vowel, which stands for Viṣṇu. The one Brahman took two forms, bearer and attribute, and the attribute became male and female: Viṣṇu, the material cause of the world, and his sister, the consort of Paramaśiva; the three together are one undivided Brahman. The true nature of Kāmakalā, he says, is most secret and is to be learned only from the guru’s own lips.",
+    "hi": "वे इसे प्रथम स्वर ‘अ’ की बहन बताते हैं, जो विष्णु का वाचक है। एक ही ब्रह्म धर्मी और धर्म के दो रूपों में प्रकट हुआ, और धर्म फिर पुरुष और स्त्री बना: विष्णु, जो जगत् के उपादान कारण हैं, और उनकी बहन, जो परमशिव की महिषी हैं; ये तीनों मिलकर एक अखण्ड ब्रह्म हैं। वे कहते हैं कि कामकला का वास्तविक स्वरूप अत्यन्त रहस्यमय है और केवल गुरु के मुख से ही जाना जाना चाहिए।"
+  },
+  "story": {
+    "en": "Bhāskararāya defends the grammar of “sister of a” with names formed from a male relative other than a husband, such as Jayantī, sister of Jayanta. For the doctrine he refers to Dīkṣita’s Ratnatrayaparīkṣā, a Śaiva work following the Kūrma Purāṇa, and for Kāmakalā to the tantras and the Saundaryalaharī, but says no more, since, as the next name says, it belongs to the line of gurus.",
+    "hi": "भास्करराय ‘अ की बहन’ इस व्युत्पत्ति के व्याकरण का समर्थन ऐसे नामों से करते हैं जो पति के अतिरिक्त किसी पुरुष-सम्बन्धी से बने हैं, जैसे जयन्त की बहन जयन्ती। सिद्धान्त के लिए वे दीक्षित की रत्नत्रयपरीक्षा का, जो कूर्म पुराण आदि पर आधारित शैव ग्रन्थ है, और कामकला के लिए तन्त्रों तथा सौन्दर्यलहरी का उल्लेख करते हैं, पर इससे आगे कुछ नहीं कहते, क्योंकि, जैसा अगला नाम बताता है, यह गुरु-परम्परा का विषय है।"
+  },
+  "commentary": {
+    "sanskrit": "ई तुर्यस्वरूपमेकाक्षरं कामकलासंज्ञकमिदं नाम ।",
+    "translation": {
+      "en": "Ī: this name is a single syllable, the fourth vowel, and is called Kāmakalā.",
+      "hi": "ई: यह नाम एकाक्षर है, चौथा स्वर, और कामकला कहलाता है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 712 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Second part of the verse’s साध्वी as divided by Bhāskararāya (साधु + ई). Archana यै नमः as he prescribes (यैनम इति प्रयोगः); the web list agrees. This is a Kāmakalā name: only its meaning is given, following Bhāskararāya’s own reticence, and no practice is described. तुर्यस्वरूपम् is rendered ‘the fourth vowel’; it may also allude to the fourth state (turīya). Dīkṣita is presumably Appayya Dīkṣita, author of the Ratnatrayaparīkṣā; check. Slug ‘i’ follows the ASCII rule for ī." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 541,
+  "verse": 110,
+  "slug": "anuttama",
+  "devanagari": "अनुत्तमा",
+  "iastSplit": "Anuttamā",
+  "archana": "ॐ अनुत्तमायै नमः",
+  "syllables": ["a", "nut", "ta", "mā"],
+  "words": [
+    { "sa": "अन्", "meaning": { "en": "not, none", "hi": "न, नहीं" } },
+    { "sa": "उत्तम", "meaning": { "en": "higher, highest", "hi": "उत्तम, श्रेष्ठ" } }
+  ],
+  "meaning": {
+    "en": "She than whom there is none higher",
+    "hi": "जिनसे श्रेष्ठ कोई नहीं"
+  },
+  "explanation": {
+    "en": "Uttama means highest, and anuttamā is she who has no one above her. Nothing exists that is higher than she.",
+    "hi": "‘उत्तम’ का अर्थ है सर्वश्रेष्ठ, और ‘अनुत्तमा’ वे हैं जिनसे ऊपर कोई नहीं। ऐसी कोई वस्तु नहीं जो उनसे श्रेष्ठ हो।"
+  },
+  "inner": {
+    "en": "Bhāskararāya also divides the word another way: na-nuttā-mā, she whose mā, understanding or sovereignty, is not nuttā, driven by another. Her mind is free and her lordship innate; she acts from herself alone.",
+    "hi": "भास्करराय शब्द का एक दूसरा विभाग भी करते हैं: न-नुत्ता-मा, अर्थात् जिनकी ‘मा’, बुद्धि या ऐश्वर्य, किसी दूसरे से ‘नुत्ता’, प्रेरित, नहीं है। उनकी बुद्धि स्वतन्त्र है और उनका ऐश्वर्य सहज; वे केवल अपने से ही कार्य करती हैं।"
+  },
+  "story": {
+    "en": "He supports the first reading with scripture, ‘None is seen equal to him, nor greater’ (Śvetāśvatara Upaniṣad), and with the Gītā’s ‘There is none equal to you; how could there be one greater?’ From the Devī Bhāgavata he adds that people never call anyone ‘without Rudra’ or ‘without Viṣṇu’, but the lowest of men they call ‘without śakti’.",
+    "hi": "पहले अर्थ की पुष्टि वे श्रुति से करते हैं, ‘न कोई उसके समान दिखता है, न उससे बढ़कर’ (श्वेताश्वतर उपनिषद्), और गीता के वचन से, ‘तुम्हारे समान ही कोई नहीं, तो बढ़कर कहाँ से होगा?’ देवीभागवत से वे जोड़ते हैं कि लोग किसी को ‘रुद्रहीन’ या ‘विष्णुहीन’ नहीं कहते, पर अधम मनुष्य को सब ‘शक्तिहीन’ कहते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "यदपेक्षयोत्तममन्यद्वस्तु नास्ति सानुत्तमा । न तत्समश्चाभ्यधिकश्च दृश्यत इति श्रुतेः ।",
+    "translation": {
+      "en": "She than whom no other thing is higher is Anuttamā; as scripture says, ‘None is seen equal to him, nor greater.’",
+      "hi": "जिनकी अपेक्षा कोई अन्य वस्तु उत्तम नहीं, वे अनुत्तमा हैं; श्रुति कहती है: ‘न उसके समान कोई दिखता है, न उससे अधिक।’"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 541 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives two divisions, अन्-उत्तमा and न-नुत्ता-मा; the words list follows the first. The identification of his quotations with the Śvetāśvatara Upaniṣad (6.8) and the Bhagavad Gītā (11.43) is mine; he says only ‘śruti’ and ‘smṛti’. The Devī Bhāgavata reference (third book) is his." }
+}

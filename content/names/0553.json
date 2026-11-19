@@ -1,0 +1,43 @@
+{
+  "number": 553,
+  "verse": 113,
+  "slug": "agra-ganya",
+  "devanagari": "अग्रगण्या",
+  "iastSplit": "Agra-gaṇyā",
+  "archana": "ॐ अग्रगण्यायै नमः",
+  "syllables": ["ag", "ra", "gaṇ", "yā"],
+  "words": [
+    { "sa": "अग्र", "meaning": { "en": "first, foremost", "hi": "अग्र, प्रथम" } },
+    { "sa": "गण्या", "meaning": { "en": "to be counted, reckoned", "hi": "गिनी जाने योग्य" } }
+  ],
+  "meaning": {
+    "en": "She who is counted first of all",
+    "hi": "जो सबसे पहले गिनी जाती हैं"
+  },
+  "explanation": {
+    "en": "Agra means first or foremost, and gaṇyā one who is to be counted. Because she is the root cause of the whole world, Bhāskararāya says, she is to be reckoned first.",
+    "hi": "‘अग्र’ का अर्थ है प्रथम या सबसे आगे, और ‘गण्या’ गिनी जाने योग्य। भास्करराय कहते हैं कि सम्पूर्ण जगत् का मूल कारण होने से वे सबसे पहले गिनी जाने योग्य हैं।"
+  },
+  "inner": {
+    "en": "He gives a second derivation from Pāṇini’s grammar: gaṇyā can mean one who has gained a host (gaṇa), so she is both the first and the one surrounded by her hosts. Before her there is nothing to count; every count begins from her.",
+    "hi": "वे पाणिनि के व्याकरण से एक दूसरी व्युत्पत्ति देते हैं: ‘गण्या’ का अर्थ हो सकता है जिसने गण प्राप्त किया हो, अर्थात् वे प्रथम भी हैं और अपने गणों से घिरी हुई भी। उनसे पहले गिनने को कुछ नहीं; हर गणना उन्हीं से आरम्भ होती है।"
+  },
+  "story": {
+    "en": "In the chanted verse agragaṇyā and acintyarūpā run together, and the avagraha (ऽ) marks the a of the second name.",
+    "hi": "पाठ में ‘अग्रगण्या’ और ‘अचिन्त्यरूपा’ मिलकर बोले जाते हैं, और ‘ऽ’ चिह्न दूसरे नाम के ‘अ’ को दिखाता है।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वस्य जगतो मूलकारणत्वादग्रे प्रथमतो गण्या गणयितुमर्हा ।",
+    "translation": {
+      "en": "Because she is the root cause of the whole world, she is gaṇyā agre, to be reckoned first, worthy to be counted before all.",
+      "hi": "सम्पूर्ण जगत् का मूल कारण होने से वे अग्रे, अर्थात् सबसे पहले, गण्या हैं, गिने जाने योग्य हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 553 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Sandhi: अग्रगण्याऽचिन्त्यरूपा = अग्रगण्या + अचिन्त्यरूपा. The second derivation refers to the rule धनगणं लब्धा (yat suffix), as Bhāskararāya cites it. The last sentence of the inner layer is a reflection." }
+}

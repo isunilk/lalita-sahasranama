@@ -1,0 +1,44 @@
+{
+  "number": 646,
+  "verse": 128,
+  "slug": "satyananda-svarupini",
+  "devanagari": "सत्यानन्दस्वरूपिणी",
+  "iastSplit": "Satyānanda-svarūpiṇī",
+  "archana": "ॐ सत्यानन्दस्वरूपिण्यै नमः",
+  "syllables": ["sat", "yā", "nan", "das", "va", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "सत्य", "meaning": { "en": "truth, what truly is", "hi": "सत्य" } },
+    { "sa": "आनन्द", "meaning": { "en": "bliss", "hi": "आनन्द" } },
+    { "sa": "स्वरूपिणी", "meaning": { "en": "whose very nature is", "hi": "जिनका स्वरूप है" } }
+  ],
+  "meaning": {
+    "en": "She whose very nature is truth and bliss",
+    "hi": "सत्य और आनन्द जिनका स्वरूप है"
+  },
+  "explanation": {
+    "en": "Satya is truth, what really is, and ānanda is bliss. These are not qualities she possesses but her own nature: she is truth and she is bliss.",
+    "hi": "सत्य का अर्थ है जो वास्तव में है, और आनन्द का अर्थ है परम सुख। ये उनके गुण नहीं, उनका अपना स्वरूप हैं: वे स्वयं सत्य हैं और स्वयं आनन्द हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya explains satyā from the Upaniṣadic line that Brahman ‘became both sat and tyat’, the manifest and what lies beyond. He also cites the Brahma Sūtra teaching that bliss and the other marks of Brahman belong to its very nature, which is why the name says svarūpa. In her, truth and bliss are not two: what truly is, is bliss.",
+    "hi": "भास्करराय ‘सत्या’ को उपनिषद् के इस वचन से समझाते हैं कि ब्रह्म ‘सत् और त्यत्’ दोनों हुआ, अर्थात् व्यक्त और उससे परे। वे ब्रह्मसूत्र की उस शिक्षा का भी उल्लेख करते हैं कि आनन्द आदि ब्रह्म के लक्षण उसके स्वरूप ही हैं; इसीलिए नाम में ‘स्वरूप’ शब्द है। उनमें सत्य और आनन्द दो नहीं हैं: जो वास्तव में है, वही आनन्द है।"
+  },
+  "story": {
+    "en": "Bhāskararāya notes that satyā can also be taken as a separate name, keeping the count by joining two names elsewhere into one; among its senses he lists ‘good among the good’ and Satyabhāmā, Kṛṣṇa’s queen. The master text keeps one name.",
+    "hi": "भास्करराय बताते हैं कि ‘सत्या’ को अलग नाम भी माना जा सकता है, और तब गिनती अन्यत्र दो नामों को एक मानकर पूरी की जाती है; इसके अर्थों में वे ‘सज्जनों में श्रेष्ठ’ और कृष्ण की रानी सत्यभामा भी गिनाते हैं। मूल पाठ इसे एक ही नाम मानता है।"
+  },
+  "commentary": {
+    "sanskrit": "सत्यमानन्दश्च स्वरूपं यस्याः ।",
+    "translation": {
+      "en": "She whose own nature is truth and bliss.",
+      "hi": "सत्य और आनन्द जिनका स्वरूप है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 646 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya allows सत्या to be read as a separate name, balancing the count by taking अमेयात्मा as one name (अत्र सत्येति भिन्नं पदमाश्रित्यामेयात्मेत्येकं पदं कर्तुं शक्यते); the master text has one name. He cites सच्च त्यच्चाभवत् only as śruti (it is Taittirīya Upaniṣad 2.6) and आनन्दादयः प्रधानस्य from the Brahma Sūtra (3.3.11). The last sentence of the inner layer is a reflection." }
+}

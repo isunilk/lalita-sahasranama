@@ -1,0 +1,43 @@
+{
+  "number": 270,
+  "verse": 64,
+  "slug": "tirodhana-kari",
+  "devanagari": "तिरोधानकरी",
+  "iastSplit": "Tirodhāna-karī",
+  "archana": "ॐ तिरोधानकर्यै नमः",
+  "syllables": ["ti", "ro", "dhā", "na", "ka", "rī"],
+  "words": [
+    {"sa": "तिरोधान", "meaning": {"en": "concealment, veiling", "hi": "तिरोधान, ढक लेना, छिपाना"}},
+    {"sa": "करी", "meaning": {"en": "she who does", "hi": "करने वाली"}}
+  ],
+  "meaning": {
+    "en": "She who performs concealment, the veiling of all",
+    "hi": "तिरोधान, अर्थात् सब कुछ ढक लेने का कार्य करने वाली"
+  },
+  "explanation": {
+    "en": "Tirodhāna means hiding or veiling. This fourth act goes beyond dissolution: the world vanishes so completely that not even a trace remains, as a lamp goes out. She is the one who draws this veil.",
+    "hi": "‘तिरोधान’ का अर्थ है छिपाना या ढक देना। यह चौथा कृत्य संहार से भी आगे जाता है: जगत् ऐसा लुप्त होता है कि उसका कोई चिह्न भी नहीं बचता, जैसे दीपक बुझ जाता है। यह परदा वही डालती हैं।"
+  },
+  "inner": {
+    "en": "For Bhāskararāya, tirodhāna is covering, destruction without remainder: even the atoms dissolve back into Prakṛti, like the putting out of a lamp. It is the act of the Lord in whom a dense, pure sattva prevails. Or she is the power called Tiraskariṇī, the veiling goddess; he quotes the Tripurāsiddhānta, which says she is called Śrī Tiraskariṇī because she brings concealment upon all who lack devotion. He also says that concealment and grace can mean bondage and liberation (see name 273).",
+    "hi": "भास्करराय के अनुसार तिरोधान आच्छादन है, ऐसा ध्वंस जिसमें कुछ शेष नहीं रहता: परमाणु तक प्रकृति में लीन हो जाते हैं, जैसे दीपक बुझ जाता है। यह घनतर शुद्ध सत्त्व-प्रधान ईश्वर का कृत्य है। अथवा वे ‘तिरस्करिणी’ नामक आवरण करने वाली शक्ति हैं; वे त्रिपुरासिद्धान्त उद्धृत करते हैं, जिसके अनुसार सब अभक्तों के लिए तिरोधान करने के कारण वे ‘श्री तिरस्करिणी’ कहलाती हैं। वे यह भी कहते हैं कि तिरोधान और अनुग्रह का अर्थ बन्धन और मोक्ष भी हो सकता है (देखें नाम 273)।"
+  },
+  "story": {
+    "en": "In the verse, tirodhānakarī and īśvarī run together as tirodhānakarīśvarī; the master text and Bhāskararāya count them as two names, the act and the Lord who performs it. This keeps the pattern of the earlier pairs: Brahmā, Viṣṇu, Rudra, and now Īśvara.",
+    "hi": "श्लोक में ‘तिरोधानकरी’ और ‘ईश्वरी’ मिलकर ‘तिरोधानकरीश्वरी’ बनते हैं; मूल पाठ और भास्करराय इन्हें दो नाम गिनते हैं: कृत्य और उसे करने वाले ईश्वर। इससे पहले की जोड़ियों का क्रम बना रहता है: ब्रह्मा, विष्णु, रुद्र, और अब ईश्वर।"
+  },
+  "commentary": {
+    "sanskrit": "तिरोधानमाच्छादनं निरवशेषो ध्वंसः ।",
+    "translation": {
+      "en": "Tirodhāna is covering: destruction that leaves nothing behind.",
+      "hi": "तिरोधान आच्छादन है: ऐसा ध्वंस जिसमें कुछ शेष नहीं रहता।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 270 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. In the verse the name is fused with the next (तिरोधानकरीश्वरी); split as तिरोधानकरी + ईश्वरी following the master text and Bhāskararāya. The edition prints घनतरशुद्धसतत्त्व (for शुद्धसत्त्व) in the sentence after the quote, which is not quoted." }
+}

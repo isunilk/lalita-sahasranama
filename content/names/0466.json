@@ -1,0 +1,42 @@
+{
+  "number": 466,
+  "verse": 96,
+  "slug": "kshobhini",
+  "devanagari": "क्षोभिणी",
+  "iastSplit": "Kṣobhiṇī",
+  "archana": "ॐ क्षोभिण्यै नमः",
+  "syllables": ["kṣo", "bhi", "ṇī"],
+  "words": [
+    { "sa": "क्षोभिणी", "meaning": { "en": "she who stirs, sets in motion (from kṣubh, ‘to shake’)", "hi": "क्षोभ उत्पन्न करने वाली, हलचल लाने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who stirs the stillness into creation",
+    "hi": "सृष्टि के लिए क्षोभ उत्पन्न करने वाली"
+  },
+  "explanation": {
+    "en": "Kṣobha is agitation, a stirring that sets things in motion. Before creation all is still; she is the one who stirs it into movement.",
+    "hi": "क्षोभ का अर्थ है हलचल, वह कम्पन जो वस्तुओं को गति देता है। सृष्टि से पहले सब कुछ स्थिर होता है; वही उसे गति में लाती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says she stirs the Supreme toward creation, and quotes the Viṣṇu Purāṇa: at the time of creation Hari, entering Prakṛti and Puruṣa by his own will, set them in motion. Or, he says, she is Kṣobhiṇī because from the stirring of her own mind she brought forth hosts of beings.",
+    "hi": "भास्करराय कहते हैं कि वे परमेश्वर को सृष्टि की ओर उन्मुख करके क्षुब्ध करती हैं, और विष्णु पुराण उद्धृत करते हैं: सृष्टि के समय भगवान हरि ने अपनी इच्छा से प्रकृति और पुरुष में प्रवेश करके उन्हें क्षुब्ध किया। अथवा, वे कहते हैं, मन के क्षोभ से उन्होंने अनेक गणों को उत्पन्न किया, इसलिए वे क्षोभिणी हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya tells a story from the Varāha Purāṇa. The goddess Vaiṣṇavī went to Mount Mandara to perform austerities; after a long time her mind was stirred, and from that stirring arose hundreds of thousands of radiant maidens with dark curling hair and lotus eyes.",
+    "hi": "भास्करराय वराह पुराण की एक कथा सुनाते हैं। वैष्णवी देवी तप करने के लिए मन्दर पर्वत पर गईं; बहुत समय बाद उनका मन क्षुब्ध हुआ, और उस क्षोभ से घुँघराले काले केशों और कमल-नेत्रों वाली लाखों तेजस्विनी कुमारियाँ प्रकट हुईं।"
+  },
+  "commentary": {
+    "sanskrit": "यद्वा । मनःक्षोभात्कांश्चिद्गणानजनयदिति क्षोभिणी ।",
+    "translation": {
+      "en": "Or: she is Kṣobhiṇī because from the stirring of her mind she brought forth certain hosts.",
+      "hi": "अथवा: मन के क्षोभ से उन्होंने कुछ गणों को उत्पन्न किया, इसलिए वे क्षोभिणी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 466 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s first gloss reads परमेश्वरौ सृष्ट्यौन्मुख्येन क्षोभयतीति; the dual परमेश्वरौ is rendered ‘the Supreme’ and may mean the supreme pair (Puruṣa and Prakṛti, as in the Viṣṇu Purāṇa verse he quotes, or Śiva and Śakti). Please check." }
+}

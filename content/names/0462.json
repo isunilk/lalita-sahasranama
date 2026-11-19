@@ -1,0 +1,42 @@
+{
+  "number": 462,
+  "verse": 96,
+  "slug": "shobhana",
+  "devanagari": "शोभना",
+  "iastSplit": "Śobhanā",
+  "archana": "ॐ शोभनायै नमः",
+  "syllables": ["śo", "bha", "nā"],
+  "words": [
+    { "sa": "शोभना", "meaning": { "en": "beautiful, radiant, auspicious", "hi": "शोभना, सुन्दर, मंगलमयी" } }
+  ],
+  "meaning": {
+    "en": "She who is beautiful by her very nature",
+    "hi": "स्वभाव से ही शोभायमान"
+  },
+  "explanation": {
+    "en": "Śobhanā means beautiful, shining, auspicious. Beauty is not an ornament she puts on; it is her nature.",
+    "hi": "शोभना का अर्थ है सुन्दर, दीप्तिमान, मंगलमय। सौन्दर्य उनका पहना हुआ आभूषण नहीं, उनका स्वभाव है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says she is Śobhanā because beauty is her very nature, and cites a lexicon that sets śobhana beside suṣuma and sādhu, ‘good’. He gives no hidden meaning here. That the beautiful and the good share one word is itself a teaching: her beauty is goodness made visible.",
+    "hi": "भास्करराय कहते हैं कि सौन्दर्य उनका स्वभाव है, इसलिए वे शोभना हैं, और एक कोश उद्धृत करते हैं जिसमें ‘शोभन’ को ‘सुषुम’ और ‘साधु’ (अच्छा) के साथ रखा गया है। यहाँ वे कोई गूढ़ अर्थ नहीं देते। सुन्दर और शुभ का एक ही शब्द होना स्वयं एक शिक्षा है: उनका सौन्दर्य दिखाई देती हुई भलाई है।"
+  },
+  "story": {
+    "en": "In his comment on name 683 Bhāskararāya notes that the word śobhanā occurs three times in the hymn. This one he keeps as a name standing on its own, and he reads the other two so that no name is repeated.",
+    "hi": "नाम 683 की व्याख्या में भास्करराय बताते हैं कि ‘शोभना’ शब्द स्तोत्र में तीन बार आता है। इसे वे जैसा है वैसा ही एक स्वतन्त्र नाम मानते हैं, और शेष दो को इस प्रकार पढ़ते हैं कि कोई नाम दोहराया न जाए।"
+  },
+  "commentary": {
+    "sanskrit": "सौन्दर्यशीलत्वाच्छोभना । सुषुमं साधु शोभनमिति कोशः ।",
+    "translation": {
+      "en": "Śobhanā, because beauty is her nature. A lexicon says: ‘suṣuma, sādhu, śobhana’.",
+      "hi": "सौन्दर्य उनका स्वभाव है, इसलिए शोभना। कोश कहता है: ‘सुषुम, साधु, शोभन’ (ये समानार्थी हैं)।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 462 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The last sentence of the inner layer is a reflection. Bhāskararāya’s remarks on the three occurrences of शोभना are in his comment on name 683 (सुमुखी नलिनी सुभ्रूः शोभनेति यथास्थितमेकं नाम)." }
+}

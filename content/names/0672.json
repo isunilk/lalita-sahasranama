@@ -1,0 +1,45 @@
+{
+  "number": 672,
+  "verse": 132,
+  "slug": "brahmatmaikya-svarupini",
+  "devanagari": "ब्रह्मात्मैक्यस्वरूपिणी",
+  "iastSplit": "Brahmātmaikya-svarūpiṇī",
+  "archana": "ॐ ब्रह्मात्मैक्यस्वरूपिण्यै नमः",
+  "syllables": ["brah", "māt", "maik", "yas", "va", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "ब्रह्मन्", "meaning": { "en": "Brahman, pure consciousness", "hi": "ब्रह्म, चैतन्य" } },
+    { "sa": "आत्मन्", "meaning": { "en": "the self, the individual soul", "hi": "आत्मा, जीव" } },
+    { "sa": "ऐक्य", "meaning": { "en": "oneness", "hi": "एकता" } },
+    { "sa": "स्वरूपिणी", "meaning": { "en": "whose very nature is", "hi": "जिनका स्वरूप है" } }
+  ],
+  "meaning": {
+    "en": "She whose nature is the oneness of Brahman and the self",
+    "hi": "ब्रह्म और आत्मा की एकता जिनका स्वरूप है"
+  },
+  "explanation": {
+    "en": "Brahman is the Absolute, ātman is the self, and aikya is oneness. The truth that the individual self and Brahman are one is not only something she teaches; it is her own form.",
+    "hi": "ब्रह्म का अर्थ है परम सत्य, आत्मा का अर्थ है स्व, और ऐक्य का अर्थ है एकता। जीवात्मा और ब्रह्म के एक होने का सत्य केवल उनकी शिक्षा नहीं, उनका अपना स्वरूप है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya explains it as the oneness of the selves, the individual souls, with Brahman, pure consciousness. He also reads it as the Haṃsa mantra, whose whole content is the identity of Śiva and the soul, and quotes the Skanda Purāṇa on its meaning: aham, ‘I’, denotes the soul and sa, ‘he’, the Supreme Lord, so it says ‘I am He’, proved by one’s own experience. In this way he also explains the Triśatī name Haṃsamantrārtharūpiṇī.",
+    "hi": "भास्करराय इसे आत्माओं, अर्थात् जीवों, की ब्रह्म, अर्थात् चैतन्य, के साथ एकता के रूप में समझाते हैं। वे इसे हंस मन्त्र के रूप में भी पढ़ते हैं, जिसका सारा प्रतिपाद्य शिव और जीव की एकता है, और स्कन्दपुराण से उसका अर्थ उद्धृत करते हैं: ‘अहम्’ (मैं) जीव का वाचक है और ‘सः’ (वह) परमेश्वर का, अतः वह कहता है ‘मैं वही हूँ’, जो अपने अनुभव से प्रमाणित है। इसी से वे त्रिशती के नाम ‘हंसमन्त्रार्थरूपिणी’ की भी व्याख्या करते हैं।"
+  },
+  "story": {
+    "en": "This is the central teaching of the Upaniṣads, summed up in great sayings such as tat tvam asi, ‘you are That’. In this verse it stands among names of giving and of age: the Mother who feeds and enriches the world is also the truth that frees it.",
+    "hi": "यह उपनिषदों की केन्द्रीय शिक्षा है, जो ‘तत्त्वमसि’ (तुम वही हो) जैसे महावाक्यों में संक्षेप में कही गई है। इस श्लोक में यह दान और प्राचीनता के नामों के बीच आती है: जो माँ संसार को अन्न और धन देती हैं, वही उसे मुक्त करने वाला सत्य भी हैं।"
+  },
+  "commentary": {
+    "sanskrit": "ब्रह्मणा चैतन्येन सह आत्मनां जीवानामैक्यमेव स्वं निजं रूपमस्याः ।",
+    "translation": {
+      "en": "Her own (sva), intrinsic form is the very oneness of the selves, the individual souls, with Brahman, pure consciousness.",
+      "hi": "आत्माओं, अर्थात् जीवों, की ब्रह्म, अर्थात् चैतन्य, के साथ एकता ही उनका स्व, अर्थात् निज रूप है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 672 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Haṃsa mantra is explained for its meaning only. The reference to tat tvam asi in the story is general context, not from Bhāskararāya’s comment, and the story’s last clause is a reflection." }
+}

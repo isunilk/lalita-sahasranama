@@ -1,0 +1,45 @@
+{
+  "number": 697,
+  "verse": 136,
+  "slug": "sarva-loka-vashankari",
+  "devanagari": "सर्वलोकवशङ्करी",
+  "iastSplit": "Sarva-loka-vaśaṅkarī",
+  "archana": "ॐ सर्वलोकवशङ्कर्यै नमः",
+  "syllables": ["sar", "va", "lo", "ka", "va", "śaṅ", "ka", "rī"],
+  "words": [
+    { "sa": "सर्व", "meaning": { "en": "all", "hi": "सब, सभी" } },
+    { "sa": "लोक", "meaning": { "en": "world", "hi": "लोक" } },
+    { "sa": "वशम्", "meaning": { "en": "under control (an indeclinable)", "hi": "वश में (अव्यय)" } },
+    { "sa": "करी", "meaning": { "en": "she who makes", "hi": "करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who brings all the worlds under her sway",
+    "hi": "जो सभी लोकों को अपने वश में करती हैं"
+  },
+  "explanation": {
+    "en": "She brings all the worlds under her control. Bhāskararāya adds a note on grammar: vaśam here is an indeclinable ending in m, which is why the name is vaśaṅkarī and not vaśakarī.",
+    "hi": "वे सभी लोकों को अपने वश में करती हैं। भास्करराय व्याकरण की एक टिप्पणी जोड़ते हैं: यहाँ ‘वशम्’ मकारान्त अव्यय है, इसीलिए नाम ‘वशङ्करी’ है, ‘वशकरी’ नहीं।"
+  },
+  "inner": {
+    "en": "Beyond the grammar, Bhāskararāya keeps to the plain sense. Nothing in any world moves outside her will; and what draws every being to her is not force but her own attraction, the beauty and grace this hymn keeps praising.",
+    "hi": "व्याकरण के अतिरिक्त भास्करराय यहाँ सीधा अर्थ ही देते हैं। किसी भी लोक में कुछ भी उनकी इच्छा से बाहर नहीं चलता; और हर प्राणी को उनकी ओर खींचने वाली शक्ति बल नहीं, उनका अपना आकर्षण है — वह सौन्दर्य और कृपा जिसकी स्तुति यह स्तोत्र बार-बार करता है।"
+  },
+  "story": {
+    "en": "After the subduing of the demons in the name before, this name shows the victory complete: all the worlds are under her rule. In the worship of the Śrīcakra, one of the śaktis of the enclosure of fourteen triangles bears the closely related name Sarvavaśaṅkarī.",
+    "hi": "पिछले नाम में दैत्यों के शमन के बाद, यह नाम विजय की पूर्णता दिखाता है: सभी लोक उनके शासन में हैं। श्रीचक्र की पूजा में चौदह त्रिकोणों वाले आवरण (चतुर्दशार) की एक शक्ति का नाम भी इससे मिलता-जुलता है: सर्ववशङ्करी।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वान् लोकान् स्ववशे कुरुते । वशमिति मान्तमव्ययम् ।",
+    "translation": {
+      "en": "She brings all the worlds under her own control. Vaśam is an indeclinable ending in m.",
+      "hi": "वे सभी लोकों को अपने वश में करती हैं। ‘वशम्’ मकारान्त अव्यय है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 697 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Archana corrected from the web list’s सर्वलोकवंशकर्यै (वंश, ‘lineage’, a misspelling) to सर्वलोकवशङ्कर्यै, matching the verse and Bhāskararāya’s note that वशम् is an indeclinable ending in m. The Śrīcakra śakti Sarvavaśaṅkarī in the story is from general Śrīvidyā tradition, not this comment; check. The inner layer after its first sentence is a reflection. A stray line प्रतियोगित्वाभावः follows this comment in the edition." }
+}

@@ -1,0 +1,42 @@
+{
+  "number": 665,
+  "verse": 131,
+  "slug": "ekakini",
+  "devanagari": "एकाकिनी",
+  "iastSplit": "Ekākinī",
+  "archana": "ॐ एकाकिन्यै नमः",
+  "syllables": ["e", "kā", "ki", "nī"],
+  "words": [
+    { "sa": "एकाकिनी", "meaning": { "en": "alone, without a companion or second", "hi": "अकेली, जिनके साथ कोई दूसरा नहीं" } }
+  ],
+  "meaning": {
+    "en": "She who is alone, without a second",
+    "hi": "जो अकेली हैं, जिनके सिवा कोई दूसरा नहीं"
+  },
+  "explanation": {
+    "en": "Ekākinī means ‘alone, without a companion’. She is alone not in the sense of being lonely, but because there is no second being besides her.",
+    "hi": "एकाकिनी का अर्थ है अकेली, बिना किसी साथी के। वे अकेली इस अर्थ में नहीं कि एकाकीपन से दुखी हों, बल्कि इसलिए कि उनके अतिरिक्त कोई दूसरा है ही नहीं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says she is alone because there is no second. He quotes the Bṛhadāraṇyaka Upaniṣad: the first being was afraid, and so one who is alone is afraid; then it reflected, ‘Since there is nothing other than me, of what am I afraid?’, and its fear left it. Where there is no other, there is nothing to fear.",
+    "hi": "भास्करराय कहते हैं कि दूसरा न होने के कारण वे एकाकिनी हैं। वे बृहदारण्यक उपनिषद् का वचन उद्धृत करते हैं: वह आदि सत्ता डर गई, इसीलिए अकेला व्यक्ति डरता है; फिर उसने विचार किया, ‘जब मुझसे भिन्न कुछ है ही नहीं, तो मैं किससे डरूँ?’ और उसका भय चला गया। जहाँ कोई दूसरा नहीं, वहाँ डरने को कुछ नहीं।"
+  },
+  "story": {
+    "en": "He also quotes the Devī Purāṇa: she alone devours the worlds, she alone sustains them, she alone creates the universe, and so she is called Ekākinī. The next name balances this one: though alone, she is many.",
+    "hi": "वे देवीपुराण का वचन भी उद्धृत करते हैं: वे अकेली ही लोकों का संहार करती हैं, अकेली ही उनका पालन करती हैं, अकेली ही विश्व की सृष्टि करती हैं, इसलिए एकाकिनी कहलाती हैं। अगला नाम इसका सन्तुलन करता है: अकेली होकर भी वे अनेक हैं।"
+  },
+  "commentary": {
+    "sanskrit": "एकाकिनी द्वितीयराहित्यात् ।",
+    "translation": {
+      "en": "She is Ekākinī, alone, because there is no second.",
+      "hi": "दूसरे के अभाव के कारण वे एकाकिनी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 665 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya names the Bṛhadāraṇyaka (the passage is 1.4.2). The last sentence of the inner layer is a reflection." }
+}

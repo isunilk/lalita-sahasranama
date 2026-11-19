@@ -1,0 +1,43 @@
+{
+  "number": 453,
+  "verse": 95,
+  "slug": "trinayana",
+  "devanagari": "त्रिनयना",
+  "iastSplit": "Tri-nayanā",
+  "archana": "ॐ त्रिनयनायै नमः",
+  "syllables": ["tri", "na", "ya", "nā"],
+  "words": [
+    { "sa": "त्रि", "meaning": { "en": "three", "hi": "तीन" } },
+    { "sa": "नयन", "meaning": { "en": "eye; literally ‘that which leads’", "hi": "नेत्र; शब्दार्थ ‘ले जाने वाला’" } }
+  ],
+  "meaning": {
+    "en": "The three-eyed one",
+    "hi": "तीन नेत्रों वाली"
+  },
+  "explanation": {
+    "en": "She has three eyes: the moon, the sun and fire. Like Śiva, her consort, she bears a third eye on the forehead.",
+    "hi": "उनके तीन नेत्र हैं: चन्द्र, सूर्य और अग्नि। अपने पति शिव की भाँति उनके ललाट पर भी तीसरा नेत्र है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya also reads nayana, ‘that which leads’, as a means of valid knowledge: her three eyes are perception, inference and scripture. He maps them onto the seeker’s path: hearing the teaching gives knowledge from scripture, reflecting on it is inference, and deep meditation (nididhyāsana) is direct perception. Or she leads seekers along three paths, the southern, the northern and the path of Brahman, as the Devī Purāṇa says.",
+    "hi": "भास्करराय ‘नयन’ को, जिसका शब्दार्थ है ‘ले जाने वाला’, प्रमाण के अर्थ में भी लेते हैं: उनके तीन नेत्र हैं प्रत्यक्ष, अनुमान और शब्द (शास्त्र)। वे इन्हें साधक के मार्ग से जोड़ते हैं: श्रवण शास्त्र से मिला ज्ञान है, मनन अनुमान है, और निदिध्यासन स्वयं का प्रत्यक्ष अनुभव है। अथवा देवी पुराण के अनुसार वे साधकों को तीन मार्गों पर ले जाती हैं: दक्षिण मार्ग, उत्तर मार्ग और ब्रह्म-मार्ग।"
+  },
+  "story": {
+    "en": "The dhyāna verse recited before the Sahasranāma pictures her as trinayanā, three-eyed, with a body red as sindūra. Trilocanā (477) also means three-eyed; there the name belongs to the description of Ḍākinī, the yoginī of the throat centre.",
+    "hi": "सहस्रनाम से पहले पढ़ा जाने वाला ध्यान-श्लोक उन्हें ‘त्रिनयना’ और सिन्दूर-सी अरुण देह वाली बताता है। त्रिलोचना (477) का अर्थ भी ‘तीन नेत्रों वाली’ है; वहाँ यह नाम कण्ठ-चक्र की योगिनी डाकिनी के वर्णन का अंग है।"
+  },
+  "commentary": {
+    "sanskrit": "त्रीणि सोमसूर्याग्निरूपाणि नयनानि नेत्राणि यस्याः ।",
+    "translation": {
+      "en": "She whose three eyes are the moon, the sun and fire.",
+      "hi": "जिनके तीन नेत्र सोम, सूर्य और अग्नि रूप हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 453 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya also notes that, as a proper name, त्रिनयना keeps the dental न (by the kṣubhnādi exception), and that the Nāmapārāyaṇa uses ‘trinayanā’ as a name for the word वौषट्; neither point is used in the text." }
+}

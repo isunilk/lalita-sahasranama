@@ -1,0 +1,42 @@
+{
+  "number": 260,
+  "verse": 63,
+  "slug": "supta",
+  "devanagari": "सुप्ता",
+  "iastSplit": "Suptā",
+  "archana": "ॐ सुप्तायै नमः",
+  "syllables": ["sup", "tā"],
+  "words": [
+    {"sa": "सुप्ता", "meaning": {"en": "the sleeper, in deep sleep", "hi": "सोई हुई, सुषुप्ति में स्थित"}}
+  ],
+  "meaning": {
+    "en": "She who is in deep sleep: the soul in dreamless sleep",
+    "hi": "सुषुप्ति अवस्था वाली, गहरी नींद में स्थित जीव"
+  },
+  "explanation": {
+    "en": "In dreamless sleep there are no objects, no thoughts, not even dreams; yet on waking we say, ‘I slept well, I knew nothing.’ This name says she is the sleeper too. Even when the mind is wholly at rest, she is there.",
+    "hi": "स्वप्नरहित गहरी नींद में न विषय होते हैं, न विचार, न स्वप्न; फिर भी जागकर हम कहते हैं: ‘मैं सुख से सोया, मुझे कुछ पता नहीं था।’ यह नाम कहता है कि सोने वाली भी वही हैं। जब मन पूरी तरह शान्त हो जाता है, तब भी वे वहाँ होती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes the Śiva Sūtra: ‘Lack of discernment, māyā, is deep sleep.’ From the memory ‘I slept happily, I knew nothing’ he infers three subtle modes of ignorance at work in that state, concerned with not-knowing, with the ‘I’, and with happiness. The one in this state is prājña, the soul that identifies with the causal body; she, one with him, is Suptā.",
+    "hi": "भास्करराय शिवसूत्र उद्धृत करते हैं: ‘अविवेक, अर्थात् माया, ही सुषुप्ति है।’ ‘मैं सुख से सोया, मुझे कुछ पता नहीं था’, इस स्मृति से वे अनुमान करते हैं कि उस अवस्था में अविद्या की तीन सूक्ष्म वृत्तियाँ रहती हैं: अज्ञान की, ‘मैं’ की, और सुख की। इस अवस्था वाला ‘प्राज्ञ’ है, जो कारण शरीर से तादात्म्य रखने वाला जीव है; उससे अभिन्न देवी सुप्ता हैं।"
+  },
+  "story": {
+    "en": "Verse 63 opens with the remaining states. Vedānta, Bhāskararāya notes, counts three states, waking, dream and deep sleep, matched to the three acts of creation, maintenance and dissolution; the Tantras add a fourth and a fifth state, and two further acts, concealment and grace. He sees no conflict: it is the same truth seen coarsely or finely.",
+    "hi": "श्लोक 63 शेष अवस्थाओं से आरम्भ होता है। भास्करराय बताते हैं कि वेदान्त तीन अवस्थाएँ मानता है, जाग्रत्, स्वप्न और सुषुप्ति, और उन्हें सृष्टि, स्थिति और संहार, इन तीन कृत्यों से जोड़ता है; तन्त्र एक चौथी और पाँचवीं अवस्था, तथा तिरोधान और अनुग्रह नामक दो और कृत्य जोड़ते हैं। उनके अनुसार इसमें कोई विरोध नहीं: यह एक ही सत्य को स्थूल और सूक्ष्म दृष्टि से देखना है।"
+  },
+  "commentary": {
+    "sanskrit": "तद्वान्प्राज्ञाख्यः कारणशरीरव्यष्ट्यभिमानी जीवः सुप्तः । अर्श आदिभ्योऽच् । तदभिन्ना सुप्ता ।",
+    "translation": {
+      "en": "One who has that [deep sleep] is supta, ‘the sleeper’: the soul called prājña, who as an individual identifies with the causal body (the suffix is by the rule arśa-ādibhyo ’c). She who is one with him is Suptā.",
+      "hi": "जिसकी वह [सुषुप्ति] अवस्था है, वह ‘सुप्त’ है: ‘प्राज्ञ’ नामक जीव, जो व्यष्टि रूप में कारण शरीर का अभिमानी है (प्रत्यय ‘अर्शआदिभ्योऽच्’ सूत्र से)। उससे अभिन्न देवी सुप्ता हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 260 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition prints the remembered sentence as न किञ्चिवेदिषम् (for न किञ्चिदवेदिषम्); it is not quoted." }
+}

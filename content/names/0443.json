@@ -1,0 +1,42 @@
+{
+  "number": 443,
+  "verse": 94,
+  "slug": "tushti",
+  "devanagari": "तुष्टिः",
+  "iastSplit": "Tuṣṭiḥ",
+  "archana": "ॐ तुष्ट्यै नमः",
+  "syllables": ["tuṣ", "ṭiḥ"],
+  "words": [
+    { "sa": "तुष्टि", "meaning": { "en": "contentment, satisfaction", "hi": "तुष्टि, संतोष, तृप्ति" } }
+  ],
+  "meaning": {
+    "en": "Contentment itself",
+    "hi": "संतोष-स्वरूपा"
+  },
+  "explanation": {
+    "en": "Tuṣṭi is contentment, the satisfied heart that wants nothing more. The name says she is that contentment itself.",
+    "hi": "तुष्टि का अर्थ है संतोष, वह तृप्त मन जिसे और कुछ नहीं चाहिए। यह नाम कहता है कि वे स्वयं वही संतोष हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya reads the seven names from Tuṣṭi to Kānti together: each names a quality, and the hymn calls her by it because she is of that very nature. He quotes the Devī Māhātmya: ‘To the Goddess who abides in all beings as contentment, salutations again and again.’ Contentment, then, is not a mood we produce but her presence felt within.",
+    "hi": "भास्करराय तुष्टि से कान्ति तक के सात नामों को एक साथ पढ़ते हैं: हर नाम एक गुण का वाचक है, और स्तोत्र उन्हें उसी नाम से पुकारता है क्योंकि वे स्वयं उस गुण का स्वरूप हैं। वे देवी माहात्म्य का वचन उद्धृत करते हैं: ‘जो देवी सब प्राणियों में तुष्टि रूप से स्थित हैं, उन्हें बार-बार नमस्कार।’ इस दृष्टि से संतोष कोई बनाई हुई मनःस्थिति नहीं, बल्कि भीतर अनुभव होती उनकी उपस्थिति है।"
+  },
+  "story": {
+    "en": "Bhāskararāya quotes the Padma Purāṇa’s list of the Devī’s sacred places, where she is Tuṣṭi at Vastreśvara, Puṣṭi at Devadāruvana and Dhṛti at Piṇḍāraka. The seven names that begin here each name a blessing she is: contentment, nourishment, understanding, steadiness, peace, well-being and loveliness.",
+    "hi": "भास्करराय पद्म पुराण में दी गई देवी-क्षेत्रों की सूची उद्धृत करते हैं, जिसमें वे वस्त्रेश्वर में तुष्टि, देवदारुवन में पुष्टि और पिण्डारक में धृति कहलाती हैं। यहाँ से आरम्भ होने वाले सात नाम एक-एक वरदान के नाम हैं जो वे स्वयं हैं: संतोष, पोषण, समझ, धैर्य, शान्ति, कल्याण और कमनीयता।"
+  },
+  "commentary": {
+    "sanskrit": "तुष्ट्यादीनि सप्त नामानि तोषपोषज्ञानधैर्यशमकल्याणवत्त्वकमनीयतावाचकानि सन्ति तादृशभगवतीस्वरूपत्वाभिप्रायेण तामप्यभिदधति ।",
+    "translation": {
+      "en": "The seven names beginning with Tuṣṭi denote contentment, nourishment, knowledge, fortitude, calm, well-being and loveliness; meaning that the Goddess is of that very nature, they name her too.",
+      "hi": "तुष्टि आदि सात नाम संतोष, पोषण, ज्ञान, धैर्य, शम, कल्याणमयता और कमनीयता के वाचक हैं; भगवती इन्हीं के स्वरूप वाली हैं, इस अभिप्राय से वे उन्हें भी कहते हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 443 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Devī Māhātmya verse in the inner layer is paraphrased from Bhāskararāya’s quotation (या देवी सर्वभूतेषु तुष्टिरूपेण संस्थिता); its last sentence is a reflection." }
+}

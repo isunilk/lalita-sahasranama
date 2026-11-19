@@ -1,0 +1,42 @@
+{
+  "number": 711,
+  "verse": 138,
+  "slug": "sadhu",
+  "devanagari": "साधु",
+  "iastSplit": "Sādhu",
+  "archana": "ॐ साधुने नमः",
+  "syllables": ["sā", "dhu"],
+  "words": [
+    { "sa": "साधु", "meaning": { "en": "right, fitting, proper", "hi": "उचित, ठीक, साधु" } }
+  ],
+  "meaning": {
+    "en": "That which is right and fitting",
+    "hi": "जो उचित और ठीक है"
+  },
+  "explanation": {
+    "en": "The verse reads sādhvī, but Bhāskararāya divides it into two names, sādhu and ī. Sādhu here is neuter and means “right, fitting”: it affirms that the teaching just given is proper. Its archana is therefore sādhune namaḥ.",
+    "hi": "श्लोक में ‘साध्वी’ पढ़ा जाता है, पर भास्करराय इसे दो नामों में बाँटते हैं: ‘साधु’ और ‘ई’। यहाँ ‘साधु’ नपुंसकलिंग है और इसका अर्थ है ‘उचित, ठीक’: यह पुष्टि करता है कि अभी दिया गया उपदेश उचित है। इसलिए इसकी अर्चना ‘साधुने नमः’ है।"
+  },
+  "inner": {
+    "en": "What is fitting, he says, is to call Śakti, the supreme I-consciousness, an attribute of Śiva, for in the world the power to burn is seen to be an attribute of fire. As burning belongs to fire, Śakti belongs to Śiva and is never apart from him.",
+    "hi": "वे कहते हैं कि उचित यही है कि परा अहन्ता रूपी शक्ति को शिव का धर्म कहा जाए, क्योंकि लोक में जलाने की शक्ति अग्नि का ही धर्म देखी जाती है। जैसे दाहकता अग्नि की है, वैसे ही शक्ति शिव की है, उनसे कभी अलग नहीं।"
+  },
+  "story": {
+    "en": "Bhāskararāya notes that reading the name as neuter also keeps it from repeating sādhvī, which occurs earlier in the hymn (name 128). The division into sādhu and ī gives this half-verse its four names, 710 to 713.",
+    "hi": "भास्करराय बताते हैं कि इस नाम को नपुंसकलिंग में पढ़ने से स्तोत्र में पहले आए ‘साध्वी’ (नाम 128) की पुनरुक्ति भी नहीं होती। ‘साधु’ और ‘ई’ में यह विभाजन ही इस अर्ध-श्लोक को उसके चार नाम, 710 से 713, देता है।"
+  },
+  "commentary": {
+    "sanskrit": "नपुंसकमिदं नाम । तेन साधुने नम इति प्रयोगः ।",
+    "translation": {
+      "en": "This name is neuter; hence the usage sādhune namaḥ.",
+      "hi": "यह नाम नपुंसकलिंग है; इसलिए ‘साधुने नमः’ यह प्रयोग होता है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 711 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The verse’s साध्वी is divided by Bhāskararāya into साधु (711, neuter) and ई (712); the numbering of this half-verse (710–713) requires that division. Archana साधुने नमः as he prescribes; the web list agrees. His remark तेन साध्वी सद्गतिदायिनीत्यनेन न पौनरुक्त्यम् is taken to mean that the neuter reading avoids repeating साध्वी (name 128); the reference of सद्गतिदायिनी is unclear; check. The last clause of the inner layer is a reflection." }
+}

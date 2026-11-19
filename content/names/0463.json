@@ -1,0 +1,43 @@
+{
+  "number": 463,
+  "verse": 96,
+  "slug": "sura-nayika",
+  "devanagari": "सुरनायिका",
+  "iastSplit": "Sura-nāyikā",
+  "archana": "ॐ सुरनायिकायै नमः",
+  "syllables": ["su", "ra", "nā", "yi", "kā"],
+  "words": [
+    { "sa": "सुर", "meaning": { "en": "god", "hi": "सुर, देवता" } },
+    { "sa": "नायिका", "meaning": { "en": "leader, sovereign (feminine)", "hi": "नायिका, स्वामिनी" } }
+  ],
+  "meaning": {
+    "en": "Leader and sovereign of the gods",
+    "hi": "देवताओं की नायिका और स्वामिनी"
+  },
+  "explanation": {
+    "en": "The suras are the gods, and a nāyikā is a woman who leads. She is the sovereign whom all the gods follow.",
+    "hi": "सुर का अर्थ है देवता, और नायिका का अर्थ है नेतृत्व करने वाली। वे वह स्वामिनी हैं जिनका अनुसरण सभी देवता करते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya glosses nāyikā as īśvarī, sovereign, and supports it with a Vedic phrase about the ‘greatness of the gods’. He gives no hidden meaning here. The gods are the powers at work in nature and in our own senses, and she rules them all.",
+    "hi": "भास्करराय ‘नायिका’ का अर्थ ‘ईश्वरी’ बताते हैं, और इसके समर्थन में ‘देवताओं की महिमा’ से सम्बन्धित एक वैदिक वचन देते हैं। यहाँ वे कोई गूढ़ अर्थ नहीं देते। देवता प्रकृति में और हमारी इन्द्रियों में काम करने वाली शक्तियाँ हैं, और वे उन सब पर शासन करती हैं।"
+  },
+  "story": {
+    "en": "In the Lalitopākhyāna the gods, overwhelmed by Bhaṇḍāsura, take refuge in her, and she leads their cause to victory.",
+    "hi": "ललितोपाख्यान में भण्डासुर से पराजित देवता उनकी शरण लेते हैं, और वे उनके पक्ष को विजय तक ले जाती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "सुराणां नायिकेश्वरी महत्तरा महिमा देवतानामिति श्रुतेः ।",
+    "translation": {
+      "en": "The nāyikā, the sovereign, of the suras; for the śruti speaks of ‘the greater greatness of the gods’.",
+      "hi": "सुरों की नायिका, अर्थात् ईश्वरी; क्योंकि श्रुति ‘देवताओं की महत्तर महिमा’ की बात कहती है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 463 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The rendering of the śruti phrase महत्तरा महिमा देवतानाम् should be checked. In his comment on name 683 Bhāskararāya mentions a reading शोभनाऽसुरनायिका, ‘leader of the good asuras such as Prahlāda’; the master text and his gloss here read सुरनायिका. The last sentence of the inner layer is a reflection." }
+}

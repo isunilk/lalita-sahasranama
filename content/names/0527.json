@@ -1,0 +1,44 @@
+{
+  "number": 527,
+  "verse": 108,
+  "slug": "hakini-rupa-dharini",
+  "devanagari": "हाकिनीरूपधारिणी",
+  "iastSplit": "Hākinī-rūpa-dhāriṇī",
+  "archana": "ॐ हाकिनीरूपधारिण्यै नमः",
+  "syllables": ["hā", "ki", "nī", "rū", "pa", "dhā", "ri", "ṇī"],
+  "words": [
+    { "sa": "हाकिनी", "meaning": { "en": "Hākinī, the yoginī of the Ājñā cakra", "hi": "हाकिनी, आज्ञा चक्र की योगिनी" } },
+    { "sa": "रूप", "meaning": { "en": "form", "hi": "रूप" } },
+    { "sa": "धारिणी", "meaning": { "en": "who bears, assumes", "hi": "धारण करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who bears the form of Hākinī",
+    "hi": "जो हाकिनी का रूप धारण करती हैं"
+  },
+  "explanation": {
+    "en": "This name closes the description of the yoginī of the Ājñā lotus by naming her. The white, six-faced one who abides in the marrow, attended by Haṃsavatī, is the Devī in the form of Hākinī.",
+    "hi": "यह नाम आज्ञा कमल की योगिनी का नाम लेकर उनका वर्णन पूरा करता है। श्वेत वर्ण की, छह मुखों वाली, मज्जा में स्थित और हंसवती से सेवित जो योगिनी हैं, वे हाकिनी का रूप धारण किए स्वयं देवी हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya explains dhāriṇī as ‘she whose nature it is to bear the form of the goddess named Hākinī’. The suffix expresses habit, not a passing disguise: taking these forms belongs to her nature. He gives no further hidden meaning.",
+    "hi": "भास्करराय ‘धारिणी’ का अर्थ करते हैं ‘जिनका स्वभाव ही हाकिनी नामक देवी का रूप धारण करना है’। यह प्रत्यय स्वभाव को बताता है, किसी क्षणिक वेश को नहीं: ये रूप धारण करना उनकी प्रकृति है। इससे आगे वे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "Each yoginī’s group of names ends by naming her, as here: Ḍākinīśvarī (484), Rākiṇyambāsvarūpiṇī (494), Lākinyambāsvarūpiṇī (503), Kākinīrūpadhāriṇī (513), Sākinyambāsvarūpiṇī (520), Hākinīrūpadhāriṇī, and Yākinyambāsvarūpiṇī (534).",
+    "hi": "हर योगिनी के नामों का समूह उनका नाम लेकर समाप्त होता है, जैसे यहाँ: डाकिनीश्वरी (484), राकिण्यम्बास्वरूपिणी (494), लाकिन्यम्बास्वरूपिणी (503), काकिनीरूपधारिणी (513), साकिन्यम्बास्वरूपिणी (520), हाकिनीरूपधारिणी, और याकिन्यम्बास्वरूपिणी (534)।"
+  },
+  "commentary": {
+    "sanskrit": "हाकिन्याख्याया देव्या रूपं धारयितुं शीलमिति तथा ।",
+    "translation": {
+      "en": "She is so called because her nature (śīla) is to bear the form of the goddess named Hākinī.",
+      "hi": "हाकिनी नाम की देवी का रूप धारण करना उनका स्वभाव है, इसलिए वे ऐसी कही गईं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 527 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense, with the grammatical point that the suffix expresses habit (शील). Meaning only; no practice." }
+}

@@ -1,0 +1,42 @@
+{
+  "number": 673,
+  "verse": 132,
+  "slug": "brihati",
+  "devanagari": "बृहती",
+  "iastSplit": "Bṛhatī",
+  "archana": "ॐ बृहत्यै नमः",
+  "syllables": ["bṛ", "ha", "tī"],
+  "words": [
+    { "sa": "बृहती", "meaning": { "en": "great, vast; also the Bṛhatī metre", "hi": "विशाल, महान; बृहती छन्द भी" } }
+  ],
+  "meaning": {
+    "en": "She who is vast, greater than the great",
+    "hi": "महान से भी महान, विशाल"
+  },
+  "explanation": {
+    "en": "Bṛhatī means great or vast; the word comes from the same root as Brahman. She is greater than everything great.",
+    "hi": "बृहती का अर्थ है विशाल, महान; यह शब्द उसी धातु से है जिससे ‘ब्रह्म’। वे हर महान वस्तु से भी महान हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya glosses it as ‘greater than the great’, which recalls the Upaniṣadic description of the Self as smaller than the small and greater than the great. Or she is the Bṛhatī metre of thirty-six syllables. To the objection that the Kūrma Purāṇa calls her the Gāyatrī among metres, he answers that she is both, so there is no conflict.",
+    "hi": "भास्करराय इसका अर्थ ‘महान से भी महत्तर’ बताते हैं, जो उपनिषद् में आत्मा के ‘अणु से भी अणु, महान से भी महान’ वर्णन का स्मरण कराता है। अथवा वे छत्तीस अक्षरों वाला बृहती छन्द हैं। कूर्मपुराण उन्हें छन्दों में गायत्री कहता है, इस आपत्ति का वे उत्तर देते हैं कि वे दोनों हैं, इसलिए कोई विरोध नहीं।"
+  },
+  "story": {
+    "en": "He also links the name to the Bṛhat Sāman. In the Gītā Kṛṣṇa says that among sāmans he is the Bṛhat Sāman, and in the Kūrma Purāṇa the Devī says she is the Jyeṣṭha Sāman; since bṛhat and jyeṣṭha can both mean ‘greatest’, he finds no conflict.",
+    "hi": "वे इस नाम को बृहत्साम से भी जोड़ते हैं। गीता में कृष्ण कहते हैं कि सामों में वे बृहत्साम हैं, और कूर्मपुराण में देवी कहती हैं कि वे ज्येष्ठसाम हैं; ‘बृहत्’ और ‘ज्येष्ठ’ दोनों का अर्थ ‘सबसे बड़ा’ हो सकता है, इसलिए वे इनमें विरोध नहीं देखते।"
+  },
+  "commentary": {
+    "sanskrit": "महतो महीयत्वाद्बृहती । षट्त्रिंशदक्षरच्छन्दोविशेषरूपा वा ।",
+    "translation": {
+      "en": "She is Bṛhatī because she is greater than the great; or, she is the particular metre of thirty-six syllables.",
+      "hi": "महान से भी महत्तर होने के कारण वे बृहती हैं; अथवा, वे छत्तीस अक्षरों वाले विशेष छन्द का रूप हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 673 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The link to the Upaniṣadic ‘greater than the great’ (Kaṭha Upaniṣad 1.2.20) is an observation, not stated by Bhāskararāya." }
+}

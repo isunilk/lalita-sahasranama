@@ -1,0 +1,43 @@
+{
+  "number": 689,
+  "verse": 135,
+  "slug": "rajya-lakshmi",
+  "devanagari": "राज्यलक्ष्मीः",
+  "iastSplit": "Rājya-lakṣmīḥ",
+  "archana": "ॐ राज्यलक्ष्म्यै नमः",
+  "syllables": ["rāj", "ya", "lak", "ṣmīḥ"],
+  "words": [
+    { "sa": "राज्य", "meaning": { "en": "kingdom, royal power", "hi": "राज्य, राजसत्ता" } },
+    { "sa": "लक्ष्मी", "meaning": { "en": "Lakṣmī; fortune, splendour", "hi": "लक्ष्मी; श्री, वैभव" } }
+  ],
+  "meaning": {
+    "en": "The Lakṣmī of sovereignty, the glory of kingship",
+    "hi": "राज्य की लक्ष्मी, राजसत्ता की श्री"
+  },
+  "explanation": {
+    "en": "Rājyalakṣmī is the Lakṣmī who presides over a kingdom, the fortune and splendour that make royal power what it is. Bhāskararāya says the Devī is that presiding goddess.",
+    "hi": "राज्यलक्ष्मी वह लक्ष्मी हैं जो राज्य की अधिष्ठात्री हैं — वह सौभाग्य और वैभव जिससे राजसत्ता राजसत्ता बनती है। भास्करराय कहते हैं कि देवी स्वयं वही अधिष्ठात्री देवी हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya adds that her mantra as Rājyalakṣmī is well known in the Tantrarāja, but gives no further hidden meaning. A kingdom without its Lakṣmī is only land and soldiers; what makes rule a blessing is her presence in it.",
+    "hi": "भास्करराय जोड़ते हैं कि राज्यलक्ष्मी के रूप में उनका मन्त्र तन्त्रराज में प्रसिद्ध है, पर वे कोई और गूढ़ अर्थ नहीं देते। लक्ष्मी के बिना राज्य केवल भूमि और सैनिक है; शासन को वरदान बनाती है उसमें उनकी उपस्थिति।"
+  },
+  "story": {
+    "en": "Verse 135 carries on the theme of sovereignty. Fortune, treasury, army and empire, the marks of a ruler, are named one after another, and all are hers.",
+    "hi": "श्लोक 135 राजसत्ता के विषय को आगे बढ़ाता है। राज्यश्री, कोष, सेना और साम्राज्य — शासक के ये लक्षण एक-एक करके गिनाए गए हैं, और ये सभी उन्हीं के हैं।"
+  },
+  "commentary": {
+    "sanskrit": "राज्याभिमानिनी लक्ष्मी राज्यलक्ष्मीः ।",
+    "translation": {
+      "en": "The Lakṣmī who presides over the kingdom is Rājyalakṣmī.",
+      "hi": "राज्य की अभिमानिनी (अधिष्ठात्री) लक्ष्मी ही राज्यलक्ष्मी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 689 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya mentions the Rājyalakṣmī mantra in the Tantrarāja; it is deliberately not given. The last sentence of the inner layer is a reflection." }
+}

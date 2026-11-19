@@ -1,0 +1,44 @@
+{
+  "number": 530,
+  "verse": 109,
+  "slug": "sarvayudha-dhara",
+  "devanagari": "सर्वायुधधरा",
+  "iastSplit": "Sarvāyudha-dharā",
+  "archana": "ॐ सर्वायुधधरायै नमः",
+  "syllables": ["sar", "vā", "yu", "dha", "dha", "rā"],
+  "words": [
+    { "sa": "सर्व", "meaning": { "en": "all", "hi": "सभी" } },
+    { "sa": "आयुध", "meaning": { "en": "weapon", "hi": "आयुध, अस्त्र-शस्त्र" } },
+    { "sa": "धरा", "meaning": { "en": "who holds, bearer", "hi": "धारण करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who bears every weapon",
+    "hi": "जो सभी आयुध धारण करती हैं"
+  },
+  "explanation": {
+    "en": "Āyudha is a weapon and dharā one who holds. Each earlier yoginī holds four weapons or emblems; at the crown, Yākinī holds them all.",
+    "hi": "‘आयुध’ का अर्थ है अस्त्र और ‘धरा’ धारण करने वाली। पिछली हर योगिनी चार आयुध या चिह्न धारण करती हैं; शिखर पर याकिनी उन सभी को धारण करती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya glosses dharā as ‘she who holds’ and supports the name with a Vedic line: ‘Thousands upon thousands are the weapons in your arms.’ Every force that acts anywhere is a weapon in her hands.",
+    "hi": "भास्करराय ‘धरा’ का अर्थ ‘धारण करने वाली’ करते हैं और एक वैदिक वचन से नाम की पुष्टि करते हैं: ‘तुम्हारी भुजाओं में सहस्रों-सहस्र आयुध हैं।’ जहाँ भी कोई शक्ति कार्य करती है, वह उन्हीं के हाथ का आयुध है।"
+  },
+  "story": {
+    "en": "The meditation verse he quotes describes Yākinī’s hands as holding all weapons. The Vedic line he cites is addressed to Rudra in the Śatarudrīya.",
+    "hi": "उनके द्वारा उद्धृत ध्यान-श्लोक में याकिनी के हाथों को सभी आयुधों से युक्त बताया गया है। जिस वैदिक वचन का वे उल्लेख करते हैं, वह शतरुद्रीय में रुद्र को सम्बोधित है।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वेषामायुधानां धरा धारयित्री । सहस्राणि सहस्रधा बाह्वोस्तव हेतय इति श्रुतेः ।",
+    "translation": {
+      "en": "She is the dharā, the holder, of all weapons; as the Veda says, ‘Thousands upon thousands are the weapons in your arms.’",
+      "hi": "वे सभी आयुधों की धरा, अर्थात् धारण करने वाली, हैं; जैसा श्रुति कहती है: ‘तुम्हारी भुजाओं में सहस्रों-सहस्र आयुध हैं।’"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 530 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The identification of the Vedic line with the Śatarudrīya (Śrī Rudram) is mine; Bhāskararāya says only ‘from the śruti’, and his edition prints सहस्रधा where the Rudram reads सहस्रशः. The last sentence of the inner layer is a reflection." }
+}

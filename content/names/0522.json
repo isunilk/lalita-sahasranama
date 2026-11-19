@@ -1,0 +1,43 @@
+{
+  "number": 522,
+  "verse": 107,
+  "slug": "shukla-varna",
+  "devanagari": "शुक्लवर्णा",
+  "iastSplit": "Śukla-varṇā",
+  "archana": "ॐ शुक्लवर्णायै नमः",
+  "syllables": ["śuk", "la", "var", "ṇā"],
+  "words": [
+    { "sa": "शुक्ल", "meaning": { "en": "white", "hi": "श्वेत, उजला" } },
+    { "sa": "वर्ण", "meaning": { "en": "colour, complexion", "hi": "वर्ण, रंग" } }
+  ],
+  "meaning": {
+    "en": "She whose complexion is white",
+    "hi": "जिनका वर्ण श्वेत है"
+  },
+  "explanation": {
+    "en": "Śukla is white and varṇa is colour or complexion. As Hākinī in the Ājñā lotus, the Devī is white.",
+    "hi": "‘शुक्ल’ का अर्थ है श्वेत और ‘वर्ण’ का रंग या कान्ति। आज्ञा कमल में हाकिनी के रूप में देवी श्वेत वर्ण की हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the plain sense. Each yoginī in the series has her own colour, and the hymn names them one by one; white is the last single colour before the crown, where she shines with every colour (name 529).",
+    "hi": "भास्करराय केवल सीधा अर्थ देते हैं। इस श्रृंखला में हर योगिनी का अपना वर्ण है और स्तोत्र उन्हें एक-एक कर बताता है; शिखर से पहले यह अन्तिम एक वर्ण है, जहाँ आगे वे सभी वर्णों से शोभित होती हैं (नाम 529)।"
+  },
+  "story": {
+    "en": "The colours of the seven yoginīs are: Ḍākinī rose-pink, Rākinī dark, Lākinī red, Kākinī yellow, Sākinī smoke-grey, Hākinī white, and Yākinī every colour.",
+    "hi": "सात योगिनियों के वर्ण इस प्रकार हैं: डाकिनी पाटल (गुलाबी), राकिनी श्याम, लाकिनी रक्त, काकिनी पीत, साकिनी धूम्र, हाकिनी श्वेत, और याकिनी सर्ववर्णा।"
+  },
+  "commentary": {
+    "sanskrit": "शुक्लो वर्णो यस्याः ।",
+    "translation": {
+      "en": "She whose varṇa, colour, is śukla, white.",
+      "hi": "जिनका वर्ण शुक्ल, अर्थात् श्वेत, है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 522 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense. The list of colours comes from the names of the series and his glosses (he reads Ḍākinī’s आरक्त as पाटल); Sākinī’s smoky colour is from the meditation verse he quotes." }
+}

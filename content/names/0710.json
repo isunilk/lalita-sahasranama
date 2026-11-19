@@ -1,0 +1,43 @@
+{
+  "number": 710,
+  "verse": 138,
+  "slug": "sampradayeshvari",
+  "devanagari": "सम्प्रदायेश्वरी",
+  "iastSplit": "Sampradāyeśvarī",
+  "archana": "ॐ सम्प्रदायेश्वर्यै नमः",
+  "syllables": ["sam", "pra", "dā", "yeś", "va", "rī"],
+  "words": [
+    { "sa": "सम्प्रदाय", "meaning": { "en": "tradition handed down from teacher to disciple", "hi": "सम्प्रदाय, गुरु-शिष्य परम्परा" } },
+    { "sa": "ईश्वरी", "meaning": { "en": "sovereign, ruler", "hi": "ईश्वरी, स्वामिनी" } }
+  ],
+  "meaning": {
+    "en": "Sovereign of the sacred tradition",
+    "hi": "सम्प्रदाय (गुरु-परम्परा) की स्वामिनी"
+  },
+  "explanation": {
+    "en": "A sampradāya is what is rightly handed on from teacher to disciples. Bhāskararāya says she is its īśvarī, sovereign and able: the truth about her is established through that tradition.",
+    "hi": "सम्प्रदाय वह है जो गुरु से शिष्यों को सम्यक् रूप से सौंपा जाता है। भास्करराय कहते हैं कि वे इसकी ईश्वरी, अर्थात् समर्थ स्वामिनी, हैं: उनके विषय में सत्य इसी परम्परा से स्थापित होता है।"
+  },
+  "inner": {
+    "en": "The doubt now: how do we know that only the other attributes are imagined, and not Śakti? Bhāskararāya answers that reasoning shows one reality can be both bearer and attribute, but that Śiva is the bearer and Śakti the attribute is known from the tradition. He adds that a meaning of the mantra called sampradāya is taught in the Yoginīhṛdaya and the Dattātreya Saṃhitā, which he has explained in his Varivasyārahasya; she is its sovereign too.",
+    "hi": "अब शंका यह है: यह कैसे जाना जाए कि केवल अन्य धर्म कल्पित हैं, शक्ति नहीं? भास्करराय उत्तर देते हैं कि तर्क से इतना सिद्ध होता है कि एक ही सत्ता धर्मी और धर्म दोनों हो सकती है, पर शिव ही धर्मी हैं और शक्ति ही धर्म, यह सम्प्रदाय से जाना जाता है। वे जोड़ते हैं कि ‘सम्प्रदाय’ नामक मन्त्रार्थ योगिनीहृदय और दत्तात्रेय संहिता में प्रसिद्ध है, जिसे उन्होंने अपने वरिवस्यारहस्य में समझाया है; वे उसकी भी ईश्वरी हैं।"
+  },
+  "story": {
+    "en": "The traditional teachers, he notes, say that Brahman itself is called Śakti as the counterpart of the world it can bring forth. With this name the last half-verse of the argument begins, turning from reasoning to the living line of teachers.",
+    "hi": "वे बताते हैं कि साम्प्रदायिक आचार्य कहते हैं: ब्रह्म ही, उससे उत्पन्न हो सकने वाले जगत् के प्रतियोगी के रूप में, शक्ति कहलाता है। इस नाम से तर्क का अन्तिम अर्ध-श्लोक आरम्भ होता है, जो युक्ति से हटकर जीवित गुरु-परम्परा की ओर मुड़ता है।"
+  },
+  "commentary": {
+    "sanskrit": "सम्यक् शिष्येभ्यः प्रदीयत इति सम्प्रदायः । तत्रेश्वरी समर्था समर्थनक्षमा ।",
+    "translation": {
+      "en": "Sampradāya is what is rightly (samyak) handed on (pradīyate) to disciples. She is īśvarī in it: able, capable of establishing (the truth).",
+      "hi": "जो शिष्यों को सम्यक् रूप से प्रदान किया जाता है, वह सम्प्रदाय है। उसमें वे ईश्वरी हैं, अर्थात् समर्थ — समर्थन करने में सक्षम।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 710 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya mentions the sampradāya meaning of the mantra (Yoginīhṛdaya, Dattātreya Saṃhitā, his Varivasyārahasya) only by name; it is deliberately not explained here." }
+}

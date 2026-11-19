@@ -1,0 +1,47 @@
+{
+  "number": 281,
+  "verse": 66,
+  "slug": "unmesha-nimishotpanna-vipanna-bhuvanavali",
+  "devanagari": "उन्मेषनिमिषोत्पन्नविपन्नभुवनावलिः",
+  "iastSplit": "Unmeṣa-nimiṣotpanna-vipanna-bhuvanāvaliḥ",
+  "archana": "ॐ उन्मेषनिमिषोत्पन्नविपन्नभुवनावल्यै नमः",
+  "syllables": ["un", "me", "ṣa", "ni", "mi", "ṣot", "pan", "na", "vi", "pan", "na", "bhu", "va", "nā", "va", "liḥ"],
+  "words": [
+    {"sa": "उन्मेष", "meaning": {"en": "opening of the eyes", "hi": "आँख खुलना, उन्मेष"}},
+    {"sa": "निमिष", "meaning": {"en": "closing of the eyes", "hi": "आँख मुँदना, निमेष"}},
+    {"sa": "उत्पन्न", "meaning": {"en": "arisen, born", "hi": "उत्पन्न"}},
+    {"sa": "विपन्न", "meaning": {"en": "perished", "hi": "नष्ट"}},
+    {"sa": "भुवन", "meaning": {"en": "world, universe", "hi": "लोक, ब्रह्माण्ड"}},
+    {"sa": "आवलि", "meaning": {"en": "row, series", "hi": "पंक्ति, श्रेणी"}}
+  ],
+  "meaning": {
+    "en": "As she opens and closes her eyes, worlds arise and perish",
+    "hi": "जिनके पलक खुलने-मुँदने से लोक उत्पन्न और नष्ट होते हैं"
+  },
+  "explanation": {
+    "en": "Unmeṣa is the opening of the eyes and nimiṣa their closing; bhuvanāvali is a row of worlds. When she opens her eyes, whole series of universes come into being; when she closes them, they pass away. What is an age for us is the blink of her eye.",
+    "hi": "‘उन्मेष’ आँख खुलना है और ‘निमिष’ आँख मुँदना; ‘भुवनावलि’ लोकों की पंक्ति है। जब वे आँखें खोलती हैं, तो ब्रह्माण्डों की पंक्तियाँ उत्पन्न होती हैं; जब मूँदती हैं, तो वे लय हो जाती हैं। जो हमारे लिए युग है, वह उनके लिए पलक झपकना है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya notes that goddesses do not blink; the opening and closing arise in keeping with the karma of beings, and the real point is that creation and dissolution happen by her will alone. He quotes the Ājñāvatāra: by will alone she swallows the whole world and brings it forth again; and a verse he gives as Kālidāsa’s: the world of seer, seen and seeing was withdrawn into you, Mother, before memory; it opens when you rise and closes when you set, by your will. In the Śaiva line quoted under name 271, too, unmeṣa and nimeṣa name consciousness turning outward and inward.",
+    "hi": "भास्करराय कहते हैं कि देवी पलक नहीं झपकातीं; यह खुलना-मूँदना प्राणियों के कर्मों के अनुसार होता है, और असली तात्पर्य यह है कि सृष्टि और प्रलय उनकी इच्छा मात्र से होते हैं। वे आज्ञावतार का वचन देते हैं कि वे इच्छा से ही सारे जगत् को निगल लेती हैं और फिर प्रकट कर देती हैं; और कालिदास का बताया एक श्लोक भी: द्रष्टा, दृश्य और दर्शन रूपी जगत् स्मृति से पहले तुम में ही लीन था, माँ; तुम्हारे उदय पर वह फिर खुलता है और तुम्हारे लय पर तुम्हारी इच्छा से मुँद जाता है। नाम 271 पर उद्धृत शैव वचन में भी उन्मेष और निमेष चेतना के बाहर और भीतर की ओर मुड़ने के नाम हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya reads the end of the name as bhuvanāvalī; the chanted text has bhuvanāvaliḥ, and both mean a row of worlds. He also quotes Gorakṣa’s Mahārthamañjarī, in Prakrit, which says the Lord’s moment for opening out the universe is as long as his moment for closing it.",
+    "hi": "भास्करराय नाम का अन्त ‘भुवनावली’ पढ़ते हैं; गाए जाने वाले पाठ में ‘भुवनावलिः’ है, और दोनों का अर्थ लोकों की पंक्ति है। वे गोरक्ष की प्राकृत रचना महार्थमञ्जरी भी उद्धृत करते हैं, जिसके अनुसार प्रभु को विश्व के उन्मेष में जितना समय लगता है, उतना ही उसके निमेष में।"
+  },
+  "commentary": {
+    "sanskrit": "उन्मेषनिमिषौ नेत्रविकाससङ्कोचौ ताभ्यामेव क्रमेणोत्पन्ना विपन्नाश्च सृष्टा नष्टाश्च भुवनानां ब्रह्माण्डानामावल्यः पङ्क्तयो यस्यास्तथा ।",
+    "translation": {
+      "en": "Unmeṣa and nimiṣa are the opening and closing of the eyes. She by whose opening and closing alone, in turn, the āvalīs, the rows, of bhuvanas, the cosmic eggs, arise and perish, are created and destroyed, is so called.",
+      "hi": "उन्मेष और निमिष नेत्रों का खुलना और सिकुड़ना हैं। जिनके इन्हीं दो से क्रमशः भुवनों, अर्थात् ब्रह्माण्डों, की आवलियाँ, अर्थात् पंक्तियाँ, उत्पन्न और विपन्न, अर्थात् सृष्ट और नष्ट, होती हैं, वे ऐसी कही गई हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 281 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Variant: Bhāskararāya reads भुवनावली (ī-stem); the master text has भुवनावलिः, followed here; the archana भुवनावल्यै suits both. He also reads names 281–284 as encoding the later parts of the Pañcadaśī; not given here. The Kālidāsa attribution is his." }
+}

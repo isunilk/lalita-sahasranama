@@ -1,0 +1,36 @@
+{
+  "number": 461,
+  "verse": 96,
+  "slug": "subhru",
+  "devanagari": "सुभ्रूः",
+  "iastSplit": "Su-bhrūḥ",
+  "archana": "ॐ सुभ्रुवे नमः",
+  "syllables": ["subh", "rūḥ"],
+  "words": [
+    { "sa": "सु", "meaning": { "en": "beautiful", "hi": "सु, सुन्दर" } },
+    { "sa": "भ्रू", "meaning": { "en": "eyebrow", "hi": "भ्रू, भौंह" } }
+  ],
+  "meaning": {
+    "en": "She whose eyebrows are beautiful",
+    "hi": "सुन्दर भौंहों वाली"
+  },
+  "explanation": {
+    "en": "Subhrū is she of the lovely brows. In Sanskrit poetry finely arched brows are a mark of beauty, often compared to the bow of Kāma.",
+    "hi": "सुभ्रू वे हैं जिनकी भौंहें सुन्दर हैं। संस्कृत काव्य में सुघड़, धनुषाकार भौंहें सौन्दर्य का लक्षण हैं, और प्रायः कामदेव के धनुष से उनकी उपमा दी जाती है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the plain sense: she whose two brows are lovely. He gives no hidden meaning here. The hymn has already pictured her brows as the arched gateway of Kāma’s house, her face (name 17), and this short name returns to that beauty.",
+    "hi": "भास्करराय केवल सीधा अर्थ देते हैं: जिनकी दोनों भौंहें सुन्दर हैं। यहाँ वे कोई गूढ़ अर्थ नहीं देते। स्तोत्र पहले ही उनकी भौंहों को उनके मुख रूपी कामदेव के भवन का तोरण कह चुका है (नाम 17), और यह छोटा-सा नाम उसी सौन्दर्य की ओर लौटता है।"
+  },
+  "story": {
+    "en": "This is one of a run of names on her beauty in this verse: lovely face, lotus limbs, lovely brows and radiant grace (459–462).",
+    "hi": "यह इस श्लोक में उनके सौन्दर्य के नामों की एक कड़ी है: सुन्दर मुख, कमल-से अंग, सुन्दर भौंहें और दीप्त शोभा (459–462)।"
+  },
+  "commentary": null,
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Commentary set to null: Bhāskararāya’s gloss is printed शौभने भ्रुवौ यस्याः सा सुभ्रूः, with शौभने evidently a misprint for शोभने. Archana सुभ्रुवे kept from the web list; सुभ्रुवै is an equally valid dative of this ū-stem (Pāṇini 1.4.6)." }
+}

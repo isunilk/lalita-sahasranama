@@ -1,0 +1,43 @@
+{
+  "number": 686,
+  "verse": 134,
+  "slug": "rajya-vallabha",
+  "devanagari": "राज्यवल्लभा",
+  "iastSplit": "Rājya-vallabhā",
+  "archana": "ॐ राज्यवल्लभायै नमः",
+  "syllables": ["rāj", "ya", "val", "la", "bhā"],
+  "words": [
+    { "sa": "राज्य", "meaning": { "en": "kingdom; also its ruler", "hi": "राज्य; उसका स्वामी राजा भी" } },
+    { "sa": "वल्लभ", "meaning": { "en": "dear, beloved", "hi": "प्रिय" } }
+  ],
+  "meaning": {
+    "en": "To whom kingdoms, and their rulers, are dear",
+    "hi": "जिन्हें राज्य और उनके स्वामी प्रिय हैं"
+  },
+  "explanation": {
+    "en": "The kingdoms named before, of heaven, Vaikuṇṭha and Kailāsa, are dear to her. Bhāskararāya adds that rājya can also stand for the lords of those realms: these rulers are dear to her.",
+    "hi": "पहले कहे गए राज्य — स्वर्ग, वैकुण्ठ और कैलास — उन्हें प्रिय हैं। भास्करराय जोड़ते हैं कि ‘राज्य’ शब्द से उन लोकों के स्वामी भी कहे जा सकते हैं: ये शासक उन्हें प्रिय हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya stays close to the plain sense and gives these two readings. The second turns the name toward persons: those who uphold the worlds are dear to her, as a mother holds dear those who care for her household.",
+    "hi": "भास्करराय यहाँ सीधे अर्थ के निकट रहते हुए ये दो अर्थ देते हैं। दूसरा अर्थ नाम को व्यक्तियों की ओर मोड़ता है: लोकों को सँभालने वाले उन्हें प्रिय हैं, जैसे माँ को वे प्रिय होते हैं जो उसके घर की देखभाल करते हैं।"
+  },
+  "story": {
+    "en": "Because those rulers are dear to her, Bhāskararāya says, they are remembered as living in her city, Śrīnagara. He quotes the sage Durvāsas, who praises the sapphire lakes, and the kings with their queens, between the city’s thirteenth and fourteenth walls.",
+    "hi": "भास्करराय कहते हैं कि ये शासक उन्हें प्रिय हैं, इसीलिए उनका निवास देवी के नगर श्रीनगर में स्मरण किया जाता है। वे दुर्वासा मुनि का श्लोक उद्धृत करते हैं, जो इस नगर के तेरहवें और चौदहवें प्राकार के बीच स्थित नीलम के सरोवरों की, और वहाँ अपनी रानियों के साथ रहने वाले राजाओं की वन्दना करता है।"
+  },
+  "commentary": {
+    "sanskrit": "पूर्वोक्तानि राज्यानि वल्लभानि प्रियाणि यस्याः । राज्यशब्देन तत्पतयो राजानो वा कथ्यन्ते ।",
+    "translation": {
+      "en": "She to whom the kingdoms just named are vallabha, dear. Or the word rājya may denote their lords, the kings.",
+      "hi": "पहले कहे गए राज्य जिन्हें वल्लभ अर्थात् प्रिय हैं। अथवा ‘राज्य’ शब्द से उनके स्वामी राजा कहे जाते हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 686 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. In the Durvāsas verse, शातोदरीसहायान् भूपालान् (kings with slender-waisted companions) is rendered “kings with their queens”; check. The inner layer’s comparison with a mother is a reflection." }
+}

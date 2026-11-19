@@ -1,0 +1,42 @@
+{
+  "number": 538,
+  "verse": 110,
+  "slug": "medha",
+  "devanagari": "मेधा",
+  "iastSplit": "Medhā",
+  "archana": "ॐ मेधायै नमः",
+  "syllables": ["me", "dhā"],
+  "words": [
+    { "sa": "मेधा", "meaning": { "en": "intelligence that grasps and retains", "hi": "धारणा-शक्ति युक्त बुद्धि" } }
+  ],
+  "meaning": {
+    "en": "She who is Medhā, intelligence that grasps and holds",
+    "hi": "जो मेधा हैं, ग्रहण और धारण करने वाली बुद्धि"
+  },
+  "explanation": {
+    "en": "Medhā is the intelligence that grasps knowledge and keeps it. Bhāskararāya cites the Agni Purāṇa: intellect that holds fast is medhā.",
+    "hi": "‘मेधा’ वह बुद्धि है जो ज्ञान को ग्रहण करती और धारण किए रखती है। भास्करराय अग्नि पुराण का वचन देते हैं: धारणा-शक्ति से युक्त बुद्धि ही मेधा है।"
+  },
+  "inner": {
+    "en": "Following the previous name, he reads it also as the creation that the intellect precedes, so the two names together cover creation before the intellect and creation through it. He quotes the line ‘You are Medhā, O Devī, who have known the essence of all the scriptures’, and the words ‘the Devī who abides in all beings in the form of medhā’.",
+    "hi": "पिछले नाम के क्रम में वे इसे बुद्धिपूर्वक सृष्टि के रूप में भी पढ़ते हैं; इस प्रकार दोनों नाम मिलकर बुद्धि से पहले की और बुद्धिपूर्वक, दोनों प्रकार की सृष्टि को समेटते हैं। वे यह पंक्ति उद्धृत करते हैं: ‘हे देवि, तुम वह मेधा हो जिसने सब शास्त्रों का सार जाना है’, और यह वचन भी: ‘जो देवी सब प्राणियों में मेधा रूप से स्थित हैं’।"
+  },
+  "story": {
+    "en": "The first line he quotes is from the gods’ hymn in the Devī Māhātmya. He also cites the Padma Purāṇa, which names Medhā as the Devī’s form in the region of Kashmir.",
+    "hi": "पहली पंक्ति देवीमाहात्म्य में देवताओं की स्तुति से है। वे पद्म पुराण का भी उल्लेख करते हैं, जो मेधा को काश्मीर मण्डल में देवी का रूप बताता है।"
+  },
+  "commentary": {
+    "sanskrit": "धीर्धारणावती मेधेत्याग्निपुराणवचनाच्च बुद्धिविशेषरूपा वा ।",
+    "translation": {
+      "en": "Or, from the Agni Purāṇa’s words ‘intellect endowed with retention is medhā’, she is that special form of intelligence.",
+      "hi": "अथवा, अग्नि पुराण के वचन ‘धारणा से युक्त धी ही मेधा है’ के अनुसार, वे बुद्धि का वह विशेष रूप हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 538 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya does not name the source of मेधासि देवि विदिताखिलशास्त्रसारा; its identification with the Devī Māhātmya (chapter 4) is mine. He prints सर्वभूतेषू (for सर्वभूतेषु) in the second quotation." }
+}

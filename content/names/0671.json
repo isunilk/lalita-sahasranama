@@ -1,0 +1,42 @@
+{
+  "number": 671,
+  "verse": 132,
+  "slug": "vriddha",
+  "devanagari": "वृद्धा",
+  "iastSplit": "Vṛddhā",
+  "archana": "ॐ वृद्धायै नमः",
+  "syllables": ["vṛd", "dhā"],
+  "words": [
+    { "sa": "वृद्धा", "meaning": { "en": "old, ancient; grown great", "hi": "वृद्धा, प्राचीन; बढ़ी हुई" } }
+  ],
+  "meaning": {
+    "en": "She who is the Ancient One, eldest of all",
+    "hi": "सबसे प्राचीन, सबकी ज्येष्ठ"
+  },
+  "explanation": {
+    "en": "Vṛddhā means old or aged. She is the eldest of all, older than every god and every world, because everything else came after her.",
+    "hi": "वृद्धा का अर्थ है वृद्ध, प्राचीन। वे सबसे ज्येष्ठ हैं, हर देवता और हर लोक से पुरानी, क्योंकि बाकी सब उनके बाद आया।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives three senses. She is old, and he cites the Upaniṣadic line in which the Supreme, grown old, goes along with a staff: the Mother is present in the aged too. She is the eldest of all, or has grown great in the form of the world; or, from the causative, she is the one who makes the world grow.",
+    "hi": "भास्करराय तीन अर्थ देते हैं। वे वृद्धा हैं, और वे उपनिषद् का वह वचन उद्धृत करते हैं जिसमें परमात्मा बूढ़ा होकर डण्डे के सहारे चलता है: माँ वृद्धों में भी हैं। वे सबमें ज्येष्ठ हैं, या जगत् के रूप में बढ़ी हुई हैं; अथवा, प्रेरणार्थक अर्थ में, वे जगत् को बढ़ाने वाली हैं।"
+  },
+  "story": {
+    "en": "The line comes from the Śvetāśvatara Upaniṣad, where the Supreme is addressed as woman and man, boy and girl, and the old one leaning on a staff. Bhāskararāya’s text gives it in the feminine, jīrṇā, to suit the Devī.",
+    "hi": "यह वचन श्वेताश्वतर उपनिषद् का है, जहाँ परमात्मा को स्त्री और पुरुष, कुमार और कुमारी, और डण्डे के सहारे चलने वाला वृद्ध कहा गया है। भास्करराय के पाठ में यह देवी के अनुरूप स्त्रीलिंग ‘जीर्णा’ में है।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वज्येष्ठत्वाज्जगद्रूपेणाभिवृद्धत्वाद्वा वृद्धा ।",
+    "translation": {
+      "en": "She is Vṛddhā because she is the eldest of all, or because she has grown great in the form of the world.",
+      "hi": "सबसे ज्येष्ठ होने के कारण, अथवा जगत् के रूप में बढ़ी हुई होने के कारण, वे वृद्धा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 671 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya cites त्वं जीर्णा दण्डेन वञ्चसि only as śruti, and the edition prints जीणा (a misprint for जीर्णा); it is Śvetāśvatara Upaniṣad 4.3, where the form is masculine (जीर्णो). The clause ‘the Mother is present in the aged too’ is a reflection." }
+}

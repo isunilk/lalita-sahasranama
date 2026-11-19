@@ -1,0 +1,43 @@
+{
+  "number": 676,
+  "verse": 132,
+  "slug": "brahmananda",
+  "devanagari": "ब्रह्मानन्दा",
+  "iastSplit": "Brahmānandā",
+  "archana": "ॐ ब्रह्मानन्दायै नमः",
+  "syllables": ["brah", "mā", "nan", "dā"],
+  "words": [
+    { "sa": "ब्रह्मन्", "meaning": { "en": "Brahman, the Absolute", "hi": "ब्रह्म" } },
+    { "sa": "आनन्द", "meaning": { "en": "bliss", "hi": "आनन्द" } }
+  ],
+  "meaning": {
+    "en": "She whose bliss is Brahman itself",
+    "hi": "ब्रह्म ही जिनका आनन्द है"
+  },
+  "explanation": {
+    "en": "Brahman is the Absolute and ānanda is bliss. Her bliss is not drawn from anything outside: Brahman itself is her joy, and she possesses the bliss of Brahman.",
+    "hi": "ब्रह्म का अर्थ है परम सत्य और आनन्द का अर्थ है परम सुख। उनका आनन्द किसी बाहरी वस्तु से नहीं आता: ब्रह्म ही उनका आनन्द है, और वे ब्रह्मानन्द से युक्त हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya specifies that this is said of her saguṇa form, the Devī with attributes: for her, Brahman itself is bliss. Or, with a possessive suffix, she is the one who has the bliss of Brahman. He gives no further hidden meaning; the name joins the Mother with a form and the bliss of the formless Absolute in one.",
+    "hi": "भास्करराय स्पष्ट करते हैं कि यह उनके सगुण रूप के विषय में कहा गया है: उनके लिए ब्रह्म ही आनन्द है। अथवा, मत्वर्थीय प्रत्यय से, वे ब्रह्मानन्द से युक्त हैं। वे इसका कोई और गूढ़ अर्थ नहीं देते; यह नाम साकार माँ और निराकार परब्रह्म के आनन्द को एक में जोड़ता है।"
+  },
+  "story": {
+    "en": "In the Taittirīya Upaniṣad the bliss of Brahman is that from which words turn back, together with the mind, unable to reach it. This name says that bliss is her own.",
+    "hi": "तैत्तिरीय उपनिषद् में ब्रह्म का आनन्द वह है जहाँ से वाणी मन के साथ उसे पाए बिना लौट आती है। यह नाम कहता है कि वह आनन्द उन्हीं का अपना है।"
+  },
+  "commentary": {
+    "sanskrit": "ब्रह्मैवानन्दो यस्याः सगुणायाः ।",
+    "translation": {
+      "en": "She, in her form with attributes, for whom Brahman itself is bliss.",
+      "hi": "सगुण रूप वाली वे, जिनका आनन्द ब्रह्म ही है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 676 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition prints the name in the verse heading as ब्रह्मान्दा, a misprint for ब्रह्मानन्दा. The Taittirīya reference in the story is general context. The last clause of the inner layer is a reflection." }
+}

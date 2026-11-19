@@ -1,0 +1,43 @@
+{
+  "number": 547,
+  "verse": 111,
+  "slug": "barbaralaka",
+  "devanagari": "बर्बरालका",
+  "iastSplit": "Barbarālakā",
+  "archana": "ॐ बर्बरालकायै नमः",
+  "syllables": ["bar", "ba", "rā", "la", "kā"],
+  "words": [
+    { "sa": "बर्बर", "meaning": { "en": "curled, curly (of hair)", "hi": "घुँघराला" } },
+    { "sa": "अलक", "meaning": { "en": "lock of hair, curl", "hi": "अलक, लट" } }
+  ],
+  "meaning": {
+    "en": "Whose locks of hair are softly curled",
+    "hi": "जिनकी अलकें घुँघराली हैं"
+  },
+  "explanation": {
+    "en": "Alaka is a lock of hair and barbara means curled. Bhāskararāya explains barbara as short hair curled at the tips: her forelocks curl softly about her face.",
+    "hi": "‘अलक’ बालों की लट है और ‘बर्बर’ का अर्थ है घुँघराला। भास्करराय ‘बर्बर’ को सिरों पर मुड़े छोटे बालों के लिए प्रयुक्त शब्द बताते हैं: उनके मुख के आस-पास की अलकें कोमलता से घुँघराली हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya keeps to the plain sense and gives no hidden meaning. Set among names of scripture, merit and freedom, this glimpse of her face reminds the reader that the Mother of the Vedas is also the lovely Lalitā.",
+    "hi": "भास्करराय सीधा अर्थ ही देते हैं, कोई गूढ़ अर्थ नहीं। शास्त्र, पुण्य और मुक्ति के नामों के बीच उनके मुख की यह झलक स्मरण कराती है कि वेदों की जननी ही सुन्दरी ललिता भी हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya first explains a variant, bandhurālakā, ‘whose curls rise and fall’, then calls barbarālakā the reading handed down in the tradition and the more widely accepted one. He supports it from the Lalitāstavaratna, which speaks of her dark, glossy, curling locks.",
+    "hi": "भास्करराय पहले एक पाठभेद ‘बन्धुरालका’ (जिनकी अलकें ऊँची-नीची लहराती हैं) की व्याख्या करते हैं, फिर ‘बर्बरालका’ को परम्परा से आया हुआ और अधिक मान्य पाठ बताते हैं। वे ललितास्तवरत्न से इसकी पुष्टि करते हैं, जिसमें उनके श्यामल, स्निग्ध, घुँघराले केशों का वर्णन है।"
+  },
+  "commentary": {
+    "sanskrit": "बर्बरालकेति तु सम्प्रदायागतपाठः । बर्बरशब्दः संकुचिताग्रह्रस्वकेशेषु रूढः ।",
+    "translation": {
+      "en": "Barbarālakā, however, is the reading handed down in the tradition. The word barbara is established for short hair curled at the tips.",
+      "hi": "‘बर्बरालका’ तो परम्परा से प्राप्त पाठ है। ‘बर्बर’ शब्द सिरों पर मुड़े छोटे केशों के लिए रूढ़ है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 547 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Variant: Bhāskararāya first glosses बन्धुरालका, then calls बर्बरालका the traditional and better-attested reading (he also notes a reading बर्बरा and the vernacular form बाबर). The second sentence of the inner layer is a reflection." }
+}

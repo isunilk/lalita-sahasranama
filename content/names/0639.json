@@ -1,0 +1,43 @@
+{
+  "number": 639,
+  "verse": 127,
+  "slug": "avara-da",
+  "devanagari": "अवरदा",
+  "iastSplit": "Avara-dā",
+  "archana": "ॐ अवरदायै नमः",
+  "syllables": ["a", "va", "ra", "dā"],
+  "words": [
+    { "sa": "अवर", "meaning": { "en": "low, ignoble; here the asuras", "hi": "अधम, नीच; यहाँ असुर" } },
+    { "sa": "दा", "meaning": { "en": "who cuts down (from the root do, ‘to cut’)", "hi": "काटने वाली, नाश करने वाली (‘दो’ धातु से)" } }
+  ],
+  "meaning": {
+    "en": "She who cuts down the ignoble, the demons",
+    "hi": "अधम असुरों का नाश करने वाली"
+  },
+  "explanation": {
+    "en": "In the verse the name follows Svarṇagarbhā with an avagraha, so it is avaradā and not varadā, ‘giver of boons’. Bhāskararāya calls it a name of four syllables: avara means the low or ignoble, here the asuras, and -dā comes from the root do, ‘to cut’. She destroys them.",
+    "hi": "श्लोक में यह नाम स्वर्णगर्भा के बाद अवग्रह के साथ आता है, इसलिए यह ‘अवरदा’ है, ‘वरदा’ (वर देने वाली) नहीं। भास्करराय इसे चार अक्षरों का नाम कहते हैं: ‘अवर’ अर्थात् अधम, यहाँ असुर, और ‘दा’ काटने के अर्थ वाली ‘दो’ धातु से है। वे उनका संहार करती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives a second reading: ava, ‘shining’, and rada, ‘tooth’, so she whose teeth are radiant. He gives no hidden meaning beyond these two. Inwardly, what she cuts down are the ignoble tendencies of one’s own mind.",
+    "hi": "भास्करराय दूसरा अर्थ भी देते हैं: ‘अव’ अर्थात् कान्तिमान् और ‘रद’ अर्थात् दाँत; जिनके दाँत दीप्तिमान हैं। इन दो अर्थों के अतिरिक्त वे कोई गूढ़ अर्थ नहीं देते। भीतर की दृष्टि से, वे जिन्हें काटती हैं वे हमारे अपने मन की अधम वृत्तियाँ हैं।"
+  },
+  "story": {
+    "en": "The demons she destroys recall the Lalitopākhyāna, where she goes to war against Bhaṇḍāsura and his armies. Bhāskararāya calls the asuras anārya, ignoble, which is the sense of avara here.",
+    "hi": "जिन असुरों का वे संहार करती हैं, वे ललितोपाख्यान का स्मरण कराते हैं, जहाँ वे भण्डासुर और उसकी सेनाओं से युद्ध करती हैं। भास्करराय असुरों को ‘अनार्य’ अर्थात् अधम कहते हैं, और यही यहाँ ‘अवर’ का अर्थ है।"
+  },
+  "commentary": {
+    "sanskrit": "अवरदेति चतुरक्षरं नाम । अवराननार्यानसुरान् द्यति खण्डयतीति तथा ।",
+    "translation": {
+      "en": "Avaradā is a name of four syllables. She cuts down, breaks to pieces (dyati), the avara, the ignoble asuras; hence the name.",
+      "hi": "‘अवरदा’ चार अक्षरों का नाम है। वे अवर अर्थात् अनार्य असुरों को काटती, खण्डित करती हैं; इसलिए यह नाम है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 639 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The verse has स्वर्णगर्भाऽवरदा; Bhāskararāya confirms the four-syllable reading अवरदा (not वरदा) and derives -दा from दो, ‘to cut’. His second reading अव + रद (‘radiant teeth’) is in the inner layer. The last sentence of the inner layer is a reflection." }
+}

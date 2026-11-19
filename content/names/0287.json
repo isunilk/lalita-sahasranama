@@ -1,0 +1,38 @@
+{
+  "number": 287,
+  "verse": 67,
+  "slug": "nijajna-rupa-nigama",
+  "devanagari": "निजाज्ञारूपनिगमा",
+  "iastSplit": "Nijājñā-rūpa-nigamā",
+  "archana": "ॐ निजाज्ञारूपनिगमायै नमः",
+  "syllables": ["ni", "jāj", "ñā", "rū", "pa", "ni", "ga", "mā"],
+  "words": [
+    {"sa": "निज", "meaning": {"en": "her own", "hi": "अपनी, निज"}},
+    {"sa": "आज्ञा", "meaning": {"en": "command", "hi": "आज्ञा, आदेश"}},
+    {"sa": "रूप", "meaning": {"en": "form", "hi": "रूप"}},
+    {"sa": "निगम", "meaning": {"en": "the Veda, scripture", "hi": "निगम, वेद"}}
+  ],
+  "meaning": {
+    "en": "Whose own command takes form as the Vedas",
+    "hi": "जिनकी अपनी आज्ञा ही वेदों के रूप में है"
+  },
+  "explanation": {
+    "en": "Nija is ‘her own’, ājñā ‘command’ and nigama ‘the Veda’. The Vedas are not separate from her; they are her own command given form in words. When the scriptures teach what to do and what to avoid, it is the Mother speaking.",
+    "hi": "‘निज’ का अर्थ है अपनी, ‘आज्ञा’ आदेश, और ‘निगम’ वेद। वेद उनसे अलग नहीं; वे शब्दों में साकार हुई उनकी अपनी आज्ञा हैं। जब शास्त्र बताते हैं कि क्या करें और क्या न करें, तब माँ ही बोल रही होती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya reads it in the terms of Mīmāṃsā: her command is what Vedic scholars call śabda-bhāvanā, the impelling force of the word, and the Vedas of ritual give it shape as a definite act with its goal, means and procedure. He quotes the Kūrma Purāṇa: ‘My command, the supreme ancient power called the Veda, goes forth at the beginning of creation as the Ṛk, Yajus and Sāman.’ In another reading, nigama means the Śaiva Tantras that agree with the Veda, born from the Lord’s faces as his command, as against those opposed to the Veda.",
+    "hi": "भास्करराय इसे मीमांसा की भाषा में पढ़ते हैं: उनकी आज्ञा वही है जिसे वेदज्ञ ‘शब्द-भावना’, अर्थात् शब्द की प्रेरक शक्ति, कहते हैं, और कर्मकाण्ड के वेद उसे साध्य, साधन और इतिकर्तव्यता से युक्त एक निश्चित कर्म का रूप देते हैं। वे कूर्म पुराण उद्धृत करते हैं: ‘मेरी आज्ञा ही वेद नाम की परा, सनातन शक्ति है, जो सृष्टि के आरम्भ में ऋक्, यजुः और साम के रूप में प्रवृत्त होती है।’ दूसरे अर्थ में ‘निगम’ वे शैव तन्त्र हैं जो वेद के अनुकूल हैं और प्रभु के मुखों से उनकी आज्ञा के रूप में प्रकट हुए, न कि वेद-विरुद्ध तन्त्र।"
+  },
+  "story": {
+    "en": "For the second reading he quotes verses from the Devī Bhāgavata and the Skanda Purāṇa on the twenty-eight Śaiva Āgamas, beginning with the Kāmika, born from Śiva’s five faces, Sadyojāta, Vāmadeva, Aghora, Tatpuruṣa and Īśāna. These belong to the ‘upward stream’; the others come from the stream below the navel.",
+    "hi": "दूसरे अर्थ के लिए वे देवीभागवत और स्कन्द पुराण के श्लोक उद्धृत करते हैं, जो कामिक आदि अट्ठाईस शैव आगमों को शिव के पाँच मुखों, सद्योजात, वामदेव, अघोर, तत्पुरुष और ईशान, से उत्पन्न बताते हैं। ये ‘ऊर्ध्व-स्रोत’ से हैं; अन्य नाभि के नीचे के स्रोत से।"
+  },
+  "commentary": null,
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. No commentary excerpt: his main gloss is one long Mīmāṃsā sentence that does not shorten cleanly. The edition prints कौमे for कौर्मे when introducing the Kūrma Purāṇa verse." }
+}

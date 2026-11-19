@@ -1,0 +1,42 @@
+{
+  "number": 445,
+  "verse": 94,
+  "slug": "mati",
+  "devanagari": "मतिः",
+  "iastSplit": "Matiḥ",
+  "archana": "ॐ मत्यै नमः",
+  "syllables": ["ma", "tiḥ"],
+  "words": [
+    { "sa": "मति", "meaning": { "en": "understanding, thought, wisdom", "hi": "मति, बुद्धि, समझ" } }
+  ],
+  "meaning": {
+    "en": "Understanding, the power of thought itself",
+    "hi": "मति, अर्थात् समझ और विचार की शक्ति"
+  },
+  "explanation": {
+    "en": "Mati is understanding: the power by which we think, weigh and know. She is that power, and every clear thought arises in her light.",
+    "hi": "मति का अर्थ है समझ: वह शक्ति जिससे हम सोचते, परखते और जानते हैं। वे स्वयं वही शक्ति हैं, और हर स्पष्ट विचार उन्हीं के प्रकाश में उठता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives the Vāyu Purāṇa’s account of the word: mati is so called because by it a person bound to experience measures, distinguishes and thinks. To show that mati is the Goddess, he quotes the Sūta Saṃhitā, which praises the supreme mati as anubhūti, direct experience. Understanding at its height is not opinion but that direct knowing, which is she.",
+    "hi": "भास्करराय वायु पुराण से इस शब्द की व्याख्या देते हैं: भोग से बँधा पुरुष जिससे मापता, भेद करता और मनन करता है, वह मति कहलाती है। मति देवी ही हैं, यह दिखाने के लिए वे सूत संहिता उद्धृत करते हैं, जो परा मति को अनुभूति, अर्थात् प्रत्यक्ष अनुभव, कहकर उसकी स्तुति करती है। अपने शिखर पर समझ कोई मत नहीं, वही प्रत्यक्ष ज्ञान है, और वह ज्ञान वे स्वयं हैं।"
+  },
+  "story": {
+    "en": "In Bhāskararāya’s grouping this is the third of seven quality-names, from Tuṣṭi (443) to Kānti (449), and he takes mati as jñāna, knowledge.",
+    "hi": "भास्करराय के वर्गीकरण में यह तुष्टि (443) से कान्ति (449) तक के सात गुण-नामों में तीसरा है, और वे मति को ज्ञान के अर्थ में लेते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "यानुभूतिरुदिता मतिः परा वेदमाननिरता शुभावहा ।",
+    "translation": {
+      "en": "(Quoting the Sūta Saṃhitā:) The supreme mati, declared to be direct experience, devoted to the Veda as its measure, bringer of good.",
+      "hi": "(सूत संहिता का उद्धरण:) जो परा मति अनुभूति कही गई है, वेद-प्रमाण में रत और शुभ देने वाली।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 445 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The commentary line is the Sūta Saṃhitā as quoted by Bhāskararāya; check the rendering of वेदमाननिरता. The rendering of the Vāyu Purāṇa verse (बिभर्ति मानं मनुते विभागं…) in the inner layer is approximate, and its last sentence is a reflection." }
+}

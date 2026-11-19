@@ -1,0 +1,43 @@
+{
+  "number": 548,
+  "verse": 112,
+  "slug": "vimarsha-rupini",
+  "devanagari": "विमर्शरूपिणी",
+  "iastSplit": "Vimarśa-rūpiṇī",
+  "archana": "ॐ विमर्शरूपिण्यै नमः",
+  "syllables": ["vi", "mar", "śa", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "विमर्श", "meaning": { "en": "self-awareness, the reflective power of consciousness", "hi": "विमर्श, चेतना का आत्म-बोध" } },
+    { "sa": "रूपिणी", "meaning": { "en": "whose form is", "hi": "रूप वाली, स्वरूपा" } }
+  ],
+  "meaning": {
+    "en": "Whose form is vimarśa, the self-awareness of pure light",
+    "hi": "जिनका स्वरूप विमर्श है, शुद्ध प्रकाश का आत्म-बोध"
+  },
+  "explanation": {
+    "en": "In Śrīvidyā the Absolute is prakāśa, pure light, and vimarśa is that light’s natural, pulsing awareness of itself. The Devī’s very form is this vimarśa.",
+    "hi": "श्रीविद्या में परब्रह्म ‘प्रकाश’ है, शुद्ध ज्योति, और ‘विमर्श’ उस प्रकाश का अपने प्रति स्वाभाविक, स्पन्दित बोध है। देवी का स्वरूप यही विमर्श है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes the Saubhāgyasudhodaya: this natural pulsation is a power in the form of vimarśa, and it alone brings forth the whole world of moving and unmoving things and withdraws it again. He also takes vimarśa as the word that names, and cites the Mātṛkāviveka: vimarśa needs prakāśa in order to shine, and prakāśa needs vimarśa in order to know itself.",
+    "hi": "भास्करराय सौभाग्यसुधोदय का वचन देते हैं: यह स्वाभाविक स्फुरण विमर्श-रूपा शक्ति है, और वही इस सम्पूर्ण चराचर जगत् को उत्पन्न करती है और फिर उसका संहार भी करती है। वे विमर्श को वाचक शब्द के अर्थ में भी लेते हैं और मातृकाविवेक उद्धृत करते हैं: विमर्श को प्रकट होने के लिए प्रकाश चाहिए, और प्रकाश को स्वयं को जानने के लिए विमर्श।"
+  },
+  "story": {
+    "en": "This pair, light and its self-awareness, is central to Śrīvidyā and to Kashmir Śaiva thought, where Śiva is prakāśa and Śakti is vimarśa. Names 548 to 550 form one half-verse: her form is vimarśa, she is Vidyā, and she is mother of the world.",
+    "hi": "प्रकाश और उसका आत्म-बोध, यह युगल श्रीविद्या और काश्मीर शैव दर्शन का केन्द्र है, जहाँ शिव प्रकाश हैं और शक्ति विमर्श। नाम 548 से 550 एक अर्ध-श्लोक बनाते हैं: उनका रूप विमर्श है, वे विद्या हैं, और वे जगत् की जननी हैं।"
+  },
+  "commentary": {
+    "sanskrit": "प्रकाशात्मकस्य परब्रह्मणः स्वाभाविकं स्फुरणं विमर्श इत्युच्यते ।",
+    "translation": {
+      "en": "The natural pulsation (sphuraṇa) of the supreme Brahman, whose nature is light (prakāśa), is called vimarśa.",
+      "hi": "प्रकाश-स्वरूप परब्रह्म का स्वाभाविक स्फुरण ‘विमर्श’ कहलाता है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 548 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The equation Śiva = prakāśa, Śakti = vimarśa in the story is the standard Śrīvidyā teaching, not a sentence of Bhāskararāya here; he says vimarśa is her form, her śakti (स एव रूपं शक्तिरस्याः)." }
+}

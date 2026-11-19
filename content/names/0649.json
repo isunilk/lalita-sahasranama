@@ -1,0 +1,42 @@
+{
+  "number": 649,
+  "verse": 129,
+  "slug": "adrishya",
+  "devanagari": "अदृश्या",
+  "iastSplit": "Adṛśyā",
+  "archana": "ॐ अदृश्यायै नमः",
+  "syllables": ["a", "dṛś", "yā"],
+  "words": [
+    { "sa": "अदृश्य", "meaning": { "en": "invisible, not an object of sight", "hi": "अदृश्य, जो देखा न जा सके" } }
+  ],
+  "meaning": {
+    "en": "She who cannot be seen",
+    "hi": "जो देखी नहीं जा सकतीं"
+  },
+  "explanation": {
+    "en": "Adṛśyā means invisible, not an object for the eyes. She is unlike anything that can be seen, and no sense organ can grasp her.",
+    "hi": "अदृश्या का अर्थ है जो आँखों का विषय न हो। वे देखी जा सकने वाली किसी भी वस्तु जैसी नहीं हैं, और कोई इन्द्रिय उन्हें ग्रहण नहीं कर सकती।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives two reasons: she is different in kind from everything seen, and she is beyond the reach of the eye and the other senses. He cites the Upaniṣad: one cannot see the seer of seeing. She is invisible not because she is far away but because she is the one who sees.",
+    "hi": "भास्करराय दो कारण बताते हैं: वे दिखाई देने वाली हर वस्तु से भिन्न प्रकार की हैं, और आँख आदि इन्द्रियों की पहुँच से परे हैं। वे उपनिषद् का वचन उद्धृत करते हैं: दृष्टि के द्रष्टा को देखा नहीं जा सकता। वे इसलिए अदृश्य नहीं कि दूर हैं, बल्कि इसलिए कि देखने वाली वे स्वयं हैं।"
+  },
+  "story": {
+    "en": "He also quotes the third book of the Devī Bhāgavata, which says that the form of the attributeless is never within the range of sight. The first line of verse 129 continues with three more names of the same kind.",
+    "hi": "वे देवीभागवत के तीसरे स्कन्ध का भी उल्लेख करते हैं, जो कहता है कि निर्गुण का रूप कभी दृष्टि का विषय नहीं होता। श्लोक 129 की पहली पंक्ति इसी प्रकार के तीन और नामों के साथ आगे बढ़ती है।"
+  },
+  "commentary": {
+    "sanskrit": "दृश्यविलक्षणत्वाददृश्या । चक्षुरादीन्द्रियायोग्या वा ।",
+    "translation": {
+      "en": "She is Adṛśyā, the unseen, because she is unlike all that is seen; or, because she is not fit to be grasped by the eye and the other senses.",
+      "hi": "दृश्य वस्तुओं से विलक्षण होने के कारण वे अदृश्या हैं; अथवा, वे नेत्र आदि इन्द्रियों के ग्रहण योग्य नहीं हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 649 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya cites न दृष्टेर्द्रष्टारं पश्येः only as śruti (it is Bṛhadāraṇyaka Upaniṣad 3.4.2). The last sentence of the inner layer is a reflection." }
+}

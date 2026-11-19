@@ -1,0 +1,36 @@
+{
+  "number": 283,
+  "verse": 66,
+  "slug": "sahasrakshi",
+  "devanagari": "सहस्राक्षी",
+  "iastSplit": "Sahasrākṣī",
+  "archana": "ॐ सहस्राक्ष्यै नमः",
+  "syllables": ["sa", "has", "rāk", "ṣī"],
+  "words": [
+    {"sa": "सहस्र", "meaning": {"en": "a thousand; countless", "hi": "सहस्र, हज़ार; अनगिनत"}},
+    {"sa": "अक्षि", "meaning": {"en": "eye", "hi": "नेत्र, आँख"}}
+  ],
+  "meaning": {
+    "en": "She of a thousand eyes",
+    "hi": "सहस्र नेत्रों वाली"
+  },
+  "explanation": {
+    "en": "Sahasra is a thousand and akṣi an eye. She sees through every eye there is; nothing anywhere is hidden from her. The name continues the Vedic hymn, which praises the Cosmic Person as ‘thousand-eyed’.",
+    "hi": "‘सहस्र’ हज़ार है और ‘अक्षि’ आँख। वे हर आँख से देखती हैं; कहीं कुछ भी उनसे छिपा नहीं। यह नाम उसी वैदिक सूक्त को आगे बढ़ाता है, जो विराट् पुरुष को ‘सहस्राक्ष’ कहता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya’s comment here is grammatical: in a possessive compound akṣi, ‘eye’, takes the form akṣa by Pāṇini’s rule bahuvrīhau sakthyakṣṇoḥ, and the feminine ending gives sahasrākṣī. He gives no hidden meaning beyond the Vedic sense of countless eyes. For the devotee it means that no prayer and no need goes unseen.",
+    "hi": "यहाँ भास्करराय की टिप्पणी व्याकरण की है: बहुव्रीहि समास में ‘अक्षि’ (आँख) पाणिनि के सूत्र ‘बहुव्रीहौ सक्थ्यक्ष्णोः’ से ‘अक्ष’ बनता है, और स्त्रीलिंग प्रत्यय लगकर ‘सहस्राक्षी’ होता है। अनगिनत नेत्रों के वैदिक अर्थ के अतिरिक्त वे कोई गूढ़ अर्थ नहीं देते। भक्त के लिए इसका अर्थ है कि कोई प्रार्थना और कोई आवश्यकता उनकी दृष्टि से नहीं छूटती।"
+  },
+  "story": {
+    "en": "He quotes the Devī Bhāgavata (third book), which describes the Devī as seen from afar: lovely, with a thousand eyes, a thousand hands, and a thousand heads and feet. The name is the middle one of the three that follow the Puruṣa Sūkta.",
+    "hi": "वे देवीभागवत (तीसरा स्कन्ध) का वर्णन उद्धृत करते हैं, जिसमें दूर से दिखती देवी मनोहर हैं, सहस्र नेत्रों, सहस्र हाथों और सहस्र सिरों तथा चरणों वाली। पुरुषसूक्त का अनुसरण करने वाले तीन नामों में यह बीच का नाम है।"
+  },
+  "commentary": null,
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Commentary left empty: Bhāskararāya’s only gloss is the grammatical rule, printed with quotation marks run into the words. The last sentence of the inner layer is a reflection." }
+}

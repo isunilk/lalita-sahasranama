@@ -1,0 +1,44 @@
+{
+  "number": 555,
+  "verse": 113,
+  "slug": "kali-kalmasha-nashini",
+  "devanagari": "कलिकल्मषनाशिनी",
+  "iastSplit": "Kali-kalmaṣa-nāśinī",
+  "archana": "ॐ कलिकल्मषनाशिन्यै नमः",
+  "syllables": ["ka", "li", "kal", "ma", "ṣa", "nā", "śi", "nī"],
+  "words": [
+    { "sa": "कलि", "meaning": { "en": "the Kali age", "hi": "कलियुग" } },
+    { "sa": "कल्मष", "meaning": { "en": "sin, impurity", "hi": "कल्मष, पाप" } },
+    { "sa": "नाशिनी", "meaning": { "en": "who destroys", "hi": "नाश करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who destroys the sins of the Kali age",
+    "hi": "जो कलियुग के पापों का नाश करती हैं"
+  },
+  "explanation": {
+    "en": "Kali is the present dark age, kalmaṣa is sin or impurity, and nāśinī she who destroys. Bhāskararāya says that in the Kali age an excess of sin cannot be avoided, and she alone destroys it.",
+    "hi": "‘कलि’ वर्तमान अन्धकारमय युग है, ‘कल्मष’ पाप या मल, और ‘नाशिनी’ नष्ट करने वाली। भास्करराय कहते हैं कि कलियुग में पाप की अधिकता अनिवार्य है, और उसका नाश वे ही करती हैं।"
+  },
+  "inner": {
+    "en": "The remedy he points to is her name. He quotes the Kūrma Purāṇa, that the chanting of the Devī’s names quiets the flood of sins of the Kali age, and the Brahmāṇḍa Purāṇa, that remembering the feet of Parāśakti is the highest expiation for every sin, done knowingly or not. So this name points back to the hymn itself.",
+    "hi": "वे जिस उपाय की ओर संकेत करते हैं, वह उनका नाम है। वे कूर्म पुराण का वचन देते हैं कि देवी के नामों का कीर्तन कलियुग के पाप-समूह को शान्त करता है, और ब्रह्माण्ड पुराण का कि जाने या अनजाने किए गए हर पाप का परम प्रायश्चित्त पराशक्ति के चरणों का स्मरण है। इस प्रकार यह नाम स्वयं इस स्तोत्र की ओर लौटता है।"
+  },
+  "story": {
+    "en": "The Lalitā Sahasranāma itself is part of the Brahmāṇḍa Purāṇa, the second source Bhāskararāya quotes here.",
+    "hi": "स्वयं ललिता सहस्रनाम ब्रह्माण्ड पुराण का अंश है, वही दूसरा ग्रन्थ जिसका वचन भास्करराय यहाँ देते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "शमायालं जलं वह्नेस्तमसो भास्करोदयः । शान्त्यै कलेरघौघस्य देवीनामानुकीर्तनम् ।",
+    "translation": {
+      "en": "Water is enough to quench fire, and the sunrise to end darkness; to quiet the flood of sins of the Kali age, the chanting of the Devī’s names.",
+      "hi": "अग्नि को शान्त करने के लिए जल पर्याप्त है, और अन्धकार के लिए सूर्योदय; कलियुग के पाप-समूह की शान्ति के लिए देवी के नामों का कीर्तन।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 555 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The commentary excerpt is the Kūrma Purāṇa verse as Bhāskararāya quotes it. His own sentence reads तन्नाशमन्यसाध्यमेषैव करोति, where अन्यसाध्यम् looks like a misprint for अन्यासाध्यम् (‘which others cannot achieve’); the explanation follows that sense." }
+}

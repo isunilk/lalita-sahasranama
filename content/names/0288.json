@@ -1,0 +1,45 @@
+{
+  "number": 288,
+  "verse": 67,
+  "slug": "punyapunya-phala-prada",
+  "devanagari": "पुण्यापुण्यफलप्रदा",
+  "iastSplit": "Puṇyāpuṇya-phala-pradā",
+  "archana": "ॐ पुण्यापुण्यफलप्रदायै नमः",
+  "syllables": ["puṇ", "yā", "puṇ", "ya", "pha", "lap", "ra", "dā"],
+  "words": [
+    {"sa": "पुण्य", "meaning": {"en": "merit", "hi": "पुण्य"}},
+    {"sa": "अपुण्य", "meaning": {"en": "demerit, sin", "hi": "अपुण्य, पाप"}},
+    {"sa": "फल", "meaning": {"en": "fruit, result", "hi": "फल, परिणाम"}},
+    {"sa": "प्रदा", "meaning": {"en": "giver", "hi": "देने वाली"}}
+  ],
+  "meaning": {
+    "en": "She who grants the fruits of merit and of sin",
+    "hi": "पुण्य और पाप के फल देने वाली"
+  },
+  "explanation": {
+    "en": "Puṇya is merit and apuṇya its opposite; phala is fruit. She gives each deed its fruit, good for good and painful for wrong. The law by which actions bear results is hers.",
+    "hi": "‘पुण्य’ सत्कर्म है और ‘अपुण्य’ उसका उलटा, पाप; ‘फल’ परिणाम है। वे हर कर्म को उसका फल देती हैं: अच्छे को अच्छा, बुरे को दुःखदायी। कर्म जिस नियम से फल देते हैं, वह उन्हीं का है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya: she gives the fruits of merit and sin, heaven and hell, so that the order she set up in the Veda stands firm. He cites the Brahma Sūtra that concludes the fruit of action comes from the Lord, and the sūtra that clears the Lord of partiality and cruelty, since he gives according to each one’s deeds. So the one who is beyond merit and sin (name 255) is also the one who keeps their account.",
+    "hi": "भास्करराय कहते हैं: वे पुण्य और पाप के फल, स्वर्ग और नरक, देती हैं, जिससे वेद में उनकी स्थापित व्यवस्था दृढ़ बनी रहे। वे ब्रह्मसूत्र का वह निर्णय उद्धृत करते हैं कि कर्म का फल ईश्वर से ही मिलता है, और वह सूत्र भी जो उन्हें पक्षपात और निर्दयता के दोष से मुक्त करता है, क्योंकि वे हर एक को उसके कर्मों के अनुसार देते हैं। इस प्रकार जो धर्म और अधर्म से परे हैं (नाम 255), वही उनका लेखा भी रखती हैं।"
+  },
+  "story": {
+    "en": "He quotes the Kūrma Purāṇa, where the Devī says that Yama casts those who neglect dharma into the hells by her command, and Indra and the gods lead those who follow it into heaven, also by her command. A line he quotes from a hymn says the same: when the sacrifice itself has gone to sleep, you stay awake to join the sacrificer with its fruit.",
+    "hi": "वे कूर्म पुराण उद्धृत करते हैं, जहाँ देवी कहती हैं कि जो धर्म नहीं करते उन्हें यम मेरी आज्ञा से नरकों में गिराते हैं, और जो वेदोक्त धर्म करते हैं उन्हें इन्द्र आदि मेरी आज्ञा से स्वर्ग ले जाते हैं। एक स्तोत्र की जो पंक्ति वे उद्धृत करते हैं, वह भी यही कहती है: यज्ञ के सो जाने पर भी तुम जागती रहती हो और यज्ञ करने वाले को उसका फल देती हो।"
+  },
+  "commentary": {
+    "sanskrit": "पुण्यपापयोः फले स्वर्गनरकौ प्रददातीति तथा ।",
+    "translation": {
+      "en": "She grants the fruits of merit and sin, heaven and hell; hence the name.",
+      "hi": "वे पुण्य और पाप के फल, स्वर्ग और नरक, प्रदान करती हैं; इसलिए ऐसा कहा गया।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 288 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The line क्रतौ सुप्ते जाग्रत्त्वमसि फलयोगे क्रतुमताम् is quoted by Bhāskararāya without a source; it appears to be from the Śiva Mahimnaḥ Stotra (verse 20), where it is addressed to Śiva. The Brahma Sūtras he cites are फलमत उपपत्तेः and वैषम्यनैर्घृण्ये न सापेक्षत्वात्. The last sentence of the inner layer is a reflection." }
+}

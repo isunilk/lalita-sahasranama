@@ -1,0 +1,37 @@
+{
+  "number": 664,
+  "verse": 131,
+  "slug": "loka-yatra-vidhayini",
+  "devanagari": "लोकयात्राविधायिनी",
+  "iastSplit": "Loka-yātrā-vidhāyinī",
+  "archana": "ॐ लोकयात्राविधायिन्यै नमः",
+  "syllables": ["lo", "ka", "yāt", "rā", "vi", "dhā", "yi", "nī"],
+  "words": [
+    { "sa": "लोक", "meaning": { "en": "world", "hi": "लोक, संसार" } },
+    { "sa": "यात्रा", "meaning": { "en": "going on, the ongoing course of life", "hi": "यात्रा, जीवन का क्रम" } },
+    { "sa": "विधायिनी", "meaning": { "en": "who ordains, arranges", "hi": "विधान करने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who ordains the course of the worlds",
+    "hi": "लोकों की यात्रा का विधान करने वाली"
+  },
+  "explanation": {
+    "en": "Loka is world, yātrā is the going on, the ongoing course of life, and vidhāyinī is she who ordains or arranges. She keeps the worlds moving on their course.",
+    "hi": "लोक का अर्थ है संसार, यात्रा का अर्थ है चलते रहना, जीवन का निरन्तर क्रम, और विधायिनी का अर्थ है विधान करने वाली। वे लोकों को उनके मार्ग पर चलाती रहती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya takes the worlds as the fourteen and says it is her very nature to order their course, which he also glosses as their protection. He gives no further hidden meaning. The ordinary round of life, birth and work and passing, is not outside her care but is her own arrangement.",
+    "hi": "भास्करराय लोकों को चौदह लोक मानते हैं और कहते हैं कि उनकी यात्रा का विधान करना देवी का स्वभाव ही है; यात्रा का अर्थ वे रक्षा भी बताते हैं। वे इसका कोई और गूढ़ अर्थ नहीं देते। जीवन का साधारण चक्र, जन्म, कर्म और विदा, उनकी देखरेख से बाहर नहीं, उन्हीं का विधान है।"
+  },
+  "story": {
+    "en": "The fourteen worlds are the seven above, from Bhū to Satya, and the seven below, from Atala to Pātāla. With Aṣṭamūrti and Ajājaitrī this name completes the first line of verse 131.",
+    "hi": "चौदह लोक हैं: ऊपर के सात, भू से सत्य तक, और नीचे के सात, अतल से पाताल तक। अष्टमूर्ति और अजाजैत्री के साथ यह नाम श्लोक 131 की पहली पंक्ति पूरी करता है।"
+  },
+  "commentary": null,
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s gloss reads यात्रां पलयं संरक्षणं वा; पलयं looks like a misprint (perhaps for पालनं, or प्रलयं), so the passage is paraphrased and not quoted. The list of the fourteen worlds in the story is general Purāṇic context, not from his comment. The last sentence of the inner layer is a reflection." }
+}

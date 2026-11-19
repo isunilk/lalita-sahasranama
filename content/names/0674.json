@@ -1,0 +1,42 @@
+{
+  "number": 674,
+  "verse": 132,
+  "slug": "brahmani",
+  "devanagari": "ब्राह्मणी",
+  "iastSplit": "Brāhmaṇī",
+  "archana": "ॐ ब्राह्मण्यै नमः",
+  "syllables": ["brāh", "ma", "ṇī"],
+  "words": [
+    { "sa": "ब्राह्मणी", "meaning": { "en": "feminine of brāhmaṇa; also a plant of that name", "hi": "ब्राह्मण का स्त्रीलिंग; इस नाम की एक औषधि भी" } }
+  ],
+  "meaning": {
+    "en": "She who is Brāhmaṇī, the Śakti of Śiva the Brāhmaṇa",
+    "hi": "ब्राह्मणी, ब्राह्मण कहे गए शिव की शक्ति"
+  },
+  "explanation": {
+    "en": "Brāhmaṇī is the feminine of brāhmaṇa. Bhāskararāya’s fullest reading is that scripture calls Śiva a brāhmaṇa, and so she, his Śakti, is Brāhmaṇī.",
+    "hi": "ब्राह्मणी ‘ब्राह्मण’ का स्त्रीलिंग है। भास्करराय का सबसे विस्तृत अर्थ यह है कि शास्त्र शिव को ब्राह्मण कहता है, और उनकी शक्ति होने से देवी ब्राह्मणी हैं।"
+  },
+  "inner": {
+    "en": "From a lexicon he first gives ordinary senses: a plant called brāhmaṇī, or simply a woman of the brāhmaṇa class. From the Samayācāra Smṛti he adds a third: Brāhmaṇī is a particular form of saṃvit, consciousness. He then gathers texts that call Śiva the brāhmaṇa among the gods and the deity of brāhmaṇas, and so the name ties her to Śiva.",
+    "hi": "एक कोश से वे पहले सामान्य अर्थ देते हैं: ब्राह्मणी नाम की एक औषधि, या केवल ब्राह्मण वर्ण की स्त्री। समयाचारस्मृति से वे तीसरा अर्थ जोड़ते हैं: ब्राह्मणी एक विशेष संवित्, अर्थात् चेतना, का रूप है। फिर वे वे वचन एकत्र करते हैं जो शिव को देवताओं में ब्राह्मण और ब्राह्मणों का देवता कहते हैं, और इस प्रकार यह नाम उन्हें शिव से जोड़ता है।"
+  },
+  "story": {
+    "en": "Bhāskararāya cites a Vedic passage addressed to Śiva as Virūpākṣa: ‘you are the brāhmaṇa among the gods, I am the brāhmaṇa among men’, and says the same is remembered in several Purāṇas, among them the Kūrma and the Liṅga. The next name, Brāhmī, carries the thought further.",
+    "hi": "भास्करराय विरूपाक्ष शिव को सम्बोधित एक वैदिक वचन उद्धृत करते हैं: ‘तुम देवताओं में ब्राह्मण हो, मैं मनुष्यों में ब्राह्मण हूँ’, और बताते हैं कि कूर्म और लिङ्ग आदि कई पुराणों में भी यही स्मरण किया गया है। अगला नाम, ब्राह्मी, इस विचार को आगे ले जाता है।"
+  },
+  "commentary": {
+    "sanskrit": "अथवा शिवस्य ब्राह्मणत्वजातिमत्त्वाद्ब्राह्मणी ।",
+    "translation": {
+      "en": "Or, she is Brāhmaṇī because Śiva belongs to the brāhmaṇa class.",
+      "hi": "अथवा, शिव ब्राह्मण जाति के हैं, इसलिए वे ब्राह्मणी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 674 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya introduces the Virūpākṣa passage with छन्दोग्ये श्रूयते; it is not located further here. The sense of संवित् in the Samayācāra Smṛti line (ब्राह्मणी श्वेतपुष्पाढ्या संवित्सा देवतात्मिका) may be technical; a scholar should check it. Slug: name 821 ब्रह्माणी would also romanise as brahmani; check for a clash." }
+}

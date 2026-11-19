@@ -1,0 +1,43 @@
+{
+  "number": 277,
+  "verse": 65,
+  "slug": "bhaga-malini",
+  "devanagari": "भगमालिनी",
+  "iastSplit": "Bhaga-mālinī",
+  "archana": "ॐ भगमालिन्यै नमः",
+  "syllables": ["bha", "ga", "mā", "li", "nī"],
+  "words": [
+    {"sa": "भग", "meaning": {"en": "the six divine excellences", "hi": "भग, छह दिव्य ऐश्वर्य"}},
+    {"sa": "मालिनी", "meaning": {"en": "wearing a garland; holding", "hi": "माला धारण करने वाली; धारण करने वाली"}}
+  ],
+  "meaning": {
+    "en": "She who wears the six divine excellences like a garland",
+    "hi": "छहों दिव्य ऐश्वर्यों को माला की भाँति धारण करने वाली"
+  },
+  "explanation": {
+    "en": "Bhaga means the six excellences that make the Divine what it is, among them sovereignty, dharma, fame and fortune. Mālinī means one who wears a garland. She wears them all together, as one garland.",
+    "hi": "‘भग’ का अर्थ है वे छह ऐश्वर्य जो परमेश्वर को परमेश्वर बनाते हैं, जैसे ऐश्वर्य, धर्म, यश और श्री। ‘मालिनी’ का अर्थ है माला धारण करने वाली। वे इन सबको एक साथ, एक माला की तरह, धारण करती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya derives the name from the root mal, ‘to hold’: she holds the six excellences. Or she is the form of all things that bear the mark of the feminine, for the Liṅga and Devī Bhāgavata Purāṇas say that whatever bears the mark of the masculine is a glory of Śiva, and whatever bears the mark of the feminine is a glory of Gaurī. In this reading the whole half of creation that gives birth and shelter is her garland.",
+    "hi": "भास्करराय नाम को ‘मल्’ (धारण करना) धातु से निकालते हैं: वे छहों ऐश्वर्यों को धारण करती हैं। अथवा वे स्त्री-चिह्न वाली सब वस्तुओं का रूप हैं, क्योंकि लिङ्ग पुराण और देवीभागवत कहते हैं कि जो कुछ पुरुष-चिह्न वाला है वह शिव की विभूति है, और जो कुछ स्त्री-चिह्न वाला है वह गौरी की विभूति। इस अर्थ में सृष्टि का वह सारा आधा भाग, जो जन्म देता और आश्रय देता है, उनकी माला है।"
+  },
+  "story": {
+    "en": "Bhagamālinī is also one of the fifteen Nityā goddesses of the lunar days in Śrīvidyā, and Bhāskararāya offers this as a further reading. He notes that in her mantra, in the form given in the Dakṣiṇāmūrti Saṃhitā, the word bhaga recurs many times, and most of her attendant deities’ names begin with it; hence the name.",
+    "hi": "श्रीविद्या में भगमालिनी तिथियों की पन्द्रह नित्या देवियों में से भी एक हैं, और भास्करराय इसे एक और अर्थ के रूप में देते हैं। वे बताते हैं कि दक्षिणामूर्ति संहिता में दिए गए उनके मन्त्र के रूप में ‘भग’ शब्द अनेक बार आता है, और उनकी आवरण-देवताओं के नाम भी प्रायः ‘भग’ से आरम्भ होते हैं; इसी बहुलता से यह नाम है।"
+  },
+  "commentary": {
+    "sanskrit": "भगं षाड्गुण्यं मलति धारयतीति भगमालिनी ।",
+    "translation": {
+      "en": "Bhaga is the sixfold excellence; she who holds it (malati, that is, dhārayati) is Bhagamālinī.",
+      "hi": "भग छह गुणों का समूह है; जो उसे धारण करती हैं (मलति, अर्थात् धारयति), वे भगमालिनी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 277 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya says only ‘a particular Tithi-nityā’; the fifteen Nityās are named here in general terms. The last sentence of the inner layer is a reflection." }
+}

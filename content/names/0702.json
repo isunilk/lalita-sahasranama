@@ -1,0 +1,43 @@
+{
+  "number": 702,
+  "verse": 137,
+  "slug": "sarva-ga",
+  "devanagari": "सर्वगा",
+  "iastSplit": "Sarva-gā",
+  "archana": "ॐ सर्वगायै नमः",
+  "syllables": ["sar", "va", "gā"],
+  "words": [
+    { "sa": "सर्व", "meaning": { "en": "all", "hi": "सब, सभी" } },
+    { "sa": "ग", "meaning": { "en": "going to, reaching, pervading", "hi": "जाने वाली, पहुँचने वाली, व्याप्त" } }
+  ],
+  "meaning": {
+    "en": "Present in everything",
+    "hi": "सर्वत्र व्याप्त, सबमें विद्यमान"
+  },
+  "explanation": {
+    "en": "She goes everywhere, pervading all things. Bhāskararāya explains that she reaches every single thing as one with it, not as something separate. He adds that she is present in every holy place, and is the inner controller of all.",
+    "hi": "वे सर्वत्र जाती हैं, सब वस्तुओं में व्याप्त हैं। भास्करराय समझाते हैं कि वे हर वस्तु तक उससे अभिन्न होकर पहुँचती हैं, अलग वस्तु के रूप में नहीं। वे यह भी जोड़ते हैं कि वे हर तीर्थ में विद्यमान हैं और सबकी अन्तर्यामिनी हैं।"
+  },
+  "inner": {
+    "en": "This name answers the third kind of limit, the difference between things: since she is one with everything, “this is not that” does not bound her. He quotes the Devī Purāṇa: the whole world, moving and unmoving, is pervaded by the Devī; she is in trees, earth, wind, sky, water and fire; and one who knows her thus dissolves into her.",
+    "hi": "यह नाम तीसरी सीमा, वस्तुओं के पारस्परिक भेद, का उत्तर देता है: क्योंकि वे हर वस्तु से अभिन्न हैं, ‘यह वह नहीं है’ उन्हें सीमित नहीं करता। वे देवी पुराण उद्धृत करते हैं: यह सम्पूर्ण चर-अचर जगत् देवी से व्याप्त है; वे वृक्षों, पृथ्वी, वायु, आकाश, जल और अग्नि में हैं; और जो उन्हें ऐसा जानता है, वह उन्हीं में लीन हो जाता है।"
+  },
+  "story": {
+    "en": "Bhāskararāya tells a story from the Varāha Purāṇa. A form of the Goddess named Sṛṣṭi was performing austerities on the White Mountain, and when Brahmā offered her a boon she said: “I cannot stay in one place; I ask to be everywhere.” Brahmā replied: “You of all forms, you will be all-pervading.”",
+    "hi": "भास्करराय वराह पुराण की एक कथा बताते हैं। देवी का ‘सृष्टि’ नामक रूप श्वेत पर्वत पर तप कर रहा था; जब ब्रह्मा ने वर माँगने को कहा, तो देवी बोलीं: ‘मैं एक स्थान पर नहीं रह सकती; मैं सर्वत्र होने का वर माँगती हूँ।’ ब्रह्मा ने कहा: ‘हे सर्वरूपे, तुम सर्वगा होगी।’"
+  },
+  "commentary": {
+    "sanskrit": "सर्वं वस्तुमात्रं गच्छत्यभेदेन प्राप्नोतीति सर्वगा ।",
+    "translation": {
+      "en": "She goes to, that is, reaches, everything there is, as one with it: so she is Sarvagā.",
+      "hi": "वे हर वस्तु तक जाती हैं, अर्थात् उससे अभिन्न होकर उसे प्राप्त होती हैं; इसलिए सर्वगा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 702 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya also gives the grammar (suffix ड by अन्तात्यन्ताध्व…) and names a figure of speech in the Varāha Purāṇa passage; these are not included. ‘Sṛṣṭi’ renders त्रिमूर्तिषु सृष्टिनामिकाम्; check." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 706,
+  "verse": 137,
+  "slug": "guhamba",
+  "devanagari": "गुहाम्बा",
+  "iastSplit": "Guhāmbā",
+  "archana": "ॐ गुहाम्बायै नमः",
+  "syllables": ["gu", "hām", "bā"],
+  "words": [
+    { "sa": "गुहा", "meaning": { "en": "cave, the hidden place within; read also as Guha, Skanda", "hi": "गुहा, हृदय की गुप्त गुफा; गुह अर्थात् स्कन्द भी" } },
+    { "sa": "अम्बा", "meaning": { "en": "mother", "hi": "माता, माँ" } }
+  ],
+  "meaning": {
+    "en": "The Mother in the cave; the mother of Guha",
+    "hi": "गुहा में स्थित माँ; गुह (स्कन्द) की माता"
+  },
+  "explanation": {
+    "en": "Bhāskararāya gives two readings. She is the Mother who dwells in the cave, the hidden place within. Or she is the mother of Guha, that is, Skanda.",
+    "hi": "भास्करराय दो अर्थ देते हैं। वे गुहा, अर्थात् भीतर के गुप्त स्थान, में स्थित माँ हैं। अथवा वे गुह, अर्थात् स्कन्द, की माता हैं।"
+  },
+  "inner": {
+    "en": "In his argument this name voices the next doubt: difference is taught by scripture itself. The Kaṭha Upaniṣad speaks of two who have entered the cave, whom knowers of Brahman call shadow and sunlight, and the dual number marks them as two; Bhāskararāya says she is the shadow. The story of Skanda’s birth, known only from scripture, also assumes difference. The next name gives the answer.",
+    "hi": "उनके तर्क में यह नाम अगली शंका रखता है: भेद तो स्वयं शास्त्र सिखाता है। कठ उपनिषद् गुहा में प्रविष्ट दो की बात करता है, जिन्हें ब्रह्मवेत्ता छाया और आतप (धूप) कहते हैं, और द्विवचन उन्हें दो बताता है; भास्करराय कहते हैं कि देवी वह छाया हैं। स्कन्द के जन्म की कथा भी, जो केवल शास्त्र से ज्ञात है, भेद को मानकर चलती है। अगला नाम इसका उत्तर देता है।"
+  },
+  "story": {
+    "en": "Bhāskararāya outlines the story of Skanda: the gods pray to her for the slaying of the demon Tāraka; Śiva and Śakti unite; their union is interrupted, which brings anger and a curse; and Skanda is born through Agni, the Gaṅgā and a thicket of reeds.",
+    "hi": "भास्करराय स्कन्द की कथा संक्षेप में बताते हैं: तारकासुर के वध के लिए देवता उनसे प्रार्थना करते हैं; शिव और शक्ति का समागम होता है; उसमें विघ्न पड़ता है, जिससे क्रोध और शाप होते हैं; और फिर अग्नि, गंगा और सरकण्डों के वन के योग से स्कन्द का जन्म होता है।"
+  },
+  "commentary": {
+    "sanskrit": "गुहायां स्थिताम्बा । छायारूपेति यावत् ।",
+    "translation": {
+      "en": "The Mother abiding in the guhā, the cave; that is, she is in the form of the shadow.",
+      "hi": "गुहा में स्थित अम्बा; अर्थात् छाया-रूपा।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 706 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya treats this name as stating an objection (शङ्कते) that the next name answers; both readings are his. He calls the compound मध्यमपदलोपी. The Kaṭha verse he quotes is ऋतं पिबन्तौ…; it is paraphrased, not translated in full." }
+}

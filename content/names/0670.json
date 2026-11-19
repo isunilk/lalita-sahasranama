@@ -1,0 +1,43 @@
+{
+  "number": 670,
+  "verse": 132,
+  "slug": "vasu-da",
+  "devanagari": "वसुदा",
+  "iastSplit": "Vasu-dā",
+  "archana": "ॐ वसुदायै नमः",
+  "syllables": ["va", "su", "dā"],
+  "words": [
+    { "sa": "वसु", "meaning": { "en": "wealth, riches; gems", "hi": "धन, रत्न" } },
+    { "sa": "दा", "meaning": { "en": "giver", "hi": "देने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who gives wealth and precious things",
+    "hi": "धन और रत्न देने वाली"
+  },
+  "explanation": {
+    "en": "Vasu means wealth; Bhāskararāya glosses it as riches and gems, and -dā means ‘giver’. She is the one who grants prosperity.",
+    "hi": "वसु का अर्थ है धन; भास्करराय इसका अर्थ धन और रत्न बताते हैं, और ‘दा’ का अर्थ है देने वाली। वे समृद्धि प्रदान करने वाली हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya grounds it in the same Bṛhadāraṇyaka line as Annadā: the great unborn Self is vasudāna, the giver of wealth, and one who knows this finds wealth. He gives no further hidden meaning. Read with that line, the greatest wealth she gives is the knowledge of that Self.",
+    "hi": "भास्करराय इसे अन्नदा वाले उसी बृहदारण्यक-वचन पर आधारित करते हैं: महान अजन्मा आत्मा ‘वसुदान’, अर्थात् धन का दाता है, और जो ऐसा जानता है वह धन पाता है। वे इसका कोई और गूढ़ अर्थ नहीं देते। उस वचन के प्रकाश में, वे जो सबसे बड़ा धन देती हैं, वह उसी आत्मा का ज्ञान है।"
+  },
+  "story": {
+    "en": "Vasu is also the name of a group of eight gods, the Vasus, but Bhāskararāya takes the word here simply as wealth. In this same line the giver of food and wealth is also the Ancient One and the oneness of Brahman and the self.",
+    "hi": "‘वसु’ आठ देवताओं के एक गण, वसुओं, का भी नाम है, पर भास्करराय यहाँ इसका अर्थ केवल धन लेते हैं। इसी पंक्ति में अन्न और धन देने वाली ही वृद्धा भी हैं और ब्रह्म तथा आत्मा की एकता का स्वरूप भी।"
+  },
+  "commentary": {
+    "sanskrit": "वसु धनं रत्नं च ददाति ।",
+    "translation": {
+      "en": "She gives vasu, wealth and gems.",
+      "hi": "वे वसु, अर्थात् धन और रत्न, देती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 670 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The last sentence of the inner layer is a reflection." }
+}

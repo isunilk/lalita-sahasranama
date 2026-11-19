@@ -1,0 +1,36 @@
+{
+  "number": 523,
+  "verse": 107,
+  "slug": "shad-anana",
+  "devanagari": "षडानना",
+  "iastSplit": "Ṣaḍ-ānanā",
+  "archana": "ॐ षडाननायै नमः",
+  "syllables": ["ṣa", "ḍā", "na", "nā"],
+  "words": [
+    { "sa": "षष्", "meaning": { "en": "six", "hi": "छह" } },
+    { "sa": "आनन", "meaning": { "en": "face", "hi": "मुख" } }
+  ],
+  "meaning": {
+    "en": "She who has six faces",
+    "hi": "छह मुखों वाली"
+  },
+  "explanation": {
+    "en": "Ṣaṭ is six and ānana is face. As Hākinī, the Devī has six faces. Ṣaḍānana is also a well-known name of Skanda, the six-faced son of Śiva; here it describes the yoginī of the Ājñā lotus.",
+    "hi": "‘षट्’ का अर्थ है छह और ‘आनन’ का मुख। हाकिनी के रूप में देवी के छह मुख हैं। ‘षडानन’ शिव के पुत्र स्कन्द का भी प्रसिद्ध नाम है; यहाँ यह आज्ञा कमल की योगिनी का वर्णन है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the plain sense, six faces. Read across the series, the faces grow in number: Ḍākinī has one, Rākinī two, Lākinī three, Kākinī four, Sākinī five and Hākinī six, and at the crown Yākinī has faces on every side (name 532). The pattern is in the names themselves; he draws no lesson from it.",
+    "hi": "भास्करराय केवल सीधा अर्थ देते हैं: छह मुख। पूरी श्रृंखला में मुखों की संख्या बढ़ती जाती है: डाकिनी का एक मुख, राकिनी के दो, लाकिनी के तीन, काकिनी के चार, साकिनी के पाँच और हाकिनी के छह; और शिखर पर याकिनी के सब ओर मुख हैं (नाम 532)। यह क्रम नामों में ही है; भास्करराय इससे कोई निष्कर्ष नहीं निकालते।"
+  },
+  "story": {
+    "en": "This name ends verse 107, whose second line gives Hākinī’s seat, colour and faces in three short names.",
+    "hi": "यह नाम श्लोक 107 को पूरा करता है, जिसकी दूसरी पंक्ति तीन छोटे नामों में हाकिनी का आसन, वर्ण और मुख बताती है।"
+  },
+  "commentary": null,
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. No commentary excerpt: Bhāskararāya’s one-line gloss is printed षट्संख्यान्याननाइ यस्याः, a misprint for …आननानि…. He gives only the literal sense; the note on Skanda is general context, not from him." }
+}

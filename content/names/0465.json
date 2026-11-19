@@ -1,0 +1,42 @@
+{
+  "number": 465,
+  "verse": 96,
+  "slug": "kantimati",
+  "devanagari": "कान्तिमती",
+  "iastSplit": "Kāntimatī",
+  "archana": "ॐ कान्तिमत्यै नमः",
+  "syllables": ["kān", "ti", "ma", "tī"],
+  "words": [
+    { "sa": "कान्तिमती", "meaning": { "en": "possessed of kānti, radiance (kānti + -matī, ‘having’)", "hi": "कान्ति से युक्त" } }
+  ],
+  "meaning": {
+    "en": "She who is full of radiance",
+    "hi": "कान्ति से परिपूर्ण"
+  },
+  "explanation": {
+    "en": "Kānti is radiance and loveliness, and Kāntimatī is she who has it. Her beauty shines out and lights everything around her.",
+    "hi": "कान्ति का अर्थ है दीप्ति और शोभा, और कान्तिमती वे हैं जिनमें यह कान्ति है। उनका सौन्दर्य बाहर तक झलकता है और आसपास सब कुछ आलोकित करता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the literal sense: she has radiance. He gives no hidden meaning here. Earlier she was called Kānti (449), radiance itself; here she is the one who possesses it, as a lamp both is light and gives it.",
+    "hi": "भास्करराय केवल शब्दार्थ देते हैं: उनमें कान्ति है। यहाँ वे कोई गूढ़ अर्थ नहीं देते। पहले उन्हें कान्ति (449), अर्थात् स्वयं दीप्ति, कहा गया; यहाँ वे उस कान्ति को धारण करने वाली हैं, जैसे दीपक स्वयं प्रकाश भी है और प्रकाश देता भी है।"
+  },
+  "story": {
+    "en": "Bhāskararāya holds that no name in the hymn simply repeats another (see his comment on name 683). Kānti (449) names radiance itself; Kāntimatī names her as the one who has it.",
+    "hi": "भास्करराय मानते हैं कि स्तोत्र का कोई नाम किसी दूसरे नाम की केवल पुनरावृत्ति नहीं है (देखें नाम 683 पर उनकी व्याख्या)। कान्ति (449) स्वयं दीप्ति का नाम है; कान्तिमती उन्हें उस दीप्ति वाली के रूप में पुकारता है।"
+  },
+  "commentary": {
+    "sanskrit": "कान्तिरस्या अस्तीति कान्तिमती ।",
+    "translation": {
+      "en": "She has kānti, radiance; so she is Kāntimatī.",
+      "hi": "उनमें कान्ति है, इसलिए वे कान्तिमती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 465 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the contrast with name 449 and the last sentence of the inner layer are reflection." }
+}

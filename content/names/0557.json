@@ -1,0 +1,43 @@
+{
+  "number": 557,
+  "verse": 113,
+  "slug": "kala-hantri",
+  "devanagari": "कालहन्त्री",
+  "iastSplit": "Kāla-hantrī",
+  "archana": "ॐ कालहन्त्र्यै नमः",
+  "syllables": ["kā", "la", "han", "trī"],
+  "words": [
+    { "sa": "काल", "meaning": { "en": "time; death", "hi": "काल, समय; मृत्यु" } },
+    { "sa": "हन्त्री", "meaning": { "en": "slayer, destroyer", "hi": "वध करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Slayer of Kāla, time and death",
+    "hi": "काल, अर्थात् मृत्यु, का संहार करने वाली"
+  },
+  "explanation": {
+    "en": "Kāla means time, and also death, which ends all things in time. Bhāskararāya reads it as death: she is the slayer of death.",
+    "hi": "‘काल’ का अर्थ है समय, और मृत्यु भी, जो समय में हर वस्तु का अन्त करती है। भास्करराय इसे मृत्यु के अर्थ में लेते हैं: वे मृत्यु का वध करने वाली हैं।"
+  },
+  "inner": {
+    "en": "He supports the name with scripture’s words for the Lord: ‘the Knower, the Time of time, endowed with qualities, all-knowing’. She is the time that swallows time itself; what devours all things is in turn dissolved in her.",
+    "hi": "वे श्रुति के उन शब्दों से नाम की पुष्टि करते हैं जो परमेश्वर के लिए कहे गए हैं: ‘ज्ञ, काल का भी काल, गुणी, सर्वविद्’। वे वह काल हैं जो स्वयं काल को निगल लेता है; जो सब कुछ खा जाता है, वह भी उन्हीं में लीन होता है।"
+  },
+  "story": {
+    "en": "Kāla is also a name of Yama, the lord of death. Name 552 said she wards off every death; here she destroys Death himself.",
+    "hi": "‘काल’ मृत्यु के देवता यम का भी नाम है। नाम 552 ने कहा कि वे हर मृत्यु को टालती हैं; यहाँ वे स्वयं मृत्यु का संहार करती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "कालस्य मृत्योर्हन्त्री । ज्ञः कालकालो गुणी सर्वविद्य इति श्रुतेः ।",
+    "translation": {
+      "en": "Slayer of Kāla, that is, of death; as scripture says, ‘the Knower, the Time of time, endowed with qualities, all-knowing’.",
+      "hi": "काल, अर्थात् मृत्यु, का वध करने वाली; श्रुति कहती है: ‘ज्ञ, काल का भी काल, गुणी, सर्वविद्’।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 557 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The śruti quoted is the Śvetāśvatara Upaniṣad (6.2, 6.16); the identification is mine. The last sentence of the inner layer is a reflection." }
+}

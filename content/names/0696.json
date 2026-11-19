@@ -1,0 +1,43 @@
+{
+  "number": 696,
+  "verse": 136,
+  "slug": "daitya-shamani",
+  "devanagari": "दैत्यशमनी",
+  "iastSplit": "Daitya-śamanī",
+  "archana": "ॐ दैत्यशमन्यै नमः",
+  "syllables": ["dait", "ya", "śa", "ma", "nī"],
+  "words": [
+    { "sa": "दैत्य", "meaning": { "en": "demon, descendant of Diti", "hi": "दैत्य, असुर" } },
+    { "sa": "शमनी", "meaning": { "en": "she who subdues, destroys", "hi": "शमन करने वाली, नाश करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Subduer of the demons",
+    "hi": "दैत्यों का शमन करने वाली"
+  },
+  "explanation": {
+    "en": "The daityas are demons, descendants of Diti. Bhāskararāya names them as Bhaṇḍa and his followers: she is the one who quells and destroys them.",
+    "hi": "दैत्य दिति की सन्तान, असुर हैं। भास्करराय इनमें भण्ड और उसके साथियों का नाम लेते हैं: वे उनका शमन और नाश करने वाली हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya keeps to the sense of the story. Śamanī means one who calms as well as one who destroys; the enemies she quiets within the devotee are the passions that fight against peace.",
+    "hi": "भास्करराय यहाँ कथा के अर्थ तक ही रहते हैं। ‘शमनी’ का अर्थ नाश करने वाली भी है और शान्त करने वाली भी; भक्त के भीतर वे जिन शत्रुओं को शान्त करती हैं, वे हैं शान्ति के विरुद्ध लड़ने वाले विकार।"
+  },
+  "story": {
+    "en": "In the Lalitopākhyāna she rose from the gods’ sacrifice to destroy Bhaṇḍāsura. The hymn told that war in names 65 to 82, ending with Bhaṇḍa and his city Śūnyaka burnt by the missile of Kāmeśvara.",
+    "hi": "ललितोपाख्यान में वे भण्डासुर का नाश करने के लिए देवताओं के यज्ञ से प्रकट हुई थीं। स्तोत्र नाम 65 से 82 तक उस युद्ध का वर्णन कर चुका है, जो कामेश्वरास्त्र से भण्डासुर और उसकी नगरी शून्यक के भस्म होने पर समाप्त होता है।"
+  },
+  "commentary": {
+    "sanskrit": "दैत्यानां भण्डादीनां शमनी नाशिका ।",
+    "translation": {
+      "en": "Śamanī, destroyer, of the daityas, Bhaṇḍa and the others.",
+      "hi": "दैत्यों — भण्ड आदि — की शमनी अर्थात् नाश करने वाली।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 696 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The inner layer’s reading of शमनी as ‘calming’ is a reflection; Bhāskararāya glosses it as नाशिका (destroyer)." }
+}

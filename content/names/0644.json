@@ -1,0 +1,43 @@
+{
+  "number": 644,
+  "verse": 127,
+  "slug": "jnana-vigraha",
+  "devanagari": "ज्ञानविग्रहा",
+  "iastSplit": "Jñāna-vigrahā",
+  "archana": "ॐ ज्ञानविग्रहायै नमः",
+  "syllables": ["jñā", "na", "vig", "ra", "hā"],
+  "words": [
+    { "sa": "ज्ञान", "meaning": { "en": "knowledge, consciousness", "hi": "ज्ञान, चैतन्य" } },
+    { "sa": "विग्रह", "meaning": { "en": "body, form; also expansion", "hi": "शरीर, स्वरूप; विस्तार भी" } }
+  ],
+  "meaning": {
+    "en": "She whose very body is knowledge",
+    "hi": "जिनका शरीर ही ज्ञान है"
+  },
+  "explanation": {
+    "en": "Vigraha means body or form. Her body is not made of matter but of knowledge itself, and the whole world, which is of the nature of knowledge, is her form.",
+    "hi": "विग्रह का अर्थ है शरीर या स्वरूप। उनका शरीर किसी जड़ पदार्थ से नहीं, स्वयं ज्ञान से बना है; और यह सारा जगत्, जो ज्ञानात्मक है, उन्हीं का रूप है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya reasons that knowledge is her body because the whole world is of the nature of knowledge. He quotes the Viṣṇu Purāṇa: knowledge alone is the supreme Brahman; this universe is made of knowledge and there is nothing beyond knowledge. He also reads vigraha as ‘expansion’: she from whom knowledge spreads out.",
+    "hi": "भास्करराय तर्क देते हैं कि ज्ञान ही उनका शरीर है, क्योंकि समस्त जगत् ज्ञानात्मक है। वे विष्णुपुराण का वचन उद्धृत करते हैं: ज्ञान ही परब्रह्म है; यह विश्व ज्ञानमय है और ज्ञान से परे कुछ नहीं। वे ‘विग्रह’ का अर्थ ‘विस्तार’ भी लेते हैं: जिनसे ज्ञान का विस्तार होता है।"
+  },
+  "story": {
+    "en": "This name completes verse 127. Having called her the giver of knowledge, the hymn adds that she is knowledge in bodily form, so the giver and the gift are one.",
+    "hi": "यह नाम श्लोक 127 को पूरा करता है। उन्हें ज्ञान देने वाली कहने के बाद स्तोत्र कहता है कि वे स्वयं साकार ज्ञान हैं; देने वाली और दिया जाने वाला एक ही हैं।"
+  },
+  "commentary": {
+    "sanskrit": "ज्ञानमेव विग्रहः शरीरं यस्याः सर्वस्य जगतो ज्ञानात्मकत्वात् ।",
+    "translation": {
+      "en": "She whose vigraha, whose body, is knowledge itself, since the whole world is of the nature of knowledge.",
+      "hi": "जिनका विग्रह, अर्थात् शरीर, ज्ञान ही है, क्योंकि सारा जगत् ज्ञानात्मक है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 644 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The closing clause of the story (‘the giver and the gift are one’) is a reflection." }
+}

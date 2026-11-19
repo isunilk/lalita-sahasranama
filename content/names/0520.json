@@ -1,0 +1,37 @@
+{
+  "number": 520,
+  "verse": 107,
+  "slug": "sakinyamba-svarupini",
+  "devanagari": "साकिन्यम्बास्वरूपिणी",
+  "iastSplit": "Sākinyambā-svarūpiṇī",
+  "archana": "ॐ साकिन्यम्बास्वरूपिण्यै नमः",
+  "syllables": ["sā", "kin", "yam", "bās", "va", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "साकिनी", "meaning": { "en": "Sākinī, the yoginī of the Mūlādhāra lotus", "hi": "साकिनी, मूलाधार कमल की योगिनी" } },
+    { "sa": "अम्बा", "meaning": { "en": "mother", "hi": "माँ" } },
+    { "sa": "स्वरूपिणी", "meaning": { "en": "whose very form is", "hi": "जिनका स्वरूप है" } }
+  ],
+  "meaning": {
+    "en": "She whose own form is Mother Sākinī",
+    "hi": "जिनका स्वरूप साकिनी माँ है"
+  },
+  "explanation": {
+    "en": "This name closes the description of Sākinī, the yoginī who presides over the four-petalled Mūlādhāra lotus at the base of the spine. Sākinī is not a separate goddess; she is the Devī’s own form in that centre.",
+    "hi": "यह नाम साकिनी का वर्णन पूरा करता है, जो मेरुदण्ड के मूल में स्थित चार दलों वाले मूलाधार कमल की अधिष्ठात्री योगिनी हैं। साकिनी कोई अलग देवी नहीं, उस केन्द्र में स्वयं देवी का ही स्वरूप हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only the literal sense: the form of the mother named Sākinī is hers. He opens this whole series as praise of the Devī in the form of the seven yoginīs who preside over the seven cakras, so each yoginī is the one Mother seen in one centre.",
+    "hi": "भास्करराय केवल शब्दार्थ देते हैं: साकिनी नाम की माँ का स्वरूप इन्हीं का है। वे इस पूरी श्रृंखला का आरम्भ सात चक्रों की अधिष्ठात्री सात योगिनियों के रूप में देवी की स्तुति के रूप में करते हैं; अतः हर योगिनी एक ही माँ है, जो एक-एक केन्द्र में दिखाई देती है।"
+  },
+  "story": {
+    "en": "Names 514 to 520 describe Sākinī. In the meditation verse Bhāskararāya quotes, she is smoke-coloured, five-faced and three-eyed, abides in the bones, holds a goad, a lotus, a book and the gesture of knowledge, and is attended by Varadā and the other śaktis.",
+    "hi": "नाम 514 से 520 साकिनी का वर्णन करते हैं। भास्करराय द्वारा उद्धृत ध्यान-श्लोक में वे धूम्र वर्ण की, पाँच मुखों और तीन नेत्रों वाली हैं, अस्थियों में स्थित हैं, अंकुश, कमल, पुस्तक और ज्ञानमुद्रा धारण करती हैं, और वरदा आदि शक्तियों से घिरी हैं।"
+  },
+  "commentary": null,
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. No commentary excerpt: Bhāskararāya’s one-line gloss is printed साकिन्याम्बायाः स्वरूपमस्याः, apparently a misprint (compare his glosses on names 503 and 534, …ख्याया अम्बायाः), and it runs into the next sentence without a daṇḍa. Iconography is from the meditation verse he quotes. Meaning only; no practice." }
+}

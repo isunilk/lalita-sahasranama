@@ -1,0 +1,45 @@
+{
+  "number": 254,
+  "verse": 62,
+  "slug": "dhyana-dhyatri-dhyeya-rupa",
+  "devanagari": "ध्यानध्यातृध्येयरूपा",
+  "iastSplit": "Dhyāna-dhyātṛ-dhyeya-rūpā",
+  "archana": "ॐ ध्यानध्यातृध्येयरूपायै नमः",
+  "syllables": ["dhyā", "nadh", "yā", "tṛdh", "ye", "ya", "rū", "pā"],
+  "words": [
+    {"sa": "ध्यान", "meaning": {"en": "meditation", "hi": "ध्यान"}},
+    {"sa": "ध्यातृ", "meaning": {"en": "one who meditates", "hi": "ध्याता, ध्यान करने वाला"}},
+    {"sa": "ध्येय", "meaning": {"en": "what is meditated upon", "hi": "ध्येय, जिसका ध्यान किया जाए"}},
+    {"sa": "रूपा", "meaning": {"en": "having the form of", "hi": "रूप वाली, स्वरूपा"}}
+  ],
+  "meaning": {
+    "en": "She who is meditation, the meditator and the object of meditation",
+    "hi": "जो ध्यान, ध्याता और ध्येय, तीनों रूपों में हैं"
+  },
+  "explanation": {
+    "en": "Every act of meditation has three parts: the meditating, the one who meditates, and what is meditated on. This name says the Devī is all three. For the one who turns the mind to her, the seeker, the seeking and the sought are all her forms.",
+    "hi": "हर ध्यान के तीन अंग होते हैं: ध्यान की क्रिया, ध्यान करने वाला, और जिसका ध्यान किया जाए। यह नाम कहता है कि देवी ये तीनों हैं। जो उनकी ओर मन लगाता है, उसके लिए साधक, साधना और साध्य, सब उन्हीं के रूप हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya derives dhyāna from the root dhyai, ‘to think’, and recalls the Yoga Sūtra’s definition: meditation is the unbroken flow of a single idea. He takes the name to mean the triad (tripuṭī) of knowledge, knower and known. All knowing has these three sides and she is each of them; when meditation deepens and the three are no longer felt apart, what remains is she.",
+    "hi": "भास्करराय ‘ध्यान’ को ‘ध्यै’ (चिन्तन करना) धातु से निकालते हैं और योगसूत्र की परिभाषा याद दिलाते हैं: एक ही प्रत्यय का अटूट प्रवाह ध्यान है। वे इस नाम का अर्थ ज्ञान, ज्ञाता और ज्ञेय की त्रिपुटी करते हैं। हर ज्ञान के ये तीन पक्ष हैं और वे हर पक्ष में हैं; जब ध्यान गहरा होता है और ये तीनों अलग नहीं लगते, तब जो शेष रहता है, वही वे हैं।"
+  },
+  "story": {
+    "en": "The name follows Vijñānaghanarūpiṇī, ‘whose form is dense knowing’ (253), and carries the thought into meditation. The group of three it names is called the tripuṭī, present in every act of knowing; the next name places her beyond merit and sin as well.",
+    "hi": "यह नाम विज्ञानघनरूपिणी (253) के बाद आता है और उसी विचार को ध्यान तक ले जाता है। इन तीनों के समूह को ‘त्रिपुटी’ कहते हैं, जो हर ज्ञान में उपस्थित रहती है; अगला नाम उन्हें धर्म और अधर्म से भी परे बताता है।"
+  },
+  "commentary": {
+    "sanskrit": "ज्ञानज्ञातृज्ञेयाख्यत्रिपुटीरूपेत्यर्थः ।",
+    "translation": {
+      "en": "The meaning is: she has the form of the triad (tripuṭī) called knowledge, knower and known.",
+      "hi": "अर्थ यह है कि वे ज्ञान, ज्ञाता और ज्ञेय नामक त्रिपुटी-रूपा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 254 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The closing sentence of the inner layer is a reflection on Bhāskararāya’s gloss." }
+}

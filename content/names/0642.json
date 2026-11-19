@@ -1,0 +1,42 @@
+{
+  "number": 642,
+  "verse": 127,
+  "slug": "aparichchhedya",
+  "devanagari": "अपरिच्छेद्या",
+  "iastSplit": "Aparicchedyā",
+  "archana": "ॐ अपरिच्छेद्यायै नमः",
+  "syllables": ["a", "pa", "ric", "ched", "yā"],
+  "words": [
+    { "sa": "अपरिच्छेद्य", "meaning": { "en": "not to be limited, measured or bounded", "hi": "जिसकी सीमा न बाँधी जा सके, अपरिमेय" } }
+  ],
+  "meaning": {
+    "en": "She who cannot be limited or measured",
+    "hi": "जिनकी कोई सीमा नहीं बाँधी जा सकती"
+  },
+  "explanation": {
+    "en": "Pariccheda means cutting off, setting a boundary. She cannot be bounded by anything: she is not here rather than there, not now rather than then, not this rather than that.",
+    "hi": "परिच्छेद का अर्थ है सीमा बाँधना, काटकर अलग करना। उन्हें किसी भी चीज़ से सीमित नहीं किया जा सकता: वे न किसी एक स्थान में बँधी हैं, न किसी एक काल में, न किसी एक वस्तु में।"
+  },
+  "inner": {
+    "en": "Bhāskararāya defines it in the terms of logic: to be limited is to be the counterpart of some absence, and she has no such absence. Limitation by place is absolute absence (not being somewhere), limitation by time is prior absence and destruction (not yet, no longer), and limitation by object is mutual absence (this is not that). None of these touches her.",
+    "hi": "भास्करराय इसे न्याय की भाषा में समझाते हैं: परिच्छिन्न होना किसी अभाव का प्रतियोगी होना है, और उनमें ऐसा कोई अभाव नहीं। स्थान की सीमा अत्यन्ताभाव है (कहीं न होना), काल की सीमा प्रागभाव और ध्वंस है (अभी नहीं, अब नहीं), और वस्तु की सीमा अन्योन्याभाव है (यह वह नहीं)। इनमें से कोई भी उन्हें नहीं छूता।"
+  },
+  "story": {
+    "en": "Freedom from the threefold limit of place, time and object (deśa, kāla, vastu) is the classical Vedānta mark of the infinite, and Bhāskararāya applies it to her here.",
+    "hi": "देश, काल और वस्तु की तीन प्रकार की सीमा से मुक्त होना वेदान्त में अनन्त का पारम्परिक लक्षण है, और भास्करराय यहाँ उसी को देवी पर लागू करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "अभावप्रतियोगित्वं परिच्छेद्यत्वं तदभावादपरिच्छेद्या ।",
+    "translation": {
+      "en": "To be limitable is to be the counterpart of an absence; since she has none, she is Aparicchedyā, the unlimitable.",
+      "hi": "किसी अभाव का प्रतियोगी होना ही परिच्छेद्य (सीमित) होना है; उसके न होने से वे अपरिच्छेद्या हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 642 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. In the sentence after the quotation the edition prints अन्योन्यां भाव, evidently for अन्योन्याभाव (mutual absence); that sentence is paraphrased, not quoted." }
+}

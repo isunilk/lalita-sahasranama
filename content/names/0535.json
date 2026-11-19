@@ -1,0 +1,42 @@
+{
+  "number": 535,
+  "verse": 110,
+  "slug": "svaha",
+  "devanagari": "स्वाहा",
+  "iastSplit": "Svāhā",
+  "archana": "ॐ स्वाहायै नमः",
+  "syllables": ["svā", "hā"],
+  "words": [
+    { "sa": "स्वाहा", "meaning": { "en": "the call that accompanies an offering to the gods", "hi": "देवताओं को आहुति देते समय का उच्चारण" } }
+  ],
+  "meaning": {
+    "en": "Svāhā, the call with which offerings are given to the gods",
+    "hi": "स्वाहा, वह पवित्र उच्चारण जिससे देवताओं को आहुति दी जाती है"
+  },
+  "explanation": {
+    "en": "Svāhā is the word spoken as an oblation is poured into the sacred fire for the gods. Bhāskararāya says such words express the giving up of an offering to the one it is meant for, and the Devī is the very meaning of the word.",
+    "hi": "‘स्वाहा’ वह शब्द है जो देवताओं के लिए यज्ञ-अग्नि में आहुति डालते समय बोला जाता है। भास्करराय कहते हैं कि ऐसे शब्द किसी वस्तु को उसके उद्दिष्ट देवता के लिए त्यागने को व्यक्त करते हैं, और देवी स्वयं इस शब्द का अर्थ हैं।"
+  },
+  "inner": {
+    "en": "She is the act of offering itself, the letting go of what is given. Bhāskararāya cites the Mārkaṇḍeya Purāṇa: the soma, havis and cooked-food sacrifices, seven of each, are performed by the knowers of Brahman by uttering her. He also notes the Taittirīya reading of svāhā as ‘one’s own speech’.",
+    "hi": "वे स्वयं अर्पण की क्रिया हैं, जो दिया जा रहा है उसे छोड़ देने का भाव। भास्करराय मार्कण्डेय पुराण का वचन देते हैं: सोम, हवि और पाक के सात-सात यज्ञ ब्रह्मवादी उन्हीं के उच्चारण से करते हैं। वे तैत्तिरीय श्रुति का भी उल्लेख करते हैं, जहाँ ‘स्वाहा’ का अर्थ ‘अपनी वाणी’ बताया गया है।"
+  },
+  "story": {
+    "en": "In the Liṅga Purāṇa and the Vāyavīya, which he quotes, Svāhā is the wife of Śiva in his form as fire, and the six-faced Skanda is their son; the Padma Purāṇa makes her the goddess of the Māheśvara seat. Bhāskararāya also notes that if svāhā is taken as an indeclinable word the archana would be svāhā namaḥ, while as a feminine noun it is svāhāyai namaḥ.",
+    "hi": "उनके द्वारा उद्धृत लिङ्ग पुराण और वायवीय के अनुसार स्वाहा अग्नि-रूप शिव की पत्नी हैं, और षण्मुख स्कन्द उनके पुत्र हैं; पद्म पुराण उन्हें माहेश्वर पीठ की देवी बताता है। भास्करराय यह भी बताते हैं कि ‘स्वाहा’ को अव्यय मानें तो अर्चना ‘स्वाहा नमः’ होगी, और स्त्रीलिङ्ग संज्ञा मानें तो ‘स्वाहायै नमः’।"
+  },
+  "commentary": {
+    "sanskrit": "स्वाहा देवहविर्दाने श्रौषट्वौषड्वषट्स्वधेति कोशादुद्देश्यकद्रव्यत्यागवचनौ स्वाहास्वधाशब्दौ । तदर्थरूपापि देव्येव ।",
+    "translation": {
+      "en": "From the lexicon’s line ‘svāhā in giving oblations to the gods; śrauṣaṭ, vauṣaṭ, vaṣaṭ, svadhā’, the words svāhā and svadhā express the giving up of a substance to the one it is meant for. The Devī herself is also the form of their meaning.",
+      "hi": "कोश के वचन ‘देवताओं को हवि देने में स्वाहा; श्रौषट्, वौषट्, वषट्, स्वधा’ से स्वाहा और स्वधा शब्द उद्दिष्ट देवता के लिए द्रव्य के त्याग को व्यक्त करते हैं। उनके अर्थ का रूप भी देवी ही हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 535 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Archana kept as स्वाहायै नमः (web list and master); Bhāskararāya allows स्वाहा नमः if the word is taken as an indeclinable (see story). Several further derivations he gives (from the Prapañcasāra, the Sāma Brāhmaṇa, Yāska and others) are left out. The first sentence of the inner layer paraphrases his gloss (द्रव्यत्याग)." }
+}

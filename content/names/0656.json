@@ -1,0 +1,43 @@
+{
+  "number": 656,
+  "verse": 129,
+  "slug": "yogananda",
+  "devanagari": "योगानन्दा",
+  "iastSplit": "Yogānandā",
+  "archana": "ॐ योगानन्दायै नमः",
+  "syllables": ["yo", "gā", "nan", "dā"],
+  "words": [
+    { "sa": "योग", "meaning": { "en": "union; here the oneness of Śiva and Śakti", "hi": "योग; यहाँ शिव-शक्ति का सामरस्य" } },
+    { "sa": "आनन्द", "meaning": { "en": "bliss", "hi": "आनन्द" } }
+  ],
+  "meaning": {
+    "en": "She whose bliss is the union of Śiva and Śakti",
+    "hi": "शिव-शक्ति का सामरस्य ही जिनका आनन्द है"
+  },
+  "explanation": {
+    "en": "Yoga is union and ānanda is bliss. Bhāskararāya says the union here is sāmarasya, the oneness of Śiva and Śakti in a single essence, and that union itself is her bliss.",
+    "hi": "योग का अर्थ है मिलन और आनन्द का अर्थ है परम सुख। भास्करराय कहते हैं कि यहाँ योग का अर्थ है सामरस्य, शिव और शक्ति का एक रस में एक हो जाना, और वही मिलन उनका आनन्द है।"
+  },
+  "inner": {
+    "en": "He gives another sense: Yoganidrā, the sleep of yoga, in which bliss predominates. He quotes the Harivaṃśa, which calls Yoganidrā a mass of bliss whom no god but Nārāyaṇa could hold, the companion of Sadāśiva and the māyā born of Viṣṇu’s body. Her bliss is not pleasure drawn from outside but consciousness resting in itself.",
+    "hi": "वे एक और अर्थ देते हैं: योगनिद्रा, जिसमें आनन्द प्रधान है। वे हरिवंश का वचन उद्धृत करते हैं, जो योगनिद्रा को आनन्दघन कहता है, जिन्हें नारायण के सिवा कोई देवता धारण नहीं कर सका, जो सदाशिव की सखी और विष्णु के शरीर से उत्पन्न माया हैं। उनका आनन्द बाहर से लिया गया सुख नहीं, चेतना का अपने आप में विश्राम है।"
+  },
+  "story": {
+    "en": "Bhāskararāya also says she may be Yogānanda, a form of Narasiṃha. He allows another division too, Ayogā (‘free of attachment’) and Nandā, and lists many forms named Nandā, among them the Alakanandā Gaṅgā and the goddess Nandā of the Himalaya.",
+    "hi": "भास्करराय यह भी कहते हैं कि वे नृसिंह के रूप ‘योगानन्द’ भी हैं। वे एक और विभाजन भी स्वीकार करते हैं, ‘अयोगा’ (संगरहित) और ‘नन्दा’, और नन्दा नाम के अनेक रूप गिनाते हैं, जिनमें अलकनन्दा गङ्गा और हिमालय की नन्दा देवी भी हैं।"
+  },
+  "commentary": {
+    "sanskrit": "योगः शिवशक्तिसामरस्यमेवानन्दो यस्याः ।",
+    "translation": {
+      "en": "She whose bliss is yoga, that is, the sāmarasya, the oneness in essence, of Śiva and Śakti.",
+      "hi": "जिनका आनन्द योग, अर्थात् शिव और शक्ति का सामरस्य, ही है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 656 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya offers an alternative division अयोगा + नन्दा, keeping the count by taking मोहिनीमुख्या as one name (मोहिनीमुख्येत्येकपदं स्वीकृत्येह अयोगानन्देति नामद्वयं सुवचम्); the master text has the one name योगानन्दा. The last sentence of the inner layer is a reflection." }
+}

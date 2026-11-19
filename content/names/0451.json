@@ -1,0 +1,43 @@
+{
+  "number": 451,
+  "verse": 94,
+  "slug": "vighna-nashini",
+  "devanagari": "विघ्ननाशिनी",
+  "iastSplit": "Vighna-nāśinī",
+  "archana": "ॐ विघ्ननाशिन्यै नमः",
+  "syllables": ["vigh", "na", "nā", "śi", "nī"],
+  "words": [
+    { "sa": "विघ्न", "meaning": { "en": "obstacle", "hi": "विघ्न, बाधा" } },
+    { "sa": "नाशिनी", "meaning": { "en": "she who destroys", "hi": "नाश करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Destroyer of obstacles",
+    "hi": "विघ्नों का नाश करने वाली"
+  },
+  "explanation": {
+    "en": "Vighna is an obstacle, anything that blocks the way; nāśinī is she who destroys. She removes whatever stands between her devotees and their goal.",
+    "hi": "विघ्न का अर्थ है बाधा, जो भी मार्ग रोके; नाशिनी का अर्थ है नष्ट करने वाली। वे अपने भक्तों और उनके लक्ष्य के बीच आने वाली हर बाधा को दूर करती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya derives vighna from vi and han, ‘what strikes hard’, and says which obstacles are meant: the hindrances to vidyā, sacred knowledge. Destroying them is her very nature (śīla), not an occasional favour. The obstacles that matter most, in this reading, are those that stand between the seeker and knowledge of her.",
+    "hi": "भास्करराय ‘विघ्न’ को ‘वि’ और ‘हन्’ से, अर्थात् ‘जो विशेष रूप से आघात करे’, निकालते हैं, और बताते हैं कि यहाँ कौन-सी बाधाएँ अभिप्रेत हैं: विद्या, अर्थात् पवित्र ज्ञान, के मार्ग की बाधाएँ। उनका नाश करना उनका स्वभाव (शील) है, कभी-कभार की कृपा नहीं। इस अर्थ में सबसे बड़ी बाधाएँ वे हैं जो साधक और उनके ज्ञान के बीच खड़ी होती हैं।"
+  },
+  "story": {
+    "en": "Her son Gaṇeśa, named in Kumāragaṇanāthāmbā (442), is the remover of obstacles. In the battle story, she rejoiced when Mahāgaṇeśa shattered the obstacle-yantra set up against her army (name 78).",
+    "hi": "उनके पुत्र गणेश, जिनका उल्लेख कुमारगणनाथाम्बा (442) में है, विघ्नहर्ता हैं। युद्ध-कथा में, जब महागणेश ने उनकी सेना के विरुद्ध स्थापित विघ्न-यन्त्र को तोड़ दिया, तब वे प्रसन्न हुईं (नाम 78)।"
+  },
+  "commentary": {
+    "sanskrit": "विशेषेण घ्नन्तीति विघ्ना विद्यान्तरायास्तान्नाशयितुं शीलमस्यास्तथा ।",
+    "translation": {
+      "en": "Vighnas are what strike (ghnanti) with special force: the obstacles to knowledge. It is her nature to destroy them; so she is named.",
+      "hi": "जो विशेष रूप से आघात करते हैं वे विघ्न हैं, अर्थात् विद्या के मार्ग की बाधाएँ; उनका नाश करना उनका स्वभाव है, इसलिए वे विघ्ननाशिनी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 451 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The link to Gaṇeśa and to name 78 in the story is context, not Bhāskararāya’s comment here. The last sentence of the inner layer is a reflection." }
+}

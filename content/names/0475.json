@@ -1,0 +1,44 @@
+{
+  "number": 475,
+  "verse": 98,
+  "slug": "vishuddhi-chakra-nilaya",
+  "devanagari": "विशुद्धिचक्रनिलया",
+  "iastSplit": "Viśuddhi-cakra-nilayā",
+  "archana": "ॐ विशुद्धिचक्रनिलयायै नमः",
+  "syllables": ["vi", "śud", "dhi", "cak", "ra", "ni", "la", "yā"],
+  "words": [
+    { "sa": "विशुद्धि", "meaning": { "en": "purification", "hi": "विशुद्धि, शुद्धि" } },
+    { "sa": "चक्र", "meaning": { "en": "wheel; a centre of the subtle body", "hi": "चक्र" } },
+    { "sa": "निलय", "meaning": { "en": "abode, dwelling", "hi": "निलय, निवास-स्थान" } }
+  ],
+  "meaning": {
+    "en": "She who dwells in the viśuddhi cakra at the throat",
+    "hi": "कण्ठ में स्थित विशुद्धि चक्र में निवास करने वाली"
+  },
+  "explanation": {
+    "en": "Viśuddhi, ‘purification’, is the name of the cakra at the throat, pictured as a lotus of sixteen petals. She makes her home at its centre.",
+    "hi": "विशुद्धि, अर्थात् ‘शुद्धि’, कण्ठ में स्थित चक्र का नाम है, जिसकी कल्पना सोलह दलों वाले कमल के रूप में की जाती है। वे उसके केन्द्र में निवास करती हैं।"
+  },
+  "inner": {
+    "en": "Here Bhāskararāya begins a long section: following the order of the yoginī-nyāsa, the hymn praises her as the seven yoginīs who preside over the seven cakras, beginning with viśuddhi. The first is Ḍākinī, and he quotes her dhyāna verse: in the sixteen-petalled lotus at the throat, rose-coloured, three-eyed, one-faced, holding the khaṭvāṅga, sword, trident and great shield. She dwells in the very pericarp, the centre, of that lotus.",
+    "hi": "यहाँ से भास्करराय एक लम्बा प्रकरण आरम्भ करते हैं: योगिनी-न्यास के क्रम से स्तोत्र उन्हें विशुद्धि से आरम्भ होने वाले सात चक्रों की अधिष्ठात्री सात योगिनियों के रूप में स्तुत करता है। पहली हैं डाकिनी, और वे उनका ध्यान-श्लोक उद्धृत करते हैं: कण्ठ के सोलह दलों वाले कमल में, श्वेत-रक्त वर्ण वाली, तीन नेत्रों और एक मुख वाली, खट्वांग, खड्ग, त्रिशूल और विशाल ढाल धारण किए हुए। वे उस कमल की कर्णिका, अर्थात् केन्द्र, में ही निवास करती हैं।"
+  },
+  "story": {
+    "en": "The names from here to 484 describe Ḍākinī, the first of the seven yoginīs: Ḍākinī, Rākiṇī, Lākinī, Kākinī, Sākinī, Hākinī and Yākinī. Bhāskararāya says the section takes sixty-two names; it moves from the throat down through the lower centres and then up to the brow and the crown.",
+    "hi": "यहाँ से नाम 484 तक के नाम डाकिनी का वर्णन करते हैं, जो सात योगिनियों में पहली हैं: डाकिनी, राकिणी, लाकिनी, काकिनी, साकिनी, हाकिनी और याकिनी। भास्करराय के अनुसार यह प्रकरण बासठ नामों का है; यह कण्ठ से नीचे के चक्रों तक जाता है और फिर भ्रूमध्य और सहस्रार तक ऊपर उठता है।"
+  },
+  "commentary": {
+    "sanskrit": "विशुद्धिचक्रं षोडशदलकमलस्य कर्णिकैव निलयो यस्याः ।",
+    "translation": {
+      "en": "She whose abode is the viśuddhi cakra, the very pericarp of the sixteen-petalled lotus.",
+      "hi": "जिनका निवास विशुद्धि चक्र है, अर्थात् सोलह दलों वाले कमल की कर्णिका ही।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 475 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Cakra name: meaning only, with no practice detail, as AGENTS.md requires. Ḍākinī’s dhyāna verse is summarised, not quoted; ‘rose-coloured’ renders श्वेतरक्ता." }
+}

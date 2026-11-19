@@ -1,0 +1,43 @@
+{
+  "number": 273,
+  "verse": 64,
+  "slug": "anugraha-da",
+  "devanagari": "अनुग्रहदा",
+  "iastSplit": "Anugraha-dā",
+  "archana": "ॐ अनुग्रहदायै नमः",
+  "syllables": ["a", "nug", "ra", "ha", "dā"],
+  "words": [
+    {"sa": "अनुग्रह", "meaning": {"en": "grace, favour", "hi": "अनुग्रह, कृपा"}},
+    {"sa": "दा", "meaning": {"en": "giver", "hi": "देने वाली"}}
+  ],
+  "meaning": {
+    "en": "She who bestows grace",
+    "hi": "अनुग्रह प्रदान करने वाली"
+  },
+  "explanation": {
+    "en": "Anugraha means grace, favour. It is the fifth of the Divine’s acts, the one that crowns the others. She is the giver of grace.",
+    "hi": "‘अनुग्रह’ का अर्थ है कृपा, प्रसाद। यह परमेश्वर का पाँचवाँ कृत्य है, जो बाकी सब कृत्यों का शिखर है। वे अनुग्रह देने वाली हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives two readings. In the cosmic one, grace is the world, which had vanished without remainder, returning at the dawn of a new creation to the state of atoms and the rest, ready to unfold again. In the other, concealment and grace are bondage and liberation; then Īśvara and Sadāśiva, the outward opening and the inward closing, are by their very nature the givers of these. She who binds is also she who sets free.",
+    "hi": "भास्करराय दो अर्थ देते हैं। सृष्टि-परक अर्थ में अनुग्रह यह है कि जो जगत् बिना किसी अवशेष के लुप्त हो गया था, वह नई सृष्टि के आरम्भ में फिर परमाणु आदि के रूप में लौट आता है, फिर से विकसित होने के लिए। दूसरे अर्थ में तिरोधान और अनुग्रह बन्धन और मोक्ष हैं; तब ईश्वर और सदाशिव, जो बाहर का उन्मेष और भीतर का निमेष हैं, स्वभाव से ही इन्हें देने वाले हैं। जो बाँधती हैं, वही मुक्त भी करती हैं।"
+  },
+  "story": {
+    "en": "The name completes the five acts and their five Lords. Under the next name Bhāskararāya quotes an Āgama that lists them together: creation, maintenance, dissolution, concealment and the bestowing of grace.",
+    "hi": "यह नाम पाँच कृत्यों और उनके पाँच ईश्वरों को पूरा करता है। अगले नाम पर भास्करराय एक आगम-वचन उद्धृत करते हैं जो इन्हें एक साथ गिनाता है: सृष्टि, स्थिति, संहार, तिरोभाव और अनुग्रह।"
+  },
+  "commentary": {
+    "sanskrit": "अनुग्रहो निरवशेषध्वंसमापन्नस्य जगतः सृष्ट्यादौ पुनः परमाण्वादिरूपतापत्तिः ।",
+    "translation": {
+      "en": "Grace (anugraha) is this: at the beginning of creation the world, which had met destruction without remainder, takes on again the form of atoms and the rest.",
+      "hi": "अनुग्रह यह है कि जो जगत् बिना अवशेष के ध्वंस को प्राप्त हो गया था, वह सृष्टि के आरम्भ में फिर परमाणु आदि का रूप ग्रहण करता है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 273 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. In the verse fused with the previous name (सदाशिवानुग्रहदा). The edition misprints the name as अनुग्रदा in the sentence after the quote. The last sentence of the inner layer is a reflection." }
+}

@@ -1,0 +1,45 @@
+{
+  "number": 275,
+  "verse": 65,
+  "slug": "bhanu-mandala-madhya-stha",
+  "devanagari": "भानुमण्डलमध्यस्था",
+  "iastSplit": "Bhānu-maṇḍala-madhya-sthā",
+  "archana": "ॐ भानुमण्डलमध्यस्थायै नमः",
+  "syllables": ["bhā", "nu", "maṇ", "ḍa", "la", "madh", "yas", "thā"],
+  "words": [
+    {"sa": "भानु", "meaning": {"en": "the sun", "hi": "सूर्य"}},
+    {"sa": "मण्डल", "meaning": {"en": "orb, disc", "hi": "मण्डल, बिम्ब"}},
+    {"sa": "मध्य", "meaning": {"en": "middle, centre", "hi": "मध्य, केन्द्र"}},
+    {"sa": "स्था", "meaning": {"en": "abiding", "hi": "स्थित"}}
+  ],
+  "meaning": {
+    "en": "She who abides in the centre of the sun’s orb",
+    "hi": "सूर्यमण्डल के मध्य में विराजमान"
+  },
+  "explanation": {
+    "en": "Bhānu is the sun and maṇḍala its disc. She dwells at the very centre of the sun, the light of the world. Those who worship the sun at dawn and dusk are, knowingly or not, turning to her.",
+    "hi": "‘भानु’ सूर्य है और ‘मण्डल’ उसका बिम्ब। वे विश्व के प्रकाश, सूर्य, के ठीक केन्द्र में निवास करती हैं। जो प्रातः और सायं सूर्य की उपासना करते हैं, वे जाने-अनजाने उन्हीं की ओर उन्मुख होते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says she is to be meditated on in the sun’s disc at the twilight hours (sandhyā). He adds that the Brahma Sūtras decide that the golden person seen within the sun, of whom the Chāndogya Upaniṣad speaks, is the Supreme Lord. Or, he says, the sun’s orb is the anāhata lotus in the heart, and she abides at its centre.",
+    "hi": "भास्करराय कहते हैं कि सन्ध्या के समय सूर्यमण्डल में उनका ध्यान किया जाता है। वे आगे कहते हैं कि ब्रह्मसूत्र के अन्तरधिकरण में यह निर्णय हुआ है कि छान्दोग्य उपनिषद् में वर्णित, सूर्य के भीतर दिखने वाला हिरण्मय पुरुष परमेश्वर ही है। अथवा, वे कहते हैं, भानुमण्डल हृदय का अनाहत कमल है, और वे उसके मध्य में विराजती हैं।"
+  },
+  "story": {
+    "en": "He quotes Himavat’s hymn to the Devī in the Kūrma Purāṇa: ‘I bow to the form that abides in the sun’s orb, the essence of all the Vedas, the One to be known, filling every world with its own light.’ Verse 65 brings together names of her presence and power: in the sun, as Bhairavī and Bhagamālinī, on the lotus, and as Viṣṇu’s sister.",
+    "hi": "वे कूर्म पुराण में हिमवान् द्वारा की गई देवी-स्तुति उद्धृत करते हैं: ‘मैं सूर्यमण्डल में स्थित उस रूप को नमन करता हूँ, जो समस्त वेदों का सार है, एकमात्र जानने योग्य है, और अपने तेज से सब लोकों को भर देता है।’ श्लोक 65 उनकी उपस्थिति और शक्ति के नाम एक साथ लाता है: सूर्य में, भैरवी और भगमालिनी के रूप में, कमल पर, और विष्णु की बहन के रूप में।"
+  },
+  "commentary": {
+    "sanskrit": "भानुमण्डलस्य सूर्यमण्डलस्य मध्ये तिष्ठतीति तथा । सन्ध्यासमये देव्यास्तत्र ध्येयत्वात् ।",
+    "translation": {
+      "en": "She abides in the middle of the bhānumaṇḍala, the orb of the sun, and so is called; for at the hours of twilight the Devī is to be meditated on there.",
+      "hi": "वे भानुमण्डल, अर्थात् सूर्यमण्डल, के मध्य में स्थित हैं, इसलिए ऐसा कहा गया; क्योंकि सन्ध्या के समय वहीं देवी का ध्यान किया जाता है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 275 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The anāhata reading is given as meaning only." }
+}

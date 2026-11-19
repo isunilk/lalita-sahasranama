@@ -1,0 +1,43 @@
+{
+  "number": 647,
+  "verse": 128,
+  "slug": "lopamudrarchita",
+  "devanagari": "लोपामुद्रार्चिता",
+  "iastSplit": "Lopāmudrārcitā",
+  "archana": "ॐ लोपामुद्रार्चितायै नमः",
+  "syllables": ["lo", "pā", "mud", "rār", "ci", "tā"],
+  "words": [
+    { "sa": "लोपामुद्रा", "meaning": { "en": "Lopāmudrā, wife of the sage Agastya", "hi": "लोपामुद्रा, महर्षि अगस्त्य की पत्नी" } },
+    { "sa": "अर्चिता", "meaning": { "en": "worshipped", "hi": "पूजित, अर्चित" } }
+  ],
+  "meaning": {
+    "en": "She who is worshipped by Lopāmudrā",
+    "hi": "लोपामुद्रा द्वारा पूजित"
+  },
+  "explanation": {
+    "en": "Lopāmudrā, the wife of the sage Agastya, was a great devotee of the Devī. This name remembers Lalitā as the one Lopāmudrā worshipped.",
+    "hi": "महर्षि अगस्त्य की पत्नी लोपामुद्रा देवी की महान उपासिका थीं। यह नाम ललिता को उस देवी के रूप में स्मरण करता है जिनकी उपासना लोपामुद्रा ने की।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes the Brahmāṇḍa Purāṇa, where the Devī says that Agastya’s wife Lopāmudrā worships her with devotion. He adds a second sense: she is worshipped by means of the vidyā, the form of the Śrīvidyā mantra, that bears Lopāmudrā’s name. The name points both to a devotee and to a lineage of the mantra; the mantra itself is learned from a teacher.",
+    "hi": "भास्करराय ब्रह्माण्ड पुराण का वचन उद्धृत करते हैं, जहाँ देवी कहती हैं कि अगस्त्य की पत्नी लोपामुद्रा भक्तिपूर्वक उनकी उपासना करती हैं। वे दूसरा अर्थ भी देते हैं: वे उस विद्या से, अर्थात् श्रीविद्या मन्त्र के उस रूप से, पूजित हैं जो लोपामुद्रा के नाम से जाना जाता है। यह नाम एक भक्त की ओर भी संकेत करता है और मन्त्र की एक परम्परा की ओर भी; वह मन्त्र गुरु से ही सीखा जाता है।"
+  },
+  "story": {
+    "en": "In the Brahmāṇḍa Purāṇa it is Agastya to whom Hayagrīva teaches this Sahasranāma, so here the hymn honours the wife of its own first listener. Bhāskararāya also cites the Tripurā Siddhānta: pleased by Lopāmudrā’s worship, the Devī herself is sung of as Lopāmudrā.",
+    "hi": "ब्रह्माण्ड पुराण में हयग्रीव यह सहस्रनाम अगस्त्य को ही सिखाते हैं, इसलिए यहाँ स्तोत्र अपने प्रथम श्रोता की पत्नी का सम्मान करता है। भास्करराय त्रिपुरासिद्धान्त का भी उल्लेख करते हैं: लोपामुद्रा की उपासना से प्रसन्न होने के कारण स्वयं देवी ‘लोपामुद्रा’ कहलाती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "लोपामुद्रयागस्त्यपत्न्या कर्त्र्यार्चितोपासिता ।",
+    "translation": {
+      "en": "Worshipped, that is adored, by Lopāmudrā, Agastya’s wife, as the worshipper.",
+      "hi": "अगस्त्य की पत्नी लोपामुद्रा द्वारा, जो उपासिका हैं, अर्चित अर्थात् उपासित।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 647 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s second sense refers to the लोपामुद्राख्यविद्या; it is named here without mantra details, following the project rule. From the Tripurā Siddhānta he also allows the reading ‘she who is Lopāmudrā and is worshipped’." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 669,
+  "verse": 132,
+  "slug": "anna-da",
+  "devanagari": "अन्नदा",
+  "iastSplit": "Anna-dā",
+  "archana": "ॐ अन्नदायै नमः",
+  "syllables": ["an", "na", "dā"],
+  "words": [
+    { "sa": "अन्न", "meaning": { "en": "food", "hi": "अन्न, भोजन" } },
+    { "sa": "दा", "meaning": { "en": "giver", "hi": "देने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who gives food to all beings",
+    "hi": "सब प्राणियों को अन्न देने वाली"
+  },
+  "explanation": {
+    "en": "Anna is food and -dā means ‘giver’. She gives food to all people, and with it the life that food sustains.",
+    "hi": "अन्न का अर्थ है भोजन, और ‘दा’ का अर्थ है देने वाली। वे सब लोगों को अन्न देती हैं, और उसके साथ वह जीवन भी जिसे अन्न पोषित करता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya cites the Bṛhadāraṇyaka Upaniṣad: this great unborn Self is the eater of food and the giver of wealth, and one who knows this finds wealth. He notes that teachers of the tradition explain annāda there as ‘one who gives food on every side’. The Self of the Upaniṣads is thus the same Mother who feeds the world.",
+    "hi": "भास्करराय बृहदारण्यक उपनिषद् का वचन उद्धृत करते हैं: यह महान अजन्मा आत्मा अन्न का भोक्ता और धन का दाता है; जो ऐसा जानता है, वह धन पाता है। वे बताते हैं कि परम्परा के आचार्य वहाँ ‘अन्नाद’ का अर्थ ‘चारों ओर अन्न देने वाला’ करते हैं। इस प्रकार उपनिषदों का आत्मा वही माँ है जो संसार को भोजन देती है।"
+  },
+  "story": {
+    "en": "In popular devotion this aspect of the Devī is known as Annapūrṇā, the goddess who feeds the world. Verse 132 opens with two names of giving, Annadā and Vasudā, which Bhāskararāya explains from the same Upaniṣadic line.",
+    "hi": "लोक-भक्ति में देवी का यह रूप अन्नपूर्णा के नाम से प्रसिद्ध है, जो संसार को भोजन देती हैं। श्लोक 132 दान के दो नामों, अन्नदा और वसुदा, से आरम्भ होता है, जिन्हें भास्करराय एक ही उपनिषद्-वचन से समझाते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "अन्नं जनेभ्यो ददाति ।",
+    "translation": {
+      "en": "She gives food to people.",
+      "hi": "वे लोगों को अन्न देती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 669 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The mention of Annapūrṇā is general context, not from Bhāskararāya’s comment. He names the Bṛhadāraṇyaka (the passage is 4.4.24). The last sentence of the inner layer is a reflection." }
+}

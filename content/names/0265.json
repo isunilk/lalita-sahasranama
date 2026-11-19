@@ -1,0 +1,43 @@
+{
+  "number": 265,
+  "verse": 63,
+  "slug": "brahma-rupa",
+  "devanagari": "ब्रह्मरूपा",
+  "iastSplit": "Brahma-rūpā",
+  "archana": "ॐ ब्रह्मरूपायै नमः",
+  "syllables": ["brah", "ma", "rū", "pā"],
+  "words": [
+    {"sa": "ब्रह्मन्", "meaning": {"en": "Brahmā, the four-faced creator", "hi": "चतुर्मुख सृष्टिकर्ता ब्रह्मा"}},
+    {"sa": "रूपा", "meaning": {"en": "having the form of", "hi": "रूप वाली"}}
+  ],
+  "meaning": {
+    "en": "Who has the form of Brahmā, the creator",
+    "hi": "सृष्टिकर्ता ब्रह्मा के रूप वाली"
+  },
+  "explanation": {
+    "en": "Having named the act of creation, the hymn names the god who performs it. Brahmā, the four-faced creator, is one of her forms. When Brahmā shapes the worlds, it is her power that works through him.",
+    "hi": "सृष्टि के कृत्य का नाम लेने के बाद स्तोत्र उसे करने वाले देव का नाम लेता है। चतुर्मुख सृष्टिकर्ता ब्रह्मा उनका ही एक रूप हैं। जब ब्रह्मा लोकों को रचते हैं, तब उनके द्वारा देवी की ही शक्ति काम करती है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya reads brahma here as Brahmā the four-faced, the Lord in whom rajas prevails, and says he is her very form. He supports it from the Viṣṇu Purāṇa: Brahmā, Viṣṇu and Śiva are the chief powers of Brahman. The gods of the triad are not rivals to her but her own faces, each turned to one task.",
+    "hi": "भास्करराय यहाँ ‘ब्रह्म’ का अर्थ चतुर्मुख ब्रह्मा लेते हैं, जो रजोगुण-प्रधान ईश्वर हैं, और कहते हैं कि वे देवी का ही रूप हैं। इसके समर्थन में वे विष्णु पुराण का वचन देते हैं: ब्रह्मा, विष्णु और शिव ब्रह्म की प्रधान शक्तियाँ हैं। त्रिमूर्ति के देव उनके प्रतिद्वन्द्वी नहीं, उनके ही मुख हैं, जिनमें से हर एक एक कार्य की ओर उन्मुख है।"
+  },
+  "story": {
+    "en": "The words could also be heard as ‘whose form is Brahman’, the Absolute, but Bhāskararāya keeps to the pattern of the verse, in which each act is followed by its god. Later the hymn calls her Haribrahmendrasevitā, ‘served by Viṣṇu, Brahmā and Indra’ (297).",
+    "hi": "इन शब्दों को ‘जिनका रूप ब्रह्म (परम सत्य) है’ भी सुना जा सकता है, पर भास्करराय श्लोक के क्रम का पालन करते हैं, जिसमें हर कृत्य के बाद उसका देव आता है। आगे स्तोत्र उन्हें ‘हरिब्रह्मेन्द्रसेविता’ (297), अर्थात् विष्णु, ब्रह्मा और इन्द्र द्वारा सेवित, भी कहता है।"
+  },
+  "commentary": {
+    "sanskrit": "ब्रह्मा चतुर्मुखस्तादृश ईश्वरः स एव रूपं यस्याः ।",
+    "translation": {
+      "en": "Brahmā, the four-faced, is such a Lord; she is the one whose form is he himself.",
+      "hi": "चतुर्मुख ब्रह्मा ऐसे ही ईश्वर हैं; वे ही जिनका रूप हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 265 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The sense ‘whose form is Brahman’ in the story layer is a plain observation on the wording, not Bhāskararāya’s reading; he takes Brahmā. The last sentence of the inner layer is a reflection." }
+}

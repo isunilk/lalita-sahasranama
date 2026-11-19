@@ -1,0 +1,43 @@
+{
+  "number": 657,
+  "verse": 129,
+  "slug": "yugandhara",
+  "devanagari": "युगन्धरा",
+  "iastSplit": "Yugandharā",
+  "archana": "ॐ युगन्धरायै नमः",
+  "syllables": ["yu", "gan", "dha", "rā"],
+  "words": [
+    { "sa": "युग", "meaning": { "en": "yoke; pair; age of the world", "hi": "जुआ; युगल; युग" } },
+    { "sa": "धरा", "meaning": { "en": "who bears, upholds", "hi": "धारण करने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who bears the yoke of the world",
+    "hi": "जगत् का जुआ धारण करने वाली"
+  },
+  "explanation": {
+    "en": "Yuga can mean a yoke, a pair or an age of the world, and -dharā means ‘bearer’. As the oxen and horses that bear the yoke draw the plough and the chariot, she bears the yoke of the whole world and keeps it going.",
+    "hi": "‘युग’ के कई अर्थ हैं: जुआ, जोड़ा, या संसार का युग; और ‘धरा’ का अर्थ है धारण करने वाली। जैसे जुआ धारण करने वाले बैल और घोड़े हल और रथ को खींचते हैं, वैसे ही वे समस्त जगत् का जुआ धारण कर उसे चलाती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya draws on the Viśvaprakāśa lexicon’s list of the senses of yuga and keeps the image of the yoke: the name means simply that she carries the whole world. He adds two more senses: she upholds the pair, Śiva and Śakti, or the ages beginning with Kṛta. He gives no further hidden meaning.",
+    "hi": "भास्करराय विश्वप्रकाश कोश में दिए ‘युग’ के अर्थों का सहारा लेते हैं और जुए का चित्र रखते हैं: नाम का आशय बस यह है कि वे सारे जगत् को वहन करती हैं। वे दो और अर्थ जोड़ते हैं: वे शिव-शक्ति के युगल को, अथवा कृत आदि युगों को, धारण करती हैं। इसके आगे वे कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "He explains the grammar as well: the form yugandhara, with m before dhara, follows Pāṇini’s rules for the suffix khac in a name and for the augment mum. With this name verse 129 ends.",
+    "hi": "वे व्याकरण भी समझाते हैं: ‘युगन्धर’ रूप, जिसमें ‘धर’ से पहले ‘म्’ आता है, संज्ञा में ‘खच्’ प्रत्यय और ‘मुम्’ आगम के पाणिनीय सूत्रों के अनुसार बनता है। इस नाम के साथ श्लोक 129 पूरा होता है।"
+  },
+  "commentary": {
+    "sanskrit": "शिवशक्तियुगलस्य कृतादेर्वा धारणाद्युगन्धरा",
+    "translation": {
+      "en": "She is Yugandharā because she upholds the pair of Śiva and Śakti, or the ages beginning with Kṛta.",
+      "hi": "शिव-शक्ति के युगल को, अथवा कृत आदि युगों को, धारण करने के कारण वे युगन्धरा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 657 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s main reading (she bears the world as the yoke-bearers draw chariot and plough) is given in the explanation; the quoted passage is his further reading. The iastSplit is left unhyphenated because of the augment m (युगम्-धरा)." }
+}

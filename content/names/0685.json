@@ -1,0 +1,43 @@
+{
+  "number": 685,
+  "verse": 134,
+  "slug": "rajya-dayini",
+  "devanagari": "राज्यदायिनी",
+  "iastSplit": "Rājya-dāyinī",
+  "archana": "ॐ राज्यदायिन्यै नमः",
+  "syllables": ["rāj", "ya", "dā", "yi", "nī"],
+  "words": [
+    { "sa": "राज्य", "meaning": { "en": "kingdom, sovereignty", "hi": "राज्य, राजसत्ता" } },
+    { "sa": "दायिनी", "meaning": { "en": "giver", "hi": "देने वाली" } }
+  ],
+  "meaning": {
+    "en": "Giver of kingdoms",
+    "hi": "राज्य प्रदान करने वाली"
+  },
+  "explanation": {
+    "en": "It is her nature to give kingdoms. Bhāskararāya names the highest of them: svārājya, the rule of heaven, and lordship over Vaikuṇṭha and Kailāsa. Even the rule of the gods in their own worlds is her gift.",
+    "hi": "राज्य देना उनका स्वभाव है। भास्करराय इनमें सबसे ऊँचे राज्यों के नाम लेते हैं: स्वाराज्य (स्वर्ग का राज्य), तथा वैकुण्ठ और कैलास का आधिपत्य। देवताओं का अपने-अपने लोकों पर शासन भी उन्हीं का दिया हुआ है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya keeps to the plain sense. If the rule of Vaikuṇṭha and Kailāsa is her gift, every lesser authority is held from her in trust. The word he uses, svārājya, can also mean rule over oneself, the kingdom a seeker most needs.",
+    "hi": "भास्करराय यहाँ सीधा अर्थ ही देते हैं। यदि वैकुण्ठ और कैलास का आधिपत्य भी उनकी देन है, तो हर छोटा अधिकार उन्हीं से धरोहर के रूप में मिला है। उनके द्वारा प्रयुक्त शब्द ‘स्वाराज्य’ का अर्थ अपने ऊपर शासन भी हो सकता है — वह राज्य जिसकी साधक को सबसे अधिक आवश्यकता है।"
+  },
+  "story": {
+    "en": "This name follows Rājarājeśvarī naturally: the sovereign of the kings of kings is the one who grants their kingdoms. In the next name those kingdoms are said to be dear to her.",
+    "hi": "यह नाम राजराजेश्वरी के बाद स्वाभाविक रूप से आता है: जो राजाओं के राजाओं की अधीश्वरी हैं, वही उन्हें उनके राज्य देती हैं। अगले नाम में कहा गया है कि ये राज्य उन्हें प्रिय हैं।"
+  },
+  "commentary": {
+    "sanskrit": "राज्यं स्वाराज्यवैकुण्ठकैलासाधिपत्यादिकं दातुं शीलमस्याः ।",
+    "translation": {
+      "en": "It is her nature to give rājya, kingdoms: svārājya, lordship over Vaikuṇṭha and Kailāsa, and the like.",
+      "hi": "राज्य — स्वाराज्य, वैकुण्ठ और कैलास का आधिपत्य आदि — देना उनका स्वभाव है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 685 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. स्वाराज्य is rendered as the rule of heaven, matching its place in the list with Vaikuṇṭha and Kailāsa; the inner layer’s reading of it as self-rule, and its second sentence, are a reflection." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 558,
+  "verse": 113,
+  "slug": "kamalaksha-nishevita",
+  "devanagari": "कमलाक्षनिषेविता",
+  "iastSplit": "Kamalākṣa-niṣevitā",
+  "archana": "ॐ कमलाक्षनिषेवितायै नमः",
+  "syllables": ["ka", "ma", "lāk", "ṣa", "ni", "ṣe", "vi", "tā"],
+  "words": [
+    { "sa": "कमलाक्ष", "meaning": { "en": "lotus-eyed: Viṣṇu", "hi": "कमलनयन, विष्णु" } },
+    { "sa": "निषेविता", "meaning": { "en": "constantly served, worshipped", "hi": "निरन्तर सेवित, उपासित" } }
+  ],
+  "meaning": {
+    "en": "Constantly worshipped by lotus-eyed Viṣṇu",
+    "hi": "कमलनयन विष्णु द्वारा निरन्तर सेवित"
+  },
+  "explanation": {
+    "en": "Kamalākṣa, ‘lotus-eyed’, is Viṣṇu. Niṣevitā means served or worshipped, and Bhāskararāya takes the prefix ni- as ‘constantly’: Viṣṇu worships her without ceasing.",
+    "hi": "‘कमलाक्ष’, अर्थात् कमल जैसे नेत्रों वाले, विष्णु हैं। ‘निषेविता’ का अर्थ है सेवित या पूजित, और भास्करराय ‘नि’ उपसर्ग का अर्थ ‘निरन्तर’ लेते हैं: विष्णु बिना रुके उनकी उपासना करते हैं।"
+  },
+  "inner": {
+    "en": "He quotes the Padma Purāṇa: Viṣṇu ever worships the Devī made of sapphire, and by this he attained his state as Viṣṇu. Even the preserver of the worlds owes his station to her worship.",
+    "hi": "वे पद्म पुराण का वचन देते हैं: विष्णु इन्द्रनीलमयी देवी की सदा अर्चना करते हैं, और इसी से उन्होंने विष्णुत्व प्राप्त किया। लोकों के पालनकर्ता भी अपना पद उन्हीं की उपासना से पाते हैं।"
+  },
+  "story": {
+    "en": "This name closes verse 113, whose second line moves from Kātyāyanī, born of the gods’ radiance, and Kālahantrī, slayer of death, to Viṣṇu himself worshipping her.",
+    "hi": "यह नाम श्लोक 113 को पूरा करता है, जिसकी दूसरी पंक्ति देवताओं के तेज से प्रकट कात्यायनी और मृत्यु का संहार करने वाली कालहन्त्री से होते हुए उनकी उपासना करते स्वयं विष्णु तक पहुँचती है।"
+  },
+  "commentary": {
+    "sanskrit": "कमलाक्षेण विष्णुना नितरां सेवितोपासिता ।",
+    "translation": {
+      "en": "Constantly served, that is, worshipped, by Kamalākṣa, the lotus-eyed Viṣṇu.",
+      "hi": "कमलाक्ष, अर्थात् कमलनयन विष्णु, द्वारा निरन्तर सेवित, अर्थात् उपासित।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 558 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Padma Purāṇa verse is incomplete in the edition (the rest of its second line is printed as dashes); only the printed part is used. ‘Constantly’ renders his नितरां (fully, intensely)." }
+}

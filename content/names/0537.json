@@ -1,0 +1,43 @@
+{
+  "number": 537,
+  "verse": 110,
+  "slug": "amati",
+  "devanagari": "अमतिः",
+  "iastSplit": "Amatiḥ",
+  "archana": "ॐ अमत्यै नमः",
+  "syllables": ["a", "ma", "tiḥ"],
+  "words": [
+    { "sa": "अ", "meaning": { "en": "not; also ‘little’", "hi": "न, अभाव; ‘अल्प’ भी" } },
+    { "sa": "मति", "meaning": { "en": "thought, understanding", "hi": "मति, बुद्धि" } }
+  ],
+  "meaning": {
+    "en": "She who is even avidyā, the power of not-knowing",
+    "hi": "जो अविद्या, अर्थात् अज्ञान की शक्ति, भी हैं"
+  },
+  "explanation": {
+    "en": "Mati is thought or understanding, and amati is its absence. Bhāskararāya’s first reading is plain: the name means avidyā, ignorance. The veil that hides the truth is also her power; nothing lies outside her.",
+    "hi": "‘मति’ का अर्थ है बुद्धि या समझ, और ‘अमति’ उसका अभाव। भास्करराय का पहला अर्थ सीधा है: इस नाम का अर्थ अविद्या है। सत्य को ढकने वाला आवरण भी उन्हीं की शक्ति है; कुछ भी उनसे बाहर नहीं।"
+  },
+  "inner": {
+    "en": "He gives other readings too. Taking the negative as ‘little’, she is knowledge in the form of the mind’s passing states; Durga, commenting on the Nirukta, explains the Vedic word as knowledge of one’s own self, and in another place as form. Or she is the first creation, which arises without the intellect going before it; the next name, Medhā, is then the creation that the intellect precedes.",
+    "hi": "वे अन्य अर्थ भी देते हैं। ‘अ’ को ‘अल्प’ के अर्थ में लें तो वे वृत्ति-रूप ज्ञान हैं, अर्थात् मन की बदलती अवस्थाओं के रूप में ज्ञान; निरुक्त के टीकाकार दुर्ग इस वैदिक शब्द का अर्थ आत्म-ज्ञान बताते हैं, और एक अन्य स्थान पर रूप। अथवा वे वह प्रथम सृष्टि हैं जो बुद्धिपूर्वक नहीं होती; तब अगला नाम ‘मेधा’ बुद्धिपूर्वक सृष्टि है।"
+  },
+  "story": {
+    "en": "In the chanted verse svadhā and amatiḥ run together as svadhā’matiḥ; the avagraha marks the a that sandhi hides. Bhāskararāya’s edition prints the line as svadhā matir medhā, but he says plainly that the name is amati, of three syllables.",
+    "hi": "पाठ में ‘स्वधा’ और ‘अमतिः’ मिलकर ‘स्वधाऽमतिः’ बोले जाते हैं; ‘ऽ’ चिह्न उस ‘अ’ को दिखाता है जो सन्धि में छिप जाता है। भास्करराय के संस्करण में पंक्ति ‘स्वधा मतिर्मेधा’ छपी है, पर वे स्पष्ट कहते हैं कि नाम ‘अमति’ है, तीन अक्षरों का।"
+  },
+  "commentary": {
+    "sanskrit": "अमतिरिति त्र्यक्षरं नाम । अविद्येत्यर्थः ।",
+    "translation": {
+      "en": "Amati is a name of three syllables; it means avidyā, ignorance.",
+      "hi": "‘अमति’ तीन अक्षरों का नाम है; इसका अर्थ है अविद्या।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 537 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Sandhi: स्वधाऽमतिर्मेधा = स्वधा + अमतिः + मेधा. The edition’s verse line reads स्वधा मतिर्मेधा, but Bhāskararāya’s comment (अमतिरिति त्र्यक्षरं नाम) confirms अमतिः, as in the master text. He prints the Vedic word as अमिति (वैदिकनिघण्टुगतोऽयममितिशब्दः), probably a misprint for अमति. The ‘first creation’ refers to the order of creation he set out earlier in the commentary (पूर्वोक्ते सृष्टिक्रमे). The last sentence of the explanation is a reflection." }
+}

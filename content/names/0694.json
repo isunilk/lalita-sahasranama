@@ -1,0 +1,43 @@
+{
+  "number": 694,
+  "verse": 135,
+  "slug": "sagara-mekhala",
+  "devanagari": "सागरमेखला",
+  "iastSplit": "Sāgara-mekhalā",
+  "archana": "ॐ सागरमेखलायै नमः",
+  "syllables": ["sā", "ga", "ra", "me", "kha", "lā"],
+  "words": [
+    { "sa": "सागर", "meaning": { "en": "ocean", "hi": "सागर, समुद्र" } },
+    { "sa": "मेखला", "meaning": { "en": "girdle, waistband", "hi": "मेखला, करधनी" } }
+  ],
+  "meaning": {
+    "en": "Whose girdle is the oceans: the Earth herself",
+    "hi": "समुद्र जिनकी करधनी हैं — स्वयं पृथ्वी"
+  },
+  "explanation": {
+    "en": "The oceans are her girdle. Bhāskararāya says this describes the Earth, whom the seas encircle like a waistband: the Devī is the Earth herself.",
+    "hi": "समुद्र उनकी करधनी हैं। भास्करराय कहते हैं कि यह पृथ्वी का वर्णन है, जिसे समुद्र कमरबन्द की तरह घेरे हुए हैं: देवी स्वयं पृथ्वी हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only this plain sense. After names of kingdom and empire, the verse ends with the whole ocean-girdled Earth as her very body. The ground under every throne is she herself.",
+    "hi": "भास्करराय केवल यही सीधा अर्थ देते हैं। राज्य और साम्राज्य के नामों के बाद, श्लोक समुद्र की करधनी पहने सम्पूर्ण पृथ्वी को उनका ही शरीर कहकर समाप्त होता है। हर सिंहासन के नीचे की भूमि वे स्वयं हैं।"
+  },
+  "story": {
+    "en": "“Ocean-girdled” is a classical Sanskrit epithet of the Earth, and a great king’s realm is often described as the land the seas enclose. Here the Earth is not her possession but her form.",
+    "hi": "‘सागर-मेखला’ संस्कृत साहित्य में पृथ्वी का पारम्परिक विशेषण है, और किसी महान राजा के राज्य का वर्णन अक्सर समुद्रों से घिरी भूमि के रूप में होता है। यहाँ पृथ्वी उनकी सम्पत्ति नहीं, उनका स्वरूप है।"
+  },
+  "commentary": {
+    "sanskrit": "सागराः समुद्रां एव मेखला काञ्ची यस्या भूमेः सा ।",
+    "translation": {
+      "en": "She is the Earth, whose mekhalā, girdle, is the sāgaras, the oceans themselves.",
+      "hi": "जिस पृथ्वी की मेखला अर्थात् करधनी स्वयं सागर हैं, वे वही हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 694 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The commentary excerpt is quoted exactly as printed; समुद्रां is a misprint for समुद्रा. The inner layer after its first sentence is a reflection, and the story is general context." }
+}

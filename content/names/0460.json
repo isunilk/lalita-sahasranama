@@ -1,0 +1,42 @@
+{
+  "number": 460,
+  "verse": 96,
+  "slug": "nalini",
+  "devanagari": "नलिनी",
+  "iastSplit": "Nalinī",
+  "archana": "ॐ नलिन्यै नमः",
+  "syllables": ["na", "li", "nī"],
+  "words": [
+    { "sa": "नलिनी", "meaning": { "en": "lotus plant; a pond of lotuses", "hi": "नलिनी, कमलिनी; कमलों का सरोवर" } }
+  ],
+  "meaning": {
+    "en": "The lotus plant, lotus in every limb",
+    "hi": "कमलिनी, जिनका हर अंग कमल-सा है"
+  },
+  "explanation": {
+    "en": "Nalinī is the lotus plant, or a pond full of lotuses. Her hands, feet, face and eyes are all lotuses, so she herself is called the lotus plant.",
+    "hi": "नलिनी का अर्थ है कमलिनी, या कमलों से भरा सरोवर। उनके हाथ, चरण, मुख और नेत्र सब कमल हैं, इसलिए वे स्वयं कमलिनी कहलाती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives three readings: her limbs are lotuses, so she is Nalinī; or she is the Gaṅgā, for Nalinī is one of the Gaṅgā’s twelve names; or she is the one in whom a king named Nala, by worshipping her, became one with her. The lotus, rooted in mud yet unstained by it, is an old image of the pure Self.",
+    "hi": "भास्करराय तीन अर्थ देते हैं: उनके अंग कमल हैं, इसलिए वे नलिनी हैं; अथवा वे गंगा हैं, क्योंकि नलिनी गंगा के बारह नामों में एक है; अथवा वे वह हैं जिनकी उपासना से नल नाम का एक राजा उनसे तादात्म्य को प्राप्त हुआ। कीचड़ में जन्म लेकर भी उससे अछूता रहने वाला कमल शुद्ध आत्मा का पुराना प्रतीक है।"
+  },
+  "story": {
+    "en": "With Nandinī (450), this is one of the twelve names of the Gaṅgā that Bhāskararāya cites. The best-known King Nala is the hero of the tale of Nala and Damayantī, but Bhāskararāya says only that a king of that name became one with her through worship.",
+    "hi": "नन्दिनी (450) के साथ यह भी गंगा के उन बारह नामों में है जिन्हें भास्करराय उद्धृत करते हैं। सबसे प्रसिद्ध राजा नल नल-दमयन्ती की कथा के नायक हैं, पर भास्करराय केवल इतना कहते हैं कि इस नाम का एक राजा उपासना द्वारा उनसे एक हो गया।"
+  },
+  "commentary": {
+    "sanskrit": "भागीरथीरूपत्वाद्वा । नन्दिनी नलिनी गङ्गेति तदीयद्वादशनामसु गणनात् ।",
+    "translation": {
+      "en": "Or because she is the Bhāgīrathī, the Gaṅgā: Nandinī, Nalinī and Gaṅgā are counted among its twelve names.",
+      "hi": "अथवा भागीरथी-स्वरूपा होने से; क्योंकि नन्दिनी, नलिनी, गंगा उसके बारह नामों में गिने जाते हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 460 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s first reading includes the phrase सृष्टिन्यायेन, left untranslated; its sense should be checked. The lotus image in the inner layer is a reflection." }
+}

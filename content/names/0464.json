@@ -1,0 +1,43 @@
+{
+  "number": 464,
+  "verse": 96,
+  "slug": "kala-kanthi",
+  "devanagari": "कालकण्ठी",
+  "iastSplit": "Kāla-kaṇṭhī",
+  "archana": "ॐ कालकण्ठ्यै नमः",
+  "syllables": ["kā", "la", "kaṇ", "ṭhī"],
+  "words": [
+    { "sa": "काल", "meaning": { "en": "dark, black", "hi": "काल, काला, श्याम" } },
+    { "sa": "कण्ठ", "meaning": { "en": "throat", "hi": "कण्ठ, गला" } }
+  ],
+  "meaning": {
+    "en": "Consort of the dark-throated Lord, Śiva",
+    "hi": "काले कण्ठ वाले शिव की पत्नी"
+  },
+  "explanation": {
+    "en": "Kālakaṇṭha, ‘dark-throated’, is Śiva, whose throat turned dark when he held the world-destroying poison in it. Kālakaṇṭhī is his consort.",
+    "hi": "कालकण्ठ, अर्थात् ‘काले कण्ठ वाले’, शिव हैं, जिनका कण्ठ संसार का नाश करने वाले विष को धारण करने से काला पड़ गया। कालकण्ठी उनकी पत्नी हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives several further readings. Taking kala as a sweet, soft sound, she is Kālakaṇṭhī, ‘sweet-voiced’. She is also the presiding goddess of Kālañjara, where Śiva is worshipped as Kālakaṇṭha, and the dark-throated Kālī whom, the Liṅga Purāṇa says, Śiva created to slay the demon Dāruka.",
+    "hi": "भास्करराय और भी अर्थ देते हैं। ‘कल’ को मधुर, अस्फुट ध्वनि मानकर वे कालकण्ठी हैं, अर्थात् ‘मधुर कण्ठ वाली’। वे कालञ्जर की अधिष्ठात्री देवी भी हैं, जहाँ शिव कालकण्ठ रूप में पूजित हैं, और वह कालकण्ठी काली भी, जिन्हें लिंग पुराण के अनुसार शिव ने दारुक असुर के वध के लिए उत्पन्न किया।"
+  },
+  "story": {
+    "en": "When the gods and demons churned the ocean, a deadly poison rose that threatened the worlds, and Śiva held it in his throat. Bhāskararāya quotes the Vāyu Purāṇa, where Śiva says: ‘In the sight of the gods, piśācas, serpents and rākṣasas I held the terrible poison in my throat; so I am Kālakaṇṭha.’",
+    "hi": "जब देवताओं और असुरों ने समुद्र-मन्थन किया, तब लोकों को संकट में डालने वाला भयंकर विष निकला, और शिव ने उसे अपने कण्ठ में धारण कर लिया। भास्करराय वायु पुराण उद्धृत करते हैं, जहाँ शिव कहते हैं: ‘देवगणों, पिशाचों, नागों और राक्षसों के देखते-देखते मैंने घोर विष कण्ठ में धारण किया; इसलिए मैं कालकण्ठ हूँ।’"
+  },
+  "commentary": {
+    "sanskrit": "कालः कण्ठो यस्येश्वरस्य तस्य स्त्री ।",
+    "translation": {
+      "en": "The wife of the Lord whose throat is dark.",
+      "hi": "जिन ईश्वर का कण्ठ काला है, उनकी पत्नी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 464 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The churning of the ocean is general context; the Vāyu Purāṇa verse is as quoted by Bhāskararāya. The Liṅga Purāṇa line (ससर्ज कालीं कामारिः कालकण्ठीं कपर्दिनीम्) is read as describing one goddess, Kālī." }
+}

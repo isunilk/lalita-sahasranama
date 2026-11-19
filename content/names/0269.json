@@ -1,0 +1,43 @@
+{
+  "number": 269,
+  "verse": 64,
+  "slug": "rudra-rupa",
+  "devanagari": "रुद्ररूपा",
+  "iastSplit": "Rudra-rūpā",
+  "archana": "ॐ रुद्ररूपायै नमः",
+  "syllables": ["rud", "ra", "rū", "pā"],
+  "words": [
+    {"sa": "रुद्र", "meaning": {"en": "Rudra, Śiva as the dissolver", "hi": "रुद्र, संहारकर्ता शिव"}},
+    {"sa": "रूपा", "meaning": {"en": "having the form of", "hi": "रूप वाली"}}
+  ],
+  "meaning": {
+    "en": "Who has the form of Rudra, the dissolver",
+    "hi": "संहारकर्ता रुद्र के रूप वाली"
+  },
+  "explanation": {
+    "en": "Rudra, the fierce form of Śiva, is the god of dissolution. This name says Rudra too is her form. The power that ends an age is hers, working through him.",
+    "hi": "रुद्र, शिव का उग्र रूप, संहार के देवता हैं। यह नाम कहता है कि रुद्र भी उनका ही रूप हैं। युग का अन्त करने वाली शक्ति उन्हीं की है, जो रुद्र के द्वारा कार्य करती है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gathers the meanings of Rudra: he who drives away (drāvayati) pain (ruj), or he who makes others weep (rodayati). The rains at the dissolution of the world, he says, are tears from Rudra’s eye, the sun. And the Vāyavīya Saṃhitā explains: rut is sorrow, or the cause of sorrow, and the Lord who drives it away is called Rudra, Śiva, the supreme cause.",
+    "hi": "भास्करराय ‘रुद्र’ के अर्थ एकत्र करते हैं: जो रुज् (पीड़ा) को दूर भगाते हैं (द्रावयति), या जो रुलाते हैं (रोदयति)। प्रलयकाल की वर्षा, वे कहते हैं, रुद्र के सूर्य रूपी नेत्र से निकले आँसू हैं। और वायवीय संहिता बताती है: ‘रुत्’ दुःख या दुःख का कारण है, और जो प्रभु उसे दूर करते हैं वे रुद्र कहलाते हैं, परम कारण शिव।"
+  },
+  "story": {
+    "en": "He also quotes the Vedic saying, ‘He wept; because he wept, that is why Rudra is Rudra’, and the Mahābhārata account of Rudra rising from Brahmā’s forehead and crying out with a loud and fearful voice. The Chāndogya Upaniṣad, he adds, calls the life-breaths Rudras, because they make all this weep.",
+    "hi": "वे वैदिक वचन भी उद्धृत करते हैं: ‘वह रोया; क्योंकि वह रोया, इसीलिए रुद्र रुद्र हैं’, और महाभारत का वह प्रसंग कि रुद्र ब्रह्मा के ललाट से प्रकट होकर ऊँचे, भयंकर स्वर में रोए। वे आगे कहते हैं कि छान्दोग्य उपनिषद् प्राणों को रुद्र कहता है, क्योंकि वे इस सबको रुलाते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "रुद्रस्तादृश ईश्वरः । रुजं द्रावयतीति वा रोदयतीति वा ।",
+    "translation": {
+      "en": "Rudra is such a Lord: he who drives away pain (ruj), or he who makes others weep.",
+      "hi": "रुद्र ऐसे ही ईश्वर हैं: जो रुज् (पीड़ा) को दूर भगाते हैं, अथवा जो रुलाते हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 269 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude." }
+}

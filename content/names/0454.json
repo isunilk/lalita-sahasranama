@@ -1,0 +1,45 @@
+{
+  "number": 454,
+  "verse": 95,
+  "slug": "lolakshi-kama-rupini",
+  "devanagari": "लोलाक्षीकामरूपिणी",
+  "iastSplit": "Lolākṣī-kāma-rūpiṇī",
+  "archana": "ॐ लोलाक्षीकामरूपिण्यै नमः",
+  "syllables": ["lo", "lāk", "ṣī", "kā", "ma", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "लोल", "meaning": { "en": "restless, tremulous", "hi": "लोल, चंचल" } },
+    { "sa": "अक्षि", "meaning": { "en": "eye", "hi": "अक्षि, नेत्र" } },
+    { "sa": "काम", "meaning": { "en": "desire, love; Kāma, the god of love", "hi": "काम, प्रेम; कामदेव" } },
+    { "sa": "रूपिणी", "meaning": { "en": "having the form of", "hi": "रूप वाली" } }
+  ],
+  "meaning": {
+    "en": "The form of Kāma, the love in restless-eyed women",
+    "hi": "चंचल नेत्रों वाली स्त्रियों में बसे काम का स्वरूप"
+  },
+  "explanation": {
+    "en": "Lolākṣī is a woman whose eyes dart and sparkle, a classical picture of beauty; kāma is love, and Kāma is its god. The name says she is the love that lives in such women: the charm that wakes desire in the world is her form.",
+    "hi": "लोलाक्षी वह स्त्री है जिसकी आँखें चंचल और चमकीली हों, जो सौन्दर्य का पारम्परिक चित्र है; काम प्रेम है, और कामदेव उसके देवता। यह नाम कहता है कि ऐसी स्त्रियों में बसा प्रेम वे स्वयं हैं: संसार में कामना जगाने वाला आकर्षण उन्हीं का रूप है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya notes that the words ‘of restless-eyed women’ mark which Kāma is meant: Manmatha, the god of love. He gives a second reading from the Varāha Purāṇa, where eight mothers stand for eight faults: desire is Yogeśvarī, anger Māheśvarī, greed Vaiṣṇavī, and so on. In this reading she is Yogeśvarī, the goddess who presides over desire.",
+    "hi": "भास्करराय बताते हैं कि ‘चंचल नेत्रों वाली स्त्रियों का’ यह विशेषण स्पष्ट करता है कि यहाँ कौन-सा काम अभिप्रेत है: मन्मथ, प्रेम के देवता। वे वराह पुराण से दूसरा अर्थ भी देते हैं, जहाँ आठ मातृकाएँ आठ दोषों की प्रतीक हैं: काम योगेश्वरी है, क्रोध माहेश्वरी, लोभ वैष्णवी, इत्यादि। इस अर्थ में वे योगेश्वरी हैं, काम की अधिष्ठात्री देवी।"
+  },
+  "story": {
+    "en": "Kāma, the god of love, was burned by the fire of Śiva’s eye, and the hymn earlier called her the healing herb that brought him back to life (name 84). Here she is that very love at work in the world.",
+    "hi": "प्रेम के देवता कामदेव शिव के नेत्र की अग्नि से भस्म हो गए थे, और स्तोत्र पहले उन्हें वह संजीवनी औषधि कह चुका है जिसने काम को फिर जीवित किया (नाम 84)। यहाँ वे संसार में सक्रिय वही प्रेम हैं।"
+  },
+  "commentary": {
+    "sanskrit": "लोलाक्षीणां स्त्रीणां यः कामो मन्मथस्तद्रूपिणी ।",
+    "translation": {
+      "en": "She has the form of the Kāma, Manmatha, that belongs to women with restless eyes.",
+      "hi": "चंचल नेत्रों वाली स्त्रियों का जो काम, अर्थात् मन्मथ, है, उसका रूप धारण करने वाली।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 454 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Wikisource edition prints the verse as लोलाक्षी कामरूपिणी, but its commentary explains a single name, as the master text has it. Bhāskararāya says the qualifier is added शिवकामनिरासाय, ‘to exclude Śiva-kāma’; whether this means Śiva as Kāmeśvara or ‘auspicious desire’ should be checked, so the inner layer says only that it identifies Manmatha." }
+}

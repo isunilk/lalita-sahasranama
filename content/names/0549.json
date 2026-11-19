@@ -1,0 +1,42 @@
+{
+  "number": 549,
+  "verse": 112,
+  "slug": "vidya",
+  "devanagari": "विद्या",
+  "iastSplit": "Vidyā",
+  "archana": "ॐ विद्यायै नमः",
+  "syllables": ["vid", "yā"],
+  "words": [
+    { "sa": "विद्या", "meaning": { "en": "knowledge, liberating wisdom", "hi": "विद्या, मुक्तिदायक ज्ञान" } }
+  ],
+  "meaning": {
+    "en": "She who is Vidyā, the knowledge that liberates",
+    "hi": "जो विद्या हैं, मुक्ति देने वाला ज्ञान"
+  },
+  "explanation": {
+    "en": "Vidyā is knowledge, and above all the knowledge that sets one free. Bhāskararāya says she is Vidyā because her very nature is the knowledge that grants liberation.",
+    "hi": "‘विद्या’ का अर्थ है ज्ञान, और सबसे बढ़कर वह ज्ञान जो मुक्त करता है। भास्करराय कहते हैं कि वे विद्या हैं, क्योंकि उनका स्वरूप ही मोक्ष देने वाला ज्ञान है।"
+  },
+  "inner": {
+    "en": "He quotes the Devī Māhātmya, ‘You are that Vidyā, the Bhagavatī, the supreme Devī’, and a sūtra of Gauḍapāda, ‘She alone is vidyā’, which follows the sūtra calling her the power whose nature is consciousness. He adds that in the Śaiva tantras vidyā is also the name of a principle (kalā): the power of knowing and acting by which one discerns what Māyā has made.",
+    "hi": "वे देवीमाहात्म्य का वचन देते हैं, ‘तुम वही विद्या हो, परमा भगवती देवी’, और गौडपाद का सूत्र, ‘वही विद्या है’, जो उस सूत्र के बाद आता है जिसमें उन्हें चैतन्य-स्वरूपा शक्ति कहा गया है। वे यह भी जोड़ते हैं कि शैव तन्त्रों में ‘विद्या’ एक कला का नाम भी है: ज्ञान और क्रिया की वह शक्ति जिससे माया के कार्यों का विवेक होता है।"
+  },
+  "story": {
+    "en": "In Śrīvidyā the word vidyā is also used for the Devī’s own mantra, which gives the tradition its name; here Bhāskararāya reads it as liberating knowledge.",
+    "hi": "श्रीविद्या में ‘विद्या’ शब्द देवी के अपने मन्त्र के लिए भी प्रयुक्त होता है, जिससे इस परम्परा का नाम बना है; यहाँ भास्करराय इसे मुक्तिदायक ज्ञान के अर्थ में लेते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "मोक्षप्रदज्ञानस्वरूपत्वाद्विद्या । विद्यासि सा भगवती परमा हि देवीति देवीमाहात्म्यात् ।",
+    "translation": {
+      "en": "She is Vidyā because her nature is the knowledge that grants liberation; as the Devī Māhātmya says, ‘You are that Vidyā, the Bhagavatī, the supreme Devī.’",
+      "hi": "मोक्ष देने वाले ज्ञान का स्वरूप होने से वे विद्या हैं; देवीमाहात्म्य कहता है: ‘तुम वही विद्या हो, परमा भगवती देवी।’"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 549 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. ‘Gauḍapāda’s sūtra’ is as Bhāskararāya names it (गौडपादीयं सूत्रम्). He also gives a reading तेजोनिष्ठकलाविशेषरूपा, left out here. The remark on vidyā as the name for the mantra is general context, not from him here; no mantra is given." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 679,
+  "verse": 133,
+  "slug": "brihat-sena",
+  "devanagari": "बृहत्सेना",
+  "iastSplit": "Bṛhat-senā",
+  "archana": "ॐ बृहत्सेनायै नमः",
+  "syllables": ["bṛ", "hat", "se", "nā"],
+  "words": [
+    { "sa": "बृहत्", "meaning": { "en": "vast, great", "hi": "विशाल, महान" } },
+    { "sa": "सेना", "meaning": { "en": "army", "hi": "सेना" } }
+  ],
+  "meaning": {
+    "en": "Whose army is vast beyond measure",
+    "hi": "जिनकी सेना अपार है"
+  },
+  "explanation": {
+    "en": "Her army is immense, without limit. Bhāskararāya explains it as the fourfold force of a classical army, and gives a second reading: she takes the form of a particular king named Bṛhatsena.",
+    "hi": "उनकी सेना अपार है, जिसकी कोई सीमा नहीं। भास्करराय इसे पारम्परिक चतुरंगिणी सेना बताते हैं, और दूसरा अर्थ भी देते हैं: वे बृहत्सेन नामक एक विशेष राजा का रूप हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya keeps to the plain sense, and does not say who the king Bṛhatsena was. The boundless army recalls the hosts of śaktis that march with her: however great the forces ranged against a devotee, hers are greater.",
+    "hi": "भास्करराय यहाँ सीधा अर्थ ही देते हैं, और राजा बृहत्सेन कौन थे, यह नहीं बताते। अपार सेना उन शक्तियों के समूहों का स्मरण कराती है जो उनके साथ चलती हैं: भक्त के विरुद्ध खड़ी शक्तियाँ कितनी भी बड़ी हों, उनकी सेना उनसे बड़ी है।"
+  },
+  "story": {
+    "en": "In the Lalitopākhyāna she rides out against Bhaṇḍāsura at the head of an army of śaktis. The hymn described it near its start: the śakti army ready to slay Bhaṇḍa in name 65, with its elephants and cavalry in names 66 and 67.",
+    "hi": "ललितोपाख्यान में वे शक्तियों की सेना के साथ भण्डासुर से युद्ध करने निकलती हैं। स्तोत्र आरम्भ में ही इसका वर्णन कर चुका है: नाम 65 में भण्डासुर-वध को उद्यत शक्ति-सेना, और नाम 66 व 67 में उसके हाथी और घुड़सवार।"
+  },
+  "commentary": {
+    "sanskrit": "बृहती अपारा सेना चतुरङ्गबलं यस्याः । बृहत्सेनाख्यराजविशेषरूपा वा ।",
+    "translation": {
+      "en": "Whose senā, army, that is, the fourfold force, is bṛhatī, boundless. Or: she is in the form of a particular king named Bṛhatsena.",
+      "hi": "जिनकी सेना, अर्थात् चतुरंगिणी सेना, बृहती अर्थात् अपार है। अथवा, वे बृहत्सेन नामक विशेष राजा के रूप वाली हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 679 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya does not identify the king Bṛhatsena (बृहत्सेनाख्यराजविशेषरूपा वा). The second sentence of the inner layer is a reflection." }
+}

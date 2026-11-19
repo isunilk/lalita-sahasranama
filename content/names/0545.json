@@ -1,0 +1,43 @@
+{
+  "number": 545,
+  "verse": 111,
+  "slug": "pulomajarchita",
+  "devanagari": "पुलोमजार्चिता",
+  "iastSplit": "Pulomajārcitā",
+  "archana": "ॐ पुलोमजार्चितायै नमः",
+  "syllables": ["pu", "lo", "ma", "jār", "ci", "tā"],
+  "words": [
+    { "sa": "पुलोमजा", "meaning": { "en": "daughter of Puloman: Śacī, Indra’s wife", "hi": "पुलोमा की पुत्री, इन्द्र-पत्नी शची" } },
+    { "sa": "अर्चिता", "meaning": { "en": "worshipped", "hi": "पूजित" } }
+  ],
+  "meaning": {
+    "en": "Worshipped by Śacī, the daughter of Puloman",
+    "hi": "पुलोमा की पुत्री शची द्वारा पूजित"
+  },
+  "explanation": {
+    "en": "Pulomajā, ‘born of Puloman’, is Śacī, also called Indrāṇī, the wife of Indra. She worshipped the Devī.",
+    "hi": "‘पुलोमजा’ अर्थात् पुलोमा से उत्पन्न: शची, जिन्हें इन्द्राणी भी कहते हैं, इन्द्र की पत्नी। उन्होंने देवी की आराधना की।"
+  },
+  "inner": {
+    "en": "The queen of heaven herself, in her distress, turned to the Devī. In the verses Bhāskararāya quotes, she first received the Devī’s mantra from her guru with due rite and then worshipped her as Tripurasundarī, so Śacī stands as an early devotee of this very tradition.",
+    "hi": "स्वर्ग की रानी ने स्वयं, संकट में, देवी की शरण ली। भास्करराय द्वारा उद्धृत श्लोकों में वे पहले गुरु से देवी का मन्त्र विधिपूर्वक ग्रहण करती हैं और फिर त्रिपुरसुन्दरी के रूप में उनकी आराधना करती हैं; इस प्रकार शची इसी परम्परा की एक प्राचीन उपासिका के रूप में दिखाई देती हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya recalls the story from the sixth book of the Devī Bhāgavata. While Nahuṣa ruled heaven, Indrāṇī, to win Indra back, worshipped Tripurasundarī with offerings and flowers.",
+    "hi": "भास्करराय देवीभागवत के षष्ठ स्कन्ध की कथा का स्मरण करते हैं। जब नहुष स्वर्ग का राज्य चला रहे थे, तब इन्द्राणी ने इन्द्र को फिर से पाने के लिए बलि, पुष्प और अर्चना से त्रिपुरसुन्दरी की आराधना की।"
+  },
+  "commentary": {
+    "sanskrit": "पुलोमतो जातया इन्द्राण्यार्चिता ।",
+    "translation": {
+      "en": "Worshipped by Indrāṇī, she who was born of Puloman.",
+      "hi": "पुलोमा से उत्पन्न इन्द्राणी द्वारा पूजित।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 545 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Story as Bhāskararāya summarises and quotes it from the Devī Bhāgavata (sixth book); compare name 54. The remark that Śacī stands as a devotee of this tradition is a reflection." }
+}

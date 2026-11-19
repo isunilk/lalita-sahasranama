@@ -1,0 +1,45 @@
+{
+  "number": 550,
+  "verse": 112,
+  "slug": "viyad-adi-jagat-prasu",
+  "devanagari": "वियदादिजगत्प्रसूः",
+  "iastSplit": "Viyad-ādi-jagat-prasūḥ",
+  "archana": "ॐ वियदादिजगत्प्रसुवे नमः",
+  "syllables": ["vi", "ya", "dā", "di", "ja", "gat", "pra", "sūḥ"],
+  "words": [
+    { "sa": "वियत्", "meaning": { "en": "sky, space", "hi": "आकाश" } },
+    { "sa": "आदि", "meaning": { "en": "beginning with", "hi": "आदि, से आरम्भ" } },
+    { "sa": "जगत्", "meaning": { "en": "world", "hi": "जगत्, संसार" } },
+    { "sa": "प्रसू", "meaning": { "en": "mother, she who gives birth", "hi": "जननी, जन्म देने वाली" } }
+  ],
+  "meaning": {
+    "en": "Mother of the world, beginning with space",
+    "hi": "आकाश से आरम्भ होने वाले जगत् की जननी"
+  },
+  "explanation": {
+    "en": "Viyat is the sky or space, the first of the elements, and prasū is a mother. She gives birth to the whole world, from space onward.",
+    "hi": "‘वियत्’ आकाश है, पंचभूतों में पहला, और ‘प्रसू’ जननी। वे आकाश से आरम्भ होने वाले सम्पूर्ण जगत् को जन्म देती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya cites the Upaniṣad, ‘From the Self, space arose’, which goes on to name air, fire, water and earth in turn. The elements and all that is built from them are her children; she who is pure consciousness is also the mother of matter.",
+    "hi": "भास्करराय उपनिषद् का वचन देते हैं, ‘आत्मा से आकाश उत्पन्न हुआ’, जो आगे क्रम से वायु, अग्नि, जल और पृथ्वी का उल्लेख करता है। पंचभूत और उनसे बनी हर वस्तु उनकी सन्तान है; जो शुद्ध चेतना हैं, वही जड़ जगत् की भी जननी हैं।"
+  },
+  "story": {
+    "en": "A later name, Viyatprasūḥ (837), says much the same in a shorter form: mother of space. The Upaniṣad he quotes is the Taittirīya.",
+    "hi": "आगे का एक नाम, वियत्प्रसूः (837), संक्षेप में यही कहता है: आकाश की जननी। जिस उपनिषद् का वचन वे देते हैं, वह तैत्तिरीय उपनिषद् है।"
+  },
+  "commentary": {
+    "sanskrit": "वियद्व्योम आदिर्यस्य तज्जगत्प्रसूते । आत्मन आकाशः सम्भूत इत्यादिश्रुतेः ।",
+    "translation": {
+      "en": "She gives birth to the world of which viyat, space, is the first; as scripture says, ‘From the Self, space arose’, and so on.",
+      "hi": "जिस जगत् का आदि वियत्, अर्थात् आकाश, है, उसे वे जन्म देती हैं; श्रुति कहती है: ‘आत्मा से आकाश उत्पन्न हुआ’ इत्यादि।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 550 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Archana corrected from the web list’s वियदादिजगत्प्रसवे, which is not a dative of प्रसू, to प्रसुवे, the form the same list uses for वियत्प्रसूः (837) and parallel to भुवे for भू. A grammarian should confirm: a strict reading of Pāṇini 6.4.83 (ओः सुपि) may prefer प्रस्वै or प्रस्वे; whichever is chosen, 550 and 837 should match. The identification of the Upaniṣad as the Taittirīya (2.1) is mine; he says only ‘śruti’." }
+}

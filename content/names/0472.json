@@ -1,0 +1,43 @@
+{
+  "number": 472,
+  "verse": 97,
+  "slug": "siddha-vidya",
+  "devanagari": "सिद्धविद्या",
+  "iastSplit": "Siddha-vidyā",
+  "archana": "ॐ सिद्धविद्यायै नमः",
+  "syllables": ["sid", "dha", "vid", "yā"],
+  "words": [
+    { "sa": "सिद्ध", "meaning": { "en": "perfected, already accomplished", "hi": "सिद्ध" } },
+    { "sa": "विद्या", "meaning": { "en": "knowledge; a mantra of the Goddess", "hi": "विद्या; देवी का मन्त्र" } }
+  ],
+  "meaning": {
+    "en": "The perfected vidyā, the mantra already accomplished",
+    "hi": "सिद्ध विद्या, अर्थात् स्वयं सिद्ध मन्त्र"
+  },
+  "explanation": {
+    "en": "Vidyā means knowledge, and in Śrīvidyā it also names the Goddess’s mantra. Siddhavidyā is the vidyā that is already siddha, perfected: it does not have to be made effective, for it is effective by nature.",
+    "hi": "विद्या का अर्थ है ज्ञान, और श्रीविद्या में यह देवी के मन्त्र का भी नाम है। सिद्धविद्या वह विद्या है जो पहले से सिद्ध है: उसे फलदायी बनाना नहीं पड़ता, वह स्वभाव से ही फलदायी है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya reads the name as ‘she who is the perfected vidyā’. He draws a consequence: that is why the Kādi tradition says the Pañcadaśī need not be checked against the siddhāri-cakra, the table used to test whether a mantra suits the aspirant, for the mantras of the Nityās are already perfected. Knowledge of her is not something we build; it is already complete, waiting to be received.",
+    "hi": "भास्करराय इस नाम को ‘वे जो सिद्ध विद्या हैं’ के अर्थ में पढ़ते हैं। वे इसका एक परिणाम बताते हैं: इसीलिए कादि मत कहता है कि पञ्चदशी को सिद्धारि-चक्र से, जिससे यह परखा जाता है कि मन्त्र साधक के अनुकूल है या नहीं, जाँचने की आवश्यकता नहीं, क्योंकि नित्याओं के मन्त्र पहले से सिद्ध हैं। उनका ज्ञान हमें बनाना नहीं पड़ता; वह पहले से पूर्ण है, केवल ग्रहण किए जाने की प्रतीक्षा में।"
+  },
+  "story": {
+    "en": "In Śrīvidyā the Goddess and her mantra, the vidyā, are held to be one, so the name praises her as the mantra itself.",
+    "hi": "श्रीविद्या में देवी और उनका मन्त्र, अर्थात् विद्या, एक ही माने जाते हैं, इसलिए यह नाम उन्हें स्वयं मन्त्र के रूप में पूजता है।"
+  },
+  "commentary": {
+    "sanskrit": "अत एव पञ्चदश्याः सिद्धारिचक्रशोधो नास्तीत्युक्तं कादिमते नित्यानां सिद्धमन्त्रत्वान्नावेक्ष्यास्त्वंशकादय इति ।",
+    "translation": {
+      "en": "That is why it is said in the Kādimata that the Pañcadaśī needs no testing by the siddhāri-cakra: ‘Since the mantras of the Nityās are siddha, the aṃśaka and the other tests need not be examined.’",
+      "hi": "इसीलिए कादिमत में कहा गया है कि पञ्चदशी के लिए सिद्धारि-चक्र से शोधन नहीं होता: ‘नित्याओं के मन्त्र सिद्ध होने से अंशक आदि का विचार आवश्यक नहीं।’"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 472 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s gloss is printed सिद्ध च सा विद्या च सिद्धविद्या, evidently for सिद्धा च…; the quoted passage begins after it, so the misprint is not reproduced. The siddhāri-cakra and aṃśaka are explained only as tests of a mantra’s suitability; no procedure is given." }
+}

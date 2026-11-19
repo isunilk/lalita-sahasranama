@@ -1,0 +1,43 @@
+{
+  "number": 264,
+  "verse": 63,
+  "slug": "srishti-kartri",
+  "devanagari": "सृष्टिकर्त्री",
+  "iastSplit": "Sṛṣṭi-kartrī",
+  "archana": "ॐ सृष्टिकर्त्र्यै नमः",
+  "syllables": ["sṛṣ", "ṭi", "kar", "trī"],
+  "words": [
+    {"sa": "सृष्टि", "meaning": {"en": "creation", "hi": "सृष्टि, रचना"}},
+    {"sa": "कर्त्री", "meaning": {"en": "doer, maker", "hi": "करने वाली, कर्त्री"}}
+  ],
+  "meaning": {
+    "en": "The Creator of the world",
+    "hi": "सृष्टि की रचयिता"
+  },
+  "explanation": {
+    "en": "Here begin the five great acts of the Divine: creation, maintenance, dissolution, concealment and grace. This name gives the first. She is the one who brings the world into being.",
+    "hi": "यहाँ से परमेश्वर के पाँच महान कृत्य आरम्भ होते हैं: सृष्टि, स्थिति, संहार, तिरोधान और अनुग्रह। यह नाम पहला कृत्य बताता है। वे ही जगत् को अस्तित्व में लाती हैं।"
+  },
+  "inner": {
+    "en": "Having described the five kinds of soul, bound by ignorance, the hymn now gives, Bhāskararāya says, the five forms of the Lord, who holds māyā in his power, according to his acts. Creation, the making of the world, is the act of the Lord in whom rajas, the quality of activity, prevails, and she is its doer. He notes that Śaṅkara set out this very idea in the Saundaryalaharī verse beginning jagat sūte dhātā.",
+    "hi": "भास्करराय कहते हैं कि अविद्या से बँधे जीव के पाँच रूप बताने के बाद, स्तोत्र अब माया को वश में रखने वाले ईश्वर के, उनके कृत्यों के अनुसार, पाँच रूप बताता है। सृष्टि, अर्थात् जगत् का निर्माण, उस ईश्वर का कृत्य है जिसमें रजोगुण प्रधान है, और वे उसकी कर्त्री हैं। वे बताते हैं कि भगवत्पाद शंकर ने सौन्दर्यलहरी के ‘जगत्सूते धाता’ श्लोक में यही अर्थ निरूपित किया है।"
+  },
+  "story": {
+    "en": "Names 264 to 274 follow a clear pattern: each act is named, then the god who performs it is named as her form. Brahmā creates, Viṣṇu protects, Rudra dissolves, Īśvara conceals and Sadāśiva bestows grace, and name 274 gathers all five together.",
+    "hi": "नाम 264 से 274 तक एक स्पष्ट क्रम है: पहले कृत्य का नाम आता है, फिर उसे करने वाले देव को उनका रूप बताया जाता है। ब्रह्मा सृष्टि करते हैं, विष्णु रक्षा, रुद्र संहार, ईश्वर तिरोधान और सदाशिव अनुग्रह; और नाम 274 पाँचों को एक साथ समेटता है।"
+  },
+  "commentary": {
+    "sanskrit": "सृष्टिर्जगन्निर्माणं रजोगुणप्रधानस्येश्वरस्य कृत्यम् । तस्य कर्त्री ।",
+    "translation": {
+      "en": "Creation is the making of the world, the act of the Lord in whom rajas predominates. She is its doer.",
+      "hi": "सृष्टि जगत् का निर्माण है, जो रजोगुण-प्रधान ईश्वर का कृत्य है। वे उसकी कर्त्री हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 264 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya cites the verse जगत्सूते धाता as Bhagavatpāda’s; the title Saundaryalaharī is added here." }
+}

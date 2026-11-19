@@ -1,0 +1,43 @@
+{
+  "number": 693,
+  "verse": 135,
+  "slug": "satya-sandha",
+  "devanagari": "सत्यसन्धा",
+  "iastSplit": "Satya-sandhā",
+  "archana": "ॐ सत्यसन्धायै नमः",
+  "syllables": ["sat", "ya", "san", "dhā"],
+  "words": [
+    { "sa": "सत्य", "meaning": { "en": "true, inviolable", "hi": "सत्य, अटल" } },
+    { "sa": "सन्धा", "meaning": { "en": "promise; set bound", "hi": "प्रतिज्ञा; मर्यादा" } }
+  ],
+  "meaning": {
+    "en": "True to her word",
+    "hi": "जिनकी प्रतिज्ञा सदा सत्य है"
+  },
+  "explanation": {
+    "en": "Sandhā is a promise, and hers are true: what she has promised cannot fail. Bhāskararāya reads the word as a pair, her promise and her set bounds, and says both are inviolable.",
+    "hi": "‘सन्धा’ का अर्थ है प्रतिज्ञा, और उनकी प्रतिज्ञाएँ सत्य हैं: उन्होंने जो वचन दिया, वह कभी विफल नहीं होता। भास्करराय इस शब्द को द्विवचन में पढ़ते हैं — उनकी प्रतिज्ञा और उनकी बाँधी हुई मर्यादा — और कहते हैं कि दोनों अनुल्लंघ्य हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya keeps to the plain sense. A promise binds the one who makes it, and a set bound binds the world; she keeps both. The devotee can rest on her word, and the order of the world rests on her bounds.",
+    "hi": "भास्करराय यहाँ सीधा अर्थ ही देते हैं। प्रतिज्ञा उसे बाँधती है जो उसे करता है, और मर्यादा संसार को बाँधती है; वे दोनों का पालन करती हैं। भक्त उनके वचन पर निश्चिन्त रह सकता है, और जगत् की व्यवस्था उनकी मर्यादाओं पर टिकी है।"
+  },
+  "story": {
+    "en": "Satyasandha, “true to one’s word”, is a classical epithet of the ideal ruler, famously given to Rāma in the Rāmāyaṇa. Placed among names of sovereignty, it marks her as a sovereign whose word never breaks.",
+    "hi": "‘सत्यसन्ध’ — अपने वचन का सच्चा — आदर्श शासक का पारम्परिक विशेषण है; रामायण में यह विशेष रूप से श्रीराम के लिए आता है। राजसत्ता के नामों के बीच रखा गया यह नाम उन्हें ऐसी सम्राज्ञी बताता है जिनका वचन कभी नहीं टूटता।"
+  },
+  "commentary": {
+    "sanskrit": "सत्ये अनुल्लङ्घ्ये सन्धे प्रतिज्ञामर्यादे यस्याः ।",
+    "translation": {
+      "en": "Whose two sandhās, her promise and her set bound, are satya, true, not to be transgressed.",
+      "hi": "जिनकी दोनों सन्धाएँ — प्रतिज्ञा और मर्यादा — सत्य अर्थात् अनुल्लंघ्य हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 693 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s dual (सन्धे = प्रतिज्ञा and मर्यादा) is followed. The inner layer after its first sentence is a reflection, and the remark on Rāma is general context." }
+}

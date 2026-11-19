@@ -1,0 +1,48 @@
+{
+  "number": 658,
+  "verse": 130,
+  "slug": "ichchha-shakti-jnana-shakti-kriya-shakti-svarupini",
+  "devanagari": "इच्छाशक्तिज्ञानशक्तिक्रियाशक्तिस्वरूपिणी",
+  "iastSplit": "Icchā-śakti-jñāna-śakti-kriyā-śakti-svarūpiṇī",
+  "archana": "ॐ इच्छाशक्तिज्ञानशक्तिक्रियाशक्तिस्वरूपिण्यै नमः",
+  "syllables": ["ic", "chā", "śak", "tij", "ñā", "na", "śak", "tik", "ri", "yā", "śak", "tis", "va", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "इच्छा", "meaning": { "en": "will, desire", "hi": "इच्छा, संकल्प" } },
+    { "sa": "शक्ति", "meaning": { "en": "power", "hi": "शक्ति" } },
+    { "sa": "ज्ञान", "meaning": { "en": "knowledge", "hi": "ज्ञान" } },
+    { "sa": "शक्ति", "meaning": { "en": "power", "hi": "शक्ति" } },
+    { "sa": "क्रिया", "meaning": { "en": "action", "hi": "क्रिया" } },
+    { "sa": "शक्ति", "meaning": { "en": "power", "hi": "शक्ति" } },
+    { "sa": "स्वरूपिणी", "meaning": { "en": "whose very nature is", "hi": "जिनका स्वरूप है" } }
+  ],
+  "meaning": {
+    "en": "She whose nature is the powers of will, knowledge and action",
+    "hi": "इच्छा, ज्ञान और क्रिया की शक्तियाँ जिनका स्वरूप हैं"
+  },
+  "explanation": {
+    "en": "Icchā is will, jñāna is knowledge and kriyā is action. These three powers are not tools she uses; they are her very form, and through them all creation comes about.",
+    "hi": "इच्छा का अर्थ है संकल्प, ज्ञान का अर्थ है बोध, और क्रिया का अर्थ है कर्म। ये तीन शक्तियाँ उनके साधन नहीं, उनका अपना स्वरूप हैं, और इन्हीं से सारी सृष्टि होती है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes the Mālinīvijaya Tantra: the supreme Power becomes will in the Lord who wishes to create; she is the power of knowledge when she makes known within, ‘this is so and not otherwise’; and she is action when, knowing it, she brings that very thing about. He also cites the Saṅketapaddhati, which places will at her head, knowledge below it and action in her feet, so that the three powers are her body.",
+    "hi": "भास्करराय मालिनीविजयतन्त्र का वचन उद्धृत करते हैं: परा शक्ति सृष्टि की इच्छा करने वाले प्रभु में इच्छा बनती है; जब वह भीतर यह बोध कराती है कि ‘यह ऐसा ही है, अन्यथा नहीं’, तब ज्ञानशक्ति कहलाती है; और जब जानकर उसी वस्तु को रचती है, तब क्रिया। वे सङ्केतपद्धति का भी उल्लेख करते हैं, जो इच्छा को उनके शिरोभाग में, ज्ञान को उसके नीचे और क्रिया को चरणों में स्थित बताती है; इस प्रकार तीनों शक्तियाँ ही उनका शरीर हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya also cites the Vāmakeśvara Tantra: Tripurā is threefold, in the form of Brahmā, Viṣṇu and Īśa, as the powers of knowledge, action and will. This one name fills the whole first line of verse 130.",
+    "hi": "भास्करराय वामकेश्वरतन्त्र का भी उल्लेख करते हैं: त्रिपुरा त्रिविध हैं, ब्रह्मा, विष्णु और ईश के रूप में, ज्ञानशक्ति, क्रियाशक्ति और इच्छाशक्ति के रूप में। यह एक ही नाम श्लोक 130 की पूरी पहली पंक्ति है।"
+  },
+  "commentary": {
+    "sanskrit": "इच्छाज्ञानयत्नरूपगुणत्रयं स्वरूपमस्याः ।",
+    "translation": {
+      "en": "Her own nature is the triad of qualities: will, knowledge and effort.",
+      "hi": "इच्छा, ज्ञान और यत्न, ये तीन गुण उनका स्वरूप हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 658 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya takes kriyā here as yatna (effort), and adds that it may also mean action as movement, of five kinds. A short passage printed inside this comment (आङ्प्रश्लेषप्रयुक्तो दीर्घः । सर्वासां जगतीनां धारा परम्परा…) appears to belong to name 659 and to be displaced in the edition." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 643,
+  "verse": 127,
+  "slug": "jnana-da",
+  "devanagari": "ज्ञानदा",
+  "iastSplit": "Jñāna-dā",
+  "archana": "ॐ ज्ञानदायै नमः",
+  "syllables": ["jñā", "na", "dā"],
+  "words": [
+    { "sa": "ज्ञान", "meaning": { "en": "knowledge", "hi": "ज्ञान" } },
+    { "sa": "दा", "meaning": { "en": "giver; also ‘who cuts off’ (root do)", "hi": "देने वाली; ‘काटने वाली’ भी (‘दो’ धातु)" } }
+  ],
+  "meaning": {
+    "en": "She who gives the knowledge that liberates",
+    "hi": "मुक्ति देने वाला ज्ञान प्रदान करने वाली"
+  },
+  "explanation": {
+    "en": "Jñāna is knowledge and -dā means ‘giver’. The knowledge meant is the one that brings kaivalya, final freedom: she grants it, and it arises only by her grace.",
+    "hi": "ज्ञान का अर्थ है बोध और ‘दा’ का अर्थ है देने वाली। यहाँ वह ज्ञान अभिप्रेत है जो कैवल्य, अर्थात् परम मुक्ति, देता है; वे ही उसे प्रदान करती हैं, और वह उन्हीं की कृपा से उदित होता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya also takes -dā from the root do, ‘to cut’: she cuts off ‘knowledge’. He cites the Śiva Sūtra jñānaṃ bandhaḥ, ‘knowledge is bondage’, where knowledge means the appearance of difference, by which the self becomes limited and wanders in saṃsāra. She gives the knowledge that frees and destroys the ‘knowledge’ that binds.",
+    "hi": "भास्करराय ‘दा’ को काटने के अर्थ वाली ‘दो’ धातु से भी लेते हैं: वे ‘ज्ञान’ को काट देती हैं। वे शिवसूत्र ‘ज्ञानं बन्धः’ (ज्ञान बन्धन है) उद्धृत करते हैं, जहाँ ज्ञान का अर्थ भेद की वह प्रतीति है जिससे आत्मा सीमित होकर संसार में भटकती है। वे मुक्त करने वाला ज्ञान देती हैं और बाँधने वाले ‘ज्ञान’ का नाश करती हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya recalls the Talavakāra (Kena) Upaniṣad, where Umā Haimavatī appears in the sky before Indra and tells him that the mysterious being the gods had seen was Brahman. She gives the knowledge of Brahman even to the gods.",
+    "hi": "भास्करराय तलवकार (केन) उपनिषद् का स्मरण कराते हैं, जहाँ आकाश में उमा हैमवती इन्द्र के सामने प्रकट होती हैं और बताती हैं कि देवताओं ने जो रहस्यमय यक्ष देखा था, वह ब्रह्म था। वे देवताओं को भी ब्रह्मज्ञान देने वाली हैं।"
+  },
+  "commentary": {
+    "sanskrit": "ज्ञानं कैवल्यप्रदत्वेनाभिमतं ददातीति ज्ञानदा ।",
+    "translation": {
+      "en": "She gives knowledge, the knowledge held to bestow kaivalya, final liberation; hence she is Jñānadā.",
+      "hi": "वे वह ज्ञान देती हैं जो कैवल्य देने वाला माना गया है; इसलिए वे ज्ञानदा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 643 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The second reading (दो, ‘to cut’) rests on the Śiva Sūtra ज्ञानं बन्धः and its Vārttika, which Bhāskararāya quotes; his remark that in Śiva Sūtra 1.2 an elided अ (अज्ञानं) can also be read is not reproduced." }
+}

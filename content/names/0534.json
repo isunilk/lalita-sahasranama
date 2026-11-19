@@ -1,0 +1,44 @@
+{
+  "number": 534,
+  "verse": 110,
+  "slug": "yakinyamba-svarupini",
+  "devanagari": "याकिन्यम्बास्वरूपिणी",
+  "iastSplit": "Yākinyambā-svarūpiṇī",
+  "archana": "ॐ याकिन्यम्बास्वरूपिण्यै नमः",
+  "syllables": ["yā", "kin", "yam", "bās", "va", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "याकिनी", "meaning": { "en": "Yākinī, the yoginī of the thousand-petalled lotus", "hi": "याकिनी, सहस्रदल कमल की योगिनी" } },
+    { "sa": "अम्बा", "meaning": { "en": "mother", "hi": "माँ" } },
+    { "sa": "स्वरूपिणी", "meaning": { "en": "whose very form is", "hi": "जिनका स्वरूप है" } }
+  ],
+  "meaning": {
+    "en": "She whose own form is Mother Yākinī",
+    "hi": "जिनका स्वरूप याकिनी माँ है"
+  },
+  "explanation": {
+    "en": "This name closes the description of Yākinī, the yoginī of the thousand-petalled lotus, and with it the whole series of seven yoginīs. Yākinī too is the Devī’s own form.",
+    "hi": "यह नाम सहस्रदल कमल की योगिनी याकिनी का वर्णन पूरा करता है, और उसके साथ सात योगिनियों की पूरी श्रृंखला भी। याकिनी भी देवी का ही अपना स्वरूप हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives the plain sense: the form of the mother named Yākinī is hers. The series began at the throat with Ḍākinī and ends here at the crown; through seven centres and seven tissues, one Mother has been shown dwelling in the whole body.",
+    "hi": "भास्करराय सीधा अर्थ देते हैं: याकिनी नाम की माँ का स्वरूप इन्हीं का है। यह श्रृंखला कण्ठ में डाकिनी से आरम्भ हुई और यहाँ शिखर पर समाप्त होती है; सात केन्द्रों और सात धातुओं के माध्यम से एक ही माँ को पूरे शरीर में निवास करती हुई दिखाया गया है।"
+  },
+  "story": {
+    "en": "Bhāskararāya marks the turn here: having described her in the form of the yoginīs, the hymn now begins to praise her in other ways. The next names call her Svāhā, Svadhā, Medhā, Śruti and Smṛti.",
+    "hi": "भास्करराय यहाँ मोड़ का संकेत करते हैं: योगिनियों के रूप में उनका वर्णन करके स्तोत्र अब अन्य प्रकारों से उनकी स्तुति आरम्भ करता है। अगले नाम उन्हें स्वाहा, स्वधा, मेधा, श्रुति और स्मृति कहते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "याकिन्याख्याया अम्बायाः स्वरूपमस्याः ।",
+    "translation": {
+      "en": "Hers is the form of the mother named Yākinī.",
+      "hi": "याकिनी नाम की अम्बा का स्वरूप इन्हीं का है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 534 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the closing summary in the inner layer is a reflection. Meaning only; no practice." }
+}

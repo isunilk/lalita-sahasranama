@@ -1,0 +1,43 @@
+{
+  "number": 637,
+  "verse": 127,
+  "slug": "vishva-garbha",
+  "devanagari": "विश्वगर्भा",
+  "iastSplit": "Viśva-garbhā",
+  "archana": "ॐ विश्वगर्भायै नमः",
+  "syllables": ["viś", "va", "gar", "bhā"],
+  "words": [
+    { "sa": "विश्व", "meaning": { "en": "the universe, all that is", "hi": "विश्व, समस्त जगत्" } },
+    { "sa": "गर्भ", "meaning": { "en": "womb; what is held within", "hi": "गर्भ, कोख" } }
+  ],
+  "meaning": {
+    "en": "She who holds the whole universe in her womb",
+    "hi": "जिनके गर्भ में सारा विश्व है"
+  },
+  "explanation": {
+    "en": "Viśva is the whole universe and garbha is the womb. The name says that the entire world of names and forms lies within her, as a child lies within its mother before birth.",
+    "hi": "विश्व का अर्थ है सम्पूर्ण जगत् और गर्भ का अर्थ है कोख। यह नाम कहता है कि नाम-रूप वाला सारा संसार उनके भीतर वैसे ही स्थित है जैसे जन्म से पहले शिशु माँ के गर्भ में।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives the plain sense: the whole expanse of the world, the prapañca, is within her womb. He gives no further hidden meaning. The image says that the world does not stand outside her; it is held and nourished within her.",
+    "hi": "भास्करराय सीधा अर्थ देते हैं: समस्त प्रपंच उनके गर्भ में है। वे इसका कोई और गूढ़ अर्थ नहीं बताते। यह चित्र बताता है कि संसार उनसे बाहर नहीं है; वह उन्हीं के भीतर धारण और पोषित होता है।"
+  },
+  "story": {
+    "en": "Verse 127 opens with two names built on garbha, the womb: Viśvagarbhā and Svarṇagarbhā. The second carries the image to Hiraṇyagarbha, the golden womb from which creation unfolds.",
+    "hi": "श्लोक 127 ‘गर्भ’ पर आधारित दो नामों से आरम्भ होता है: विश्वगर्भा और स्वर्णगर्भा। दूसरा नाम इसी चित्र को हिरण्यगर्भ तक ले जाता है, उस स्वर्णिम गर्भ तक जिससे सृष्टि प्रकट होती है।"
+  },
+  "commentary": {
+    "sanskrit": "विश्वं प्रपञ्चजातं गर्भे यस्याः ।",
+    "translation": {
+      "en": "She in whose womb is the universe, the whole expanse of the world.",
+      "hi": "जिनके गर्भ में विश्व, अर्थात् समस्त प्रपंच, है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 637 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the last sentence of the inner layer is a reflection." }
+}

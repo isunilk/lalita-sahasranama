@@ -1,0 +1,43 @@
+{
+  "number": 684,
+  "verse": 134,
+  "slug": "raja-rajeshvari",
+  "devanagari": "राजराजेश्वरी",
+  "iastSplit": "Rāja-rājeśvarī",
+  "archana": "ॐ राजराजेश्वर्यै नमः",
+  "syllables": ["rā", "ja", "rā", "jeś", "va", "rī"],
+  "words": [
+    { "sa": "राजराज", "meaning": { "en": "king of kings; also Kubera", "hi": "राजाओं का राजा; कुबेर भी" } },
+    { "sa": "ईश्वरी", "meaning": { "en": "sovereign, ruler", "hi": "अधीश्वरी, स्वामिनी" } }
+  ],
+  "meaning": {
+    "en": "Sovereign over the kings of kings",
+    "hi": "राजाओं के राजाओं की भी अधीश्वरी"
+  },
+  "explanation": {
+    "en": "Indra and the other gods are kings, and Brahmā, Viṣṇu and Rudra are kings even over them; she rules them all. Bhāskararāya also reads Rājarāja as Kubera, lord of wealth: she is his sovereign too.",
+    "hi": "इन्द्र आदि देवता राजा हैं, और ब्रह्मा, विष्णु तथा रुद्र उनके भी राजा हैं; वे इन सबकी अधीश्वरी हैं। भास्करराय ‘राजराज’ का अर्थ धन के स्वामी कुबेर भी करते हैं: वे उनकी भी स्वामिनी हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya keeps to the plain sense. Every power in the universe, even that of the three great gods, is held under her; no authority stands outside hers. For the devotee this is a ground of trust: the one they turn to answers to no one higher.",
+    "hi": "भास्करराय यहाँ सीधा अर्थ ही देते हैं। संसार की हर सत्ता, यहाँ तक कि त्रिदेवों की भी, उन्हीं के अधीन है; कोई अधिकार उनसे बाहर नहीं। भक्त के लिए यह भरोसे का आधार है: जिनकी शरण वह लेता है, उनसे ऊपर कोई नहीं।"
+  },
+  "story": {
+    "en": "Rājarājeśvarī is one of the best-loved titles of Śrī Lalitā as empress in the Śrīvidyā tradition. It opens a run of names on sovereignty in verses 134 and 135: she gives kingdoms, holds them dear, seats her own on thrones and commands the fourfold army.",
+    "hi": "राजराजेश्वरी श्रीविद्या परम्परा में महारानी श्री ललिता की सबसे प्रिय उपाधियों में से एक है। इससे श्लोक 134 और 135 में राजसत्ता-विषयक नामों की एक श्रृंखला आरम्भ होती है: वे राज्य देती हैं, राज्य उन्हें प्रिय हैं, वे अपने आश्रितों को सिंहासनों पर बिठाती हैं और चतुरंगिणी सेना की स्वामिनी हैं।"
+  },
+  "commentary": {
+    "sanskrit": "राज्ञां देवराजादीनां ये राजानो ब्रह्मविष्णुरुद्रास्तेषामपीश्वरी । राजराजस्य कुबेरस्येश्वरी वा ।",
+    "translation": {
+      "en": "Of the kings, Indra and the others, the kings are Brahmā, Viṣṇu and Rudra; she is sovereign even over them. Or: sovereign of Rājarāja, that is, Kubera.",
+      "hi": "देवराज इन्द्र आदि राजाओं के जो राजा हैं — ब्रह्मा, विष्णु और रुद्र — वे उनकी भी ईश्वरी हैं। अथवा, राजराज अर्थात् कुबेर की ईश्वरी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 684 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives the literal sense; the last two sentences of the inner layer are a reflection. The remark on the title in Śrīvidyā is general context (Bhāskararāya elsewhere speaks of the राजराजेश्वरीविग्रह)." }
+}

@@ -1,0 +1,44 @@
+{
+  "number": 478,
+  "verse": 98,
+  "slug": "khatvangadi-praharana",
+  "devanagari": "खट्वाङ्गादिप्रहरणा",
+  "iastSplit": "Khaṭvāṅgādi-praharaṇā",
+  "archana": "ॐ खट्वाङ्गादिप्रहरणायै नमः",
+  "syllables": ["khaṭ", "vāṅ", "gā", "dip", "ra", "ha", "ra", "ṇā"],
+  "words": [
+    { "sa": "खट्वाङ्ग", "meaning": { "en": "khaṭvāṅga: a club like the leg of a cot, or a staff topped with a skull", "hi": "खट्वांग: खाट के पाये जैसा दण्ड, या कपाल-युक्त दण्ड" } },
+    { "sa": "आदि", "meaning": { "en": "and the others, beginning with", "hi": "आदि, इत्यादि" } },
+    { "sa": "प्रहरण", "meaning": { "en": "weapon", "hi": "प्रहरण, आयुध" } }
+  ],
+  "meaning": {
+    "en": "She who bears the khaṭvāṅga and other weapons",
+    "hi": "खट्वांग आदि आयुध धारण करने वाली"
+  },
+  "explanation": {
+    "en": "The khaṭvāṅga is a club shaped like the leg of a cot, or a staff topped with a skull, carried by Śiva and by fierce forms of the Goddess. As Ḍākinī she holds it together with three other weapons.",
+    "hi": "खट्वांग खाट के पाये जैसा एक दण्ड है, या ऐसा दण्ड जिसके सिरे पर कपाल लगा हो; इसे शिव और देवी के उग्र रूप धारण करते हैं। डाकिनी के रूप में वे इसे तीन अन्य आयुधों के साथ धारण करती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya explains khaṭvāṅga as the leg of a cot, or a human skull set on a staff, and says it is the first of her four weapons. Ḍākinī’s dhyāna names the four: khaṭvāṅga, sword, trident and great shield. He gives no hidden meaning for them.",
+    "hi": "भास्करराय खट्वांग को खाट का पाया, या दण्ड पर लगा नर-कपाल बताते हैं, और कहते हैं कि यह उनके चार आयुधों में पहला है। डाकिनी का ध्यान चारों के नाम देता है: खट्वांग, खड्ग, त्रिशूल और विशाल ढाल। वे इनका कोई गूढ़ अर्थ नहीं देते।"
+  },
+  "story": {
+    "en": "Ḍākinī’s dhyāna calls her frightening to the paśus, those still bound by ignorance; her weapons belong to that fierce aspect, which name 482, Paśuloka-bhayaṅkarī, takes up.",
+    "hi": "डाकिनी का ध्यान उन्हें पशुओं, अर्थात् अज्ञान में बँधे जीवों, को भय देने वाली कहता है; उनके आयुध उसी उग्र रूप के हैं, जिसका वर्णन नाम 482, पशुलोकभयंकरी, करता है।"
+  },
+  "commentary": {
+    "sanskrit": "खट्वाङ्गं खट्वापादः । दण्डारोपितनरकपालं वा । तदादि येषां चतुर्णां मध्ये तानि प्रहरणान्यायुधानि यस्याः ।",
+    "translation": {
+      "en": "Khaṭvāṅga is the leg of a cot, or a human skull set on a staff. She whose praharaṇas, weapons, are the four of which it is the first.",
+      "hi": "खट्वांग अर्थात् खाट का पाया, अथवा दण्ड पर लगा नर-कपाल। जिन चार आयुधों में यह पहला है, वे जिनके प्रहरण हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 478 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. ‘Those still bound by ignorance’ glosses पशु in the dhyāna (पशुजनभयदाम्) in the usual Śaiva sense; this is explanation, not Bhāskararāya’s gloss." }
+}

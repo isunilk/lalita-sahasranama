@@ -1,0 +1,44 @@
+{
+  "number": 552,
+  "verse": 112,
+  "slug": "sarva-mrityu-nivarini",
+  "devanagari": "सर्वमृत्युनिवारिणी",
+  "iastSplit": "Sarva-mṛtyu-nivāriṇī",
+  "archana": "ॐ सर्वमृत्युनिवारिण्यै नमः",
+  "syllables": ["sar", "va", "mṛt", "yu", "ni", "vā", "ri", "ṇī"],
+  "words": [
+    { "sa": "सर्व", "meaning": { "en": "all", "hi": "सभी" } },
+    { "sa": "मृत्यु", "meaning": { "en": "death", "hi": "मृत्यु" } },
+    { "sa": "निवारिणी", "meaning": { "en": "who wards off, prevents", "hi": "निवारण करने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who wards off every kind of death",
+    "hi": "जो हर प्रकार की मृत्यु का निवारण करती हैं"
+  },
+  "explanation": {
+    "en": "Mṛtyu is death and nivāriṇī she who wards it off. Bhāskararāya counts untimely death, death at its appointed time and the rest: she turns back every one.",
+    "hi": "‘मृत्यु’ का अर्थ है मरण और ‘निवारिणी’ उसे रोकने वाली। भास्करराय अकाल मृत्यु, कालमृत्यु आदि सबको गिनते हैं: वे हर एक को लौटा देती हैं।"
+  },
+  "inner": {
+    "en": "Even death at its appointed time is included, and that is overcome only by knowledge; Bhāskararāya’s support is a line of scripture: ‘Knowing the god, one is freed from the jaws of death.’ The death she finally removes is the belief that the Self can die.",
+    "hi": "समय पर आने वाली मृत्यु भी इसमें सम्मिलित है, और उसे केवल ज्ञान से ही जीता जा सकता है; भास्करराय इसकी पुष्टि श्रुति के वचन से करते हैं: ‘देव को जानकर मनुष्य मृत्यु के मुख से छूट जाता है।’ अन्ततः वे जिस मृत्यु को मिटाती हैं, वह यह धारणा है कि आत्मा मर सकती है।"
+  },
+  "story": {
+    "en": "This name ends verse 112. Name 557, Kālahantrī, takes the thought further: she is the slayer of Kāla, death himself.",
+    "hi": "यह नाम श्लोक 112 को पूरा करता है। नाम 557, कालहन्त्री, इस विचार को आगे ले जाता है: वे स्वयं काल, अर्थात् मृत्यु, का वध करने वाली हैं।"
+  },
+  "commentary": {
+    "sanskrit": "अपमृत्युकालमृत्यवादिरूपसर्वमृत्यून्निवारयति । ज्ञात्वा देवं मृत्युमुखात्प्रमुच्यत इति श्रुतेः ।",
+    "translation": {
+      "en": "She wards off all deaths, untimely death, death at its appointed time and the rest; as scripture says, ‘Knowing the god, one is freed from the jaws of death.’",
+      "hi": "वे अकाल मृत्यु, कालमृत्यु आदि सभी मृत्युओं का निवारण करती हैं; श्रुति कहती है: ‘देव को जानकर मनुष्य मृत्यु के मुख से छूट जाता है।’"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 552 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The link between appointed death and knowledge in the inner layer is drawn from his choice of quotation; the last sentence is a reflection." }
+}

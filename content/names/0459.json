@@ -1,0 +1,43 @@
+{
+  "number": 459,
+  "verse": 96,
+  "slug": "sumukhi",
+  "devanagari": "सुमुखी",
+  "iastSplit": "Su-mukhī",
+  "archana": "ॐ सुमुख्यै नमः",
+  "syllables": ["su", "mu", "khī"],
+  "words": [
+    { "sa": "सु", "meaning": { "en": "good, beautiful", "hi": "सु, सुन्दर, शोभन" } },
+    { "sa": "मुख", "meaning": { "en": "face", "hi": "मुख" } }
+  ],
+  "meaning": {
+    "en": "She whose face is beautiful",
+    "hi": "सुन्दर मुख वाली"
+  },
+  "explanation": {
+    "en": "Sumukhī is she whose face is lovely. The word also suggests a gracious face, turned kindly toward those who come to her.",
+    "hi": "सुमुखी वे हैं जिनका मुख सुन्दर है। इस शब्द में प्रसन्न मुख का भाव भी है, जो शरण में आने वालों की ओर स्नेह से मुड़ा हो।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says her face shines because knowledge heightens the radiance of the face. He quotes the śruti, ‘his face shines who knows thus’, and an Upaniṣadic teacher’s words, ‘your face shines like a knower of Brahman’s’. He also names Sumukhī as a deity worshipped as a limb (aṅga) of Ṣoḍaśī.",
+    "hi": "भास्करराय कहते हैं कि उनका मुख इसलिए दीप्त है कि ज्ञान से मुख की कान्ति बढ़ती है। वे श्रुति उद्धृत करते हैं, ‘जो ऐसा जानता है उसका मुख शोभित होता है’, और उपनिषद् के एक गुरु के वचन, ‘सौम्य, तुम्हारा मुख ब्रह्मवेत्ता के समान दमक रहा है’। वे सुमुखी को षोडशी की अंग-देवता के रूप में पूजित एक देवी भी बताते हैं।"
+  },
+  "story": {
+    "en": "The second quotation comes from the Chāndogya Upaniṣad, where a teacher sees the glow on his pupil’s face and knows that he has been taught about Brahman.",
+    "hi": "दूसरा उद्धरण छान्दोग्य उपनिषद् से है, जहाँ गुरु अपने शिष्य के मुख की दीप्ति देखकर जान लेते हैं कि उसे ब्रह्म का उपदेश मिल चुका है।"
+  },
+  "commentary": {
+    "sanskrit": "शोभनं मुखं यस्याः सा सुमुखी । ज्ञानेन मुखकान्तेराधिक्यात् ।",
+    "translation": {
+      "en": "She whose face is beautiful is Sumukhī, because knowledge makes the radiance of the face greater.",
+      "hi": "जिनका मुख सुन्दर है वे सुमुखी हैं, क्योंकि ज्ञान से मुख की कान्ति बढ़ जाती है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 459 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Identifying the second quotation (ब्रह्मविद इव ते सौम्य मुखमाभाति) as from the Chāndogya Upaniṣad (the Upakosala episode, 4.14.2) is mine and should be checked." }
+}

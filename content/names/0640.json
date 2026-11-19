@@ -1,0 +1,43 @@
+{
+  "number": 640,
+  "verse": 127,
+  "slug": "vag-adhishvari",
+  "devanagari": "वागधीश्वरी",
+  "iastSplit": "Vāg-adhīśvarī",
+  "archana": "ॐ वागधीश्वर्यै नमः",
+  "syllables": ["vā", "ga", "dhīś", "va", "rī"],
+  "words": [
+    { "sa": "वाच्", "meaning": { "en": "speech, word", "hi": "वाणी, वाक्" } },
+    { "sa": "अधीश्वरी", "meaning": { "en": "supreme mistress, sovereign", "hi": "अधीश्वरी, परम स्वामिनी" } }
+  ],
+  "meaning": {
+    "en": "The sovereign mistress of speech",
+    "hi": "वाणी की अधीश्वरी"
+  },
+  "explanation": {
+    "en": "Vāk is speech and adhīśvarī is the supreme ruler. She is sovereign over all speech, from the words of scripture to ordinary talk.",
+    "hi": "वाक् का अर्थ है वाणी और अधीश्वरी का अर्थ है परम स्वामिनी। वे समस्त वाणी की अधिष्ठात्री हैं, शास्त्र के शब्दों से लेकर साधारण बोलचाल तक।"
+  },
+  "inner": {
+    "en": "Bhāskararāya glosses it in one phrase: the mistress, the owner, of all speech. He gives no hidden meaning here. The name recalls that the hymn itself was spoken by the Vāgdevīs, the goddesses of speech, at her command: the very words used to praise her are already hers.",
+    "hi": "भास्करराय इसे एक ही वाक्यांश में समझाते हैं: समस्त वाणी की स्वामिनी। वे यहाँ कोई गूढ़ अर्थ नहीं देते। यह नाम याद दिलाता है कि स्वयं यह स्तोत्र उनकी आज्ञा से वाग्देवियों ने कहा था; उनकी स्तुति के शब्द भी पहले से उन्हीं के हैं।"
+  },
+  "story": {
+    "en": "In the Brahmāṇḍa Purāṇa the Sahasranāma is composed by the eight Vāgdevīs at the Devī’s command. Here they praise her as the ruler of speech itself.",
+    "hi": "ब्रह्माण्ड पुराण के अनुसार सहस्रनाम की रचना देवी की आज्ञा से आठ वाग्देवियों ने की। यहाँ वे उन्हें स्वयं वाणी की अधीश्वरी कहकर उनकी स्तुति करती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "वाचामधीश्वरी स्वामिनी ।",
+    "translation": {
+      "en": "The adhīśvarī, the mistress, of all speech.",
+      "hi": "समस्त वाणियों की अधीश्वरी, अर्थात् स्वामिनी।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 640 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the last sentence of the inner layer is a reflection." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 659,
+  "verse": 130,
+  "slug": "sarvadhara",
+  "devanagari": "सर्वाधारा",
+  "iastSplit": "Sarvādhārā",
+  "archana": "ॐ सर्वाधारायै नमः",
+  "syllables": ["sar", "vā", "dhā", "rā"],
+  "words": [
+    { "sa": "सर्व", "meaning": { "en": "all", "hi": "सब" } },
+    { "sa": "आधार", "meaning": { "en": "support, foundation", "hi": "आधार, टेक" } }
+  ],
+  "meaning": {
+    "en": "She who is the support of all",
+    "hi": "सबकी आधार"
+  },
+  "explanation": {
+    "en": "Sarva is all and ādhāra is support or foundation. Everything that exists rests on her, as a building rests on its ground.",
+    "hi": "सर्व का अर्थ है सब, और आधार का अर्थ है टेक, नींव। जो कुछ भी है, वह उन्हीं पर टिका है, जैसे भवन अपनी भूमि पर।"
+  },
+  "inner": {
+    "en": "Bhāskararāya also reads it the other way: she whose support is everything, because she dwells in all things as their inner controller. He quotes the Mārkaṇḍeya Purāṇa: whatever things are lasting or perishing, gross or subtle, formed or formless, on earth, in the sky or elsewhere, all are known through you alone, O Devī. She holds all things and dwells within all of them.",
+    "hi": "भास्करराय इसे दूसरी ओर से भी पढ़ते हैं: वे जिनका आधार सब कुछ है, क्योंकि वे अन्तर्यामी के रूप में सब वस्तुओं में स्थित हैं। वे मार्कण्डेय पुराण का वचन उद्धृत करते हैं: जो पदार्थ नित्य हैं और जो नष्ट होते हैं, स्थूल और सूक्ष्म, मूर्त और अमूर्त, पृथ्वी पर, अन्तरिक्ष में या कहीं और, हे देवि, उन सबकी उपलब्धि तुमसे ही है। वे सबको धारण करती हैं और सबके भीतर स्थित भी हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya meets a grammatical objection here: ādhāra is masculine, so ‘support of all’ should be masculine too. He replies that for the Mother beyond the three guṇas the goddesses of speech use the feminine throughout, and that where he shows agreement with the rules of gender it is only to honour those rules, not because her names would otherwise be faulty.",
+    "hi": "भास्करराय यहाँ व्याकरण की एक शंका का उत्तर देते हैं: ‘आधार’ पुल्लिंग है, इसलिए ‘सबका आधार’ भी पुल्लिंग होना चाहिए। वे उत्तर देते हैं कि तीनों गुणों से परे जगन्माता के लिए वाग्देवियाँ सर्वत्र स्त्रीलिंग का ही प्रयोग करती हैं, और जहाँ वे स्वयं लिंग के नियमों से मेल दिखाते हैं, वह केवल उन नियमों के सम्मान के लिए है, इसलिए नहीं कि उसके बिना देवी के नाम अशुद्ध होते।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वमाधारो यस्या इति वा । सर्वेष्वन्तर्यामितया स्थितेति यावत् । सर्वेषामाधाररूपेति वा ।",
+    "translation": {
+      "en": "Or, she whose support is everything, that is, who abides in all as the inner controller. Or, she who is the support of all.",
+      "hi": "अथवा, सब कुछ जिनका आधार है, अर्थात् जो अन्तर्यामी रूप से सबमें स्थित हैं। अथवा, जो सबकी आधारस्वरूपा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 659 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition heads the verse सर्वधारा. A sentence that seems to belong here is printed inside the comment on name 658: आङ्प्रश्लेषप्रयुक्तो दीर्घः । सर्वासां जगतीनां धारा परम्परा, i.e. sarva + dhārā, ‘the unbroken stream of all the worlds’, with the long ā explained by the prefix ā. The master text सर्वाधारा and the sense ‘support of all’ are followed." }
+}

@@ -1,0 +1,46 @@
+{
+  "number": 688,
+  "verse": 134,
+  "slug": "raja-pitha-niveshita-nijashrita",
+  "devanagari": "राजपीठनिवेशितनिजाश्रिता",
+  "iastSplit": "Rāja-pīṭha-niveśita-nijāśritā",
+  "archana": "ॐ राजपीठनिवेशितनिजाश्रितायै नमः",
+  "syllables": ["rā", "ja", "pī", "ṭha", "ni", "ve", "śi", "ta", "ni", "jāś", "ri", "tā"],
+  "words": [
+    { "sa": "राजन्", "meaning": { "en": "king", "hi": "राजा" } },
+    { "sa": "पीठ", "meaning": { "en": "seat, throne", "hi": "पीठ, सिंहासन" } },
+    { "sa": "निवेशित", "meaning": { "en": "seated, installed", "hi": "बिठाए गए, स्थापित" } },
+    { "sa": "निज", "meaning": { "en": "her own", "hi": "अपने" } },
+    { "sa": "आश्रित", "meaning": { "en": "those who rely on her, take refuge in her", "hi": "आश्रित, शरणागत" } }
+  ],
+  "meaning": {
+    "en": "Who seats those who rely on her on royal thrones",
+    "hi": "जो अपने आश्रितों को राजसिंहासनों पर बिठाती हैं"
+  },
+  "explanation": {
+    "en": "Those who take refuge in her she installs on the thrones of kings. Bhāskararāya says the thrones are those of human rulers and also of Indra and the other gods.",
+    "hi": "जो उनकी शरण लेते हैं, उन्हें वे राजाओं के सिंहासनों पर स्थापित करती हैं। भास्करराय बताते हैं कि ये सिंहासन मनुष्य राजाओं के भी हैं और इन्द्र आदि देवताओं के भी।"
+  },
+  "inner": {
+    "en": "Bhāskararāya keeps to the plain sense. The compassion praised in the name before is not a feeling only; it lifts the devotee. Even Indra’s throne, in this reading, is held by one who depends on her.",
+    "hi": "भास्करराय यहाँ सीधा अर्थ ही देते हैं। पिछले नाम में जिस कृपा की स्तुति हुई, वह केवल भावना नहीं; वह भक्त को ऊपर उठाती है। इस अर्थ में इन्द्र का सिंहासन भी किसी ऐसे के पास है जो उन्हीं पर आश्रित है।"
+  },
+  "story": {
+    "en": "With the name before, this closes verse 134. Having called her sovereign of the kings of kings and giver of kingdoms, the verse ends with her giving thrones to her own.",
+    "hi": "पिछले नाम के साथ यह श्लोक 134 को पूरा करता है। उन्हें राजाओं के राजाओं की अधीश्वरी और राज्य देने वाली कहकर, श्लोक इस बात पर समाप्त होता है कि वे अपने आश्रितों को सिंहासन देती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "राज्ञां नृपाणामिन्द्रादीनां च पीठेषु सिंहासनेषु निवेशिता निजा आश्रिता यया ।",
+    "translation": {
+      "en": "By whom her own dependents are seated on the pīṭhas, the lion-thrones, of kings: of human rulers and of Indra and the others.",
+      "hi": "जिनके द्वारा उनके अपने आश्रित राजाओं — मनुष्य नृपों और इन्द्र आदि — के पीठों अर्थात् सिंहासनों पर बिठाए जाते हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 688 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives the literal sense; the inner layer after its first sentence is a reflection." }
+}

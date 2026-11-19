@@ -1,0 +1,43 @@
+{
+  "number": 256,
+  "verse": 62,
+  "slug": "vishva-rupa",
+  "devanagari": "विश्वरूपा",
+  "iastSplit": "Viśva-rūpā",
+  "archana": "ॐ विश्वरूपायै नमः",
+  "syllables": ["viś", "va", "rū", "pā"],
+  "words": [
+    {"sa": "विश्व", "meaning": {"en": "the universe; also the soul in the waking state", "hi": "विश्व, जगत्; जाग्रत् अवस्था का जीव भी"}},
+    {"sa": "रूपा", "meaning": {"en": "having the form of", "hi": "रूप वाली"}}
+  ],
+  "meaning": {
+    "en": "Whose form is the universe",
+    "hi": "जिनका रूप स्वयं विश्व है"
+  },
+  "explanation": {
+    "en": "Viśva means the whole universe, and rūpa means form. She is not someone standing behind the world and holding it up; the world itself is her form. Everything that can be seen is the Devī made visible.",
+    "hi": "‘विश्व’ का अर्थ है सम्पूर्ण जगत् और ‘रूप’ का अर्थ है आकार। वे जगत् के पीछे खड़ी होकर उसे थामने वाली कोई अलग सत्ता नहीं हैं; जगत् ही उनका रूप है। जो कुछ दिखाई देता है, वह देवी का ही प्रत्यक्ष रूप है।"
+  },
+  "inner": {
+    "en": "Here Bhāskararāya begins a group of nineteen names on the kinds of individual soul (jīva) and of the Lord (Īśvara), all of them her. Viśva is the technical name of consciousness in the waking state, tied to the gross body, and the sum of all such souls is Vaiśvānara: these are her form. He also reads it plainly, the universe is her form, just as a plantain tree is nothing apart from its sheaths and leaves, an image he takes from the Viṣṇu Purāṇa.",
+    "hi": "यहाँ से भास्करराय उन्नीस नामों का एक समूह आरम्भ करते हैं, जो जीव और ईश्वर के भेदों का वर्णन करता है, और ये सब देवी ही हैं। जाग्रत् अवस्था में स्थूल शरीर से जुड़ी चेतना का पारिभाषिक नाम ‘विश्व’ है, और ऐसे सब जीवों का समष्टि-रूप वैश्वानर है: यही उनका रूप है। वे सीधा अर्थ भी देते हैं कि विश्व ही उनका रूप है, जैसे केले का पेड़ अपनी परतों और पत्तों से अलग कुछ नहीं; यह उपमा वे विष्णु पुराण से लेते हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya recalls the Devī Bhāgavata: when Viṣṇu lay as an infant on a banyan leaf, the Bhagavatī spoke half a verse to him, ‘All this is I alone; there is nothing else eternal.’ He also notes that Viśvarūpā is the name of the fourth night of the bright fortnight in the Taittirīya list of the nights.",
+    "hi": "भास्करराय देवीभागवत का स्मरण कराते हैं: जब विष्णु शिशु रूप में वटपत्र पर लेटे थे, तब भगवती ने उन्हें आधा श्लोक सुनाया: ‘यह सब मैं ही हूँ; मेरे सिवा और कुछ सनातन नहीं।’ वे यह भी बताते हैं कि तैत्तिरीय शाखा में शुक्ल पक्ष की रात्रियों के जो नाम गिनाए गए हैं, उनमें चौथी रात्रि का नाम ‘विश्वरूपा’ है।"
+  },
+  "commentary": {
+    "sanskrit": "विश्वमेव यस्या रूपं न तु विश्वाधारत्वेन धर्मिभूतमन्यद्रूपमस्तीत्यर्थः ।",
+    "translation": {
+      "en": "The meaning is: the universe itself is her form; she has no other form standing apart as its substrate, the support of the universe.",
+      "hi": "अर्थ यह है कि विश्व ही उनका रूप है; विश्व के आधार के रूप में उनका कोई अलग, धर्मी-रूप नहीं है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 256 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives further readings that are only touched on or left out here: vi-śva-rūpā, ‘she by whose grace the dog-like bound state departs’; and links with the lunar nights and the Pañcadaśī mantra." }
+}

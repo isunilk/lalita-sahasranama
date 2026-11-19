@@ -1,0 +1,43 @@
+{
+  "number": 654,
+  "verse": 129,
+  "slug": "yoga-da",
+  "devanagari": "योगदा",
+  "iastSplit": "Yoga-dā",
+  "archana": "ॐ योगदायै नमः",
+  "syllables": ["yo", "ga", "dā"],
+  "words": [
+    { "sa": "योग", "meaning": { "en": "yoga, union; also enjoyment", "hi": "योग, एकता; भोग भी" } },
+    { "sa": "दा", "meaning": { "en": "giver", "hi": "देने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who bestows yoga",
+    "hi": "योग प्रदान करने वाली"
+  },
+  "explanation": {
+    "en": "Yoga is union and -dā means ‘giver’. She grants yoga: the inner oneness that the seeker strives for comes as her gift.",
+    "hi": "योग का अर्थ है मिलन, एकता, और ‘दा’ का अर्थ है देने वाली। वे योग प्रदान करती हैं: साधक जिस भीतरी एकता के लिए प्रयत्न करता है, वह उन्हीं का दान है।"
+  },
+  "inner": {
+    "en": "In Bhāskararāya’s second reading yoga means contact with objects, that is, enjoyment. Māyā has three forms according to the balance of the guṇas; consciousness limited by the first, pure sattva, is called Īśvara, the Lord who gives enjoyment, and that is Yogadā. The Lord who grants every experience is also she.",
+    "hi": "भास्करराय के दूसरे अर्थ में योग का अर्थ है विषयों से संग, अर्थात् भोग। गुणों के अनुपात से माया के तीन रूप होते हैं; पहले, विशुद्ध सत्त्व वाले रूप से अवच्छिन्न चेतना ‘ईश्वर’ कहलाती है, जो भोग प्रदान करता है, और वही योगदा है। हर अनुभव देने वाला ईश्वर भी वे ही हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya grounds this triad in the Śvetāśvatara Upaniṣad, which declares the enjoyer, the enjoyed and the impeller to be the threefold Brahman. Yogadā answers to the impeller, the one who sets every experience in motion.",
+    "hi": "भास्करराय इस त्रयी का आधार श्वेताश्वतर उपनिषद् में बताते हैं, जो भोक्ता, भोग्य और प्रेरक को त्रिविध ब्रह्म कहता है। योगदा उस प्रेरक के अनुरूप है, जो हर अनुभव को गति देता है।"
+  },
+  "commentary": {
+    "sanskrit": "तास्वाद्यावच्छिन्ना चिदीश्वरनाम्नी भोगप्रदा योगदेत्युच्यते ।",
+    "translation": {
+      "en": "Of these [three forms of māyā], consciousness limited by the first is named Īśvara; as the giver of enjoyment it is called Yogadā.",
+      "hi": "इन [माया के तीन रूपों] में पहले से अवच्छिन्न चेतना ‘ईश्वर’ कहलाती है; भोग देने वाली होने से वह योगदा कही जाती है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 654 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. See name 653: Bhāskararāya explains names 653–655 together. Matching Yogadā with the ‘impeller’ of the Śvetāśvatara verse (1.12) is an inference from his pairing, not his own statement." }
+}

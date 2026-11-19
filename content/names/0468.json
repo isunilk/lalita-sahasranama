@@ -1,0 +1,43 @@
+{
+  "number": 468,
+  "verse": 97,
+  "slug": "vajreshvari",
+  "devanagari": "वज्रेश्वरी",
+  "iastSplit": "Vajreśvarī",
+  "archana": "ॐ वज्रेश्वर्यै नमः",
+  "syllables": ["vaj", "reś", "va", "rī"],
+  "words": [
+    { "sa": "वज्र", "meaning": { "en": "thunderbolt; diamond", "hi": "वज्र; हीरा" } },
+    { "sa": "ईश्वरी", "meaning": { "en": "sovereign goddess", "hi": "ईश्वरी, अधीश्वरी" } }
+  ],
+  "meaning": {
+    "en": "Sovereign of the vajra, thunderbolt and diamond",
+    "hi": "वज्र की अधीश्वरी"
+  },
+  "explanation": {
+    "en": "Vajra is both the thunderbolt and the diamond, the hardest and most brilliant of things. Vajreśvarī is the goddess who rules it.",
+    "hi": "वज्र का अर्थ है इन्द्र का आयुध भी और हीरा भी, जो सबसे कठोर और सबसे दीप्त वस्तुएँ हैं। वज्रेश्वरी वे देवी हैं जो वज्र की स्वामिनी हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya names Vajreśvarī as the Nityā of the sixth lunar day, one of the fifteen Nityā goddesses of the lunar days, and as the presiding goddess of the Jālandhara pīṭha. Or, he says, she rules the river Vajrā, which flows in Śrīpura, her city, between the eleventh wall and the twelfth, which is made of diamond. He quotes Durvāsas’ praise of the goddess Vajreśī on its bank.",
+    "hi": "भास्करराय वज्रेश्वरी को षष्ठी तिथि की नित्या बताते हैं, जो तिथियों की पन्द्रह नित्या देवियों में एक हैं, और जालन्धर पीठ की अधिष्ठात्री भी। अथवा, वे कहते हैं, वे वज्रा नदी की स्वामिनी हैं, जो उनके नगर श्रीपुर में ग्यारहवें प्राकार और हीरे से बने बारहवें प्राकार के बीच बहती है। वे उस नदी के तट पर विराजमान वज्रेशी की दुर्वासा द्वारा की गई स्तुति उद्धृत करते हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya adds from the Brahmāṇḍa Purāṇa that Indra’s thunderbolt was her gift. When Indra performed austerities in the water, the Goddess rose from it, gave the vajra to the slayer of Bala, and vanished.",
+    "hi": "भास्करराय ब्रह्माण्ड पुराण से बताते हैं कि इन्द्र का वज्र उन्हीं का दिया हुआ है। जब इन्द्र ने जल में तप किया, तब देवी उसी जल से प्रकट हुईं, बल असुर के शत्रु इन्द्र को वज्र दिया, और अन्तर्धान हो गईं।"
+  },
+  "commentary": {
+    "sanskrit": "षष्ठीतिथिनित्या जालन्धरपीठाधिष्ठात्री वज्रेश्वरी ।",
+    "translation": {
+      "en": "Vajreśvarī is the Nityā of the sixth lunar day, the presiding goddess of the Jālandhara pīṭha.",
+      "hi": "वज्रेश्वरी षष्ठी तिथि की नित्या हैं, जालन्धर पीठ की अधिष्ठात्री।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 468 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. ‘One of the fifteen Nityā goddesses of the lunar days’ is added explanation of तिथिनित्या." }
+}

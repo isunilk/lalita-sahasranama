@@ -1,0 +1,47 @@
+{
+  "number": 290,
+  "verse": 68,
+  "slug": "sakalagama-sandoha-shukti-samputa-mauktika",
+  "devanagari": "सकलागमसन्दोहशुक्तिसम्पुटमौक्तिका",
+  "iastSplit": "Sakalāgama-sandoha-śukti-sampuṭa-mauktikā",
+  "archana": "ॐ सकलागमसन्दोहशुक्तिसम्पुटमौक्तिकायै नमः",
+  "syllables": ["sa", "ka", "lā", "ga", "ma", "san", "do", "ha", "śuk", "ti", "sam", "pu", "ṭa", "mauk", "ti", "kā"],
+  "words": [
+    {"sa": "सकल", "meaning": {"en": "all", "hi": "सकल, सम्पूर्ण"}},
+    {"sa": "आगम", "meaning": {"en": "scripture", "hi": "आगम, शास्त्र"}},
+    {"sa": "सन्दोह", "meaning": {"en": "collection, mass", "hi": "समूह"}},
+    {"sa": "शुक्ति", "meaning": {"en": "pearl-oyster shell", "hi": "सीपी"}},
+    {"sa": "सम्पुट", "meaning": {"en": "closed casket", "hi": "सम्पुट, बन्द डिब्बा"}},
+    {"sa": "मौक्तिक", "meaning": {"en": "pearl", "hi": "मोती"}}
+  ],
+  "meaning": {
+    "en": "The pearl held in the shell-casket of all the scriptures",
+    "hi": "सब आगमों के समूह रूपी सीपी-सम्पुट में रखा मोती"
+  },
+  "explanation": {
+    "en": "Śukti is a pearl-oyster shell, sampuṭa a closed casket, and mauktika a pearl. All the scriptures together form a shell, and within it lies the pearl. The Devī is that pearl, the treasure that all scripture holds and guards.",
+    "hi": "‘शुक्ति’ मोती वाली सीपी है, ‘सम्पुट’ बन्द डिब्बा, और ‘मौक्तिक’ मोती। सारे शास्त्र मिलकर एक सीपी हैं, और उसके भीतर मोती है। देवी वही मोती हैं, वह निधि जिसे सारे शास्त्र अपने भीतर रखते और सँभालते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya’s first reading is subtler: the pearl is her nose-ornament, and what the scriptures enclose and teach is only that pearl, not her face. Teaching by positive statements, they point to her indirectly, through attributes near her such as creation, as one shows the faint star Arundhatī by first pointing to a bright star beside it. Her own nature stays beyond words, ‘from which speech turns back’. In his second reading, the gathered scriptures are a shell-casket and she herself is like the pearl within it.",
+    "hi": "भास्करराय का पहला अर्थ अधिक सूक्ष्म है: मोती उनकी नथ का मोती है, और शास्त्र जिसे अपने भीतर रखकर बताते हैं, वह केवल वह मोती है, उनका मुख नहीं। विधि-वाक्यों से बताने वाले शास्त्र उनके निकट के सृष्टि आदि धर्मों द्वारा, तटस्थ लक्षण से, उनकी ओर संकेत करते हैं, जैसे धुँधले अरुन्धती तारे को दिखाने के लिए पहले उसके पास का चमकीला तारा दिखाया जाता है। उनका अपना स्वरूप वाणी से परे रहता है, ‘जहाँ से वाणी लौट आती है’। दूसरे अर्थ में शास्त्रों का समूह सीपी का सम्पुट है, और वे स्वयं उसमें रखे मोती के समान हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya offers one more reading: the previous name suggests her worship by the three twice-born classes through the Vedas, and this one her worship by the fourth through the Āgamas. He quotes the Rudrayāmala: the place reached through the Vedas is reached through the Tantras too, so brāhmaṇa, kṣatriya, vaiśya and śūdra are all entitled to it.",
+    "hi": "भास्करराय एक और अर्थ देते हैं: पिछला नाम संकेत करता है कि तीनों द्विज वर्ण वेदों द्वारा उनकी उपासना करते हैं, और यह नाम कि चौथा वर्ण आगमों द्वारा। वे रुद्रयामल उद्धृत करते हैं: जो स्थान वेदों से प्राप्त होता है, वह तन्त्रों से भी प्राप्त होता है, इसलिए ब्राह्मण, क्षत्रिय, वैश्य और शूद्र, सभी अधिकारी हैं।"
+  },
+  "commentary": {
+    "sanskrit": "अम्बामुखसमीपवर्त्यसाधारणं मौक्तिकाद्येव वेदैः प्रतिपाद्यते न तु तस्याः स्वरूपम् ।",
+    "translation": {
+      "en": "What the Vedas teach is only the rare pearl and such things near the Mother’s face, not her own nature.",
+      "hi": "वेद केवल अम्बा के मुख के समीप स्थित असाधारण मोती आदि का ही प्रतिपादन करते हैं, उनके अपने स्वरूप का नहीं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 290 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya takes āgama here as the Vedas in his main reading and as the Tantras in his last; he also discusses whether mauktikā is a bahuvrīhi or a feminine tatpuruṣa. Both of his main readings are given in the inner layer." }
+}

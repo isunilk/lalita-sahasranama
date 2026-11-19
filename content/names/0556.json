@@ -1,0 +1,42 @@
+{
+  "number": 556,
+  "verse": 113,
+  "slug": "katyayani",
+  "devanagari": "कात्यायनी",
+  "iastSplit": "Kātyāyanī",
+  "archana": "ॐ कात्यायन्यै नमः",
+  "syllables": ["kāt", "yā", "ya", "nī"],
+  "words": [
+    { "sa": "कात्यायनी", "meaning": { "en": "Kātyāyanī, she of the line of the sage Kata", "hi": "कात्यायनी, कत ऋषि के वंश की" } }
+  ],
+  "meaning": {
+    "en": "Kātyāyanī, the Devī formed from the gathered radiance of the gods",
+    "hi": "कात्यायनी, देवताओं के एकत्र तेज से प्रकट देवी"
+  },
+  "explanation": {
+    "en": "By grammar, Kātyāyanī means a woman of the line of the sage Kata. Bhāskararāya says it is the name of the Devī whose being is the gathered radiance of all the gods.",
+    "hi": "व्याकरण के अनुसार ‘कात्यायनी’ का अर्थ है कत ऋषि के वंश की स्त्री। भास्करराय कहते हैं कि यह उस देवी का नाम है जिनका स्वरूप सब देवताओं के तेज का समूह है।"
+  },
+  "inner": {
+    "en": "He quotes the Devī Purāṇa, which plays on the syllable ka: ka means Brahman, ka means the head, and it has other senses too, and because she upholds them or dwells in them she is Kātyāyanī. The name thus holds both her lineage and her supremacy.",
+    "hi": "वे देवी पुराण का वचन देते हैं, जो ‘क’ अक्षर पर खेलता है: ‘क’ का अर्थ ब्रह्म है, ‘क’ का अर्थ सिर है, और इसके अन्य अर्थ भी हैं; इन्हें धारण करने या इनमें वास करने से वे कात्यायनी हैं। इस प्रकार नाम में उनका वंश भी है और उनकी सर्वोच्चता भी।"
+  },
+  "story": {
+    "en": "He quotes the Vāmana Purāṇa: that great and excellent radiance became famous on earth as Kātyāyanī. From the Kālikā Purāṇa he adds that she presides over the seat of Uḍḍiyāna, as Kāmākhyā does at Kāmarūpa, Pūrṇeśvarī at Pūrṇagiri and Caṇḍī at Jālandhara.",
+    "hi": "वे वामन पुराण का वचन देते हैं: वह श्रेष्ठ और महान तेज पृथ्वी पर कात्यायनी नाम से प्रसिद्ध हुआ। कालिका पुराण से वे जोड़ते हैं कि वे उड्डियान पीठ की अधिष्ठात्री हैं, जैसे कामरूप में कामाख्या, पूर्णगिरि में पूर्णेश्वरी और जालन्धर में चण्डी।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वदेवतेजःसमूहात्मिकाया देव्या इयं संज्ञा ।",
+    "translation": {
+      "en": "This is the name of the Devī whose being is the gathered radiance of all the gods.",
+      "hi": "यह उस देवी की संज्ञा है जिनका स्वरूप सब देवताओं के तेज का समूह है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 556 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya derives the name grammatically (कत → कात्य → कात्यायनी). He prints the seat as ओड्यान, and the Kālikā verse has उड्डियान. In the Devī Purāṇa verse, the third sense of क (अश्मसार) is left untranslated. The last sentence of the inner layer is a reflection." }
+}

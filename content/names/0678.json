@@ -1,0 +1,43 @@
+{
+  "number": 678,
+  "verse": 133,
+  "slug": "bhasha-rupa",
+  "devanagari": "भाषारूपा",
+  "iastSplit": "Bhāṣā-rūpā",
+  "archana": "ॐ भाषारूपायै नमः",
+  "syllables": ["bhā", "ṣā", "rū", "pā"],
+  "words": [
+    { "sa": "भाषा", "meaning": { "en": "language, speech", "hi": "भाषा, वाणी" } },
+    { "sa": "रूप", "meaning": { "en": "form, nature", "hi": "रूप, स्वरूप" } }
+  ],
+  "meaning": {
+    "en": "Whose form is every language",
+    "hi": "सभी भाषाएँ जिनका रूप हैं"
+  },
+  "explanation": {
+    "en": "Every language, Sanskrit, Prākṛt and the rest, is her form. Bhāskararāya also reads the name as “she who is described through languages”: whatever tongue her devotees use, it is she who is being spoken of.",
+    "hi": "संस्कृत, प्राकृत आदि सभी भाषाएँ उनका रूप हैं। भास्करराय इसका दूसरा अर्थ भी देते हैं: वे भाषाओं द्वारा निरूपित होती हैं — भक्त जिस भी भाषा में बोलें, वर्णन उन्हीं का होता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes a verse addressed to her: some praise you in Sanskrit, some in the tongues of foreign peoples, some in everyday speech and some in Prākṛt. He adds no hidden meaning. The thought is simple and generous: no language is too humble to reach her, for every language is already her form.",
+    "hi": "भास्करराय एक श्लोक उद्धृत करते हैं जिसमें देवी से कहा गया है: कुछ लोग संस्कृत में तुम्हारी स्तुति करते हैं, कुछ विदेशी भाषाओं में, कुछ साधारण बोलचाल में और कुछ प्राकृत में। वे इसका कोई गूढ़ अर्थ नहीं देते। भाव सरल और उदार है: कोई भी भाषा उन तक पहुँचने के लिए छोटी नहीं, क्योंकि हर भाषा स्वयं उन्हीं का रूप है।"
+  },
+  "story": {
+    "en": "The names of this verse move from her as language to her vast army, and then to her freedom from both being and non-being. The hymn itself was composed by the Vāgdevīs, the goddesses of speech, at her command, so a name honouring every language sits well in it.",
+    "hi": "इस श्लोक के नाम वाणी से आरम्भ होकर उनकी विशाल सेना तक, और फिर भाव-अभाव दोनों से परे उनके स्वरूप तक जाते हैं। यह स्तोत्र स्वयं वाग्देवियों ने देवी की आज्ञा से रचा था, इसलिए सब भाषाओं को उनका रूप कहने वाला नाम इसमें विशेष रूप से उपयुक्त है।"
+  },
+  "commentary": {
+    "sanskrit": "संस्कृतप्राकृतादिभाषा रूपं यस्याः । भाषाभिर्निरूप्यत इति वा ।",
+    "translation": {
+      "en": "She whose form is the languages, Sanskrit, Prākṛt and the rest. Or: she who is described by languages.",
+      "hi": "संस्कृत, प्राकृत आदि भाषाएँ जिनका रूप हैं। अथवा, जो भाषाओं द्वारा निरूपित होती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 678 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives the literal sense and a verse introduced only with तदुक्तम् (source not named); म्लेच्छादिभाषया is rendered gently as ‘foreign tongues’. The last sentence of the inner layer is a reflection." }
+}

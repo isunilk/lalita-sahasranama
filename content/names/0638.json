@@ -1,0 +1,43 @@
+{
+  "number": 638,
+  "verse": 127,
+  "slug": "svarna-garbha",
+  "devanagari": "स्वर्णगर्भा",
+  "iastSplit": "Svarṇa-garbhā",
+  "archana": "ॐ स्वर्णगर्भायै नमः",
+  "syllables": ["svar", "ṇa", "gar", "bhā"],
+  "words": [
+    { "sa": "स्वर्ण", "meaning": { "en": "gold; read also as su-arṇa, ‘fine letters’", "hi": "स्वर्ण, सोना; सु-अर्ण (सुन्दर वर्ण) भी" } },
+    { "sa": "गर्भ", "meaning": { "en": "womb", "hi": "गर्भ" } }
+  ],
+  "meaning": {
+    "en": "She who holds gold, the golden embryo, in her womb",
+    "hi": "जिनके गर्भ में स्वर्ण (हिरण्य) है"
+  },
+  "explanation": {
+    "en": "Svarṇa means gold, the same as hiraṇya. She holds gold within her womb, or she herself is born of the golden womb, which makes her Hiraṇyagarbha, the golden one from whom creation begins.",
+    "hi": "स्वर्ण का अर्थ है सोना, अर्थात् हिरण्य। उनके गर्भ में स्वर्ण है, अथवा वे स्वयं स्वर्ण के गर्भ से उत्पन्न हैं; इस अर्थ में वे हिरण्यगर्भ हैं, वह स्वर्णिम सत्ता जिससे सृष्टि आरम्भ होती है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya also reads the word as su-arṇa, ‘fine letters’. The letters of the alphabet, the mātṛkā, are her beautiful womb, so she is the one the letters make known; or the mantras, made of auspicious letters, are held within her.",
+    "hi": "भास्करराय इस शब्द को सु-अर्ण, अर्थात् ‘सुन्दर वर्ण’, के रूप में भी पढ़ते हैं। वर्णमाला के अक्षर, मातृका, उनका शोभन गर्भ हैं, इसलिए वर्ण ही उनका प्रतिपादन करते हैं; अथवा शुभ अक्षरों से बने मन्त्र उनके गर्भ में स्थित हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya quotes the Vāyu Purāṇa: Hiraṇyagarbha is so called because gold was his womb and he was born of the golden womb. In this sense the Devī is herself that first being of creation.",
+    "hi": "भास्करराय वायुपुराण का वचन उद्धृत करते हैं: हिरण्य ही उसका गर्भ था और वह हिरण्य के गर्भ से जन्मा, इसलिए वह हिरण्यगर्भ कहलाता है। इस अर्थ में देवी स्वयं सृष्टि की वह प्रथम सत्ता हैं।"
+  },
+  "commentary": {
+    "sanskrit": "स्वर्णं हिरण्यं गर्भे यस्याः । स्वर्णस्य गर्भभवा वा ।",
+    "translation": {
+      "en": "She in whose womb is svarṇa, gold, that is, hiraṇya. Or, she who is born of the womb of gold.",
+      "hi": "जिनके गर्भ में स्वर्ण अर्थात् हिरण्य है। अथवा, जो स्वर्ण के गर्भ से उत्पन्न हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 638 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The reading su-arṇa (मातृका, मन्त्र) is Bhāskararāya’s own alternative and is summarised, not quoted." }
+}

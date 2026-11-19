@@ -1,0 +1,45 @@
+{
+  "number": 700,
+  "verse": 136,
+  "slug": "sachchidananda-rupini",
+  "devanagari": "सच्चिदानन्दरूपिणी",
+  "iastSplit": "Saccidānanda-rūpiṇī",
+  "archana": "ॐ सच्चिदानन्दरूपिण्यै नमः",
+  "syllables": ["sac", "ci", "dā", "nan", "da", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "सत्", "meaning": { "en": "being, existence", "hi": "सत्, अस्तित्व" } },
+    { "sa": "चित्", "meaning": { "en": "consciousness", "hi": "चित्, चेतना" } },
+    { "sa": "आनन्द", "meaning": { "en": "bliss", "hi": "आनन्द" } },
+    { "sa": "रूपिणी", "meaning": { "en": "whose very nature is", "hi": "स्वरूपा" } }
+  ],
+  "meaning": {
+    "en": "Whose very nature is being, consciousness and bliss",
+    "hi": "सत्, चित् और आनन्द जिनका स्वरूप है"
+  },
+  "explanation": {
+    "en": "Being, consciousness and bliss are not qualities she has but what she is: her own nature (svarūpa). This is Vedānta’s classic description of Brahman, and the hymn gives it to her.",
+    "hi": "सत्, चित् और आनन्द उनके गुण नहीं, स्वयं उनका स्वरूप हैं। वेदान्त इसी प्रकार ब्रह्म का वर्णन करता है, और स्तोत्र यही वर्णन देवी को देता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya adds a point from Vedānta: because these three are her very nature, they are to be brought into every other meditation on her. Whatever form of the Devī one contemplates, one is to remember that it is being, consciousness and bliss.",
+    "hi": "भास्करराय वेदान्त का एक बिन्दु जोड़ते हैं: क्योंकि ये तीनों उनका स्वरूप ही हैं, इसलिए इन्हें उनकी अन्य सभी उपासनाओं में भी सम्मिलित करना चाहिए। देवी के जिस भी रूप का ध्यान किया जाए, यह स्मरण रहे कि वह सत्, चित् और आनन्द ही है।"
+  },
+  "story": {
+    "en": "This name completes the seventh hundred, and with it Bhāskararāya closes the eighth section of his commentary, the kalā he names Bhogadā. The next section, Viśvā, begins with name 701.",
+    "hi": "यह नाम सातवाँ शतक पूरा करता है, और इसके साथ भास्करराय अपने भाष्य का आठवाँ खण्ड समाप्त करते हैं, जिसे वे ‘भोगदा’ नामक कला कहते हैं। अगला खण्ड, ‘विश्वा’, नाम 701 से आरम्भ होता है।"
+  },
+  "commentary": {
+    "sanskrit": "सत्त्वं चित्त्वमानन्दश्च रूपं स्वरूपमत एव विद्यान्तरेषूपसंहार्यमस्या इति सच्चिदानन्दरूपिणी ।",
+    "translation": {
+      "en": "Being, consciousness and bliss are her rūpa, her own nature; for that very reason they are to be brought into her other meditations. So she is Saccidānandarūpiṇī.",
+      "hi": "सत्त्व, चित्त्व और आनन्द उनका रूप अर्थात् स्वरूप हैं; इसीलिए उनकी अन्य उपासनाओं में भी इनका उपसंहार (समावेश) करना चाहिए। अतः वे सच्चिदानन्दरूपिणी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 700 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. विद्यान्तरेषूपसंहार्यम् is read in the Vedānta sense of including attributes in other meditations (guṇopasaṃhāra); check. The slug follows the common spelling sachchidananda." }
+}

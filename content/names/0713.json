@@ -1,0 +1,44 @@
+{
+  "number": 713,
+  "verse": 138,
+  "slug": "guru-mandala-rupini",
+  "devanagari": "गुरुमण्डलरूपिणी",
+  "iastSplit": "Guru-maṇḍala-rūpiṇī",
+  "archana": "ॐ गुरुमण्डलरूपिण्यै नमः",
+  "syllables": ["gu", "ru", "maṇ", "ḍa", "la", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "गुरु", "meaning": { "en": "teacher, guru", "hi": "गुरु" } },
+    { "sa": "मण्डल", "meaning": { "en": "circle; here the lineage", "hi": "मण्डल; यहाँ परम्परा" } },
+    { "sa": "रूपिणी", "meaning": { "en": "whose form is", "hi": "स्वरूपा" } }
+  ],
+  "meaning": {
+    "en": "Whose form is the unbroken line of gurus",
+    "hi": "गुरु-परम्परा ही जिनका स्वरूप है"
+  },
+  "explanation": {
+    "en": "The gurus are the whole line of teachers, from Paramaśiva down to one’s own guru, and their maṇḍala is that unbroken succession. Bhāskararāya says this lineage is her form: it is through the lineage that she is made known.",
+    "hi": "गुरु अर्थात् परमशिव से लेकर अपने गुरु तक शिक्षकों की पूरी श्रृंखला, और उनका मण्डल अर्थात् यह अविच्छिन्न परम्परा। भास्करराय कहते हैं कि यही परम्परा उनका रूप है: इसी के द्वारा वे जानी जाती हैं।"
+  },
+  "inner": {
+    "en": "This closes the long argument of names 701 to 713. The deepest secret, the nature of the Kāmakalā named just before, comes down through an unbroken succession of gurus and is not written in books. He quotes the Yoginīhṛdaya: it reached the earth through teaching passed from ear to ear.",
+    "hi": "इससे नाम 701 से 713 तक का लम्बा तर्क पूरा होता है। सबसे गहरा रहस्य, अभी पहले आए कामकला नाम का स्वरूप, गुरुओं की अविच्छिन्न परम्परा से आता है और पुस्तकों में नहीं लिखा जाता। वे योगिनीहृदय उद्धृत करते हैं: यह कान से कान तक दिए उपदेश द्वारा पृथ्वी पर पहुँचा।"
+  },
+  "story": {
+    "en": "Under name 707 Bhāskararāya quoted a verse that calls her “the one who bears the form of the guru”; here that becomes a name of its own. He then says that the next four names (714–717) describe this secrecy further.",
+    "hi": "नाम 707 के अन्तर्गत भास्करराय ने एक श्लोक उद्धृत किया था जो उन्हें ‘गुरु-मूर्ति धारण करने वाली’ कहता है; यहाँ वही एक स्वतन्त्र नाम बन जाता है। इसके बाद वे कहते हैं कि अगले चार नाम (714–717) इसी रहस्यमयता का और वर्णन करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "गुरवः परमशिवादिस्वस्वगुरुपर्यन्तास्तेषां मण्डलं परम्परा सैव रूपं निरूपणमस्याः अविच्छिन्नगुरुपारम्पर्यक्रमागतमिदं रहस्यं न तु पुस्तके लिख्यत इति भावः ।",
+    "translation": {
+      "en": "The gurus, from Paramaśiva down to each one’s own guru; their maṇḍala is the lineage; that alone is her form, the means by which she is made known. The point is that this secret comes down through an unbroken succession of gurus and is not written in a book.",
+      "hi": "परमशिव से लेकर अपने-अपने गुरु तक गुरु; उनका मण्डल अर्थात् परम्परा; वही उनका रूप, अर्थात् उनका निरूपण है। भाव यह है कि यह रहस्य अविच्छिन्न गुरु-परम्परा के क्रम से आया है, पुस्तक में नहीं लिखा जाता।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 713 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition runs निरूपणमस्याः into the next sentence without a daṇḍa; the excerpt keeps it as printed. ‘The next four names’ renders रहस्यत्वमेव चतुर्भिराह, which introduces verse 139." }
+}

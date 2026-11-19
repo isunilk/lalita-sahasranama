@@ -1,0 +1,43 @@
+{
+  "number": 677,
+  "verse": 132,
+  "slug": "bali-priya",
+  "devanagari": "बलिप्रिया",
+  "iastSplit": "Bali-priyā",
+  "archana": "ॐ बलिप्रियायै नमः",
+  "syllables": ["ba", "lip", "ri", "yā"],
+  "words": [
+    { "sa": "बलि", "meaning": { "en": "offering in worship; also balin, ‘the strong’; King Bali", "hi": "बलि, पूजा का उपहार; ‘बलिन्’ अर्थात् बलवान भी; राजा बलि" } },
+    { "sa": "प्रिया", "meaning": { "en": "dear, fond of", "hi": "प्रिय" } }
+  ],
+  "meaning": {
+    "en": "She to whom the strong in spirit, and offerings, are dear",
+    "hi": "जिन्हें आत्मबल वाले भक्त और पूजा के उपहार प्रिय हैं"
+  },
+  "explanation": {
+    "en": "Bali means an offering made in worship, and priyā means ‘dear’ or ‘fond of’. She is pleased by the offerings of her devotees; Bhāskararāya also reads the word as balin, ‘the strong’, those who have overcome their inner enemies.",
+    "hi": "बलि का अर्थ है पूजा में अर्पित उपहार, और प्रिया का अर्थ है प्रिय। उन्हें भक्तों के उपहार प्रिय हैं; भास्करराय इस शब्द को ‘बलिन्’, अर्थात् बलवान, के रूप में भी पढ़ते हैं, वे जिन्होंने अपने भीतर के शत्रुओं को जीत लिया है।"
+  },
+  "inner": {
+    "en": "His first reading is inward: the strong who are dear to her, the objects of her compassion, are those able to dispel ignorance, the conquerors of desire and the other inner enemies. Strength here is not force but mastery of oneself. Only in his last reading does he take bali as the offerings of worship.",
+    "hi": "उनका पहला अर्थ भीतरी है: जो बलवान उन्हें प्रिय हैं, उनकी दया के पात्र, वे हैं जो अविद्या को दूर करने में समर्थ हैं, काम आदि भीतरी शत्रुओं के विजेता। यहाँ बल का अर्थ ज़ोर नहीं, अपने पर विजय है। अपने अन्तिम अर्थ में ही वे बलि को पूजा के उपहार के रूप में लेते हैं।"
+  },
+  "story": {
+    "en": "In a second reading Bhāskararāya links the name with Vāmana, the dwarf incarnation of Viṣṇu, to whom King Bali was dear: she is not different from him. With this name verse 132 ends.",
+    "hi": "दूसरे अर्थ में भास्करराय इस नाम को विष्णु के वामन अवतार से जोड़ते हैं, जिन्हें राजा बलि प्रिय थे: वे उनसे अभिन्न हैं। इस नाम के साथ श्लोक 132 पूरा होता है।"
+  },
+  "commentary": {
+    "sanskrit": "बलिनो विद्यानिराससमर्थाः कामादिशत्रुजेतारः प्रिया दयापात्रं यस्याः ।",
+    "translation": {
+      "en": "She to whom the strong are dear, objects of her compassion: those able to dispel ignorance, the conquerors of enemies such as desire.",
+      "hi": "जिन्हें बलवान प्रिय हैं, उनकी दया के पात्र: वे जो अविद्या को दूर करने में समर्थ हैं, काम आदि शत्रुओं के विजेता।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 677 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition prints बलिनो विद्यानिरास…; the sense requires बलिनोऽविद्यानिरास… (avagraha omitted), and the translation follows that. Bali as offering is Bhāskararāya’s third reading (पूजोपहाराः प्रिया यस्या वा). The second sentence of the inner layer is a reflection." }
+}

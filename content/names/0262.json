@@ -1,0 +1,42 @@
+{
+  "number": 262,
+  "verse": 63,
+  "slug": "turya",
+  "devanagari": "तुर्या",
+  "iastSplit": "Turyā",
+  "archana": "ॐ तुर्यायै नमः",
+  "syllables": ["tur", "yā"],
+  "words": [
+    {"sa": "तुर्या", "meaning": {"en": "the fourth", "hi": "चौथी, तुरीया"}}
+  ],
+  "meaning": {
+    "en": "The Fourth: the awareness beyond waking, dream and deep sleep",
+    "hi": "तुरीया: जाग्रत्, स्वप्न और सुषुप्ति से परे की चेतना"
+  },
+  "explanation": {
+    "en": "Turya means ‘the fourth’. Beyond waking, dream and deep sleep there is a fourth state: the plain awareness that witnesses all three and is touched by none. This name says she is that Fourth.",
+    "hi": "‘तुर्य’ का अर्थ है ‘चौथा’। जाग्रत्, स्वप्न और सुषुप्ति के परे एक चौथी अवस्था है: वह निर्मल चेतना जो तीनों की साक्षी है और किसी से लिप्त नहीं होती। यह नाम कहता है कि वे वही चौथी अवस्था हैं।"
+  },
+  "inner": {
+    "en": "For Bhāskararāya, turya is a wonder (camatkāra), the dawning of pure knowledge, born of clearly discerning the three states and those who experience them. He cites the Spanda teaching that one who knows both the enjoyed and the enjoyer in the three abodes is not stained even while enjoying, and the Śiva Sūtra that the delight of the fourth can arise even amid waking, dream and sleep. Or, following the Upaniṣad that calls the auspicious, non-dual Self ‘the fourth’, she is the Fourth herself, as Śaṅkara says: ‘You are a certain Fourth, whose boundless greatness is hard to reach.’",
+    "hi": "भास्करराय के अनुसार तुर्य एक चमत्कार है, शुद्ध विद्या का उदय, जो तीनों अवस्थाओं और उनके भोक्ताओं को विवेकपूर्वक जानने से उत्पन्न होता है। वे स्पन्द-शास्त्र का वचन उद्धृत करते हैं कि जो तीनों धामों के भोग्य और भोक्ता दोनों को जानता है, वह भोगते हुए भी लिप्त नहीं होता; और शिवसूत्र का, कि जाग्रत्, स्वप्न और सुषुप्ति के भेद में भी तुर्य का आनन्द सम्भव है। अथवा, उपनिषद् जिस शिव, अद्वैत आत्मा को ‘चतुर्थ’ कहता है, वे स्वयं वही चतुर्थ हैं; जैसा भगवत्पाद शंकर कहते हैं: ‘तुम कोई तुरीया हो, जिसकी असीम महिमा दुर्गम है।’"
+  },
+  "story": {
+    "en": "Bhāskararāya also cites the Tripurāsiddhānta, which says the Devī’s name Turyā became known through the grace of Turīyānandanātha. In his reading the soul in this state identifies with the ‘great causal body’, and she is one with it in both its individual and cosmic forms.",
+    "hi": "भास्करराय त्रिपुरासिद्धान्त का भी उल्लेख करते हैं, जिसके अनुसार तुरीयानन्दनाथ के प्रसन्न होने से देवी का नाम ‘तुर्या’ विख्यात हुआ। उनके अनुसार इस अवस्था का जीव ‘महाकारण शरीर’ से तादात्म्य रखता है, और देवी उससे व्यष्टि और समष्टि, दोनों रूपों में अभिन्न हैं।"
+  },
+  "commentary": {
+    "sanskrit": "एतदवस्थात्रयस्य तद्भोक्तॄणाञ्च विविच्य ज्ञानजन्यः शुद्धविद्योदयाख्यश्चमत्कारस्तुर्यावस्था ।",
+    "translation": {
+      "en": "The wonder called the dawning of pure knowledge, born of knowing these three states and their enjoyers as distinct, is the turya state.",
+      "hi": "इन तीन अवस्थाओं और उनके भोक्ताओं को अलग-अलग पहचानकर जानने से उत्पन्न, ‘शुद्धविद्या का उदय’ नामक चमत्कार ही तुर्यावस्था है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 262 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya also quotes Śiva Sūtra and other verses on how the fourth state is entered; these are left out, as practice. The edition prints the Śiva Sūtra त्रिषु चतुर्थं तैलवदासेच्यम् as तलवदासेच्यम्. The line ‘turīyā kāpi tvam’ is cited by him as Bhagavatpāda’s." }
+}

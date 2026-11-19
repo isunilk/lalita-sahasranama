@@ -1,0 +1,43 @@
+{
+  "number": 543,
+  "verse": 111,
+  "slug": "punya-labhya",
+  "devanagari": "पुण्यलभ्या",
+  "iastSplit": "Puṇya-labhyā",
+  "archana": "ॐ पुण्यलभ्यायै नमः",
+  "syllables": ["puṇ", "ya", "labh", "yā"],
+  "words": [
+    { "sa": "पुण्य", "meaning": { "en": "merit, good deeds", "hi": "पुण्य, सत्कर्म" } },
+    { "sa": "लभ्या", "meaning": { "en": "to be attained", "hi": "प्राप्त होने योग्य" } }
+  ],
+  "meaning": {
+    "en": "Who is attained through merit earned before",
+    "hi": "जो पूर्व-संचित पुण्य से प्राप्त होती हैं"
+  },
+  "explanation": {
+    "en": "Labhyā means ‘to be attained’. Bhāskararāya says she is reached through merits of the past, the good deeds of earlier days and lives.",
+    "hi": "‘लभ्या’ का अर्थ है ‘प्राप्त होने योग्य’। भास्करराय कहते हैं कि वे पूर्व के पुण्यों से, अर्थात् पहले के दिनों और जन्मों के सत्कर्मों से, प्राप्त होती हैं।"
+  },
+  "inner": {
+    "en": "He quotes the Devī Bhāgavata (third book): those rich in merit, the knowers of Vedānta and ascetics see the Devī, but those ruled by attachment never see her. Merit does not buy her; it clears the heart so that she can be seen.",
+    "hi": "वे देवीभागवत (तृतीय स्कन्ध) का वचन देते हैं: जिनके पास पुण्य का संचय है, जो वेदान्त के ज्ञाता और तपस्वी हैं, वे देवी भगवती शिवा का दर्शन करते हैं; पर आसक्ति में डूबे लोग उन्हें कभी नहीं देखते। पुण्य उन्हें खरीदता नहीं; वह हृदय को इतना निर्मल करता है कि वे दिखाई दें।"
+  },
+  "story": {
+    "en": "This is the second of three names on puṇya, merit. Taken with the next, it describes a circle: merit leads to her, and hearing and singing of her is itself merit.",
+    "hi": "यह ‘पुण्य’ पर आधारित तीन नामों में दूसरा है। अगले नाम के साथ यह एक चक्र बनाता है: पुण्य उन तक ले जाता है, और उनका श्रवण-कीर्तन स्वयं पुण्य है।"
+  },
+  "commentary": {
+    "sanskrit": "पुण्यैः प्राक्तनैर्लभ्या ।",
+    "translation": {
+      "en": "She is to be attained through puṇyas, merits, of the past.",
+      "hi": "वे पूर्व के पुण्यों से प्राप्त होने योग्य हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 543 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The second sentence of the inner layer and the ‘circle’ in the story are reflections. ‘Earlier lives’ renders प्राक्तन (former), which can mean earlier in this life or in past births." }
+}

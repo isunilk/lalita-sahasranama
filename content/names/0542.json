@@ -1,0 +1,43 @@
+{
+  "number": 542,
+  "verse": 111,
+  "slug": "punya-kirti",
+  "devanagari": "पुण्यकीर्तिः",
+  "iastSplit": "Puṇya-kīrtiḥ",
+  "archana": "ॐ पुण्यकीर्त्यै नमः",
+  "syllables": ["puṇ", "ya", "kīr", "tiḥ"],
+  "words": [
+    { "sa": "पुण्य", "meaning": { "en": "holy, meritorious", "hi": "पवित्र, पुण्यदायक" } },
+    { "sa": "कीर्ति", "meaning": { "en": "fame, glory", "hi": "कीर्ति, यश" } }
+  ],
+  "meaning": {
+    "en": "Whose glory is holy and confers merit",
+    "hi": "जिनकी कीर्ति पवित्र और पुण्य देने वाली है"
+  },
+  "explanation": {
+    "en": "Puṇya is what is holy and meritorious, and kīrti is fame or glory. Her glory is itself holy: Bhāskararāya explains that it bestows merit.",
+    "hi": "‘पुण्य’ वह है जो पवित्र और शुभ फल देने वाला हो, और ‘कीर्ति’ यश या महिमा। उनकी कीर्ति स्वयं पवित्र है; भास्करराय समझाते हैं कि वह पुण्य प्रदान करती है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives only this plain sense. To speak of her glory is already to receive merit; the very fame of the Mother purifies those who tell of it.",
+    "hi": "भास्करराय केवल यही सीधा अर्थ देते हैं। उनकी महिमा का कथन करना ही पुण्य पाना है; माँ की कीर्ति स्वयं उसे कहने वालों को पवित्र कर देती है।"
+  },
+  "story": {
+    "en": "The three names of this half-verse all begin with puṇya: her glory is holy, she is reached through merit, and to hear and sing of her is holy.",
+    "hi": "इस अर्ध-श्लोक के तीनों नाम ‘पुण्य’ से आरम्भ होते हैं: उनकी कीर्ति पवित्र है, वे पुण्य से प्राप्त होती हैं, और उनका श्रवण-कीर्तन पवित्र है।"
+  },
+  "commentary": {
+    "sanskrit": "पुण्या पुण्यप्रदा कीर्तिर्यस्याः ।",
+    "translation": {
+      "en": "She whose kīrti, glory, is puṇyā, that is, giving merit.",
+      "hi": "जिनकी कीर्ति पुण्या, अर्थात् पुण्य देने वाली, है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 542 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the second sentence of the inner layer is a reflection." }
+}

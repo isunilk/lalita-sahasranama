@@ -1,0 +1,43 @@
+{
+  "number": 532,
+  "verse": 109,
+  "slug": "sarvato-mukhi",
+  "devanagari": "सर्वतोमुखी",
+  "iastSplit": "Sarvato-mukhī",
+  "archana": "ॐ सर्वतोमुख्यै नमः",
+  "syllables": ["sar", "va", "to", "mu", "khī"],
+  "words": [
+    { "sa": "सर्वतस्", "meaning": { "en": "on all sides, everywhere", "hi": "सब ओर" } },
+    { "sa": "मुख", "meaning": { "en": "face", "hi": "मुख" } }
+  ],
+  "meaning": {
+    "en": "Whose faces look in every direction",
+    "hi": "जिनके मुख सब दिशाओं में हैं"
+  },
+  "explanation": {
+    "en": "Sarvataḥ means on all sides, and mukha is face. As Yākinī at the crown, the Devī has faces turned in every direction.",
+    "hi": "‘सर्वतः’ का अर्थ है सब ओर, और ‘मुख’ का चेहरा। शिखर पर याकिनी के रूप में देवी के मुख सभी दिशाओं में हैं।"
+  },
+  "inner": {
+    "en": "Through the series the faces have grown from one to six; here they are beyond counting. Bhāskararāya supports the name with words used of Brahman, ‘with eyes, heads and faces everywhere’, so the last yoginī is described in the very terms of the Absolute. She sees and is present on every side at once.",
+    "hi": "इस श्रृंखला में मुखों की संख्या एक से छह तक बढ़ी; यहाँ वे गणना से परे हैं। भास्करराय इस नाम की पुष्टि उन शब्दों से करते हैं जो ब्रह्म के लिए कहे गए हैं: ‘सब ओर नेत्र, सिर और मुख वाला’; इस प्रकार अन्तिम योगिनी का वर्णन स्वयं परब्रह्म के शब्दों में होता है। वे सब ओर एक साथ देखती हैं और उपस्थित हैं।"
+  },
+  "story": {
+    "en": "The phrase he quotes comes from the Bhagavad Gītā’s description of Brahman, which has hands and feet, eyes, heads and faces everywhere. His edition prints the name as two words, sarvato mukhī.",
+    "hi": "जो वचन वे उद्धृत करते हैं, वह भगवद्गीता में ब्रह्म के वर्णन से है, जिसके सब ओर हाथ-पैर, नेत्र, सिर और मुख हैं। उनके संस्करण में नाम दो शब्दों में ‘सर्वतो मुखी’ छपा है।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वतः सर्वासु दिक्षु मुखानि यस्याः सा । सर्वतोऽक्षिशिरोमुखमितिवचनात् ।",
+    "translation": {
+      "en": "She whose faces are sarvataḥ, in all directions; as the saying goes, ‘with eyes, heads and faces everywhere’.",
+      "hi": "जिनके मुख सर्वतः, अर्थात् सभी दिशाओं में, हैं; जैसा वचन है: ‘सब ओर नेत्र, सिर और मुख वाला’।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 532 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The identification of the quoted phrase with the Bhagavad Gītā (chapter 13) is mine; Bhāskararāya says only ‘from the saying’. The edition prints सर्वतो मुखी as two words. The last sentence of the inner layer is a reflection." }
+}

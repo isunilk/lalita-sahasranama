@@ -1,0 +1,42 @@
+{
+  "number": 455,
+  "verse": 95,
+  "slug": "malini",
+  "devanagari": "मालिनी",
+  "iastSplit": "Mālinī",
+  "archana": "ॐ मालिन्यै नमः",
+  "syllables": ["mā", "li", "nī"],
+  "words": [
+    { "sa": "मालिनी", "meaning": { "en": "she who wears garlands (mālā + -inī)", "hi": "माला धारण करने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who is adorned with garlands",
+    "hi": "मालाओं से सुशोभित"
+  },
+  "explanation": {
+    "en": "Mālinī is she who is adorned with garlands (mālā). The word has many other senses as well, and Bhāskararāya gathers them under this name.",
+    "hi": "मालिनी का अर्थ है मालाओं से सुशोभित। इस शब्द के और भी अनेक अर्थ हैं, और भास्करराय उन्हें इस नाम में एकत्र करते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya also takes Mālinī as the name of the deity who presides over the fifty-one mātṛkās, the letters of the alphabet; all sound and speech, strung like a garland, is her ornament. He lists other senses too: a poetic metre, the city of Campā, Gaurī, the river Mandākinī, and a girl of seven honoured in the worship of maidens.",
+    "hi": "भास्करराय मालिनी को इक्यावन मातृकाओं, अर्थात् वर्णमाला के अक्षरों, की अधिष्ठात्री देवता का नाम भी मानते हैं; माला की तरह गुँथी सारी ध्वनि और वाणी उनका आभूषण है। वे अन्य अर्थ भी गिनाते हैं: एक छन्द, चम्पा नगरी, गौरी, मन्दाकिनी नदी, और कन्या-पूजन में सम्मानित सात वर्ष की कन्या।"
+  },
+  "story": {
+    "en": "Bhāskararāya tells a story from the Vāmana Purāṇa about a friend of the Goddess named Mālinī. At Pārvatī’s wedding, during the seven steps, Mālinī caught hold of Śiva’s foot to claim the customary gift and would not let go until he granted her friend good fortune. ‘It is given, Mālinī; now let me go,’ said Mahādeva.",
+    "hi": "भास्करराय वामन पुराण से देवी की मालिनी नाम की एक सखी की कथा सुनाते हैं। पार्वती के विवाह में, सप्तपदी के समय, मालिनी ने नेग माँगने के लिए शिव का चरण पकड़ लिया और तब तक नहीं छोड़ा जब तक उन्होंने उसकी सखी को सौभाग्य का वर नहीं दे दिया। महादेव बोले: ‘दे दिया, मालिनी; अब मुझे छोड़ो।’"
+  },
+  "commentary": {
+    "sanskrit": "मालावत्त्वान्मालिनी । व्रीह्यादित्वादिनिः । एकपञ्चाशन्मातृकाभिमानिदेवताया मालिनीति संज्ञा तद्रूपा वा ।",
+    "translation": {
+      "en": "Mālinī, because she has garlands (the suffix -in, as for vrīhi and similar words). Or Mālinī is the name of the deity who presides over the fifty-one mātṛkās, the letters; she is that.",
+      "hi": "माला वाली होने से मालिनी (व्रीहि आदि शब्दों की भाँति ‘इनि’ प्रत्यय)। अथवा इक्यावन मातृकाओं की अधिष्ठात्री देवता का नाम मालिनी है; वे वही हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 455 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. ‘Strung like a garland’ in the inner layer explains the image and is not Bhāskararāya’s phrase. The Vāmana Purāṇa story is summarised from the verses he quotes; सौभाग्यं निजगोत्रीयं is rendered loosely as ‘good fortune’." }
+}

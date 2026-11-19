@@ -1,0 +1,45 @@
+{
+  "number": 526,
+  "verse": 108,
+  "slug": "haridrannaika-rasika",
+  "devanagari": "हरिद्रान्नैकरसिका",
+  "iastSplit": "Haridrānnaika-rasikā",
+  "archana": "ॐ हरिद्रान्नैकरसिकायै नमः",
+  "syllables": ["ha", "rid", "rān", "nai", "ka", "ra", "si", "kā"],
+  "words": [
+    { "sa": "हरिद्रा", "meaning": { "en": "turmeric", "hi": "हल्दी" } },
+    { "sa": "अन्न", "meaning": { "en": "food, cooked rice", "hi": "अन्न, भात" } },
+    { "sa": "एक", "meaning": { "en": "one, sole; chief", "hi": "एकमात्र, मुख्य" } },
+    { "sa": "रसिका", "meaning": { "en": "one who relishes, delights in", "hi": "रस लेने वाली, रुचि रखने वाली" } }
+  ],
+  "meaning": {
+    "en": "Who delights above all in rice cooked with turmeric",
+    "hi": "जिनकी विशेष रुचि हल्दी मिले अन्न में है"
+  },
+  "explanation": {
+    "en": "Haridrā is turmeric and anna is food, here cooked rice. Eka-rasikā means one whose single, chief delight is in it: this is the food dear to Hākinī.",
+    "hi": "‘हरिद्रा’ हल्दी है और ‘अन्न’ भोजन, यहाँ पका हुआ भात। ‘एकरसिका’ का अर्थ है जिनकी एकमात्र, प्रमुख रुचि उसी में हो; यह हाकिनी का प्रिय भोग है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya takes eka as ‘chief’ and rasa in three ways: relish, the inclination of the mind, and love. He gives no hidden meaning beyond this. Rasa is also the word for the essence of anything, and the name may be heard as a reminder that she savours the love with which an offering is made.",
+    "hi": "भास्करराय ‘एक’ का अर्थ ‘मुख्य’ लेते हैं और ‘रस’ के तीन अर्थ देते हैं: स्वाद की रुचि, मन का झुकाव, और प्रीति। इससे आगे वे कोई गूढ़ अर्थ नहीं देते। ‘रस’ किसी भी वस्तु के सार को भी कहते हैं, और इस नाम में यह स्मरण सुना जा सकता है कि वे भोग के पीछे के प्रेम का रस लेती हैं।"
+  },
+  "story": {
+    "en": "Each yoginī in this series has a favourite food, and the meditation verse Bhāskararāya quotes for Hākinī calls her solely devoted to turmeric rice. At the crown, Yākinī is pleased with all of them (name 533).",
+    "hi": "इस श्रृंखला में हर योगिनी का एक प्रिय भोजन है, और भास्करराय द्वारा उद्धृत हाकिनी के ध्यान-श्लोक में उन्हें केवल हल्दी वाले अन्न में आसक्त कहा गया है। शिखर पर याकिनी इन सबसे प्रसन्न होती हैं (नाम 533)।"
+  },
+  "commentary": {
+    "sanskrit": "हरिद्रामिश्रेऽन्ने एको मुख्यो रसो रसवत्ता बुद्धिः प्रीतिर्यस्याः ।",
+    "translation": {
+      "en": "She whose eka, chief, rasa (relish, inclination of mind, love) is for food mixed with turmeric.",
+      "hi": "हल्दी मिले अन्न में जिनका एक, अर्थात् मुख्य, रस है: स्वाद की रुचि, मन का झुकाव या प्रीति।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 526 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the last sentence of the inner layer is a reflection. The meditation verse reads हारिद्रान्नैकसक्तां (same sense). Meaning only; no practice." }
+}

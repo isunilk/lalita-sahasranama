@@ -1,0 +1,43 @@
+{
+  "number": 641,
+  "verse": 127,
+  "slug": "dhyana-gamya",
+  "devanagari": "ध्यानगम्या",
+  "iastSplit": "Dhyāna-gamyā",
+  "archana": "ॐ ध्यानगम्यायै नमः",
+  "syllables": ["dhyā", "na", "gam", "yā"],
+  "words": [
+    { "sa": "ध्यान", "meaning": { "en": "meditation, inward contemplation", "hi": "ध्यान, भीतर का चिन्तन" } },
+    { "sa": "गम्या", "meaning": { "en": "to be reached, to be known", "hi": "प्राप्य, जानने योग्य" } }
+  ],
+  "meaning": {
+    "en": "She who is reached through meditation",
+    "hi": "ध्यान से प्राप्त होने वाली"
+  },
+  "explanation": {
+    "en": "Dhyāna is meditation and gamyā means ‘to be reached’ or ‘to be known’. She is known through meditation, by holding her steadily in the mind.",
+    "hi": "ध्यान का अर्थ है एकाग्र चिन्तन, और गम्या का अर्थ है जिस तक पहुँचा जा सके या जिसे जाना जा सके। वे ध्यान से, अर्थात् मन में उन्हें स्थिर भाव से धारण करने से, जानी जाती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya glosses dhyāna as vibhāvana, inward contemplation, and gamyā as ‘to be known’. He cites the Śvetāśvatara Upaniṣad: the sages who followed the yoga of meditation saw the Devātmaśakti, the self-power of God, hidden by her own qualities. The power hidden from every outward search shows herself to the meditating mind.",
+    "hi": "भास्करराय ‘ध्यान’ का अर्थ विभावन (भीतर का चिन्तन) और ‘गम्या’ का अर्थ ‘जानने योग्य’ बताते हैं। वे श्वेताश्वतर उपनिषद् का वचन उद्धृत करते हैं: ध्यानयोग का अनुसरण करने वाले ऋषियों ने अपने ही गुणों से छिपी हुई देवात्मशक्ति का दर्शन किया। जो शक्ति हर बाहरी खोज से छिपी रहती है, वह ध्यानमग्न मन के सामने प्रकट होती है।"
+  },
+  "story": {
+    "en": "The second line of verse 127 gathers names of knowing her: she is reached by meditation, yet cannot be limited; she gives knowledge, and knowledge is her very body.",
+    "hi": "श्लोक 127 की दूसरी पंक्ति उन्हें जानने से जुड़े नामों को एक साथ रखती है: वे ध्यान से प्राप्त होती हैं, फिर भी सीमित नहीं की जा सकतीं; वे ज्ञान देती हैं, और ज्ञान ही उनका शरीर है।"
+  },
+  "commentary": {
+    "sanskrit": "ध्यानेन विभावनेन गम्या ज्ञेया ।",
+    "translation": {
+      "en": "To be reached, that is, known, through dhyāna, inward contemplation.",
+      "hi": "ध्यान अर्थात् विभावन (भीतर के चिन्तन) से गम्य, अर्थात् जानने योग्य।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 641 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya cites ते ध्यानयोगानुगता अपश्यन्… only as śruti; it is identified here as Śvetāśvatara Upaniṣad 1.3. The last sentence of the inner layer is a reflection." }
+}

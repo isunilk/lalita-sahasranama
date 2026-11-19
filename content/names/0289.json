@@ -1,0 +1,47 @@
+{
+  "number": 289,
+  "verse": 68,
+  "slug": "shruti-simanta-sinduri-krita-padabja-dhulika",
+  "devanagari": "श्रुतिसीमन्तसिन्दूरीकृतपादाब्जधूलिका",
+  "iastSplit": "Śruti-sīmanta-sindūrī-kṛta-pādābja-dhūlikā",
+  "archana": "ॐ श्रुतिसीमन्तसिन्दूरीकृतपादाब्जधूलिकायै नमः",
+  "syllables": ["śru", "ti", "sī", "man", "ta", "sin", "dū", "rī", "kṛ", "ta", "pā", "dāb", "ja", "dhū", "li", "kā"],
+  "words": [
+    {"sa": "श्रुति", "meaning": {"en": "the Vedas", "hi": "श्रुति, वेद"}},
+    {"sa": "सीमन्त", "meaning": {"en": "parting of the hair", "hi": "सीमन्त, माँग"}},
+    {"sa": "सिन्दूरीकृत", "meaning": {"en": "made into sindūra, red powder", "hi": "सिन्दूर बनाई गई"}},
+    {"sa": "पाद", "meaning": {"en": "foot", "hi": "चरण"}},
+    {"sa": "अब्ज", "meaning": {"en": "lotus", "hi": "कमल"}},
+    {"sa": "धूलिका", "meaning": {"en": "dust", "hi": "धूलि, रज"}}
+  ],
+  "meaning": {
+    "en": "Whose foot-dust colours the hair-parting of the Vedas like sindūra",
+    "hi": "जिनके चरण-कमलों की धूल श्रुतियों की माँग का सिन्दूर है"
+  },
+  "explanation": {
+    "en": "The Śrutis, the Vedas, are pictured as women bowing at her feet. A married woman wears sindūra, red powder, in the parting of her hair; here the dust of the Devī’s lotus feet, falling on the bowed heads of the Vedas, becomes that sindūra. Even the scriptures wear her foot-dust as their most precious mark.",
+    "hi": "श्रुतियों, अर्थात् वेदों, को यहाँ उनके चरणों में झुकी स्त्रियों के रूप में दिखाया गया है। सुहागिन स्त्री अपनी माँग में सिन्दूर भरती है; यहाँ देवी के चरण-कमलों की धूल, वेदों के झुके हुए सिरों पर गिरकर, वही सिन्दूर बन जाती है। शास्त्र भी उनकी चरण-धूलि को अपना सबसे मूल्यवान चिह्न मानकर धारण करते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya: the hair-partings of the Śrutis are the Upaniṣads, their uppermost part, and the dust of her feet becomes their sindūra, the secret meaning they carry. Even the Vedas cannot teach her nature directly; they only deny what she is not, ‘not this, not this’, as if bashful or afraid, from afar. What they convey is so slight that the hymn calls it dust, and even that much they say only by her command.",
+    "hi": "भास्करराय कहते हैं: श्रुतियों की माँग उपनिषद् हैं, जो उनका सबसे ऊपरी भाग हैं, और देवी की चरण-धूलि उनका सिन्दूर, अर्थात् उनमें निहित रहस्यार्थ, बन जाती है। वेद भी उनके स्वरूप को सीधे नहीं बता सकते; वे केवल ‘नेति नेति’ कहकर, मानो लज्जा या भय से दूर खड़े होकर, बताते हैं कि वे क्या नहीं हैं। जो वे बता पाते हैं वह इतना थोड़ा है कि स्तोत्र उसे धूल कहता है, और उतना भी वे उनकी आज्ञा से ही कहते हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya names the figures of speech: a metaphor in which the Upaniṣads are not even mentioned but swallowed by the image (rūpakātiśayokti), and samāsokti, since śruti is a feminine word and suggests a woman at her adornment. He also quotes a verse of his own Śivastava: the all-knowing Śrutis, Śiva’s own breath, as if shy, never name him directly but deny all else, ‘not this, not this’; who then could say of him ‘it is this’?",
+    "hi": "भास्करराय अलंकारों के नाम बताते हैं: रूपकातिशयोक्ति, जिसमें उपनिषदों का नाम तक नहीं लिया गया, चित्र ने उन्हें निगल लिया है; और समासोक्ति, क्योंकि ‘श्रुति’ स्त्रीलिंग शब्द है और शृंगार करती नायिका का चित्र जगाता है। वे अपने शिवस्तव का एक श्लोक भी उद्धृत करते हैं: सर्वज्ञ श्रुतियाँ, जो शिव के प्राण हैं, मानो लज्जा से उनका सीधा वर्णन नहीं करतीं, ‘नेति नेति’ कहकर बाकी सबका निषेध करती हैं; तब कौन उनके विषय में कह सके कि ‘वे यह हैं’?"
+  },
+  "commentary": {
+    "sanskrit": "श्रुतीनां सीमन्ता ऊर्ध्वभागसाम्यादुपनिषदां भागास्तेषु सिन्दूरवत्तदन्तर्गतरहस्यार्थवत्सम्पद्यमाना कृता पादाब्जधूलिश्चरणकमलरजो यया सा तथोक्ता ।",
+    "translation": {
+      "en": "The sīmantas, the hair-partings, of the Śrutis are the portions of the Upaniṣads, since like the parting they are the uppermost part. She by whom the pādābja-dhūli, the dust of her lotus feet, is made to become in them like sindūra, that is, like the secret meaning they contain, is so called.",
+      "hi": "श्रुतियों के सीमन्त, अर्थात् माँग, उपनिषदों के भाग हैं, क्योंकि माँग की तरह वे सबसे ऊपरी भाग हैं। जिन्होंने अपने चरण-कमलों की धूलि को उनमें सिन्दूर की तरह, अर्थात् उनमें निहित रहस्यार्थ की तरह, बना दिया है, वे ऐसी कही गई हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 289 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The image of the Vedas bowing in the explanation layer is the conventional reading of the conceit; Bhāskararāya speaks of samāsokti (a heroine’s adornment) without spelling it out." }
+}

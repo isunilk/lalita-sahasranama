@@ -1,0 +1,42 @@
+{
+  "number": 266,
+  "verse": 63,
+  "slug": "goptri",
+  "devanagari": "गोप्त्री",
+  "iastSplit": "Goptrī",
+  "archana": "ॐ गोप्त्र्यै नमः",
+  "syllables": ["gop", "trī"],
+  "words": [
+    {"sa": "गोप्त्री", "meaning": {"en": "protector, preserver", "hi": "रक्षा करने वाली, पालिका"}}
+  ],
+  "meaning": {
+    "en": "The Protector who sustains the world",
+    "hi": "जगत् की रक्षा और पालन करने वाली"
+  },
+  "explanation": {
+    "en": "Goptrī means protector, one who guards. Once the world is made, it must be kept and cared for, and this is the second of her acts. She holds the world in being from moment to moment.",
+    "hi": "‘गोप्त्री’ का अर्थ है रक्षिका, जो सँभालती और बचाती है। जगत् के बन जाने के बाद उसे बनाए रखना और सँभालना होता है, और यही उनका दूसरा कृत्य है। वे हर क्षण जगत् को अस्तित्व में थामे रखती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya explains that protecting the world means its maintenance (sthiti), the act of the Lord in whom sattva, the quality of light and balance, prevails; because she does it, she is Goptrī. The same power that creates also keeps: there is no gap between her making of the world and her care for it.",
+    "hi": "भास्करराय बताते हैं कि जगत् की रक्षा का अर्थ है उसकी स्थिति, जो सत्त्वगुण-प्रधान ईश्वर का कृत्य है; उसे करने के कारण वे गोप्त्री हैं। जो शक्ति रचती है, वही सँभालती भी है: जगत् को रचने और उसकी देखभाल करने में उनके लिए कोई अन्तर नहीं।"
+  },
+  "story": {
+    "en": "This name and the next form a pair, like Sṛṣṭikartrī and Brahmarūpā before them: first the act of protection, then Viṣṇu, the god who performs it, named as her form.",
+    "hi": "यह नाम और अगला नाम एक जोड़ी हैं, जैसे इनसे पहले सृष्टिकर्त्री और ब्रह्मरूपा: पहले रक्षा का कृत्य, फिर उसे करने वाले देव विष्णु, जिन्हें उनका रूप बताया गया है।"
+  },
+  "commentary": {
+    "sanskrit": "गोपनं जगतः स्थितिः सा च सत्त्वगुणप्रधास्येश्वरस्य कृत्यम् । तस्य कर्तृत्वाद्गोप्त्री ।",
+    "translation": {
+      "en": "Protection is the maintenance of the world, and that is the act of the Lord in whom sattva predominates. Because she performs it, she is Goptrī.",
+      "hi": "रक्षा जगत् की स्थिति है, और वह सत्त्वगुण-प्रधान ईश्वर का कृत्य है। उसे करने के कारण वे गोप्त्री हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 266 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The quoted sentence is copied as printed, with the misprint सत्त्वगुणप्रधास्य for सत्त्वगुणप्रधानस्य; the translation follows the intended reading. The last sentence of the inner layer is a reflection." }
+}

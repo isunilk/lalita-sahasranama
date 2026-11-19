@@ -1,0 +1,43 @@
+{
+  "number": 667,
+  "verse": 131,
+  "slug": "nirdvaita",
+  "devanagari": "निर्द्वैता",
+  "iastSplit": "Nirdvaitā",
+  "archana": "ॐ निर्द्वैतायै नमः",
+  "syllables": ["nir", "dvai", "tā"],
+  "words": [
+    { "sa": "निर्", "meaning": { "en": "gone out, without", "hi": "निकला हुआ, रहित" } },
+    { "sa": "द्वैत", "meaning": { "en": "duality", "hi": "द्वैत" } }
+  ],
+  "meaning": {
+    "en": "She from whom all duality has gone",
+    "hi": "जिनसे द्वैत निकल गया है"
+  },
+  "explanation": {
+    "en": "Dvaita is duality, the sense of ‘two’, and nir- means ‘gone out, without’. In her there is no division into self and other, seer and seen.",
+    "hi": "द्वैत का अर्थ है दो होने का भाव, और ‘निर्’ का अर्थ है निकल गया, रहित। उनमें अपने-पराए या द्रष्टा-दृश्य का कोई विभाजन नहीं है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya points to the same Upaniṣadic passage as for the name before: where one sees another, that is small, and the small is mortal. Since the vision of duality has only the impermanent for its object, it is to be given up, and she is the one from whom duality has gone. Seeing two is where fear and loss begin; in her that seeing has ended.",
+    "hi": "भास्करराय पिछले नाम वाले उसी उपनिषद्-प्रसंग की ओर संकेत करते हैं: जहाँ कोई दूसरे को देखता है, वह अल्प है, और जो अल्प है वह मर्त्य है। द्वैत-दर्शन का विषय अनित्य है, इसलिए वह त्याज्य है, और वे वह हैं जिनसे द्वैत निकल गया है। दो देखने से ही भय और हानि आरम्भ होते हैं; उनमें वह देखना समाप्त हो चुका है।"
+  },
+  "story": {
+    "en": "Bhāskararāya reads this name and the next as a pair. Nirdvaitā might suggest that duality was once there and later left; to say that it was never there at all, the hymn adds Dvaitavarjitā.",
+    "hi": "भास्करराय इस नाम और अगले नाम को एक जोड़े के रूप में पढ़ते हैं। ‘निर्द्वैता’ से यह लग सकता है कि द्वैत पहले था और बाद में निकल गया; यह कहने के लिए कि वह कभी था ही नहीं, स्तोत्र ‘द्वैतवर्जिता’ जोड़ता है।"
+  },
+  "commentary": {
+    "sanskrit": "तस्य हेयत्वान्निर्गतं द्वैतं यस्यां सा निर्द्वैता ।",
+    "translation": {
+      "en": "Since it is to be given up, she from whom duality has gone out is Nirdvaitā.",
+      "hi": "द्वैत त्याज्य है, इसलिए जिनसे द्वैत निकल गया है, वे निर्द्वैता हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 667 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The last sentence of the inner layer is a reflection." }
+}

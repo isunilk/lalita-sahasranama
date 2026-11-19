@@ -1,0 +1,44 @@
+{
+  "number": 680,
+  "verse": 133,
+  "slug": "bhavabhava-vivarjita",
+  "devanagari": "भावाभावविवर्जिता",
+  "iastSplit": "Bhāvābhāva-vivarjitā",
+  "archana": "ॐ भावाभावविवर्जितायै नमः",
+  "syllables": ["bhā", "vā", "bhā", "va", "vi", "var", "ji", "tā"],
+  "words": [
+    { "sa": "भाव", "meaning": { "en": "being; existing things", "hi": "भाव, सत्ता, विद्यमान वस्तुएँ" } },
+    { "sa": "अभाव", "meaning": { "en": "non-being, absence", "hi": "अभाव, न होना" } },
+    { "sa": "विवर्जित", "meaning": { "en": "free from, devoid of", "hi": "रहित, मुक्त" } }
+  ],
+  "meaning": {
+    "en": "Beyond both being and non-being",
+    "hi": "भाव और अभाव दोनों से रहित"
+  },
+  "explanation": {
+    "en": "Bhāva means existing things, such as substances and qualities; abhāva means absence, such as a thing’s not yet having come to be. She is free of both: neither one more thing in the world nor merely its absence.",
+    "hi": "‘भाव’ का अर्थ है विद्यमान वस्तुएँ, जैसे द्रव्य और गुण; ‘अभाव’ का अर्थ है उनका न होना, जैसे किसी वस्तु का अभी उत्पन्न न होना। वे इन दोनों से रहित हैं: न संसार की कोई और वस्तु, न केवल उसका अभाव।"
+  },
+  "inner": {
+    "en": "Bhāskararāya meets the logician’s objection that to lack both would itself be a kind of absence. He answers with verses from the Skanda Purāṇa: the destruction of an imagined thing is nothing but the substratum remaining, and the substratum, being real, is never destroyed. Things and their absences appear upon her as upon a ground; she is that ground, untouched by their coming and going.",
+    "hi": "भास्करराय नैयायिक की इस शंका का उत्तर देते हैं कि दोनों का न होना भी तो एक प्रकार का अभाव ही होगा। वे स्कन्द पुराण के श्लोकों से समाधान करते हैं: कल्पित वस्तु का नाश अधिष्ठान का शेष रह जाना ही है, और अधिष्ठान सत्य होने के कारण कभी नष्ट नहीं होता। वस्तुएँ और उनके अभाव उन पर ऐसे प्रतीत होते हैं जैसे किसी आधार पर; वे स्वयं वह आधार हैं, जिन्हें इनका आना-जाना छूता नहीं।"
+  },
+  "story": {
+    "en": "Here the hymn uses the language of Nyāya philosophy, which divides what is known into existents (substance, quality and the rest) and absences (prior absence, destruction, absolute absence and the rest). Bhāskararāya says the difficulty was already resolved by Vyāsa, and cites the Yajñavaibhava Khaṇḍa of the Skanda Purāṇa.",
+    "hi": "यहाँ स्तोत्र न्याय दर्शन की भाषा का प्रयोग करता है, जो ज्ञेय को भाव-पदार्थों (द्रव्य, गुण आदि) और अभावों (प्रागभाव, ध्वंस, अत्यन्ताभाव आदि) में बाँटता है। भास्करराय कहते हैं कि इस कठिनाई का समाधान स्वयं व्यास कर चुके हैं, और स्कन्द पुराण के यज्ञवैभव खण्ड को उद्धृत करते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "भावा द्रव्यगुणादयोऽभावाः प्रागभावादयस्तैरुभयैरपि विवर्जिता ।",
+    "translation": {
+      "en": "Bhāvas are substance, quality and the rest; abhāvas are prior absence and the rest. She is free of both.",
+      "hi": "भाव हैं द्रव्य, गुण आदि; अभाव हैं प्रागभाव आदि। वे इन दोनों से रहित हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 680 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Archana corrected from the web list’s भावाभावविर्जितायै (a syllable dropped) to भावाभावविवर्जितायै, matching the verse. The inner layer summarises Bhāskararāya’s answer and the Skanda Purāṇa verses he quotes (अधिष्ठानावशेषो हि नाशः कल्पितवस्तुनः…); its last sentence is a reflection on them." }
+}

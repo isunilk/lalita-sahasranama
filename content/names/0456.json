@@ -1,0 +1,42 @@
+{
+  "number": 456,
+  "verse": 95,
+  "slug": "hamsini",
+  "devanagari": "हंसिनी",
+  "iastSplit": "Haṃsinī",
+  "archana": "ॐ हंसिन्यै नमः",
+  "syllables": ["haṃ", "si", "nī"],
+  "words": [
+    { "sa": "हंसिनी", "meaning": { "en": "she who has the haṃsas (haṃsa + -inī); also a female swan", "hi": "हंसों वाली; हंसिनी" } }
+  ],
+  "meaning": {
+    "en": "She in whom the haṃsas, the swan-like sages, abide",
+    "hi": "जिनमें हंस, अर्थात् परम यति, निवास करते हैं"
+  },
+  "explanation": {
+    "en": "Haṃsa means swan, and the swan, said to separate milk from water, is the classical image of discernment. Haṃsa is also the name of renunciants of a high order. Haṃsinī is she in whom such sages dwell.",
+    "hi": "हंस वह पक्षी है जो, माना जाता है, दूध और पानी को अलग कर देता है; इसलिए वह विवेक का पारम्परिक प्रतीक है। ‘हंस’ उच्च कोटि के संन्यासियों का भी नाम है। हंसिनी वे हैं जिनमें ऐसे यति निवास करते हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says the haṃsas are a class of ascetics who dwell in her as one with her, without any difference. Or, he says, haṃsa is the ajapā, the mantra that tradition hears in the breath itself, unrecited. The sages who have become one with her and the breath that lives in every being are both her presence.",
+    "hi": "भास्करराय कहते हैं कि हंस एक विशेष श्रेणी के यति हैं, जो अभेद भाव से उनमें स्थित हैं। अथवा, वे कहते हैं, ‘हंस’ अजपा है, वह मन्त्र जिसे परम्परा बिना जपे ही श्वास में सुनती है। उनसे एक हुए यति और हर प्राणी में चलती श्वास, दोनों उन्हीं की उपस्थिति हैं।"
+  },
+  "story": {
+    "en": "In the tradition of renunciation, haṃsa and paramahaṃsa are names of the higher orders of ascetics. The swan as the image of the wise soul is old in Indian literature.",
+    "hi": "संन्यास की परम्परा में ‘हंस’ और ‘परमहंस’ यतियों की उच्च श्रेणियों के नाम हैं। ज्ञानी आत्मा के प्रतीक के रूप में हंस का चित्र भारतीय साहित्य में बहुत पुराना है।"
+  },
+  "commentary": {
+    "sanskrit": "हंसा यतिविशेषा अस्यामभेदेन सन्तीति हंसिनी ।",
+    "translation": {
+      "en": "The haṃsas, a class of ascetics, are in her without difference; so she is Haṃsinī.",
+      "hi": "हंस, अर्थात् एक विशेष श्रेणी के यति, उनमें अभेद रूप से स्थित हैं; इसलिए वे हंसिनी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 456 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The swan’s discernment and the orders of renunciants are general context. Bhāskararāya’s mention of the ajapā mantra is explained as a meaning only, with no practice. The last sentence of the inner layer is a reflection." }
+}

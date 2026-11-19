@@ -1,0 +1,42 @@
+{
+  "number": 704,
+  "verse": 137,
+  "slug": "sarasvati",
+  "devanagari": "सरस्वती",
+  "iastSplit": "Sarasvatī",
+  "archana": "ॐ सरस्वत्यै नमः",
+  "syllables": ["sa", "ras", "va", "tī"],
+  "words": [
+    { "sa": "सरस्वती", "meaning": { "en": "Sarasvatī, goddess of speech and knowledge; “she who flows”", "hi": "सरस्वती, वाणी और ज्ञान की देवी" } }
+  ],
+  "meaning": {
+    "en": "Sarasvatī, the goddess of knowledge",
+    "hi": "ज्ञान की देवी सरस्वती"
+  },
+  "explanation": {
+    "en": "Bhāskararāya calls her the deity presiding over knowledge, an ocean of knowledge: knowledge not limited by any object. The Bhāradvāja Smṛti he quotes explains the name: she dwells always on the tongues of living beings, bringing forth speech.",
+    "hi": "भास्करराय उन्हें ज्ञान की अधिष्ठात्री देवता, ज्ञान का सागर कहते हैं: ऐसा ज्ञान जो किसी विषय से सीमित नहीं। उनके द्वारा उद्धृत भारद्वाज स्मृति नाम का अर्थ बताती है: वे वाणी को प्रवर्तित करती हुई सदा प्राणियों की जिह्वा पर निवास करती हैं।"
+  },
+  "inner": {
+    "en": "In the argument, the objection is: if difference is only delusion, then the difference between a pot and a cloth would be unreal too. He answers that no delusion clouds judgments about inert things like pots, but non-duality is knowledge itself, and, as the Bhagavad Gītā says, knowledge is veiled by ignorance and so beings are deluded. Those without her grace stay deluded about it; she herself is that knowledge.",
+    "hi": "तर्क में शंका यह है: यदि भेद केवल मोह है, तो घड़े और कपड़े का भेद भी असत्य होगा। वे उत्तर देते हैं कि घट आदि जड़ वस्तुओं के निर्णय में मोह नहीं होता; पर अद्वैत स्वयं ज्ञान-स्वरूप है, और जैसा भगवद्गीता कहती है, ज्ञान अज्ञान से ढका है, इसलिए प्राणी मोहित होते हैं। जिन पर उनकी कृपा नहीं, वे इस विषय में मोहित रहते हैं; और वे स्वयं वही ज्ञान हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya gives another reading from Dhaumya, who, speaking of young girls, says a girl of two years is called Sarasvatī; so the Devī is also present as such a child. He also cites the Vāsiṣṭha Rāmāyaṇa, which derives the name from her flowing through all ways of seeing.",
+    "hi": "भास्करराय धौम्य का एक वचन भी देते हैं, जो कन्याओं के प्रसंग में कहते हैं कि दो वर्ष की कन्या सरस्वती कहलाती है; अतः देवी ऐसी कन्या के रूप में भी हैं। वे वासिष्ठ रामायण भी उद्धृत करते हैं, जो इस नाम को सभी दृष्टियों में उनके प्रवाहित होने (सरण) से जोड़ता है।"
+  },
+  "commentary": {
+    "sanskrit": "ज्ञानाभिमानिनी देवता ज्ञानसमुद्ररूपेत्यर्थः । विषयानवच्छिन्नज्ञानरूपेति यावत् ।",
+    "translation": {
+      "en": "The deity presiding over knowledge, that is, an ocean of knowledge; in other words, knowledge unlimited by any object.",
+      "hi": "ज्ञान की अभिमानिनी देवता, अर्थात् ज्ञान-सागर-रूपा; तात्पर्य यह कि विषय से अनवच्छिन्न ज्ञान-रूपा।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 704 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The verse अज्ञानेनावृतं ज्ञानं तेन मुह्यन्ति जन्तवः is quoted by Bhāskararāya without naming its source; it is Bhagavad Gītā 5.15, named here. The last clause of the inner layer is a reflection." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 705,
+  "verse": 137,
+  "slug": "shastra-mayi",
+  "devanagari": "शास्त्रमयी",
+  "iastSplit": "Śāstra-mayī",
+  "archana": "ॐ शास्त्रमय्यै नमः",
+  "syllables": ["śās", "tra", "ma", "yī"],
+  "words": [
+    { "sa": "शास्त्र", "meaning": { "en": "scripture, sacred teaching", "hi": "शास्त्र" } },
+    { "sa": "मयी", "meaning": { "en": "chiefly made of, consisting of", "hi": "प्रधान, से निर्मित" } }
+  ],
+  "meaning": {
+    "en": "Known through scripture; whose form is the scriptures",
+    "hi": "शास्त्र से जानी जाने वाली, शास्त्र-स्वरूपा"
+  },
+  "explanation": {
+    "en": "Bhāskararāya reads the suffix maya as “chiefly”: she is known above all through scripture, such as the saying “All this is Brahman”. He also reads it as “made of”: her limbs are the scriptures themselves.",
+    "hi": "भास्करराय ‘मयट्’ प्रत्यय को ‘प्रधानता’ के अर्थ में लेते हैं: वे मुख्य रूप से शास्त्र से जानी जाती हैं, जैसे ‘सर्वं खल्विदं ब्रह्म’ (यह सब ब्रह्म ही है) जैसे वचनों से। वे इसे ‘विकार’ के अर्थ में भी लेते हैं: उनके अंग स्वयं शास्त्र हैं।"
+  },
+  "inner": {
+    "en": "The objection now is that difference is proved by a thousand arguments. He answers that here scripture alone is the chief means of knowing, not inference, which is weaker than scripture; so the Brahmasūtra calls Brahman known from scripture, and the Upaniṣad speaks of “the Person taught in the Upaniṣads”. Just as astronomy shows the common sight of the moon as a small disc to be an error, scripture overrules the inference of difference.",
+    "hi": "अब शंका यह है कि भेद तो हज़ारों तर्कों से सिद्ध होता है। वे उत्तर देते हैं कि यहाँ शास्त्र ही प्रधान प्रमाण है, अनुमान आदि नहीं, क्योंकि अनुमान शास्त्र से दुर्बल है; इसीलिए ब्रह्मसूत्र ब्रह्म को शास्त्र से जानने योग्य कहता है, और उपनिषद् ‘औपनिषद पुरुष’ की बात करता है। जैसे ज्योतिष-शास्त्र चन्द्रमा के बित्ते भर होने की सर्वसाधारण प्रतीति को भ्रम सिद्ध करता है, वैसे ही शास्त्र भेद के अनुमान को।"
+  },
+  "story": {
+    "en": "For the second reading he quotes the Brahmāṇḍa Purāṇa: with her breath she brought forth the Vedas; with her sweet words, poetry, drama and poetics; from her tongue, Sarasvatī; and from her face, throat and limbs the auxiliary sciences, philosophy, medicine, archery, the sixty-four arts and the tantras.",
+    "hi": "दूसरे अर्थ के लिए वे ब्रह्माण्ड पुराण उद्धृत करते हैं: उन्होंने अपने निःश्वास से वेदों को, मधुर वचनों से काव्य, नाट्य और अलंकार-शास्त्र को, और जिह्वा से सरस्वती को उत्पन्न किया; और अपने मुख, कण्ठ तथा अंगों से वेदांग, मीमांसा-न्याय, आयुर्वेद, धनुर्वेद, चौंसठ विद्याएँ और तन्त्र रचे।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वं खल्विदं ब्रह्मेत्यादिशास्त्रप्रधाना । अयं भावः । शास्त्रमेवेह प्राधान्येन गमकं नत्वनुमानादि ।",
+    "translation": {
+      "en": "She is known chiefly through scripture such as “All this indeed is Brahman.” The point is this: here scripture alone is the principal means of knowing, not inference and the like.",
+      "hi": "वे ‘सर्वं खल्विदं ब्रह्म’ आदि शास्त्र-प्रधाना हैं। भाव यह है: यहाँ शास्त्र ही प्रधान रूप से बोधक है, अनुमान आदि नहीं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 705 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition prints प्रधानाऽर्थो यं मयट्, evidently for प्रधानार्थोऽयं मयट्; the excerpt starts after it. Bhāskararāya also says the third kūṭa of the mantra restates this teaching; not elaborated. In the Brahmāṇḍa Purāṇa verses the edition’s चुलकेन (source of the Vedāṅgas) is unclear, so the story summarises the body parts generally." }
+}

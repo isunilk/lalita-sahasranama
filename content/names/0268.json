@@ -1,0 +1,42 @@
+{
+  "number": 268,
+  "verse": 64,
+  "slug": "samharini",
+  "devanagari": "संहारिणी",
+  "iastSplit": "Saṃhāriṇī",
+  "archana": "ॐ संहारिण्यै नमः",
+  "syllables": ["saṃ", "hā", "ri", "ṇī"],
+  "words": [
+    {"sa": "संहारिणी", "meaning": {"en": "she who withdraws, dissolves", "hi": "संहार करने वाली"}}
+  ],
+  "meaning": {
+    "en": "She who withdraws the world into dissolution",
+    "hi": "जगत् का संहार करने वाली"
+  },
+  "explanation": {
+    "en": "Saṃhāra is the drawing back of the world at the end of an age. This third act is not cruelty but rest: what was spread out is gathered in again. She is the one who brings the world back into herself.",
+    "hi": "‘संहार’ युग के अन्त में जगत् को समेट लेना है। यह तीसरा कृत्य क्रूरता नहीं, विश्राम है: जो फैला था, वह फिर समेट लिया जाता है। वे ही जगत् को फिर अपने भीतर लौटा लेती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya defines saṃhāra precisely: the destruction of the world that still leaves a remainder, atoms and the like. It is the act of the Lord in whom tamas, the quality of inertia, prevails, and she performs it. This is why dissolution is followed by a further act, concealment, in which even that remainder goes.",
+    "hi": "भास्करराय संहार की ठीक परिभाषा देते हैं: जगत् का ऐसा विनाश जिसमें परमाणु आदि का अवशेष बचा रहता है। यह तमोगुण-प्रधान ईश्वर का कृत्य है, और वे इसे करती हैं। इसीलिए संहार के बाद एक और कृत्य आता है, तिरोधान, जिसमें वह अवशेष भी नहीं रहता।"
+  },
+  "story": {
+    "en": "In the scheme of these names Bhāskararāya separates dissolution, which leaves something behind, from concealment, which leaves nothing. So the hymn gives here the Śaiva and Śākta list of five acts rather than the more familiar three.",
+    "hi": "इन नामों की योजना में भास्करराय संहार, जिसमें कुछ बचा रहता है, और तिरोधान, जिसमें कुछ नहीं बचता, को अलग करते हैं। इस प्रकार यहाँ स्तोत्र परिचित तीन कृत्यों के स्थान पर शैव और शाक्त परम्परा के पाँच कृत्य गिनाता है।"
+  },
+  "commentary": {
+    "sanskrit": "संहारो जगतः परमाण्वादिसावशेषो ध्वंसस्तमोगुणप्रधानस्येश्वरस्य कृत्यं तत्करोतीति संहारिणी ।",
+    "translation": {
+      "en": "Saṃhāra is the destruction of the world that leaves a remainder of atoms and the like; it is the act of the Lord in whom tamas predominates. Because she does it, she is Saṃhāriṇī.",
+      "hi": "संहार जगत् का वह ध्वंस है जिसमें परमाणु आदि शेष रहते हैं; यह तमोगुण-प्रधान ईश्वर का कृत्य है। उसे करने के कारण वे संहारिणी हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 268 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude." }
+}

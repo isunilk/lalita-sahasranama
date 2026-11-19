@@ -1,0 +1,42 @@
+{
+  "number": 540,
+  "verse": 110,
+  "slug": "smriti",
+  "devanagari": "स्मृतिः",
+  "iastSplit": "Smṛtiḥ",
+  "archana": "ॐ स्मृत्यै नमः",
+  "syllables": ["smṛ", "tiḥ"],
+  "words": [
+    { "sa": "स्मृति", "meaning": { "en": "memory; remembered tradition", "hi": "स्मरण; स्मृति-ग्रन्थ, परम्परा" } }
+  ],
+  "meaning": {
+    "en": "She who is Smṛti, sacred tradition and memory itself",
+    "hi": "जो स्मृति हैं, पवित्र परम्परा और स्वयं स्मरण-शक्ति"
+  },
+  "explanation": {
+    "en": "Smṛti means memory, and also the body of remembered tradition, such as the law-books of Manu. The Devī is both: the sacred tradition and the power of remembering.",
+    "hi": "‘स्मृति’ का अर्थ है स्मरण, और मनु आदि के धर्मशास्त्रों जैसी स्मरण की गई परम्परा भी। देवी दोनों हैं: पवित्र परम्परा भी और स्मरण की शक्ति भी।"
+  },
+  "inner": {
+    "en": "Bhāskararāya quotes the Vāyu Purāṇa: because she remembers all things present, past and yet to come, she is called Smṛti; and the Devī Purāṇa: she is Smṛti because she remembers. Every memory in us, by which anything learned or loved is kept, is a spark of that remembering.",
+    "hi": "भास्करराय वायु पुराण का वचन देते हैं: वर्तमान, भूत और भविष्य के सभी कार्यों का स्मरण करने के कारण वे स्मृति कहलाती हैं; और देवी पुराण का: स्मरण करने से देवी स्मृति हैं। हमारे भीतर की हर स्मृति, जिससे सीखा या प्रेम किया हुआ कुछ भी सुरक्षित रहता है, उसी स्मरण का एक कण है।"
+  },
+  "story": {
+    "en": "With the previous name this gives the pair of revealed scripture and remembered tradition. In the chanted verse smṛtiḥ joins the next name as smṛtir anuttamā; the visarga becomes r before the vowel.",
+    "hi": "पिछले नाम के साथ यह प्रकट शास्त्र और स्मरण की गई परम्परा की जोड़ी पूरी करता है। पाठ में ‘स्मृतिः’ अगले नाम से मिलकर ‘स्मृतिरनुत्तमा’ बनता है; स्वर से पहले विसर्ग ‘र्’ हो जाता है।"
+  },
+  "commentary": {
+    "sanskrit": "वर्तमानान्यतीतानि तथैवानागतान्यपि । स्मरते सर्वकार्याणि तेनासौ स्मृतिरुच्यते ।",
+    "translation": {
+      "en": "Things present and past, and things yet to come: she remembers all that is done, and so she is called Smṛti.",
+      "hi": "वर्तमान, अतीत और अनागत, सभी कार्यों का वे स्मरण करती हैं; इसलिए वे स्मृति कहलाती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 540 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Sandhi: स्मृतिरनुत्तमा = स्मृतिः + अनुत्तमा. The excerpt is the Vāyu Purāṇa verse as Bhāskararāya quotes it. The last sentence of the inner layer is a reflection." }
+}

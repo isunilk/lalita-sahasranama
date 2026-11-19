@@ -1,0 +1,42 @@
+{
+  "number": 450,
+  "verse": 94,
+  "slug": "nandini",
+  "devanagari": "नन्दिनी",
+  "iastSplit": "Nandinī",
+  "archana": "ॐ नन्दिन्यै नमः",
+  "syllables": ["nan", "di", "nī"],
+  "words": [
+    { "sa": "नन्दिनी", "meaning": { "en": "she who gladdens; also the name of a sacred cow and of the Gaṅgā", "hi": "आनन्द देने वाली; एक दिव्य गौ और गंगा का भी नाम" } }
+  ],
+  "meaning": {
+    "en": "She who gives delight",
+    "hi": "आनन्द देने वाली"
+  },
+  "explanation": {
+    "en": "Nandinī means ‘she who gladdens’: she fills her devotees with joy. The name is also borne by the wish-granting cow of the sage Vasiṣṭha, and it is one of the names of the Gaṅgā.",
+    "hi": "नन्दिनी का अर्थ है ‘आनन्दित करने वाली’: वे अपने भक्तों को आनन्द से भर देती हैं। यह महर्षि वसिष्ठ की कामना पूरी करने वाली गौ का भी नाम है, और गंगा के नामों में भी एक है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya gives three readings: she is Nandinī because she gladdens; or she is the sacred cow born in Kāmadhenu’s line; or she is the Gaṅgā. All three are givers: of joy, of every wish, and of purity.",
+    "hi": "भास्करराय तीन अर्थ देते हैं: आनन्द देने के कारण वे नन्दिनी हैं; अथवा कामधेनु के वंश में उत्पन्न दिव्य गौ हैं; अथवा गंगा-स्वरूपा हैं। तीनों ही दाता हैं: आनन्द की, हर कामना की, और पवित्रता की।"
+  },
+  "story": {
+    "en": "In the Mahābhārata, Nandinī is the cow of the sage Vasiṣṭha, born of Kāmadhenu’s line, whom King Viśvāmitra tried in vain to take by force. In Kālidāsa’s Raghuvaṃśa, King Dilīpa serves Nandinī faithfully and is blessed with a son.",
+    "hi": "महाभारत में नन्दिनी महर्षि वसिष्ठ की गौ है, कामधेनु के वंश में उत्पन्न, जिसे राजा विश्वामित्र ने बलपूर्वक लेना चाहा पर सफल न हुए। कालिदास के रघुवंश में राजा दिलीप निष्ठा से नन्दिनी की सेवा करते हैं और पुत्र का वरदान पाते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "नन्दयितृत्वान्नन्दिनी कामधेनुवंशोद्भवो गोविशेषो वा गङ्गास्वरूपा वा ।",
+    "translation": {
+      "en": "Nandinī, because she gladdens; or the particular cow born in the line of Kāmadhenu; or she who is the Gaṅgā.",
+      "hi": "आनन्दित करने के कारण नन्दिनी; अथवा कामधेनु के वंश में उत्पन्न विशेष गौ; अथवा गंगा-स्वरूपा।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 450 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The story details (Vasiṣṭha’s cow in the Mahābhārata; Dilīpa in the Raghuvaṃśa) are general context, not from Bhāskararāya. The last sentence of the inner layer is a reflection." }
+}

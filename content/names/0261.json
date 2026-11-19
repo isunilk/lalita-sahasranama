@@ -1,0 +1,43 @@
+{
+  "number": 261,
+  "verse": 63,
+  "slug": "prajnatmika",
+  "devanagari": "प्राज्ञात्मिका",
+  "iastSplit": "Prājñātmikā",
+  "archana": "ॐ प्राज्ञात्मिकायै नमः",
+  "syllables": ["prāj", "ñāt", "mi", "kā"],
+  "words": [
+    {"sa": "प्राज्ञ", "meaning": {"en": "prājña, ‘the knowing one’: the soul in deep sleep", "hi": "प्राज्ञ, ‘ज्ञानी’: सुषुप्ति अवस्था का जीव"}},
+    {"sa": "आत्मिका", "meaning": {"en": "whose self is", "hi": "जिनकी आत्मा है, आत्मस्वरूपा"}}
+  ],
+  "meaning": {
+    "en": "Whose self is Īśvara, the sum of all souls in deep sleep",
+    "hi": "जिनका स्वरूप सब सुषुप्त जीवों का समष्टि, ईश्वर है"
+  },
+  "explanation": {
+    "en": "Prājña, ‘the knowing one’, is the name for the soul in deep sleep, resting close to its source. This name says she is the self of all such sleepers together. The silence into which every being sinks each night is hers.",
+    "hi": "‘प्राज्ञ’, अर्थात् ‘ज्ञानी’, गहरी नींद में स्थित जीव का नाम है, जो उस समय अपने मूल के समीप विश्राम करता है। यह नाम कहता है कि वे ऐसे सभी सुषुप्त जीवों की सम्मिलित आत्मा हैं। हर रात जिस मौन में हर प्राणी डूब जाता है, वह उन्हीं का है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya: the prājñas are the sleeping souls just described, and their sum is Īśvara, the Lord, who is her self. In his survey, consciousness limited by the causal body is called prājña in the individual and Īśvara in the whole. He adds that in deep sleep itself the prājña attains the state of Brahman.",
+    "hi": "भास्करराय कहते हैं: प्राज्ञ वे सुषुप्त जीव हैं जिनका वर्णन हुआ, और उनका समष्टि-रूप ईश्वर है, जो उनकी आत्मा है। उनके विवेचन में कारण शरीर से उपहित चेतना व्यष्टि में ‘प्राज्ञ’ और समष्टि में ‘ईश्वर’ कहलाती है। वे यह भी कहते हैं कि सुषुप्ति में ही प्राज्ञ ब्रह्मभाव को प्राप्त होता है।"
+  },
+  "story": {
+    "en": "With this name the three states known to Vedānta are complete, each in its individual and cosmic form. The next two names go further, to the fourth state and the state beyond it, which, Bhāskararāya says, the Tantras add.",
+    "hi": "इस नाम के साथ वेदान्त में मानी गई तीनों अवस्थाएँ, अपने व्यष्टि और समष्टि रूपों सहित, पूरी होती हैं। अगले दो नाम उससे आगे, चौथी अवस्था और उससे भी परे की अवस्था तक ले जाते हैं, जिन्हें, भास्करराय के अनुसार, तन्त्र जोड़ते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "प्राज्ञा उक्तलक्षणा जीवास्तत्समष्टिभूत ईश्वर आत्मा स्वरूपं यस्याः सा प्राज्ञात्मिका ।",
+    "translation": {
+      "en": "The prājñas are souls of the kind described; she whose self, whose very nature, is Īśvara, their sum, is Prājñātmikā.",
+      "hi": "प्राज्ञ पूर्वोक्त लक्षण वाले जीव हैं; उनका समष्टि-रूप ईश्वर जिनकी आत्मा, अर्थात् स्वरूप, है, वे प्राज्ञात्मिका हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 261 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The layers follow Bhāskararāya’s survey of the states of jīva and Īśvara, given just before name 256." }
+}

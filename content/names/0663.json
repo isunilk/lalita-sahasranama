@@ -1,0 +1,43 @@
+{
+  "number": 663,
+  "verse": 131,
+  "slug": "aja-jaitri",
+  "devanagari": "अजाजैत्री",
+  "iastSplit": "Ajā-jaitrī",
+  "archana": "ॐ अजाजैत्र्यै नमः",
+  "syllables": ["a", "jā", "jait", "rī"],
+  "words": [
+    { "sa": "अजा", "meaning": { "en": "the unborn one: māyā, ignorance without beginning", "hi": "अजा, अजन्मा माया (अविद्या)" } },
+    { "sa": "जैत्री", "meaning": { "en": "victorious, conqueror", "hi": "विजयिनी, जीतने वाली" } }
+  ],
+  "meaning": {
+    "en": "She who conquers Ajā, the unborn power of ignorance",
+    "hi": "अजा, अर्थात् अविद्या, पर विजय पाने वाली"
+  },
+  "explanation": {
+    "en": "Ajā, ‘the unborn’, is an Upaniṣadic name for māyā, the beginningless power of ignorance, and jaitrī means ‘victorious, conqueror’. She is the one who overcomes it.",
+    "hi": "‘अजा’, अर्थात् अजन्मा, उपनिषदों में माया का नाम है, वह अनादि अविद्या-शक्ति; और ‘जैत्री’ का अर्थ है विजयिनी। वे उस पर विजय पाने वाली हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya refers to the Upaniṣadic verse about the one unborn female, red, white and black, and says this Ajā is avidyā. She conquers it because she is knowledge itself; that is, she destroys ignorance. Ignorance has no beginning, but it has an end, and that end is she.",
+    "hi": "भास्करराय उपनिषद् के उस वचन का उल्लेख करते हैं जिसमें लाल, श्वेत और काली एक अजा का वर्णन है, और कहते हैं कि यह अजा अविद्या है। वे स्वयं ज्ञानस्वरूपा हैं, इसलिए उस पर विजय पाती हैं, अर्थात् अज्ञान का नाश करती हैं। अविद्या का आरम्भ नहीं, पर अन्त है, और वह अन्त वे ही हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya’s text reads jetrī, ‘conqueror’, where the verse has jaitrī, ‘victorious’; the sense is the same. In the verse the name is joined to the one before it: aṣṭamūrtir-ajā-jaitrī.",
+    "hi": "भास्करराय के पाठ में ‘जेत्री’ (जीतने वाली) है, जबकि श्लोक में ‘जैत्री’ (विजयशील); अर्थ एक ही है। श्लोक में यह नाम पिछले नाम से सन्धि में जुड़ा है: अष्टमूर्तिरजाजैत्री।"
+  },
+  "commentary": {
+    "sanskrit": "अविद्यारूपाया अजाया जेत्री । ज्ञानरूपत्वादज्ञाननाशिकेति यावत् ।",
+    "translation": {
+      "en": "The conqueror of Ajā, which is avidyā; that is, being of the nature of knowledge, she destroys ignorance.",
+      "hi": "अविद्या-रूपा अजा पर विजय पाने वाली; अर्थात्, ज्ञानस्वरूपा होने से अज्ञान का नाश करने वाली।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 663 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The master text has अजाजैत्री; Bhāskararāya’s edition prints the line as अष्टमूर्तिरजा जेत्री and glosses अजाया जेत्री as one name. The quotation starts after …श्रुतिप्रसिद्धाया because the edition misprints लोहित as लिहित just before it. The śruti अजामेकां लोहितशुक्लकृष्णाम् is cited by him only as śruti (it is Śvetāśvatara Upaniṣad 4.5). The last sentence of the inner layer is a reflection." }
+}
