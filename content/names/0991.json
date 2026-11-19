@@ -1,0 +1,45 @@
+{
+  "number": 991,
+  "verse": 181,
+  "slug": "shad-adhvatita-rupini",
+  "devanagari": "षडध्वातीतरूपिणी",
+  "iastSplit": "Ṣaḍ-adhvātīta-rūpiṇī",
+  "archana": "ॐ षडध्वातीतरूपिण्यै नमः",
+  "syllables": ["ṣa", "ḍadh", "vā", "tī", "ta", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "षष्", "meaning": { "en": "six", "hi": "छह" } },
+    { "sa": "अध्वन्", "meaning": { "en": "path, way", "hi": "मार्ग, अध्वा" } },
+    { "sa": "अतीत", "meaning": { "en": "gone beyond, transcending", "hi": "परे, अतीत" } },
+    { "sa": "रूपिणी", "meaning": { "en": "whose form is", "hi": "जिनका रूप है" } }
+  ],
+  "meaning": {
+    "en": "Whose form transcends the six paths",
+    "hi": "जिनका रूप छहों अध्वाओं से परे है"
+  },
+  "explanation": {
+    "en": "Adhvan means a path or way. The Tantras count six such paths, and this name says that her form lies beyond all six. Whatever can be named, counted or travelled, she is beyond it.",
+    "hi": "अध्वा का अर्थ है मार्ग। तन्त्र-शास्त्र ऐसे छह अध्वाओं की गणना करते हैं, और यह नाम कहता है कि उनका रूप इन छहों से परे है। जो कुछ नाम दिया, गिना या पार किया जा सकता है, वे उससे परे हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya lists the six: the paths of words (pada), worlds (bhuvana), letters (varṇa), principles (tattva), kalās and mantras. Three of them, he says, are aspects of vimarśa, consciousness aware of itself, and three of prakāśa, its light, citing the Virūpākṣapañcāśikā. From the Jñānārṇava and the Dakṣiṇāmūrti Saṃhitā he shows that all six are present in the Śrīcakra; her form goes beyond them.",
+    "hi": "भास्करराय छहों को गिनाते हैं: पद, भुवन, वर्ण, तत्त्व, कला और मन्त्र के अध्वा। वे कहते हैं कि इनमें से तीन विमर्श, अर्थात् चेतना के आत्म-बोध, के अंश हैं और तीन प्रकाश, अर्थात् उसकी ज्योति, के; इसके लिए वे विरूपाक्षपञ्चाशिका का प्रमाण देते हैं। ज्ञानार्णव और दक्षिणामूर्ति संहिता से वे दिखाते हैं कि ये छहों अध्वा श्रीचक्र में विद्यमान हैं; उनका रूप इन सबसे परे है।"
+  },
+  "story": {
+    "en": "He gives a second reading: the six paths are the six ways of worship, Śaiva, Vaiṣṇava, Daurga, Saura, Gāṇapatya and Aindava (which he identifies with the Jaina view), and her form is beyond them because they are means of reaching it. He quotes the Kulārṇava, that the knowledge of Kula dawns in one whose mind has been purified by the mantras of these paths, and explains that those who worshipped in these six ways in earlier births gain the worship of Sundarī in this one.",
+    "hi": "वे दूसरा अर्थ भी देते हैं: छह अध्वा उपासना के छह मार्ग हैं — शैव, वैष्णव, दौर्ग (दुर्गा की उपासना), सौर, गाणपत्य और इन्दुसम्भव, जिसे वे जैन दर्शन बताते हैं — और उनका रूप इनसे परे है, क्योंकि ये उस तक पहुँचने के साधन हैं। वे कुलार्णव का वचन उद्धृत करते हैं कि इन मार्गों के मन्त्रों से जिसका चित्त शुद्ध हो गया है, उसमें कुल-ज्ञान प्रकाशित होता है; और समझाते हैं कि जिन्होंने पिछले जन्मों में इन छह प्रकारों से उपासना की, उन्हें इस जन्म में सुन्दरी की उपासना प्राप्त होती है।"
+  },
+  "commentary": {
+    "sanskrit": "अध्वानः षट्- पदाध्वा भुवनाध्वा वर्णाध्वा तत्त्वाध्वा कलाध्वा मन्त्राध्वा चेति ।",
+    "translation": {
+      "en": "The paths are six: the path of words, of worlds, of letters, of principles, of kalās and of mantras.",
+      "hi": "अध्वा छह हैं: पदाध्वा, भुवनाध्वा, वर्णाध्वा, तत्त्वाध्वा, कलाध्वा और मन्त्राध्वा।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 991 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Virūpākṣapañcāśikā verse he quotes names word, mantra and letter (पदमन्त्रार्ण) on the vimarśa side; its second line is printed पदतत्त्वकलात्मार्थो, where भुवन (world) would be expected beside tattva and kalā, possibly a misprint, so the inner layer gives only his summary (three and three). His identification of इन्दुसम्भव with the Jaina view is reported as he gives it. The last sentence of the explanation is a reflection." }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 1000,
+  "verse": 183,
+  "slug": "lalitambika",
+  "devanagari": "ललिताम्बिका",
+  "iastSplit": "Lalitāmbikā",
+  "archana": "ॐ ललिताम्बिकायै नमः",
+  "syllables": ["la", "li", "tām", "bi", "kā"],
+  "words": [
+    { "sa": "ललिता", "meaning": { "en": "Lalitā, she who plays; the lovely one", "hi": "ललिता, लीलामयी, सुन्दरी" } },
+    { "sa": "अम्बिका", "meaning": { "en": "mother", "hi": "अम्बिका, माँ" } }
+  ],
+  "meaning": {
+    "en": "Lalitā, the playful and lovely Mother",
+    "hi": "लीलामयी, सुन्दरी माँ ललिता"
+  },
+  "explanation": {
+    "en": "The thousandth name is her own: Lalitā, the one who plays, the lovely one, and Ambikā, the Mother. All the other names have described her; this one names her.",
+    "hi": "हज़ारवाँ नाम उनका अपना नाम है: ललिता, अर्थात् लीला करने वाली, सुन्दरी, और अम्बिका, अर्थात् माँ। बाकी सब नामों ने उनका वर्णन किया है; यह नाम उन्हें पुकारता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya derives Lalitā from lalate, ‘she plays’, and quotes the Padma Purāṇa: going beyond the worlds she plays, and so she is called Lalitā. The ‘worlds’ (lokas), he says, are the rays, the deities of the Śrīcakra’s enclosures; passing beyond them she shines supremely in the bindu above them all. He adds that she has every quality called lalita: the eight excellences the learned list, splendour, grace, sweetness, depth, steadiness, radiance, charm and generosity, as well as the play of love and tender delicacy.",
+    "hi": "भास्करराय ‘ललिता’ को ‘ललते’ (वे क्रीड़ा करती हैं) से निकालते हैं, और पद्म पुराण उद्धृत करते हैं: लोकों का अतिक्रमण करके वे क्रीड़ा करती हैं, इसलिए ललिता कहलाती हैं। वे कहते हैं कि यहाँ ‘लोक’ का अर्थ है किरणें, अर्थात् श्रीचक्र के आवरण-देवता; उन्हें पार करके, उनके स्थानों से ऊपर बिन्दु-स्थान में वे अतिशय शोभित होती हैं। वे यह भी जोड़ते हैं कि ‘ललित’ कहलाने वाले सभी गुण उनमें हैं: विद्वानों के गिनाए आठ गुण — शोभा, विलास, माधुर्य, गाम्भीर्य, स्थैर्य, तेज, लालित्य और औदार्य — तथा प्रेम-क्रीड़ा और सुकुमारता भी।"
+  },
+  "story": {
+    "en": "Here Bhāskararāya sums up the hymn: the first three names showed her as the maker of creation, preservation and dissolution; the names from Cidagnikuṇḍasambhūtā (name 4) to this point unfolded her two further acts, concealment and grace; and now she who performs all five is called by her own name, of which every other name is an attribute. He adds that Lalitā is the goddess of the Prayāga pīṭha, and the hymn closes with the half-verse ‘thus they sang the thousand names of Śrī Lalitā Devī’.",
+    "hi": "यहाँ भास्करराय पूरे स्तोत्र का सार देते हैं: पहले तीन नामों ने उन्हें सृष्टि, स्थिति और संहार की कर्त्री बताया; चिदग्निकुण्डसम्भूता (नाम 4) से यहाँ तक के नामों ने उनके दो और कृत्यों, तिरोधान और अनुग्रह, का विस्तार किया; और अब इन पाँचों कृत्यों की कर्त्री को उनके अपने नाम से पुकारा गया है, जिसके बाकी सब नाम विशेषण हैं। वे यह भी बताते हैं कि ललिता प्रयाग-पीठ की देवी का नाम है, और स्तोत्र इस अर्ध-श्लोक से पूर्ण होता है: ‘इस प्रकार उन्होंने श्री ललिता देवी के सहस्र नामों का गान किया।’"
+  },
+  "commentary": {
+    "sanskrit": "ललतेऽसौ ललिता च साम्बिका च ललिताम्बिकेति विग्रहः । उक्तञ्च पद्मपुराणे- लोकानतीत्य ललते ललिता तेन सोच्यत इति ।",
+    "translation": {
+      "en": "The analysis is: she plays (lalate), so she is Lalitā; and she is Ambikā; hence Lalitāmbikā. And it is said in the Padma Purāṇa: ‘Going beyond the worlds, she plays; therefore she is called Lalitā.’",
+      "hi": "विग्रह यह है: वे क्रीड़ा करती हैं (ललते), इसलिए ललिता; और वे अम्बिका भी हैं; अतः ललिताम्बिका। जैसा पद्म पुराण में कहा है: ‘लोकों का अतिक्रमण करके वे क्रीड़ा करती हैं, इसलिए ललिता कहलाती हैं।’"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 1000 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The second half of verse 183 (एवं श्रीललितादेव्या नाम्नां साहस्रकं जगुः) is not a name and does not appear in Bhāskararāya’s text, which passes straight from this name to the phalaśruti (इत्येवं नाम साहस्रं कथितं ते घटोद्भव); ‘they’ who sang are evidently the Vāgdevīs of the frame story (my reading; the half-verse does not name them). The eight qualities are those he quotes as eight pauruṣa guṇas (excellences of a hero). His comment closes the tenth hundred and with it the eleventh kalā of his work, called Dhāriṇī. The Prayāga pīṭha remark rests on the Padma Purāṇa’s list of Devī pīṭhas as he cites it." }
+}

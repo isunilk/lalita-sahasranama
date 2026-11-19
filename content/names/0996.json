@@ -1,0 +1,45 @@
+{
+  "number": 996,
+  "verse": 182,
+  "slug": "shri-chakra-raja-nilaya",
+  "devanagari": "श्रीचक्रराजनिलया",
+  "iastSplit": "Śrī-cakra-rāja-nilayā",
+  "archana": "ॐ श्रीचक्रराजनिलयायै नमः",
+  "syllables": ["śrī", "cak", "ra", "rā", "ja", "ni", "la", "yā"],
+  "words": [
+    { "sa": "श्री", "meaning": { "en": "sacred, auspicious (as in Śrīcakra)", "hi": "श्री, मंगलमय (श्रीचक्र में)" } },
+    { "sa": "चक्र", "meaning": { "en": "cakra, sacred diagram", "hi": "चक्र, यन्त्र" } },
+    { "sa": "राज", "meaning": { "en": "king", "hi": "राजा" } },
+    { "sa": "निलया", "meaning": { "en": "whose abode is", "hi": "जिनका निवास है" } }
+  ],
+  "meaning": {
+    "en": "Whose home is the Śrīcakra, king of all cakras",
+    "hi": "जिनका निवास चक्रराज श्रीचक्र है"
+  },
+  "explanation": {
+    "en": "The Śrīcakra is the sacred diagram of Śrīvidyā, called the king of cakras. It is her dwelling: where it is drawn and worshipped, she resides.",
+    "hi": "श्रीचक्र श्रीविद्या का पवित्र यन्त्र है, जिसे चक्रों का राजा कहा जाता है। वही उनका निवास है: जहाँ उसकी रचना और पूजा होती है, वहाँ वे विराजती हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya describes the Śrīcakra as made of the bindu, the triangle and the rest, and calls it her dwelling-place. He quotes the saying ‘the Śrīcakra is the body of the two, Śiva and Śakti’, and explains: as the soul dwells in the body, so Śiva and Śakti dwell in the Śrīcakra. The cakra is thus not only her seat but her very body.",
+    "hi": "भास्करराय श्रीचक्र को बिन्दु, त्रिकोण आदि से बना बताते हैं और उसे उनका निवास-स्थान कहते हैं। वे वचन उद्धृत करते हैं ‘श्रीचक्रं शिवयोर्वपुः’, अर्थात् श्रीचक्र शिव और शक्ति दोनों का शरीर है, और समझाते हैं: जैसे जीव शरीर में रहता है, वैसे ही शिव और शक्ति श्रीचक्र में रहते हैं। इस प्रकार चक्र उनका आसन ही नहीं, उनका शरीर भी है।"
+  },
+  "story": {
+    "en": "The Śrīcakra has nine enclosures (āvaraṇas) around a central point, and it is the yantra in which she is worshipped in Śrīvidyā. Bhāskararāya placed the six paths within it at name 991, and at name 1000 he says she shines in the bindu, above all its enclosures.",
+    "hi": "श्रीचक्र में मध्य बिन्दु के चारों ओर नौ आवरण हैं, और श्रीविद्या में इसी यन्त्र में उनकी पूजा होती है। नाम 991 पर भास्करराय ने छहों अध्वाओं को इसी में स्थित बताया था, और नाम 1000 पर वे कहते हैं कि वे इसके सब आवरणों से ऊपर, बिन्दु-स्थान में शोभित हैं।"
+  },
+  "commentary": {
+    "sanskrit": "श्रीचक्रराजं बिन्दुत्रिकोणादिरूपं निलयो वासस्थानं यस्याः । तदुक्तम्- श्रीचक्रं शिवयोर्वपुरिति । शरीरे यथा जीवस्यावस्थानं तथा श्रीचक्रे शिवयोरिति तदर्थः ।",
+    "translation": {
+      "en": "Whose nilaya, dwelling-place, is the Śrīcakrarāja, made of the bindu, the triangle and the rest. As it is said: ‘The Śrīcakra is the body of the two Śivas.’ The meaning is: as the soul abides in the body, so Śiva and Śakti abide in the Śrīcakra.",
+      "hi": "बिन्दु, त्रिकोण आदि रूप वाला श्रीचक्रराज जिनका निलय, अर्थात् निवास-स्थान, है। जैसा कहा है: ‘श्रीचक्र शिव-शक्ति दोनों का शरीर है।’ अर्थ यह है कि जैसे शरीर में जीव का निवास है, वैसे ही श्रीचक्र में शिव और शक्ति का।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 996 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya does not name the source of श्रीचक्रं शिवयोर्वपुः; शिवयोः (dual) is rendered as Śiva and Śakti, as his explanation requires. The nine enclosures in the story are standard Śrīvidyā context, not from his comment on this name." }
+}

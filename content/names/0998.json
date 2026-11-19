@@ -1,0 +1,43 @@
+{
+  "number": 998,
+  "verse": 183,
+  "slug": "shri-shiva",
+  "devanagari": "श्रीशिवा",
+  "iastSplit": "Śrī-śivā",
+  "archana": "ॐ श्रीशिवायै नमः",
+  "syllables": ["śrī", "śi", "vā"],
+  "words": [
+    { "sa": "श्री", "meaning": { "en": "auspiciousness, glory", "hi": "श्री, शोभा और मंगल" } },
+    { "sa": "शिवा", "meaning": { "en": "the auspicious one, Śiva’s consort", "hi": "शिवा, कल्याणमयी, शिव की शक्ति" } }
+  ],
+  "meaning": {
+    "en": "The auspicious Śivā, endowed with Śrī",
+    "hi": "श्री से युक्त कल्याणमयी शिवा"
+  },
+  "explanation": {
+    "en": "Śivā means the auspicious one, and it is her name as the consort of Śiva. Śrī adds glory and grace. She is Śivā, full of Śrī.",
+    "hi": "शिवा का अर्थ है कल्याणमयी, और यह शिव की सहचरी के रूप में उनका नाम है। ‘श्री’ इसमें शोभा और मंगल जोड़ता है। वे श्री से परिपूर्ण शिवा हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya explains it simply as Śivā united with Śrī, and gives no hidden meaning here. At name 52 he read Śivā as the will of the Supreme Śiva; here the hymn adds Śrī, the word with which it began in Śrīmātā.",
+    "hi": "भास्करराय इसे सीधे ‘श्री से युक्त शिवा’ बताते हैं, और यहाँ कोई गूढ़ अर्थ नहीं देते। नाम 52 पर उन्होंने शिवा को परमशिव की इच्छा-शक्ति के रूप में पढ़ा था; यहाँ स्तोत्र उसमें ‘श्री’ जोड़ता है, वही शब्द जिससे ‘श्रीमाता’ के रूप में स्तोत्र आरम्भ हुआ था।"
+  },
+  "story": {
+    "en": "This is the third name in a row to begin with Śrī, after Śrīcakrarājanilayā and Śrīmat-tripurasundarī. Bhāskararāya’s edition prints it in the verse run together with the next name, but he comments on Śrīśivā as a name of its own, as the master text has it.",
+    "hi": "श्रीचक्रराजनिलया और श्रीमत्त्रिपुरसुन्दरी के बाद, ‘श्री’ से आरम्भ होने वाला यह लगातार तीसरा नाम है। भास्करराय के संस्करण में श्लोक में यह अगले नाम से मिलाकर छपा है, पर वे ‘श्रीशिवा’ की व्याख्या एक स्वतन्त्र नाम के रूप में करते हैं, जैसा मूल पाठ में है।"
+  },
+  "commentary": {
+    "sanskrit": "श्रीयुक्ता शिवा श्रीशिवा ।",
+    "translation": {
+      "en": "Śivā joined with Śrī is Śrīśivā.",
+      "hi": "श्री से युक्त शिवा ही श्रीशिवा हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 998 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya gives only the literal sense; the link to Śrīmātā in the inner layer is a reflection. The edition prints श्रीशिवाशिवशक्त्यैक्यरूपिणी without a break in the verse line; the commentary treats श्रीशिवा as a separate name. The reading of Śivā at name 52 (परशिवेच्छारूपा) was checked in the same edition." }
+}

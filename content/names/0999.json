@@ -1,0 +1,45 @@
+{
+  "number": 999,
+  "verse": 183,
+  "slug": "shiva-shaktyaikya-rupini",
+  "devanagari": "शिवशक्त्यैक्यरूपिणी",
+  "iastSplit": "Śiva-śaktyaikya-rūpiṇī",
+  "archana": "ॐ शिवशक्त्यैक्यरूपिण्यै नमः",
+  "syllables": ["śi", "va", "śak", "tyaik", "ya", "rū", "pi", "ṇī"],
+  "words": [
+    { "sa": "शिव", "meaning": { "en": "Śiva, pure consciousness", "hi": "शिव, शुद्ध चैतन्य" } },
+    { "sa": "शक्ति", "meaning": { "en": "Śakti, his power", "hi": "शक्ति, उनकी सामर्थ्य" } },
+    { "sa": "ऐक्य", "meaning": { "en": "oneness", "hi": "एकता" } },
+    { "sa": "रूपिणी", "meaning": { "en": "whose form is", "hi": "जिनका रूप है" } }
+  ],
+  "meaning": {
+    "en": "Whose form is the oneness of Śiva and Śakti",
+    "hi": "शिव और शक्ति की एकता जिनका रूप है"
+  },
+  "explanation": {
+    "en": "Śiva and Śakti, consciousness and its power, are not two. The name says that their oneness is her very form: she is not a power standing beside Śiva, but the union in which the two are one.",
+    "hi": "शिव और शक्ति, चेतना और उसकी सामर्थ्य, दो नहीं हैं। यह नाम कहता है कि उनकी एकता ही उनका रूप है: वे शिव के पास खड़ी कोई अलग शक्ति नहीं, बल्कि वह मिलन हैं जिसमें दोनों एक हैं।"
+  },
+  "inner": {
+    "en": "Bhāskararāya calls this oneness sāmarasya, being of one taste, which he defines as supreme sameness, complete non-difference. He quotes the Vāyu Saṃhitā: by Śiva’s will the supreme Śakti, become one with the Śiva principle, shines forth at the start of creation like oil from sesame. From the Saura Saṃhitā he adds that Brahman’s power is Brahman itself and no other, and from the Vāsiṣṭha Rāmāyaṇa that pure consciousness and its power of vibration are always one, as wind is one with its movement and fire with its heat.",
+    "hi": "भास्करराय इस एकता को ‘सामरस्य’ कहते हैं, अर्थात् एक-रस होना, और इसका अर्थ बताते हैं परम साम्य, पूर्ण अभेद। वे वायु संहिता उद्धृत करते हैं: शिव की इच्छा से परा शक्ति शिव-तत्त्व से एक होकर, सृष्टि के आरम्भ में वैसे ही प्रकट होती है जैसे तिल से तेल। सौर संहिता से वे जोड़ते हैं कि ब्रह्म की शक्ति स्वयं ब्रह्म ही है, कोई अन्य नहीं; और वासिष्ठ रामायण से कि शुद्ध चैतन्य और उसकी स्पन्द-शक्ति सदा एक हैं, जैसे पवन अपनी गति से और अग्नि अपनी उष्णता से एक है।"
+  },
+  "story": {
+    "en": "He offers further readings: her form is the oneness of the Śiva cakras and Śakti cakras within the Śrīcakra, for the Brahmāṇḍa Purāṇa calls one who knows their inseparable bond the true knower of the cakra; or it is the Haṃsa mantra, which teaches the oneness of Śiva and Śakti. Or again it is the sum of Śiva’s five powers, Dhūmāvatī, Bhāsvatī, Spandā, Vibhvī and Hlādā, which conceal, illumine, stir, pervade and nourish.",
+    "hi": "वे और भी अर्थ देते हैं: उनका रूप श्रीचक्र के शिव-चक्रों और शक्ति-चक्रों की एकता है, क्योंकि ब्रह्माण्ड पुराण के अनुसार जो इनके अविनाभाव-सम्बन्ध को जानता है, वही चक्रवेत्ता है; अथवा वह हंस मन्त्र है, जो शिव और शक्ति की एकता का प्रतिपादन करता है। अथवा वह शिव की पाँच शक्तियों — धूमावती, भास्वती, स्पन्दा, विभ्वी और ह्लादा — का समष्टि-रूप है, जो क्रमशः तिरोधान, प्रकाशन, क्षोभ, व्याप्ति और पोषण करती हैं।"
+  },
+  "commentary": {
+    "sanskrit": "शिवशक्त्योरैक्यं सामरस्यमेव रूपमस्याः ।",
+    "translation": {
+      "en": "The oneness of Śiva and Śakti, their sāmarasya, their being of one taste, is itself her form.",
+      "hi": "शिव और शक्ति का ऐक्य, अर्थात् सामरस्य, ही उनका रूप है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 999 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The Haṃsa mantra is named for its meaning only; Bhāskararāya’s account of its letters (from the Yajñavaibhava Khaṇḍa) is left out. The Vāsiṣṭha Rāmāyaṇa he cites is the work also known as the Yoga Vāsiṣṭha. The five powers and their acts are from the Virūpākṣapañcāśikā verses he quotes." }
+}

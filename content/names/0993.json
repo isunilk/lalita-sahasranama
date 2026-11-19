@@ -1,0 +1,44 @@
+{
+  "number": 993,
+  "verse": 181,
+  "slug": "ajnana-dhvanta-dipika",
+  "devanagari": "अज्ञानध्वान्तदीपिका",
+  "iastSplit": "Ajñāna-dhvānta-dīpikā",
+  "archana": "ॐ अज्ञानध्वान्तदीपिकायै नमः",
+  "syllables": ["aj", "ñā", "nadh", "vān", "ta", "dī", "pi", "kā"],
+  "words": [
+    { "sa": "अज्ञान", "meaning": { "en": "ignorance", "hi": "अज्ञान" } },
+    { "sa": "ध्वान्त", "meaning": { "en": "darkness", "hi": "अन्धकार" } },
+    { "sa": "दीपिका", "meaning": { "en": "lamp", "hi": "दीपिका, दीपक" } }
+  ],
+  "meaning": {
+    "en": "The lamp that dispels the darkness of ignorance",
+    "hi": "अज्ञान रूपी अन्धकार को मिटाने वाली दीपिका"
+  },
+  "explanation": {
+    "en": "Ignorance is pictured as darkness, and she is the lamp. A lamp does not fight the dark; where it is lit, the dark is simply gone. So too, where she shines, ignorance cannot remain.",
+    "hi": "अज्ञान को अन्धकार के रूप में देखा गया है, और वे दीपक हैं। दीपक अन्धकार से लड़ता नहीं; जहाँ वह जलता है, वहाँ अन्धकार रहता ही नहीं। उसी प्रकार, जहाँ वे प्रकाशित होती हैं, वहाँ अज्ञान टिक नहीं पाता।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says that ignorance itself is the darkness, and she is like a lamp to it because she destroys it. He quotes the words of the Lord in the Gītā: ‘Out of compassion for them, I, dwelling within their hearts, destroy the darkness born of ignorance with the shining lamp of knowledge.’ The lamp is not outside: it is lit where she already dwells, within the self.",
+    "hi": "भास्करराय कहते हैं कि अज्ञान ही अन्धकार है, और वे उसके लिए दीपिका के समान हैं, क्योंकि वे उसका नाश करती हैं। वे गीता में भगवान के वचन उद्धृत करते हैं: ‘उन पर अनुग्रह करने के लिए ही मैं उनके अन्तःकरण में स्थित होकर, ज्ञान के प्रकाशमान दीपक से, अज्ञान से उत्पन्न अन्धकार का नाश करता हूँ।’ यह दीपक बाहर नहीं है; वह वहीं जलता है जहाँ वे पहले से निवास करती हैं, अर्थात् आत्मा में।"
+  },
+  "story": {
+    "en": "Bhāskararāya introduces this name as following from the one before: because her compassion needs no cause, she lights the lamp. In the Gītā verse he quotes, too, it is compassion that moves the Lord to dispel the darkness.",
+    "hi": "भास्करराय इस नाम को पिछले नाम का परिणाम बताते हैं: उनकी करुणा निष्कारण है, इसीलिए वे दीपक जलाती हैं। उनके उद्धृत गीता-श्लोक में भी करुणा ही भगवान को अन्धकार मिटाने के लिए प्रेरित करती है।"
+  },
+  "commentary": {
+    "sanskrit": "अज्ञानमेव ध्वान्तमन्धकारस्तस्य दीपिकेव नाशकत्वात् ।",
+    "translation": {
+      "en": "Ignorance itself is the dhvānta, the darkness; she is like a lamp to it, because she destroys it.",
+      "hi": "अज्ञान ही ध्वान्त, अर्थात् अन्धकार, है; उसका नाश करने के कारण वे उसके लिए दीपिका के समान हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 993 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The verse Bhāskararāya cites as ‘the Lord’s words’ is Bhagavad Gītā 10.11; the reference is mine. The last sentence of the inner layer is a reflection on the word आत्मभावस्थः in that verse." }
+}

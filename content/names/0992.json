@@ -1,0 +1,44 @@
+{
+  "number": 992,
+  "verse": 181,
+  "slug": "avyaja-karuna-murti",
+  "devanagari": "अव्याजकरुणामूर्तिः",
+  "iastSplit": "Avyāja-karuṇā-mūrtiḥ",
+  "archana": "ॐ अव्याजकरुणामूर्तये नमः",
+  "syllables": ["av", "yā", "ja", "ka", "ru", "ṇā", "mūr", "tiḥ"],
+  "words": [
+    { "sa": "अव्याज", "meaning": { "en": "without pretext, unconditioned", "hi": "निर्व्याज, निष्कारण" } },
+    { "sa": "करुणा", "meaning": { "en": "compassion", "hi": "करुणा, दया" } },
+    { "sa": "मूर्ति", "meaning": { "en": "form, embodiment", "hi": "मूर्ति, साकार रूप" } }
+  ],
+  "meaning": {
+    "en": "Compassion without condition, in bodily form",
+    "hi": "निष्कारण करुणा की साक्षात् मूर्ति"
+  },
+  "explanation": {
+    "en": "Vyāja is a pretext or reason. Her compassion needs none: it is not earned by merit or won by bargaining, and it does not wait for a cause. She is that compassion itself, given form.",
+    "hi": "व्याज का अर्थ है बहाना या कारण। उनकी करुणा को किसी कारण की आवश्यकता नहीं: वह न पुण्य से कमाई जाती है, न सौदे से पाई जाती है, और न किसी निमित्त की प्रतीक्षा करती है। वे स्वयं वही करुणा हैं, जिसने रूप धारण किया है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya glosses avyāja as anaupadhika: not resting on any upādhi, any outside condition. This compassion is not a quality she has but her own form (svarūpa). He cites a saying of the learned, jayati karuṇā kācid aruṇā, ‘victory to a certain compassion, rosy-red’: the red-hued Goddess is compassion itself.",
+    "hi": "भास्करराय ‘अव्याज’ का अर्थ ‘अनौपधिक’ बताते हैं: जो किसी उपाधि, किसी बाहरी शर्त, पर आश्रित न हो। यह करुणा उनका कोई गुण भर नहीं, उनका स्वरूप ही है। वे विद्वानों का एक वचन उद्धृत करते हैं, ‘जयति करुणा काचिदरुणा’, अर्थात् ‘जय हो उस अनिर्वचनीय अरुण करुणा की’: अरुण वर्ण वाली देवी स्वयं करुणा हैं।"
+  },
+  "story": {
+    "en": "Bhāskararāya joins this name to the next: ‘for that very reason’, he says, she is the lamp to the darkness of ignorance. Because her compassion waits for no cause, she dispels ignorance; the two names are read as cause and effect.",
+    "hi": "भास्करराय इस नाम को अगले नाम से जोड़ते हैं: ‘इसी कारण’, वे कहते हैं, वे अज्ञान रूपी अन्धकार के लिए दीपिका हैं। उनकी करुणा किसी कारण की प्रतीक्षा नहीं करती, इसीलिए वे अज्ञान को मिटाती हैं; दोनों नाम कारण और कार्य की तरह पढ़े जाते हैं।"
+  },
+  "commentary": {
+    "sanskrit": "अव्याजा अनौपधिकी या करुणा सैव मूर्तिः स्वरूपं यस्याः ।",
+    "translation": {
+      "en": "The compassion that is avyāja, free of any condition: that itself is her mūrti, her own form.",
+      "hi": "जो करुणा अव्याज, अर्थात् किसी उपाधि पर आश्रित नहीं, है, वही जिनकी मूर्ति, अर्थात् स्वरूप, है।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 992 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The edition prints the verse line as अव्याजकरूणामूर्ति (with ू), a misprint; its commentary reads करुणा, as does the master text. The archana मूर्तये follows the nāmāvali; मूर्त्यै is also grammatical for a feminine i-stem. Bhāskararāya does not name the source of जयति करुणा काचिदरुणा; he calls it a saying of the learned (अभियुक्तोक्ति)." }
+}

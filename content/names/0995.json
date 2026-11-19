@@ -1,0 +1,44 @@
+{
+  "number": 995,
+  "verse": 182,
+  "slug": "sarvanullanghya-shasana",
+  "devanagari": "सर्वानुल्लङ्घ्यशासना",
+  "iastSplit": "Sarvānullaṅghya-śāsanā",
+  "archana": "ॐ सर्वानुल्लङ्घ्यशासनायै नमः",
+  "syllables": ["sar", "vā", "nul", "laṅ", "ghya", "śā", "sa", "nā"],
+  "words": [
+    { "sa": "सर्व", "meaning": { "en": "all, everyone", "hi": "सब" } },
+    { "sa": "अनुल्लङ्घ्य", "meaning": { "en": "not to be transgressed", "hi": "जिसका उल्लंघन न हो सके" } },
+    { "sa": "शासन", "meaning": { "en": "command, rule", "hi": "शासन, आज्ञा" } }
+  ],
+  "meaning": {
+    "en": "Whose command no one can transgress",
+    "hi": "जिनकी आज्ञा का उल्लंघन कोई नहीं कर सकता"
+  },
+  "explanation": {
+    "en": "Śāsana is a command or rule. No one, not even the greatest of the gods, can step past what she ordains. Her rule holds everything in its place.",
+    "hi": "शासन का अर्थ है आज्ञा या विधान। कोई भी, बड़े से बड़ा देवता भी, उनके विधान को लाँघ नहीं सकता। उनका शासन ही सबको अपने स्थान पर टिकाए रखता है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says that not even Brahmā, Viṣṇu and the others can overstep her command. He quotes a verse of the Ācārya Bhagavatpāda, Śaṅkara: Brahmā brings forth the world, Hari protects it and Rudra destroys it; Īśa, withdrawing all this, conceals even his own body; and Sadāśiva ever blesses it all, each relying on her command, given by a momentary movement of her creeper-like brows. The five cosmic acts of the gods are obedience to her.",
+    "hi": "भास्करराय कहते हैं कि ब्रह्मा, विष्णु आदि भी उनकी आज्ञा का अतिक्रमण नहीं कर सकते। वे आचार्य भगवत्पाद शंकर का एक श्लोक उद्धृत करते हैं: ब्रह्मा जगत् को रचते हैं, हरि उसका पालन करते हैं और रुद्र संहार करते हैं; ईश इस सबको तिरोहित करते हुए अपने शरीर को भी छिपा लेते हैं; और सदाशिव सदा इस सब पर अनुग्रह करते हैं — सब आपकी उस आज्ञा का आश्रय लेकर, जो आपकी लता-सी भौंहों की क्षण भर की हलचल से मिलती है। देवताओं के पाँचों कृत्य उन्हीं की आज्ञा का पालन हैं।"
+  },
+  "story": {
+    "en": "This name answers the doubt raised at the previous one: she is known to all, yet no one may take her lightly, for her command binds even the gods. The verse Bhāskararāya quotes is from Śaṅkara’s Saundaryalaharī.",
+    "hi": "यह नाम पिछले नाम पर उठी शंका का उत्तर है: वे सबको ज्ञात हैं, फिर भी कोई उन्हें हल्के में नहीं ले सकता, क्योंकि उनकी आज्ञा देवताओं को भी बाँधती है। भास्करराय का उद्धृत श्लोक शंकराचार्य की सौन्दर्यलहरी का है।"
+  },
+  "commentary": {
+    "sanskrit": "सर्वैर्ब्रह्मविष्ण्वादिभिरप्युल्लङ्घितुमतिवर्तितुमयोग्यमशक्य.म् च शासनं यस्याः ।",
+    "translation": {
+      "en": "Whose command (śāsana) is neither fit nor possible to be transgressed or overstepped by anyone, even by Brahmā, Viṣṇu and the rest.",
+      "hi": "जिनके शासन का उल्लंघन या अतिक्रमण करना किसी के लिए, ब्रह्मा-विष्णु आदि के लिए भी, न उचित है, न सम्भव।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 995 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. The commentary sentence is copied as printed: the edition has a stray full stop and line break inside अशक्य.म् (for अशक्यम्). Bhāskararāya names the verse’s author only as the Ācārya Bhagavatpāda; that it is Saundaryalaharī 24 is mine." }
+}

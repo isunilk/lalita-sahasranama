@@ -1,0 +1,44 @@
+{
+  "number": 990,
+  "verse": 181,
+  "slug": "abhyasatishaya-jnata",
+  "devanagari": "अभ्यासातिशयज्ञाता",
+  "iastSplit": "Abhyāsātiśaya-jñātā",
+  "archana": "ॐ अभ्यासातिशयज्ञातायै नमः",
+  "syllables": ["abh", "yā", "sā", "ti", "śa", "yaj", "ñā", "tā"],
+  "words": [
+    { "sa": "अभ्यास", "meaning": { "en": "repeated practice", "hi": "अभ्यास, बार-बार की साधना" } },
+    { "sa": "अतिशय", "meaning": { "en": "excess, intensity", "hi": "अतिशय, प्रगाढ़ता" } },
+    { "sa": "ज्ञाता", "meaning": { "en": "known", "hi": "जानी गई" } }
+  ],
+  "meaning": {
+    "en": "Known through intense, sustained practice",
+    "hi": "प्रगाढ़ और निरन्तर अभ्यास से जानी जाने वाली"
+  },
+  "explanation": {
+    "en": "Abhyāsa is practice repeated again and again, and atiśaya is its fullness or intensity. She is not known by a single glance or a passing thought; she becomes known to one whose practice is sustained, deepened and made constant.",
+    "hi": "अभ्यास का अर्थ है बार-बार दोहराई गई साधना, और अतिशय का अर्थ है उसकी पूर्णता या प्रगाढ़ता। वे किसी एक झलक या क्षणिक विचार से नहीं जानी जातीं; वे उसे ज्ञात होती हैं जिसकी साधना निरन्तर, गहरी और अटल हो जाती है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya says the practice meant here is the repeated contemplation of the oneness of Brahman and the self, enjoined in the saying that one should pass one’s time in reflection on Vedānta until sleep and until death. He supports it with the sūtra āvṛttir asakṛd upadeśāt, ‘repetition, because the teaching is given more than once’, which he finds in both Vyāsa’s and Kapila’s sūtras. Knowing her is then not a single event but an understanding that ripens each time one returns to it.",
+    "hi": "भास्करराय कहते हैं कि यहाँ अभिप्रेत अभ्यास ब्रह्म और आत्मा की एकता का बार-बार अनुसन्धान है, जिसका विधान इस वचन में है कि सोने तक और मृत्यु तक का समय वेदान्त-चिन्तन में बिताना चाहिए। इसके समर्थन में वे सूत्र ‘आवृत्तिरसकृदुपदेशात्’ (आवृत्ति आवश्यक है, क्योंकि उपदेश बार-बार दिया गया है) देते हैं, जो उनके अनुसार व्यास और कपिल दोनों के सूत्रों में है। तब उन्हें जानना कोई एक घटना नहीं, बल्कि वह समझ है जो हर बार लौटने पर और पकती है।"
+  },
+  "story": {
+    "en": "Bhāskararāya also cites a verse from the Brahmāṇḍa Purāṇa: she is seen by meditation alone, knowledge is her limb, vidyā is her self and the heart is her seat; through oneness with the self she becomes manifest, by the weight of long practice. With this verse the hymn enters its last three verses.",
+    "hi": "भास्करराय ब्रह्माण्ड पुराण का एक श्लोक भी उद्धृत करते हैं: वे केवल ध्यान से देखी जाती हैं, ज्ञान उनका अंग है, विद्या उनका स्वरूप है और हृदय उनका निवास; आत्मा से एकता होने पर, दीर्घकाल के अनुष्ठान की गरिमा से, वे प्रकट होती हैं। इस श्लोक के साथ स्तोत्र अपने अन्तिम तीन श्लोकों में प्रवेश करता है।"
+  },
+  "commentary": {
+    "sanskrit": "पुनः पुनः आ सुप्तेरा मृतेः कालं नयेद्वेदान्तचिन्तयेति विहितेन ब्रह्मात्मैक्यानुसन्धानावृत्त्यतिशयेन ज्ञाता ।",
+    "translation": {
+      "en": "Again and again: she is known through the surpassing repetition of contemplating the oneness of Brahman and the self, as enjoined in ‘until sleep, until death, one should pass one’s time in reflection on Vedānta’.",
+      "hi": "‘पुनः पुनः’, अर्थात् बार-बार: ‘सोने तक और मृत्यु तक का समय वेदान्त-चिन्तन में बिताए’ इस वचन से विहित, ब्रह्म और आत्मा की एकता के अनुसन्धान की अतिशय आवृत्ति से वे जानी जाती हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 990 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya names the sūtra आवृत्तिरसकृदुपदेशात् only as ‘Vyāsa’s sūtra and Kapila’s sūtra’ (it is Brahma Sūtra 4.1.1); he does not name the source of the line आ सुप्तेरा मृतेः कालं नयेद्वेदान्तचिन्तया. The last sentence of the inner layer is a reflection." }
+}

@@ -1,0 +1,45 @@
+{
+  "number": 994,
+  "verse": 182,
+  "slug": "abala-gopa-vidita",
+  "devanagari": "आबालगोपविदिता",
+  "iastSplit": "Ābāla-gopa-viditā",
+  "archana": "ॐ आबालगोपविदितायै नमः",
+  "syllables": ["ā", "bā", "la", "go", "pa", "vi", "di", "tā"],
+  "words": [
+    { "sa": "आ", "meaning": { "en": "all the way to, including", "hi": "पर्यन्त, तक" } },
+    { "sa": "बाल", "meaning": { "en": "child", "hi": "बालक" } },
+    { "sa": "गोप", "meaning": { "en": "cowherd; protector", "hi": "ग्वाला; रक्षक" } },
+    { "sa": "विदिता", "meaning": { "en": "known", "hi": "जानी गई, विदित" } }
+  ],
+  "meaning": {
+    "en": "Known to all, even to children and cowherds",
+    "hi": "बालकों और ग्वालों तक, सबके द्वारा जानी गई"
+  },
+  "explanation": {
+    "en": "She is known to everyone, down to children and simple cowherds. Knowing the Mother needs no learning: the child and the herdsman know her as surely as the sage.",
+    "hi": "वे सबके द्वारा जानी जाती हैं, बालकों और सरल ग्वालों तक। माँ को जानने के लिए विद्वत्ता आवश्यक नहीं: बालक और ग्वाला भी उन्हें उतने ही निश्चय से जानते हैं जितना ऋषि।"
+  },
+  "inner": {
+    "en": "Bhāskararāya takes the word bālagopa twice. Once it means the highest: Sadāśiva, protector (gopa) of the ‘young’ gods such as Brahmā, or Kṛṣṇa, the cowherd boy of the avatāra. Once it means any cowherd boy, standing for the simplest folk. The prefix ā spans both, so all know her, from Hari and Hara down to the humblest, and he cites the Skanda Purāṇa: all creatures know the Supreme in the guise of the sense of ‘I’.",
+    "hi": "भास्करराय ‘बालगोप’ शब्द को दो बार लेते हैं। एक बार उसका अर्थ है सर्वोच्च: सदाशिव, जो ब्रह्मा आदि ‘बालकों’ के गोप अर्थात् रक्षक हैं, अथवा अवतार में ग्वाल-बाल बने कृष्ण। दूसरी बार उसका अर्थ है कोई भी ग्वाल-बाल, जो सबसे सरल जनों का प्रतीक है। उपसर्ग ‘आ’ दोनों को व्याप्त करता है, अतः हरि-हर से लेकर साधारण से साधारण जन तक सब उन्हें जानते हैं; इसके लिए वे स्कन्दपुराण का वचन उद्धृत करते हैं कि सभी प्राणी ‘मैं’ की प्रतीति के रूप में उस परम को जानते हैं।"
+  },
+  "story": {
+    "en": "He then raises a doubt: if everyone knows her, then by the maxim that too much familiarity breeds disregard, all would take her lightly. The next name, whose command none can transgress, is his answer.",
+    "hi": "फिर वे एक शंका उठाते हैं: यदि सब उन्हें जानते हैं, तो ‘अति परिचय से अवज्ञा होती है’ इस न्याय से सब उनका अनादर करने लगेंगे। अगला नाम, जिनकी आज्ञा का कोई उल्लंघन नहीं कर सकता, इसी का उत्तर है।"
+  },
+  "commentary": {
+    "sanskrit": "हरिहरादिपामरान्ता यां जानन्तीत्यर्थः । उक्तञ्च स्कान्दे- तमहंप्रत्ययव्याजात्सर्वे जानन्ति जन्तव इति ।",
+    "translation": {
+      "en": "The meaning is: she whom all know, from Hari and Hara down to the humblest folk. As the Skanda says: ‘All creatures know Him in the guise of the sense of I.’",
+      "hi": "अर्थ यह है: हरि-हर से लेकर पामर जन तक सब जिन्हें जानते हैं। जैसा स्कन्दपुराण में कहा है: ‘सभी प्राणी अहं-प्रत्यय के बहाने उसे जानते हैं।’"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 994 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. Bhāskararāya’s grammatical analysis (बालगोपौ: two words of the same form, both spanned by आ, one referring to Sadāśiva or the Kṛṣṇa avatāra and the other standing for common folk) is summarised in plain words in the inner layer. The word list gives आ as a separate member for that reason, while the slug and IAST keep Ābāla together as it is usually written." }
+}

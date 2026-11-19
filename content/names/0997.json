@@ -1,0 +1,44 @@
+{
+  "number": 997,
+  "verse": 182,
+  "slug": "shrimat-tripura-sundari",
+  "devanagari": "श्रीमत्त्रिपुरसुन्दरी",
+  "iastSplit": "Śrīmat-tripura-sundarī",
+  "archana": "ॐ श्रीमत्त्रिपुरसुन्दर्यै नमः",
+  "syllables": ["śrī", "mat", "tri", "pu", "ra", "sun", "da", "rī"],
+  "words": [
+    { "sa": "श्रीमत्", "meaning": { "en": "glorious, full of Śrī", "hi": "श्रीमती, ऐश्वर्यमयी" } },
+    { "sa": "त्रिपुर", "meaning": { "en": "Tripura, the Lord in whom are the three cities", "hi": "त्रिपुर, अर्थात् परशिव" } },
+    { "sa": "सुन्दरी", "meaning": { "en": "the beautiful one; consort", "hi": "सुन्दरी; भार्या" } }
+  ],
+  "meaning": {
+    "en": "The glorious Tripurasundarī, beloved of the Supreme Śiva",
+    "hi": "श्रीमती त्रिपुरसुन्दरी, परशिव की प्रिया"
+  },
+  "explanation": {
+    "en": "Śrīmat means glorious, full of Śrī. Tripurasundarī is the beautiful one of Tripura, and it is the name by which she is best known in Śrīvidyā. Near the close of the hymn, the Mother is called by this great name of hers.",
+    "hi": "श्रीमत् का अर्थ है ऐश्वर्य और शोभा से युक्त। त्रिपुरसुन्दरी का अर्थ है त्रिपुर की सुन्दरी, और श्रीविद्या में वे इसी नाम से सबसे अधिक जानी जाती हैं। स्तोत्र के समापन के निकट माँ को उनके इसी महान नाम से पुकारा गया है।"
+  },
+  "inner": {
+    "en": "Bhāskararāya takes Tripura as the Supreme Śiva, so called because the three puras, the bodies of Brahmā, Viṣṇu and Śiva, are in him; she is his sundarī, his wife. He quotes the Kālikā Purāṇa: Śambhu’s body became threefold, the upper part five-faced and four-armed, fair as lotus filaments, the body of Brahmā; the middle part blue, one-faced, holding conch, discus, mace and lotus, the body of Viṣṇu; and the lower part five-faced and crystal-white, the body of the moon-crested Śiva. Joined with these three ‘cities’, the supreme Śiva is Tripura.",
+    "hi": "भास्करराय त्रिपुर को परशिव मानते हैं, क्योंकि उनमें तीन पुर, अर्थात् ब्रह्मा, विष्णु और शिव के शरीर, स्थित हैं; वे उनकी सुन्दरी, अर्थात् भार्या, हैं। वे कालिका पुराण उद्धृत करते हैं: शम्भु का शरीर तीन भागों में हुआ — ऊपर का भाग पाँच मुख और चार भुजाओं वाला, कमल-केसर के समान गौर, ब्रह्मा का शरीर; बीच का भाग नील वर्ण, एक मुख वाला, शंख, चक्र, गदा और पद्म धारण किए, विष्णु का शरीर; और नीचे का भाग पाँच मुख वाला, स्फटिक-सा श्वेत, चन्द्रशेखर शिव का शरीर। इन तीन ‘पुरों’ से युक्त होने के कारण परम शिव त्रिपुर हैं।"
+  },
+  "story": {
+    "en": "He reads the name as a descriptive compound: she is glorious, and she is Tripurasundarī. The name first appeared as Mahātripurasundarī (name 234), where Bhāskararāya explained the three differently, as the knower, the means of knowing and the known; here it follows the name of her home, the Śrīcakra.",
+    "hi": "वे इसे कर्मधारय समास के रूप में पढ़ते हैं: वे श्रीमती हैं, और वे त्रिपुरसुन्दरी हैं। यह नाम पहले महात्रिपुरसुन्दरी (नाम 234) के रूप में आया था, जहाँ भास्करराय ने ‘त्रि’ को अलग ढंग से, प्रमाता, प्रमाण और प्रमेय के रूप में, समझाया था; यहाँ यह उनके निवास श्रीचक्र के नाम के ठीक बाद आता है।"
+  },
+  "commentary": {
+    "sanskrit": "त्रिपुरस्य परशिवस्य सुन्दरी भार्या । श्रीमती च सा त्रिपुरसुन्दरी चेति तथा । अत्र त्रीणि पुराणि ब्रह्मविष्णुशिवशरीराणि यस्मिन्सः त्रिपुरः परशिवः ।",
+    "translation": {
+      "en": "The sundarī, the wife, of Tripura, the Supreme Śiva. She is śrīmatī, glorious, and she is Tripurasundarī: hence the name. Here Tripura is the Supreme Śiva, in whom are the three cities, the bodies of Brahmā, Viṣṇu and Śiva.",
+      "hi": "त्रिपुर, अर्थात् परशिव, की सुन्दरी, अर्थात् भार्या। वे श्रीमती हैं और वे त्रिपुरसुन्दरी हैं, इसलिए यह नाम। यहाँ त्रिपुर परशिव हैं, जिनमें तीन पुर, अर्थात् ब्रह्मा, विष्णु और शिव के शरीर, हैं।"
+    },
+    "source": "Bhāskararāya, Saubhāgya Bhāskara, on name 997 (Sanskrit Wikisource edition)"
+  },
+  "sources": [
+    "Name and verse: Lalitā Sahasranāma stotram and nāmāvali (stotranidhi.com), checked against the Saubhāgya Bhāskara edition on Sanskrit Wikisource",
+    "Bhāskararāya, Saubhāgya Bhāskara (Sanskrit Wikisource edition)"
+  ],
+  "audio": { "chant": null, "slow": null },
+  "review": { "status": "draft", "notes": "Drafted by Claude. In the Kālikā Purāṇa verses the edition prints पद्यकेसर, evidently for पद्मकेसर (lotus filaments); the summary follows the corrected sense. Bhāskararāya’s gloss of Tripura here (Paraśiva with three bodies) differs from his explanation at name 234. ‘Best known in Śrīvidyā’ in the explanation is general context." }
+}
