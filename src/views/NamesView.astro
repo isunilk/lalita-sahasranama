@@ -1,12 +1,13 @@
 ---
 // Index of every name, grouped by verse, with a search box.
+// The search text for every script and language lives in /names-search.json, fetched only when someone searches.
 import Base from '../layouts/Base.astro';
 import LangChips from '../components/LangChips.astro';
 import Icon from '../components/Icon.astro';
 import { loadSite } from '../lib/data.js';
 import { t } from '../i18n/ui.mjs';
 import { SITE, SCRIPT_TAG, getLang, namesUrl } from '../lib/site.mjs';
-import { chipModel, namesAlternates, bestNameUrl, searchText } from '../lib/pagedata.js';
+import { chipModel, namesAlternates, bestNameUrl } from '../lib/pagedata.js';
 
 const { lang } = Astro.props;
 const sc = getLang(lang).script;
@@ -30,7 +31,7 @@ const { chips } = chipModel(lang, alternates, { onlyPageLangs: true });
       <label class="search">
         <Icon name="search" />
         <span class="sr-only">{t(lang, 'search_label')}</span>
-        <input type="search" data-filter placeholder={t(lang, 'search_placeholder')} autocomplete="off" />
+        <input type="search" data-filter="/names-search.json" placeholder={t(lang, 'search_placeholder')} autocomplete="off" />
       </label>
     </div>
     <div class="container index-list">
@@ -39,12 +40,11 @@ const { chips } = chipModel(lang, alternates, { onlyPageLangs: true });
           <h2 id={`iv-${g.verse}`}>{t(lang, 'verse_n', { n: g.verse })}</h2>
           <ol>
             {g.names.map((n) => (
-              <li class="name-row" data-search={searchText(n)}>
-                <span class="medallion">{n.number}</span>
+              <li class="name-row" value={n.number}>
                 <a class="name-row-body" href={bestNameUrl(n, lang)}>
                   <span class="name-row-name">
-                    <span class="name-row-sa" lang={SCRIPT_TAG[sc]} style="display: block">{n.s[sc]}</span>
-                    <span class="name-row-iast" lang="sa-Latn" style="display: block">{n.s.iast}</span>
+                    <span class="name-row-sa" lang={SCRIPT_TAG[sc]}>{n.s[sc]}</span>
+                    <span class="name-row-iast" lang="sa-Latn">{n.s.iast}</span>
                   </span>
                   <span class="name-row-meaning name-row-meaning-wrap" lang={n.meaning[lang] ? lang : 'en'}>{n.meaning[lang] || n.meaning.en}</span>
                 </a>

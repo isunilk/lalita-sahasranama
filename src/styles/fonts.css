@@ -1,0 +1,23 @@
+/* Fonts are served from this site, not from Google, so the first page draws without waiting on another server.
+   Each family is split by script with unicode-range, so a browser downloads the Telugu, Tamil or other script
+   files only when text in that script is on screen (after the reader switches language).
+   Weights match what global.css uses. */
+@import '@fontsource/cormorant-garamond/500.css';
+@import '@fontsource/cormorant-garamond/600.css';
+@import '@fontsource/cormorant-garamond/700.css';
+@import '@fontsource/eb-garamond/400.css';
+@import '@fontsource/eb-garamond/400-italic.css';
+@import '@fontsource/eb-garamond/500.css';
+@import '@fontsource/eb-garamond/600.css';
+@import '@fontsource/tiro-devanagari-sanskrit/400.css';
+@import '@fontsource/tiro-devanagari-sanskrit/400-italic.css';
+@import '@fontsource/tiro-telugu/400.css';
+@import '@fontsource/tiro-tamil/400.css';
+@import '@fontsource/tiro-kannada/400.css';
+@import '@fontsource/tiro-bangla/400.css';
+@import '@fontsource/noto-serif-malayalam/400.css';
+@import '@fontsource/noto-serif-malayalam/500.css';
+@import '@fontsource/noto-serif-gujarati/400.css';
+@import '@fontsource/noto-serif-gujarati/500.css';
+@import '@fontsource/noto-serif-oriya/400.css';
+@import '@fontsource/noto-serif-oriya/500.css';

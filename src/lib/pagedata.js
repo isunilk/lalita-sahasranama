@@ -98,6 +98,7 @@ export function chipModel(lang, alternates, { onlyPageLangs = false } = {}) {
 }
 
 export function searchText(n) {
-  const parts = [n.number, n.asciiName, n.slug, ...Object.values(n.s), ...Object.values(n.meaning)];
+  // The slug also goes in without hyphens, so "shrimata" finds shri-mata.
+  const parts = [n.number, n.asciiName, n.slug, n.slug.replace(/-/g, ''), ...Object.values(n.s), ...Object.values(n.meaning)];
   return parts.join(' ').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
 }

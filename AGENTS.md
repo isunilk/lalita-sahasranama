@@ -27,6 +27,9 @@ Before you finish any task, `npm run validate` and `npm run build` must both pas
 | `src/lib/site.mjs` | Languages, URLs and the rule for when a language gets its own page |
 | `src/i18n/ui.mjs` | Interface text (buttons, headings) for languages with their own pages |
 | `src/views/` | Page templates: home, verse, name, all names |
+| `src/pages/names-search.json.js` | Search text for the all-names page, fetched only when someone searches |
+| `scripts/make-images.mjs` | Draws the share picture and icons in `public/` |
+| `vercel.json` | Trailing-slash redirect and cache headers for Vercel |
 
 Only Devanagari is stored. Do not type names in other scripts: they are generated. If a generated
 spelling is wrong for one word, add the correct spelling to that name's `scriptOverrides`

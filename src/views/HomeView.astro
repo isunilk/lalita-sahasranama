@@ -33,8 +33,18 @@ const strings = {
 const alternates = homeAlternates();
 const { chips, inPage } = chipModel(lang, alternates);
 const pageData = { lang, labels: LABELS, inPage, strings };
+// Tells Google the site's name for search results. It reads this from the main home page only.
+const jsonLd = isEn
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'WebSite',
+      name: SITE.name,
+      alternateName: ['Lalitha Sahasranamam', 'Lalita Sahasranama', 'ललिता सहस्रनाम'],
+      url: `${SITE.origin}/`,
+    }
+  : null;
 ---
-<Base lang={lang} title={t(lang, 'meta_home_title')} description={t(lang, 'meta_home_desc')} path={homeUrl(lang)} alternates={alternates} pageData={pageData}>
+<Base lang={lang} title={t(lang, 'meta_home_title')} description={t(lang, 'meta_home_desc')} path={homeUrl(lang)} alternates={alternates} pageData={pageData} jsonLd={jsonLd}>
   <section class="hero on-accent" aria-labelledby="hero-name">
     <div class="container hero-inner">
       <div class="hero-text">

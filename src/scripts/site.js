@@ -141,21 +141,53 @@ document.addEventListener('click', (event) => {
 window.addEventListener('pagehide', stopAudio);
 
 // ---- Names search ------------------------------------------------------------
+// Each list item's value is its name number. The full search text (every script and language)
+// is fetched on first use; until it arrives, the search uses the text shown on the page.
 const filter = document.querySelector('[data-filter]');
 if (filter) {
   const norm = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
-  const items = Array.from(document.querySelectorAll('[data-search]'));
+  const items = Array.from(document.querySelectorAll('[data-group] li[value]'));
   const groups = Array.from(document.querySelectorAll('[data-group]'));
   const empty = document.querySelector('[data-empty]');
-  filter.addEventListener('input', () => {
+  let index = null;
+  let loading = null;
+  const shownText = new Map();
+
+  const load = () => {
+    loading ||= fetch(filter.dataset.filter)
+      .then((r) => (r.ok ? r.json() : Promise.reject(new Error(String(r.status)))))
+      .then((list) => {
+        index = list;
+        if (filter.value.trim()) run();
+      })
+      .catch(() => {
+        loading = null; // try again on the next keystroke
+      });
+    return loading;
+  };
+
+  const textOf = (item) => {
+    if (index && index[item.value - 1]) return index[item.value - 1];
+    if (!shownText.has(item)) shownText.set(item, norm(`${item.value} ${item.textContent}`));
+    return shownText.get(item);
+  };
+
+  function run() {
     const q = norm(filter.value.trim());
     let shown = 0;
     for (const item of items) {
-      const match = !q || item.dataset.search.includes(q);
+      const match = !q || textOf(item).includes(q);
       item.hidden = !match;
       if (match) shown++;
     }
-    for (const g of groups) g.hidden = !g.querySelector('[data-search]:not([hidden])');
-    if (empty) empty.hidden = shown > 0;
+    for (const g of groups) g.hidden = !g.querySelector('li[value]:not([hidden])');
+    // While the search text is still arriving, wait before saying nothing matched.
+    if (empty) empty.hidden = shown > 0 || (!index && Boolean(loading));
+  }
+
+  filter.addEventListener('focus', load, { once: true });
+  filter.addEventListener('input', () => {
+    if (!index) load();
+    run();
   });
 }

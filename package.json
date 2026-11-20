@@ -12,6 +12,16 @@
     "preview": "astro preview"
   },
   "dependencies": {
+    "@fontsource/cormorant-garamond": "5.3.0",
+    "@fontsource/eb-garamond": "5.3.0",
+    "@fontsource/noto-serif-gujarati": "5.3.0",
+    "@fontsource/noto-serif-malayalam": "5.3.0",
+    "@fontsource/noto-serif-oriya": "5.3.0",
+    "@fontsource/tiro-bangla": "5.3.0",
+    "@fontsource/tiro-devanagari-sanskrit": "5.3.0",
+    "@fontsource/tiro-kannada": "5.3.0",
+    "@fontsource/tiro-tamil": "5.3.0",
+    "@fontsource/tiro-telugu": "5.3.0",
     "astro": "5.18.2"
   }
 }

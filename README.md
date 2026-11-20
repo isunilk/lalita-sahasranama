@@ -52,3 +52,17 @@ Until a name has recordings, its buttons use the visitor's device voice for Hind
 Any static host works (Cloudflare Pages, Netlify, Vercel, GitHub Pages): build command
 `npm run build`, output folder `dist`. "Today's name" on the home page is chosen when the site
 is built, so schedule one rebuild a day (most hosts offer a deploy hook you can call on a schedule).
+
+`vercel.json` is set up for Vercel: it redirects `/name/x` to `/name/x/` so Google sees one address
+per page, and lets browsers keep the fonts, CSS and scripts in `/_astro/` for a year. Elsewhere,
+set the same two things in that host's settings.
+
+After the first deploy, add the domain in Google Search Console and submit
+`https://lalitasahasranama.com/sitemap.xml`.
+
+## Fonts, icons and the share picture
+
+Fonts come from the `@fontsource` packages and are served by the site itself (`src/styles/fonts.css`).
+The share picture shown by WhatsApp, Facebook and X (`public/og-image.jpg`) and the icons
+(`favicon.ico`, `apple-touch-icon.png`, `icon-192.png`, `icon-512.png`) are drawn by
+`node scripts/make-images.mjs`, which needs Google Chrome. Run it again after changing the design.

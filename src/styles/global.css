@@ -528,6 +528,9 @@ a {
   background: transparent;
   color: #fbf4e6;
   font: inherit;
+  /* Labels like తెలుగు use the device's own font, so a page does not download every script's font
+     just to draw these buttons. Those fonts load when the reader picks the language. */
+  font-family: 'EB Garamond', 'Tiro Devanagari Sanskrit', serif;
   font-size: 18px;
   text-decoration: none;
   cursor: pointer;
@@ -717,7 +720,9 @@ a {
   border-bottom: 0;
 }
 
-.medallion {
+/* The names index draws its number from the list item's value, which saves an element per name. */
+.medallion,
+.index-verse .name-row::before {
   flex: none;
   width: 52px;
   height: 52px;
@@ -1404,6 +1409,17 @@ a {
 .index-verse {
   margin-top: 28px;
   padding: 22px 24px 4px;
+  /* The browser skips drawing verses that are off screen; 640px is about one verse's height. */
+  content-visibility: auto;
+  contain-intrinsic-size: auto 640px;
+}
+
+.index-verse .name-row::before {
+  content: attr(value);
+}
+
+.index-verse .name-row-name > span {
+  display: block;
 }
 
 .index-verse h2 {
@@ -1470,7 +1486,8 @@ a {
     align-items: flex-start;
   }
 
-  .medallion {
+  .medallion,
+  .index-verse .name-row::before {
     width: 44px;
     height: 44px;
     font-size: 19px;
@@ -1478,5 +1495,6 @@ a {
 
   .index-verse {
     padding: 18px 16px 4px;
+    contain-intrinsic-size: auto 960px;
   }
 }
