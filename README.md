@@ -6,7 +6,11 @@ Built with [Astro](https://astro.build) as a static site.
 
 ## Run it
 
+Needs Node.js 22.23.4 or newer (Astro 7 refuses older versions). With nvm, `nvm use` picks the
+version in `.nvmrc`.
+
 ```bash
+nvm use
 npm install
 npm run dev        # http://localhost:4321
 npm run build      # checks content, then writes the site to dist/

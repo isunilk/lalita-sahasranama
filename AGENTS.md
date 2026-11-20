@@ -5,6 +5,8 @@ meaning in layers, audio and several Indian languages. It is a static [Astro](ht
 
 ## Commands
 
+Node.js 22.23.4 or newer is required (`nvm use` reads `.nvmrc`).
+
 ```bash
 npm install          # once
 npm run validate     # check every content file and print a progress report

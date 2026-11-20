@@ -18,10 +18,7 @@ const last = verse.names[verse.names.length - 1].number;
     <div class="divider" aria-hidden="true"><span></span><Icon name="lotus" size={22} /><span></span></div>
     <p class="verse-text" lang={tag}>
       {lines.map((line, i) => (
-        <>
-          {i > 0 && <br />}
-          <span data-t={`verse${verse.number}.l${i}`} lang={tag}>{line}</span>
-        </>
+        <>{i > 0 && <br />}<span data-t={`verse${verse.number}.l${i}`} lang={tag}>{line}</span></>
       ))}
     </p>
     <PlayButton
