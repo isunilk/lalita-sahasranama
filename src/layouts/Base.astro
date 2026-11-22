@@ -65,6 +65,22 @@ const robots = noIndex ? 'noindex, follow' : 'index, follow, max-image-preview:l
       <slot />
     </main>
     <Footer lang={lang} />
+    <aside
+      class="audio-feedback" data-audio-feedback hidden role="status" aria-live="polite" aria-atomic="true"
+      data-loading={t(lang, 'audio_loading')}
+      data-preview-playing={t(lang, 'audio_preview_playing')}
+      data-preview-finished={t(lang, 'audio_preview_finished')}
+      data-recording-playing={t(lang, 'audio_recording_playing')}
+      data-recording-finished={t(lang, 'audio_recording_finished')}
+      data-unsupported={t(lang, 'audio_unsupported')}
+      data-no-voice={t(lang, 'no_voice')}
+      data-preview-error={t(lang, 'audio_preview_error')}
+      data-recording-error={t(lang, 'audio_recording_error')}
+      data-blocked={t(lang, 'audio_blocked')}
+    >
+      <p id="audio-feedback-message" data-audio-message></p>
+      <button type="button" data-audio-dismiss>{t(lang, 'dismiss')}</button>
+    </aside>
     {pageData && <script type="application/json" id="page-data" set:html={safeJson(pageData)} />}
     <script>
       import '../scripts/site.js';

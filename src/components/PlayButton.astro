@@ -3,7 +3,9 @@
 // with the device's Hindi voice. Behaviour lives in src/scripts/site.js.
 import Icon from './Icon.astro';
 
-const { tts, src = null, rate = 0.8, variant = 'round', label = undefined, playText = '', pauseText = '' } = Astro.props;
+const { tts, src = null, rate = 0.8, variant = 'round', label = undefined, playText = '', pauseText = '', previewText = '', previewLabel = undefined } = Astro.props;
+const shownText = !src && previewText ? previewText : playText;
+const shownLabel = !src && previewLabel ? previewLabel : label;
 const iconSize = variant === 'round' ? 16 : 15;
 ---
 <button
@@ -13,11 +15,13 @@ const iconSize = variant === 'round' ? 16 : 15;
   data-tts={tts}
   data-src={src || undefined}
   data-rate={rate}
-  data-label-play={playText || undefined}
+  data-label-play={shownText || undefined}
+  data-recording-label={playText || undefined}
+  data-preview-label={previewText || undefined}
   data-label-pause={pauseText || undefined}
   aria-pressed="false"
-  aria-label={label}
+  aria-label={shownLabel}
 >
   <span class="play-icon"><Icon name="play" size={iconSize} /><Icon name="pause" size={iconSize} /></span>
-  {playText && <span data-label>{playText}</span>}
+  {shownText && <span data-label>{shownText}</span>}
 </button>

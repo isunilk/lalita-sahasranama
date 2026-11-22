@@ -26,6 +26,7 @@ const last = verse.names[verse.names.length - 1].number;
       tts={verse.names.map((n) => n.devanagari).join(' ')}
       rate={0.75}
       playText={t(lang, 'listen_verse', { n: verse.number })}
+      previewText={t(lang, 'preview_verse', { n: verse.number })}
       pauseText={t(lang, 'pause')}
     />
   </div>
@@ -45,7 +46,7 @@ const last = verse.names[verse.names.length - 1].number;
             <a class="name-row-more" href={bestNameUrl(n, lang)}>{t(lang, 'full_meaning')}<Icon name="chevron-right" size={16} /></a>
           </div>
         </div>
-        <PlayButton variant="round" tts={n.devanagari} src={n.audio.chant} label={t(lang, 'play_label', { name: n.s.iast })} />
+        <PlayButton variant="round" tts={n.devanagari} src={n.audio.chant} label={t(lang, 'play_label', { name: n.s.iast })} previewLabel={t(lang, 'preview_label', { name: n.s.iast })} />
       </li>
     ))}
   </ol>

@@ -50,6 +50,8 @@ other languages or correct names, one verse or a small batch at a time.
 Put recordings in `public/audio/`, for example `public/audio/chant/0004.mp3`, and set
 `"audio": { "chant": "/audio/chant/0004.mp3", "slow": "/audio/slow/0004.mp3", "archana": "/audio/archana/0004.mp3" }` in the name file.
 Until a name has recordings, its buttons use the visitor's device voice for Hindi, where available.
+Those controls are labeled as pronunciation previews. Playback waits for voices to load,
+resumes a paused speech queue and reports unavailable voices or playback failures visibly.
 
 For human Sanskrit recording sessions, run `npm run audio:prepare` (or append `-- /path/to/output`).
 It generates a recording brief, a numbered transcript and a JSON manifest directly from all

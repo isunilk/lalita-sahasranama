@@ -94,7 +94,7 @@ const archanaTag = isEn ? 'sa-Latn' : SCRIPT_TAG[sc];
         <p class="hero-meaning" lang={meaning.l} data-t="meaning">{meaning.t}</p>
         <p class="hero-meaning-en" lang="en" data-en-line="meaning" hidden={isEn || meaning.l === 'en'}>{n.meaning.en}</p>
         <div class="hero-actions">
-          <PlayButton variant="gold" tts={n.devanagari} src={n.audio.chant} playText={t(lang, 'listen_name')} pauseText={t(lang, 'pause')} />
+          <PlayButton variant="gold" tts={n.devanagari} src={n.audio.chant} playText={t(lang, 'listen_name')} previewText={t(lang, 'preview_name')} pauseText={t(lang, 'pause')} />
           <p class="hero-archana" lang={archanaTag} data-t="archana">{archanaShown}</p>
         </div>
       </div>
@@ -182,9 +182,9 @@ const archanaTag = isEn ? 'sa-Latn' : SCRIPT_TAG[sc];
           <span class="layer-label">{t(lang, 'sec_listen')}</span>
         </div>
         <div class="audio-row">
-          <PlayButton variant="pill" tts={n.devanagari} src={n.audio.slow} rate={0.45} playText={t(lang, 'pronounce_slowly')} pauseText={t(lang, 'pause')} />
-          <PlayButton variant="pill" tts={n.devanagari} src={n.audio.chant} rate={0.8} playText={t(lang, 'chant')} pauseText={t(lang, 'pause')} />
-          <PlayButton variant="pill" tts={n.archana} src={n.audio.archana} rate={0.8} playText={t(lang, 'archana_form')} pauseText={t(lang, 'pause')} />
+          <PlayButton variant="pill" tts={n.devanagari} src={n.audio.slow} rate={0.45} playText={t(lang, 'pronounce_slowly')} previewText={t(lang, 'preview_slow')} pauseText={t(lang, 'pause')} />
+          <PlayButton variant="pill" tts={n.devanagari} src={n.audio.chant} rate={0.8} playText={t(lang, 'chant')} previewText={t(lang, 'preview_pronunciation')} pauseText={t(lang, 'pause')} />
+          <PlayButton variant="pill" tts={n.archana} src={n.audio.archana} rate={0.8} playText={t(lang, 'archana_form')} previewText={t(lang, 'preview_archana')} pauseText={t(lang, 'pause')} />
         </div>
         {n.syllables.length > 0 && (
           <div class="syllables">
@@ -195,7 +195,7 @@ const archanaTag = isEn ? 'sa-Latn' : SCRIPT_TAG[sc];
         <p class="archana-hint">
           {t(lang, 'archana_hint_before')} <span lang={archanaTag} data-t="archana2">{archanaShown}</span> {t(lang, 'archana_hint_after')}
         </p>
-        <p class="audio-status" data-audio-status data-no-voice={t(lang, 'no_voice')} aria-live="polite">{n.audio.chant ? '' : t(lang, 'audio_note')}</p>
+        <p class="audio-status" data-audio-status>{n.audio.chant ? '' : t(lang, 'audio_note')}</p>
       </section>
 
       {verse && (

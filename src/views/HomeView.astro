@@ -56,7 +56,7 @@ const jsonLd = isEn
         <p class="hero-meaning-en" lang="en" data-en-line="hero.meaning" hidden={isEn || !today.meaning[lang]}>{today.meaning.en}</p>
         <a class="hero-link" href={bestNameUrl(today, lang)} data-daily-link>{t(lang, 'read_full')}<Icon name="chevron-right" size={18} /></a>
         <div class="hero-actions" data-daily-audio>
-          <PlayButton variant="gold" tts={today.devanagari} src={today.audio.chant} playText={t(lang, 'listen_name')} pauseText={t(lang, 'pause')} />
+          <PlayButton variant="gold" tts={today.devanagari} src={today.audio.chant} playText={t(lang, 'listen_name')} previewText={t(lang, 'preview_name')} pauseText={t(lang, 'pause')} />
           <p class="hero-archana" lang={isEn ? 'sa-Latn' : SCRIPT_TAG[sc]} data-t="hero.archana">{isEn ? today.a.iast : today.a[sc]}</p>
         </div>
       </div>
