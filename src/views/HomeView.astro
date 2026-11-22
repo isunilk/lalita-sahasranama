@@ -7,32 +7,33 @@ import PlayButton from '../components/PlayButton.astro';
 import VerseCard from '../components/VerseCard.astro';
 import Icon from '../components/Icon.astro';
 import { loadSite } from '../lib/data.js';
+import { dailyNameIndex } from '../lib/daily-name.mjs';
 import { t } from '../i18n/ui.mjs';
 import { LANGS, SITE, SCRIPT_TAG, getLang, homeUrl, verseUrl } from '../lib/site.mjs';
-import { scr, txt, verseStrings, chipModel, homeAlternates, bestNameUrl, bestVerseUrl, nameSizeClass, LABELS } from '../lib/pagedata.js';
+import { homeNameData, verseStrings, chipModel, homeAlternates, bestNameUrl, bestVerseUrl, nameSizeClass, LABELS } from '../lib/pagedata.js';
 
 const { lang } = Astro.props;
 const sc = getLang(lang).script;
 const isEn = lang === 'en';
 const site = await loadSite();
 
-// "Today's name" changes with the date of the build; schedule a daily rebuild to keep it fresh.
-const now = new Date();
-const dayOfYear = Math.floor((Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate()) - Date.UTC(now.getUTCFullYear(), 0, 1)) / 86400000);
-const today = site.names[dayOfYear % site.names.length];
+// Render a useful first view; the browser keeps it current without daily rebuilds.
+const today = site.names[dailyNameIndex(site.names.length)];
+const featured = homeNameData(today);
 const verse = site.verses[0] || null;
 const nextVerse = site.verses[1] || null;
 const meaning = today.meaning[lang] || today.meaning.en;
 
 const strings = {
-  'hero.name': scr(today.s),
-  'hero.meaning': txt(today.meaning),
-  'hero.archana': scr(today.a, { enIast: true }),
+  ...featured.strings,
   ...(verse ? verseStrings(verse) : {}),
 };
 const alternates = homeAlternates();
 const { chips, inPage } = chipModel(lang, alternates);
-const pageData = { lang, labels: LABELS, inPage, strings };
+const pageData = {
+  lang, labels: LABELS, inPage, strings,
+  dailyName: { numbers: site.names.map((n) => n.number), numberLabel: t(lang, 'name_of', { n: '{n}' }) },
+};
 // Tells Google the site's name for search results. It reads this from the main home page only.
 const jsonLd = isEn
   ? {
@@ -45,17 +46,17 @@ const jsonLd = isEn
   : null;
 ---
 <Base lang={lang} title={t(lang, 'meta_home_title')} description={t(lang, 'meta_home_desc')} path={homeUrl(lang)} alternates={alternates} pageData={pageData} jsonLd={jsonLd}>
-  <section class="hero on-accent" aria-labelledby="hero-name">
+  <section class="hero on-accent" aria-labelledby="hero-name" data-daily-name={today.number}>
     <div class="container hero-inner">
       <div class="hero-text">
-        <p class="eyebrow">{t(lang, 'todays_name')} · {t(lang, 'name_of', { n: today.number })}</p>
+        <p class="eyebrow">{t(lang, 'todays_name')} · <span data-daily-number>{t(lang, 'name_of', { n: today.number })}</span></p>
         <h1 id="hero-name" class={`hero-name ${nameSizeClass(today.s[sc])}`} lang={SCRIPT_TAG[sc]} data-t="hero.name">{today.s[sc]}</h1>
-        <p class="hero-iast" lang="sa-Latn">{today.iastSplit}</p>
+        <p class="hero-iast" lang="sa-Latn" data-daily-iast>{today.iastSplit}</p>
         <p class="hero-meaning" lang={today.meaning[lang] ? lang : 'en'} data-t="hero.meaning">{meaning}</p>
         <p class="hero-meaning-en" lang="en" data-en-line="hero.meaning" hidden={isEn || !today.meaning[lang]}>{today.meaning.en}</p>
-        <a class="hero-link" href={bestNameUrl(today, lang)}>{t(lang, 'read_full')}<Icon name="chevron-right" size={18} /></a>
-        <div class="hero-actions">
-          <PlayButton variant="gold" tts={today.archana} src={today.audio.chant} playText={t(lang, 'listen_name')} pauseText={t(lang, 'pause')} />
+        <a class="hero-link" href={bestNameUrl(today, lang)} data-daily-link>{t(lang, 'read_full')}<Icon name="chevron-right" size={18} /></a>
+        <div class="hero-actions" data-daily-audio>
+          <PlayButton variant="gold" tts={today.devanagari} src={today.audio.chant} playText={t(lang, 'listen_name')} pauseText={t(lang, 'pause')} />
           <p class="hero-archana" lang={isEn ? 'sa-Latn' : SCRIPT_TAG[sc]} data-t="hero.archana">{isEn ? today.a.iast : today.a[sc]}</p>
         </div>
       </div>

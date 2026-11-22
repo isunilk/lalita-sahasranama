@@ -184,7 +184,7 @@ const archanaTag = isEn ? 'sa-Latn' : SCRIPT_TAG[sc];
         <div class="audio-row">
           <PlayButton variant="pill" tts={n.devanagari} src={n.audio.slow} rate={0.45} playText={t(lang, 'pronounce_slowly')} pauseText={t(lang, 'pause')} />
           <PlayButton variant="pill" tts={n.devanagari} src={n.audio.chant} rate={0.8} playText={t(lang, 'chant')} pauseText={t(lang, 'pause')} />
-          <PlayButton variant="pill" tts={n.archana} rate={0.8} playText={t(lang, 'archana_form')} pauseText={t(lang, 'pause')} />
+          <PlayButton variant="pill" tts={n.archana} src={n.audio.archana} rate={0.8} playText={t(lang, 'archana_form')} pauseText={t(lang, 'pause')} />
         </div>
         {n.syllables.length > 0 && (
           <div class="syllables">

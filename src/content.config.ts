@@ -49,7 +49,7 @@ const names = defineCollection({
       scriptOverrides,
       archanaOverrides: scriptOverrides,
       audio: z
-        .object({ chant: text.nullable(), slow: text.nullable() })
+        .object({ chant: text.nullable(), slow: text.nullable(), archana: text.nullable().optional() })
         .strict()
         .default({ chant: null, slow: null }),
       review: z

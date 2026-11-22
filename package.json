@@ -7,6 +7,7 @@
   "scripts": {
     "dev": "astro dev",
     "validate": "node scripts/validate-content.mjs",
+    "audio:prepare": "node scripts/prepare-audio.mjs",
     "test": "node --test \"tests/**/*.test.mjs\"",
     "build": "node scripts/validate-content.mjs && astro build",
     "preview": "astro preview"

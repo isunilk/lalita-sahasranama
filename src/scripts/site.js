@@ -1,4 +1,5 @@
 // Browser behaviour: language buttons, audio buttons and the names search.
+import { dailyNameIndex, millisecondsUntilIndiaMidnight } from '../lib/daily-name.mjs';
 
 const STORE_KEY = 'lsn-read-in';
 
@@ -25,20 +26,28 @@ try {
 } catch {
   pageData = null;
 }
+let currentLang = pageData?.lang || 'en';
 
 // ---- Language buttons -------------------------------------------------------
 function applyLang(code, { save = true } = {}) {
   if (!pageData || !pageData.strings) return;
+  currentLang = code;
   let fellBack = false;
   document.querySelectorAll('[data-t]').forEach((el) => {
     const entry = pageData.strings[el.dataset.t]?.[code];
     if (!entry) return;
     el.textContent = entry[0];
     el.setAttribute('lang', entry[1]);
+    if (entry[3] !== undefined) {
+      el.classList.remove('size-m', 'size-l', 'size-xl');
+      if (entry[3]) el.classList.add(entry[3]);
+    }
     if (entry[2]) fellBack = true;
   });
   document.querySelectorAll('[data-en-line]').forEach((el) => {
-    const entry = pageData.strings[el.dataset.enLine]?.[code];
+    const translations = pageData.strings[el.dataset.enLine];
+    const entry = translations?.[code];
+    if (translations?.en) el.textContent = translations.en[0];
     el.hidden = code === 'en' || !entry || entry[2] === 1;
   });
   const note = document.querySelector('[data-fallback-note]');
@@ -139,6 +148,58 @@ document.addEventListener('click', (event) => {
 });
 
 window.addEventListener('pagehide', stopAudio);
+
+// ---- Today's name ------------------------------------------------------------
+const dailyHero = document.querySelector('[data-daily-name]');
+if (dailyHero && pageData?.dailyName?.numbers?.length) {
+  const { numbers, numberLabel } = pageData.dailyName;
+  const selectedNumber = () => numbers[dailyNameIndex(numbers.length)];
+  let loading = false;
+  let timer;
+
+  async function refreshDailyName() {
+    if (loading) return;
+    clearTimeout(timer);
+    const number = selectedNumber();
+    let retry = false;
+    loading = true;
+    try {
+      if (Number(dailyHero.dataset.dailyName) !== number) {
+        const response = await fetch(`/daily-name/${number}.json`);
+        if (!response.ok) throw new Error(String(response.status));
+        const name = await response.json();
+        if (name.number !== number || !name.strings) throw new Error('Invalid daily name');
+        // A request started before midnight must not replace the next day's name.
+        if (number === selectedNumber()) {
+          if (current && dailyHero.contains(current.btn)) stopAudio();
+          Object.assign(pageData.strings, name.strings);
+          dailyHero.querySelector('[data-daily-number]').textContent = numberLabel.replace('{n}', String(number));
+          dailyHero.querySelector('[data-daily-iast]').textContent = name.iastSplit;
+          dailyHero.querySelector('[data-daily-link]').href = name.hrefs[pageData.lang] || name.hrefs.en;
+          const button = dailyHero.querySelector('[data-daily-audio] [data-play]');
+          button.dataset.tts = name.tts;
+          if (name.audio) button.dataset.src = name.audio;
+          else delete button.dataset.src;
+          dailyHero.dataset.dailyName = String(number);
+          applyLang(currentLang, { save: false });
+        }
+      }
+    } catch {
+      retry = true; // Keep the rendered name usable and retry after a connection failure.
+    } finally {
+      loading = false;
+      const changedDuringRequest = number !== selectedNumber();
+      timer = setTimeout(refreshDailyName, changedDuringRequest ? 0 : retry ? 60_000 : millisecondsUntilIndiaMidnight() + 50);
+    }
+  }
+
+  refreshDailyName();
+  document.addEventListener('visibilitychange', () => {
+    if (!document.hidden) refreshDailyName();
+  });
+  window.addEventListener('pageshow', refreshDailyName);
+  window.addEventListener('online', refreshDailyName);
+}
 
 // ---- Names search ------------------------------------------------------------
 // Each list item's value is its name number. The full search text (every script and language)

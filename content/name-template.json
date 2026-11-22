@@ -15,6 +15,6 @@
   "story": { "en": "Kathā: the story or context behind the name, and how commentators read it.", "hi": "कथा" },
   "commentary": null,
   "sources": [],
-  "audio": { "chant": null, "slow": null },
+  "audio": { "chant": null, "slow": null, "archana": null },
   "review": { "status": "draft", "notes": "What you used to write this, and anything a reviewer should check." }
 }

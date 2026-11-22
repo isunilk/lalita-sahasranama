@@ -6,6 +6,10 @@
   "trailingSlash": true,
   "headers": [
     {
+      "source": "/daily-name/(.*)",
+      "headers": [{ "key": "X-Robots-Tag", "value": "noindex" }]
+    },
+    {
       "source": "/_astro/(.*)",
       "headers": [{ "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }]
     },

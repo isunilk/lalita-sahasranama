@@ -48,14 +48,25 @@ other languages or correct names, one verse or a small batch at a time.
 ## Audio
 
 Put recordings in `public/audio/`, for example `public/audio/chant/0004.mp3`, and set
-`"audio": { "chant": "/audio/chant/0004.mp3", "slow": "/audio/slow/0004.mp3" }` in the name file.
+`"audio": { "chant": "/audio/chant/0004.mp3", "slow": "/audio/slow/0004.mp3", "archana": "/audio/archana/0004.mp3" }` in the name file.
 Until a name has recordings, its buttons use the visitor's device voice for Hindi, where available.
+
+For human Sanskrit recording sessions, run `npm run audio:prepare` (or append `-- /path/to/output`).
+It generates a recording brief, a numbered transcript and a JSON manifest directly from all
+1000 name files. Start with the first ten names for pronunciation review, then record the
+remaining names. The generated pack does not publish recordings or change any name content.
 
 ## Deploying
 
 Any static host works (Cloudflare Pages, Netlify, Vercel, GitHub Pages): build command
-`npm run build`, output folder `dist`. "Today's name" on the home page is chosen when the site
-is built, so schedule one rebuild a day (most hosts offer a deploy hook you can call on a schedule).
+`npm run build`, output folder `dist`. "Today's name" uses a shared shuffled order of all
+1000 names and changes at midnight India time. The browser keeps the featured name, meaning,
+archana, pronunciation and link current without daily rebuilds, including when a page stays
+open overnight. It fetches only the selected name's small static JSON file. Without JavaScript,
+the home page retains the name selected when the site was built.
+
+Every public HTML page has explicit `index, follow` robots metadata, canonical and language
+alternate links, Open Graph tags and Twitter card tags. The 404 page uses `noindex, follow`.
 
 `vercel.json` is set up for Vercel: it redirects `/name/x` to `/name/x/` so Google sees one address
 per page, and lets browsers keep the fonts, CSS and scripts in `/_astro/` for a year. Elsewhere,

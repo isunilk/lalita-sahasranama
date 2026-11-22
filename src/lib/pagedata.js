@@ -13,7 +13,8 @@ export const HEADS = {
   shravana: { dev: 'श्रवण', iast: 'Śravaṇa', te: 'శ్రవణం', ta: 'ஶ்ரவணம்', kn: 'ಶ್ರವಣ', ml: 'ശ്രവണം', bn: 'শ্রবণ', gu: 'શ્રવણ', or: 'ଶ୍ରବଣ' },
 };
 
-// Language-switch data: for every language, [text, lang attribute, 1 if it fell back to English].
+// Language-switch data: [text, lang attribute, 1 if it fell back to English].
+// The home-page name also carries its text-size class as an optional fourth value.
 export function perLang(fn) {
   const out = {};
   for (const l of LANGS) out[l.code] = fn(l);
@@ -82,6 +83,24 @@ export const nameAlternates = (n) => PAGE_LANGS.filter((l) => hasFullContent(n, 
 
 export const bestNameUrl = (n, lang) => (PAGE_LANGS.some((l) => l.code === lang) && hasFullContent(n, lang) ? nameUrl(n, lang) : nameUrl(n, 'en'));
 export const bestVerseUrl = (v, lang) => (PAGE_LANGS.some((l) => l.code === lang) && verseHasLanguage(v.names, lang) ? verseUrl(v.number, lang) : verseUrl(v.number, 'en'));
+
+// The small amount of name content needed to refresh the home-page feature.
+export function homeNameData(n) {
+  const name = scr(n.s);
+  for (const entry of Object.values(name)) entry.push(nameSizeClass(entry[0]));
+  return {
+    number: n.number,
+    iastSplit: n.iastSplit,
+    tts: n.devanagari,
+    audio: n.audio.chant,
+    hrefs: Object.fromEntries(PAGE_LANGS.map((l) => [l.code, bestNameUrl(n, l.code)])),
+    strings: {
+      'hero.name': name,
+      'hero.meaning': txt(n.meaning),
+      'hero.archana': scr(n.a, { enIast: true }),
+    },
+  };
+}
 
 // Language buttons: other page languages are real links (Google can follow them);
 // the rest switch the text in place.
