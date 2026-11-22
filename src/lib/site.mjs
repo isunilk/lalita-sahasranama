@@ -3,7 +3,7 @@
 export const SITE = {
   name: 'Lalitā Sahasranāma',
   domain: 'lalitasahasranama.com',
-  origin: 'https://lalitasahasranama.com',
+  origin: 'https://www.lalitasahasranama.com',
   totalNames: 1000,
   totalVerses: 183,
 };

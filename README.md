@@ -61,11 +61,19 @@ is built, so schedule one rebuild a day (most hosts offer a deploy hook you can 
 per page, and lets browsers keep the fonts, CSS and scripts in `/_astro/` for a year. Elsewhere,
 set the same two things in that host's settings.
 
-After the first deploy, add the domain in Google Search Console and submit
-`https://lalitasahasranama.com/sitemap.xml`.
+The Vercel project is **lalita-sahasranama** in the **Cosmos** team, connected to this
+repository's `main` branch. The primary address is `https://www.lalitasahasranama.com`;
+the root domain redirects to it permanently. DNS is managed at Spaceship, with the
+project-specific A and CNAME records provided by Vercel.
+
+Google Search Console uses the **lalitasahasranama.com** Domain property under
+`illumind.software@gmail.com`, which covers both the root and `www` addresses. Keep its
+verification TXT record in Spaceship. The sitemap is
+`https://www.lalitasahasranama.com/sitemap.xml`; `public/robots.txt` also advertises that URL.
 
 Google Analytics uses the **Lalita Sahasranama** GA4 property in the **Illumind Software LLP**
-account (`illumind.software@gmail.com`), with web stream ID `16390848991` and measurement ID
+account (`illumind.software@gmail.com`), with property ID `565436143`, web stream ID
+`16390848991` and measurement ID
 `G-KZNP849N20`. The tag lives in `src/components/GoogleAnalytics.astro`, included by the shared
 layout. It sends data only from the production hostname, so localhost and Vercel preview
 deployments do not affect the reports. Reporting uses India Time and INR.
