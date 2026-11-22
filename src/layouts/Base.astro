@@ -6,6 +6,7 @@ import devanagariFont from '@fontsource/tiro-devanagari-sanskrit/files/tiro-deva
 import textFont from '@fontsource/eb-garamond/files/eb-garamond-latin-400-normal.woff2?url';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import GoogleAnalytics from '../components/GoogleAnalytics.astro';
 import { SITE } from '../lib/site.mjs';
 import { t } from '../i18n/ui.mjs';
 
@@ -22,6 +23,7 @@ const shareImage = abs('/og-image.jpg');
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <GoogleAnalytics />
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />

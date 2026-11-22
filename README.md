@@ -64,6 +64,12 @@ set the same two things in that host's settings.
 After the first deploy, add the domain in Google Search Console and submit
 `https://lalitasahasranama.com/sitemap.xml`.
 
+Google Analytics uses the **Lalita Sahasranama** GA4 property in the **Illumind Software LLP**
+account (`illumind.software@gmail.com`), with web stream ID `16390848991` and measurement ID
+`G-KZNP849N20`. The tag lives in `src/components/GoogleAnalytics.astro`, included by the shared
+layout. It sends data only from the production hostname, so localhost and Vercel preview
+deployments do not affect the reports. Reporting uses India Time and INR.
+
 ## Fonts, icons and the share picture
 
 Fonts come from the `@fontsource` packages and are served by the site itself (`src/styles/fonts.css`).

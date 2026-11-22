@@ -1,0 +1,26 @@
+---
+import { SITE } from '../lib/site.mjs';
+
+// Public GA4 web-stream ID for the Lalita Sahasranama property.
+const measurementId = 'G-KZNP849N20';
+const productionHostname = new URL(SITE.origin).hostname;
+---
+
+{import.meta.env.PROD && (
+  <script is:inline define:vars={{ measurementId, productionHostname }}>
+    // Keep local development and Vercel preview visits out of the live reports.
+    if (window.location.hostname === productionHostname) {
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = function () {
+        window.dataLayer.push(arguments);
+      };
+      window.gtag('js', new Date());
+      window.gtag('config', measurementId);
+
+      const tag = document.createElement('script');
+      tag.async = true;
+      tag.src = 'https://www.googletagmanager.com/gtag/js?id=' + measurementId;
+      document.head.appendChild(tag);
+    }
+  </script>
+)}
